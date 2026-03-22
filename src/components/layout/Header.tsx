@@ -1,10 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
-import { Search, Menu, X } from "lucide-react";
+import { useState, useEffect } from "react";
+import { Search, Menu, X, User, LogOut } from "lucide-react";
 import { DarkModeToggle } from "@/components/shared/DarkModeToggle";
 import { MobileNav } from "./MobileNav";
+import { createClient } from "@/lib/supabase/client";
+import type { User as SupabaseUser } from "@supabase/supabase-js";
 
 const navLinks = [
   { href: "/venues", label: "Browse Venues" },
@@ -13,6 +15,27 @@ const navLinks = [
 
 export function Header() {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
+  const [user, setUser] = useState<SupabaseUser | null>(null);
+  const supabase = createClient();
+
+  useEffect(() => {
+    supabase.auth.getUser().then(({ data: { user } }) => {
+      setUser(user);
+    });
+
+    const {
+      data: { subscription },
+    } = supabase.auth.onAuthStateChange((_event, session) => {
+      setUser(session?.user ?? null);
+    });
+
+    return () => subscription.unsubscribe();
+  }, [supabase.auth]);
+
+  const handleSignOut = async () => {
+    await supabase.auth.signOut();
+    window.location.href = "/";
+  };
 
   return (
     <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
@@ -38,6 +61,14 @@ export function Header() {
                 {link.label}
               </Link>
             ))}
+            {user && (
+              <Link
+                href="/submit"
+                className="text-sm font-medium text-accent hover:text-accent-hover transition-colors min-h-[44px] flex items-center"
+              >
+                Submit Review
+              </Link>
+            )}
           </nav>
 
           {/* Desktop actions */}
@@ -50,6 +81,32 @@ export function Header() {
               <Search className="h-5 w-5" />
             </Link>
             <DarkModeToggle />
+
+            {user ? (
+              <div className="flex items-center gap-2">
+                <Link
+                  href="/profile"
+                  className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
+                  aria-label="Your profile"
+                >
+                  <User className="h-5 w-5" />
+                </Link>
+                <button
+                  onClick={handleSignOut}
+                  className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
+                  aria-label="Sign out"
+                >
+                  <LogOut className="h-5 w-5" />
+                </button>
+              </div>
+            ) : (
+              <Link
+                href="/login"
+                className="px-4 py-2 bg-accent text-white font-medium rounded-lg hover:bg-accent-hover transition-colors min-h-[44px] flex items-center text-sm"
+              >
+                Sign In
+              </Link>
+            )}
           </div>
 
           {/* Mobile menu button */}
@@ -73,7 +130,7 @@ export function Header() {
       </div>
 
       {/* Mobile nav */}
-      <MobileNav open={mobileNavOpen} onClose={() => setMobileNavOpen(false)} />
+      <MobileNav open={mobileNavOpen} onClose={() => setMobileNavOpen(false)} user={user} onSignOut={handleSignOut} />
     </header>
   );
 }

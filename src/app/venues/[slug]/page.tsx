@@ -9,7 +9,6 @@ import {
   Phone,
   Globe,
   Star,
-  Map,
 } from "lucide-react";
 import { getVenueBySlug, getVenues } from "@/lib/data";
 import {
@@ -21,6 +20,7 @@ import { AccessibilityRatingBadge } from "@/components/ui/AccessibilityRatingBad
 import { AccessibilityDetailCard } from "@/components/venue/AccessibilityDetailCard";
 import { PhotoGallery } from "@/components/venue/PhotoGallery";
 import { MobilityTips } from "@/components/venue/MobilityTips";
+import { VenueMap } from "@/components/venue/VenueMap";
 import { formatDate } from "@/lib/utils";
 
 export async function generateStaticParams() {
@@ -351,15 +351,22 @@ export default async function VenueDetailPage({
               />
             )}
 
-            {/* Map Placeholder */}
-            <div className="bg-card border border-border rounded-xl overflow-hidden">
-              <div className="aspect-[4/3] bg-muted flex items-center justify-center">
-                <div className="text-center text-muted-foreground">
-                  <Map className="h-10 w-10 mx-auto mb-2" aria-hidden="true" />
-                  <p className="text-sm">Map coming soon</p>
-                </div>
-              </div>
-            </div>
+            {/* Map */}
+            <VenueMap
+              venues={[
+                {
+                  id: venue.id,
+                  name: venue.name,
+                  slug: venue.slug,
+                  latitude: venue.latitude,
+                  longitude: venue.longitude,
+                  overall_rating: venue.overall_rating,
+                  city: venue.city,
+                  state: venue.state,
+                },
+              ]}
+              single
+            />
 
             {/* Venue Info */}
             <div className="bg-card border border-border rounded-xl p-5">

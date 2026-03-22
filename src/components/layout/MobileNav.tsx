@@ -3,27 +3,23 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
-import { MapPin, Info, Search } from "lucide-react";
-
-const navItems = [
-  { href: "/venues", label: "Browse Venues", icon: MapPin },
-  { href: "/about", label: "About", icon: Info },
-];
+import { MapPin, Info, Search, PenSquare, User, LogIn, LogOut } from "lucide-react";
+import type { User as SupabaseUser } from "@supabase/supabase-js";
 
 interface MobileNavProps {
   open: boolean;
   onClose: () => void;
+  user: SupabaseUser | null;
+  onSignOut: () => void;
 }
 
-export function MobileNav({ open, onClose }: MobileNavProps) {
+export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
   const pathname = usePathname();
 
-  // Close on route change
   useEffect(() => {
     onClose();
   }, [pathname, onClose]);
 
-  // Trap body scroll when open
   useEffect(() => {
     if (open) {
       document.body.style.overflow = "hidden";
@@ -52,26 +48,70 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
           <Search className="h-5 w-5" aria-hidden="true" />
           Search Venues
         </Link>
-        {navItems.map((item) => {
-          const Icon = item.icon;
-          const isActive = pathname === item.href;
-          return (
+        <Link
+          href="/venues"
+          className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
+            pathname === "/venues"
+              ? "bg-accent/10 text-accent font-medium"
+              : "text-muted-foreground hover:text-foreground hover:bg-muted"
+          }`}
+          onClick={onClose}
+        >
+          <MapPin className="h-5 w-5" aria-hidden="true" />
+          Browse Venues
+        </Link>
+        <Link
+          href="/about"
+          className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
+            pathname === "/about"
+              ? "bg-accent/10 text-accent font-medium"
+              : "text-muted-foreground hover:text-foreground hover:bg-muted"
+          }`}
+          onClick={onClose}
+        >
+          <Info className="h-5 w-5" aria-hidden="true" />
+          About
+        </Link>
+
+        {/* Divider */}
+        <div className="h-px bg-border my-2" />
+
+        {user ? (
+          <>
             <Link
-              key={item.href}
-              href={item.href}
-              className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
-                isActive
-                  ? "bg-accent/10 text-accent font-medium"
-                  : "text-muted-foreground hover:text-foreground hover:bg-muted"
-              }`}
+              href="/submit"
+              className="flex items-center gap-3 px-3 py-3 rounded-lg text-accent hover:bg-accent/10 transition-colors min-h-[44px] font-medium"
               onClick={onClose}
-              aria-current={isActive ? "page" : undefined}
             >
-              <Icon className="h-5 w-5" aria-hidden="true" />
-              {item.label}
+              <PenSquare className="h-5 w-5" aria-hidden="true" />
+              Submit Review
             </Link>
-          );
-        })}
+            <Link
+              href="/profile"
+              className="flex items-center gap-3 px-3 py-3 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px]"
+              onClick={onClose}
+            >
+              <User className="h-5 w-5" aria-hidden="true" />
+              Profile
+            </Link>
+            <button
+              onClick={() => { onSignOut(); onClose(); }}
+              className="flex items-center gap-3 px-3 py-3 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] w-full text-left"
+            >
+              <LogOut className="h-5 w-5" aria-hidden="true" />
+              Sign Out
+            </button>
+          </>
+        ) : (
+          <Link
+            href="/login"
+            className="flex items-center gap-3 px-3 py-3 rounded-lg text-accent hover:bg-accent/10 transition-colors min-h-[44px] font-medium"
+            onClick={onClose}
+          >
+            <LogIn className="h-5 w-5" aria-hidden="true" />
+            Sign In
+          </Link>
+        )}
       </div>
     </nav>
   );

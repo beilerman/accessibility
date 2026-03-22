@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Search } from "lucide-react";
+import { Search, LayoutGrid, Map as MapIcon } from "lucide-react";
 import { filterVenues, searchVenues, getUniqueCities, getVenuePhoto } from "@/lib/data";
 import type { AccessibilityRating } from "@/types/database";
 import { VenueCard } from "@/components/venue/VenueCard";
 import { VenueFilters } from "@/components/venue/VenueFilters";
 import { SearchBar } from "@/components/layout/SearchBar";
+import { VenueMap } from "@/components/venue/VenueMap";
 
 export const metadata: Metadata = {
   title: "Browse Accessible Venues | AccessReview",
@@ -25,6 +26,7 @@ export default async function VenuesPage({
   const city = typeof params.city === "string" ? params.city : "";
   const rating = typeof params.rating === "string" ? params.rating : "";
   const features = typeof params.features === "string" ? params.features : "";
+  const view = params.view === "map" ? "map" : "grid";
 
   const cities = await getUniqueCities();
 
@@ -94,22 +96,99 @@ export default async function VenuesPage({
         {resultText}
       </div>
 
-      {/* Visible result count */}
-      <p className="mb-6 text-sm font-medium text-muted-foreground">{resultText}</p>
+      {/* Result count + view toggle */}
+      <div className="mb-6 flex items-center justify-between">
+        <p className="text-sm font-medium text-muted-foreground">{resultText}</p>
+
+        {/* View toggle */}
+        <div className="flex items-center gap-1 rounded-lg border border-border bg-card p-1" role="radiogroup" aria-label="View mode">
+          <Link
+            href={(() => {
+              const sp = new URLSearchParams();
+              if (q) sp.set("q", q);
+              if (category) sp.set("category", category);
+              if (city) sp.set("city", city);
+              if (rating) sp.set("rating", rating);
+              if (features) sp.set("features", features);
+              const qs = sp.toString();
+              return `/venues${qs ? `?${qs}` : ""}`;
+            })()}
+            className={`inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-medium transition-colors min-h-[36px] ${
+              view === "grid"
+                ? "bg-accent text-white"
+                : "text-muted-foreground hover:text-foreground"
+            }`}
+            role="radio"
+            aria-checked={view === "grid"}
+            aria-label="Grid view"
+          >
+            <LayoutGrid className="h-4 w-4" aria-hidden="true" />
+            <span className="hidden sm:inline">Grid</span>
+          </Link>
+          <Link
+            href={(() => {
+              const sp = new URLSearchParams();
+              sp.set("view", "map");
+              if (q) sp.set("q", q);
+              if (category) sp.set("category", category);
+              if (city) sp.set("city", city);
+              if (rating) sp.set("rating", rating);
+              if (features) sp.set("features", features);
+              return `/venues?${sp.toString()}`;
+            })()}
+            className={`inline-flex items-center gap-1.5 rounded-md px-3 py-1.5 text-sm font-medium transition-colors min-h-[36px] ${
+              view === "map"
+                ? "bg-accent text-white"
+                : "text-muted-foreground hover:text-foreground"
+            }`}
+            role="radio"
+            aria-checked={view === "map"}
+            aria-label="Map view"
+          >
+            <MapIcon className="h-4 w-4" aria-hidden="true" />
+            <span className="hidden sm:inline">Map</span>
+          </Link>
+        </div>
+      </div>
 
       {/* Main layout: sidebar filters + card grid */}
       <div className="lg:flex lg:gap-8">
         {/* Filters: collapsible on mobile, sticky sidebar on desktop */}
         <VenueFilters cities={cities} />
 
-        {/* Results grid */}
+        {/* Results */}
         <div className="flex-1 min-w-0">
           {venues.length > 0 ? (
-            <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
-              {venues.map((venue) => (
-                <VenueCard key={venue.id} venue={venue} photoUrl={photoMap.get(venue.id)} />
-              ))}
-            </div>
+            <>
+              {/* Map view */}
+              {view === "map" && (
+                <VenueMap
+                  venues={venues.map((v) => ({
+                    id: v.id,
+                    name: v.name,
+                    slug: v.slug,
+                    latitude: v.latitude,
+                    longitude: v.longitude,
+                    overall_rating: v.overall_rating,
+                    city: v.city,
+                    state: v.state,
+                  }))}
+                  className="mb-8"
+                />
+              )}
+
+              {/* Card grid (always rendered for accessibility as text alternative) */}
+              <div
+                className={view === "map" ? "sr-only" : undefined}
+                aria-hidden={view === "map" ? "false" : undefined}
+              >
+                <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+                  {venues.map((venue) => (
+                    <VenueCard key={venue.id} venue={venue} photoUrl={photoMap.get(venue.id)} />
+                  ))}
+                </div>
+              </div>
+            </>
           ) : (
             <div className="flex flex-col items-center justify-center rounded-xl border border-border bg-card px-6 py-16 text-center">
               <Search
