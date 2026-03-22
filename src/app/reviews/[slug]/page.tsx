@@ -43,7 +43,7 @@ function renderReviewBody(body: string) {
 // --- Static params ---
 
 export async function generateStaticParams() {
-  const allVenues = getVenues();
+  const allVenues = await getVenues();
   return allVenues
     .filter((v) => v.has_editorial_review)
     .map((v) => ({ slug: v.slug }));
@@ -57,7 +57,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const venue = getVenueBySlug(slug);
+  const venue = await getVenueBySlug(slug);
   if (!venue) return { title: "Review Not Found" };
 
   const review = venue.reviews.find((r) => r.is_editorial);
@@ -86,14 +86,14 @@ export default async function EditorialReviewPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const venue = getVenueBySlug(slug);
+  const venue = await getVenueBySlug(slug);
   if (!venue) notFound();
 
   const editorialReview = venue.reviews.find((r) => r.is_editorial);
   if (!editorialReview) notFound();
 
   // Get full review with author data
-  const allEditorial = getEditorialReviews();
+  const allEditorial = await getEditorialReviews();
   const review = allEditorial.find((r) => r.id === editorialReview.id);
   if (!review) notFound();
 

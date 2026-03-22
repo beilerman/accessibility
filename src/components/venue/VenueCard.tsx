@@ -3,16 +3,14 @@ import { MapPin } from "lucide-react";
 import type { Venue } from "@/types/database";
 import { CATEGORY_LABELS } from "@/types/database";
 import { AccessibilityRatingBadge } from "@/components/ui/AccessibilityRatingBadge";
-import { getVenuePhoto } from "@/lib/data";
 
 interface VenueCardProps {
   venue: Venue;
   excerpt?: string;
+  photoUrl?: string;
 }
 
-export function VenueCard({ venue, excerpt }: VenueCardProps) {
-  const photo = getVenuePhoto(venue.id);
-
+export function VenueCard({ venue, excerpt, photoUrl }: VenueCardProps) {
   return (
     <article
       className="group bg-card rounded-xl border border-border overflow-hidden hover:border-accent/50 transition-colors"
@@ -20,9 +18,9 @@ export function VenueCard({ venue, excerpt }: VenueCardProps) {
     >
       {/* Photo */}
       <div className="aspect-[16/10] bg-muted overflow-hidden">
-        {photo ? (
+        {photoUrl ? (
           <img
-            src={photo}
+            src={photoUrl}
             alt={`${venue.name} exterior view`}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
             loading="lazy"

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getFeaturedReview, getEditorialReviews } from "@/lib/data";
+import { getFeaturedReview, getEditorialReviews, getVenuePhoto } from "@/lib/data";
 import { VenueCard } from "@/components/venue/VenueCard";
 import { NewsletterSignup } from "@/components/shared/NewsletterSignup";
 import { HeroSection } from "@/components/home/HeroSection";
@@ -19,9 +19,18 @@ export const metadata: Metadata = {
   },
 };
 
-export default function Home() {
-  const featuredReview = getFeaturedReview();
-  const editorialReviews = getEditorialReviews().slice(0, 6);
+export default async function Home() {
+  const featuredReview = await getFeaturedReview();
+  const editorialReviews = (await getEditorialReviews()).slice(0, 6);
+
+  // Pre-fetch photos for venue cards
+  const photoMap = new Map<string, string>();
+  await Promise.all(
+    editorialReviews.map(async (r) => {
+      const photo = await getVenuePhoto(r.venue.id);
+      if (photo) photoMap.set(r.venue.id, photo);
+    })
+  );
 
   return (
     <div className="flex flex-col">
@@ -47,6 +56,7 @@ export default function Home() {
                   key={review.id}
                   venue={review.venue}
                   excerpt={review.excerpt}
+                  photoUrl={photoMap.get(review.venue.id)}
                 />
               ))}
             </div>

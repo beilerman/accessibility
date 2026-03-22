@@ -24,7 +24,7 @@ import { MobilityTips } from "@/components/venue/MobilityTips";
 import { formatDate } from "@/lib/utils";
 
 export async function generateStaticParams() {
-  const venues = getVenues();
+  const venues = await getVenues();
   return venues.map((v) => ({ slug: v.slug }));
 }
 
@@ -34,7 +34,7 @@ export async function generateMetadata({
   params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
   const { slug } = await params;
-  const venue = getVenueBySlug(slug);
+  const venue = await getVenueBySlug(slug);
   if (!venue) return {};
 
   const categoryLabel = CATEGORY_LABELS[venue.category];
@@ -151,7 +151,7 @@ export default async function VenueDetailPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const venue = getVenueBySlug(slug);
+  const venue = await getVenueBySlug(slug);
 
   if (!venue) {
     notFound();

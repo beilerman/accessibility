@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Search } from "lucide-react";
-import { filterVenues, searchVenues, getUniqueCities } from "@/lib/data";
+import { filterVenues, searchVenues, getUniqueCities, getVenuePhoto } from "@/lib/data";
 import type { AccessibilityRating } from "@/types/database";
 import { VenueCard } from "@/components/venue/VenueCard";
 import { VenueFilters } from "@/components/venue/VenueFilters";
@@ -26,14 +26,14 @@ export default async function VenuesPage({
   const rating = typeof params.rating === "string" ? params.rating : "";
   const features = typeof params.features === "string" ? params.features : "";
 
-  const cities = getUniqueCities();
+  const cities = await getUniqueCities();
 
   // Parse multi-value params
   const categoryList = category ? category.split(",").filter(Boolean) : [];
   const featureList = features ? features.split(",").filter(Boolean) : [];
 
   // Determine venues: start from search or full list, then apply filters
-  let venues = q ? searchVenues(q) : filterVenues({});
+  let venues = q ? await searchVenues(q) : await filterVenues({});
 
   // Apply sidebar filters
   if (city) {
@@ -46,12 +46,19 @@ export default async function VenuesPage({
     venues = venues.filter((v) => categoryList.includes(v.category));
   }
   if (featureList.length > 0) {
-    // Use filterVenues for feature matching (it checks accessibility_details)
-    const featureMatchIds = new Set(
-      filterVenues({ features: featureList }).map((v) => v.id),
-    );
+    const featureMatched = await filterVenues({ features: featureList });
+    const featureMatchIds = new Set(featureMatched.map((v) => v.id));
     venues = venues.filter((v) => featureMatchIds.has(v.id));
   }
+
+  // Pre-fetch photos
+  const photoMap = new Map<string, string>();
+  await Promise.all(
+    venues.map(async (v) => {
+      const photo = await getVenuePhoto(v.id);
+      if (photo) photoMap.set(v.id, photo);
+    })
+  );
 
   // Build result count text
   let resultText: string;
@@ -100,7 +107,7 @@ export default async function VenuesPage({
           {venues.length > 0 ? (
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
               {venues.map((venue) => (
-                <VenueCard key={venue.id} venue={venue} />
+                <VenueCard key={venue.id} venue={venue} photoUrl={photoMap.get(venue.id)} />
               ))}
             </div>
           ) : (
