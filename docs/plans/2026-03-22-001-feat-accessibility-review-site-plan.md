@@ -1,7 +1,7 @@
 ---
 title: "feat: Build Accessibility Review Website"
 type: feat
-status: active
+status: completed
 date: 2026-03-22
 origin: C:/Users/medpe/Downloads/access-review-site-claude-code-prompt.md
 ---
