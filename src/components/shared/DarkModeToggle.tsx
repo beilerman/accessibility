@@ -13,7 +13,7 @@ export function DarkModeToggle() {
   if (!mounted) {
     return (
       <button
-        className="p-2 rounded-lg bg-muted"
+        className="p-2 rounded-lg bg-muted min-h-[44px] min-w-[44px] flex items-center justify-center"
         aria-label="Toggle dark mode"
       >
         <Sun className="h-5 w-5" />
@@ -24,7 +24,7 @@ export function DarkModeToggle() {
   return (
     <button
       onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-      className="p-2 rounded-lg bg-muted hover:bg-border transition-colors"
+      className="p-2 rounded-lg bg-muted hover:bg-border transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
       aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
     >
       {theme === "dark" ? (

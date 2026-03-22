@@ -12,6 +12,13 @@ import { ReviewCard } from "@/components/review/ReviewCard";
 
 // --- Body renderer ---
 
+function renderBoldText(text: string): React.ReactNode[] {
+  const parts = text.split(/\*\*(.*?)\*\*/g);
+  return parts.map((part, j) =>
+    j % 2 === 1 ? <strong key={j}>{part}</strong> : part
+  );
+}
+
 function renderReviewBody(body: string) {
   const paragraphs = body.split("\n\n");
   return paragraphs.map((p, i) => {
@@ -25,13 +32,10 @@ function renderReviewBody(body: string) {
         </h2>
       );
     }
-    const html = p.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
     return (
-      <p
-        key={i}
-        className="mb-4 leading-relaxed"
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
+      <p key={i} className="mb-4 leading-relaxed">
+        {renderBoldText(p)}
+      </p>
     );
   });
 }
@@ -157,10 +161,10 @@ export default async function EditorialReviewPage({
             </li>
             <li>
               <Link
-                href="/"
+                href="/venues"
                 className="hover:text-foreground transition-colors"
               >
-                Reviews
+                Venues
               </Link>
             </li>
             <li aria-hidden="true">

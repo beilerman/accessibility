@@ -44,7 +44,7 @@ export function Header() {
           <div className="hidden md:flex items-center gap-3">
             <Link
               href="/venues"
-              className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors"
+              className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
               aria-label="Search venues"
             >
               <Search className="h-5 w-5" />

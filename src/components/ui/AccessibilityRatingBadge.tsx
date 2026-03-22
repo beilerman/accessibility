@@ -34,8 +34,7 @@ export function AccessibilityRatingBadge({
   return (
     <span
       className={cn("inline-flex items-center font-semibold", colorClass, s.badge, className)}
-      role="img"
-      aria-label={`Accessibility rating: ${label}`}
+      {...(size === "sm" ? { role: "img", "aria-label": `Accessibility rating: ${label}` } : {})}
     >
       <Icon className={s.icon} aria-hidden="true" />
       {size !== "sm" && <span>{label}</span>}

@@ -93,6 +93,7 @@ export function getUniqueCities(): string[] {
 export function getEditorialReviews(): ReviewWithAuthor[] {
   return reviews
     .filter((r) => r.is_editorial && r.published)
+    .filter((r) => profiles.some((p) => p.id === r.author_id) && venues.some((v) => v.id === r.venue_id))
     .map((r) => ({
       ...r,
       author: profiles.find((p) => p.id === r.author_id)!,
@@ -105,11 +106,14 @@ export function getEditorialReviews(): ReviewWithAuthor[] {
 export function getFeaturedReview(): ReviewWithAuthor | null {
   const featured = reviews.find((r) => r.is_editorial && r.featured && r.published);
   if (!featured) return null;
+  const author = profiles.find((p) => p.id === featured.author_id);
+  const venue = venues.find((v) => v.id === featured.venue_id);
+  if (!author || !venue) return null;
   return {
     ...featured,
-    author: profiles.find((p) => p.id === featured.author_id)!,
+    author,
     photos: reviewPhotos.filter((p) => p.review_id === featured.id),
-    venue: venues.find((v) => v.id === featured.venue_id)!,
+    venue,
   };
 }
 
