@@ -1,65 +1,69 @@
-import Image from "next/image";
+import type { Metadata } from "next";
+import { getFeaturedReview, getEditorialReviews } from "@/lib/data";
+import { VenueCard } from "@/components/venue/VenueCard";
+import { NewsletterSignup } from "@/components/shared/NewsletterSignup";
+import { HeroSection } from "@/components/home/HeroSection";
+import { FeaturedReview } from "@/components/home/FeaturedReview";
+import { CategoryLinks } from "@/components/home/CategoryLinks";
+import { HowItWorks } from "@/components/home/HowItWorks";
+
+export const metadata: Metadata = {
+  title: "Accessibility Reviews | Greater Cincinnati & Northern Kentucky",
+  description:
+    "Real accessibility reviews by real people with mobility challenges. Find wheelchair-accessible restaurants, shops, and venues in Greater Cincinnati and Northern Kentucky.",
+  openGraph: {
+    title: "Know Before You Go — Accessibility Reviews",
+    description:
+      "Real accessibility reviews by real people with mobility challenges. Greater Cincinnati & Northern Kentucky.",
+    type: "website",
+  },
+};
 
 export default function Home() {
+  const featuredReview = getFeaturedReview();
+  const editorialReviews = getEditorialReviews().slice(0, 6);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+    <div className="flex flex-col">
+      <div className="max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8">
+        {/* Hero */}
+        <HeroSection />
+
+        {/* Featured Review */}
+        {featuredReview && <FeaturedReview review={featuredReview} />}
+
+        {/* Latest Reviews */}
+        {editorialReviews.length > 0 && (
+          <section aria-labelledby="latest-reviews-heading" className="py-12">
+            <h2
+              id="latest-reviews-heading"
+              className="font-display text-2xl sm:text-3xl font-bold mb-8"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+              Latest Reviews
+            </h2>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {editorialReviews.map((review) => (
+                <VenueCard
+                  key={review.id}
+                  venue={review.venue}
+                  excerpt={review.excerpt}
+                />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Category Quick Links */}
+        <CategoryLinks />
+
+        {/* How It Works */}
+        <HowItWorks />
+
+        {/* Newsletter */}
+        <div className="py-12">
+          <NewsletterSignup />
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+      </div>
     </div>
   );
 }
