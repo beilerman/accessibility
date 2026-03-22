@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { redirect } from "next/navigation";
 import { ChevronRight } from "lucide-react";
 import { getVenues } from "@/lib/data";
+import { createClient } from "@/lib/supabase/server";
 import { ReviewForm } from "@/components/review/ReviewForm";
 
 export const metadata: Metadata = {
@@ -11,6 +13,12 @@ export const metadata: Metadata = {
 };
 
 export default async function SubmitReviewPage() {
+  const supabase = await createClient();
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) {
+    redirect("/login?redirect=/submit");
+  }
+
   const venues = await getVenues();
 
   const venueOptions = venues.map((v) => ({
