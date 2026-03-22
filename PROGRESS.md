@@ -14,10 +14,12 @@
 
 ## Phase 2: Database & Data
 - [x] TypeScript types mirroring schema
-- [x] Supabase migration file
-- [x] Mock data (12 venues, 3 editorial reviews)
+- [x] Supabase migration file (applied to ThresholdAccess project)
+- [x] 25 venues seeded (12 original + 13 from Matthew's list)
+- [x] 3 editorial reviews in Matthew's voice
 - [x] Supabase client utilities
-- [x] Data access functions
+- [x] Data access functions (swapped from mock to Supabase)
+- [x] RLS policies enabled on all tables
 
 ## Phase 3: Core Pages
 - [x] Homepage (hero, featured review, latest reviews, categories, how it works, newsletter)
@@ -36,12 +38,29 @@
 - [x] Focus management on route changes
 - [x] Semantic HTML throughout (landmarks, headings, fieldsets)
 - [x] ARIA labels on all interactive elements
-- [x] 44px minimum tap targets
+- [x] 44px minimum tap targets (header, dark mode toggle, gallery buttons)
 - [x] Unsplash image hostname configured in next.config
+- [x] XSS fix: replaced dangerouslySetInnerHTML with safe React rendering
+- [x] Null safety: data lookups guard against missing profiles/venues
 - [x] Production build passes
 
-## Phase 5: Auth & Community (stretch)
-- [ ] Supabase Auth
-- [ ] Profile creation
-- [ ] Review submission
-- [ ] Photo upload
+## Phase 5: Auth & Community (deferred)
+- [ ] Supabase Auth (email + Google OAuth)
+- [ ] proxy.ts for session refresh and auth gates
+- [ ] Profile creation with mobility profile
+- [ ] Community review submission form
+- [ ] Photo upload to Supabase Storage
+- [ ] Review moderation workflow
+
+## Tracked Deferrals
+- [ ] Google Maps integration (@vis.gl/react-google-maps) — requires API key
+- [ ] Automated accessibility tests (vitest-axe + @axe-core/playwright)
+- [ ] VenueCard/FeaturedReview/ReviewCard: swap `<img>` to `next/image` for LCP
+- [ ] Review-specific slugs for 1:many venue-to-review relationship
+- [ ] Footer link 44px tap targets
+- [ ] JSON-LD Review schema on review pages (LocalBusiness done on venue pages)
+
+## Deployment
+- **Live:** https://accessibility-omega-ten.vercel.app
+- **GitHub:** https://github.com/beilerman/accessibility
+- **Supabase:** ThresholdAccess (us-east-1, nzwlruornfchbgakwqgo)
