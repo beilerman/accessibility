@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo, useCallback } from "react";
 import { Search, Menu, X, User, LogOut } from "lucide-react";
 import { DarkModeToggle } from "@/components/shared/DarkModeToggle";
 import { MobileNav } from "./MobileNav";
@@ -16,7 +16,7 @@ const navLinks = [
 export function Header() {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [user, setUser] = useState<SupabaseUser | null>(null);
-  const supabase = createClient();
+  const supabase = useMemo(() => createClient(), []);
 
   useEffect(() => {
     supabase.auth.getUser().then(({ data: { user } }) => {
@@ -32,10 +32,10 @@ export function Header() {
     return () => subscription.unsubscribe();
   }, [supabase.auth]);
 
-  const handleSignOut = async () => {
+  const handleSignOut = useCallback(async () => {
     await supabase.auth.signOut();
     window.location.href = "/";
-  };
+  }, [supabase]);
 
   return (
     <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
