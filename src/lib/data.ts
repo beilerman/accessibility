@@ -18,6 +18,7 @@ export async function getVenues(): Promise<Venue[]> {
   const { data, error } = await supabase
     .from("venues")
     .select("*")
+    .neq("overall_rating", "not_yet_reviewed")
     .order("name");
   if (error) throw error;
   return data ?? [];
@@ -62,7 +63,7 @@ export async function filterVenues(params: {
   rating?: AccessibilityRating | null;
   features?: string[];
 }): Promise<Venue[]> {
-  let query = supabase.from("venues").select("*").order("name");
+  let query = supabase.from("venues").select("*").neq("overall_rating", "not_yet_reviewed").order("name");
 
   if (params.category) {
     query = query.eq("category", params.category);
@@ -113,6 +114,7 @@ export async function searchVenues(query: string): Promise<Venue[]> {
   const { data, error } = await supabase
     .from("venues")
     .select("*")
+    .neq("overall_rating", "not_yet_reviewed")
     .or(`name.ilike.${q},city.ilike.${q},category.ilike.${q}`)
     .order("name");
   if (error) throw error;
@@ -123,6 +125,7 @@ export async function getUniqueCities(): Promise<string[]> {
   const { data, error } = await supabase
     .from("venues")
     .select("city")
+    .neq("overall_rating", "not_yet_reviewed")
     .order("city");
   if (error) throw error;
   return [...new Set((data ?? []).map((v: { city: string }) => v.city))];
