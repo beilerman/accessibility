@@ -31,7 +31,7 @@ Playwright tests start the built server on port 3217. Install its Chromium brows
 - `docs/IMPLEMENTATION-STATUS.md`: execution ledger, validation evidence and remaining dependencies.
 - `pipeline/README.md`: optional Overture staging pull and provenance handling.
 
-The recovered repository is Next.js 16 / React 19; the plan's proposed Vite migration is unnecessary. `COMMUNITY_ENABLED` is false in `src/lib/catalog-mode.ts` while ThresholdAccess is inactive and its permissions await live review. The legacy database query implementation is preserved in `src/lib/legacy-data.ts`, reached only through the gated wrapper. Re-enabling contributions requires backend restoration, privilege/publication/upload authorization tests, moderation, and an approved owner verification process. It is not a feature-flag-only launch.
+The recovered repository is Next.js 16 / React 19; the plan's proposed Vite migration is unnecessary. `COMMUNITY_ENABLED` is false in `src/lib/catalog-mode.ts` while community permissions and moderation are implemented and tested. The legacy database query implementation is preserved in `src/lib/legacy-data.ts`, reached only through the gated wrapper. Re-enabling contributions requires privilege/publication/upload authorization tests, moderation, and an approved owner verification process. It is not a feature-flag-only launch.
 
 ## Images
 

@@ -46,11 +46,11 @@ Future claim processing needs a recorded reviewer decision, claimed location, su
 
 ## 7. Keep the initial directory read-only
 
-The implemented local directory provides public discovery without relying on the inactive ThresholdAccess database. Accounts, profile collection, organization claims, photo uploads and submissions remain unavailable until their access model and moderation are validated.
+The implemented local directory provides public discovery without relying on the ThresholdAccess database. Accounts, profile collection, organization claims, photo uploads and submissions remain unavailable until their access model and moderation are validated.
 
 This mode is a deployment gate, not a substitute for database security. Re-enabling old routes or credentials requires reviewing the underlying policies first. Apply least-privilege grants and row access rules; test both allowed and denied operations and protect moderator/editor roles from user modification. Official [Supabase RLS guidance](https://supabase.com/docs/guides/database/postgres/row-level-security) explains the separate roles of grants and policies.
 
-No paid upgrade, unrelated-project pause or account change is authorized by this decision.
+September 10 update: the user approved community reviews and owner accounts and confirmed a Supabase subscription. The organization is now Pro and ThresholdAccess has been restored. No other project was paused; account features still require the controls above.
 
 ## 8. Stage expansion before publication
 
