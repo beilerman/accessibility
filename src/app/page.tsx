@@ -3,6 +3,8 @@ import type { Metadata } from "next";
 import { ArrowRight, BookOpen, Route, Ear, Coffee } from "lucide-react";
 import { places, factCount, DOMAIN_LABELS } from "@/lib/catalog";
 import { PlaceCard } from "@/components/catalog/PlaceCard";
+import { illustrations } from "@/lib/media";
+import { AccessIllustration } from "@/components/catalog/AccessIllustration";
 
 export const metadata: Metadata = {
   title: "Know before you go — Greater Cincinnati & Northern Kentucky",
@@ -14,10 +16,10 @@ export default function Home() {
   const featured = [
     "newport-aquarium",
     "cincinnati-art-museum",
-    "boone-county-public-library-walton-branch",
+    "cincinnati-museum-center",
     "the-carnegie",
-    "cincinnati-zoo-botanical-garden",
-    "cincinnati-playhouse-in-the-park",
+    "cincinnati-music-hall",
+    "bb-riverboats",
   ].flatMap((slug) => places.filter((p) => p.slug === slug));
   return (
     <div className="page-shell">
@@ -57,23 +59,20 @@ export default function Home() {
             No account needed. Every access note links to its source.
           </p>
         </div>
-        <aside className="hero-note" aria-label="How to read this guide">
-          <div className="door-mark" aria-hidden="true">
-            <span />
-          </div>
-          <p className="eyebrow">A STARTING POINT FOR YOUR NEXT VISIT</p>
-          <h2 className="font-display text-3xl mt-4">
-            Details, with the source in sight.
+        <aside className="hero-visual" aria-label="Illustrated access guide">
+          {illustrations[0] && <AccessIllustration item={illustrations[0]} />}
+          <h2 className="font-display text-2xl mt-5">
+            Small details. Better questions.
           </h2>
-          <p className="mt-4 leading-relaxed">
-            Official website information, clearly dated. See the available
-            support, the restrictions, and what still needs confirming.
+          <p className="mt-3 text-muted-foreground leading-relaxed">
+            See examples of access features and learn what to confirm before a
+            visit.
           </p>
           <Link
-            href="/sources"
+            href="/access-in-pictures"
             className="inline-flex items-center gap-2 underline min-h-11 mt-4"
           >
-            How we use sources{" "}
+            Explore the visual guide{" "}
             <ArrowRight aria-hidden="true" className="h-4 w-4" />
           </Link>
         </aside>

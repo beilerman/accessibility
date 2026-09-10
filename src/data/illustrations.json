@@ -1,0 +1,62 @@
+[
+  {
+    "id": "entrance",
+    "title": "A step-free entrance example",
+    "src": "/images/illustrations/entrance.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "AI illustration of a fictional entrance with sliding glass doors open to an empty passage and a continuous-looking hard floor.",
+    "caption": "A generic entrance, not a photograph or assessment of a listed venue.",
+    "shown": [
+      "Sliding glass doors shown open",
+      "An unobstructed central approach",
+      "A hard floor with no visible step"
+    ],
+    "confirm": [
+      "The actual route, slope, surface and threshold height",
+      "Door opening width and whether automatic doors are working",
+      "Any changes in level or obstructions outside the frame"
+    ],
+    "guidanceUrl": "https://www.access-board.gov/ada/guides/chapter-4-entrances-doors-and-gates/"
+  },
+  {
+    "id": "sensory-kit",
+    "title": "A sensory kit example",
+    "src": "/images/illustrations/sensory-kit.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "AI illustration of unbranded teal over-ear defenders, a silicone bubble fidget and a beige zip pouch on a tabletop.",
+    "caption": "Generic sensory items, not a venue's actual kit or a product recommendation.",
+    "shown": [
+      "Over-ear defenders with two padded cups",
+      "A silicone bubble fidget",
+      "A fabric zip pouch"
+    ],
+    "confirm": [
+      "Whether a venue offers sensory items and how to request them",
+      "Available sizes, suitability, cleaning and return arrangements",
+      "What to bring if the items you need are unavailable"
+    ],
+    "guidanceUrl": "https://www.nps.gov/subjects/accessibility/intellectual.htm"
+  },
+  {
+    "id": "rest-area",
+    "title": "A rest corner example",
+    "src": "/images/illustrations/rest-area.webp",
+    "width": 1200,
+    "height": 800,
+    "alt": "AI illustration of a fictional rest corner with one teal chair with back and armrests, empty floor space beside it and a clear approach.",
+    "caption": "A generic rest corner; its appearance cannot establish actual noise levels or dimensions.",
+    "shown": [
+      "A chair with a back and armrests",
+      "Empty floor space beside the chair",
+      "An unobstructed foreground approach"
+    ],
+    "confirm": [
+      "Whether a rest area is available and where it is located",
+      "Current noise, lighting and crowd conditions",
+      "Seat dimensions and clear space for your mobility device"
+    ],
+    "guidanceUrl": "https://www.nps.gov/subjects/accessibility/intellectual.htm"
+  }
+]

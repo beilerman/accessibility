@@ -33,6 +33,12 @@ Playwright tests start the built server on port 3217. Install its Chromium brows
 
 The recovered repository is Next.js 16 / React 19; the plan's proposed Vite migration is unnecessary. `COMMUNITY_ENABLED` is false in `src/lib/catalog-mode.ts` while ThresholdAccess is inactive and its permissions await live review. The legacy database query implementation is preserved in `src/lib/legacy-data.ts`, reached only through the gated wrapper. Re-enabling contributions requires backend restoration, privilege/publication/upload authorization tests, moderation, and an approved owner verification process. It is not a feature-flag-only launch.
 
+## Images
+
+Nine real venue photographs are stored under `public/images/venues/`, with author, license, source and date records in `src/data/photos-ky.json` and `photos-oh.json`. These are archival context, not current access inspections. Keep the full frame and linked attribution when displaying them.
+
+Three photorealistic educational examples live under `public/images/illustrations/`. Every appearance uses the readable caption **AI illustration — example setting**. They are never used as venue photographs. Prompts, provenance and visual review are in `docs/research/ai-illustrations.md`; reusable-photo research is in the adjacent `photos-ky.md` and `photos-oh.md` files.
+
 ## Content updates
 
 Use official venue/managing-organization sources, retain qualifications and restrictions, and never infer physical access from a general policy. Add source links to every fact, preserve unknown observation dates, and use an independent evidence review before inclusion. Public website summaries are distinct from verified organization submissions and field audits. Do not add identifiable people in images or fictional firsthand accounts.

@@ -169,3 +169,18 @@ body {
 @media(max-width:1000px) { .home-hero {gap:30px;} .place-grid {grid-template-columns:repeat(2,minmax(0,1fr));} .detail-grid {gap:28px;} }
 @media(max-width:700px) { .home-hero {grid-template-columns:1fr; padding:44px 0 36px;} .hero-note {padding:24px;} .door-mark {display:none;} .catalog-stats {grid-template-columns:repeat(2,1fr);} .place-grid, .detail-grid, .directory-search {grid-template-columns:1fr;} .page-shell {padding-left:20px; padding-right:20px;} .directory-search {padding:20px;} .hero-search {flex-wrap:wrap;} .hero-search input {min-width:150px;} .reading-page h1 {font-size:36px;} }
 @media print { header, footer, .hero-search, .directory-search {display:none;} .page-shell {max-width:none;} .detail-grid {display:block;} .place-card, .fact-group {break-inside:avoid;} a {color:inherit;} }
+
+/* Full-frame photographs preserve visible context; captions stay readable. */
+.venue-photo, .access-illustration { overflow:hidden; border:1px solid var(--border); border-radius:10px; background:var(--muted); }
+.venue-photo img, .access-illustration img { display:block; width:100%; height:auto; object-fit:contain; }
+.venue-photo-compact img { aspect-ratio:3/2; }
+.venue-photo-detail { margin-bottom:30px; }
+.venue-photo-detail img { max-height:560px; }
+.photo-caption { padding:12px 14px; font-size:12px; line-height:1.65; color:var(--muted-foreground); overflow-wrap:anywhere; }
+.photo-caption p + p { margin-top:5px; }
+.photo-caption a { text-decoration:underline; text-underline-offset:3px; }
+.photo-caption a:hover { color:var(--foreground); }
+.hero-visual { min-width:0; }
+.visual-guide-section { display:grid; grid-template-columns:minmax(0,1.5fr) minmax(0,1fr); gap:48px; border-top:1px solid var(--border); padding-top:32px; }
+.guide-questions { padding-top:65px; line-height:1.8; }
+@media(max-width:800px) { .visual-guide-section {grid-template-columns:1fr; gap:24px;} .guide-questions {padding-top:0;} }

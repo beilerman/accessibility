@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { places, factCount, dateLabel } from "@/lib/catalog";
+import { venuePhotos } from "@/lib/media";
 export const metadata: Metadata = {
   title: "Sources & evidence",
   description:
@@ -55,11 +56,62 @@ export default function Sources() {
       </p>
       <h2>Images, reviews, and attribution</h2>
       <p>
-        This directory does not use stock photographs as evidence of a venue. It
-        does not present generated sample reviews as firsthand experiences. The
-        linked publishers remain the source of their own policies and
-        information; inclusion does not imply a partnership with Threshold.
+        Actual venue photographs carry a source, author, reuse license and photo
+        date where known. They provide visual context; an older exterior
+        photograph cannot confirm a current entrance, working lift or complete
+        accessible route. We retain the full frame when resizing and converting
+        these images for the web.
       </p>
+      <p>
+        Images labeled “AI illustration — example setting” are generated
+        teaching examples. They do not depict the listed venues, establish
+        dimensions or verify compliance. Their descriptions identify visible
+        features and questions to ask.{" "}
+        <Link href="/access-in-pictures" className="underline">
+          Explore the visual guide.
+        </Link>
+      </p>
+      <p>
+        We do not present generated sample reviews as firsthand experiences.
+        Inclusion of a source or image does not imply a partnership with
+        Threshold.
+      </p>
+      <h2>Photo credits</h2>
+      <ul className="source-register">
+        {venuePhotos.map((photo) => (
+          <li key={photo.src}>
+            <Link
+              className="font-semibold underline"
+              href={`/venues/${photo.slug}`}
+            >
+              {places.find((p) => p.slug === photo.slug)?.name}
+            </Link>
+            <span className="text-sm text-muted-foreground">
+              Photo date: {photo.photoDate || "unknown"} · Credit checked{" "}
+              {photo.checkedAt}
+            </span>
+            <p className="text-sm">
+              <a
+                className="underline"
+                href={photo.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {photo.author} — original and attribution
+              </a>
+              {" · "}
+              <a
+                className="underline"
+                href={photo.licenseUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {photo.license}
+              </a>
+            </p>
+          </li>
+        ))}
+      </ul>
       <h2>Source register</h2>
       <p>
         Follow a place for individual access notes and their links, or open its

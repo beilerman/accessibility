@@ -1,8 +1,11 @@
 import Link from "next/link";
 import { ArrowUpRight, MapPin } from "lucide-react";
 import { DOMAIN_LABELS, dateLabel, type PublicPlace } from "@/lib/catalog";
+import { photoForPlace } from "@/lib/media";
+import { VenuePhoto } from "./VenuePhoto";
 
 export function PlaceCard({ place }: { place: PublicPlace }) {
+  const photo = photoForPlace(place.slug);
   return (
     <article className="place-card" aria-labelledby={`place-${place.slug}`}>
       <div className="flex justify-between gap-3 items-start">
@@ -20,6 +23,7 @@ export function PlaceCard({ place }: { place: PublicPlace }) {
           <ArrowUpRight className="inline ml-1 h-4 w-4" aria-hidden="true" />
         </Link>
       </h2>
+      {photo && <VenuePhoto photo={photo} compact />}
       <p className="flex items-center gap-2 text-sm text-muted-foreground">
         <MapPin className="w-4 h-4" aria-hidden="true" />
         {place.city}, {place.state}

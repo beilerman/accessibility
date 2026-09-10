@@ -3,6 +3,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { ArrowLeft, ArrowUpRight, MapPin } from "lucide-react";
 import { places, DOMAIN_LABELS, dateLabel } from "@/lib/catalog";
+import { photoForPlace } from "@/lib/media";
+import { VenuePhoto } from "@/components/catalog/VenuePhoto";
 export function generateStaticParams() {
   return places.map((p) => ({ slug: p.slug }));
 }
@@ -28,6 +30,7 @@ export default async function PlacePage({
   const { slug } = await params;
   const p = places.find((p) => p.slug === slug);
   if (!p) notFound();
+  const photo = photoForPlace(p.slug);
   return (
     <div className="page-shell py-10">
       <Link
@@ -48,6 +51,7 @@ export default async function PlacePage({
           {p.city}, {p.state}
         </p>
       </div>
+      {photo && <VenuePhoto photo={photo} />}
       <div className="evidence-banner">
         <strong>From official public websites</strong>
         <span>
@@ -147,6 +151,12 @@ export default async function PlacePage({
             )}
             <Link href="/sources" className="text-sm underline">
               How sources and dates work
+            </Link>
+            <Link
+              href="/access-in-pictures"
+              className="text-sm underline min-h-11 inline-flex items-center"
+            >
+              Explore illustrated access features
             </Link>
           </section>
         </aside>

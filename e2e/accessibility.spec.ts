@@ -7,6 +7,7 @@ const routes = [
   "/about",
   "/sources",
   "/accessibility",
+  "/access-in-pictures",
   "/login",
 ];
 for (const path of routes) {
@@ -61,6 +62,44 @@ test("search, combined filters, details, sources and empty state work", async ({
     .getByRole("link", { name: "Clear all filters", exact: true })
     .click();
   await expect(page.getByRole("status")).toContainText("32 places found");
+});
+test("photos load with credits and AI examples have visible disclosure", async ({
+  page,
+}) => {
+  await page.goto("/venues/newport-aquarium");
+  const photo = page.locator("figure.venue-photo");
+  await expect(photo.getByText(/Venue photo/)).toBeVisible();
+  await expect(photo.getByRole("link", { name: /Photo:/ })).toBeVisible();
+  await expect(photo.locator("img")).toBeVisible();
+  await expect
+    .poll(() =>
+      photo
+        .locator("img")
+        .evaluate(
+          (img: HTMLImageElement) => img.complete && img.naturalWidth > 0,
+        ),
+    )
+    .toBe(true);
+  await page
+    .getByRole("link", { name: "Explore illustrated access features" })
+    .click();
+  const figures = page.locator("figure.access-illustration");
+  await expect(figures).toHaveCount(3);
+  for (const figure of await figures.all()) {
+    await figure.scrollIntoViewIfNeeded();
+    await expect(
+      figure.getByText("AI illustration — example setting", { exact: true }),
+    ).toBeVisible();
+    const img = figure.locator("img");
+    await expect(img).toHaveAttribute("alt", /^AI/);
+    await expect
+      .poll(() =>
+        img.evaluate(
+          (image: HTMLImageElement) => image.complete && image.naturalWidth > 0,
+        ),
+      )
+      .toBe(true);
+  }
 });
 test("disabled community routes never collect information or contact Supabase", async ({
   page,

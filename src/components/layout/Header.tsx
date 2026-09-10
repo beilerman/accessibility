@@ -12,6 +12,7 @@ import type { User as SupabaseUser } from "@supabase/supabase-js";
 
 const navLinks = [
   { href: "/venues", label: "Browse places" },
+  { href: "/access-in-pictures", label: "Visual guide" },
   { href: "/sources", label: "Sources" },
   { href: "/about", label: "About" },
 ];
@@ -20,7 +21,10 @@ export function Header() {
   const router = useRouter();
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [user, setUser] = useState<SupabaseUser | null>(null);
-  const supabase = useMemo(() => COMMUNITY_ENABLED ? createClient() : null, []);
+  const supabase = useMemo(
+    () => (COMMUNITY_ENABLED ? createClient() : null),
+    [],
+  );
   const closeMobileNav = useCallback(() => setMobileNavOpen(false), []);
 
   useEffect(() => {
@@ -56,12 +60,17 @@ export function Header() {
             href="/"
             className="flex items-center gap-2 font-display text-xl font-bold text-foreground hover:text-accent transition-colors"
           >
-            <span aria-hidden="true" className="text-accent text-2xl">&#9899;</span>
+            <span aria-hidden="true" className="text-accent text-2xl">
+              &#9899;
+            </span>
             Threshold
           </Link>
 
           {/* Desktop nav */}
-          <nav aria-label="Primary" className="hidden md:flex items-center gap-6">
+          <nav
+            aria-label="Primary"
+            className="hidden md:flex items-center gap-6"
+          >
             {navLinks.map((link) => (
               <Link
                 key={link.href}
@@ -92,31 +101,32 @@ export function Header() {
             </Link>
             <DarkModeToggle />
 
-            {COMMUNITY_ENABLED && (user ? (
-              <div className="flex items-center gap-2">
+            {COMMUNITY_ENABLED &&
+              (user ? (
+                <div className="flex items-center gap-2">
+                  <Link
+                    href="/profile"
+                    className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
+                    aria-label="Your profile"
+                  >
+                    <User className="h-5 w-5" />
+                  </Link>
+                  <button
+                    onClick={handleSignOut}
+                    className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
+                    aria-label="Sign out"
+                  >
+                    <LogOut className="h-5 w-5" />
+                  </button>
+                </div>
+              ) : (
                 <Link
-                  href="/profile"
-                  className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                  aria-label="Your profile"
+                  href="/login"
+                  className="px-4 py-2 bg-accent text-white font-medium rounded-lg hover:bg-accent-hover transition-colors min-h-[44px] flex items-center text-sm"
                 >
-                  <User className="h-5 w-5" />
+                  Sign In
                 </Link>
-                <button
-                  onClick={handleSignOut}
-                  className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                  aria-label="Sign out"
-                >
-                  <LogOut className="h-5 w-5" />
-                </button>
-              </div>
-            ) : (
-              <Link
-                href="/login"
-                className="px-4 py-2 bg-accent text-white font-medium rounded-lg hover:bg-accent-hover transition-colors min-h-[44px] flex items-center text-sm"
-              >
-                Sign In
-              </Link>
-            ))}
+              ))}
           </div>
 
           {/* Mobile menu button */}
@@ -140,7 +150,12 @@ export function Header() {
       </div>
 
       {/* Mobile nav */}
-      <MobileNav open={mobileNavOpen} onClose={closeMobileNav} user={user} onSignOut={handleSignOut} />
+      <MobileNav
+        open={mobileNavOpen}
+        onClose={closeMobileNav}
+        user={user}
+        onSignOut={handleSignOut}
+      />
     </header>
   );
 }

@@ -4,7 +4,7 @@ Updated 2026-09-10. This is the current execution record; the older plans' compl
 
 ## Outcome and scope
 
-The local read-only directory is implemented and validated with 32 places and 106 sourced facts across Northern Kentucky and Greater Cincinnati. A protected Vercel preview is READY and has been checked in Chrome; production publication awaits user approval. The full six-week program remains unfinished, including community accounts, database authorization, organization claims and field reviews.
+The local read-only directory is implemented and validated with 32 places and 106 sourced facts across Northern Kentucky and Greater Cincinnati. The sourced directory was published to production after the user approved it. The requested photo update adds nine licensed venue photographs and three labeled AI teaching illustrations; its release verification is tracked below. The full six-week program remains unfinished, including community accounts, database authorization, organization claims and field reviews.
 
 The original Claude v1.1 plan is now preserved verbatim in [PLAN.md](PLAN.md), downloaded from the [Claude artifact](https://claude.ai/cowork/cse_013pQ93PyPT65RBRxNqzjzwt?artifact=18419720-bc48-4c87-9773-5e398c8a0dfa). The [March foundation plan](plans/2026-03-22-001-feat-accessibility-review-site-plan.md) and [auth follow-up](plans/2026-03-22-002-feat-auth-maps-a11y-tests-plan.md) remain historical context. [DECISIONS.md](DECISIONS.md) records the current departures and safeguards; the original plan is not rewritten to imply completion.
 
@@ -22,7 +22,7 @@ The original Claude v1.1 plan is now preserved verbatim in [PLAN.md](PLAN.md), d
 | Security and community workflows | Gated | Accounts, uploads, claims and publication need tested authorization, moderation and attribution. No successful database-policy test has been recorded here. |
 | ThresholdAccess database | Blocked for live reactivation | Coordinating agent observed the project is inactive. Reported alternatives involve paying for capacity or pausing an unrelated service; these require the user's decision. No such action is authorized by this document. |
 | Build and browser validation | Passed for local scope | Build: 46 routes; 22 unit tests; 10 browser tests; type and lint checks pass, with 16 legacy lint warnings. Dependency audit reports zero findings. Details and limits below. |
-| Preview and production release | Preview READY; production approval pending | [Release record](RELEASE-2026-09-10.md) identifies commit, preview, live checks and rollback. Chrome search/detail navigation and authenticated HTTP checks passed. Preview requires Vercel sign-in. Production remains on the previous deployment. |
+| Production release | Original catalog published; photo update in release verification | User approved publication. Catalog deployment `dpl_H5whfMQDvD5oh6YaBfDMgekxoKg5` was READY and publicly served the 32-place/106-fact directory, confirmed by HTTP and Chrome. [Photo release record](PHOTOS-RELEASE-2026-09-10.md) tracks the follow-up. |
 | Field reviews and owner claims | Human work required | Actual visits, measurements, photographs, authorship approval and organization authority checks have not been performed by this research run. |
 
 ## Local validation evidence
@@ -76,3 +76,7 @@ Weeks are relative to the restart; this is an ordered backlog, not a claim that 
 Baseline for the local directory is 32 places and 106 facts; the separate staging sample has 25 unreviewed identities and zero accessibility facts. Track published sourced venues, fact coverage by domain/geography, unsupported claims removed, overdue source reviews, unresolved contradictions, and correction turnaround. Track completed field reviews separately from public-web records. Set targets after establishing a baseline; do not manufacture review counts, community participation or outcomes.
 
 Before the next operator proceeds, update the work ledger with finished changes and validation evidence. Preserve the original plans as history and use [DECISIONS.md](DECISIONS.md) for the revised operating rules.
+
+## Photo phase — September 10
+
+Nine licensed venue photographs (four KY, five OH) were downloaded, matched to catalog locations and visually inspected. Attribution records retain source/author/license/photo date, including an unknown date where evidence conflicts. Full frames are retained; no access measurements or venue alterations are inferred. Three generic AI illustrations explain entrance, sensory and rest features with visible labels and question prompts. They are separate from venue photos. Local build/type validation, 24 unit tests and 12 browser tests passed; lint retains 16 legacy warnings and no errors. Desktop and mobile image/caption checks passed. See [photo release evidence](PHOTOS-RELEASE-2026-09-10.md).
