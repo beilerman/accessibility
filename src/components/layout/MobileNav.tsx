@@ -1,9 +1,10 @@
 "use client";
 
 import Link from "next/link";
+import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
-import { MapPin, Info, Search, PenSquare, User, LogIn, LogOut } from "lucide-react";
+import { MapPin, Info, BookOpen, PenSquare, User, LogIn, LogOut } from "lucide-react";
 import type { User as SupabaseUser } from "@supabase/supabase-js";
 
 interface MobileNavProps {
@@ -42,14 +43,6 @@ export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
       <div className="px-4 py-4 space-y-1">
         <Link
           href="/venues"
-          className="flex items-center gap-3 px-3 py-3 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px]"
-          onClick={onClose}
-        >
-          <Search className="h-5 w-5" aria-hidden="true" />
-          Search Venues
-        </Link>
-        <Link
-          href="/venues"
           className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
             pathname === "/venues"
               ? "bg-accent/10 text-accent font-medium"
@@ -58,7 +51,19 @@ export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
           onClick={onClose}
         >
           <MapPin className="h-5 w-5" aria-hidden="true" />
-          Browse Venues
+          Browse places
+        </Link>
+        <Link
+          href="/sources"
+          className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
+            pathname === "/sources"
+              ? "bg-accent/10 text-accent font-medium"
+              : "text-muted-foreground hover:text-foreground hover:bg-muted"
+          }`}
+          onClick={onClose}
+        >
+          <BookOpen className="h-5 w-5" aria-hidden="true" />
+          Sources
         </Link>
         <Link
           href="/about"
@@ -74,9 +79,9 @@ export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
         </Link>
 
         {/* Divider */}
-        <div className="h-px bg-border my-2" />
+        {COMMUNITY_ENABLED && <div className="h-px bg-border my-2" />}
 
-        {user ? (
+        {COMMUNITY_ENABLED && (user ? (
           <>
             <Link
               href="/submit"
@@ -111,7 +116,7 @@ export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
             <LogIn className="h-5 w-5" aria-hidden="true" />
             Sign In
           </Link>
-        )}
+        ))}
       </div>
     </nav>
   );

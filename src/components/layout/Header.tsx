@@ -1,6 +1,8 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
+import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
 import { useState, useEffect, useMemo, useCallback } from "react";
 import { Search, Menu, X, User, LogOut } from "lucide-react";
 import { DarkModeToggle } from "@/components/shared/DarkModeToggle";
@@ -9,16 +11,21 @@ import { createClient } from "@/lib/supabase/client";
 import type { User as SupabaseUser } from "@supabase/supabase-js";
 
 const navLinks = [
-  { href: "/venues", label: "Browse Venues" },
+  { href: "/venues", label: "Browse places" },
+  { href: "/sources", label: "Sources" },
   { href: "/about", label: "About" },
 ];
 
 export function Header() {
+  const router = useRouter();
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [user, setUser] = useState<SupabaseUser | null>(null);
-  const supabase = useMemo(() => createClient(), []);
+  const supabase = useMemo(() => COMMUNITY_ENABLED ? createClient() : null, []);
+  const closeMobileNav = useCallback(() => setMobileNavOpen(false), []);
 
   useEffect(() => {
+    if (!supabase) return;
+
     supabase.auth.getUser().then(({ data: { user } }) => {
       setUser(user);
     });
@@ -30,12 +37,15 @@ export function Header() {
     });
 
     return () => subscription.unsubscribe();
-  }, [supabase.auth]);
+  }, [supabase]);
 
   const handleSignOut = useCallback(async () => {
+    if (!supabase) return;
     await supabase.auth.signOut();
-    window.location.href = "/";
-  }, [supabase]);
+    setUser(null);
+    router.replace("/");
+    router.refresh();
+  }, [supabase, router]);
 
   return (
     <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
@@ -47,7 +57,7 @@ export function Header() {
             className="flex items-center gap-2 font-display text-xl font-bold text-foreground hover:text-accent transition-colors"
           >
             <span aria-hidden="true" className="text-accent text-2xl">&#9899;</span>
-            AccessReview
+            Threshold
           </Link>
 
           {/* Desktop nav */}
@@ -61,7 +71,7 @@ export function Header() {
                 {link.label}
               </Link>
             ))}
-            {user && (
+            {COMMUNITY_ENABLED && user && (
               <Link
                 href="/submit"
                 className="text-sm font-medium text-accent hover:text-accent-hover transition-colors min-h-[44px] flex items-center"
@@ -76,13 +86,13 @@ export function Header() {
             <Link
               href="/venues"
               className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-              aria-label="Search venues"
+              aria-label="Search places"
             >
               <Search className="h-5 w-5" />
             </Link>
             <DarkModeToggle />
 
-            {user ? (
+            {COMMUNITY_ENABLED && (user ? (
               <div className="flex items-center gap-2">
                 <Link
                   href="/profile"
@@ -106,7 +116,7 @@ export function Header() {
               >
                 Sign In
               </Link>
-            )}
+            ))}
           </div>
 
           {/* Mobile menu button */}
@@ -114,7 +124,7 @@ export function Header() {
             <DarkModeToggle />
             <button
               onClick={() => setMobileNavOpen(!mobileNavOpen)}
-              className="p-2 rounded-lg text-foreground hover:bg-muted transition-colors"
+              className="p-2 rounded-lg text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px]"
               aria-label={mobileNavOpen ? "Close menu" : "Open menu"}
               aria-expanded={mobileNavOpen}
               aria-controls="mobile-nav"
@@ -130,7 +140,7 @@ export function Header() {
       </div>
 
       {/* Mobile nav */}
-      <MobileNav open={mobileNavOpen} onClose={() => setMobileNavOpen(false)} user={user} onSignOut={handleSignOut} />
+      <MobileNav open={mobileNavOpen} onClose={closeMobileNav} user={user} onSignOut={handleSignOut} />
     </header>
   );
 }

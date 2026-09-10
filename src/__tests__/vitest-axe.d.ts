@@ -1,10 +1,10 @@
-import type { AxeResults } from 'axe-core'
+import "vitest";
 
-interface AxeMatchers {
-  toHaveNoViolations(): void
-}
-
-declare module 'vitest' {
-  interface Assertion<T> extends AxeMatchers {}
-  interface AsymmetricMatchersContaining extends AxeMatchers {}
+declare module "vitest" {
+  interface Assertion {
+    toHaveNoViolations(): void;
+  }
+  interface AsymmetricMatchersContaining {
+    toHaveNoViolations(): void;
+  }
 }

@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-09-10",
+  "command": ".venv/bin/python seed_overture.py --fetch --limit 25 --timeout-seconds 180 --output staging/remote-sample-2026-09-10",
+  "exit_code": 0,
+  "release": "2026-08-19.0",
+  "retrieved_at": "2026-09-10T18:11:51.610262+00:00",
+  "duckdb_version": "1.4.5",
+  "row_count": 25,
+  "distinct_ids": 25,
+  "raw_bbox_count": 25,
+  "exact_point_count": 25,
+  "limit_reached": true,
+  "confidence_range": [
+    0.75,
+    0.9916659295558929
+  ],
+  "source_entry_counts": {
+    "BrightQuery": 7,
+    "Overture": 25,
+    "Foursquare": 1,
+    "Microsoft": 9,
+    "Overture-signals": 16,
+    "meta": 8
+  },
+  "source_record_id_null_count": 25,
+  "null_record_id_context": "Overture confidence_calculation entries; all records retain at least one upstream record ID",
+  "dedupe_candidate_groups": 0,
+  "places_sha256": "d97a616f6dc213ce8a69947526561951b52238306f21b4d33de32976703ff99b",
+  "dedupe_candidates_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "all_record_coordinates_in_plan_bounds": true,
+  "all_accessibility_facts_empty": true,
+  "all_sources_present": true,
+  "all_source_filenames_preserved": true,
+  "hashes_verified": true,
+  "network_errors": [],
+  "schema_errors": [],
+  "retried": false,
+  "database_imported": false,
+  "website_imported": false
+}

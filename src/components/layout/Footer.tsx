@@ -1,59 +1,30 @@
 import Link from "next/link";
-import { NewsletterSignup } from "@/components/shared/NewsletterSignup";
-
 export function Footer() {
   return (
-    <footer className="bg-muted border-t border-border mt-auto">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
-          {/* Brand */}
+    <footer className="site-footer">
+      <div className="page-shell py-10">
+        <div className="flex flex-wrap justify-between gap-8">
           <div>
-            <Link href="/" className="font-display text-lg font-bold text-foreground">
-              AccessReview
+            <Link href="/" className="font-display text-3xl">
+              Threshold
             </Link>
-            <p className="mt-2 text-sm text-muted-foreground max-w-xs">
-              Real accessibility reviews by real people with mobility challenges.
-              Know before you go.
+            <p className="mt-3 max-w-sm text-sm text-muted-foreground">
+              Local access information, with sources you can follow.
+              <br />
+              Greater Cincinnati & Northern Kentucky.
             </p>
           </div>
-
-          {/* Links */}
-          <nav aria-label="Footer">
-            <h2 className="font-semibold text-foreground mb-3 text-sm uppercase tracking-wider">
-              Navigate
-            </h2>
-            <ul className="space-y-2">
-              <li>
-                <Link href="/venues" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-                  Browse Venues
-                </Link>
-              </li>
-              <li>
-                <Link href="/about" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-                  About
-                </Link>
-              </li>
-            </ul>
+          <nav aria-label="Footer" className="flex flex-wrap gap-x-8 gap-y-3">
+            <Link href="/venues">Browse places</Link>
+            <Link href="/sources">Sources & evidence</Link>
+            <Link href="/accessibility">Using this site</Link>
+            <Link href="/about">About</Link>
           </nav>
-
-          {/* Newsletter */}
-          <div>
-            <h2 className="font-semibold text-foreground mb-3 text-sm uppercase tracking-wider">
-              Stay Updated
-            </h2>
-            <NewsletterSignup variant="compact" />
-          </div>
         </div>
-
-        {/* Bottom bar */}
-        <div className="border-t border-border pt-6 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-xs text-muted-foreground">
-            &copy; {new Date().getFullYear()} AccessReview. Built for the mobility community.
-          </p>
-          <p className="text-xs text-muted-foreground">
-            Greater Cincinnati &amp; Northern Kentucky
-          </p>
-        </div>
+        <p className="text-xs text-muted-foreground mt-8 pt-6 border-t border-border">
+          Public website research · No field audits yet · Confirm essential
+          details with the venue before visiting.
+        </p>
       </div>
     </footer>
   );

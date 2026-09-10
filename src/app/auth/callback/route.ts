@@ -1,13 +1,18 @@
+import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
 import { createServerClient } from "@supabase/ssr";
 import { cookies } from "next/headers";
 import { NextResponse, type NextRequest } from "next/server";
 
 function safeRedirect(path: string | null): string {
-  if (path && path.startsWith("/") && !path.startsWith("//")) return path;
+  if (path && path.startsWith("/") && !path.startsWith("//") && !path.includes("\\")) return path;
   return "/";
 }
 
 export async function GET(request: NextRequest) {
+  if (!COMMUNITY_ENABLED) {
+    return NextResponse.redirect(new URL("/login", request.url));
+  }
+
   const { searchParams, origin } = new URL(request.url);
   const code = searchParams.get("code");
   const redirect = safeRedirect(searchParams.get("redirect"));

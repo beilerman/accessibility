@@ -1,7 +1,19 @@
+import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
 import { createServerClient } from "@supabase/ssr";
 import { NextResponse, type NextRequest } from "next/server";
 
 export async function proxy(request: NextRequest) {
+  if (!COMMUNITY_ENABLED) {
+    const pathname = request.nextUrl.pathname;
+    const communityRoute = ["/submit", "/profile", "/auth/callback"].some(
+      (path) => pathname === path || pathname.startsWith(`${path}/`)
+    );
+    // Drop callback codes and return paths instead of forwarding them.
+    return communityRoute
+      ? NextResponse.redirect(new URL("/login", request.url))
+      : NextResponse.next();
+  }
+
   let response = NextResponse.next({
     request: { headers: request.headers },
   });

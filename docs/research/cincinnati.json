@@ -1,0 +1,507 @@
+[
+  {
+    "name": "Cincinnati Art Museum",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "museum",
+    "address": "953 Eden Park Drive, Cincinnati, OH 45202",
+    "website": "https://www.cincinnatiartmuseum.org/",
+    "source_url": "https://www.cincinnatiartmuseum.org/access",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Free loan wheelchairs are available without reservations in the coatrooms near the Main and Dewitt entrances. Accessible parking and front-entrance drop-off are described on the museum's access page.",
+        "source_url": "https://www.cincinnatiartmuseum.org/access"
+      },
+      {
+        "domain": "sensory",
+        "text": "The Welcome Cart lends headphones, earplugs and fidgets. A private quiet space is on the ground floor across from the coatroom.",
+        "source_url": "https://www.cincinnatiartmuseum.org/access"
+      },
+      {
+        "domain": "cognitive",
+        "text": "Social narratives, visual timers and a large-print access guide help visitors prepare and identify quieter spaces.",
+        "source_url": "https://www.cincinnatiartmuseum.org/access"
+      },
+      {
+        "domain": "chronic",
+        "text": "Benches are distributed through the museum. Visitors who must shorten a ticketed exhibition visit can request an accessibility re-entry ticket.",
+        "source_url": "https://www.cincinnatiartmuseum.org/access"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Re-entry accommodation must be requested. Confirm specific restroom, route and equipment needs with the museum."
+  },
+  {
+    "name": "Cincinnati Museum Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "museum",
+    "address": "1301 Western Avenue, Cincinnati, OH 45203",
+    "website": "https://www.cincymuseum.org/",
+    "source_url": "https://www.cincymuseum.org/visit/",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The far-left and far-right historic entrance doors have automatic push-plate controls. Wheelchairs and ECVs can be rented at the box office, first come, first served.",
+        "source_url": "https://www.cincymuseum.org/visit/"
+      },
+      {
+        "domain": "mobility",
+        "text": "Universal restrooms on Mezzanine B and the lower level near Westheimer Gallery have adult changing tables.",
+        "source_url": "https://www.cincymuseum.org/visit/"
+      },
+      {
+        "domain": "sensory",
+        "text": "The visitor page links to accessibility and sensory maps.",
+        "source_url": "https://www.cincymuseum.org/visit/"
+      },
+      {
+        "domain": "chronic",
+        "text": "Visitors may bring food and drinks for seated dining areas; these are prohibited in museums, exhibitions and the OMNIMAX theater.",
+        "source_url": "https://www.cincymuseum.org/visit/"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Rentals require an adult renter, agreement and retained ID or credit card; availability is not guaranteed. Request entry assistance at least 24 hours ahead."
+  },
+  {
+    "name": "Cincinnati Zoo & Botanical Garden",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "attraction",
+    "address": "3400 Vine Street, Cincinnati, OH 45220",
+    "website": "https://cincinnatizoo.org/",
+    "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "sensory",
+        "text": "Calming rooms are listed at Vine Street Village and Mai Thai's Market. Sensory bags are available to check out at the Welcome Center.",
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Zoo publishes social and video narratives for general visits and several individual experiences.",
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+      },
+      {
+        "domain": "mobility",
+        "text": "Selected family restrooms include adult changing tables. A courtesy cart can assist visitors with mobility concerns along a fixed return route to Vine Street Village.",
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+      },
+      {
+        "domain": "chronic",
+        "text": "An Access Pass lets visitors who have significant difficulty standing or waiting queue outside the physical line for selected rides and experiences, with the same wait time.",
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Courtesy cart service is first come, first served. Ride restrictions and mobility-device transfer requirements vary; check the official guide. Address source: https://cincinnatizoo.org/plan-your-adventure/"
+  },
+  {
+    "name": "Taft Museum of Art",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "museum",
+    "address": "316 Pike Street, Cincinnati, OH 45202",
+    "website": "https://www.taftmuseum.org/",
+    "source_url": "https://www.taftmuseum.org/visitor-information/",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The museum lists ramps, elevators, lifts, accessible restrooms and wheelchairs. Ask the admissions team for a wheelchair or lift assistance.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/"
+      },
+      {
+        "domain": "sensory",
+        "text": "A quiet room and noise-reducing headphones are available. Admissions provides Braille and large-print visitor materials.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/"
+      },
+      {
+        "domain": "chronic",
+        "text": "The museum's carry-in policy permits water for medical purposes; otherwise outside food and drink are prohibited.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm individual accommodation needs with accessibility@taftmuseum.org."
+  },
+  {
+    "name": "Contemporary Arts Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "museum",
+    "address": "44 East 6th Street, Cincinnati, OH 45202",
+    "website": "https://www.contemporaryartscenter.org/",
+    "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The 6th Street entrance is at street level with an automatic door. Elevators reach all floors. Accessible restrooms are on all floors except the lobby.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+      },
+      {
+        "domain": "sensory",
+        "text": "The front desk lends wheelchairs, stools, hearing amplifiers, large-print exhibition text and sensory bags without charge.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+      },
+      {
+        "domain": "cognitive",
+        "text": "Sensory bags include a narrative and map. Free tours for visitors with memory loss and their caregivers can be arranged with two weeks' notice.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+      },
+      {
+        "domain": "sensory",
+        "text": "ASL interpretation for public programs and audio-described tours require two weeks' notice.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm scheduled accommodations with the center. Gallery access may change during exhibition installation."
+  },
+  {
+    "name": "Cincinnati Playhouse in the Park",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "theater",
+    "address": "962 Mt. Adams Circle, Cincinnati, OH 45202",
+    "website": "https://cincyplay.com/",
+    "source_url": "https://cincyplay.com/visit/accessibility",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Wheelchair seating is available in both theaters; the Rouse Theatre also offers transfer seats. Request these when reserving tickets.",
+        "source_url": "https://cincyplay.com/visit/accessibility"
+      },
+      {
+        "domain": "sensory",
+        "text": "Both theaters use hearing loops compatible with T-coil devices and offer hearing-enhancement receivers. Large-print programs are available from ushers.",
+        "source_url": "https://cincyplay.com/visit/accessibility"
+      },
+      {
+        "domain": "cognitive",
+        "text": "Selected sensory-friendly/relaxed performances accommodate visitors who benefit from a more relaxed setting; check the performance calendar.",
+        "source_url": "https://cincyplay.com/visit/accessibility"
+      },
+      {
+        "domain": "sensory",
+        "text": "ASL and audio description are offered on designated performance dates.",
+        "source_url": "https://cincyplay.com/visit/accessibility"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Accessible garage parking is limited and requires advance reservation and payment, plus a valid placard. Accessible seats are subject to availability."
+  },
+  {
+    "name": "Aronoff Center for the Arts",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "theater",
+    "address": "650 Walnut Street, Cincinnati, OH 45202",
+    "website": "https://www.cincinnatiarts.org/aronoff-center",
+    "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Accessible seating is offered in all theaters. For Procter & Gamble Hall, enter at street level and use elevators to reach the appropriate seating level.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1"
+      },
+      {
+        "domain": "mobility",
+        "text": "A courtesy wheelchair can assist visitors between the lobby and seats, first come, first served.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1"
+      },
+      {
+        "domain": "sensory",
+        "text": "Assistive listening devices are available at Guest Services in the Procter & Gamble Hall Marble Lobby. Audio description and ASL performances can be requested at least three weeks ahead.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Contact the ticket office in advance for seating and performance-specific accommodations."
+  },
+  {
+    "name": "Cincinnati Music Hall",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "theater",
+    "website": "https://www.cincinnatiarts.org/music-hall",
+    "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The accessible entrance is on Elm Street at the southeast side. South elevators serve every level, including the Ballroom; a north elevator also serves all levels.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+      },
+      {
+        "domain": "mobility",
+        "text": "Access Ambassadors at the southeast entrance provide wayfinding and seat assistance; wheelchairs can be requested for transport from curb or lobby to seats.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+      },
+      {
+        "domain": "sensory",
+        "text": "Guest Services in the Lindner Grand Foyer provides assistive listening devices with a neck loop for T-coil users.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+      },
+      {
+        "domain": "chronic",
+        "text": "First-aid services are located in the North Concourse on the Orchestra level; ask staff for assistance.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Arrange special seating with the box office in advance when possible."
+  },
+  {
+    "name": "Downtown Main Library",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "library",
+    "address": "800 Vine Street, Cincinnati, OH 45202",
+    "website": "https://chpl.org/locations/1/",
+    "source_url": "https://chpl.org/locations/1/",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is in the gated lot north of 9th Street. Use the intercom with a disability parking placard visible; staff assistance entering the library can be requested.",
+        "source_url": "https://chpl.org/locations/1/"
+      },
+      {
+        "domain": "mobility",
+        "text": "The South Plaza is at street level. The location page directs visitors to the Vine Street or Walnut Street entrances because the 9th Street entrance is closed.",
+        "source_url": "https://chpl.org/locations/1/"
+      },
+      {
+        "domain": "cognitive",
+        "text": "A downloadable building map is available, with free printed copies at the library.",
+        "source_url": "https://chpl.org/locations/1/"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Entrance closure is time-sensitive. Confirm the route and facilities needed for your visit."
+  },
+  {
+    "name": "Harrison Branch Library",
+    "city": "Harrison",
+    "state": "OH",
+    "category": "library",
+    "address": "10398 New Haven Road, Harrison, OH 45030",
+    "website": "https://chpl.org/locations/ha/",
+    "source_url": "https://chpl.org/locations/ha/",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The branch's official facility list identifies accessible facilities.",
+        "source_url": "https://chpl.org/locations/ha/"
+      },
+      {
+        "domain": "chronic",
+        "text": "The branch lists both curbside service and a drive-through.",
+        "source_url": "https://chpl.org/locations/ha/"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The facility list does not specify door widths, restroom layout or sensory conditions. Contact the branch for details."
+  },
+  {
+    "name": "Winton Woods",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "park",
+    "address": "10245 Winton Road, Cincinnati, OH 45231",
+    "website": "https://www.greatparks.org/parks/winton-woods",
+    "source_url": "https://www.greatparks.org/about/accessibility",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Great Parks lists an accessible canoe/kayak transfer launch at the harbor and an accessible playground at Harper Meadows.",
+        "source_url": "https://www.greatparks.org/about/accessibility"
+      },
+      {
+        "domain": "mobility",
+        "text": "A Zero G-Chair swing is listed at Winton Woods.",
+        "source_url": "https://www.greatparks.org/about/accessibility"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Verify current launch operation and park closures. Address source: https://www.greatparks.org/parks/winton-woods"
+  },
+  {
+    "name": "Miami Whitewater Forest",
+    "city": "Harrison",
+    "state": "OH",
+    "category": "park",
+    "address": "9001 Mt. Hope Road, Harrison, OH 45030",
+    "website": "https://www.greatparks.org/parks/miami-whitewater-forest",
+    "source_url": "https://www.greatparks.org/about/accessibility",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "An accessible canoe/kayak launch uses a sliding transfer bench.",
+        "source_url": "https://www.greatparks.org/about/accessibility"
+      },
+      {
+        "domain": "mobility",
+        "text": "The park has a Zero G-Chair swing; the golf course offers reservable Solo Rider carts.",
+        "source_url": "https://www.greatparks.org/about/accessibility"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm availability before visiting. Address source: https://www.greatparks.org/parks/miami-whitewater-forest"
+  },
+  {
+    "name": "Sharon Woods",
+    "city": "Sharonville",
+    "state": "OH",
+    "category": "park",
+    "address": "11450 Lebanon Road, Sharonville, OH 45241",
+    "website": "https://www.greatparks.org/parks/sharon-woods",
+    "source_url": "https://www.greatparks.org/about/accessibility",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Great Parks lists an accessible playground and a Zero G-Chair swing.",
+        "source_url": "https://www.greatparks.org/about/accessibility"
+      },
+      {
+        "domain": "mobility",
+        "text": "Sharon Woods is specifically excluded from Great Parks' blanket statement about accessible paved shared-use trails.",
+        "source_url": "https://www.greatparks.org/about/accessibility"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Harbor construction affects amenities; check closures. Address and construction source: https://www.greatparks.org/parks/sharon-woods"
+  },
+  {
+    "name": "Francis RecreAcres",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "park",
+    "address": "11982 Conrey Road, Cincinnati, OH 45249",
+    "website": "https://www.greatparks.org/parks/francis-recreacres",
+    "source_url": "https://www.greatparks.org/about/accessibility",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The accessible playground includes rubber surfacing and wide ramps.",
+        "source_url": "https://www.greatparks.org/about/accessibility"
+      },
+      {
+        "domain": "mobility",
+        "text": "The park page lists an easy, one-mile shared-use loop passing the playground and soccer fields.",
+        "source_url": "https://www.greatparks.org/parks/francis-recreacres"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm current conditions. Address source: https://www.greatparks.org/parks/francis-recreacres"
+  },
+  {
+    "name": "Pyramid Hill Sculpture Park & Museum",
+    "city": "Hamilton",
+    "state": "OH",
+    "category": "park",
+    "address": "1763 Hamilton Cleves Road, Hamilton, OH 45013",
+    "website": "https://www.pyramidhill.org/",
+    "source_url": "https://www.pyramidhill.org/visit",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Paved routes run through the park, but some have steep hills or uneven ground. A ramp for the Visitor Center is available on request.",
+        "source_url": "https://www.pyramidhill.org/visit"
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchair-accessible restrooms are listed in the Pyramid House and Gallery Museum during museum hours. The Pavilion restroom building has a small entrance step.",
+        "source_url": "https://www.pyramidhill.org/visit"
+      },
+      {
+        "domain": "sensory",
+        "text": "The mobile web app offers recorded sculpture descriptions. Docents in the Pyramid House can provide 3D copies of selected sculptures for tactile study.",
+        "source_url": "https://www.pyramidhill.org/visit"
+      },
+      {
+        "domain": "chronic",
+        "text": "Call the park about reserving an Art Cart for mobility needs; rentals depend on weather and availability.",
+        "source_url": "https://www.pyramidhill.org/visit"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The page describes a wheelchair-accessible Gallery Museum entrance but also a small step; confirm the step-free route directly before relying on it."
+  },
+  {
+    "name": "Cincinnati Nature Center — Rowe Woods",
+    "city": "Milford",
+    "state": "OH",
+    "category": "park",
+    "website": "https://www.cincynature.org/",
+    "source_url": "https://www.cincynature.org/visit",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The center describes the 0.72-mile Mashburn Family Discovery Trail as all-accessible.",
+        "source_url": "https://www.cincynature.org/visit"
+      },
+      {
+        "domain": "mobility",
+        "text": "Designated accessible parking is listed at the Rowe Visitor Center, Krippendorf Lodge and Nature PlayScape lots.",
+        "source_url": "https://www.cincynature.org/visit"
+      },
+      {
+        "domain": "mobility",
+        "text": "Other trails vary in surface and slope, with some rocky creek crossings, steep stairs or inclines. Visitor Services can discuss routes and accommodation needs.",
+        "source_url": "https://www.cincynature.org/visit"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. An accessible designation for the Discovery Trail does not apply to all Rowe Woods trails. Confirm surface conditions and route suitability."
+  },
+  {
+    "name": "Bettman Nature Preserve & Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "park",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks describes a paved wheelchair-accessible path leading to views of the preserve.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/"
+      }
+    ],
+    "limitations": "Public website information from the official park search result; full-page retrieval was unreliable. No on-site audit. Building, restroom and other trail accessibility were not established."
+  },
+  {
+    "name": "National Underground Railroad Freedom Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "museum",
+    "website": "https://freedomcenter.org/",
+    "source_url": "https://freedomcenter.org/visit/accessibility/",
+    "checked_at": "2026-09-10",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Elevators connect each floor. Accessible restrooms are listed on the first, third and fourth floors. Wheelchairs and ECVs are available from the front desk, first come, first served.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/"
+      },
+      {
+        "domain": "sensory",
+        "text": "A Braille museum map is available at check-in. Permanent-gallery videos have open captions, while temporary-exhibition audio is transcribed in panels or guides.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/"
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Visual Welcome Guide is available to prepare for a museum visit.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/"
+      },
+      {
+        "domain": "sensory",
+        "text": "The museum reports accessibility carts on the second and third floors with headphones, fidgets and sunglasses.",
+        "source_url": "https://freedomcenter.org/voice/accessibilitytools-copy/"
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Rentals cannot leave the museum; ECV rental has a fee and agreement requirements. Confirm equipment and accommodation availability."
+  }
+]

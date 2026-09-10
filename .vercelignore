@@ -1,0 +1,7 @@
+pipeline/
+docs/
+e2e/
+test-results/
+playwright-report/
+coverage/
+*.tsbuildinfo

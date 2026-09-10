@@ -28,14 +28,14 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "AccessReview | Accessibility Reviews for Greater Cincinnati & Northern Kentucky",
-    template: "%s | AccessReview",
+    default: "Threshold | Local access information for Greater Cincinnati & Northern Kentucky",
+    template: "%s | Threshold",
   },
   description:
-    "Real accessibility reviews by real people with mobility challenges. Know before you go. Restaurants, venues, and public spaces rated for wheelchair, scooter, and walker access.",
+    "Source-linked accessibility information for places in Greater Cincinnati and Northern Kentucky. Know before you go.",
   openGraph: {
-    title: "AccessReview",
-    description: "Real accessibility reviews for Greater Cincinnati & NKY",
+    title: "Threshold",
+    description: "Public-source access information for Greater Cincinnati & Northern Kentucky",
     type: "website",
   },
 };

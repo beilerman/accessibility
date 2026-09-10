@@ -10,6 +10,9 @@ import { formatDate } from "@/lib/utils";
 import { EditorialReviewHero } from "@/components/review/EditorialReviewHero";
 import { ReviewCard } from "@/components/review/ReviewCard";
 
+// Only publish reviews explicitly returned by the approved build-time data path.
+export const dynamicParams = false;
+
 // --- Body renderer ---
 
 function renderBoldText(text: string): React.ReactNode[] {
