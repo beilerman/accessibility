@@ -28,4 +28,15 @@ Original images were inspected full-size. Downloaded web assets retain full fram
 
 Local: 27 unit tests passed; final data contract checks passed. Build and TypeScript passed. Fifteen browser tests passed, including automated accessibility scans, review filtering/source links, date uncertainty, venue navigation, image disclosure/loading and mobile layout. Lint has no errors and the same 16 legacy warnings. Desktop and mobile report layouts visually inspected. Independent agent review checked specialist source summaries and the report presentation; publication dates for Reddit comments were verified from matched comment IDs and timestamps.
 
-Production verification pending.
+Published to https://accessibility-omega-ten.vercel.app/visitor-reports.
+
+- Source commit: `0206b3ca6e15ab0f801ac2b09edd9f4c16be0324`.
+- Production deployment: `dpl_2f4LUxGzK34pSV1pRuJYDid8VBed`, READY, built without cached output.
+- Deployment URL: https://accessibility-9cpz1jwut-brad-eilermans-projects.vercel.app.
+- Live browser verified all 17 summaries and original-source link targets, combined filters, venue navigation, current CSS, and all 32 decoded listing images (20 real photos, 12 artworks).
+- All 32 detail pages returned HTTP 200 with the expected per-venue report count. All five new photo bytes matched local assets.
+- Live report page automated accessibility scan: zero violations in the selected WCAG A/AA rules. No browser page errors or mobile horizontal overflow. Final mobile report and CVG-photo screenshots visually inspected; Chrome navigation also confirmed the two Art Museum reports.
+- The first standalone production axe harness required an explicit browser context. The harness was corrected and the complete verification then passed; no product change was needed.
+- Bounded deployment error-log query (10 minutes) returned no logs; this is not continuous monitoring.
+- Rollback reference: prior deployment `dpl_DEWAVZPCEQLafLFTrBqeBbvTnaE4`.
+
