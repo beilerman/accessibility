@@ -3,8 +3,9 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { ArrowLeft, ArrowUpRight, MapPin } from "lucide-react";
 import { places, DOMAIN_LABELS, dateLabel } from "@/lib/catalog";
-import { photoForPlace } from "@/lib/media";
+import { photoForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "@/components/catalog/VenuePhoto";
+import { CategoryArt } from "@/components/catalog/CategoryArt";
 export function generateStaticParams() {
   return places.map((p) => ({ slug: p.slug }));
 }
@@ -31,6 +32,7 @@ export default async function PlacePage({
   const p = places.find((p) => p.slug === slug);
   if (!p) notFound();
   const photo = photoForPlace(p.slug);
+  const artwork = artForCategory(p.category);
   return (
     <div className="page-shell py-10">
       <Link
@@ -51,7 +53,11 @@ export default async function PlacePage({
           {p.city}, {p.state}
         </p>
       </div>
-      {photo && <VenuePhoto photo={photo} />}
+      {photo ? (
+        <VenuePhoto photo={photo} />
+      ) : artwork ? (
+        <CategoryArt item={artwork} />
+      ) : null}
       <div className="evidence-banner">
         <strong>From official public websites</strong>
         <span>

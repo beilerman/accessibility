@@ -101,6 +101,44 @@ test("photos load with credits and AI examples have visible disclosure", async (
       .toBe(true);
   }
 });
+test("every listing has a labeled visual and illustrated category links filter correctly", async ({
+  page,
+}) => {
+  await page.goto("/venues");
+  const cards = page.locator("article.place-card");
+  await expect(cards).toHaveCount(32);
+  await expect(cards.locator("figure img")).toHaveCount(32);
+  for (const figure of await cards.locator("figure.category-art").all()) {
+    await expect(figure.getByText(/AI artwork/)).toBeVisible();
+    await expect(
+      figure.getByText("Imagined scene, not a photograph of this venue."),
+    ).toBeVisible();
+  }
+  await page.goto("/");
+  await page
+    .getByRole("link", { name: "Explore Libraries", exact: true })
+    .click();
+  await expect(page).toHaveURL(/category=Libraries/);
+  await expect(page.getByLabel("Type of place")).toHaveValue("Libraries");
+  await page
+    .getByRole("link", {
+      name: "Boone County Public Library — Walton Branch",
+      exact: true,
+    })
+    .click();
+  await expect(page).toHaveURL(
+    /\/venues\/boone-county-public-library-walton-branch$/,
+  );
+  await expect(
+    page
+      .locator("figure.category-art")
+      .getByText("AI artwork · Libraries", { exact: true }),
+  ).toBeVisible();
+  await expect(page.locator("figure.category-art img")).toHaveAttribute(
+    "alt",
+    /^AI/,
+  );
+});
 test("disabled community routes never collect information or contact Supabase", async ({
   page,
 }) => {

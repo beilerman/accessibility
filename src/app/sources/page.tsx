@@ -77,6 +77,12 @@ export default function Sources() {
         Threshold.
       </p>
       <h2>Photo credits</h2>
+      <p>
+        Where a venue photograph is unavailable, stylized category artwork
+        supplies visual context. Each use is labeled “AI artwork” and depicts an
+        imagined scene; it makes no claim about that venue’s appearance or
+        accessibility.
+      </p>
       <ul className="source-register">
         {venuePhotos.map((photo) => (
           <li key={photo.src}>

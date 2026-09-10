@@ -35,7 +35,7 @@ export function VenuePhoto({
         {!compact && <p>{photo.caption}</p>}
         <p>
           <a href={photo.sourceUrl} target="_blank" rel="noopener noreferrer">
-            Photo: {photo.author}
+            {photo.creditText || `Photo: ${photo.author}`}
             <span className="sr-only"> (source opens in new tab)</span>
           </a>
           {" · "}

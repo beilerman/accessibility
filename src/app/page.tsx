@@ -5,6 +5,8 @@ import { places, factCount, DOMAIN_LABELS } from "@/lib/catalog";
 import { PlaceCard } from "@/components/catalog/PlaceCard";
 import { illustrations } from "@/lib/media";
 import { AccessIllustration } from "@/components/catalog/AccessIllustration";
+import Image from "next/image";
+import { categoryArt } from "@/lib/media";
 
 export const metadata: Metadata = {
   title: "Know before you go — Greater Cincinnati & Northern Kentucky",
@@ -115,6 +117,39 @@ export default function Home() {
           These filters find published information. They do not decide whether a
           place will work for you.
         </p>
+      </section>
+      <section
+        className="py-12 border-b border-border"
+        aria-labelledby="categories-heading"
+      >
+        <p className="eyebrow">MAKE A DAY OF IT</p>
+        <h2 id="categories-heading" className="font-display text-3xl mt-3">
+          Find your kind of place.
+        </h2>
+        <div className="category-tiles mt-7">
+          {categoryArt.map((item) => (
+            <Link
+              key={item.category}
+              href={`/venues?category=${encodeURIComponent(item.category)}`}
+              className="category-tile"
+              aria-label={`Explore ${item.category}`}
+            >
+              <Image
+                src={item.src}
+                width={item.width}
+                height={item.height}
+                alt=""
+                sizes="(max-width: 700px) 45vw, 230px"
+              />
+              <span className="font-semibold block px-4 pt-4">
+                {item.category}
+              </span>
+              <span className="block px-4 pb-4 pt-1 text-xs text-muted-foreground">
+                AI category artwork
+              </span>
+            </Link>
+          ))}
+        </div>
       </section>
       <section className="py-12" aria-labelledby="explore-heading">
         <div className="flex flex-wrap justify-between items-end gap-4 mb-8">

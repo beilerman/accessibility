@@ -1,10 +1,32 @@
 import { describe, expect, it } from "vitest";
 import { existsSync } from "node:fs";
 import path from "node:path";
-import { venuePhotos, illustrations } from "@/lib/media";
+import {
+  venuePhotos,
+  illustrations,
+  categoryArt,
+  artForCategory,
+  photoForPlace,
+} from "@/lib/media";
 import { places } from "@/lib/catalog";
 
 describe("Public image provenance", () => {
+  it("provides every listing with either a real photo or explicitly generated category art", () => {
+    expect(new Set(categoryArt.map((item) => item.category)).size).toBe(
+      categoryArt.length,
+    );
+    for (const item of categoryArt) {
+      expect(item.alt).toMatch(/^AI/);
+      expect(item.src.startsWith("/images/categories/")).toBe(true);
+      expect(existsSync(path.join(process.cwd(), "public", item.src))).toBe(
+        true,
+      );
+    }
+    for (const place of places)
+      expect(
+        photoForPlace(place.slug) || artForCategory(place.category),
+      ).toBeTruthy();
+  });
   it("requires local venue images to have valid place mappings and reusable-source credits", () => {
     expect(venuePhotos.length).toBeGreaterThan(0);
     expect(new Set(venuePhotos.map((p) => p.src)).size).toBe(

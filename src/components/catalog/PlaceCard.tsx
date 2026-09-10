@@ -1,13 +1,22 @@
 import Link from "next/link";
 import { ArrowUpRight, MapPin } from "lucide-react";
 import { DOMAIN_LABELS, dateLabel, type PublicPlace } from "@/lib/catalog";
-import { photoForPlace } from "@/lib/media";
+import { photoForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "./VenuePhoto";
+import { CategoryArt } from "./CategoryArt";
 
 export function PlaceCard({ place }: { place: PublicPlace }) {
   const photo = photoForPlace(place.slug);
+  const artwork = artForCategory(place.category);
   return (
     <article className="place-card" aria-labelledby={`place-${place.slug}`}>
+      <div className="card-visual">
+        {photo ? (
+          <VenuePhoto photo={photo} compact />
+        ) : artwork ? (
+          <CategoryArt item={artwork} compact />
+        ) : null}
+      </div>
       <div className="flex justify-between gap-3 items-start">
         <span className="eyebrow">{place.category}</span>
         <span className="region-pill">
@@ -23,7 +32,6 @@ export function PlaceCard({ place }: { place: PublicPlace }) {
           <ArrowUpRight className="inline ml-1 h-4 w-4" aria-hidden="true" />
         </Link>
       </h2>
-      {photo && <VenuePhoto photo={photo} compact />}
       <p className="flex items-center gap-2 text-sm text-muted-foreground">
         <MapPin className="w-4 h-4" aria-hidden="true" />
         {place.city}, {place.state}
