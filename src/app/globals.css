@@ -196,3 +196,7 @@ body {
 .category-tile img { display:block; width:100%; height:auto; aspect-ratio:3/2; object-fit:contain; }
 @media(max-width:700px) { .category-tiles {grid-template-columns:repeat(2,minmax(0,1fr));} }
 @media(max-width:800px) { .visual-guide-section {grid-template-columns:1fr; gap:24px;} .guide-questions {padding-top:0;} }
+
+.visitor-report { padding:24px 0; border-top:1px solid var(--border); overflow-wrap:anywhere; }
+.report-method { padding:20px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border); line-height:1.8; }
+#visitor-reports, #visitor-evidence { scroll-margin-top:90px; }

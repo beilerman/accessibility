@@ -16,6 +16,7 @@ export function Footer() {
           </div>
           <nav aria-label="Footer" className="flex flex-wrap gap-x-8 gap-y-3">
             <Link href="/venues">Browse places</Link>
+            <Link href="/visitor-reports">Visitor reports</Link>
             <Link href="/access-in-pictures">Visual guide</Link>
             <Link href="/sources">Sources & evidence</Link>
             <Link href="/accessibility">Using this site</Link>

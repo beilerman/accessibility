@@ -94,6 +94,14 @@ export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
           <BookOpen className="h-5 w-5" aria-hidden="true" />
           Visual guide
         </Link>
+        <Link
+          href="/visitor-reports"
+          onClick={onClose}
+          className="flex items-center gap-3 px-3 py-3 rounded-lg min-h-[44px] text-muted-foreground hover:text-foreground hover:bg-muted"
+        >
+          <BookOpen className="h-5 w-5" aria-hidden="true" />
+          Visitor reports
+        </Link>
         {/* Divider */}
         {COMMUNITY_ENABLED && <div className="h-px bg-border my-2" />}
 

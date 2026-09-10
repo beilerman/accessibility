@@ -4,8 +4,10 @@ import { DOMAIN_LABELS, dateLabel, type PublicPlace } from "@/lib/catalog";
 import { photoForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "./VenuePhoto";
 import { CategoryArt } from "./CategoryArt";
+import { reportsForPlace } from "@/lib/visitor-reports";
 
 export function PlaceCard({ place }: { place: PublicPlace }) {
+  const reportCount = reportsForPlace(place.slug).length;
   const photo = photoForPlace(place.slug);
   const artwork = artForCategory(place.category);
   return (
@@ -47,6 +49,16 @@ export function PlaceCard({ place }: { place: PublicPlace }) {
           </li>
         ))}
       </ul>
+      {reportCount > 0 && (
+        <Link
+          className="text-sm underline inline-flex min-h-11 items-center"
+          href={`/venues/${place.slug}#visitor-reports`}
+        >
+          {reportCount} external visitor{" "}
+          {reportCount === 1 ? "report" : "reports"}
+          <span className="sr-only"> for {place.name}</span>
+        </Link>
+      )}
       <div className="mt-auto pt-6 text-xs text-muted-foreground border-t border-border">
         <p className="font-semibold text-foreground">
           From official public websites · Not field audited

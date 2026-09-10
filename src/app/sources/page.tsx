@@ -22,8 +22,9 @@ export default function Sources() {
           <dt className="font-bold">From official public websites</dt>
           <dd>
             A summary of information published by the venue or its managing
-            organization. This is the evidence used in the current directory. It
-            is not a verified owner submission or an on-site audit.
+            organization. These notes appear separately from visitor reports.
+            This information is not a verified owner submission or an on-site
+            audit.
           </dd>
         </div>
         <div>
@@ -53,6 +54,34 @@ export default function Sources() {
         Search filters identify the kind of information available, including
         barriers. They are not endorsements or personal fit predictions. None of
         these listings establishes legal compliance.
+      </p>
+      <h2 id="visitor-evidence">Visitor reports: selection and limits</h2>
+      <p>
+        Visitor reports are short paraphrases of identifiable public accounts.
+        Each names the publication and public author where available, links to
+        the original, and distinguishes publication, visit and source-check
+        dates. A source check does not verify the experience.
+      </p>
+      <p>
+        We prioritize specific observations about routes, equipment, sensory
+        conditions, communication and everyday needs. We retain barriers and
+        positive experiences, disclose historical or promotional context, and
+        avoid turning one account into a claim about all visits. Search snippets
+        alone, generated review summaries, unattributed aggregations and private
+        discussions are not included.
+      </p>
+      <p>
+        Coverage is uneven and selected for relevance, not statistical balance.
+        We do not calculate ratings, count votes as corroboration, or imply that
+        public authors submitted a review here. Unknown dates remain unknown.
+        Reviewer photos are not copied without a reusable license.
+      </p>
+      <p>
+        <Link href="/visitor-reports" className="underline">
+          Browse visitor reports and their original sources.
+        </Link>{" "}
+        Each venue page keeps these accounts below its official information,
+        including any qualifications needed to interpret older reports.
       </p>
       <h2>Images, reviews, and attribution</h2>
       <p>

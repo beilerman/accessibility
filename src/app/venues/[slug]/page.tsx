@@ -6,6 +6,8 @@ import { places, DOMAIN_LABELS, dateLabel } from "@/lib/catalog";
 import { photoForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "@/components/catalog/VenuePhoto";
 import { CategoryArt } from "@/components/catalog/CategoryArt";
+import { reportsForPlace } from "@/lib/visitor-reports";
+import { VisitorReport } from "@/components/catalog/VisitorReport";
 export function generateStaticParams() {
   return places.map((p) => ({ slug: p.slug }));
 }
@@ -31,6 +33,7 @@ export default async function PlacePage({
   const { slug } = await params;
   const p = places.find((p) => p.slug === slug);
   if (!p) notFound();
+  const reports = reportsForPlace(p.slug);
   const photo = photoForPlace(p.slug);
   const artwork = artForCategory(p.category);
   return (
@@ -70,7 +73,9 @@ export default async function PlacePage({
       </div>
       <div className="detail-grid">
         <div>
-          <h2 className="font-display text-3xl mb-7">What the sources say</h2>
+          <h2 className="font-display text-3xl mb-7">
+            What the venue publishes
+          </h2>
           {Object.entries(DOMAIN_LABELS).map(([key, label]) => {
             const facts = p.facts.filter((f) => f.domain === key);
             return (
@@ -167,6 +172,39 @@ export default async function PlacePage({
           </section>
         </aside>
       </div>
+      <section
+        id="visitor-reports"
+        className="py-10 border-t border-border"
+        aria-labelledby="visitor-heading"
+      >
+        <h2 id="visitor-heading" className="font-display text-3xl">
+          Visitor reports from around the web
+        </h2>
+        <p className="mt-4 max-w-3xl leading-relaxed">
+          These accounts describe individual experiences and may be historical.
+          They are separate from the venue’s published information and have not
+          been independently verified by Threshold.
+        </p>
+        {reports.length ? (
+          <div className="mt-7 max-w-4xl space-y-7">
+            {reports.map((report) => (
+              <VisitorReport key={report.id} report={report} />
+            ))}
+          </div>
+        ) : (
+          <p className="mt-5 text-muted-foreground">
+            No sufficiently attributable accessibility report is included for
+            this place yet. That is a research gap, not evidence about the
+            quality of access.
+          </p>
+        )}
+        <Link
+          href="/visitor-reports"
+          className="underline inline-flex min-h-11 items-center mt-5"
+        >
+          Explore all visitor reports
+        </Link>
+      </section>
     </div>
   );
 }

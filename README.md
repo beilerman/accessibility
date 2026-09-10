@@ -35,11 +35,15 @@ The recovered repository is Next.js 16 / React 19; the plan's proposed Vite migr
 
 ## Images
 
-Fifteen real venue photographs are stored under `public/images/venues/`, with author, license, source and date records in `src/data/photos-ky.json`, `photos-oh.json`, and `photos-extra.json`. These are archival context, not current access inspections. Keep the full frame and linked attribution when displaying them.
+Twenty real venue photographs are stored under `public/images/venues/`, with author, license, source and date records in `src/data/photos-ky.json`, `photos-oh.json`, `photos-extra.json`, and `photos-research.json`. These are archival context, not current access inspections. Keep the full frame and linked attribution when displaying them.
 
 Three photorealistic educational examples live under `public/images/illustrations/`. Every appearance uses the readable caption **AI illustration — example setting**. They are never used as venue photographs. Prompts, provenance and visual review are in `docs/research/ai-illustrations.md`; reusable-photo research is in the adjacent `photos-ky.md` and `photos-oh.md` files.
 
-Five labeled AI category artworks provide visual context for the 17 listings without venue photographs and introduce the homepage category navigation. All 32 listing cards and detail pages have a visual. These artworks depict imagined scenes; they do not establish venue conditions. Prompts and visual review are in `docs/research/category-art.md`.
+Five labeled AI category artworks provide visual context for the 12 listings without venue photographs and introduce the homepage category navigation. All 32 listing cards and detail pages have a visual. These artworks depict imagined scenes; they do not establish venue conditions. Prompts and visual review are in `docs/research/category-art.md`.
+
+## Visitor reports
+
+Seventeen selected public accessibility reviews/comments cover 12 of the 32 venues. Source-linked summaries, known dates, unknown visit dates and context appear in a separate `/visitor-reports` browser and below official venue information. Reports are not Threshold submissions, independent audits or ratings. The `visitor-reports-*.json` files supply this layer; archival candidates and venue-by-venue search coverage are preserved in `docs/research/`. No private discussions, copied reviewer photos or generated reviews are used.
 
 ## Content updates
 

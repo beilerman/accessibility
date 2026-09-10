@@ -1,6 +1,7 @@
 import kyPhotos from "@/data/photos-ky.json";
 import ohPhotos from "@/data/photos-oh.json";
 import generated from "@/data/illustrations.json";
+import researchPhotos from "@/data/photos-research.json";
 import extraPhotos from "@/data/photos-extra.json";
 import categoryImages from "@/data/category-art.json";
 
@@ -47,6 +48,7 @@ export const venuePhotos: VenuePhoto[] = [
   ...kyPhotos,
   ...ohPhotos,
   ...extraPhotos,
+  ...researchPhotos,
 ];
 export const illustrations: AccessIllustration[] = generated;
 export const categoryArt: CategoryArt[] = categoryImages;

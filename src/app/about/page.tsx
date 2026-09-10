@@ -17,9 +17,10 @@ export default function About() {
         restrictions and uncertainty alongside available support.
       </p>
       <p>
-        This first directory contains public website research. It has no
-        Threshold field audits, verified organization submissions, or firsthand
-        visitor reviews yet. A public policy does not confirm what you will
+        This directory combines official public website research with a separate
+        collection of attributed visitor reports from external sources. It has
+        no Threshold field audits or verified organization submissions. A public
+        policy or another person’s experience does not confirm what you will
         experience on the day.
       </p>
       <h2>Different needs, useful details</h2>

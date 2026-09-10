@@ -6,6 +6,7 @@ const routes = [
   "/venues/newport-aquarium",
   "/about",
   "/sources",
+  "/visitor-reports",
   "/accessibility",
   "/access-in-pictures",
   "/login",
@@ -202,4 +203,59 @@ test("keyboard-only search and mobile navigation, narrow layout and dark theme",
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
     .analyze();
   expect(scan.violations).toEqual([]);
+});
+
+test("visitor reports preserve context, filter correctly and link back to venue evidence", async ({
+  page,
+}) => {
+  await page.goto("/visitor-reports");
+  await expect(page.getByText(/not a representative survey/)).toBeVisible();
+  await page
+    .getByLabel("Place or experience", { exact: true })
+    .fill("touch tour");
+  await page.getByLabel("Report area", { exact: true }).selectOption("OH");
+  await page
+    .getByLabel("Report topic", { exact: true })
+    .selectOption("sensory");
+  await page.getByRole("button", { name: "Find reports", exact: true }).click();
+  const report = page
+    .locator("article.visitor-report")
+    .filter({ hasText: "Even Grounds" });
+  await expect(report).toHaveCount(1);
+  await expect(report.getByText(/Published Oct 30, 2023/)).toBeVisible();
+  await expect(report.getByText(/Exact visit date unknown/)).toBeVisible();
+  await expect(report.getByRole("link")).toHaveAttribute(
+    "href",
+    "https://evengrounds.com/touch-tour-in-the-cincinnati-art-museum/",
+  );
+  await page
+    .getByRole("link", { name: "Cincinnati Art Museum", exact: true })
+    .first()
+    .click();
+  await expect(page).toHaveURL(/cincinnati-art-museum#visitor-reports$/);
+  await expect(
+    page.getByRole("heading", {
+      name: "What the venue publishes",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await expect(
+    page.getByRole("heading", {
+      name: "Visitor reports from around the web",
+      exact: true,
+    }),
+  ).toBeVisible();
+  await page.goto("/visitor-reports?q=no-report-xyz");
+  await expect(
+    page.getByText(
+      "No reports match these filters. Try another place or topic.",
+    ),
+  ).toBeVisible();
+  await page.setViewportSize({ width: 375, height: 812 });
+  await page.goto("/visitor-reports");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth > innerWidth,
+    ),
+  ).toBe(false);
 });
