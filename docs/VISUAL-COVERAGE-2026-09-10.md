@@ -20,4 +20,16 @@ Sources and inspection notes: [extra photos](research/photos-extra.md), [categor
 
 ## Production
 
-Pending deployment and live verification.
+Published at https://accessibility-omega-ten.vercel.app.
+
+- Source commit: `33262efa0624a4fea5276990bb2b6d412e576f8f`.
+- Final production deployment: `dpl_DEWAVZPCEQLafLFTrBqeBbvTnaE4`, READY.
+- Deployment URL: https://accessibility-eyfw1lr8m-brad-eilermans-projects.vercel.app.
+- First deployment served the new images/components but stale CSS. Inspection confirmed absent category-art and grid selectors. Rebuilt with `--force` (without build cache); final live CSS and computed five-column category grid / card margins verified.
+- All 32 listing images decoded in the production browser: 15 real venue photos and 17 labeled category-art appearances.
+- All 20 selected photo/art files returned HTTP 200 and matched local bytes. All 32 detail routes returned HTTP 200 with a visual.
+- All five category links led to populated filtered results; live Chrome navigation confirmed the transportation filter and AI labels.
+- Final desktop homepage and 375px mobile airport-card screenshots inspected. No horizontal overflow or browser page errors.
+- Bounded final deployment error-log query (10 minutes) returned no logs. This is a release-window observation, not continuous monitoring.
+- Previous complete photo-release rollback: `dpl_FYxWKHwxr1wr5ZqmB5BGcDubjWMy`.
+
