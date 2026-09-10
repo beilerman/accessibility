@@ -1,0 +1,135 @@
+{
+  "deployment": "dpl_FYxWKHwxr1wr5ZqmB5BGcDubjWMy",
+  "files": [
+    {
+      "src": "/images/venues/ky-newport-aquarium.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/ky-the-carnegie.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/ky-creation-museum.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/ky-bb-riverboats.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/oh-cincinnati-art-museum.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/oh-cincinnati-museum-center.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/oh-cincinnati-music-hall.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/oh-taft-museum-of-art.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/venues/oh-national-underground-railroad-freedom-center.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/illustrations/entrance.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/illustrations/sensory-kit.webp",
+      "status": 200,
+      "matches": true
+    },
+    {
+      "src": "/images/illustrations/rest-area.webp",
+      "status": 200,
+      "matches": true
+    }
+  ],
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "images": [
+        {
+          "alt": "AI illustration of a fictional entrance with sliding glass doors open to an empty passage and a continuous-looking hard floor.",
+          "loaded": true
+        },
+        {
+          "alt": "Newport Aquarium exterior with its name above the doors and a yellow event banner.",
+          "loaded": true
+        },
+        {
+          "alt": "Stone columns and steps at the Cincinnati Art Museum, with exhibition banners between the columns.",
+          "loaded": true
+        },
+        {
+          "alt": "Union Terminal’s arched facade and clock above a cascading fountain under a blue sky.",
+          "loaded": true
+        },
+        {
+          "alt": "The Carnegie’s stone exterior in Covington, viewed across the street.",
+          "loaded": true
+        },
+        {
+          "alt": "Cincinnati Music Hall’s red-brick facade beneath a blue sky with scattered clouds.",
+          "loaded": true
+        },
+        {
+          "alt": "Belle of Cincinnati riverboat moored on the Ohio River, with Covington in the background.",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "route": "/venues/newport-aquarium",
+      "status": 200,
+      "images": [
+        {
+          "alt": "Newport Aquarium exterior with its name above the doors and a yellow event banner.",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "route": "/access-in-pictures",
+      "status": 200,
+      "images": [
+        {
+          "alt": "AI illustration of a fictional entrance with sliding glass doors open to an empty passage and a continuous-looking hard floor.",
+          "loaded": true
+        },
+        {
+          "alt": "AI illustration of unbranded teal over-ear defenders, a silicone bubble fidget and a beige zip pouch on a tabletop.",
+          "loaded": true
+        },
+        {
+          "alt": "AI illustration of a fictional rest corner with one teal chair with back and armrests, empty floor space beside it and a clear approach.",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "route": "/sources",
+      "status": 200,
+      "images": []
+    }
+  ],
+  "pageErrors": []
+}

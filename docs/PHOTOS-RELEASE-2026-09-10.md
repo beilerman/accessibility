@@ -22,4 +22,12 @@ Rendered desktop home/Newport detail and 375 px mobile guide were visually inspe
 
 ## Deployment
 
-Photo update source commit and production readiness will be appended after publication. Rollback target for this photo update is the already sourced catalog `dpl_H5whfMQDvD5oh6YaBfDMgekxoKg5`; it contains no new imagery.
+Production URL: https://accessibility-omega-ten.vercel.app
+
+Visual guide: https://accessibility-omega-ten.vercel.app/access-in-pictures
+
+Source commit: `3dfd8ede5c941f9a89d4c6aef48ba69ac6f544da`. Deployment: `dpl_FYxWKHwxr1wr5ZqmB5BGcDubjWMy`, production READY, 16-second remote build; production alias assigned.
+
+Live checks: all 12 image files returned 200 with SHA-256 hashes identical to local assets. Home, Newport detail, visual guide and source register returned 200; every image in those browser flows decoded successfully. Browser page-error capture was empty. Chrome navigation from home to the visual guide visibly confirmed all 3 AI disclosure labels and explanatory text. Machine-readable evidence: [photos-live-verification.json](photos-live-verification.json). Rollback target for this photo update is the already sourced catalog `dpl_H5whfMQDvD5oh6YaBfDMgekxoKg5`; it contains no new imagery.
+
+Post-deployment log query: `vercel logs --deployment dpl_FYxWKHwxr1wr5ZqmB5BGcDubjWMy --level error --since 10m` returned no logs. This is a bounded error query, not continuous monitoring. No observability integrations were added.

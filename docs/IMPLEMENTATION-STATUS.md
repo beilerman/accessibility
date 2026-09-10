@@ -4,7 +4,7 @@ Updated 2026-09-10. This is the current execution record; the older plans' compl
 
 ## Outcome and scope
 
-The local read-only directory is implemented and validated with 32 places and 106 sourced facts across Northern Kentucky and Greater Cincinnati. The sourced directory was published to production after the user approved it. The requested photo update adds nine licensed venue photographs and three labeled AI teaching illustrations; its release verification is tracked below. The full six-week program remains unfinished, including community accounts, database authorization, organization claims and field reviews.
+The local read-only directory is implemented and validated with 32 places and 106 sourced facts across Northern Kentucky and Greater Cincinnati. The sourced directory was published to production after the user approved it. The requested photo update is also live: nine licensed venue photographs and three labeled AI teaching illustrations; production checks are recorded below. The full six-week program remains unfinished, including community accounts, database authorization, organization claims and field reviews.
 
 The original Claude v1.1 plan is now preserved verbatim in [PLAN.md](PLAN.md), downloaded from the [Claude artifact](https://claude.ai/cowork/cse_013pQ93PyPT65RBRxNqzjzwt?artifact=18419720-bc48-4c87-9773-5e398c8a0dfa). The [March foundation plan](plans/2026-03-22-001-feat-accessibility-review-site-plan.md) and [auth follow-up](plans/2026-03-22-002-feat-auth-maps-a11y-tests-plan.md) remain historical context. [DECISIONS.md](DECISIONS.md) records the current departures and safeguards; the original plan is not rewritten to imply completion.
 
@@ -22,7 +22,7 @@ The original Claude v1.1 plan is now preserved verbatim in [PLAN.md](PLAN.md), d
 | Security and community workflows | Gated | Accounts, uploads, claims and publication need tested authorization, moderation and attribution. No successful database-policy test has been recorded here. |
 | ThresholdAccess database | Blocked for live reactivation | Coordinating agent observed the project is inactive. Reported alternatives involve paying for capacity or pausing an unrelated service; these require the user's decision. No such action is authorized by this document. |
 | Build and browser validation | Passed for local scope | Build: 46 routes; 22 unit tests; 10 browser tests; type and lint checks pass, with 16 legacy lint warnings. Dependency audit reports zero findings. Details and limits below. |
-| Production release | Original catalog published; photo update in release verification | User approved publication. Catalog deployment `dpl_H5whfMQDvD5oh6YaBfDMgekxoKg5` was READY and publicly served the 32-place/106-fact directory, confirmed by HTTP and Chrome. [Photo release record](PHOTOS-RELEASE-2026-09-10.md) tracks the follow-up. |
+| Production release | Catalog and photo update live | User approved publication. Catalog deployment `dpl_H5whfMQDvD5oh6YaBfDMgekxoKg5` was READY and publicly served the 32-place/106-fact directory, confirmed by HTTP and Chrome. [Photo release record](PHOTOS-RELEASE-2026-09-10.md) tracks the follow-up. |
 | Field reviews and owner claims | Human work required | Actual visits, measurements, photographs, authorship approval and organization authority checks have not been performed by this research run. |
 
 ## Local validation evidence
@@ -64,7 +64,7 @@ Weeks are relative to the restart; this is an ordered backlog, not a claim that 
 
 | Week | Accountable role | Deliverable and exit condition |
 |---|---|---|
-| 1 | Engineering + research | Local directory and checks complete. Preview review and release evidence complete; obtain production approval and verify the live production release. User decides any service-capacity changes separately. |
+| 1 | Engineering + research | Local directory and checks complete. Preview review and release evidence complete; production catalog and photo update published and verified. User decides any service-capacity changes separately. |
 | 2 | Data steward + engineering | Add per-fact IDs, source type, retrieval/publication/observation dates, attribution history and review status. Deduplicate candidate imports; refresh a small sample and verify changes reach the interface. |
 | 3 | Engineering + security reviewer | Establish minimal grants, row policies, protected roles and private pending uploads. Exercise signed-out, user A, user B and moderator access, including denied writes, ownership changes and draft visibility. Enable community workflows only after evidence passes. |
 | 4 | Editorial lead + actual visitors | Recruit willing local reviewers and conduct a small pilot across mobility, sensory, cognitive and chronic-illness needs. Capture dated observations, measurements where relevant, photo rights and authors' approvals. Reconcile contradictions without erasing history. |
