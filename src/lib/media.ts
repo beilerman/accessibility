@@ -3,6 +3,7 @@ import ohPhotos from "@/data/photos-oh.json";
 import generated from "@/data/illustrations.json";
 import researchPhotos from "@/data/photos-research.json";
 import extraPhotos from "@/data/photos-extra.json";
+import commonsPhotos from "@/data/photos-commons.json";
 import categoryImages from "@/data/category-art.json";
 
 export interface VenuePhoto {
@@ -49,6 +50,7 @@ export const venuePhotos: VenuePhoto[] = [
   ...ohPhotos,
   ...extraPhotos,
   ...researchPhotos,
+  ...commonsPhotos,
 ];
 export const illustrations: AccessIllustration[] = generated;
 export const categoryArt: CategoryArt[] = categoryImages;

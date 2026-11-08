@@ -32,6 +32,11 @@ describe("Public image provenance", () => {
     expect(new Set(venuePhotos.map((p) => p.src)).size).toBe(
       venuePhotos.length,
     );
+    // One photo per place: photoForPlace returns the first match, so a
+    // duplicate would be silently hidden.
+    expect(new Set(venuePhotos.map((p) => p.slug)).size).toBe(
+      venuePhotos.length,
+    );
     for (const photo of venuePhotos) {
       expect(places.some((p) => p.slug === photo.slug)).toBe(true);
       expect(photo.src.startsWith("/images/venues/")).toBe(true);
