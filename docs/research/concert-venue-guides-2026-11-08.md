@@ -2,7 +2,7 @@
 
 Reviewed November 8, 2026. This is a source review, not a venue inspection, an
 organization verification, a current equipment-status check, or an access rating.
-The guides add 19 source-linked notes to the public catalog. No private
+The concert guides add 22 source-linked notes to the public catalog. No private
 correspondence, contributor identity, or unapproved first-hand account is included.
 
 ## Riverbend Music Center
@@ -125,10 +125,10 @@ established, so those fields remain null.
 
 The additions use the existing searchable venue pages, source-history display,
 limits panel and explicit gap for missing visitor reports. No database or
-community-permission changes are needed. The catalog now contains 34 places
-and 125 public-source notes.
+community-permission changes are needed. The catalog at initial guide verification contained 34 places
+and 125 public-source notes; see the release record for integrated totals.
 
-- Independent content review found all 19 new notes supported by the linked
+- Independent content review found all original 19 notes supported by the linked
   official sources, with no private account or field-audit claim included.
 - Unit tests: 33 passed across 7 files, including source provenance and the
   important companion/elevator/capacity qualifications.
@@ -140,3 +140,34 @@ and 125 public-source notes.
   Automated checks do not establish complete WCAG compliance.
 - Work was isolated from the original checkout’s unrelated uncommitted edits.
   These checks are local and do not establish production deployment.
+
+## Additional public-source checks before release
+
+The following additions were separately checked against official pages on
+November 8, 2026. They contain no private first-hand account or identity.
+
+- **Riverbend:** the official FAQ says events are rain or shine, with no
+  refunds or exchanges for rain and severe-weather instructions through the
+  venue's social media. The guide asks readers to confirm weather protection
+  for their particular seat; it does not assert which accessible spaces are
+  uncovered. The accessibility page also gives ADA chair dimensions, clearly
+  distinguished from wheelchair-space dimensions.
+- **Bogart’s:** the accessibility page offers best-efforts mobility-device
+  storage. The new note preserves that qualification. Exact section capacity
+  and priority-entry entitlements remain unverified and are not published.
+- **TQL Stadium:** six additions expand the existing listing with practical
+  arrival information. [FC Cincinnati's accessibility guide](https://www.fccincinnati.com/matchday/accessibility)
+  says all gates have accessible lines. The official gate pages distinguish
+  [Allegiant Gate on Central Avenue](https://tqlstadium.com/entrances/allegiant-gate)
+  from [First Financial Gate on Central Parkway](https://tqlstadium.com/entrances/first-financial-gate).
+  The [A-to-Z guide](https://www.fccincinnati.com/matchday/tql-stadium-guide)
+  gives limited-mobility guests priority use of passenger elevators and warns
+  some periodically serve media/team staff. The
+  [parking guide](https://www.fccincinnati.com/matchday/parking) identifies
+  Town Center Garage as ADA parking among pass-only garages, lists rideshare
+  locations, and warns of Wade Street construction closure. Current routes,
+  pass availability and street conditions must still be confirmed.
+
+The concert guides now contain 22 notes. With the existing catalog and six
+TQL additions, the integrated catalog has 43 places and 189 active notes
+(190 stored notes including one retired note retained for history).

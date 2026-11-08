@@ -47,4 +47,25 @@ describe("Reviewed concert venue guides", () => {
     expect(place.limitations).toContain("exact entrance-to-mezzanine route");
     expect(place.limitations).toContain("lift dimensions and operation");
   });
+
+  it("retains weather and storage qualifications in the expanded concert guides", () => {
+    const riverbend = places.find((p) => p.slug === slugs[0])!;
+    const bogarts = places.find((p) => p.slug === slugs[1])!;
+    expect(riverbend.facts.find((f) => f.id.endsWith("chronic.2"))!.text).toContain(
+      "Confirm weather protection for your specific accessible seat",
+    );
+    expect(bogarts.facts.find((f) => f.id.endsWith("mobility.5"))!.text).toContain(
+      "storage is not guaranteed",
+    );
+  });
+
+  it("distinguishes TQL gates and preserves parking-pass restrictions", () => {
+    const place = places.find((p) => p.slug === "tql-stadium")!;
+    const text = place.facts.map((f) => f.text).join(" ");
+    expect(text).toContain("All stadium gates offer accessible entry lines");
+    expect(text).toContain("Allegiant Gate is on the south side");
+    expect(text).toContain("First Financial Gate is on the east side");
+    expect(text).toContain("parking-pass-only garages");
+    expect(place.limitations).toContain("current street closures");
+  });
 });

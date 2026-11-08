@@ -7,6 +7,7 @@ const routes = [
   "/venues/newport-aquarium",
   "/venues/riverbend-music-center",
   "/venues/bogarts",
+  "/venues/tql-stadium",
   "/about",
   "/sources",
   "/visitor-reports",

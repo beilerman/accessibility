@@ -530,9 +530,27 @@
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Bogart’s says it will try to store mobility devices when needed. Confirm arrangements before attending; storage is not guaranteed.",
+        "source_url": "https://www.bogarts.com/accessibility",
+        "id": "bogarts.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The accessible-section policy does not guarantee space or companion seating. Confirm capacity, any reservation process, the exact entrance-to-mezzanine route, lift dimensions and operation, restroom features, local accessible parking and show-specific sightlines. Quiet spaces, sensory kits and low-stimulation options were not established by the sources checked. An upstairs ticket is not evidence of a step-free route to that level.",
+    "limitations": "Public website information; no on-site audit. The accessible-section policy does not guarantee space or companion seating. Confirm capacity, any reservation process, entry or queue arrangements, the exact entrance-to-mezzanine route, lift dimensions and operation, restroom features, local accessible parking and show-specific sightlines. Quiet spaces, sensory kits and low-stimulation options were not established by the sources checked. An upstairs ticket is not evidence of a step-free route to that level.",
     "slug": "bogarts",
     "evidence_type": "public_website",
     "observed_at": null
@@ -3553,9 +3571,45 @@
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
           }
         ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Events are rain or shine, with no refunds or exchanges for rain. The venue posts severe-weather alerts and instructions on its social media. Confirm weather protection for your specific accessible seat.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue lists chairs in its accessible seating areas as 33½ inches tall, 18 inches wide and 17 inches from front to back of the seat. These are chair measurements, not wheelchair-space dimensions.",
+        "source_url": "https://riverbend.org/venue-information/accessibility",
+        "id": "riverbend-music-center.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Do not rely on day-of reseating: confirm availability, your party size and the route to your assigned area before buying. The FAQ gives conflicting private-pickup locations; confirm arrangements with staff. Accessible restroom features, route distances and gradients, parking eligibility, wheelchair assistance, assistive listening and quiet spaces were not established by the sources checked. Ask about current conditions and show-specific sightlines.",
+    "limitations": "Public website information; no on-site audit. Do not rely on day-of reseating: confirm availability, your party size and the route to your assigned area before buying. The FAQ gives conflicting private-pickup locations; confirm arrangements with staff. Accessible restroom features, route distances and gradients, parking eligibility, wheelchair assistance, assistive listening and quiet spaces were not established by the sources checked. Ask about current conditions, weather protection and show-specific sightlines.",
     "slug": "riverbend-music-center",
     "evidence_type": "public_website",
     "observed_at": null
@@ -3861,9 +3915,117 @@
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "All stadium gates offer accessible entry lines. Ask Guest Experience staff for the route that fits your assigned seating area.",
+        "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+        "id": "tql-stadium.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Allegiant Gate is on the south side of the stadium off Central Avenue. Confirm your gate before traveling; Central Avenue and Central Parkway are different streets.",
+        "source_url": "https://tqlstadium.com/entrances/allegiant-gate",
+        "id": "tql-stadium.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "First Financial Gate is on the east side of the stadium off Central Parkway. Use the official gate map to plan your approach.",
+        "source_url": "https://tqlstadium.com/entrances/first-financial-gate",
+        "id": "tql-stadium.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Guests and staff with limited mobility receive priority use of passenger elevators. Ask Guest Experience staff for the appropriate elevator; some elevators periodically serve media and team staff.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "FC Cincinnati identifies Town Center Garage at 1223 Central Parkway as ADA parking within its parking-pass-only garages. Confirm your parking pass and accessible-space arrangements before traveling.",
+        "source_url": "https://www.fccincinnati.com/matchday/parking",
+        "id": "tql-stadium.mobility.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The parking guide lists designated rideshare pickup and drop-off locations on Central Avenue, Ezzard Charles Drive and West 14th Street, plus a Liberty Street location. It also warns that Wade Street is closed for construction. Check the current matchday map and follow staff directions.",
+        "source_url": "https://www.fccincinnati.com/matchday/parking",
+        "id": "tql-stadium.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          }
+        ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Accessible seating availability on event day is described as limited; buy ADA tickets in advance through FC Cincinnati Ticketing (513-977-5425).",
+    "limitations": "Public website information; no on-site audit. Accessible seating availability on event day is described as limited; buy ADA tickets in advance through FC Cincinnati Ticketing (513-977-5425). Confirm show-specific ticketing, your gate, the complete curb-to-seat route, parking-pass availability and current street closures. No specific curbside location or elevator operating status has been field verified.",
     "slug": "tql-stadium",
     "evidence_type": "public_website",
     "observed_at": null
