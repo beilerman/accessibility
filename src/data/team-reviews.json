@@ -1,0 +1,51 @@
+[
+  {
+    "id": "bogarts.team.2026-11-08",
+    "placeSlug": "bogarts",
+    "reviewer": "Matthew Brothers",
+    "reviewerRole": "Threshold co-owner",
+    "visitContext": "Concerts attended with a wheelchair. Visit dates not recorded.",
+    "visitedAt": null,
+    "reportedAt": "2026-11-08",
+    "points": [
+      { "domain": "mobility", "text": "A raised section at the back of the theater has 12–15 folding chairs for accessible seating." },
+      { "domain": "mobility", "text": "You don't need to buy front-of-the-line tickets. Staff moved us to the front of the line when they saw our mobility device." },
+      { "domain": "chronic", "text": "There is a dedicated accessible restroom." },
+      { "domain": "cognitive", "text": "If accessible tickets aren't offered online, call ahead: some shows aren't listed online." },
+      { "domain": "cognitive", "text": "Security staff were friendly and pointed us in the right direction at every step." }
+    ]
+  },
+  {
+    "id": "riverbend-music-center.team.2026-11-08",
+    "placeSlug": "riverbend-music-center",
+    "reviewer": "Matthew Brothers",
+    "reviewerRole": "Threshold co-owner",
+    "visitContext": "Several concerts attended with a wheelchair, most recently in July 2026.",
+    "visitedAt": "2026-07-11",
+    "reportedAt": "2026-11-08",
+    "points": [
+      { "domain": "mobility", "text": "Accessible seating is on the sides at the back of the main covered pavilion. Some of it is not under the roof, and shows go on rain or shine, so you may be exposed to the weather." },
+      { "domain": "cognitive", "text": "Tickets sell out quickly, and accessible seats rarely appear on the resale market. We have instead bought front-row seats in pavilion sections, which were fairly easy to reach when we arrived early." },
+      { "domain": "cognitive", "text": "When we arrived without accessible tickets, guest services assigned a staff member who worked with us on the best option and offered seats in the accessible section. We accepted, except once when we kept our own covered seats because rain was possible." },
+      { "domain": "chronic", "text": "The guest services staff member stowed our wheelchair and offered to help if we needed the restroom during the show." }
+    ]
+  },
+  {
+    "id": "tql-stadium.team.2026-11-08",
+    "placeSlug": "tql-stadium",
+    "reviewer": "Matthew Brothers",
+    "reviewerRole": "Threshold co-owner",
+    "visitContext": "Several FC Cincinnati matches attended with a wheelchair. Visit dates not recorded.",
+    "visitedAt": null,
+    "reportedAt": "2026-11-08",
+    "points": [
+      { "domain": "mobility", "text": "The accessible entrance is on the left side of the Allegiant Gate, on the south side of the stadium where Central Avenue ends. Near the stadium, Central Avenue and Central Parkway are different streets that run parallel to each other." },
+      { "domain": "mobility", "text": "The police station parking lot was a convenient, accessible drop-off point." },
+      { "domain": "mobility", "text": "After security and ticket scanning, the elevators are to the far right, past and around the stairs. Security staff were friendly and helped with directions." },
+      { "domain": "mobility", "text": "Accessible seating rings the field on the mezzanine level. We recommend accessible seats: the stairs to regular seating are steep, though they have railings." },
+      { "domain": "sensory", "text": "The Bailey supporters' section is mostly standing, with constant drumming, chanting and waving flags that can block your view. In our visits it had accessible seating level with the mezzanine, with folding chairs and room for mobility devices. FC Cincinnati's guide describes the Bailey as standing only, so confirm with the club before buying." },
+      { "domain": "cognitive", "text": "Venue parking is sold through SeatGeek, and there are many garages within five or six blocks; try for Town Center Garage or another garage near Central Avenue. Same-day lots near the Allegiant Gate, including across Central Avenue from Town Center Garage and the Mozart garage south of the stadium on Central Parkway, have generally cost $30–$50." },
+      { "domain": "cognitive", "text": "In the Bailey, don't wear yellow, Messi jerseys or opposing-team colors." }
+    ]
+  }
+]

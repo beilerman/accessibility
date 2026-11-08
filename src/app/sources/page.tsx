@@ -35,6 +35,16 @@ export default function Sources() {
           </dd>
         </div>
         <div>
+          <dt className="font-bold">Threshold review · firsthand</dt>
+          <dd>
+            A review written by a member of the Threshold team after visiting
+            the place, credited by name with the visit context and the date it
+            was written. It records what we experienced, not the venue’s
+            policy, and is shown separately from notes taken from official
+            websites. Where the two differ, both are shown.
+          </dd>
+        </div>
+        <div>
           <dt className="font-bold">Checked</dt>
           <dd>
             The date we last read that note’s source and confirmed the summary

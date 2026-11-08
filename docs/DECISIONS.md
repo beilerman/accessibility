@@ -74,3 +74,7 @@ Include keyboard and focus behavior, responsive presentation, zoom, contrast and
 - [March foundation plan](plans/2026-03-22-001-feat-accessibility-review-site-plan.md) and [auth follow-up](plans/2026-03-22-002-feat-auth-maps-a11y-tests-plan.md): retained historical implementation context. Decisions above supersede conflicting instructions to publish mock evidence, use global ratings or infer compliance from automated tools.
 - [Implementation status](IMPLEMENTATION-STATUS.md): current evidence, dependencies and six-week backlog.
 
+## 11. Publish firsthand Threshold reviews separately
+
+Added November 8, 2026. A Threshold owner or team member who visits a place may publish a firsthand review under their name, with the visit context and the date it was written (`src/data/team-reviews.json`). It is shown in its own section, never merged into notes summarized from official websites, and it describes experience rather than venue policy. Where it differs from the venue's published information, both are shown. Individual venue staff are not named. The first reviews, by co-owner Matthew Brothers, cover Bogart's, Riverbend Music Center and TQL Stadium.
+

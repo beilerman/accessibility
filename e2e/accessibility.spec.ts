@@ -382,3 +382,20 @@ test("every page reflows at 320px without sideways scrolling (WCAG 1.4.10)", asy
   expect(overflowing).toEqual([]);
 });
 
+test("a firsthand Threshold review is credited, dated and kept apart from website notes", async ({
+  page,
+}) => {
+  await page.goto("/venues/tql-stadium");
+  const review = page.locator("#threshold-review");
+  await expect(
+    review.getByRole("heading", { name: "What we found when we went" }),
+  ).toBeVisible();
+  await expect(review).toContainText("Matthew Brothers, Threshold co-owner");
+  await expect(review).toContainText("not the venue's policy");
+  await expect(
+    page.getByRole("link", { name: "Includes a firsthand Threshold review" }),
+  ).toHaveAttribute("href", "#threshold-review");
+  await page.goto("/venues/ark-encounter");
+  await expect(page.locator("#threshold-review")).toHaveCount(0);
+  await expect(page.getByText("Not field audited").first()).toBeVisible();
+});

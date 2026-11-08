@@ -14,6 +14,8 @@ import {
 import { photoForPlace, aiImageForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "@/components/catalog/VenuePhoto";
 import { AiVenueImage } from "@/components/catalog/AiVenueImage";
+import { TeamReview } from "@/components/catalog/TeamReview";
+import { teamReviewForPlace } from "@/lib/team-reviews";
 import { CategoryArt } from "@/components/catalog/CategoryArt";
 import { reportsForPlace } from "@/lib/visitor-reports";
 import { VisitorReport } from "@/components/catalog/VisitorReport";
@@ -34,7 +36,7 @@ export async function generateMetadata({
   return p
     ? {
         title: `${p.name} — Access information`,
-        description: `What ${p.name} in ${p.city}, ${p.state} publishes about accessibility. Sources last checked ${dateLabel(latestRetrieval(p))}; no on-site audit.`,
+        description: `What ${p.name} in ${p.city}, ${p.state} publishes about accessibility. Sources last checked ${dateLabel(latestRetrieval(p))}; ${teamReviewForPlace(p.slug) ? "includes a firsthand Threshold review" : "no on-site audit"}.`,
       }
     : {};
 }
@@ -47,6 +49,7 @@ export default async function PlacePage({
   const p = places.find((p) => p.slug === slug);
   if (!p) notFound();
   const reports = reportsForPlace(p.slug);
+  const teamReview = teamReviewForPlace(p.slug);
   const photo = photoForPlace(p.slug);
   const aiImage = aiImageForPlace(p.slug);
   const artwork = artForCategory(p.category);
@@ -80,14 +83,21 @@ export default async function PlacePage({
       <div className="evidence-banner">
         <strong>From official public websites</strong>
         <span>
-          Sources last checked {dateLabel(latestRetrieval(p))} · Not field
-          audited
+          Sources last checked {dateLabel(latestRetrieval(p))} ·{" "}
+          {teamReview ? (
+            <a href="#threshold-review" className="underline">
+              Includes a firsthand Threshold review
+            </a>
+          ) : (
+            "Not field audited"
+          )}
         </span>
         <p>
           The date records our source check, not a visit or confirmation by the
           venue. No organization account has verified this listing.
         </p>
       </div>
+      {teamReview && <TeamReview review={teamReview} />}
       <div className="detail-grid">
         <div>
           <h2 className="font-display text-3xl mb-7">

@@ -6,9 +6,11 @@ import { VenuePhoto } from "./VenuePhoto";
 import { AiVenueImage } from "./AiVenueImage";
 import { CategoryArt } from "./CategoryArt";
 import { reportsForPlace } from "@/lib/visitor-reports";
+import { teamReviewForPlace } from "@/lib/team-reviews";
 
 export function PlaceCard({ place }: { place: PublicPlace }) {
   const reportCount = reportsForPlace(place.slug).length;
+  const hasTeamReview = Boolean(teamReviewForPlace(place.slug));
   const photo = photoForPlace(place.slug);
   const aiImage = aiImageForPlace(place.slug);
   const artwork = artForCategory(place.category);
@@ -65,7 +67,10 @@ export function PlaceCard({ place }: { place: PublicPlace }) {
       )}
       <div className="mt-auto pt-6 text-xs text-muted-foreground border-t border-border">
         <p className="font-semibold text-foreground">
-          From official public websites · Not field audited
+          From official public websites ·{" "}
+          {hasTeamReview
+            ? "Includes a firsthand Threshold review"
+            : "Not field audited"}
         </p>
         <p className="mt-1">
           Sources checked {dateLabel(place.checked_at)} · {place.facts.length}{" "}
