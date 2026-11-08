@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { DM_Serif_Display, Source_Sans_3, JetBrains_Mono } from "next/font/google";
 import { ThemeProvider } from "next-themes";
+import { SITE_ORIGIN } from "@/lib/site";
 import { SkipToContent } from "@/components/shared/SkipToContent";
 import { FocusManager } from "@/components/shared/FocusManager";
 import { Header } from "@/components/layout/Header";
@@ -27,6 +28,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_ORIGIN),
   title: {
     default: "Threshold | Local access information for Greater Cincinnati & Northern Kentucky",
     template: "%s | Threshold",

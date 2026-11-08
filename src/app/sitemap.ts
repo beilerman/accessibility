@@ -1,7 +1,8 @@
 import type { MetadataRoute } from "next";
 import { places } from "@/lib/catalog";
+import { SITE_ORIGIN } from "@/lib/site";
 export default function sitemap(): MetadataRoute.Sitemap {
-  const origin = "https://accessibility-omega-ten.vercel.app";
+  const origin = SITE_ORIGIN;
   return [
     "",
     "/venues",
