@@ -2,7 +2,15 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { ArrowLeft, ArrowUpRight, MapPin } from "lucide-react";
-import { places, DOMAIN_LABELS, dateLabel } from "@/lib/catalog";
+import {
+  places,
+  DOMAIN_LABELS,
+  SOURCE_TYPE_LABELS,
+  dateLabel,
+  factNeedsCaution,
+  latestRetrieval,
+  recheckDueDate,
+} from "@/lib/catalog";
 import { photoForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "@/components/catalog/VenuePhoto";
 import { CategoryArt } from "@/components/catalog/CategoryArt";
@@ -21,7 +29,7 @@ export async function generateMetadata({
   return p
     ? {
         title: `${p.name} — Access information`,
-        description: `What ${p.name} in ${p.city}, ${p.state} publishes about accessibility. Sources checked ${dateLabel(p.checked_at)}; no on-site audit.`,
+        description: `What ${p.name} in ${p.city}, ${p.state} publishes about accessibility. Sources last checked ${dateLabel(latestRetrieval(p))}; no on-site audit.`,
       }
     : {};
 }
@@ -64,7 +72,8 @@ export default async function PlacePage({
       <div className="evidence-banner">
         <strong>From official public websites</strong>
         <span>
-          Sources checked {dateLabel(p.checked_at)} · Not field audited
+          Sources last checked {dateLabel(latestRetrieval(p))} · Not field
+          audited
         </span>
         <p>
           The date records our source check, not a visit or confirmation by the
@@ -85,28 +94,77 @@ export default async function PlacePage({
                 </h3>
                 {facts.length ? (
                   <ul className="space-y-5">
-                    {facts.map((f, i) => (
-                      <li key={i} className="fact-note">
-                        <p>{f.text}</p>
-                        <a
-                          href={f.source_url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="source-link"
-                        >
-                          Official source{" "}
-                          <ArrowUpRight
-                            aria-hidden="true"
-                            className="h-3 w-3"
-                          />
-                          <span className="sr-only">
-                            {" "}
-                            for {label.toLowerCase()} note {i + 1} (opens in new
-                            tab)
-                          </span>
-                        </a>
-                      </li>
-                    ))}
+                    {facts.map((f, i) => {
+                      const caution = factNeedsCaution(f);
+                      return (
+                        <li key={f.id} id={f.id} className="fact-note">
+                          <p>{f.text}</p>
+                          {caution && (
+                            <p className="fact-caution" role="note">
+                              {f.review_status === "source_unavailable"
+                                ? "The source for this note no longer loads. Confirm with the venue."
+                                : "This note is due for a source recheck. Confirm with the venue."}
+                            </p>
+                          )}
+                          <p className="fact-meta">
+                            {SOURCE_TYPE_LABELS[f.source_type]} · Checked{" "}
+                            <time dateTime={f.retrieved_at}>
+                              {dateLabel(f.retrieved_at)}
+                            </time>
+                            {f.published_at && (
+                              <>
+                                {" "}
+                                · Source updated{" "}
+                                <time dateTime={f.published_at}>
+                                  {dateLabel(f.published_at)}
+                                </time>
+                              </>
+                            )}
+                          </p>
+                          <a
+                            href={f.source_url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="source-link"
+                          >
+                            Official source{" "}
+                            <ArrowUpRight
+                              aria-hidden="true"
+                              className="h-3 w-3"
+                            />
+                            <span className="sr-only">
+                              {" "}
+                              for {label.toLowerCase()} note {i + 1} (opens in
+                              new tab)
+                            </span>
+                          </a>
+                          <details className="fact-history">
+                            <summary>
+                              Note history
+                              <span className="sr-only">
+                                {" "}
+                                for {label.toLowerCase()} note {i + 1}
+                              </span>
+                            </summary>
+                            <ol>
+                              {f.history.map((h, j) => (
+                                <li key={j}>
+                                  <time dateTime={h.date}>
+                                    {dateLabel(h.date)}
+                                  </time>{" "}
+                                  — {h.note}
+                                </li>
+                              ))}
+                            </ol>
+                            <p>
+                              Next source check due{" "}
+                              {dateLabel(recheckDueDate(f))}. Note ID{" "}
+                              <code>{f.id}</code>
+                            </p>
+                          </details>
+                        </li>
+                      );
+                    })}
                   </ul>
                 ) : (
                   <p className="unknown-note">

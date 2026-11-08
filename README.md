@@ -19,7 +19,7 @@ npm test
 npm run lint
 npm run build
 npm run test:e2e
-python3 -m unittest discover -s pipeline -p 'test_*.py'
+(cd pipeline && .venv/bin/python -m unittest discover -p 'test_*.py')
 ```
 
 Playwright tests start the built server on port 3217. Install its Chromium browser once with `npx playwright install chromium`. Automated accessibility tests do not establish full WCAG conformance or replace manual assistive-technology testing.
@@ -32,6 +32,10 @@ Playwright tests start the built server on port 3217. Install its Chromium brows
 - `pipeline/README.md`: optional Overture staging pull and provenance handling.
 
 The recovered repository is Next.js 16 / React 19; the plan's proposed Vite migration is unnecessary. `COMMUNITY_ENABLED` is false in `src/lib/catalog-mode.ts` while community permissions and moderation are implemented and tested. The legacy database query implementation is preserved in `src/lib/legacy-data.ts`, reached only through the gated wrapper. Re-enabling contributions requires privilege/publication/upload authorization tests, moderation, and an approved owner verification process. It is not a feature-flag-only launch.
+
+## Source monitoring
+
+`python3 pipeline/check_sources.py` re-fetches every fact source, saves a hashed snapshot in `pipeline/source-checks/` and lists sources that changed, stopped loading or were blocked by bot protection. Add `--flag` to mark affected facts for editorial recheck; flagged facts show a caution on the site. After re-reading a source, set the fact's `retrieved_at`, restore `review_status` to `source_checked` and append a `rechecked` or `revised` history entry. Never renumber or reuse a fact ID.
 
 ## Images
 

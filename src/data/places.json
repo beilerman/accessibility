@@ -7,22 +7,76 @@
     "address": "650 Walnut Street, Cincinnati, OH 45202",
     "website": "https://www.cincinnatiarts.org/aronoff-center",
     "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
         "text": "Accessible seating is offered in all theaters. For Procter & Gamble Hall, enter at street level and use elevators to reach the appropriate seating level.",
-        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1"
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "A courtesy wheelchair can assist visitors between the lobby and seats, first come, first served.",
-        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1"
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "Assistive listening devices are available at Guest Services in the Procter & Gamble Hall Marble Lobby. Audio description and ASL performances can be requested at least three weeks ahead.",
-        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1"
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Contact the ticket office in advance for seating and performance-specific accommodations.",
@@ -44,17 +98,56 @@
       {
         "domain": "mobility",
         "text": "Boarding ramps and main decks are described as wheelchair accessible. Belle of Cincinnati has an elevator to its first three decks; the fourth requires stairs.",
-        "source_url": "https://www.bbriverboats.com/faq"
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "River Queen's main deck is described as accessible.",
-        "source_url": "https://www.bbriverboats.com/faq"
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "Smoking is prohibited inside cabins but permitted on designated outdoor decks.",
-        "source_url": "https://www.bbriverboats.com/faq"
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Confirm the assigned vessel and deck before booking; access differs between boats.",
@@ -74,17 +167,56 @@
       {
         "domain": "mobility",
         "text": "The Discovery Trail includes a half-mile paved loop beginning behind the visitor center; other trails vary in terrain and difficulty.",
-        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807"
+        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
+        "id": "big-bone-lick-state-historic-site.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "The National Park Service listing identifies an accessible restroom, without dimensions or a specific location.",
-        "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm"
+        "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
+        "id": "big-bone-lick-state-historic-site.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The National Park Service lists benches, picnic shelters and drinking water among site amenities.",
-        "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm"
+        "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
+        "id": "big-bone-lick-state-historic-site.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public government website reporting; no on-site audit. Paving does not establish route slope or universal access. The state page lists the campground pool as closed and prohibits lake access, fishing and hiking around the lake during a dam assessment. Check current park alerts before visiting.",
@@ -92,7 +224,7 @@
     "observed_at": null
   },
   {
-    "name": "Boone County Public Library \u2014 Florence Branch",
+    "name": "Boone County Public Library — Florence Branch",
     "city": "Florence",
     "state": "KY",
     "category": "Libraries",
@@ -105,12 +237,38 @@
       {
         "domain": "mobility",
         "text": "A wheelchair may be borrowed after signing a waiver at the front desk.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-florence-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The library's locations page lists all branches as smoke-free.",
-        "source_url": "https://www.bcpl.org/locations"
+        "source_url": "https://www.bcpl.org/locations",
+        "id": "boone-county-public-library-florence-branch.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
@@ -118,7 +276,7 @@
     "observed_at": null
   },
   {
-    "name": "Boone County Public Library \u2014 Hebron Branch",
+    "name": "Boone County Public Library — Hebron Branch",
     "city": "Hebron",
     "state": "KY",
     "category": "Libraries",
@@ -131,12 +289,38 @@
       {
         "domain": "mobility",
         "text": "A wheelchair may be borrowed after signing a waiver at the front desk.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-hebron-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The library's locations page lists all branches as smoke-free.",
-        "source_url": "https://www.bcpl.org/locations"
+        "source_url": "https://www.bcpl.org/locations",
+        "id": "boone-county-public-library-hebron-branch.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
@@ -144,7 +328,7 @@
     "observed_at": null
   },
   {
-    "name": "Boone County Public Library \u2014 Main Library",
+    "name": "Boone County Public Library — Main Library",
     "city": "Burlington",
     "state": "KY",
     "category": "Libraries",
@@ -157,22 +341,74 @@
       {
         "domain": "mobility",
         "text": "A wheelchair may be borrowed after signing a waiver at the front desk.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-main-library.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The library's locations page lists all branches as smoke-free.",
-        "source_url": "https://www.bcpl.org/locations"
+        "source_url": "https://www.bcpl.org/locations",
+        "id": "boone-county-public-library-main-library.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "A second-floor sensory room offers calming activities and equipment, for up to five people or one family, in 30-minute sessions. Ask staff to sign in.",
-        "source_url": "https://www.bcpl.org/sensory-room"
+        "source_url": "https://www.bcpl.org/sensory-room",
+        "id": "boone-county-public-library-main-library.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "A social narrative is linked to help prepare for the sensory room.",
-        "source_url": "https://www.bcpl.org/sensory-room"
+        "source_url": "https://www.bcpl.org/sensory-room",
+        "id": "boone-county-public-library-main-library.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
@@ -180,7 +416,7 @@
     "observed_at": null
   },
   {
-    "name": "Boone County Public Library \u2014 Scheben Branch",
+    "name": "Boone County Public Library — Scheben Branch",
     "city": "Union",
     "state": "KY",
     "category": "Libraries",
@@ -193,17 +429,56 @@
       {
         "domain": "mobility",
         "text": "A wheelchair may be borrowed after signing a waiver at the front desk.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-scheben-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The library's locations page lists all branches as smoke-free.",
-        "source_url": "https://www.bcpl.org/locations"
+        "source_url": "https://www.bcpl.org/locations",
+        "id": "boone-county-public-library-scheben-branch.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "Thrive Together is a program for adults with disabilities and their caregivers; check the current event schedule.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-scheben-branch.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
@@ -211,7 +486,7 @@
     "observed_at": null
   },
   {
-    "name": "Boone County Public Library \u2014 Walton Branch",
+    "name": "Boone County Public Library — Walton Branch",
     "city": "Walton",
     "state": "KY",
     "category": "Libraries",
@@ -224,27 +499,92 @@
       {
         "domain": "mobility",
         "text": "A wheelchair may be borrowed after signing a waiver at the front desk.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-walton-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The library's locations page lists all branches as smoke-free.",
-        "source_url": "https://www.bcpl.org/locations"
+        "source_url": "https://www.bcpl.org/locations",
+        "id": "boone-county-public-library-walton-branch.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "Hearing loops support participation in programs.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-walton-branch.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "A family restroom has an adult changing table.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-walton-branch.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The family restroom has sensory-friendly blue lighting.",
-        "source_url": "https://bcplundiscovered.org/accessibilityoptions/"
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-walton-branch.sensory.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
@@ -259,27 +599,99 @@
     "address": "953 Eden Park Drive, Cincinnati, OH 45202",
     "website": "https://www.cincinnatiartmuseum.org/",
     "source_url": "https://www.cincinnatiartmuseum.org/access",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
         "text": "Free loan wheelchairs are available without reservations in the coatrooms near the Main and Dewitt entrances. Accessible parking and front-entrance drop-off are described on the museum's access page.",
-        "source_url": "https://www.cincinnatiartmuseum.org/access"
+        "source_url": "https://www.cincinnatiartmuseum.org/access",
+        "id": "cincinnati-art-museum.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The Welcome Cart lends headphones, earplugs and fidgets. A private quiet space is on the ground floor across from the coatroom.",
-        "source_url": "https://www.cincinnatiartmuseum.org/access"
+        "source_url": "https://www.cincinnatiartmuseum.org/access",
+        "id": "cincinnati-art-museum.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "Social narratives, visual timers and a large-print access guide help visitors prepare and identify quieter spaces.",
-        "source_url": "https://www.cincinnatiartmuseum.org/access"
+        "source_url": "https://www.cincinnatiartmuseum.org/access",
+        "id": "cincinnati-art-museum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "Benches are distributed through the museum. Visitors who must shorten a ticketed exhibition visit can request an accessibility re-entry ticket.",
-        "source_url": "https://www.cincinnatiartmuseum.org/access"
+        "source_url": "https://www.cincinnatiartmuseum.org/access",
+        "id": "cincinnati-art-museum.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Re-entry accommodation must be requested. Confirm specific restroom, route and equipment needs with the museum.",
@@ -300,22 +712,74 @@
       {
         "domain": "mobility",
         "text": "The far-left and far-right historic entrance doors have automatic push-plate controls. Wheelchairs and ECVs can be rented at the box office, first come, first served.",
-        "source_url": "https://www.cincymuseum.org/visit/"
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Universal restrooms on Mezzanine B and the lower level near Westheimer Gallery have adult changing tables.",
-        "source_url": "https://www.cincymuseum.org/visit/"
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The visitor page links to accessibility and sensory maps.",
-        "source_url": "https://www.cincymuseum.org/visit/"
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "Visitors may bring food and drinks for seated dining areas; these are prohibited in museums, exhibitions and the OMNIMAX theater.",
-        "source_url": "https://www.cincymuseum.org/visit/"
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Rentals require an adult renter, agreement and retained ID or credit card; availability is not guaranteed. Request entry assistance at least 24 hours ahead.",
@@ -335,22 +799,74 @@
       {
         "domain": "mobility",
         "text": "The accessible entrance is on Elm Street at the southeast side. South elevators serve every level, including the Ballroom; a north elevator also serves all levels.",
-        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Access Ambassadors at the southeast entrance provide wayfinding and seat assistance; wheelchairs can be requested for transport from curb or lobby to seats.",
-        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "Guest Services in the Lindner Grand Foyer provides assistive listening devices with a neck loop for T-coil users.",
-        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "First-aid services are located in the North Concourse on the Orchestra level; ask staff for assistance.",
-        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Arrange special seating with the box office in advance when possible.",
@@ -359,7 +875,7 @@
     "observed_at": null
   },
   {
-    "name": "Cincinnati Nature Center \u2014 Rowe Woods",
+    "name": "Cincinnati Nature Center — Rowe Woods",
     "city": "Milford",
     "state": "OH",
     "category": "Parks & outdoors",
@@ -370,17 +886,56 @@
       {
         "domain": "mobility",
         "text": "The center describes the 0.72-mile Mashburn Family Discovery Trail as all-accessible.",
-        "source_url": "https://www.cincynature.org/visit"
+        "source_url": "https://www.cincynature.org/visit",
+        "id": "cincinnati-nature-center-rowe-woods.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Designated accessible parking is listed at the Rowe Visitor Center, Krippendorf Lodge and Nature PlayScape lots.",
-        "source_url": "https://www.cincynature.org/visit"
+        "source_url": "https://www.cincynature.org/visit",
+        "id": "cincinnati-nature-center-rowe-woods.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Other trails vary in surface and slope, with some rocky creek crossings, steep stairs or inclines. Visitor Services can discuss routes and accommodation needs.",
-        "source_url": "https://www.cincynature.org/visit"
+        "source_url": "https://www.cincynature.org/visit",
+        "id": "cincinnati-nature-center-rowe-woods.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. An accessible designation for the Discovery Trail does not apply to all Rowe Woods trails. Confirm surface conditions and route suitability.",
@@ -401,22 +956,74 @@
       {
         "domain": "mobility",
         "text": "Wheelchair seating is available in both theaters; the Rouse Theatre also offers transfer seats. Request these when reserving tickets.",
-        "source_url": "https://cincyplay.com/visit/accessibility"
+        "source_url": "https://cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "Both theaters use hearing loops compatible with T-coil devices and offer hearing-enhancement receivers. Large-print programs are available from ushers.",
-        "source_url": "https://cincyplay.com/visit/accessibility"
+        "source_url": "https://cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "Selected sensory-friendly/relaxed performances accommodate visitors who benefit from a more relaxed setting; check the performance calendar.",
-        "source_url": "https://cincyplay.com/visit/accessibility"
+        "source_url": "https://cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "ASL and audio description are offered on designated performance dates.",
-        "source_url": "https://cincyplay.com/visit/accessibility"
+        "source_url": "https://cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Accessible garage parking is limited and requires advance reservation and payment, plus a valid placard. Accessible seats are subject to availability.",
@@ -437,22 +1044,74 @@
       {
         "domain": "sensory",
         "text": "Calming rooms are listed at Vine Street Village and Mai Thai's Market. Sensory bags are available to check out at the Welcome Center.",
-        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+        "id": "cincinnati-zoo-botanical-garden.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "The Zoo publishes social and video narratives for general visits and several individual experiences.",
-        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+        "id": "cincinnati-zoo-botanical-garden.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Selected family restrooms include adult changing tables. A courtesy cart can assist visitors with mobility concerns along a fixed return route to Vine Street Village.",
-        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+        "id": "cincinnati-zoo-botanical-garden.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "An Access Pass lets visitors who have significant difficulty standing or waiting queue outside the physical line for selected rides and experiences, with the same wait time.",
-        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/"
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+        "id": "cincinnati-zoo-botanical-garden.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Courtesy cart service is first come, first served. Ride restrictions and mobility-device transfer requirements vary; check the official guide. Address source: https://cincinnatizoo.org/plan-your-adventure/",
@@ -467,33 +1126,123 @@
     "category": "Transportation",
     "website": "https://www.cvgairport.com/",
     "source_url": "https://www.cvgairport.com/accessibility/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
         "domain": "mobility",
         "text": "Terminal entrances have curb ramps; elevators serve the garage, terminal and both concourses.",
-        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/"
+        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "A family-assist restroom near Gate B13 has an adult changing table.",
-        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/"
+        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The airport lists a sensory space, ASL announcement translations and blind/low-vision navigation services.",
-        "source_url": "https://www.cvgairport.com/accessibility/"
+        "source_url": "https://www.cvgairport.com/accessibility/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "Familiarization tours and step-by-step airport directions are available.",
-        "source_url": "https://www.cvgairport.com/accessibility/"
+        "source_url": "https://www.cvgairport.com/accessibility/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The Hidden Disabilities Sunflower program lets travelers discreetly indicate that they may need additional assistance.",
-        "source_url": "https://www.cvgairport.com/accessibility/"
+        "source_url": "https://www.cvgairport.com/accessibility/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Some facilities are beyond security. Arrange wheelchair assistance with the airline before travel.",
@@ -513,22 +1262,74 @@
       {
         "domain": "mobility",
         "text": "The 6th Street entrance is at street level with an automatic door. Elevators reach all floors. Accessible restrooms are on all floors except the lobby.",
-        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+        "id": "contemporary-arts-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The front desk lends wheelchairs, stools, hearing amplifiers, large-print exhibition text and sensory bags without charge.",
-        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+        "id": "contemporary-arts-center.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "Sensory bags include a narrative and map. Free tours for visitors with memory loss and their caregivers can be arranged with two weeks' notice.",
-        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+        "id": "contemporary-arts-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "ASL interpretation for public programs and audio-described tours require two weeks' notice.",
-        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+        "id": "contemporary-arts-center.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Confirm scheduled accommodations with the center. Gallery access may change during exhibition installation.",
@@ -544,33 +1345,123 @@
     "address": "2800 Bullittsburg Church Road, Petersburg, KY 41080",
     "website": "https://creationmuseum.org/",
     "source_url": "https://creationmuseum.org/accessibility/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
         "domain": "mobility",
         "text": "Entrances and exits have ramps; the first entrance has an automatic door. Main exhibits use gradual ramps, with an elevator back to the main level.",
-        "source_url": "https://creationmuseum.org/accessibility/"
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "The museum identifies Dino Den as an exception to wheelchair exhibit access. Wheelchair and electric mobility rentals are first come, first served.",
-        "source_url": "https://creationmuseum.org/accessibility/"
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "sensory",
-        "text": "Complimentary sensory kits and hearing protection are available at the Welcome Center and Guest Services. The 4D theater includes flashing lights, loud audio, moving seats and air effects.",
-        "source_url": "https://creationmuseum.org/accessibility/"
+        "text": "Complimentary sensory kits, noise-reducing earmuffs and earplugs are available at the Welcome Center and Guest Services. The 4D theater shows use strobe and flashing lights (the museum warns guests with photosensitive epilepsy), loud audio, shaking seats and puffs of air. The first Corruption exhibit also has mild flashing lights and sounds of war and pain; it can be passed through quickly.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "revised",
+            "note": "Rechecked against the source; added its strobe/photosensitive-epilepsy warning and the flashing lights in the Corruption exhibit."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "A photo social story and accessibility map help visitors prepare.",
-        "source_url": "https://creationmuseum.org/accessibility/"
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The museum lists vegetarian and gluten-free dining options and asks visitors to consult a restaurant manager about dietary needs.",
-        "source_url": "https://creationmuseum.org/accessibility/"
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Rental availability does not establish access to every attraction. Food options are not an allergen-free guarantee; consult staff.",
@@ -590,17 +1481,56 @@
       {
         "domain": "mobility",
         "text": "Accessible parking is in the gated lot north of 9th Street. Use the intercom with a disability parking placard visible; staff assistance entering the library can be requested.",
-        "source_url": "https://chpl.org/locations/1/"
+        "source_url": "https://chpl.org/locations/1/",
+        "id": "downtown-main-library.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "The South Plaza is at street level. The location page directs visitors to the Vine Street or Walnut Street entrances because the 9th Street entrance is closed.",
-        "source_url": "https://chpl.org/locations/1/"
+        "source_url": "https://chpl.org/locations/1/",
+        "id": "downtown-main-library.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "A downloadable building map is available, with free printed copies at the library.",
-        "source_url": "https://chpl.org/locations/1/"
+        "source_url": "https://chpl.org/locations/1/",
+        "id": "downtown-main-library.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Entrance closure is time-sensitive. Confirm the route and facilities needed for your visit.",
@@ -621,12 +1551,38 @@
       {
         "domain": "mobility",
         "text": "The city describes an accessible zero-depth pool and a paved path around the outside of the facility.",
-        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/"
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The facility lists shelters, sun umbrellas and a bathhouse with family restrooms.",
-        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/"
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public city website reporting; no on-site audit. Seasonal venue: the posted 2026 operating season ends Labor Day. Verify the next opening date. No claim is made about lift access to other pools or slides.",
@@ -646,12 +1602,38 @@
       {
         "domain": "mobility",
         "text": "The accessible playground includes rubber surfacing and wide ramps.",
-        "source_url": "https://www.greatparks.org/about/accessibility"
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "francis-recreacres.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "The park page lists an easy, one-mile shared-use loop passing the playground and soccer fields.",
-        "source_url": "https://www.greatparks.org/parks/francis-recreacres"
+        "source_url": "https://www.greatparks.org/parks/francis-recreacres",
+        "id": "francis-recreacres.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Confirm current conditions. Address source: https://www.greatparks.org/parks/francis-recreacres",
@@ -672,12 +1654,38 @@
       {
         "domain": "mobility",
         "text": "The branch's official facility list identifies accessible facilities.",
-        "source_url": "https://chpl.org/locations/ha/"
+        "source_url": "https://chpl.org/locations/ha/",
+        "id": "harrison-branch-library.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The branch lists both curbside service and a drive-through.",
-        "source_url": "https://chpl.org/locations/ha/"
+        "source_url": "https://chpl.org/locations/ha/",
+        "id": "harrison-branch-library.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. The facility list does not specify door widths, restroom layout or sensory conditions. Contact the branch for details.",
@@ -698,17 +1706,56 @@
       {
         "domain": "mobility",
         "text": "The venue describes all entries as accessible and says every restroom has accessible stalls. An elevator is near the first-floor entrance.",
-        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility"
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+        "id": "megacorp-pavilion.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Accessible parking is in the attached lower garage, with elevators to the main entry. ADA seating is sold through AXS.",
-        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility"
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+        "id": "megacorp-pavilion.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The venue requests at least two weeks' notice for a sign-language interpreter; late requests are considered when possible.",
-        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility"
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+        "id": "megacorp-pavilion.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Contact the venue in advance about the specific indoor or outdoor event layout.",
@@ -728,12 +1775,38 @@
       {
         "domain": "mobility",
         "text": "An accessible canoe/kayak launch uses a sliding transfer bench.",
-        "source_url": "https://www.greatparks.org/about/accessibility"
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "miami-whitewater-forest.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "The park has a Zero G-Chair swing; the golf course offers reservable Solo Rider carts.",
-        "source_url": "https://www.greatparks.org/about/accessibility"
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "miami-whitewater-forest.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Confirm availability before visiting. Address source: https://www.greatparks.org/parks/miami-whitewater-forest",
@@ -748,27 +1821,99 @@
     "category": "Museums & attractions",
     "website": "https://freedomcenter.org/",
     "source_url": "https://freedomcenter.org/visit/accessibility/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
         "text": "Elevators connect each floor. Accessible restrooms are listed on the first, third and fourth floors. Wheelchairs and ECVs are available from the front desk, first come, first served.",
-        "source_url": "https://freedomcenter.org/visit/accessibility/"
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "A Braille museum map is available at check-in. Permanent-gallery videos have open captions, while temporary-exhibition audio is transcribed in panels or guides.",
-        "source_url": "https://freedomcenter.org/visit/accessibility/"
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "A Visual Welcome Guide is available to prepare for a museum visit.",
-        "source_url": "https://freedomcenter.org/visit/accessibility/"
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The museum reports accessibility carts on the second and third floors with headphones, fidgets and sunglasses.",
-        "source_url": "https://freedomcenter.org/voice/accessibilitytools-copy/"
+        "source_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
+        "id": "national-underground-railroad-freedom-center.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Rentals cannot leave the museum; ECV rental has a fee and agreement requirements. Confirm equipment and accommodation availability.",
@@ -790,27 +1935,92 @@
       {
         "domain": "mobility",
         "text": "Elevators connect the lobby to exhibits. Restrooms have accessible stalls; family and companion restrooms are near the main elevator and Sharky's Cafe.",
-        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility"
+        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
+        "id": "newport-aquarium.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Free manual wheelchairs are first come, first served at Guest Services; a photo ID is held as a deposit.",
-        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility"
+        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
+        "id": "newport-aquarium.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "Free sensory bags with headphones, fidgets and cue cards can be borrowed with ID, subject to availability. Louder areas have headphone-zone signs.",
-        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility"
+        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
+        "id": "newport-aquarium.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "cognitive",
         "text": "The accessibility page links advance-visit social stories and visual guides.",
-        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility"
+        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
+        "id": "newport-aquarium.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Shark Bridge has a mobility restriction; a periscope offers an alternative tank view. Ask staff about Tide Pool accommodations.",
-        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility"
+        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
+        "id": "newport-aquarium.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Individual exhibits and encounters have restrictions; consult the linked guide before booking.",
@@ -830,17 +2040,56 @@
       {
         "domain": "mobility",
         "text": "The Madison Avenue entrance has a sidewalk ramp and push-button doors. A passenger elevator connects the two main levels.",
-        "source_url": "https://www.nkycc.com/about/"
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "The venue lists accessible public restrooms, wheelchair access to meeting/event rooms and accessible Learning Center seating.",
-        "source_url": "https://www.nkycc.com/about/"
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Two wheelchairs may be signed out from Administrative Offices, first come, first served, with photo ID held until return. Riser ramps should be requested ahead of time.",
-        "source_url": "https://www.nkycc.com/about/"
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public venue website reporting; no on-site audit. Event layouts and equipment availability should be confirmed with the organizer.",
@@ -860,22 +2109,74 @@
       {
         "domain": "mobility",
         "text": "Paved routes run through the park, but some have steep hills or uneven ground. A ramp for the Visitor Center is available on request.",
-        "source_url": "https://www.pyramidhill.org/visit"
+        "source_url": "https://www.pyramidhill.org/visit",
+        "id": "pyramid-hill-sculpture-park-museum.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Wheelchair-accessible restrooms are listed in the Pyramid House and Gallery Museum during museum hours. The Pavilion restroom building has a small entrance step.",
-        "source_url": "https://www.pyramidhill.org/visit"
+        "source_url": "https://www.pyramidhill.org/visit",
+        "id": "pyramid-hill-sculpture-park-museum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "The mobile web app offers recorded sculpture descriptions. Docents in the Pyramid House can provide 3D copies of selected sculptures for tactile study.",
-        "source_url": "https://www.pyramidhill.org/visit"
+        "source_url": "https://www.pyramidhill.org/visit",
+        "id": "pyramid-hill-sculpture-park-museum.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "Call the park about reserving an Art Cart for mobility needs; rentals depend on weather and availability.",
-        "source_url": "https://www.pyramidhill.org/visit"
+        "source_url": "https://www.pyramidhill.org/visit",
+        "id": "pyramid-hill-sculpture-park-museum.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. The page describes a wheelchair-accessible Gallery Museum entrance but also a small step; confirm the step-free route directly before relying on it.",
@@ -896,12 +2197,38 @@
       {
         "domain": "mobility",
         "text": "Great Parks lists an accessible playground and a Zero G-Chair swing.",
-        "source_url": "https://www.greatparks.org/about/accessibility"
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "sharon-woods.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Sharon Woods is specifically excluded from Great Parks' blanket statement about accessible paved shared-use trails.",
-        "source_url": "https://www.greatparks.org/about/accessibility"
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "sharon-woods.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Harbor construction affects amenities; check closures. Address and construction source: https://www.greatparks.org/parks/sharon-woods",
@@ -922,17 +2249,56 @@
       {
         "domain": "mobility",
         "text": "The museum lists ramps, elevators, lifts, accessible restrooms and wheelchairs. Ask the admissions team for a wheelchair or lift assistance.",
-        "source_url": "https://www.taftmuseum.org/visitor-information/"
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "A quiet room and noise-reducing headphones are available. Admissions provides Braille and large-print visitor materials.",
-        "source_url": "https://www.taftmuseum.org/visitor-information/"
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "chronic",
         "text": "The museum's carry-in policy permits water for medical purposes; otherwise outside food and drink are prohibited.",
-        "source_url": "https://www.taftmuseum.org/visitor-information/"
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Confirm individual accommodation needs with accessibility@taftmuseum.org.",
@@ -954,17 +2320,56 @@
       {
         "domain": "mobility",
         "text": "The venue lists adjacent accessible parking, elevators between building levels and a ramp to the Eva G. Farris Education Center.",
-        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
+        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "id": "the-carnegie.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "The Otto M. Budig Theatre mezzanine cannot be reached by ramp or elevator.",
-        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
+        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "id": "the-carnegie.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "Captioning and ASL interpretation are offered at selected performances; contact the box office for dates and availability.",
-        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
+        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "id": "the-carnegie.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Performance accommodations depend on the event; mezzanine seating has a stated barrier.",
@@ -984,22 +2389,74 @@
       {
         "domain": "mobility",
         "text": "Wheelchair seating is offered at all price levels, with up to three companion tickets when available. Request accessible seating when buying tickets.",
-        "source_url": "https://thetruistarena.com/plan-your-visit/faq"
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Accessible parking is in Lot O and the Welcome Center Garage; spaces are limited and first come, first served.",
-        "source_url": "https://thetruistarena.com/plan-your-visit/faq"
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "sensory",
         "text": "Amplification devices are available for most events with at least one week's notice and photo ID. Sign-language interpretation requests require three weeks' notice and production approval.",
-        "source_url": "https://thetruistarena.com/plan-your-visit/faq"
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "Staff offer wheelchair assistance to and from seats, but venue wheelchairs cannot be borrowed as event seating.",
-        "source_url": "https://thetruistarena.com/plan-your-visit/faq"
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Seating, drop-off arrangements and accommodations may vary by event.",
@@ -1019,12 +2476,38 @@
       {
         "domain": "mobility",
         "text": "Great Parks lists an accessible canoe/kayak transfer launch at the harbor and an accessible playground at Harper Meadows.",
-        "source_url": "https://www.greatparks.org/about/accessibility"
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "winton-woods.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       },
       {
         "domain": "mobility",
         "text": "A Zero G-Chair swing is listed at Winton Woods.",
-        "source_url": "https://www.greatparks.org/about/accessibility"
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "winton-woods.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-09-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-09-10",
+            "action": "added",
+            "note": "Summarized from the public source during initial catalog research."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Verify current launch operation and park closures. Address source: https://www.greatparks.org/parks/winton-woods",

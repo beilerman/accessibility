@@ -1,6 +1,12 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { places, factCount, dateLabel } from "@/lib/catalog";
+import {
+  places,
+  factCount,
+  dateLabel,
+  SOURCE_TYPE_LABELS,
+  RECHECK_AFTER_DAYS,
+} from "@/lib/catalog";
 import { venuePhotos } from "@/lib/media";
 export const metadata: Metadata = {
   title: "Sources & evidence",
@@ -28,11 +34,38 @@ export default function Sources() {
           </dd>
         </div>
         <div>
-          <dt className="font-bold">Sources checked</dt>
+          <dt className="font-bold">Checked</dt>
           <dd>
-            The date we retrieved and checked the source. It does not mean the
+            The date we last read that note’s source and confirmed the summary
+            still matched. Each note has its own date. It does not mean the
             venue recently updated its page or that someone visited on that
             date.
+          </dd>
+        </div>
+        <div>
+          <dt className="font-bold">Source updated</dt>
+          <dd>
+            Shown only when the publisher states when its page changed. Most
+            pages do not, so this is usually absent.
+          </dd>
+        </div>
+        <div>
+          <dt className="font-bold">Who published the source</dt>
+          <dd>
+            Each note names its publisher type:{" "}
+            {Object.values(SOURCE_TYPE_LABELS).join("; ").toLowerCase()}. An
+            operating organization may describe several locations on one page.
+          </dd>
+        </div>
+        <div>
+          <dt className="font-bold">Note history and rechecks</dt>
+          <dd>
+            Every note keeps a dated history of when it was added, rechecked or
+            revised; earlier wording is not silently replaced. We monitor source
+            pages for changes and recheck each note at least every{" "}
+            {RECHECK_AFTER_DAYS} days. A note whose source changed, stopped
+            loading or is overdue for a recheck shows a caution until an editor
+            reviews it.
           </dd>
         </div>
         <div>

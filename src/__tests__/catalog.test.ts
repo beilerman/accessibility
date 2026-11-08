@@ -1,5 +1,14 @@
 import { describe, it, expect } from "vitest";
-import { places, findPlaces, DOMAIN_LABELS } from "@/lib/catalog";
+import {
+  places,
+  findPlaces,
+  DOMAIN_LABELS,
+  SOURCE_TYPE_LABELS,
+  allFacts,
+  factNeedsCaution,
+  recheckDueDate,
+  latestRetrieval,
+} from "@/lib/catalog";
 import { getVenues, getEditorialReviews, getFeaturedReview } from "@/lib/data";
 
 describe("Public-source evidence contract", () => {
@@ -24,6 +33,47 @@ describe("Public-source evidence contract", () => {
         expect(f.text.length).toBeGreaterThan(10);
       }
     }
+  });
+  it("gives every fact its own stable ID, publisher type, dates and history", () => {
+    const iso = /^\d{4}-\d{2}-\d{2}$/;
+    const ids = allFacts.map((f) => f.id);
+    expect(new Set(ids).size).toBe(ids.length);
+    for (const f of allFacts) {
+      expect(f.id).toMatch(new RegExp(`^${f.place.slug}\\.${f.domain}\\.\\d+$`));
+      expect(Object.keys(SOURCE_TYPE_LABELS)).toContain(f.source_type);
+      expect(["source_checked", "needs_recheck", "source_unavailable"]).toContain(
+        f.review_status,
+      );
+      expect(f.retrieved_at).toMatch(iso);
+      expect(f.published_at === null || iso.test(f.published_at)).toBe(true);
+      // Reading a website never establishes a visit.
+      expect(f.observed_at).toBeNull();
+      // History is append-only and chronological, starting with the addition.
+      expect(f.history[0].action).toBe("added");
+      const dates = f.history.map((h) => h.date);
+      expect([...dates].sort()).toEqual(dates);
+      for (const h of f.history) expect(h.note.length).toBeGreaterThan(10);
+      // The retrieval date is the most recent time an editor read the source.
+      const lastRead = f.history
+        .filter((h) => h.action !== "flagged")
+        .map((h) => h.date)
+        .at(-1);
+      expect(f.retrieved_at).toBe(lastRead);
+      // A source on another domain must be explicitly classified.
+      if (new URL(f.source_url).hostname.split(".").slice(-2).join(".") !==
+          new URL(f.place.website).hostname.split(".").slice(-2).join("."))
+        expect(f.source_type).not.toBe("venue_official");
+    }
+    for (const p of places) expect(p.checked_at <= latestRetrieval(p)).toBe(true);
+  });
+  it("cautions on facts that are flagged or overdue for a recheck", () => {
+    expect(recheckDueDate({ retrieved_at: "2026-09-10" })).toBe("2027-03-09");
+    const fresh = { retrieved_at: "2026-09-10", review_status: "source_checked" as const };
+    expect(factNeedsCaution(fresh, "2027-03-09")).toBe(false);
+    expect(factNeedsCaution(fresh, "2027-03-10")).toBe(true);
+    expect(
+      factNeedsCaution({ ...fresh, review_status: "needs_recheck" }, "2026-09-11"),
+    ).toBe(true);
   });
   it("combines text, location, category and information coverage without a fit score", () => {
     const selected = findPlaces({

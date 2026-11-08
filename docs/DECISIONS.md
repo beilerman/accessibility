@@ -22,7 +22,7 @@ Unmentioned is unknown. A negative claim requires evidence just as a positive on
 
 ## 4. Make provenance specific to each fact
 
-The integrated dataset has 106 facts across 32 places (15 Kentucky, 17 Ohio). Every fact carries its own source URL; each listing carries `evidence_type: public_website`, `checked_at: 2026-09-10`, `observed_at: null` and limitations. Source type and date currently apply at listing level, not as independent per-fact observations. Add stable fact identifiers, independent date fields and change history as the data layer develops.
+The integrated dataset has 106 facts across 32 places (15 Kentucky, 17 Ohio). Every fact carries its own source URL; each listing carries `evidence_type: public_website`, `checked_at: 2026-09-10`, `observed_at: null` and limitations. Since November 8, 2026, each fact also carries its own stable ID, publisher type, retrieved/published/observed dates, review status and append-only history; listing-level `checked_at` records the last full listing review.
 
 Keep these dates separate:
 

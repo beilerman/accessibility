@@ -157,6 +157,13 @@ body {
 .fact-group { border-top:1px solid var(--border); padding:24px 0; }
 .fact-note { line-height:1.8; border-left:2px solid var(--border); padding-left:18px; }
 .source-link { display:inline-flex; align-items:center; gap:5px; min-height:44px; color:var(--accent); font-size:13px; text-decoration:underline; }
+.fact-note:target { border-left-color:var(--accent); }
+.fact-meta { font-size:13px; color:var(--muted-foreground); line-height:1.5; margin-top:6px; }
+.fact-caution { font-size:14px; font-weight:600; line-height:1.5; margin-top:6px; padding:6px 10px; border-left:3px solid currentColor; background:var(--muted); }
+.fact-history { font-size:13px; line-height:1.6; }
+.fact-history summary { cursor:pointer; min-height:44px; display:inline-flex; align-items:center; text-decoration:underline; }
+.fact-history ol { margin:4px 0 8px; padding-left:0; list-style:none; }
+.fact-history code { font-size:12px; overflow-wrap:anywhere; }
 .unknown-note { color:var(--muted-foreground); font-size:14px; }
 .reading-page { max-width:860px; padding-top:56px; padding-bottom:72px; line-height:1.85; }
 .reading-page h1 { margin:18px 0 26px; line-height:1.15; }

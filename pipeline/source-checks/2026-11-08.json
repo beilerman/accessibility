@@ -1,0 +1,222 @@
+{
+  "checked_at": "2026-11-08",
+  "sources": {
+    "https://bcplundiscovered.org/accessibilityoptions/": {
+      "status": 200,
+      "final_url": "https://bcplundiscovered.org/accessibilityoptions/",
+      "last_modified": null,
+      "sha256": "ad1f5e493d28186cb9ad72759e78608f3efcd9f03224bb8a40481fb6ccc057d2",
+      "chars": 6689
+    },
+    "https://chpl.org/locations/1/": {
+      "status": 200,
+      "final_url": "https://chpl.org/locations/1/",
+      "last_modified": null,
+      "sha256": "77c2a100b3def2fdad75eedf80c8520721b791b643351b572f13ba2c9923f37f",
+      "chars": 8022
+    },
+    "https://chpl.org/locations/ha/": {
+      "status": 200,
+      "final_url": "https://chpl.org/locations/ha/",
+      "last_modified": null,
+      "sha256": "414ef1ff84d94355af20320e286705813f57d5929bb4a419a8dae7ddf6f40500",
+      "chars": 5792
+    },
+    "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/": {
+      "status": 200,
+      "final_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+      "last_modified": null,
+      "sha256": "ac81a0d414499135a43240c195fe4bd5fe9864923d58d8a47e212fbaecb5894e",
+      "chars": 28196
+    },
+    "https://cincyplay.com/visit/accessibility": {
+      "status": 200,
+      "final_url": "https://cincyplay.com/visit/accessibility",
+      "last_modified": null,
+      "sha256": "e7f253d17ffb49b8d5616dc07105d3fe42625eb6ce69afe9a3ade78460419378",
+      "chars": 6435
+    },
+    "https://creationmuseum.org/accessibility/": {
+      "status": 200,
+      "final_url": "https://creationmuseum.org/accessibility/",
+      "last_modified": null,
+      "sha256": "c569aff08ae6059368c21070273eec94830068514c11125fe19ed352d0ac7c36",
+      "chars": 11619
+    },
+    "https://florence-ky.gov/residents/florence-family-aquatic-center/": {
+      "status": 200,
+      "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+      "last_modified": null,
+      "sha256": "562e90b9357ff1269e7ec071ce0331cbf8fa301da3557ed08240a55f8b394efb",
+      "chars": 11249
+    },
+    "https://freedomcenter.org/visit/accessibility/": {
+      "status": 200,
+      "final_url": "https://freedomcenter.org/visit/accessibility/",
+      "last_modified": "Sun, 08 Nov 2026 18:14:50 GMT",
+      "sha256": "4cdc97f4ac0cb6b5cdfefb47206c37435cfca748d7fdccbe7eae5aaa11bd1489",
+      "chars": 3519
+    },
+    "https://freedomcenter.org/voice/accessibilitytools-copy/": {
+      "status": 200,
+      "final_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
+      "last_modified": "Sun, 08 Nov 2026 18:14:51 GMT",
+      "sha256": "eb6b38dd691a9d40b1e66d8891c4bc4978aa08d3f9ad4b2c0ef3a994912130e9",
+      "chars": 4116
+    },
+    "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807": {
+      "status": 200,
+      "final_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
+      "last_modified": "Sat, 07 Nov 2026 09:54:38 GMT",
+      "sha256": "15f66538e79acffa1b8afaae957bc5a960561372ceb59d7696b1abec552e3bd9",
+      "chars": 221
+    },
+    "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility": {
+      "status": 200,
+      "final_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+      "last_modified": null,
+      "sha256": "849b254cddae638a441d47dbe5da2448d654aa6ce4e04b2b8a09d5b6ae1cf099",
+      "chars": 3191
+    },
+    "https://thecarnegie.com/about/visiting-the-carnegie/": {
+      "status": 200,
+      "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+      "last_modified": "Sun, 08 Nov 2026 10:37:25 GMT",
+      "sha256": "a63f4efbed2acd0df6c6bfc07967ba841680b7c50c32c3e572149a3dedff3526",
+      "chars": 3984
+    },
+    "https://thetruistarena.com/plan-your-visit/faq": {
+      "status": 200,
+      "final_url": "https://thetruistarena.com/plan-your-visit/faq",
+      "last_modified": null,
+      "sha256": "4337b390b52568270e47dc8a4c747a35351a7e196186539b5044af9f4c3b18b6",
+      "chars": 17220
+    },
+    "https://www.bbriverboats.com/faq": {
+      "status": 200,
+      "final_url": "https://www.bbriverboats.com/faq",
+      "last_modified": null,
+      "sha256": "b9a51ad8213c2f76020800572ed70eadc3c66dd6535beecef5bba4bf21d71d1c",
+      "chars": 7386
+    },
+    "https://www.bcpl.org/locations": {
+      "status": 200,
+      "final_url": "https://www.bcpl.org/locations",
+      "last_modified": "Sun, 08 Nov 2026 18:05:47 GMT",
+      "sha256": "827d45ba885ccbfc7dc0798fc4ed43b9c4cabfd6eeec2feb0f779e6dd0118079",
+      "chars": 4070
+    },
+    "https://www.bcpl.org/sensory-room": {
+      "status": 200,
+      "final_url": "https://www.bcpl.org/sensory-room",
+      "last_modified": "Sun, 08 Nov 2026 18:14:57 GMT",
+      "sha256": "896ddbe93351d0897ef78f9569727cebf803ae504e25c80235915d864995dce6",
+      "chars": 4090
+    },
+    "https://www.cincinnatiartmuseum.org/access": {
+      "status": 200,
+      "final_url": "https://www.cincinnatiartmuseum.org/access",
+      "last_modified": null,
+      "sha256": "2773600a637959eb21e5fdea5216b2e6b9ebfb05745a52c3df191287b4dcffb9",
+      "chars": 21138
+    },
+    "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1": {
+      "status": 200,
+      "final_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+      "last_modified": null,
+      "sha256": "8ee407fcc190ee4e0902fecdc82f194704725659d6d2ff419e68ddad810a5295",
+      "chars": 9950
+    },
+    "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2": {
+      "status": 200,
+      "final_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+      "last_modified": null,
+      "sha256": "f8272b46510c89a6cc5ca14e8414c8833196e7898acf1fd16a6d568edec3d6cf",
+      "chars": 8459
+    },
+    "https://www.cincymuseum.org/visit/": {
+      "status": 200,
+      "final_url": "https://www.cincymuseum.org/visit/",
+      "last_modified": null,
+      "sha256": "0aa2f46514c0fcfddef52b59dd9d21a48c637e8f576e563b21b764cac57dab3e",
+      "chars": 23692
+    },
+    "https://www.cincynature.org/visit": {
+      "status": 200,
+      "final_url": "https://www.cincynature.org/visit",
+      "last_modified": "Fri, 06 Nov 2026 21:08:04 GMT",
+      "sha256": "c7bb17684c7557ba0801c24b704e76e755b7b3f8a8f09494b19b04f0ac44e86f",
+      "chars": 13620
+    },
+    "https://www.contemporaryartscenter.org/visit/accessibility": {
+      "status": 200,
+      "final_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+      "last_modified": null,
+      "sha256": "0c0b4a5b637a7c926751c7b3ab5689369d9e6f2f570fa5781e427c2b26b7dc60",
+      "chars": 4923
+    },
+    "https://www.cvgairport.com/accessibility/": {
+      "status": 200,
+      "final_url": "https://www.cvgairport.com/accessibility/",
+      "last_modified": null,
+      "sha256": "48d91d7fc75c3bc3a128f930786743d322fb92dd93abc6f4162718bb510ac3f4",
+      "chars": 3835
+    },
+    "https://www.cvgairport.com/accessibility/facility-access-info/": {
+      "status": 200,
+      "final_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
+      "last_modified": null,
+      "sha256": "ac5d88b64f301d69515140f3b98692195ddb3126e6d627cc975efe2b13428fff",
+      "chars": 2999
+    },
+    "https://www.greatparks.org/about/accessibility": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/about/accessibility",
+      "last_modified": null,
+      "sha256": "01e3b9b4bf716c502c128a3f5fc866876696431399cb915be5d714d5505739b3",
+      "chars": 7101
+    },
+    "https://www.greatparks.org/parks/francis-recreacres": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/francis-recreacres",
+      "last_modified": null,
+      "sha256": "0e67a61ebe577a2f7ae165addcd9720bba1a14bec42bb6f033bb22b36935ffd4",
+      "chars": 5634
+    },
+    "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": {
+      "status": 403,
+      "error": "Forbidden"
+    },
+    "https://www.nkycc.com/about/": {
+      "status": 200,
+      "final_url": "https://www.nkycc.com/about/",
+      "last_modified": null,
+      "sha256": "7fd25f1e8d01fb43a5affc12e937e662d9bb94f20689ae5b91d51a27a4d4ed16",
+      "chars": 7070
+    },
+    "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm": {
+      "status": 200,
+      "final_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
+      "last_modified": null,
+      "sha256": "75897721cc4d8b2e0acddc307274abf6af165bc262f43a85fb4ebbc1b011a185",
+      "chars": 6843
+    },
+    "https://www.pyramidhill.org/visit": {
+      "status": 200,
+      "final_url": "https://www.pyramidhill.org/visit",
+      "last_modified": null,
+      "sha256": "33628a862c94e9b69ebc55d867eda2d38c13af13d5723f0f12ddf79fa825dbe7",
+      "chars": 5330
+    },
+    "https://www.taftmuseum.org/visitor-information/": {
+      "status": 200,
+      "final_url": "https://www.taftmuseum.org/visitor-information/",
+      "last_modified": null,
+      "sha256": "70a8eec594e8cef17b0ee05f4e7b4a2d5db52eb8e93785722ce710d53c73caa1",
+      "chars": 10494
+    }
+  },
+  "findings": {
+    "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked"
+  }
+}

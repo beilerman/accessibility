@@ -259,3 +259,27 @@ test("visitor reports preserve context, filter correctly and link back to venue 
     ),
   ).toBe(false);
 });
+
+test("each access note shows its own source type, check date and history", async ({
+  page,
+}) => {
+  await page.goto("/venues/creation-museum");
+  const note = page.locator("#creation-museum\\.sensory\\.1");
+  await expect(note).toContainText("photosensitive epilepsy");
+  await expect(note).toContainText("Venue’s official website · Checked Nov 8, 2026");
+  const history = note.locator("details.fact-history");
+  await expect(history.locator("ol")).toBeHidden();
+  await history.locator("summary").click();
+  await expect(history).toContainText("Sep 10, 2026");
+  await expect(history).toContainText("added its strobe");
+  await expect(history).toContainText("creation-museum.sensory.1");
+  const scan = await new AxeBuilder({ page })
+    .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
+    .analyze();
+  expect(scan.violations).toEqual([]);
+  await page.goto("/venues/boone-county-public-library-walton-branch");
+  await expect(page.locator(".fact-meta").first()).toBeVisible();
+  await expect(page.getByText("Operating organization’s website").first()).toBeVisible();
+  expect(await page.locator(".fact-caution").count()).toBe(0);
+});
+
