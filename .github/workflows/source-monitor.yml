@@ -1,0 +1,55 @@
+name: Source monitor
+
+# Weekly: compare every catalog source with the last committed snapshot
+# (the state an editor last reviewed). Opens or updates one issue when a
+# source changed, stopped loading or is blocked. Never edits catalog data.
+# Scheduled workflows run from the default branch only.
+on:
+  schedule:
+    - cron: "17 11 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check sources
+        id: check
+        run: |
+          python3 pipeline/check_sources.py | tee report.txt
+          grep -E '^(CHANGED|UNAVAILABLE|BLOCKED|UNSTABLE) ' report.txt > findings.txt || true
+          echo "count=$(grep -cE '^(CHANGED|UNAVAILABLE)' findings.txt || true)" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: source-snapshot
+          path: pipeline/source-checks/
+      - name: Open or update the review issue
+        if: steps.check.outputs.count != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "The weekly source check found sources that differ from the last reviewed snapshot."
+            echo
+            echo '```'
+            cat findings.txt
+            echo '```'
+            echo
+            echo "For each CHANGED or UNAVAILABLE source: re-read it, update the affected notes in src/data/places.json (retrieved_at, review_status, a history entry), then commit a fresh snapshot with \`python3 pipeline/check_sources.py\`. BLOCKED/UNSTABLE need a manual browser check and never flag notes."
+            echo
+            echo "Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+          } > body.md
+          existing=$(gh issue list --state open --search "Source monitor: sources need review in:title" --json number --jq '.[0].number')
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body-file body.md
+          else
+            gh issue create --title "Source monitor: sources need review" --body-file body.md
+          fi
