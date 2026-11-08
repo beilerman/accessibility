@@ -6722,5 +6722,499 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Smale Riverfront Park",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "100 W. Mehring Way, Cincinnati, OH 45202",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+    "limitations": "Public website information; no on-site audit. The accessibility details come from a July 2020 Cincinnati Parks article; elevator status, accessible parking and drop-off, and whether the restrooms are accessible are not stated. Confirm with Cincinnati Parks before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "smale-riverfront-park",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks says the park is served by several elevators and accessible routes to and along the river, and that the Anderson Pavilion and Carol Ann's Carousel are also accessible.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "smale-riverfront-park.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks lists Smale Riverfront Park among the parks where new accessible playgrounds were built.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "smale-riverfront-park.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Public restrooms include the Pichler Fountain restrooms near Carol Ann's Carousel; the park page lists their hours. Their accessibility is not stated.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+        "id": "smale-riverfront-park.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park is open 6 a.m. to 11 p.m.; after 9 p.m., anyone 17 or younger must be with a parent or guardian.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+        "id": "smale-riverfront-park.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cincinnati Parks provides reasonable accommodations for people with disabilities on request, using its Reasonable Accommodation Request Form; questions go to 513-357-2604.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+        "id": "smale-riverfront-park.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eden Park",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "950 Eden Park Dr., Cincinnati, OH 45202",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+    "limitations": "Public website information; no on-site audit. The park is large and hilly; which walkways are step-free, accessible parking, and whether the restrooms are accessible are not stated. Confirm with Cincinnati Parks before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "eden-park",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks says the Seasongood Pavilion outdoor amphitheater is accessible, with ramps reaching seating areas on its steeply sloping site that were previously inaccessible.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "eden-park.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The park's feature list includes a paved walkway and benches.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+        "id": "eden-park.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Fulton restrooms have seasonal hours: from November 1 to April 14 they are open Monday to Friday, 6:30 a.m. to 3 p.m. Their accessibility is not stated.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+        "id": "eden-park.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park is open 6 a.m. to 10 p.m.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+        "id": "eden-park.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cincinnati Parks provides reasonable accommodations for people with disabilities on request, using its Reasonable Accommodation Request Form; questions go to 513-357-2604.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+        "id": "eden-park.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ault Park",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "5090 Observatory Circle, Cincinnati, OH 45208",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+    "limitations": "Public website information; no on-site audit. Whether the paved walkways, playground or restrooms are accessible, and where accessible parking is, are not stated. Confirm with Cincinnati Parks before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "ault-park",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The park's feature list includes paved walkways and parking. Its hiking trails have steps, bridges and stream crossings.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+        "id": "ault-park.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Benches and drinking fountains are listed. The Heekin Overlook restrooms open seasonally (April 15 to October 31); the Principio Playground restrooms are listed as closed for repair. Accessibility of the restrooms is not stated.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+        "id": "ault-park.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park is open 6 a.m. to 10 p.m.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+        "id": "ault-park.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cincinnati Parks provides reasonable accommodations for people with disabilities on request, using its Reasonable Accommodation Request Form; questions go to 513-357-2604.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+        "id": "ault-park.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Washington Park",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "1230 Elm Street, Cincinnati, OH 45202",
+    "website": "https://washingtonpark.org/",
+    "source_url": "https://washingtonpark.org/amenities/",
+    "limitations": "Public website information; no on-site audit. Accessible garage spaces, step-free routes through the park, and whether the restrooms are accessible are not stated. Confirm with the park before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "washington-park",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The underground garage has glass elevators at its northeast and northwest corners and across from the Music Hall entrance.",
+        "source_url": "https://washingtonpark.org/parking/",
+        "id": "washington-park.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks lists Washington Park among the parks where new accessible playgrounds were built.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "washington-park.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "To charge medically necessary equipment, ask staff at the Washington Park Porch.",
+        "source_url": "https://washingtonpark.org/park-rules/",
+        "id": "washington-park.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Public restrooms are at Race Street (9 a.m. to 11 p.m. daily), Elm Street (during events) and the Children's Playground. Their accessibility is not stated. The Porch has a large shaded deck with plenty of tables and seating.",
+        "source_url": "https://washingtonpark.org/amenities/",
+        "id": "washington-park.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park is open 6 a.m. to 11 p.m.",
+        "source_url": "https://washingtonpark.org/park-rules/",
+        "id": "washington-park.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fountain Square",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "520 Vine Street, Cincinnati, OH 45202",
+    "website": "https://myfountainsquare.com/",
+    "source_url": "https://myfountainsquare.com/amenities/",
+    "limitations": "Public website information; no on-site audit. A step-free route onto the plaza, accessible garage spaces, and whether the restrooms are accessible are not stated. Confirm before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "fountain-square",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The garage under the square has elevators on the Plaza level and Level 1, with pay stations beside them.",
+        "source_url": "https://myfountainsquare.com/parking/",
+        "id": "fountain-square.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Public restrooms are on the west ramp leading up from Vine Street toward the garage entrance, open 6 a.m. to 11 p.m. but closing at 4 p.m. when no evening event is scheduled. Their accessibility is not stated. Movable umbrellas provide shade on the plaza.",
+        "source_url": "https://myfountainsquare.com/amenities/",
+        "id": "fountain-square.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "To charge medically necessary equipment, ask staff at the Fountain Square concession stand.",
+        "source_url": "https://myfountainsquare.com/square-rules/",
+        "id": "fountain-square.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The square is closed from 3 a.m. to 6 a.m. except for reaching the garage or nearby buildings. Downtown Ambassadors answer questions and give directions at (513) 623-3429.",
+        "source_url": "https://myfountainsquare.com/square-rules/",
+        "id": "fountain-square.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]

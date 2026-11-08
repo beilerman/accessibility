@@ -166,5 +166,29 @@
     "referenceDate": "September 2020 (date in the photo's file name)",
     "knownDifferences": "Window sash divisions and the cornice's surface detail are approximate (the reference is small); invented stone window lintels/sills and cornice brackets from round 1 were removed; fewer utility wires than the reference.",
     "checkedAt": "2026-11-08"
+  },
+  {
+    "slug": "kenton-county-public-library-erlanger-branch",
+    "src": "/images/ai-venues/kenton-county-public-library-erlanger-branch.webp",
+    "width": 1536,
+    "height": 720,
+    "alt": "AI-generated image of the Kenton County Public Library Erlanger Branch: a red brick library with curved silver metal roofs, a glass tower with dark green frames and a round multicolored tree logo, a curved entrance canopy and wide dark-framed windows.",
+    "caption": "AI-generated image, not a photograph. Drawn from a description of the library's own photo of the Erlanger Branch and checked against it. Entrances, steps and ground level are cropped out on purpose.",
+    "referencePage": "https://www.kentonlibrary.org/locations/8/",
+    "referenceDate": "undated summer photo (the library's own, checked November 2026)",
+    "knownDifferences": "The entrance canopy is drawn as a separate curved overhang, shallower than in the reference; small lights inside the tower are generator-drawn; the tower cap and window proportions are approximate. Round 1 added stone trim around the windows, which an edit removed.",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "slug": "kenton-county-public-library-independence-branch",
+    "src": "/images/ai-venues/kenton-county-public-library-independence-branch.webp",
+    "width": 1536,
+    "height": 556,
+    "alt": "AI-generated image of the William E. Durr Branch of the Kenton County Public Library in Independence: tan brick wing with raised lettering, a curved glass clerestory, and a sloped dark glass wall beside a flagpole with an American flag.",
+    "caption": "AI-generated image, not a photograph. Drawn from a description of the library's own photo of the Independence (Durr) Branch and checked against it. Entrances, steps and ground level are cropped out on purpose.",
+    "referencePage": "https://www.kentonlibrary.org/locations/5/",
+    "referenceDate": "about 2021 (the library's own photo, file named durr2021)",
+    "knownDifferences": "The curved clerestory is wider and more centered than in the reference; small triangular fins along the top of the glass wall are omitted; the left wing's roofline is straight rather than gently curved. The generator drew a wider entrance with two double doors, which is cropped out.",
+    "checkedAt": "2026-11-08"
   }
 ]

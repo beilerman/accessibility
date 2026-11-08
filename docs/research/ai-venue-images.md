@@ -18,4 +18,4 @@ Each record in `src/data/ai-venue-images.json` names the reference page and its 
 - Boone Woods Park: the only official photo is a close-up of a child on play equipment.
 - Francis RecreAcres: the official photos show people and paths, with no building, shelter or sign.
 
-Both keep their labeled category artwork. A real, freely licensed photo always replaces an AI image. On November 8, 2026, free Flickr photos (found through Openverse) replaced the AI images for Southgate House Revival (CC0) and Ensemble Theatre (CC BY-SA 2.0), leaving 14 AI images.
+Both keep their labeled category artwork. A real, freely licensed photo always replaces an AI image. On November 8, 2026, free Flickr photos (found through Openverse) replaced the AI images for Southgate House Revival (CC0) and Ensemble Theatre (CC BY-SA 2.0), leaving 14 AI images. Two more (the Kenton County Erlanger and Independence branches) were added later that evening, for 16.
