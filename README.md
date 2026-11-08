@@ -2,6 +2,8 @@
 
 Source-linked accessibility information for Northern Kentucky and Greater Cincinnati.
 
+Live at **https://thresholdaccessibility.com**.
+
 ## Run locally
 
 ```sh
@@ -52,3 +54,10 @@ Seventeen selected public accessibility reviews/comments cover 12 venues; listin
 ## Content updates
 
 Use official venue/managing-organization sources, retain qualifications and restrictions, and never infer physical access from a general policy. Add source links to every fact, preserve unknown observation dates, and use an independent evidence review before inclusion. Public website summaries are distinct from verified organization submissions and field audits. Do not add identifiable people in images or fictional firsthand accounts.
+
+## Domains
+
+`thresholdaccessibility.com` is canonical (`SITE_ORIGIN` in `src/lib/site.ts`). These all 308-redirect to it via Vercel project domain settings: `www.thresholdaccessibility.com`, `thresholdaccessability.com`, `www.thresholdaccessability.com` and the old `accessibility-omega-ten.vercel.app`.
+
+DNS is at Namecheap (registrar nameservers): `A @ 76.76.21.21` and `CNAME www cname.vercel-dns.com.` on both domains. Vercel reports the configuration valid. It optionally recommends its newer A values (`216.198.79.1`, `64.29.17.1`); applying them is not required.
+

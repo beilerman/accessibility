@@ -130,3 +130,9 @@ Two research agents proposed 10 listings (6 Ohio, 4 Kentucky) from official sour
 - **Parallel work.** Commits `c24f652` and `dea7761` (Riverbend, Bogart's, TQL expansion, dependency upgrades) came from another session working in this same tree. Coordinate before editing `src/data/places.json` concurrently.
 - **Validation.** 54 unit tests, 23 browser tests, 27 pipeline tests; build of 68 pages; lint 0 errors.
 
+## Custom domain (November 8)
+
+- Production is served at https://thresholdaccessibility.com with a Let's Encrypt certificate (expires 2027-02-06; Vercel renews it automatically). The `www` host, the misspelled `thresholdaccessability.com` (+`www`) and `accessibility-omega-ten.vercel.app` all 308 to it, preserving paths. Plain HTTP also 308s to HTTPS.
+- Sitemap, `metadataBase` and the new `robots.txt` use the canonical origin. `robots.txt` excludes the gated `/auth/`, `/profile` and `/submit`.
+- Deployment `dpl_3cBVwwECDa1buE6FWkC3ZQaJVJ7N`. DNS records were set in Namecheap by the assistant with user approval; see README "Domains".
+
