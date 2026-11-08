@@ -21,6 +21,7 @@ The original Claude v1.1 plan is now preserved verbatim in [PLAN.md](PLAN.md), d
 | Data expansion tooling | Done for bounded staging | Eight pipeline tests pass. An actual remote sample staged 25 distinct Overture identities from release `2026-08-19.0`, retaining provenance and empty accessibility facts. [Verification report](../pipeline/verification/remote-sample-2026-09-10.json) records successful exit and matching hashes. No rows imported into site or database; no full regional extraction performed. |
 | Per-fact provenance (week 2) | Done and deployed 2026-11-08 | All 106 facts carry a stable ID (`<slug>.<domain>.<n>`), publisher type (`venue_official` 95 / `operator_official` 9 / `public_agency` 2), separate `retrieved_at` / `published_at` / `observed_at`, `review_status` and an append-only history. Venue pages show per-fact publisher, check date, caution state and a disclosed history with anchors. `pipeline/check_sources.py` snapshots all 31 source pages and flags changed or dead sources. See "Week 2" below. |
 | Full source recheck | Done and deployed 2026-11-08 (`dpl_Ht6MEE7EUQfR3Py6ACQBgnY9neNW`) except Newport Aquarium | 31 of 32 places re-read: 97 notes confirmed, 3 revised, 1 retired, 15 added. Now 120 displayed notes. See "Full recheck" below. |
+| Coverage expansion (week 5, first slice) | Done 2026-11-08 | 9 new listings / 41 notes: Metro + Access paratransit, the Connector streetcar, TANK + RAMP, Kenton County Library Covington, Great American Ball Park, TQL Stadium, American Sign Museum, Vent Haven Museum, Dinsmore Homestead. Catalog now 41 places / 161 notes. |
 | Database authorization (week 3) | Migration written and tested; live apply awaiting approval | `supabase/migrations/002_harden_community_permissions.sql` + `003_archive_legacy_sample_reviews.sql`; 15 PGlite authorization tests. See [COMMUNITY-READINESS.md](COMMUNITY-READINESS.md). |
 | Security and community workflows | Gated | Accounts, uploads, claims and publication need tested authorization, moderation and attribution. No successful database-policy test has been recorded here. |
 | ThresholdAccess database | Restored and healthy | Organization is now Pro. User confirmed subscription; restore succeeded and live SQL was verified at 2026-09-10 19:32 UTC. Other projects were not paused. Community permission fixes remain; see [COMMUNITY-READINESS.md](COMMUNITY-READINESS.md). |
@@ -106,4 +107,14 @@ Nine licensed venue photographs (four KY, five OH) were downloaded, matched to c
   - A "changed" page is re-fetched twice before being reported; inconsistent pages report `unstable` and never flag facts.
   - Measured: 0 of 32 sources varied across 5 consecutive fetches (v1 had 5 noisy sources).
 - **Validation.** 45 unit tests, 16 browser tests (incl. retired-note removal), 25 pipeline tests; build of 48 routes; lint 0 errors.
+
+## Coverage expansion (November 8)
+
+Two research agents proposed 10 listings (6 Ohio, 4 Kentucky) from official sources only, each fact backed by verbatim passages. All 44 quotes re-verified against fresh fetches; each fact read against its passages before inclusion.
+
+- **Added (9):** Cincinnati Metro and Access paratransit, the Connector streetcar (City of Cincinnati pages; the Connector's own domain blocks scripts), TANK and RAMP paratransit, Kenton County Public Library Covington Branch, Great American Ball Park, TQL Stadium (FC Cincinnati's page, tagged operating organization), American Sign Museum, Vent Haven Museum and Dinsmore Homestead. City fields for Dinsmore (Burlington) and TANK (Fort Wright) were confirmed on their official sites.
+- **Edited before inclusion:** a ballpark restroom note that named levels the guide does not tie to those sections.
+- **Excluded:** Smale Riverfront Park. Its only official source is a 2020 news article, not a current visitor page; it is kept as a lead. Agents also skipped Campbell County Public Library, Devou Park, Newport on the Levee and others for lack of a substantive official accessibility page. Behringer-Crawford Museum's site failed TLS with the system Python and returned 403 otherwise.
+- **Test hardening:** browser tests now derive place counts from the catalog. The dark-theme scan waited on nothing and could sample colors mid-switch (3 of 4 local runs failed after the page grew); it now waits for the theme to settle (5 of 5 pass).
+- **Follow-ups:** transit-specific artwork (the transportation art shows an airport); visitor-report research for the new listings; Smale once a current official page exists.
 

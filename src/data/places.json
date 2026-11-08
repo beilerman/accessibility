@@ -1,5 +1,93 @@
 [
   {
+    "name": "American Sign Museum",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "1330 Monmouth Avenue, Cincinnati, OH 45225",
+    "website": "https://www.americansignmuseum.org/",
+    "source_url": "https://www.americansignmuseum.org/visit",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The museum says the entire collection is on one floor and that two wheelchairs are available for visitors on a first-come, first-served basis.",
+        "source_url": "https://www.americansignmuseum.org/visit",
+        "id": "american-sign-museum.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The museum says chairs are placed throughout the museum.",
+        "source_url": "https://www.americansignmuseum.org/visit",
+        "id": "american-sign-museum.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Braille book tours and printed highlights in several languages are at the tour stand near Admissions, and an online audio tour is reached by QR code by the ramp.",
+        "source_url": "https://www.americansignmuseum.org/visit",
+        "id": "american-sign-museum.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The museum advises that guests who may have difficulty with blinking or flashing lights use discretion.",
+        "source_url": "https://www.americansignmuseum.org/visit",
+        "id": "american-sign-museum.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The museum notes blinking and flashing lights; visitors sensitive to light should contact the museum (513-541-6366) about specific galleries.",
+    "slug": "american-sign-museum",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Aronoff Center for the Arts",
     "city": "Cincinnati",
     "state": "OH",
@@ -896,6 +984,111 @@
     ],
     "limitations": "Public website information; no on-site audit. Re-entry accommodation must be requested. Confirm specific restroom, route and equipment needs with the museum.",
     "slug": "cincinnati-art-museum",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Cincinnati Metro (SORTA) and Access paratransit",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Transportation",
+    "website": "https://www.go-metro.com/",
+    "source_url": "https://www.go-metro.com/accessibility",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Metro says its fixed-route city buses are low-floor with a deployable boarding ramp, a kneeling feature, wheelchair securement locations and priority seating at the front.",
+        "source_url": "https://www.go-metro.com/accessibility",
+        "id": "cincinnati-metro-and-access-paratransit.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Metro says bus stop announcements on its fixed-route buses are both audible and visual.",
+        "source_url": "https://www.go-metro.com/accessibility",
+        "id": "cincinnati-metro-and-access-paratransit.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Access is a shared-ride paratransit service for people whose disabilities prevent them from riding Metro buses; riders must apply and be approved first, which can take up to three weeks and includes an in-person functional skills assessment.",
+        "source_url": "https://www.go-metro.com/access",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Access operates only within 3/4 mile of regular (non-express) Metro service and during Metro's regular hours; trips are reserved by phone, and riders get a 30-minute pickup window with a 5-minute driver wait.",
+        "source_url": "https://www.go-metro.com/access",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "On Access, a personal care attendant rides free; drivers secure mobility devices but cannot lift riders in or out of wheelchairs or scooters, and eating and drinking are prohibited on Access vehicles.",
+        "source_url": "https://www.go-metro.com/access",
+        "id": "cincinnati-metro-and-access-paratransit.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Access paratransit requires an approved eligibility application and in-person assessment, and fares or service rules may change; confirm with Access eligibility (513-632-7586) before relying on it.",
+    "slug": "cincinnati-metro-and-access-paratransit",
     "evidence_type": "public_website",
     "observed_at": null
   },
@@ -1838,6 +2031,111 @@
     "observed_at": null
   },
   {
+    "name": "Dinsmore Homestead",
+    "city": "Burlington",
+    "state": "KY",
+    "category": "Museums & attractions",
+    "website": "https://www.dinsmorefarm.org/",
+    "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Designated accessible parking for visitors who use wheelchairs or walkers is next to the office and gift shop.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+        "id": "dinsmore-homestead.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The site says much of the grounds are wheelchair accessible; the path to the house is compacted gravel.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+        "id": "dinsmore-homestead.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A wheelchair ramp at the back of the house reaches the first floor only; the upstairs is not wheelchair accessible.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+        "id": "dinsmore-homestead.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The family graveyard sits on a hilltop about 0.2 miles behind the house, reached by a hiking trail that can be slick when wet.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+        "id": "dinsmore-homestead.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Visitors are asked to contact the site in advance so staff can plan accommodations, including mobile exhibits and additional artifacts.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+        "id": "dinsmore-homestead.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The upstairs of the house is not wheelchair accessible; contact the site before visiting, as it requests, to arrange accommodations and confirm the condition of the gravel path and rear ramp.",
+    "slug": "dinsmore-homestead",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Downtown Main Library",
     "city": "Cincinnati",
     "state": "OH",
@@ -2064,6 +2362,112 @@
     "observed_at": null
   },
   {
+    "name": "Great American Ball Park",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "100 Joe Nuxhall Way, Cincinnati, OH",
+    "website": "https://www.mlb.com/reds/ballpark",
+    "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Accessible pickup/drop-off zones are on Joe Nuxhall Way (west side) and at Broadway and Mehring Way (southeast corner), open to vehicles with a valid accessible placard or plate from 30 minutes before gates open.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible seating is in the last rows of several seating levels and is reached by elevators and ramps; Gates A, B, C and H are at street level, and Gate E is reachable by ramp, elevator or escalator.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The ballpark has two dedicated captioning boards (left field and along the first-base line), and assistive listening devices can be requested at Fan Accommodation Stations behind Sections 119 or 420.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Accessible seating areas include electrical outlets for recharging at no cost, and the guide lists family restroom locations by section.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchair transport to and from seats can be requested from staff, Fan Accommodation Stations or First Aid Stations; wheelchairs are not available for personal use during the event.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The guide lists different accessible-parking prices in different sections; confirm current parking and seating arrangements with the Reds (513-765-7000).",
+    "slug": "great-american-ball-park",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Harrison Branch Library",
     "city": "Harrison",
     "state": "OH",
@@ -2122,6 +2526,76 @@
     ],
     "limitations": "Public website information; no on-site audit. The facility list does not specify door widths, restroom layout or sensory conditions. Contact the branch for details.",
     "slug": "harrison-branch-library",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Kenton County Public Library — Covington Branch",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Libraries",
+    "address": "502 Scott Blvd., Covington, KY 41011",
+    "website": "https://www.kentonlibrary.org/locations/4",
+    "source_url": "https://www.kentonlibrary.org/locations/4",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The branch has a free parking lot directly past the library on Scott Boulevard, but the library notes it may be full at times, especially during popular events; metered street parking (free after 4 pm and on weekends) and a fee-based garage are also nearby.",
+        "source_url": "https://www.kentonlibrary.org/locations/4",
+        "id": "kenton-county-public-library-covington-branch.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "TANK buses serve the Covington branch.",
+        "source_url": "https://www.kentonlibrary.org/locations/4",
+        "id": "kenton-county-public-library-covington-branch.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The library system offers free monthly Homebound delivery of materials such as books, audiobooks, CDs and DVDs to Kenton County residents whose short- or long-term disability or medical condition keeps them from visiting.",
+        "source_url": "https://www.kentonlibrary.org/homebound/",
+        "id": "kenton-county-public-library-covington-branch.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The branch page states only that all areas of the branch are accessible, without detail; confirm the entrance, accessible parking spaces and restrooms with the branch.",
+    "slug": "kenton-county-public-library-covington-branch",
     "evidence_type": "public_website",
     "observed_at": null
   },
@@ -2811,6 +3285,216 @@
     "observed_at": null
   },
   {
+    "name": "TANK (Transit Authority of Northern Kentucky)",
+    "city": "Fort Wright",
+    "state": "KY",
+    "category": "Transportation",
+    "website": "https://www.tankbus.org/",
+    "source_url": "https://www.tankbus.org/ada/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "TANK says all of its buses are accessible to riders using wheelchairs or other mobility devices, with either a ramp or a lift for wheelchair boarding plus a kneeling feature; riders who walk can also ask for the ramp, lift or kneeling feature.",
+        "source_url": "https://www.tankbus.org/ada/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "On fixed routes, TANK announces transfer points, major intersections, destinations and other points along the route, either electronically or by the operator over the PA system.",
+        "source_url": "https://www.tankbus.org/ada/",
+        "id": "tank-transit-authority-of-northern-kentucky.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Riders may bring a respirator, concentrator or portable oxygen if the device is free of cracks, leaks, dents, gouges or pits; the operator may inspect it, and it must be secured so it does not move while the bus is in motion.",
+        "source_url": "https://www.tankbus.org/ada/",
+        "id": "tank-transit-authority-of-northern-kentucky.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "RAMP (Regional Area Mobility Program) is TANK's door-to-door paratransit service for people who cannot use the fixed-route buses, covering Boone, Campbell and Kenton counties.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To qualify for RAMP, riders request an application by calling 859-814-2135, have a doctor complete a medical verification, and then schedule an assessment; large-print or recorded schedules are available on request.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm RAMP paratransit eligibility, service area and booking rules with the TANK Special Services office (859-814-2135) before relying on it.",
+    "slug": "tank-transit-authority-of-northern-kentucky",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "TQL Stadium",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "website": "https://www.tqlstadium.com/",
+    "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Wheelchair-accessible and low-mobility seating is offered on each level; ADA tickets are sold through the FC Cincinnati Ticketing Department, and event-day ADA sales are typically limited.",
+        "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+        "id": "tql-stadium.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Stadium wheelchairs are staff-operated for transport between gates and seats on a first-come, first-served basis and cannot be kept for the event; guests are encouraged to bring their own mobility devices.",
+        "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+        "id": "tql-stadium.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Sensory bags with noise-canceling headphones and a quiet sensory room are available at the Guest Experience Center behind section E6; bags are checked out with a credit card or photo ID.",
+        "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+        "id": "tql-stadium.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Complimentary assistive listening devices are available at the Guest Experience Center, and closed captioning appears on the southeast-corner auxiliary videoboard and in the FCC App.",
+        "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+        "id": "tql-stadium.sensory.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Guests with a medical condition that prevents passing through a magnetometer are screened by an alternative method.",
+        "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+        "id": "tql-stadium.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Accessible seating availability on event day is described as limited; buy ADA tickets in advance through FC Cincinnati Ticketing (513-977-5425).",
+    "slug": "tql-stadium",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Taft Museum of Art",
     "city": "Cincinnati",
     "state": "OH",
@@ -2981,6 +3665,93 @@
     "observed_at": null
   },
   {
+    "name": "The Connector (Cincinnati streetcar)",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Transportation",
+    "website": "https://www.cincinnati-oh.gov/streetcar/",
+    "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The city says Connector vehicles are 100 percent low-floor, with the streetcar floor level with the curb for wheelchairs, scooters and other wheeled devices.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
+        "id": "the-connector-cincinnati-streetcar.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Riders using wheelchairs, scooters and other mobility aids are directed to board through the center double doors.",
+        "source_url": "https://cincinnati-oh.gov/streetcar/about-the-streetcar/faqs",
+        "id": "the-connector-cincinnati-streetcar.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The city lists audio announcements, visual aids such as Braille, and designated seating for people with disabilities.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
+        "id": "the-connector-cincinnati-streetcar.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The city says Metro Access paratransit rides are fare-free when both origin and destination are within 3/4 mile of the Connector route; Access information is available at 513-632-7586.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
+        "id": "the-connector-cincinnati-streetcar.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The pages describe vehicles and boarding in general terms; individual station approaches, curb conditions and service disruptions are not covered.",
+    "slug": "the-connector-cincinnati-streetcar",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Truist Arena",
     "city": "Highland Heights",
     "state": "KY",
@@ -3103,6 +3874,112 @@
     ],
     "limitations": "Public website reporting; no on-site audit. Seating, drop-off arrangements and accommodations may vary by event.",
     "slug": "truist-arena",
+    "observed_at": null
+  },
+  {
+    "name": "Vent Haven Museum",
+    "city": "Fort Mitchell",
+    "state": "KY",
+    "category": "Museums & attractions",
+    "address": "33 West Maple Avenue, Fort Mitchell, KY 41011",
+    "website": "https://www.venthaven.org/",
+    "source_url": "https://www.venthaven.org/frequently-asked-questions",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The museum says it has an accessible parking space near the entrance, that doorways in public areas fit a standard wheelchair, and that all public areas are on one level with no steps or ramps.",
+        "source_url": "https://www.venthaven.org/frequently-asked-questions",
+        "id": "vent-haven-museum.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Seats in the museum theater can be removed as needed to make room for wheelchairs.",
+        "source_url": "https://www.venthaven.org/frequently-asked-questions",
+        "id": "vent-haven-museum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The museum describes its bathrooms as accessible; food and drink are not permitted in the galleries.",
+        "source_url": "https://www.venthaven.org/frequently-asked-questions",
+        "id": "vent-haven-museum.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "All visits are guided tours by appointment only, scheduled in advance, from May through September; tours last about 60 to 90 minutes and drop-in \"quick peeks\" are not offered.",
+        "source_url": "https://www.venthaven.org/frequently-asked-questions",
+        "id": "vent-haven-museum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Strollers are not permitted in the museum galleries.",
+        "source_url": "https://www.venthaven.org/frequently-asked-questions",
+        "id": "vent-haven-museum.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Visits are by advance appointment only, so confirm the accessible parking space and any wheelchair seating needs in the theater when booking.",
+    "slug": "vent-haven-museum",
+    "evidence_type": "public_website",
     "observed_at": null
   },
   {

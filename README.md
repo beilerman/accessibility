@@ -43,11 +43,11 @@ Twenty real venue photographs are stored under `public/images/venues/`, with aut
 
 Three photorealistic educational examples live under `public/images/illustrations/`. Every appearance uses the readable caption **AI illustration — example setting**. They are never used as venue photographs. Prompts, provenance and visual review are in `docs/research/ai-illustrations.md`; reusable-photo research is in the adjacent `photos-ky.md` and `photos-oh.md` files.
 
-Five labeled AI category artworks provide visual context for the 12 listings without venue photographs and introduce the homepage category navigation. All 32 listing cards and detail pages have a visual. These artworks depict imagined scenes; they do not establish venue conditions. Prompts and visual review are in `docs/research/category-art.md`.
+Five labeled AI category artworks provide visual context for every listing without a venue photograph (21 of 41 as of November 8, 2026) and introduce the homepage category navigation. Every listing card and detail page has a visual; a browser test enforces this. The transportation artwork has an airport theme, which fits CVG better than the bus and streetcar listings. These artworks depict imagined scenes; they do not establish venue conditions. Prompts and visual review are in `docs/research/category-art.md`.
 
 ## Visitor reports
 
-Seventeen selected public accessibility reviews/comments cover 12 of the 32 venues. Source-linked summaries, known dates, unknown visit dates and context appear in a separate `/visitor-reports` browser and below official venue information. Reports are not Threshold submissions, independent audits or ratings. The `visitor-reports-*.json` files supply this layer; archival candidates and venue-by-venue search coverage are preserved in `docs/research/`. No private discussions, copied reviewer photos or generated reviews are used.
+Seventeen selected public accessibility reviews/comments cover 12 venues; listings added after September 2026 have none yet. Source-linked summaries, known dates, unknown visit dates and context appear in a separate `/visitor-reports` browser and below official venue information. Reports are not Threshold submissions, independent audits or ratings. The `visitor-reports-*.json` files supply this layer; archival candidates and venue-by-venue search coverage are preserved in `docs/research/`. No private discussions, copied reviewer photos or generated reviews are used.
 
 ## Content updates
 

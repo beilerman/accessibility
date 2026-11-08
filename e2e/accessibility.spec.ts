@@ -1,5 +1,10 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
+import { readFileSync } from "node:fs";
+// Derive expected counts from the catalog so coverage growth needs no test edits.
+const PLACE_COUNT = (
+  JSON.parse(readFileSync("src/data/places.json", "utf8")) as unknown[]
+).length;
 const routes = [
   "/",
   "/venues",
@@ -62,7 +67,7 @@ test("search, combined filters, details, sources and empty state work", async ({
   await page
     .getByRole("link", { name: "Clear all filters", exact: true })
     .click();
-  await expect(page.getByRole("status")).toContainText("32 places found");
+  await expect(page.getByRole("status")).toContainText(`${PLACE_COUNT} places found`);
 });
 test("photos load with credits and AI examples have visible disclosure", async ({
   page,
@@ -107,8 +112,8 @@ test("every listing has a labeled visual and illustrated category links filter c
 }) => {
   await page.goto("/venues");
   const cards = page.locator("article.place-card");
-  await expect(cards).toHaveCount(32);
-  await expect(cards.locator("figure img")).toHaveCount(32);
+  await expect(cards).toHaveCount(PLACE_COUNT);
+  await expect(cards.locator("figure img")).toHaveCount(PLACE_COUNT);
   for (const figure of await cards.locator("figure.category-art").all()) {
     await expect(figure.getByText(/AI artwork/)).toBeVisible();
     await expect(
@@ -199,6 +204,13 @@ test("keyboard-only search and mobile navigation, narrow layout and dark theme",
     ),
   ).toBe(true);
   await page.emulateMedia({ colorScheme: "dark", reducedMotion: "reduce" });
+  // next-themes applies the class after the media change; scanning before it
+  // settles samples half-switched colors (a test race, not a user-visible state).
+  await expect(page.locator("html")).toHaveClass(/\bdark\b/);
+  await expect
+    .poll(() => page.evaluate(() => getComputedStyle(document.body).color))
+    .toBe("rgb(237, 237, 237)");
+  await page.waitForTimeout(250);
   const scan = await new AxeBuilder({ page })
     .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
     .analyze();

@@ -25,6 +25,14 @@
       "fingerprint_version": 4,
       "chars": 2693
     },
+    "https://cincinnati-oh.gov/streetcar/about-the-streetcar/faqs": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
+      "last_modified": null,
+      "sha256": "86155e01711e5a32d221aa4dee0cb4934ed8eae7166193ed9378ec9904f729c5",
+      "fingerprint_version": 4,
+      "chars": 4619
+    },
     "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/": {
       "status": 200,
       "final_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
@@ -52,7 +60,7 @@
     "https://florence-ky.gov/residents/florence-family-aquatic-center/": {
       "status": 200,
       "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
-      "last_modified": "Sun, 08 Nov 2026 18:14:50 GMT",
+      "last_modified": null,
       "sha256": "414876b7660df0e95c72a30e068d1cb78457cd5a18f4a66634e647ac44a5b868",
       "fingerprint_version": 4,
       "chars": 8789
@@ -60,7 +68,7 @@
     "https://freedomcenter.org/visit/accessibility/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/visit/accessibility/",
-      "last_modified": "Sun, 08 Nov 2026 19:01:16 GMT",
+      "last_modified": "Sun, 08 Nov 2026 19:17:39 GMT",
       "sha256": "539a35426cb42777bbd9449f8ef27a9ca3f91b9209b8cb9881d5e6d28aec614f",
       "fingerprint_version": 4,
       "chars": 2149
@@ -68,7 +76,7 @@
     "https://freedomcenter.org/voice/accessibilitytools-copy/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
-      "last_modified": "Sun, 08 Nov 2026 19:01:17 GMT",
+      "last_modified": "Sun, 08 Nov 2026 19:17:39 GMT",
       "sha256": "5c47e4bcba9f200c151987bf32117a7c0207b39f21bb374c95f4522f95de7e0d",
       "fingerprint_version": 4,
       "chars": 2687
@@ -105,6 +113,14 @@
       "fingerprint_version": 4,
       "chars": 14975
     },
+    "https://www.americansignmuseum.org/visit": {
+      "status": 200,
+      "final_url": "https://www.americansignmuseum.org/visit/",
+      "last_modified": null,
+      "sha256": "8396394fd1e9c778f4db4ace11f2a78b4a7b8212a697ae2f162e64dcfe40f702",
+      "fingerprint_version": 4,
+      "chars": 7020
+    },
     "https://www.bbriverboats.com/faq": {
       "status": 200,
       "final_url": "https://www.bbriverboats.com/faq",
@@ -116,7 +132,7 @@
     "https://www.bcpl.org/locations": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations",
-      "last_modified": "Sun, 08 Nov 2026 19:01:22 GMT",
+      "last_modified": "Sun, 08 Nov 2026 19:17:42 GMT",
       "sha256": "765d8189d4678c1adcda7e8fd791c26f0f9091c1be5c053b837d1792c62a4207",
       "fingerprint_version": 4,
       "chars": 2273
@@ -124,10 +140,18 @@
     "https://www.bcpl.org/sensory-room": {
       "status": 200,
       "final_url": "https://www.bcpl.org/sensory-room",
-      "last_modified": "Sun, 08 Nov 2026 19:01:22 GMT",
+      "last_modified": "Sun, 08 Nov 2026 19:17:42 GMT",
       "sha256": "9ecab0874cfee7ba07c389ff22efbf2ad5b3a85bf0498556db04a6dd9ce9b2b7",
       "fingerprint_version": 4,
       "chars": 2293
+    },
+    "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
+      "last_modified": null,
+      "sha256": "7ba1058762932ddf19ae5becbaabfc7a1ec6154b5556ae335aa8fc02dbd10a10",
+      "fingerprint_version": 4,
+      "chars": 2224
     },
     "https://www.cincinnatiartmuseum.org/access": {
       "status": 200,
@@ -193,6 +217,38 @@
       "fingerprint_version": 4,
       "chars": 2703
     },
+    "https://www.dinsmorefarm.org/plan-your-visit/accessibility/": {
+      "status": 200,
+      "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+      "last_modified": null,
+      "sha256": "993acd51c84b2d40009bb5059df9110cf1302b917c1268c5292bfe8a248da0a2",
+      "fingerprint_version": 4,
+      "chars": 2397
+    },
+    "https://www.fccincinnati.com/matchday/accessibility": {
+      "status": 200,
+      "final_url": "https://www.fccincinnati.com/matchday/accessibility",
+      "last_modified": null,
+      "sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+      "fingerprint_version": 4,
+      "chars": 4356
+    },
+    "https://www.go-metro.com/access": {
+      "status": 200,
+      "final_url": "https://www.go-metro.com/access-paratransit/",
+      "last_modified": null,
+      "sha256": "5d69cc7936406620b266df6466138d30158cb3420e57367bd214f8d9ce8cee0a",
+      "fingerprint_version": 4,
+      "chars": 9297
+    },
+    "https://www.go-metro.com/accessibility": {
+      "status": 200,
+      "final_url": "https://www.go-metro.com/accessibility/",
+      "last_modified": null,
+      "sha256": "8c0bd52fb410ca704eb09811c63b64f26b3d08bbae90ad88f9878e3c9bda5112",
+      "fingerprint_version": 4,
+      "chars": 1979
+    },
     "https://www.greatparks.org/about/accessibility": {
       "status": 200,
       "final_url": "https://www.greatparks.org/about/accessibility",
@@ -216,6 +272,30 @@
       "sha256": "1a9800e0cb50be2c28274e1d4567a698f45a7849fe2e209bce1098ac90af2fdb",
       "fingerprint_version": 4,
       "chars": 6319
+    },
+    "https://www.kentonlibrary.org/homebound/": {
+      "status": 200,
+      "final_url": "https://www.kentonlibrary.org/homebound/",
+      "last_modified": null,
+      "sha256": "3fef4aac12974f7250e416f2f403210125326a18a012f0faab17026bfabe7784",
+      "fingerprint_version": 4,
+      "chars": 4761
+    },
+    "https://www.kentonlibrary.org/locations/4": {
+      "status": 200,
+      "final_url": "https://www.kentonlibrary.org/locations/4/",
+      "last_modified": null,
+      "sha256": "bc3a78b92ba4ab6325674519742c78093fa9f79884f2dca442ad6641b8d989d5",
+      "fingerprint_version": 4,
+      "chars": 3613
+    },
+    "https://www.mlb.com/reds/ballpark/disability-access-guide": {
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+      "last_modified": null,
+      "sha256": "b9087ef8ff7cb2875621a0efed3eda25026b0e7bf9ece7019577498e651fc6c8",
+      "fingerprint_version": 4,
+      "chars": 19980
     },
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": {
       "status": 403,
@@ -252,6 +332,30 @@
       "sha256": "4cc80ba0c0a6f458e690306c39dcb7374b8b7726fb2908df0c193dad906a75be",
       "fingerprint_version": 4,
       "chars": 8540
+    },
+    "https://www.tankbus.org/ada/": {
+      "status": 200,
+      "final_url": "https://www.tankbus.org/ada/",
+      "last_modified": "Sun, 08 Nov 2026 18:01:30 GMT",
+      "sha256": "939fbb940274d2a375235e757fde620f0487dcb206cdd3042a4682afd1d4d6de",
+      "fingerprint_version": 4,
+      "chars": 3581
+    },
+    "https://www.tankbus.org/ramp-paratransit/eligibility/": {
+      "status": 200,
+      "final_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
+      "last_modified": "Sun, 08 Nov 2026 17:07:50 GMT",
+      "sha256": "855b1255da26a4313ae36882d2df1652ac8c7653890023f6b6002c8709385e46",
+      "fingerprint_version": 4,
+      "chars": 1330
+    },
+    "https://www.venthaven.org/frequently-asked-questions": {
+      "status": 200,
+      "final_url": "https://www.venthaven.org/frequently-asked-questions",
+      "last_modified": null,
+      "sha256": "4a6e32fd2eeb451077afbc270126f0e37a772ca1915be15ef484f2a7ae00391a",
+      "fingerprint_version": 4,
+      "chars": 4426
     }
   },
   "findings": {
