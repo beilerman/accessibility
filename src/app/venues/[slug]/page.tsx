@@ -16,6 +16,10 @@ import { VenuePhoto } from "@/components/catalog/VenuePhoto";
 import { CategoryArt } from "@/components/catalog/CategoryArt";
 import { reportsForPlace } from "@/lib/visitor-reports";
 import { VisitorReport } from "@/components/catalog/VisitorReport";
+// Re-render daily so overdue-recheck cautions (computed from today's date)
+// appear without waiting for a new deploy.
+export const revalidate = 86400;
+
 export function generateStaticParams() {
   return places.map((p) => ({ slug: p.slug }));
 }
