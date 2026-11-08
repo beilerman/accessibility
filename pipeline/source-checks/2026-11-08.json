@@ -1,10 +1,18 @@
 {
   "checked_at": "2026-11-08",
   "sources": {
+    "https://arkencounter.com/accessibility/": {
+      "status": 200,
+      "final_url": "https://arkencounter.com/accessibility/",
+      "last_modified": null,
+      "sha256": "6763375bb96c4467c81d197e2a0e82b6ad68d432fe768629fe42bc452cac8e7e",
+      "fingerprint_version": 5,
+      "chars": 10825
+    },
     "https://bcplundiscovered.org/accessibilityoptions/": {
       "status": 200,
       "final_url": "https://bcplundiscovered.org/accessibilityoptions/",
-      "last_modified": "Sun, 08 Nov 2026 19:47:18 GMT",
+      "last_modified": null,
       "sha256": "f84e4a2f32c90e6de2c6c1b6b5eb58ebd494b8286cd751eb4646db9b508422eb",
       "fingerprint_version": 5,
       "chars": 6215
@@ -13,9 +21,9 @@
       "status": 200,
       "final_url": "https://chpl.org/locations/1/",
       "last_modified": null,
-      "sha256": "9dc47e26e09fdd3138868d81ba0786f33a6544f41d18b5e3bb1cb23a6e14d002",
+      "sha256": "3ac5d99af087adda3cf2726dfe4c3ad9e47c5c58506a813509e11b80b2240528",
       "fingerprint_version": 5,
-      "chars": 4923
+      "chars": 4921
     },
     "https://chpl.org/locations/ha/": {
       "status": 200,
@@ -73,18 +81,42 @@
       "fingerprint_version": 5,
       "chars": 6935
     },
+    "https://falcontheater.net/contact-us/": {
+      "status": 200,
+      "final_url": "https://falcontheater.net/contact-us/",
+      "last_modified": null,
+      "sha256": "a2c0be802eaec484d66c637ee775f08b0d6cdaade7b7c7a001496e5bb67894e2",
+      "fingerprint_version": 5,
+      "chars": 503
+    },
+    "https://falcontheater.net/visit/": {
+      "status": 200,
+      "final_url": "https://falcontheater.net/visit/",
+      "last_modified": null,
+      "sha256": "56f4cafdc5a9cb9efefbca974a33d78fd674bef1b3b3c7a00fb1c71b4a36119d",
+      "fingerprint_version": 5,
+      "chars": 580
+    },
     "https://florence-ky.gov/residents/florence-family-aquatic-center/": {
       "status": 200,
       "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
-      "last_modified": "Sun, 08 Nov 2026 19:17:39 GMT",
+      "last_modified": null,
       "sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b",
       "fingerprint_version": 5,
       "chars": 8789
     },
+    "https://florenceyalls.com/pages/yalls-a-z": {
+      "status": 200,
+      "final_url": "https://florenceyalls.com/pages/yalls-a-z",
+      "last_modified": null,
+      "sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+      "fingerprint_version": 5,
+      "chars": 5584
+    },
     "https://freedomcenter.org/visit/accessibility/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/visit/accessibility/",
-      "last_modified": "Sun, 08 Nov 2026 19:58:21 GMT",
+      "last_modified": "Sun, 08 Nov 2026 23:38:18 GMT",
       "sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
       "fingerprint_version": 5,
       "chars": 2149
@@ -92,18 +124,38 @@
     "https://freedomcenter.org/voice/accessibilitytools-copy/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
-      "last_modified": "Sun, 08 Nov 2026 19:58:22 GMT",
+      "last_modified": "Sun, 08 Nov 2026 23:38:18 GMT",
       "sha256": "8e7d6afcce392f058d029d9d88212eeb23b5d68d4233d71bf8b4e24ee348a008",
       "fingerprint_version": 5,
       "chars": 2687
     },
+    "https://gobananascomedy.com/main/": {
+      "status": 200,
+      "final_url": "https://gobananascomedy.com/main/",
+      "last_modified": null,
+      "sha256": "c27aae41a8495277d757d069ec7b70ef196fd9c6c0bf71073aab348e1a9ae1b7",
+      "fingerprint_version": 5,
+      "chars": 7725
+    },
+    "https://gobananascomedy.com/main/directions/": {
+      "status": 200,
+      "final_url": "https://gobananascomedy.com/main/directions/",
+      "last_modified": null,
+      "sha256": "a602e62bb24b2cb70c4eda7119962202eb4d36382319ea55392d373ccd1d7606",
+      "fingerprint_version": 5,
+      "chars": 153
+    },
     "https://heritagebankcenter.com/venue-info": {
       "status": 200,
       "final_url": "https://heritagebankcenter.com/venue-info",
-      "last_modified": "Sun, 08 Nov 2026 19:57:55 GMT",
+      "last_modified": "Sun, 08 Nov 2026 23:38:20 GMT",
       "sha256": "26e7070359e84699f7193b0a75170d552333480e8e6bf587246a042fc65b7a70",
       "fingerprint_version": 5,
       "chars": 20046
+    },
+    "https://mollymalonesirishpub.com/covington/private-party-menu/": {
+      "status": 403,
+      "error": "Forbidden"
     },
     "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807": {
       "status": 200,
@@ -112,6 +164,14 @@
       "sha256": "7686898be5b7023ec3a0b0574b66846313120dc5596b08614720aae4520a5b3c",
       "fingerprint_version": 5,
       "chars": 20
+    },
+    "https://parties.smokejustis.com/": {
+      "status": 200,
+      "final_url": "https://parties.smokejustis.com/",
+      "last_modified": null,
+      "sha256": "d806a16a96fde7be3725d7ec28f684bce641d40dd6790bde3aa3dc8a4b2fb74b",
+      "fingerprint_version": 5,
+      "chars": 2895
     },
     "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility": {
       "status": 200,
@@ -212,7 +272,7 @@
     "https://www.bcpl.org/locations": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations",
-      "last_modified": "Sun, 08 Nov 2026 19:47:27 GMT",
+      "last_modified": "Sun, 08 Nov 2026 23:38:26 GMT",
       "sha256": "765d8189d4678c1adcda7e8fd791c26f0f9091c1be5c053b837d1792c62a4207",
       "fingerprint_version": 5,
       "chars": 2273
@@ -220,7 +280,7 @@
     "https://www.bcpl.org/sensory-room": {
       "status": 200,
       "final_url": "https://www.bcpl.org/sensory-room",
-      "last_modified": "Sun, 08 Nov 2026 19:47:28 GMT",
+      "last_modified": "Sun, 08 Nov 2026 23:38:27 GMT",
       "sha256": "9ecab0874cfee7ba07c389ff22efbf2ad5b3a85bf0498556db04a6dd9ce9b2b7",
       "fingerprint_version": 5,
       "chars": 2293
@@ -256,6 +316,30 @@
       "sha256": "7afc921ff5b420257497020453b0e9ccfb38e0805e0237d724519d9f9ac44389",
       "fingerprint_version": 5,
       "chars": 1581
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "last_modified": null,
+      "sha256": "c5e8759429e8bfa4df49fbab8014e08e9c31527bb01c0b3dd41cef381b8efb5b",
+      "fingerprint_version": 5,
+      "chars": 25916
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "last_modified": null,
+      "sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+      "fingerprint_version": 5,
+      "chars": 4896
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+      "last_modified": null,
+      "sha256": "2105ae02efcc640c149b217f3511e9f5e5eca3a1e36b45163e2a37a06afbb1eb",
+      "fingerprint_version": 5,
+      "chars": 26610
     },
     "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/": {
       "status": 200,
@@ -329,6 +413,14 @@
       "fingerprint_version": 5,
       "chars": 3890
     },
+    "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook": {
+      "status": 200,
+      "final_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+      "last_modified": null,
+      "sha256": "641d3b65609a5e9a17860b962fe02f7065863e10bcd9f9d9bb17fcccd95dd0fa",
+      "fingerprint_version": 5,
+      "chars": 856
+    },
     "https://www.cvgairport.com/accessibility/": {
       "status": 200,
       "final_url": "https://www.cvgairport.com/accessibility/",
@@ -353,6 +445,14 @@
       "fingerprint_version": 5,
       "chars": 2397
     },
+    "https://www.exploredevoupark.org/trails": {
+      "status": 200,
+      "final_url": "https://www.exploredevoupark.org/trails",
+      "last_modified": null,
+      "sha256": "00dbba78806b8581c7b1cfcc18111fe8f30183a4a98919fa264a6e9ef1fde835",
+      "fingerprint_version": 5,
+      "chars": 2566
+    },
     "https://www.fccincinnati.com/matchday/accessibility": {
       "status": 200,
       "final_url": "https://www.fccincinnati.com/matchday/accessibility",
@@ -376,6 +476,14 @@
       "sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
       "fingerprint_version": 5,
       "chars": 44737
+    },
+    "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation": {
+      "status": 200,
+      "final_url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation",
+      "last_modified": null,
+      "sha256": "bd1f16ed3f5e4bb1d58ddb522f12049b89a1dde8d9eb6c512d50e940df878cff",
+      "fingerprint_version": 5,
+      "chars": 6537
     },
     "https://www.go-metro.com/access": {
       "status": 200,
@@ -417,6 +525,10 @@
       "fingerprint_version": 5,
       "chars": 6319
     },
+    "https://www.imax.com/theatre/amc-newport-levee-20-imax": {
+      "status": 403,
+      "error": "Forbidden"
+    },
     "https://www.kentonlibrary.org/homebound/": {
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/homebound/",
@@ -429,9 +541,33 @@
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/4/",
       "last_modified": null,
-      "sha256": "01dec8cc17c39a4d2ab145e0c1036ac57640972512b80fc73b46464a2a818a38",
+      "sha256": "e2322c5ee089a4847dd4f1a992022c38be05a90442806d8d17c3a237f1f96b4a",
       "fingerprint_version": 5,
-      "chars": 3613
+      "chars": 3604
+    },
+    "https://www.kentonlibrary.org/locations/5/": {
+      "status": 200,
+      "final_url": "https://www.kentonlibrary.org/locations/5/",
+      "last_modified": null,
+      "sha256": "06ca7a1dcc112c7314d9fbc9eb0161353667474f7092234969e4a29b31c7e3dd",
+      "fingerprint_version": 5,
+      "chars": 4213
+    },
+    "https://www.kentonlibrary.org/locations/8/": {
+      "status": 200,
+      "final_url": "https://www.kentonlibrary.org/locations/8/",
+      "last_modified": null,
+      "sha256": "5a0358dee436f490e88e058d3d887dfedf588e4c90f4585b2e8bf329d054e8a5",
+      "fingerprint_version": 5,
+      "chars": 4368
+    },
+    "https://www.ludlowgaragecincinnati.com/faqs/": {
+      "status": 200,
+      "final_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+      "last_modified": null,
+      "sha256": "cad07eba8f84fa02a5845fd49a31d1f09adc42d323eff6f1697326e593167607",
+      "fingerprint_version": 5,
+      "chars": 5397
     },
     "https://www.mlb.com/reds/ballpark/disability-access-guide": {
       "status": 200,
@@ -441,9 +577,33 @@
       "fingerprint_version": 5,
       "chars": 19980
     },
+    "https://www.mlb.com/reds/hall-of-fame/visit/accessibility": {
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+      "last_modified": null,
+      "sha256": "d6d2d33dbb759e72551aae317033e568c41be9153cc61d25fe79805a3b710544",
+      "fingerprint_version": 5,
+      "chars": 662
+    },
+    "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking": {
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
+      "last_modified": null,
+      "sha256": "fbf2f4818ddef6afbd037db9e3aaac091c94f327949e369c5f8ac27df7bd215e",
+      "fingerprint_version": 5,
+      "chars": 2477
+    },
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": {
       "status": 403,
       "error": "Forbidden"
+    },
+    "https://www.newportonthelevee.com/entertainment/amc-theatres/": {
+      "status": 200,
+      "final_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
+      "last_modified": "Sun, 08 Nov 2026 23:39:10 GMT",
+      "sha256": "b42398d62f1fa97d911c76acf0e09630bc9bf8227876363b4387f5c245792e39",
+      "fingerprint_version": 5,
+      "chars": 468
     },
     "https://www.nkycc.com/about/": {
       "status": 200,
@@ -468,6 +628,30 @@
       "sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
       "fingerprint_version": 5,
       "chars": 3542
+    },
+    "https://www.sixflags.com/kingsisland/accessibility": {
+      "status": 200,
+      "final_url": "https://www.sixflags.com/kingsisland/accessibility",
+      "last_modified": null,
+      "sha256": "5c63c3239c7d211ad075f6f068cb241a8a48c836ed7c05e0a9d3fc738f4023be",
+      "fingerprint_version": 5,
+      "chars": 1101
+    },
+    "https://www.sixflags.com/kingsisland/rentals": {
+      "status": 200,
+      "final_url": "https://www.sixflags.com/kingsisland/rentals",
+      "last_modified": null,
+      "sha256": "63d1815fff169b25a5dd22070db34c616106857612f5f92e8957c7b7515fc9ad",
+      "fingerprint_version": 5,
+      "chars": 1556
+    },
+    "https://www.southgatehouse.com/about/": {
+      "status": 200,
+      "final_url": "https://www.southgatehouse.com/about/",
+      "last_modified": "Sun, 08 Nov 2026 23:39:12 GMT",
+      "sha256": "7e0560f58fe573df54d06b243a485e1fd2671e4b52e08cd3d5a209d364cc8a80",
+      "fingerprint_version": 5,
+      "chars": 1953
     },
     "https://www.taftmuseum.org/visitor-information/": {
       "status": 200,
@@ -503,6 +687,10 @@
     }
   },
   "findings": {
+    "https://chpl.org/locations/1/": "changed",
+    "https://mollymalonesirishpub.com/covington/private-party-menu/": "blocked",
+    "https://www.imax.com/theatre/amc-newport-levee-20-imax": "blocked",
+    "https://www.kentonlibrary.org/locations/4": "changed",
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked"
   }
 }
