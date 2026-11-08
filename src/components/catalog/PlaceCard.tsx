@@ -1,20 +1,24 @@
 import Link from "next/link";
 import { ArrowUpRight, MapPin } from "lucide-react";
 import { DOMAIN_LABELS, dateLabel, type PublicPlace } from "@/lib/catalog";
-import { photoForPlace, artForCategory } from "@/lib/media";
+import { photoForPlace, aiImageForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "./VenuePhoto";
+import { AiVenueImage } from "./AiVenueImage";
 import { CategoryArt } from "./CategoryArt";
 import { reportsForPlace } from "@/lib/visitor-reports";
 
 export function PlaceCard({ place }: { place: PublicPlace }) {
   const reportCount = reportsForPlace(place.slug).length;
   const photo = photoForPlace(place.slug);
+  const aiImage = aiImageForPlace(place.slug);
   const artwork = artForCategory(place.category);
   return (
     <article className="place-card" aria-labelledby={`place-${place.slug}`}>
       <div className="card-visual">
         {photo ? (
           <VenuePhoto photo={photo} compact />
+        ) : aiImage ? (
+          <AiVenueImage image={aiImage} compact />
         ) : artwork ? (
           <CategoryArt item={artwork} compact />
         ) : null}

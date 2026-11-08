@@ -3,6 +3,7 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import {
   venuePhotos,
+  aiVenueImages,
   illustrations,
   categoryArt,
   artForCategory,
@@ -67,6 +68,26 @@ describe("Public image provenance", () => {
       expect(item.confirm.length).toBeGreaterThan(0);
       expect(new URL(item.guidanceUrl).protocol).toBe("https:");
       expect(venuePhotos.some((photo) => photo.src === item.src)).toBe(false);
+    }
+  });
+  it("labels AI images of real places and never pairs them with a real photo", () => {
+    expect(new Set(aiVenueImages.map((i) => i.slug)).size).toBe(
+      aiVenueImages.length,
+    );
+    for (const image of aiVenueImages) {
+      expect(places.some((p) => p.slug === image.slug)).toBe(true);
+      expect(venuePhotos.some((p) => p.slug === image.slug)).toBe(false);
+      expect(image.src.startsWith("/images/ai-venues/")).toBe(true);
+      expect(existsSync(path.join(process.cwd(), "public", image.src))).toBe(
+        true,
+      );
+      expect(image.alt).toMatch(/^AI-generated /);
+      expect(image.caption).toMatch(/^AI-generated image, not a photograph\./);
+      expect(new URL(image.referencePage).protocol).toBe("https:");
+      expect(image.referenceDate).toBeTruthy();
+      expect(image.knownDifferences).toBeTruthy();
+      // Cropped above ground level, which never leaves a portrait frame.
+      expect(image.width).toBeGreaterThanOrEqual(image.height);
     }
   });
 });

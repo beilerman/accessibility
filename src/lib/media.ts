@@ -5,6 +5,7 @@ import researchPhotos from "@/data/photos-research.json";
 import extraPhotos from "@/data/photos-extra.json";
 import commonsPhotos from "@/data/photos-commons.json";
 import categoryImages from "@/data/category-art.json";
+import aiVenueImageData from "@/data/ai-venue-images.json";
 
 export interface VenuePhoto {
   slug: string;
@@ -35,6 +36,25 @@ export interface AccessIllustration {
   guidanceUrl: string;
 }
 
+/**
+ * AI-generated image of a real place, used only where no freely licensed
+ * photo exists. Generated from a text description of a reference photo
+ * (never from the photo itself), compared with that photo, and cropped above
+ * ground level so it shows no entrances, steps, paths or thresholds.
+ */
+export interface AiVenueImage {
+  slug: string;
+  src: string;
+  width: number;
+  height: number;
+  alt: string;
+  caption: string;
+  referencePage: string;
+  referenceDate: string;
+  knownDifferences: string;
+  checkedAt: string;
+}
+
 export interface CategoryArt {
   category: string;
   title: string;
@@ -54,8 +74,12 @@ export const venuePhotos: VenuePhoto[] = [
 ];
 export const illustrations: AccessIllustration[] = generated;
 export const categoryArt: CategoryArt[] = categoryImages;
+export const aiVenueImages: AiVenueImage[] = aiVenueImageData;
 export function photoForPlace(slug: string) {
   return venuePhotos.find((photo) => photo.slug === slug);
+}
+export function aiImageForPlace(slug: string) {
+  return aiVenueImages.find((image) => image.slug === slug);
 }
 export function artForCategory(category: string) {
   return categoryArt.find((image) => image.category === category);

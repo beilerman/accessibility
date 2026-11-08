@@ -160,6 +160,10 @@ test("every listing has a labeled visual and illustrated category links filter c
       figure.getByText("Imagined scene, not a photograph of this venue."),
     ).toBeVisible();
   }
+  for (const figure of await cards.locator("figure.ai-venue-image").all())
+    await expect(
+      figure.getByText("AI-generated image · not a photograph"),
+    ).toBeVisible();
   await page.goto("/");
   await page
     .getByRole("link", { name: "Explore Libraries", exact: true })
@@ -175,15 +179,14 @@ test("every listing has a labeled visual and illustrated category links filter c
   await expect(page).toHaveURL(
     /\/venues\/boone-county-public-library-walton-branch$/,
   );
+  const aiImage = page.locator("figure.ai-venue-image");
   await expect(
-    page
-      .locator("figure.category-art")
-      .getByText("AI artwork · Libraries", { exact: true }),
+    aiImage.getByText("AI-generated image · not a photograph"),
   ).toBeVisible();
-  await expect(page.locator("figure.category-art img")).toHaveAttribute(
-    "alt",
-    /^AI/,
-  );
+  await expect(
+    aiImage.getByText(/Do not use this image to judge physical access/),
+  ).toBeVisible();
+  await expect(aiImage.locator("img")).toHaveAttribute("alt", /^AI-generated/);
 });
 test("disabled community routes never collect information or contact Supabase", async ({
   page,

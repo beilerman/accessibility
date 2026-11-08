@@ -11,8 +11,9 @@ import {
   latestRetrieval,
   recheckDueDate,
 } from "@/lib/catalog";
-import { photoForPlace, artForCategory } from "@/lib/media";
+import { photoForPlace, aiImageForPlace, artForCategory } from "@/lib/media";
 import { VenuePhoto } from "@/components/catalog/VenuePhoto";
+import { AiVenueImage } from "@/components/catalog/AiVenueImage";
 import { CategoryArt } from "@/components/catalog/CategoryArt";
 import { reportsForPlace } from "@/lib/visitor-reports";
 import { VisitorReport } from "@/components/catalog/VisitorReport";
@@ -47,6 +48,7 @@ export default async function PlacePage({
   if (!p) notFound();
   const reports = reportsForPlace(p.slug);
   const photo = photoForPlace(p.slug);
+  const aiImage = aiImageForPlace(p.slug);
   const artwork = artForCategory(p.category);
   return (
     <div className="page-shell py-10">
@@ -70,6 +72,8 @@ export default async function PlacePage({
       </div>
       {photo ? (
         <VenuePhoto photo={photo} />
+      ) : aiImage ? (
+        <AiVenueImage image={aiImage} />
       ) : artwork ? (
         <CategoryArt item={artwork} />
       ) : null}
