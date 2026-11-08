@@ -41,7 +41,7 @@ describe("Public-source evidence contract", () => {
     for (const f of allFacts) {
       expect(f.id).toMatch(new RegExp(`^${f.place.slug}\\.${f.domain}\\.\\d+$`));
       expect(Object.keys(SOURCE_TYPE_LABELS)).toContain(f.source_type);
-      expect(["source_checked", "needs_recheck", "source_unavailable"]).toContain(
+      expect(["source_checked", "needs_recheck", "source_unavailable", "retired"]).toContain(
         f.review_status,
       );
       expect(f.retrieved_at).toMatch(iso);
@@ -55,7 +55,7 @@ describe("Public-source evidence contract", () => {
       for (const h of f.history) expect(h.note.length).toBeGreaterThan(10);
       // The retrieval date is the most recent time an editor read the source.
       const lastRead = f.history
-        .filter((h) => h.action !== "flagged")
+        .filter((h) => h.action !== "flagged" && h.action !== "retired")
         .map((h) => h.date)
         .at(-1);
       expect(f.retrieved_at).toBe(lastRead);
@@ -65,6 +65,15 @@ describe("Public-source evidence contract", () => {
         expect(f.source_type).not.toBe("venue_official");
     }
     for (const p of places) expect(p.checked_at <= latestRetrieval(p)).toBe(true);
+  });
+  it("hides retired facts from the site but keeps their record", () => {
+    const retired = allFacts.filter((f) => f.review_status === "retired");
+    for (const f of retired) {
+      expect(f.history.at(-1)!.action).toBe("retired");
+      const shown = places.find((p) => p.slug === f.place.slug)!;
+      expect(shown.facts.some((x) => x.id === f.id)).toBe(false);
+    }
+    expect(places.every((p) => p.facts.length > 0)).toBe(true);
   });
   it("cautions on facts that are flagged or overdue for a recheck", () => {
     expect(recheckDueDate({ retrieved_at: "2026-09-10" })).toBe("2027-03-09");

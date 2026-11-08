@@ -92,7 +92,7 @@
     "address": "101 Riverboat Row, Newport, KY 41071",
     "website": "https://www.bbriverboats.com/",
     "source_url": "https://www.bbriverboats.com/faq",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -101,7 +101,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -110,6 +110,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -119,7 +124,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -128,6 +133,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -137,7 +147,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -146,6 +156,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -161,16 +176,16 @@
     "category": "Parks & outdoors",
     "website": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
     "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
         "domain": "mobility",
-        "text": "The Discovery Trail includes a half-mile paved loop beginning behind the visitor center; other trails vary in terrain and difficulty.",
+        "text": "The Big Bone Creek Trail, part of the park's Discovery Trail, has a mostly flat, half-mile paved loop with views of two salt springs, starting behind the visitor center. The state page warns of a steep hill down at the start of the trail from the museum parking lot; beyond the loop the trail becomes dirt.",
         "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
         "id": "big-bone-lick-state-historic-site.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -179,6 +194,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "revised",
+            "note": "Rechecked against the state trail listing; added its steep-hill warning from the museum parking lot and the switch to a dirt trail."
           }
         ]
       },
@@ -188,7 +208,7 @@
         "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
         "id": "big-bone-lick-state-historic-site.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -197,6 +217,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -206,7 +231,7 @@
         "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
         "id": "big-bone-lick-state-historic-site.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -215,6 +240,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -231,7 +261,7 @@
     "address": "7425 U.S. 42, Florence, KY 41042",
     "website": "https://www.bcpl.org/locations/florence",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -240,7 +270,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-florence-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -249,6 +279,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -258,7 +293,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-florence-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -267,6 +302,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The library says accessible parking is available at every location. This branch offers curbside pick-up.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-florence-branch.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -283,7 +341,7 @@
     "address": "1863 North Bend Road, Hebron, KY 41048",
     "website": "https://www.bcpl.org/locations/hebron",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -292,7 +350,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-hebron-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -301,6 +359,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -310,7 +373,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-hebron-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -319,6 +382,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The library says accessible parking is available at every location. This branch offers drive-thru service.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-hebron-branch.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -335,7 +421,7 @@
     "address": "1786 Burlington Pike, Burlington, KY 41005",
     "website": "https://www.bcpl.org/locations/main",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -344,7 +430,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-main-library.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -353,6 +439,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -362,7 +453,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-main-library.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -371,6 +462,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -380,7 +476,7 @@
         "source_url": "https://www.bcpl.org/sensory-room",
         "id": "boone-county-public-library-main-library.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -389,6 +485,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -398,7 +499,7 @@
         "source_url": "https://www.bcpl.org/sensory-room",
         "id": "boone-county-public-library-main-library.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -407,6 +508,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The library says accessible parking is available at every location. This branch offers curbside pick-up.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-main-library.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -423,7 +547,7 @@
     "address": "8899 U.S. 42, Union, KY 41091",
     "website": "https://www.bcpl.org/locations/scheben",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -432,7 +556,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-scheben-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -441,6 +565,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -450,7 +579,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-scheben-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -459,6 +588,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -468,7 +602,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-scheben-branch.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -477,6 +611,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The library says accessible parking is available at every location. This branch offers curbside pick-up.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-scheben-branch.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -493,7 +650,7 @@
     "address": "13000 Towne Center Drive, Walton, KY 41094",
     "website": "https://www.bcpl.org/locations/walton",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -502,7 +659,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -511,6 +668,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -520,7 +682,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-walton-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -529,6 +691,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -538,7 +705,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.sensory.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -547,6 +714,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -556,7 +728,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -565,6 +737,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -574,7 +751,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.sensory.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -583,6 +760,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The library says accessible parking is available at every location. This branch offers drive-thru service.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-walton-branch.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -707,7 +907,7 @@
     "address": "1301 Western Avenue, Cincinnati, OH 45203",
     "website": "https://www.cincymuseum.org/",
     "source_url": "https://www.cincymuseum.org/visit/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -715,7 +915,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -724,6 +924,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -733,7 +938,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -742,6 +947,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -751,7 +961,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -760,6 +970,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -769,7 +984,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -778,6 +993,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -794,7 +1014,7 @@
     "category": "Arts & performances",
     "website": "https://www.cincinnatiarts.org/music-hall",
     "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -802,7 +1022,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -811,6 +1031,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -820,7 +1045,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -829,6 +1054,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -838,7 +1068,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -847,6 +1077,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -856,7 +1091,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -865,6 +1100,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -881,7 +1121,7 @@
     "category": "Parks & outdoors",
     "website": "https://www.cincynature.org/",
     "source_url": "https://www.cincynature.org/visit",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -889,7 +1129,7 @@
         "source_url": "https://www.cincynature.org/visit",
         "id": "cincinnati-nature-center-rowe-woods.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -898,6 +1138,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -907,7 +1152,7 @@
         "source_url": "https://www.cincynature.org/visit",
         "id": "cincinnati-nature-center-rowe-woods.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -916,6 +1161,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -925,7 +1175,7 @@
         "source_url": "https://www.cincynature.org/visit",
         "id": "cincinnati-nature-center-rowe-woods.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -934,6 +1184,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -951,7 +1206,7 @@
     "address": "962 Mt. Adams Circle, Cincinnati, OH 45202",
     "website": "https://cincyplay.com/",
     "source_url": "https://cincyplay.com/visit/accessibility",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -959,7 +1214,7 @@
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -968,6 +1223,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -977,7 +1237,7 @@
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -986,6 +1246,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -995,7 +1260,7 @@
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1004,6 +1269,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1013,7 +1283,7 @@
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1022,6 +1292,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -1039,7 +1314,7 @@
     "address": "3400 Vine Street, Cincinnati, OH 45220",
     "website": "https://cincinnatizoo.org/",
     "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "sensory",
@@ -1047,7 +1322,7 @@
         "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
         "id": "cincinnati-zoo-botanical-garden.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1056,6 +1331,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1065,7 +1345,7 @@
         "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
         "id": "cincinnati-zoo-botanical-garden.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1074,6 +1354,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1083,7 +1368,7 @@
         "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
         "id": "cincinnati-zoo-botanical-garden.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1092,6 +1377,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1101,7 +1391,7 @@
         "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
         "id": "cincinnati-zoo-botanical-garden.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1110,6 +1400,47 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Zoo is built on a hill and has many inclines. It reports many benches and rest areas, and staff can point out less steep paths.",
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+        "id": "cincinnati-zoo-botanical-garden.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Safari Train plays artificial chugging and whistle sounds and rings a bell at every crossing; the Zoo warns that guests sensitive to loud noises may be uncomfortable.",
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+        "id": "cincinnati-zoo-botanical-garden.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -1257,7 +1588,7 @@
     "address": "44 East 6th Street, Cincinnati, OH 45202",
     "website": "https://www.contemporaryartscenter.org/",
     "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -1265,7 +1596,7 @@
         "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
         "id": "contemporary-arts-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1274,6 +1605,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1283,7 +1619,7 @@
         "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
         "id": "contemporary-arts-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1292,16 +1628,21 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Sensory bags include a narrative and map. Free tours for visitors with memory loss and their caregivers can be arranged with two weeks' notice.",
+        "text": "Sensory bags include fidgets, hearing protection, a sensory narrative and a sensory map. Free tours for visitors with memory loss and their caregivers are offered; contact the center to schedule.",
         "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
         "id": "contemporary-arts-center.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1310,6 +1651,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "revised",
+            "note": "Rechecked: the two-week notice applies to other accommodations, not explicitly to memory-loss tours; listed the sensory bag contents."
           }
         ]
       },
@@ -1319,7 +1665,7 @@
         "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
         "id": "contemporary-arts-center.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1328,6 +1674,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is at the 21C valet on Walnut Street, around the corner from the 6th Street entrance. Tell the valet and the 21C front desk it is for CAC accessible parking to receive the $10 rate.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+        "id": "contemporary-arts-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -1476,7 +1845,7 @@
     "address": "800 Vine Street, Cincinnati, OH 45202",
     "website": "https://chpl.org/locations/1/",
     "source_url": "https://chpl.org/locations/1/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -1484,7 +1853,7 @@
         "source_url": "https://chpl.org/locations/1/",
         "id": "downtown-main-library.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1493,6 +1862,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1502,7 +1876,7 @@
         "source_url": "https://chpl.org/locations/1/",
         "id": "downtown-main-library.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1511,6 +1885,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1520,7 +1899,7 @@
         "source_url": "https://chpl.org/locations/1/",
         "id": "downtown-main-library.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1529,6 +1908,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -1545,7 +1929,7 @@
     "category": "Parks & outdoors",
     "website": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
     "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -1554,7 +1938,7 @@
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1563,6 +1947,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1572,7 +1961,7 @@
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1581,6 +1970,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -1597,7 +1991,7 @@
     "address": "11982 Conrey Road, Cincinnati, OH 45249",
     "website": "https://www.greatparks.org/parks/francis-recreacres",
     "source_url": "https://www.greatparks.org/about/accessibility",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -1605,7 +1999,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "francis-recreacres.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1614,6 +2008,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1623,7 +2022,7 @@
         "source_url": "https://www.greatparks.org/parks/francis-recreacres",
         "id": "francis-recreacres.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1632,6 +2031,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks asks for two weeks' advance notice to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "francis-recreacres.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -1649,7 +2071,7 @@
     "address": "10398 New Haven Road, Harrison, OH 45030",
     "website": "https://chpl.org/locations/ha/",
     "source_url": "https://chpl.org/locations/ha/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -1657,7 +2079,7 @@
         "source_url": "https://chpl.org/locations/ha/",
         "id": "harrison-branch-library.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1666,6 +2088,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1675,7 +2102,7 @@
         "source_url": "https://chpl.org/locations/ha/",
         "id": "harrison-branch-library.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1684,6 +2111,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -1700,7 +2132,7 @@
     "category": "Arts & performances",
     "website": "https://promowestlive.com/cincinnati/megacorp-pavilion",
     "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -1709,7 +2141,7 @@
         "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
         "id": "megacorp-pavilion.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1718,6 +2150,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1727,7 +2164,7 @@
         "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
         "id": "megacorp-pavilion.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1736,6 +2173,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1745,7 +2187,7 @@
         "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
         "id": "megacorp-pavilion.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1754,6 +2196,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -1770,7 +2217,7 @@
     "address": "9001 Mt. Hope Road, Harrison, OH 45030",
     "website": "https://www.greatparks.org/parks/miami-whitewater-forest",
     "source_url": "https://www.greatparks.org/about/accessibility",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -1778,7 +2225,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "miami-whitewater-forest.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1787,6 +2234,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -1796,7 +2248,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "miami-whitewater-forest.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1805,6 +2257,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks asks for two weeks' advance notice to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "miami-whitewater-forest.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -2034,7 +2509,7 @@
     "category": "Museums & attractions",
     "website": "https://www.nkycc.com/",
     "source_url": "https://www.nkycc.com/about/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -2043,7 +2518,7 @@
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2052,6 +2527,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2061,7 +2541,7 @@
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2070,6 +2550,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2079,7 +2564,7 @@
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2088,6 +2573,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Powered wheelchairs, scooters and Segways are allowed only for people with disabilities and only if they can be operated safely. Other power-driven mobility devices must be electric or battery powered and kept to pedestrian speed.",
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -2104,7 +2612,7 @@
     "address": "1763 Hamilton Cleves Road, Hamilton, OH 45013",
     "website": "https://www.pyramidhill.org/",
     "source_url": "https://www.pyramidhill.org/visit",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -2112,7 +2620,7 @@
         "source_url": "https://www.pyramidhill.org/visit",
         "id": "pyramid-hill-sculpture-park-museum.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2121,6 +2629,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2130,7 +2643,7 @@
         "source_url": "https://www.pyramidhill.org/visit",
         "id": "pyramid-hill-sculpture-park-museum.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2139,6 +2652,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2148,7 +2666,7 @@
         "source_url": "https://www.pyramidhill.org/visit",
         "id": "pyramid-hill-sculpture-park-museum.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2157,6 +2675,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2166,7 +2689,7 @@
         "source_url": "https://www.pyramidhill.org/visit",
         "id": "pyramid-hill-sculpture-park-museum.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2175,6 +2698,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -2192,7 +2720,7 @@
     "address": "11450 Lebanon Road, Sharonville, OH 45241",
     "website": "https://www.greatparks.org/parks/sharon-woods",
     "source_url": "https://www.greatparks.org/about/accessibility",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -2200,7 +2728,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "sharon-woods.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2209,6 +2737,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2221,12 +2754,53 @@
         "retrieved_at": "2026-09-10",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "retired",
         "history": [
           {
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "retired",
+            "note": "Source no longer contains the statement this note described (Great Parks removed its paved-trail statement); note withdrawn."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks asks for two weeks' advance notice to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "sharon-woods.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks says Sharon Lake is being lowered from October 27 for harbor work and will stay lowered until spring 2027. Boat access is restricted while the water is down, and the harbor snack bar is closed during the project.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods",
+        "id": "sharon-woods.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -2244,7 +2818,7 @@
     "address": "316 Pike Street, Cincinnati, OH 45202",
     "website": "https://www.taftmuseum.org/",
     "source_url": "https://www.taftmuseum.org/visitor-information/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -2252,7 +2826,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2261,6 +2835,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2270,7 +2849,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2279,6 +2858,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2288,7 +2872,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2297,6 +2881,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -2314,7 +2903,7 @@
     "address": "1028 Scott Boulevard, Covington, KY 41011",
     "website": "https://thecarnegie.com/",
     "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -2323,7 +2912,7 @@
         "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
         "id": "the-carnegie.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2332,6 +2921,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2341,7 +2935,7 @@
         "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
         "id": "the-carnegie.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2350,6 +2944,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2359,7 +2958,7 @@
         "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
         "id": "the-carnegie.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2368,6 +2967,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       }
@@ -2383,7 +2987,7 @@
     "category": "Arts & performances",
     "website": "https://thetruistarena.com/",
     "source_url": "https://thetruistarena.com/plan-your-visit/faq",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -2392,7 +2996,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2401,6 +3005,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2410,7 +3019,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2419,6 +3028,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2428,7 +3042,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2437,6 +3051,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2446,7 +3065,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2455,6 +3074,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Outside food is not allowed. Medical bags can be allowed as an exception after inspection.",
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }
@@ -2471,7 +3113,7 @@
     "address": "10245 Winton Road, Cincinnati, OH 45231",
     "website": "https://www.greatparks.org/parks/winton-woods",
     "source_url": "https://www.greatparks.org/about/accessibility",
-    "checked_at": "2026-09-10",
+    "checked_at": "2026-11-08",
     "facts": [
       {
         "domain": "mobility",
@@ -2479,7 +3121,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "winton-woods.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2488,6 +3130,11 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
           }
         ]
       },
@@ -2497,7 +3144,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "winton-woods.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-09-10",
+        "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2506,6 +3153,29 @@
             "date": "2026-09-10",
             "action": "added",
             "note": "Summarized from the public source during initial catalog research."
+          },
+          {
+            "date": "2026-11-08",
+            "action": "rechecked",
+            "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks asks for two weeks' advance notice to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "winton-woods.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
       }

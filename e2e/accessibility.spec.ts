@@ -281,5 +281,10 @@ test("each access note shows its own source type, check date and history", async
   await expect(page.locator(".fact-meta").first()).toBeVisible();
   await expect(page.getByText("Operating organization’s website").first()).toBeVisible();
   expect(await page.locator(".fact-caution").count()).toBe(0);
+  // Retired notes leave the page; their replacements and history remain in data.
+  await page.goto("/venues/sharon-woods");
+  await expect(page.getByText("blanket statement about accessible paved")).toHaveCount(0);
+  await expect(page.locator("#sharon-woods\\.mobility\\.2")).toHaveCount(0);
+  await expect(page.getByText("will stay lowered until spring 2027")).toBeVisible();
 });
 

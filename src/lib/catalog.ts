@@ -20,15 +20,18 @@ export type SourceType = keyof typeof SOURCE_TYPE_LABELS;
  * source_checked: summary matched the source when retrieved.
  * needs_recheck: the source changed or is overdue; shown with a caution.
  * source_unavailable: the source no longer loads; shown with a caution.
+ * retired: the source no longer supports the note. Hidden from the site but
+ *   kept, with its ID, so history is never erased and IDs are never reused.
  */
 export type ReviewStatus =
   | "source_checked"
   | "needs_recheck"
-  | "source_unavailable";
+  | "source_unavailable"
+  | "retired";
 
 export interface FactHistoryEntry {
   date: string;
-  action: "added" | "rechecked" | "revised" | "flagged";
+  action: "added" | "rechecked" | "revised" | "flagged" | "retired";
   note: string;
 }
 
@@ -81,11 +84,17 @@ export interface PublicPlace {
   facts: Fact[];
   limitations: string;
 }
-export const places = rawPlaces as PublicPlace[];
+/** Every place with every fact, including retired ones (for audits and tests). */
+export const catalogRecords = rawPlaces as PublicPlace[];
+/** What the site shows: retired facts removed. */
+export const places: PublicPlace[] = catalogRecords.map((p) => ({
+  ...p,
+  facts: p.facts.filter((f) => f.review_status !== "retired"),
+}));
 export const categories = [...new Set(places.map((p) => p.category))].sort();
 export const cities = [...new Set(places.map((p) => p.city))].sort();
 export const factCount = places.reduce((n, p) => n + p.facts.length, 0);
-export const allFacts = places.flatMap((p) =>
+export const allFacts = catalogRecords.flatMap((p) =>
   p.facts.map((f) => ({ ...f, place: p })),
 );
 
