@@ -45,7 +45,6 @@ The earlier advisor result returned no lints during startup and is not treated a
 **Evidence.** `src/__tests__/db/rls.test.ts` runs the migrations in PGlite (real Postgres in WebAssembly) with Supabase's default grants reproduced. It covers anonymous, user A, user B and moderator, testing allowed and denied reads/writes, privilege escalation, cross-user edits, moderation rules, photo isolation and TRUNCATE: 15 tests. Against the old schema, 13 of 14 authorization tests fail (once the missing profiles are patched in); with the migrations, all pass. The harness does not exercise Supabase Auth, PostgREST, Storage or the live project.
 
 **Still required before enabling community features.**
-- Decide whether Auth sign-ups should stay closed until launch.
 - Update app code: profile reads must select explicit public columns or call `get_my_profile()`; the callback must stop inserting profiles; the review form must not send `published`/`status`.
 - Create the private `review-uploads` storage bucket with owner-path policies; owner claims (item 5); consent and moderation UI.
 
@@ -54,4 +53,6 @@ The earlier advisor result returned no lints during startup and is not treated a
 - Data: 107 venues and 2 profiles unchanged. All 3 sample editorials are `rejected`/unpublished with the archive note.
 - Real API probes with the public key from the live bundle: reviews `[]`; profile names readable; `mobility_profile` and `select=*` refused (42501); venues readable; review photos `[]`; venue insert refused; `moderate_review` refused.
 - Security advisor: warnings only, all intended. These are GraphQL visibility of tables that are deliberately public-readable under RLS and column grants, and the three SECURITY DEFINER functions meant for signed-in users, each of which checks the caller. No errors.
+
+**Sign-ups paused (2026-11-08, user decision).** "Allow new users to sign up" was turned off in the Supabase dashboard. Verified: `/auth/v1/settings` reports `disable_signup: true`, and a sign-up attempt returns 422 `signup_disabled`. Re-enable it only when community features launch, after the remaining items above.
 
