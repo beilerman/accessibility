@@ -29,3 +29,24 @@ Supabase's [RLS guidance](https://supabase.com/docs/guides/database/postgres/row
 ThresholdAccess reached `ACTIVE_HEALTHY`. A fresh SQL query succeeded at `2026-09-10 19:32:47 UTC`. The live table inventory returned seven public tables, all with RLS enabled and zero rows reported. Live policy inspection confirms the legacy broad profile reads, unrestricted photo inserts, and author-only review write predicates described above. During restore startup a first query briefly succeeded before connections were refused; verification was repeated successfully only after the project became healthy.
 
 The earlier advisor result returned no lints during startup and is not treated as evidence that application permissions are secure. No schema or content mutations were performed in this restore step. Community functionality remains disabled pending implementation and allowed/denied-operation tests. Public-site HTTP returned 200 during restoration.
+
+## November 8, 2026: authorization layer
+
+**Live state (read-only inspection).** ThresholdAccess holds data: 107 venues, 2 seeded profiles with no auth users, and the 3 March sample editorials, still `published`/`approved` under Matthew Brothers' byline. The live history also has `remove_profiles_auth_fk_for_seeding`, which was never checked in; it is now recorded as `001a_...`. Grants match Supabase defaults: anon and authenticated hold every table privilege, including TRUNCATE. **The deployed site bundle contains the project URL and public key**, so these gaps are reachable directly through the API even though the UI is read-only. Concretely: anyone can read the sample editorials and every profile column, including `mobility_profile`. If Auth sign-ups are open, a new account could insert photo rows on published reviews.
+
+**Fix (tested, not yet applied live).**
+- `002_harden_community_permissions.sql` revokes all client privileges, then grants back by column. Ordinary users can no longer touch `is_admin`, `is_editor`, `review_count`, `status`, `published`, `featured`, `is_editorial`, `body_html` or `helpful_count`.
+- Only public profile columns are readable; owners read private fields through `get_my_profile()`. A trigger creates each profile on sign-up.
+- Authors submit, edit and withdraw only their own pending reviews and can read them back. A table constraint makes publication require approval.
+- Moderation happens only through `moderate_review()`, which requires an editor or admin who is not the author and records who, when and why.
+- Review photos attach only to the author's own pending review, under `<uid>/` paths, and stay private until approval.
+- `003_archive_legacy_sample_reviews.sql` unpublishes the three sample editorials and marks them rejected with an explanatory note. Rows are kept as history.
+
+**Evidence.** `src/__tests__/db/rls.test.ts` runs the migrations in PGlite (real Postgres in WebAssembly) with Supabase's default grants reproduced. It covers anonymous, user A, user B and moderator, testing allowed and denied reads/writes, privilege escalation, cross-user edits, moderation rules, photo isolation and TRUNCATE: 15 tests. Against the old schema, 13 of 14 authorization tests fail (once the missing profiles are patched in); with the migrations, all pass. The harness does not exercise Supabase Auth, PostgREST, Storage or the live project.
+
+**Still required before enabling community features.**
+- Apply 002/003 live; this requires user confirmation. Then run the advisor and a live role-switched check.
+- Decide whether Auth sign-ups should stay closed until launch.
+- Update app code: profile reads must select explicit public columns or call `get_my_profile()`; the callback must stop inserting profiles; the review form must not send `published`/`status`.
+- Create the private `review-uploads` storage bucket with owner-path policies; owner claims (item 5); consent and moderation UI.
+
