@@ -95,11 +95,6 @@ export function ReviewForm({ venues }: ReviewFormProps) {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  // Reset highlighted index when filtered list changes
-  useEffect(() => {
-    setHighlightedIndex(-1);
-  }, [venueSearch]);
-
   const selectVenue = useCallback(
     (venue: VenueOption) => {
       setVenueId(venue.id);
@@ -379,6 +374,8 @@ export function ReviewForm({ venues }: ReviewFormProps) {
               value={venueSearch}
               onChange={(e) => {
                 setVenueSearch(e.target.value);
+                // Reset alongside the search change, not in a follow-up render.
+                setHighlightedIndex(-1);
                 setVenueId("");
                 setShowVenueDropdown(true);
               }}
