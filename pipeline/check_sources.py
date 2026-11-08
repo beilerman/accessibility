@@ -30,7 +30,10 @@ PLACES = Path("src/data/places.json")
 SNAPSHOT_DIR = Path("pipeline/source-checks")
 USER_AGENT = "ThresholdSourceCheck/1.0 (accessibility directory source monitor)"
 # Bump when fingerprint() changes; hashes from other versions are not compared.
-FINGERPRINT_VERSION = 4
+FINGERPRINT_VERSION = 5
+# Measured 2026-11-08: script-rendered pages show <300 visible characters,
+# content pages >1,300.
+SCRIPT_FALLBACK_BELOW_CHARS = 1000
 
 
 class _TextExtractor(HTMLParser):
@@ -122,9 +125,13 @@ def text_blocks(html: str) -> list[str]:
             block = pattern.sub("", block).strip()
         if block:
             blocks.add(block)
-    prose = script_prose(html)
-    if prose:
-        blocks.add(prose)
+    # Script text is a fallback for pages whose content is rendered from
+    # inline JSON (parks.ky.gov shows ~20 visible characters). On normal
+    # pages it is mostly site-wide menus and promotions that churn daily.
+    if sum(len(b) for b in blocks) < SCRIPT_FALLBACK_BELOW_CHARS:
+        prose = script_prose(html)
+        if prose:
+            blocks.add(prose)
     return sorted(blocks)
 
 

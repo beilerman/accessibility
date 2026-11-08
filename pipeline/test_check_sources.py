@@ -43,6 +43,12 @@ class ScriptProseTests(unittest.TestCase):
         page = '<script>a="x";window.__CF$cv$params={r:"a576c463f868bebb",t:"MTc5"};var l = document.createElement("script") ; "y"</script>'
         self.assertEqual(script_prose(page), "")
 
+    def test_script_text_ignored_when_page_has_real_content(self):
+        body = "<p>" + "Accessible seating is in the last rows. " * 40 + "</p>"
+        a = body + '<script>x({"promo":"Buy tickets for the big weekend game now"})</script>'
+        b = body + '<script>x({"promo":"Stream every game this season on the app"})</script>'
+        self.assertEqual(fingerprint(a), fingerprint(b))
+
     def test_external_scripts_are_ignored(self):
         self.assertEqual(script_prose('<script src="a.js">"one two three four five six"</script>'), "")
 
