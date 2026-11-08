@@ -1094,6 +1094,76 @@
     "observed_at": null
   },
   {
+    "name": "Boone Woods Park",
+    "city": "Burlington",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "6000 Veterans Way, Burlington, KY 41005",
+    "website": "https://www.boonecountyky.org/services/parks/our_parks.php",
+    "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The playground was updated with ADA-accessible equipment, with cushioned rubber surfacing and ramps to lookouts, toys and slides.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
+        "id": "boone-woods-park.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Playground swings use overhead harnesses that fasten in place of belts.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
+        "id": "boone-woods-park.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Restrooms and three large reservable shelters are listed among the park's amenities.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
+        "id": "boone-woods-park.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Accessibility details cover the playground only; confirm the route from parking to the playground and whether restrooms and the amphitheater are accessible.",
+    "slug": "boone-woods-park",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Cincinnati Art Museum",
     "city": "Cincinnati",
     "state": "OH",
@@ -1606,6 +1676,112 @@
     "observed_at": null
   },
   {
+    "name": "Cincinnati Observatory",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "3489 Observatory Place, Cincinnati, Ohio 45208",
+    "website": "https://www.cincinnatiobservatory.org/",
+    "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Telescope eyepieces on the two main telescopes can be 4 to over 14 feet above the floor and usually require climbing a stepped platform.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "In the 1904 Mitchel building, a ramp leads to a side entrance on the main floor with the classroom, lobby and restrooms; its telescope dome room is reached only by 5 steps with handrails.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 1873 Herget building is temporarily closed; its telescope dome room is reached only by 27 stairs, and its lift may not suit motorized wheelchairs or wheelchairs with leg rests extended.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Level parking is directly next to both buildings; there are no marked spaces, but places can be reserved with cones or signage given notice.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Visitors needing assistance should say so when reserving or before visiting; depending on staffing and equipment, individualized tours and a portable telescope may be offered.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Both telescope domes are reached only by stairs and the eyepieces usually need a stepped platform; the 1873 building is temporarily closed. Tell staff your needs when booking and confirm what can be arranged for your visit.",
+    "slug": "cincinnati-observatory",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Cincinnati Playhouse in the Park",
     "city": "Cincinnati",
     "state": "OH",
@@ -1710,6 +1886,111 @@
     ],
     "limitations": "Public website information; no on-site audit. Accessible garage parking is limited and requires advance reservation and payment, plus a valid placard. Accessible seats are subject to availability.",
     "slug": "cincinnati-playhouse-in-the-park",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Cincinnati Shakespeare Company (Otto M. Budig Theater)",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "website": "https://www.cincyshakes.com/",
+    "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Wheelchair-accessible seats with companion seats are in the Lower Gallery and Upper Gallery and can be booked online or by calling the Box Office.",
+        "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
+        "id": "cincinnati-shakespeare-company.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A wheelchair-accessible ramp in the first-floor Linnemann Family Lobby leads to the left-hand theatre doors; the Upper Gallery center section is on one level and reached by an elevator in the lobby.",
+        "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
+        "id": "cincinnati-shakespeare-company.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Free assisted listening devices are offered at all performances, picked up at the Box Office on arrival; they include a DSP loop driver for T-coil-equipped hearing aids.",
+        "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
+        "id": "cincinnati-shakespeare-company.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Each production has live sign language interpreted performances and at least one live audio-described performance, typically at the final matinee; advance reservations for audio description are appreciated.",
+        "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
+        "id": "cincinnati-shakespeare-company.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Sensory-friendly performances are modified for people with autism or developmental or sensory differences, with front-of-house staff and volunteers trained for them.",
+        "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
+        "id": "cincinnati-shakespeare-company.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The page does not describe the route from the street entrance to the Lower Gallery seats or say which seats the ramp serves; confirm the route, and check each production's schedule for interpreted, audio-described and sensory-friendly dates.",
+    "slug": "cincinnati-shakespeare-company",
     "evidence_type": "public_website",
     "observed_at": null
   },
@@ -2435,6 +2716,112 @@
     "observed_at": null
   },
   {
+    "name": "Ensemble Theatre Cincinnati",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "1127 Vine Street, Cincinnati, OH 45202-7226",
+    "website": "https://ensemblecincinnati.org/",
+    "source_url": "https://ensemblecincinnati.org/accessibility/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Automatic doors lead from the street into the main entrance; an elevator runs between floors and to upper-row accessible seating, and a wheelchair lift covers the 4 stairs before the third-floor theatre entrance.",
+        "source_url": "https://ensemblecincinnati.org/accessibility/",
+        "id": "ensemble-theatre-cincinnati.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Each wheelchair location has a guaranteed adjacent same-row companion seat, and limited first-come, first-served accessible parking is in front of the main entrance.",
+        "source_url": "https://ensemblecincinnati.org/accessibility/",
+        "id": "ensemble-theatre-cincinnati.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Free headphones, earbuds and induction neck loops are first-come, first-served at the Box Office and can be reserved when buying tickets.",
+        "source_url": "https://ensemblecincinnati.org/accessibility/",
+        "id": "ensemble-theatre-cincinnati.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Large-print and braille programs are provided for every production, and one audio-described performance is offered for each regular-season production.",
+        "source_url": "https://ensemblecincinnati.org/accessibility/",
+        "id": "ensemble-theatre-cincinnati.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Relaxed performances use lower sound and light levels, reduce strobe lighting and allow talking and moving around; pre-visit guides and social narratives are available.",
+        "source_url": "https://ensemblecincinnati.org/accessibility/",
+        "id": "ensemble-theatre-cincinnati.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Upper-row accessible seating depends on the elevator and a wheelchair lift at the third-floor entrance; confirm both are working, and check the event listings for ASL, audio-described and relaxed performance dates.",
+    "slug": "ensemble-theatre-cincinnati",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Florence Family Aquatic Center",
     "city": "Florence",
     "state": "KY",
@@ -2744,6 +3131,94 @@
     "observed_at": null
   },
   {
+    "name": "Heritage Bank Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "100 Broadway, Cincinnati, OH 45202",
+    "website": "https://heritagebankcenter.com/",
+    "source_url": "https://heritagebankcenter.com/venue-info",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Guests with accessibility needs should contact the venue in advance, ideally at least three days before the event.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Sensory kits with antiglare glasses, a communication card, noise-reducing ear covers, a fidget toy and a venue map can be checked out; ask at the customer service desk next to the main entrance.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A social narrative is offered for download on the venue information page.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Three elevators are located behind sections 103, 124 and 137.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The venue page gives few physical details beyond elevators; accessible seating, entrances, restrooms and parking were not described. Contact the venue at least three days ahead to arrange needs and confirm them.",
+    "slug": "heritage-bank-center",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Kenton County Public Library — Covington Branch",
     "city": "Covington",
     "state": "KY",
@@ -2810,6 +3285,94 @@
     ],
     "limitations": "Public website information; no on-site audit. The branch page states only that all areas of the branch are accessible, without detail; confirm the entrance, accessible parking spaces and restrooms with the branch.",
     "slug": "kenton-county-public-library-covington-branch",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Lou Hartfiel Memorial Park",
+    "city": "Crescent Springs",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "800 Buttermilk Pike, Crescent Springs, KY",
+    "website": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+    "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The city describes a recently added, fully inclusive playground designed for children of all abilities, with accessible equipment.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "id": "lou-hartfiel-memorial-park.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The inclusive playground includes sensory features.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "id": "lou-hartfiel-memorial-park.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 1.5-mile walking and nature trail has both paved and wood chip surfaces.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "id": "lou-hartfiel-memorial-park.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Picnic tables and grills are located throughout the park, and three shelters are available for public use.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "id": "lou-hartfiel-memorial-park.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The city page does not describe surfacing at the playground or the route from parking; confirm which trail sections are paved versus wood chip.",
+    "slug": "lou-hartfiel-memorial-park",
     "evidence_type": "public_website",
     "observed_at": null
   },
@@ -3351,6 +3914,111 @@
     ],
     "limitations": "Public venue website reporting; no on-site audit. Event layouts and equipment availability should be confirmed with the organizer.",
     "slug": "northern-kentucky-convention-center",
+    "observed_at": null
+  },
+  {
+    "name": "Paycor Stadium",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "website": "https://www.bengals.com/stadium",
+    "source_url": "https://www.bengals.com/news/fan-guide",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "ADA seating is on all three levels; buy it in advance through the Bengals ticket office (513-621-8383), first come, first served.",
+        "source_url": "https://www.bengals.com/news/fan-guide",
+        "id": "paycor-stadium.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Before the game, ADA guests can be dropped off at the curb cut-out on Central Ave. near West Gate or at Race St. and Freedom Way near East Gate.",
+        "source_url": "https://www.bengals.com/news/fan-guide",
+        "id": "paycor-stadium.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Central Avenue stays closed until 30 minutes after the event, and post-event pickup there starts only once it reopens.",
+        "source_url": "https://www.bengals.com/news/fan-guide",
+        "id": "paycor-stadium.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Elevators on the East and West sides are reserved for guests with mobility needs (plus one companion), suite holders and club seat patrons.",
+        "source_url": "https://www.bengals.com/news/fan-guide",
+        "id": "paycor-stadium.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The guide states all seven entry gates are accessible for guests with disabilities.",
+        "source_url": "https://www.bengals.com/news/fan-guide",
+        "id": "paycor-stadium.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. This is the Bengals' game-day fan guide; concerts and other events may differ. ADA seats are first come, first served, so buy early through the Bengals ticket office (513-621-8383) and confirm the route from your gate to your seat.",
+    "slug": "paycor-stadium",
+    "evidence_type": "public_website",
     "observed_at": null
   },
   {
@@ -4173,6 +4841,112 @@
     ],
     "limitations": "Public website information; no on-site audit. Confirm individual accommodation needs with accessibility@taftmuseum.org.",
     "slug": "taft-museum-of-art",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Taft Theatre",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "317 East 5th St., Cincinnati, OH 45202",
+    "website": "https://tafttheatre.org/",
+    "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "There is no elevator, and all balcony seats require climbing stairs.",
+        "source_url": "https://tafttheatre.org/venue-info/faq",
+        "id": "taft-theatre.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "ADA seating alternates accessible spaces and companion seats; guests with a companion should buy two ADA tickets, and seats are assigned on a best-available basis.",
+        "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+        "id": "taft-theatre.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "ADA, hearing-impaired or visually-impaired seating needs must be stated when buying tickets, through Ticketmaster.com or at the venue box office.",
+        "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+        "id": "taft-theatre.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "ADA-section tickets are for parties with someone who needs reserved seating due to mobility or standing difficulties, and guests may be asked to stay seated in that section.",
+        "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+        "id": "taft-theatre.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Sign language interpretation requests must be emailed to info@tafttheatre.org at least 3 weeks before the event and depend on interpreter availability.",
+        "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+        "id": "taft-theatre.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. There is no elevator and balcony seats require stairs; the FAQ also says the Main Bar is reached via stairs below the lobby. Confirm the location of ADA seating and the entrance route when buying tickets. Assistive listening devices were not mentioned on the pages checked.",
+    "slug": "taft-theatre",
     "evidence_type": "public_website",
     "observed_at": null
   },

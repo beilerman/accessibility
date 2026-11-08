@@ -118,3 +118,15 @@ Two research agents proposed 10 listings (6 Ohio, 4 Kentucky) from official sour
 - **Test hardening:** browser tests now derive place counts from the catalog. The dark-theme scan waited on nothing and could sample colors mid-switch (3 of 4 local runs failed after the page grew); it now waits for the theme to settle (5 of 5 pass).
 - **Follow-ups:** transit-specific artwork (the transportation art shows an airport); visitor-report research for the new listings; Smale once a current official page exists.
 
+## Coverage round 2, Recent changes page, reflow (November 8, later)
+
+- **Added 8 places / 36 notes** (51 places, 227 active notes): Cincinnati Shakespeare Company, Ensemble Theatre Cincinnati, Taft Theatre, Cincinnati Observatory, Paycor Stadium (Bengals game-day guide; limitations say other events may differ), Heritage Bank Center, Boone Woods Park and Lou Hartfiel Memorial Park.
+  - Every passage was re-verified against a fresh fetch, and every city was confirmed on an official page.
+  - Dropped before inclusion: a Boone Woods sports-weather line (not access content) and a duplicate MegaCorp Pavilion proposal.
+  - Skipped for lack of a substantive official page: Kenton Erlanger/Independence branches ("accessible" only), Stained Glass Theatre, Southgate House Revival, A.J. Jolly Park, Boone County Arboretum (trail lengths only), Harriet Beecher Stowe House (403) and Glenwood Gardens.
+  - Unreadable here: nku.edu and Behringer-Crawford Museum (TLS failures with the system Python 3.9/LibreSSL), and Madison Theater (403).
+- **Recent changes (`/updates`).** Built from note history. It lists corrections and withdrawals with the reason, the current or withdrawn wording and a link to the exact note; groups additions by place; and counts rechecks.
+- **Reflow (WCAG 1.4.10).** Five venue pages scrolled sideways at 320px: mobile `1fr` grid columns could not shrink below a long URL in the limitations, and CVG's title contained "Cincinnati/Northern". Fixed in CSS. A browser test now loads every public route and venue page at 320px.
+- **Parallel work.** Commits `c24f652` and `dea7761` (Riverbend, Bogart's, TQL expansion, dependency upgrades) came from another session working in this same tree. Coordinate before editing `src/data/places.json` concurrently.
+- **Validation.** 54 unit tests, 23 browser tests, 27 pipeline tests; build of 68 pages; lint 0 errors.
+

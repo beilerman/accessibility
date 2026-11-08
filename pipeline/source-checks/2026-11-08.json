@@ -57,6 +57,22 @@
       "fingerprint_version": 5,
       "chars": 11373
     },
+    "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php": {
+      "status": 200,
+      "final_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+      "last_modified": null,
+      "sha256": "389be8311f25438f8f861fb092cfd2b71b8ca2b9a079800b3c56a15566baefa9",
+      "fingerprint_version": 5,
+      "chars": 3214
+    },
+    "https://ensemblecincinnati.org/accessibility/": {
+      "status": 200,
+      "final_url": "https://ensemblecincinnati.org/visit/accessibility/",
+      "last_modified": null,
+      "sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+      "fingerprint_version": 5,
+      "chars": 6935
+    },
     "https://florence-ky.gov/residents/florence-family-aquatic-center/": {
       "status": 200,
       "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
@@ -68,7 +84,7 @@
     "https://freedomcenter.org/visit/accessibility/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/visit/accessibility/",
-      "last_modified": "Sun, 08 Nov 2026 19:47:22 GMT",
+      "last_modified": "Sun, 08 Nov 2026 19:58:21 GMT",
       "sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
       "fingerprint_version": 5,
       "chars": 2149
@@ -76,10 +92,18 @@
     "https://freedomcenter.org/voice/accessibilitytools-copy/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
-      "last_modified": "Sun, 08 Nov 2026 19:47:22 GMT",
+      "last_modified": "Sun, 08 Nov 2026 19:58:22 GMT",
       "sha256": "8e7d6afcce392f058d029d9d88212eeb23b5d68d4233d71bf8b4e24ee348a008",
       "fingerprint_version": 5,
       "chars": 2687
+    },
+    "https://heritagebankcenter.com/venue-info": {
+      "status": 200,
+      "final_url": "https://heritagebankcenter.com/venue-info",
+      "last_modified": "Sun, 08 Nov 2026 19:57:55 GMT",
+      "sha256": "26e7070359e84699f7193b0a75170d552333480e8e6bf587246a042fc65b7a70",
+      "fingerprint_version": 5,
+      "chars": 20046
     },
     "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807": {
       "status": 200,
@@ -120,6 +144,22 @@
       "sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
       "fingerprint_version": 5,
       "chars": 1474
+    },
+    "https://tafttheatre.org/plan-your-visit/accessibility": {
+      "status": 200,
+      "final_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+      "last_modified": null,
+      "sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
+      "fingerprint_version": 5,
+      "chars": 1374
+    },
+    "https://tafttheatre.org/venue-info/faq": {
+      "status": 200,
+      "final_url": "https://tafttheatre.org/venue-info/faq",
+      "last_modified": null,
+      "sha256": "7b8bbf7ce5c86abf949de6cd58852bc230c952925b072d7dc892a470578c723d",
+      "fingerprint_version": 5,
+      "chars": 12116
     },
     "https://thecarnegie.com/about/visiting-the-carnegie/": {
       "status": 200,
@@ -185,6 +225,14 @@
       "fingerprint_version": 5,
       "chars": 2293
     },
+    "https://www.bengals.com/news/fan-guide": {
+      "status": 200,
+      "final_url": "https://www.bengals.com/fans/fanguide",
+      "last_modified": null,
+      "sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+      "fingerprint_version": 5,
+      "chars": 25245
+    },
     "https://www.bogarts.com/accessibility": {
       "status": 200,
       "final_url": "https://www.bogarts.com/accessibility",
@@ -200,6 +248,14 @@
       "sha256": "145b540af7a7732f08821a9d58922331339e7873cb268d97c09271fcb4243a49",
       "fingerprint_version": 5,
       "chars": 7210
+    },
+    "https://www.boonecountyky.org/business_detail_T35_R58.php": {
+      "status": 200,
+      "final_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
+      "last_modified": null,
+      "sha256": "7afc921ff5b420257497020453b0e9ccfb38e0805e0237d724519d9f9ac44389",
+      "fingerprint_version": 5,
+      "chars": 1581
     },
     "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/": {
       "status": 200,
@@ -233,6 +289,14 @@
       "fingerprint_version": 5,
       "chars": 3692
     },
+    "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/": {
+      "status": 200,
+      "final_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+      "last_modified": null,
+      "sha256": "28395d48024f160250df94f6533aabf927b09a18050c606b66d63fbf170d9750",
+      "fingerprint_version": 5,
+      "chars": 3764
+    },
     "https://www.cincymuseum.org/visit/": {
       "status": 200,
       "final_url": "https://www.cincymuseum.org/visit/",
@@ -248,6 +312,14 @@
       "sha256": "659d6714fdee54e6358593c181c1287e17eafd61fd5177f6a15d71963a1d53fa",
       "fingerprint_version": 5,
       "chars": 13356
+    },
+    "https://www.cincyshakes.com/your-visit/accessibility": {
+      "status": 200,
+      "final_url": "https://cincyshakes.com/your-visit/accessibility",
+      "last_modified": null,
+      "sha256": "8501481cc767320242cd11887d2de632084698ea8f4f3750ad85c5ca0a4e4b73",
+      "fingerprint_version": 5,
+      "chars": 10754
     },
     "https://www.contemporaryartscenter.org/visit/accessibility": {
       "status": 200,
