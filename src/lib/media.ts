@@ -4,6 +4,7 @@ import generated from "@/data/illustrations.json";
 import researchPhotos from "@/data/photos-research.json";
 import extraPhotos from "@/data/photos-extra.json";
 import commonsPhotos from "@/data/photos-commons.json";
+import flickrPhotos from "@/data/photos-flickr.json";
 import categoryImages from "@/data/category-art.json";
 import aiVenueImageData from "@/data/ai-venue-images.json";
 
@@ -71,6 +72,7 @@ export const venuePhotos: VenuePhoto[] = [
   ...extraPhotos,
   ...researchPhotos,
   ...commonsPhotos,
+  ...flickrPhotos,
 ];
 export const illustrations: AccessIllustration[] = generated;
 export const categoryArt: CategoryArt[] = categoryImages;
