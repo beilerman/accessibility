@@ -342,6 +342,202 @@
     "observed_at": null
   },
   {
+    "name": "Bogart’s",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "2621 Short Vine Street, Cincinnati, OH 45219",
+    "website": "https://www.bogarts.com/",
+    "source_url": "https://www.bogarts.com/accessibility",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Bogart’s says accessible tickets are available online through Live Nation but are not required to use its accessible seating section. If you already have tickets, contact the venue about your needs; this policy does not establish guaranteed space or companion seating.",
+        "source_url": "https://www.bogarts.com/accessibility",
+        "id": "bogarts.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ places accessible seating on the mezzanine and describes a wheelchair elevator from the mezzanine to the main floor. There is no elevator to the upstairs level. Confirm your seating level, the complete route and current lift operation before booking.",
+        "source_url": "https://www.bogarts.com/visit",
+        "id": "bogarts.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The accessibility page names the Great Bands Entrance as accessible. It lists drop-off at Corey and Short Vine or by the crosswalk in front of the venue; ask staff which curbside location and entrance to use.",
+        "source_url": "https://www.bogarts.com/accessibility",
+        "id": "bogarts.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Bogart’s does not operate a parking lot. Confirm nearby accessible parking and the route to the entrance before traveling.",
+        "source_url": "https://www.bogarts.com/visit",
+        "id": "bogarts.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Assistive listening devices are available through Guest Services on arrival. An ID is held at the box office while the device is on loan.",
+        "source_url": "https://www.bogarts.com/accessibility",
+        "id": "bogarts.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Request sign-language interpretation at least two weeks before the event, giving the ticket type and number of people needing interpretation. Availability is conditional; contact the venue to confirm arrangements.",
+        "source_url": "https://www.bogarts.com/accessibility",
+        "id": "bogarts.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Most events have general-admission standing and seating on a first-come basis. Check the seating options and accommodation arrangements for your specific event.",
+        "source_url": "https://www.bogarts.com/visit",
+        "id": "bogarts.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For accessibility arrangements, call 513-872-8801 or email BogartsBoxOffice@livenation.com.",
+        "source_url": "https://www.bogarts.com/accessibility",
+        "id": "bogarts.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The venue lists an accessible restroom on the mezzanine. Ask staff about its location, features and the route from your assigned area.",
+        "source_url": "https://www.bogarts.com/accessibility",
+        "id": "bogarts.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Re-entry is not permitted, and the venue cannot store medication. Review the medication and bag policies before attending and confirm any essential arrangements in advance.",
+        "source_url": "https://www.bogarts.com/visit",
+        "id": "bogarts.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. The accessible-section policy does not guarantee space or companion seating. Confirm capacity, any reservation process, the exact entrance-to-mezzanine route, lift dimensions and operation, restroom features, local accessible parking and show-specific sightlines. Quiet spaces, sensory kits and low-stimulation options were not established by the sources checked. An upstairs ticket is not evidence of a step-free route to that level.",
+    "slug": "bogarts",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
     "name": "Boone County Public Library — Florence Branch",
     "city": "Florence",
     "state": "KY",
@@ -3183,6 +3379,184 @@
     ],
     "limitations": "Public website information; no on-site audit. The page describes a wheelchair-accessible Gallery Museum entrance but also a small step; confirm the step-free route directly before relying on it.",
     "slug": "pyramid-hill-sculpture-park-museum",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Riverbend Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "6295 Kellogg Avenue, Cincinnati, OH 45230",
+    "website": "https://riverbend.org/",
+    "source_url": "https://riverbend.org/venue-information/accessibility",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Request accessible seating through Ticketmaster or the box office when buying tickets. Seating is sold on a best-available basis. If you already hold another ticket, the venue directs you to Customer Service near the main gate for reseating assistance; contact the venue ahead rather than counting on a same-day change.",
+        "source_url": "https://riverbend.org/venue-information/accessibility",
+        "id": "riverbend-music-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ allows up to three companions with advance accessible-seat purchases, compared with one companion for on-site reseating. Confirm the arrangement for your party before purchasing.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is available in all lots. The venue recommends Gate 2 for the closest spaces; follow parking attendants’ directions.",
+        "source_url": "https://riverbend.org/plan-your-visit/directions-parking",
+        "id": "riverbend-music-center.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ directs drop-off traffic to the Kellogg Avenue pull-off at Gate 2, with routing dependent on traffic. Rideshare pickup is in Lot 9 across from Gate 2. Separate FAQ entries disagree about private-driver pickup, so confirm that meeting point with staff.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Request hearing-related or vision-related seating when buying through Ticketmaster or the venue box office; the venue says seating is sold on a best-available basis.",
+        "source_url": "https://riverbend.org/venue-information/accessibility",
+        "id": "riverbend-music-center.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Request sign-language interpretation at least three weeks before the event by emailing info@riverbend.org. Interpreter availability is not guaranteed.",
+        "source_url": "https://riverbend.org/venue-information/accessibility",
+        "id": "riverbend-music-center.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Parking is included with tickets. Lots generally open two hours before doors; check the instructions for your event.",
+        "source_url": "https://riverbend.org/plan-your-visit/directions-parking",
+        "id": "riverbend-music-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For accessibility questions before a visit, call 513-232-5882.",
+        "source_url": "https://riverbend.org/venue-information/accessibility",
+        "id": "riverbend-music-center.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Re-entry is not permitted. The FAQ allows possible exceptions for medically necessary bags, subject to inspection; confirm arrangements for essential items before arriving.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Do not rely on day-of reseating: confirm availability, your party size and the route to your assigned area before buying. The FAQ gives conflicting private-pickup locations; confirm arrangements with staff. Accessible restroom features, route distances and gradients, parking eligibility, wheelchair assistance, assistive listening and quiet spaces were not established by the sources checked. Ask about current conditions and show-specific sightlines.",
+    "slug": "riverbend-music-center",
     "evidence_type": "public_website",
     "observed_at": null
   },

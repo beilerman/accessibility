@@ -1,14 +1,12 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
-import { readFileSync } from "node:fs";
-// Derive expected counts from the catalog so coverage growth needs no test edits.
-const PLACE_COUNT = (
-  JSON.parse(readFileSync("src/data/places.json", "utf8")) as unknown[]
-).length;
+import places from "../src/data/places.json";
 const routes = [
   "/",
   "/venues",
   "/venues/newport-aquarium",
+  "/venues/riverbend-music-center",
+  "/venues/bogarts",
   "/about",
   "/sources",
   "/visitor-reports",
@@ -29,6 +27,38 @@ for (const path of routes) {
     expect(scan.violations).toEqual([]);
   });
 }
+test("concert guides expose sources and cautions on narrow screens", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 375, height: 812 });
+  for (const slug of ["riverbend-music-center", "bogarts"]) {
+    const place = places.find((p) => p.slug === slug)!;
+    await page.goto(`/venues?q=${encodeURIComponent(place.name)}`);
+    await page.getByRole("link", { name: place.name, exact: true }).click();
+    await expect(page.getByRole("heading", { level: 1 })).toHaveText(place.name);
+    await expect(page.getByText(/Sources last checked Nov 8, 2026/)).toBeVisible();
+    await expect(page.getByText(place.limitations, { exact: true })).toBeVisible();
+    await expect(page.getByRole("link", { name: /Official source for/ })).toHaveCount(
+      place.facts.length,
+    );
+    await expect(page.getByText(/No sufficiently attributable accessibility report/)).toBeVisible();
+    expect(
+      await page.evaluate(
+        () => document.documentElement.scrollWidth <= window.innerWidth,
+      ),
+    ).toBe(true);
+    await page.emulateMedia({ colorScheme: "dark", reducedMotion: "reduce" });
+    await expect(page.locator("html")).toHaveClass(/\bdark\b/);
+    await expect
+      .poll(() => page.evaluate(() => getComputedStyle(document.body).color))
+      .toBe("rgb(237, 237, 237)");
+    await page.waitForTimeout(250);
+    const scan = await new AxeBuilder({ page })
+      .withTags(["wcag2a", "wcag2aa", "wcag21aa", "wcag22aa"])
+      .analyze();
+    expect(scan.violations).toEqual([]);
+  }
+});
 test("search, combined filters, details, sources and empty state work", async ({
   page,
 }) => {
@@ -67,7 +97,7 @@ test("search, combined filters, details, sources and empty state work", async ({
   await page
     .getByRole("link", { name: "Clear all filters", exact: true })
     .click();
-  await expect(page.getByRole("status")).toContainText(`${PLACE_COUNT} places found`);
+  await expect(page.getByRole("status")).toContainText(`${places.length} places found`);
 });
 test("photos load with credits and AI examples have visible disclosure", async ({
   page,
@@ -112,8 +142,8 @@ test("every listing has a labeled visual and illustrated category links filter c
 }) => {
   await page.goto("/venues");
   const cards = page.locator("article.place-card");
-  await expect(cards).toHaveCount(PLACE_COUNT);
-  await expect(cards.locator("figure img")).toHaveCount(PLACE_COUNT);
+  await expect(cards).toHaveCount(places.length);
+  await expect(cards.locator("figure img")).toHaveCount(places.length);
   for (const figure of await cards.locator("figure.category-art").all()) {
     await expect(figure.getByText(/AI artwork/)).toBeVisible();
     await expect(
