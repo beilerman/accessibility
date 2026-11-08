@@ -27,8 +27,9 @@ export default function Sources() {
         <div>
           <dt className="font-bold">From official public websites</dt>
           <dd>
-            A summary of information published by the venue or its managing
-            organization. These notes appear separately from visitor reports.
+            A summary of information published by the venue, its managing
+            organization, an identified venue partner, or a public agency.
+            These notes appear separately from visitor reports.
             This information is not a verified owner submission or an on-site
             audit.
           </dd>
@@ -55,6 +56,8 @@ export default function Sources() {
             Each note names its publisher type:{" "}
             {Object.values(SOURCE_TYPE_LABELS).join("; ").toLowerCase()}. An
             operating organization may describe several locations on one page.
+            A venue partner, such as a cinema-system provider, is identified
+            separately and is not necessarily the venue operator.
           </dd>
         </div>
         <div>

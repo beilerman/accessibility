@@ -4752,6 +4752,60 @@
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Bailey's general-admission supporter tickets are for safe standing without a physical seat. If you need seated or wheelchair-accessible accommodation, confirm the appropriate ticket with FC Cincinnati before purchasing.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.mobility.6",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Supporter sections prohibit yellow and opposing-team colors. Check the club's current section-specific dress rules before attending.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.cognitive.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "In its guide for the November 7, 2026 match, FC Cincinnati describes singing, drums, flags and smoke as expected parts of the Bailey experience. Check current event guidance when planning your visit.",
+        "source_url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation",
+        "id": "tql-stadium.sensory.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2026-11-05",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the official matchday guide; publication date verified in page metadata. Event-specific guidance, not a field observation."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Accessible seating availability on event day is described as limited; buy ADA tickets in advance through FC Cincinnati Ticketing (513-977-5425). Confirm show-specific ticketing, your gate, the complete curb-to-seat route, parking-pass availability and current street closures. No specific curbside location or elevator operating status has been field verified.",
@@ -5430,6 +5484,530 @@
     ],
     "limitations": "Public website information; no on-site audit. Verify current launch operation and park closures. Address source: https://www.greatparks.org/parks/winton-woods",
     "slug": "winton-woods",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Ludlow Garage",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "342 Ludlow Avenue, Cincinnati, OH",
+    "website": "https://www.ludlowgaragecincinnati.com/",
+    "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The main east entrance has one step. The venue directs visitors needing step-free entry to the west-side restaurant entrance through the Ace Hardware hallway.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A lift beside the stairs connects the first-floor restaurant with the lower-level concert venue. The venue says visitors may use it themselves or ask staff for help.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The venue lists men's and women's ADA restrooms. Specific dimensions and the complete route to them have not been field checked.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Wheelchair-accessible concert tickets are sold through Ticketmaster, subject to availability. Confirm the appropriate ticket and companion arrangements before purchase.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "General-admission shows do not guarantee seating. The venue has no parking lot; plan your parking and route before arrival.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm west-entry opening hours, lift operating status, dimensions and capacity, the parking or drop-off route, and companion seating before your visit.",
+    "slug": "ludlow-garage",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Florence Y'alls / Thomas More Stadium",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Arts & performances",
+    "address": "7950 Freedom Way, Florence, KY",
+    "website": "https://florenceyalls.com/",
+    "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Accessible seating is listed behind sections 107 and 109. Confirm availability and the appropriate seating reservation when booking.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "ADA parking is at the rear of the stadium along the first-base line. Confirm the entrance and step-free route from your parking space to your seats.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Medically necessary items are permitted subject to inspection. Ask stadium staff about the current bag-check procedure before arrival if needed.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The fan guide lists family restrooms with changing tables. It does not establish adult changing tables or the dimensions of accessible restroom facilities.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm the accessible entrance and parking-to-seat route, companion seating, restroom location and dimensions, shade, and ticket-purchase procedure. Family restrooms and changing tables do not establish adult changing facilities.",
+    "slug": "florence-yalls-thomas-more-stadium",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Molly Malone's Covington",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "112 E. 4th Street, Covington, KY",
+    "website": "https://mollymalonesirishpub.com/covington/",
+    "source_url": "https://mollymalonesirishpub.com/covington/private-party-menu/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The venue says its second-floor Pub and third-floor Ballroom have elevator wheelchair access.",
+        "source_url": "https://mollymalonesirishpub.com/covington/private-party-menu/",
+        "id": "molly-malones-covington.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Both event floors have private restrooms. Their accessibility and the routes to them have not yet been verified.",
+        "source_url": "https://mollymalonesirishpub.com/covington/private-party-menu/",
+        "id": "molly-malones-covington.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. These details concern the named event rooms. Confirm the step-free route from the street to the elevator, its dimensions and availability, restroom accessibility, and access to other dining or outdoor areas. Private restrooms are not necessarily accessible restrooms.",
+    "slug": "molly-malones-covington",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Smoke Justis",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "302 Court Street, Covington, KY",
+    "website": "https://www.smokejustis.com/",
+    "source_url": "https://parties.smokejustis.com/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The upstairs Boardroom and Clubhouse require stairs and have no elevator. The venue says these rooms are not wheelchair accessible.",
+        "source_url": "https://parties.smokejustis.com/",
+        "id": "smoke-justis.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue describes its lower-level main dining room and Bourbon Lounge as accessible. Confirm the entrance and restroom routes for your visit.",
+        "source_url": "https://parties.smokejustis.com/",
+        "id": "smoke-justis.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Confirm the exact entrance, thresholds, restroom access, and table arrangements for your chosen room. The lower-level accessibility description is the venue's statement, not a field audit.",
+    "slug": "smoke-justis",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Falcon Theatre",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Arts & performances",
+    "address": "636 Monmouth Street, Newport, KY",
+    "website": "https://falcontheater.net/",
+    "source_url": "https://falcontheater.net/visit/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Visitors needing wheelchair seating or other seating accommodations are asked to notify the box office in advance and allow extra time on arrival for staff to arrange seating.",
+        "source_url": "https://falcontheater.net/visit/",
+        "id": "falcon-theatre.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The box office publishes 513-479-6783 as its contact number. Contact it before attending if seating or route arrangements need confirmation.",
+        "source_url": "https://falcontheater.net/contact-us/",
+        "id": "falcon-theatre.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Advance accommodation instructions do not establish every physical route. Confirm step-free entry, wheelchair and companion-seat locations, and accessible restrooms with the box office.",
+    "slug": "falcon-theatre",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Southgate House Revival",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Arts & performances",
+    "address": "111 E. 6th Street, Newport, KY",
+    "website": "https://www.southgatehouse.com/",
+    "source_url": "https://www.southgatehouse.com/about/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Shows are general admission. Seating arrangements vary by event and available seats are first come, first served; confirm your show's room and seating arrangements before buying.",
+        "source_url": "https://www.southgatehouse.com/about/",
+        "id": "southgate-house-revival.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Physical access remains unverified. Confirm the street-to-room route, any steps or lift, wheelchair viewing and companion spaces, and accessible restrooms for the Sanctuary, Revival Room or Lounge used by your event. The website accessibility statement is not evidence of building access.",
+    "slug": "southgate-house-revival",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "AMC Newport On The Levee 20",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Arts & performances",
+    "address": "One Levee Way, Suite 4100, Newport, KY",
+    "website": "https://www.amctheatres.com/movie-theatres/cincinnati/amc-newport-on-the-levee-20",
+    "source_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The cinema is on the Theater Level inside the Gallery Building. The property lists 859-261-6742 as the cinema contact number.",
+        "source_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
+        "id": "amc-newport-on-the-levee-20.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "IMAX lists wheelchair access for this theater. The specific street-to-seat route and auditorium seating arrangements have not yet been verified.",
+        "source_url": "https://www.imax.com/theatre/amc-newport-levee-20-imax",
+        "id": "amc-newport-on-the-levee-20.mobility.1",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "IMAX lists assisted listening devices for this theater. Confirm availability and collection arrangements for your screening.",
+        "source_url": "https://www.imax.com/theatre/amc-newport-levee-20-imax",
+        "id": "amc-newport-on-the-levee-20.sensory.1",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Broad amenity listings do not establish a complete step-free route. Confirm the street or garage entrance, elevators and operating hours, outage alternative, accessible restrooms, and wheelchair/companion positions for your auditorium. Confirm assistive-device availability for the selected screening.",
+    "slug": "amc-newport-on-the-levee-20",
+    "evidence_type": "public_website",
+    "observed_at": null
+  },
+  {
+    "name": "Go Bananas Comedy Club",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "8410 Market Place Lane, Cincinnati, OH 45242",
+    "website": "https://gobananascomedy.com/main/",
+    "source_url": "https://gobananascomedy.com/main/",
+    "checked_at": "2026-11-08",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Seating is first come, first served. Confirm any seating accommodation you need before buying tickets.",
+        "source_url": "https://gobananascomedy.com/main/",
+        "id": "go-bananas-comedy-club.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The official directions locate the club around the back of Market Place. The step-free route from parking to the entrance has not yet been verified.",
+        "source_url": "https://gobananascomedy.com/main/directions/",
+        "id": "go-bananas-comedy-club.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The official homepage publishes a new telephone number, 513-873-7233. Use the current official contact details when asking about access arrangements.",
+        "source_url": "https://gobananascomedy.com/main/",
+        "id": "go-bananas-comedy-club.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ],
+    "limitations": "Public website information; no on-site audit. Physical access remains unverified. Confirm entrance steps or thresholds, the parking route and curb cuts, wheelchair/companion seating, advance accommodation procedure, and accessible restrooms before booking if these affect your visit.",
+    "slug": "go-bananas-comedy-club",
     "evidence_type": "public_website",
     "observed_at": null
   }

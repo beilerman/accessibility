@@ -12,6 +12,7 @@ export type Domain = keyof typeof DOMAIN_LABELS;
 export const SOURCE_TYPE_LABELS = {
   venue_official: "Venue’s official website",
   operator_official: "Operating organization’s website",
+  partner_official: "Venue partner’s official website",
   public_agency: "Public agency listing",
 } as const;
 export type SourceType = keyof typeof SOURCE_TYPE_LABELS;
