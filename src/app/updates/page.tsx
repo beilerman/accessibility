@@ -4,8 +4,10 @@ import {
   catalogChanges,
   dateLabel,
   DOMAIN_LABELS,
+  places,
   type CatalogChange,
 } from "@/lib/catalog";
+import { teamReviews } from "@/lib/team-reviews";
 
 export const metadata: Metadata = {
   title: "Recent changes",
@@ -31,7 +33,11 @@ export default function Updates() {
   const { changes, rechecks } = catalogChanges();
   const recheckByDate = new Map(rechecks.map((r) => [r.date, r.count]));
   const dates = [
-    ...new Set([...changes.map((c) => c.date), ...rechecks.map((r) => r.date)]),
+    ...new Set([
+      ...changes.map((c) => c.date),
+      ...rechecks.map((r) => r.date),
+      ...teamReviews.map((r) => r.reportedAt),
+    ]),
   ].sort((a, b) => b.localeCompare(a));
   const grouped = new Map(groupByDate(changes));
 
@@ -62,6 +68,7 @@ export default function Updates() {
         for (const c of added)
           addedByPlace.set(c.place.slug, [...(addedByPlace.get(c.place.slug) ?? []), c]);
         const rechecked = recheckByDate.get(date) ?? 0;
+        const reviews = teamReviews.filter((r) => r.reportedAt === date);
         return (
           <section key={date} aria-labelledby={`d-${date}`} className="update-day">
             <h2 id={`d-${date}`}>
@@ -72,6 +79,26 @@ export default function Updates() {
                 Rechecked {rechecked} {rechecked === 1 ? "note" : "notes"} against
                 their live sources; unchanged notes are not listed.
               </p>
+            )}
+            {reviews.length > 0 && (
+              <>
+                <h3 className="font-semibold text-xl mt-8">
+                  New Threshold reviews ({reviews.length})
+                </h3>
+                <ul className="update-list">
+                  {reviews.map((r) => (
+                    <li key={r.id}>
+                      <Link
+                        href={`/venues/${r.placeSlug}#threshold-review`}
+                        className="font-semibold underline"
+                      >
+                        {places.find((p) => p.slug === r.placeSlug)?.name}
+                      </Link>{" "}
+                      · Firsthand review by {r.reviewer}
+                    </li>
+                  ))}
+                </ul>
+              </>
             )}
             {revised.length > 0 && (
               <>

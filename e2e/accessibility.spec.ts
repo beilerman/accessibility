@@ -399,3 +399,20 @@ test("a firsthand Threshold review is credited, dated and kept apart from websit
   await expect(page.locator("#threshold-review")).toHaveCount(0);
   await expect(page.getByText("Not field audited").first()).toBeVisible();
 });
+
+test("reviewed places are surfaced on the homepage and in recent changes", async ({
+  page,
+}) => {
+  await page.goto("/");
+  const section = page.locator("section", {
+    has: page.getByRole("heading", { name: "Firsthand Threshold reviews" }),
+  });
+  await expect(
+    section.getByRole("link", { name: "TQL Stadium" }).first(),
+  ).toBeVisible();
+  await page.goto("/updates");
+  await expect(
+    page.getByRole("link", { name: "Bogart’s" }).first(),
+  ).toBeVisible();
+  await expect(page.getByText(/New Threshold reviews \(3\)/)).toBeVisible();
+});

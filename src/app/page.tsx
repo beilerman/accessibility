@@ -7,6 +7,7 @@ import { illustrations } from "@/lib/media";
 import { AccessIllustration } from "@/components/catalog/AccessIllustration";
 import Image from "next/image";
 import { categoryArt } from "@/lib/media";
+import { teamReviews } from "@/lib/team-reviews";
 
 export const metadata: Metadata = {
   title: "Know before you go — Greater Cincinnati & Northern Kentucky",
@@ -15,6 +16,9 @@ export const metadata: Metadata = {
 };
 const icons = [Route, Ear, BookOpen, Coffee];
 export default function Home() {
+  const reviewed = places.filter((p) =>
+    teamReviews.some((r) => r.placeSlug === p.slug),
+  );
   const featured = [
     "newport-aquarium",
     "cincinnati-art-museum",
@@ -151,6 +155,23 @@ export default function Home() {
           ))}
         </div>
       </section>
+      {reviewed.length > 0 && (
+        <section className="py-12" aria-labelledby="reviewed-heading">
+          <p className="eyebrow">WHERE WE&apos;VE BEEN</p>
+          <h2 id="reviewed-heading" className="font-display text-3xl mt-3">
+            Firsthand Threshold reviews
+          </h2>
+          <p className="mt-4 max-w-3xl leading-relaxed">
+            Places our team has visited and written up, shown alongside what
+            each venue publishes.
+          </p>
+          <div className="place-grid mt-8">
+            {reviewed.map((p) => (
+              <PlaceCard key={p.slug} place={p} />
+            ))}
+          </div>
+        </section>
+      )}
       <section className="py-12" aria-labelledby="explore-heading">
         <div className="flex flex-wrap justify-between items-end gap-4 mb-8">
           <div>

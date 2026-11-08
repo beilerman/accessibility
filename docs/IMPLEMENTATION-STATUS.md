@@ -136,3 +136,14 @@ Two research agents proposed 10 listings (6 Ohio, 4 Kentucky) from official sour
 - Sitemap, `metadataBase` and the new `robots.txt` use the canonical origin. `robots.txt` excludes the gated `/auth/`, `/profile` and `/submit`.
 - Deployment `dpl_3cBVwwECDa1buE6FWkC3ZQaJVJ7N`. DNS records were set in Namecheap by the assistant with user approval; see README "Domains".
 
+
+## Images, coverage round 3 and Threshold reviews (November 8, evening)
+
+- **Current totals:** 66 places, 285 active notes, 3 firsthand Threshold reviews, 48 freely licensed photos, 14 labeled AI venue images and 4 places with category art.
+- **Content expansion merged.** PR #2 (eight guides plus three TQL notes from a parallel session) was reviewed against live sources, fast-forwarded and deployed.
+- **Photos.** Wikimedia Commons and Flickr (found through Openverse) photos, each license confirmed on its source page. Rejected: same-name places elsewhere, outdated vehicles and a pre-renovation Levee photo.
+- **AI venue images.** 14 places with no free photo have labeled AI images; method in [research/ai-venue-images.md](research/ai-venue-images.md). Each is generated from a text description of a reference photo, compared with it, and cropped above ground level after a pilot showed the generator inventing step-free entrances.
+- **Coverage round 3:** Ark Encounter, Kings Island, Krohn Conservatory, Reds Hall of Fame, Devou Park, and the Kenton County Erlanger and Independence branches (33 notes). Every quote was re-matched against a fresh fetch. Skipped: Hard Rock Casino (no access content), EnterTrainment Junction (site broken), Behringer-Crawford (blocks scripts) and Campbell County libraries (no building details).
+- **Threshold reviews.** Co-owner Matthew Brothers' firsthand reports for Bogart's, Riverbend and TQL Stadium are published under his name in their own section ([DECISIONS §11](DECISIONS.md)). They are surfaced on the homepage and on `/updates`.
+- **Source monitor.** 87 sources checked. Two routine page changes were reviewed and the notes are still supported; 3 sources block scripts (Newport Aquarium, IMAX, Molly Malone's) and need a browser.
+- **Validation.** 64 unit tests, 40 browser tests (now including the new venue pages) and the production build.
