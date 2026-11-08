@@ -6,6 +6,7 @@ import type {
   VenueCategory,
   AccessibilityRating,
 } from "@/types/database";
+import { PUBLIC_PROFILE_COLUMNS } from "@/types/database";
 
 // Server-side Supabase client (no cookie auth needed for public reads)
 const supabase = createClient(
@@ -144,7 +145,7 @@ export async function getEditorialReviews(): Promise<ReviewWithAuthor[]> {
   const results: ReviewWithAuthor[] = [];
   for (const review of reviewsData) {
     const [authorRes, photosRes, venueRes] = await Promise.all([
-      supabase.from("profiles").select("*").eq("id", review.author_id).single(),
+      supabase.from("profiles").select(PUBLIC_PROFILE_COLUMNS).eq("id", review.author_id).single(),
       supabase.from("review_photos").select("*").eq("review_id", review.id).order("sort_order"),
       supabase.from("venues").select("*").eq("id", review.venue_id).single(),
     ]);
@@ -172,7 +173,7 @@ export async function getFeaturedReview(): Promise<ReviewWithAuthor | null> {
   if (error || !review) return null;
 
   const [authorRes, photosRes, venueRes] = await Promise.all([
-    supabase.from("profiles").select("*").eq("id", review.author_id).single(),
+    supabase.from("profiles").select(PUBLIC_PROFILE_COLUMNS).eq("id", review.author_id).single(),
     supabase.from("review_photos").select("*").eq("review_id", review.id).order("sort_order"),
     supabase.from("venues").select("*").eq("id", review.venue_id).single(),
   ]);

@@ -237,17 +237,14 @@ export function ReviewForm({ venues }: ReviewFormProps) {
       const { data: review, error: insertError } = await supabase
         .from("reviews")
         .insert({
+          // Status, publication and featuring are set only by the database
+          // defaults and moderate_review(); clients cannot write them.
           venue_id: venueId,
           author_id: user.id,
-          is_editorial: false,
           body: body.trim(),
           overall_rating: rating,
           visit_date: visitDate || null,
           mobility_device_used: mobilityDevice || null,
-          published: false,
-          featured: false,
-          status: "pending",
-          helpful_count: 0,
         })
         .select("id")
         .single();

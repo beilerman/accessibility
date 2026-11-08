@@ -21,10 +21,8 @@ export default async function ProfileEditPage() {
   }
 
   const { data: profile } = await supabase
-    .from("profiles")
-    .select("*")
-    .eq("id", user.id)
-    .single<Profile>();
+    .rpc("get_my_profile")
+    .maybeSingle<Profile>();
 
   const initialProfile = {
     display_name: profile?.display_name ?? "",

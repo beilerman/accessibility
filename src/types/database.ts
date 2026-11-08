@@ -152,6 +152,18 @@ export interface Profile {
   created_at: string;
 }
 
+/**
+ * Columns anyone may read (migration 002 column grants). Private fields
+ * (mobility_profile, home_city, is_editor, is_admin) come only from the
+ * owner's get_my_profile() call.
+ */
+export const PUBLIC_PROFILE_COLUMNS =
+  "id, display_name, bio, avatar_url, review_count, created_at";
+export type PublicProfile = Pick<
+  Profile,
+  "id" | "display_name" | "bio" | "avatar_url" | "review_count" | "created_at"
+>;
+
 export interface VenuePhoto {
   id: string;
   venue_id: string;
@@ -183,7 +195,7 @@ export interface VenueWithDetails extends Venue {
 }
 
 export interface ReviewWithAuthor extends Review {
-  author: Profile;
+  author: PublicProfile;
   photos: ReviewPhoto[];
   venue: Venue;
 }

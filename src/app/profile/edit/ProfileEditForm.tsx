@@ -48,16 +48,17 @@ export function ProfileEditForm({ initialProfile }: ProfileEditFormProps) {
       return;
     }
 
-    const { error: upsertError } = await supabase.from("profiles").upsert(
-      {
-        id: user.id,
+    // Only these columns are client-writable (migration 002); the profile row
+    // itself is created by a database trigger at sign-up.
+    const { error: upsertError } = await supabase
+      .from("profiles")
+      .update({
         display_name: form.display_name.trim(),
         bio: form.bio.trim() || null,
         home_city: form.home_city.trim() || null,
         mobility_profile: form.mobility_profile,
-      },
-      { onConflict: "id" }
-    );
+      })
+      .eq("id", user.id);
 
     if (upsertError) {
       setError("Failed to save profile. Please try again.");

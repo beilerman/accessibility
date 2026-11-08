@@ -32,10 +32,8 @@ export default async function ProfilePage() {
   }
 
   const { data: profile } = await supabase
-    .from("profiles")
-    .select("*")
-    .eq("id", user.id)
-    .single<Profile>();
+    .rpc("get_my_profile")
+    .maybeSingle<Profile>();
 
   if (!profile) {
     redirect("/profile/edit");

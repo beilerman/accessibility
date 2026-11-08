@@ -39,34 +39,8 @@ export async function GET(request: NextRequest) {
     const { error } = await supabase.auth.exchangeCodeForSession(code);
 
     if (!error) {
-      // Check if profile exists, create if not
-      const {
-        data: { user },
-      } = await supabase.auth.getUser();
-
-      if (user) {
-        const { data: profile } = await supabase
-          .from("profiles")
-          .select("id")
-          .eq("id", user.id)
-          .single();
-
-        if (!profile) {
-          await supabase.from("profiles").insert({
-            id: user.id,
-            display_name:
-              user.user_metadata?.full_name ??
-              user.email?.split("@")[0] ??
-              "User",
-            avatar_url: user.user_metadata?.avatar_url,
-            mobility_profile: [],
-            is_editor: false,
-            is_admin: false,
-            review_count: 0,
-          });
-        }
-      }
-
+      // Profiles are created by the on_auth_user_created database trigger
+      // (supabase/migrations/002); clients have no INSERT grant on profiles.
       return NextResponse.redirect(`${origin}${redirect}`);
     }
   }
