@@ -1,7 +1,8 @@
 -- Harden community permissions before any account feature is enabled.
 --
 -- Fixes found in the 2026-09-10 readiness review and confirmed against the
--- live database on 2026-11-08 (all tables empty, community features off):
+-- live database on 2026-11-08 (107 venues, 2 seeded profiles, 3 sample
+-- reviews; community features off). Applied live 2026-11-08:
 --   * users could grant themselves is_admin / is_editor
 --   * authors could self-publish or self-approve reviews
 --   * any user could attach photos to anyone's review; photos of unpublished

@@ -34,7 +34,7 @@ The earlier advisor result returned no lints during startup and is not treated a
 
 **Live state (read-only inspection).** ThresholdAccess holds data: 107 venues, 2 seeded profiles with no auth users, and the 3 March sample editorials, still `published`/`approved` under Matthew Brothers' byline. The live history also has `remove_profiles_auth_fk_for_seeding`, which was never checked in; it is now recorded as `001a_...`. Grants match Supabase defaults: anon and authenticated hold every table privilege, including TRUNCATE. **The deployed site bundle contains the project URL and public key**, so these gaps are reachable directly through the API even though the UI is read-only. Concretely: anyone can read the sample editorials and every profile column, including `mobility_profile`. If Auth sign-ups are open, a new account could insert photo rows on published reviews.
 
-**Fix (tested, not yet applied live).**
+**Fix (tested; applied live 2026-11-08 with user approval).**
 - `002_harden_community_permissions.sql` revokes all client privileges, then grants back by column. Ordinary users can no longer touch `is_admin`, `is_editor`, `review_count`, `status`, `published`, `featured`, `is_editorial`, `body_html` or `helpful_count`.
 - Only public profile columns are readable; owners read private fields through `get_my_profile()`. A trigger creates each profile on sign-up.
 - Authors submit, edit and withdraw only their own pending reviews and can read them back. A table constraint makes publication require approval.
@@ -45,8 +45,13 @@ The earlier advisor result returned no lints during startup and is not treated a
 **Evidence.** `src/__tests__/db/rls.test.ts` runs the migrations in PGlite (real Postgres in WebAssembly) with Supabase's default grants reproduced. It covers anonymous, user A, user B and moderator, testing allowed and denied reads/writes, privilege escalation, cross-user edits, moderation rules, photo isolation and TRUNCATE: 15 tests. Against the old schema, 13 of 14 authorization tests fail (once the missing profiles are patched in); with the migrations, all pass. The harness does not exercise Supabase Auth, PostgREST, Storage or the live project.
 
 **Still required before enabling community features.**
-- Apply 002/003 live; this requires user confirmation. Then run the advisor and a live role-switched check.
 - Decide whether Auth sign-ups should stay closed until launch.
 - Update app code: profile reads must select explicit public columns or call `get_my_profile()`; the callback must stop inserting profiles; the review form must not send `published`/`status`.
 - Create the private `review-uploads` storage bucket with owner-path policies; owner claims (item 5); consent and moderation UI.
+
+**Live verification after applying 002 and 003 (2026-11-08):**
+- Privilege checks: anon cannot read `mobility_profile` but can read `display_name`. Signed-in users cannot update `is_admin`, insert `published` or update `status`, but can update `bio`. Anon holds no TRUNCATE, cannot insert venues and cannot execute `moderate_review`. The sign-up trigger exists.
+- Data: 107 venues and 2 profiles unchanged. All 3 sample editorials are `rejected`/unpublished with the archive note.
+- Real API probes with the public key from the live bundle: reviews `[]`; profile names readable; `mobility_profile` and `select=*` refused (42501); venues readable; review photos `[]`; venue insert refused; `moderate_review` refused.
+- Security advisor: warnings only, all intended. These are GraphQL visibility of tables that are deliberately public-readable under RLS and column grants, and the three SECURITY DEFINER functions meant for signed-in users, each of which checks the caller. No errors.
 
