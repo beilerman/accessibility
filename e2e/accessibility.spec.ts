@@ -348,3 +348,19 @@ test("recent changes list corrections and withdrawals with links to the note", a
   await expect(page.locator("#creation-museum\\.sensory\\.1")).toBeInViewport();
 });
 
+test("every page reflows at 320px without sideways scrolling (WCAG 1.4.10)", async ({
+  page,
+}) => {
+  const slugs = places.map((p) => `/venues/${p.slug}`);
+  await page.setViewportSize({ width: 320, height: 800 });
+  const overflowing: string[] = [];
+  for (const path of [...routes, ...slugs]) {
+    await page.goto(path);
+    const fits = await page.evaluate(
+      () => document.documentElement.scrollWidth <= document.documentElement.clientWidth,
+    );
+    if (!fits) overflowing.push(path);
+  }
+  expect(overflowing).toEqual([]);
+});
+

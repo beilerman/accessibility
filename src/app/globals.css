@@ -211,3 +211,7 @@ body {
 .update-list { list-style: none; padding-left: 0; }
 .update-list > li { border-left: 2px solid var(--border); padding-left: 14px; margin: 14px 0; line-height: 1.6; }
 
+/* WCAG 1.4.10 reflow: long URLs in limitations must not force sideways scrolling at 320px. */
+.detail-grid > * { min-width: 0; }
+.before-panel, .fact-note, .update-list { overflow-wrap: anywhere; }
+h1, h2, h3 { overflow-wrap: break-word; }
