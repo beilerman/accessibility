@@ -6010,5 +6010,711 @@
     "slug": "go-bananas-comedy-club",
     "evidence_type": "public_website",
     "observed_at": null
+  },
+  {
+    "name": "Ark Encounter",
+    "city": "Williamstown",
+    "state": "KY",
+    "category": "Museums & attractions",
+    "address": "1 Ark Encounter Drive, Williamstown, KY 41097",
+    "website": "https://arkencounter.com/",
+    "source_url": "https://arkencounter.com/accessibility/",
+    "limitations": "Public website information; no on-site audit. Confirm the shuttle you board, distances from parking and drop-off, the adult changing table location, and current rental availability before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "ark-encounter",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The venue describes the Ark as fully wheelchair and stroller accessible, with ramps at every entrance and exit door, gradual ramps through the main exhibits, and an elevator between floors.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Manual wheelchairs rent for $15 and a limited number of electric convenience vehicles (ECVs) for $45; rental fees are nonrefundable.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is in the main lot. The parking shuttles include ADA-compliant buses with doors wide enough for wheelchairs, regular strollers and smaller ECVs.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "At Ararat Ridge Zoo the pens are viewable from paved trails, but the Children's Zoo pathways are gravel. The carousel deck is flush with the floor and can secure manual wheelchairs, not motorized ones.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "All restrooms are described as accessible. For adult changing tables, the venue asks guests to speak with Guest Services in the Welcome Center. A service animal relief area is beside Emzara's Buffet.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Free sensory kits, noise-reducing earmuffs and earplugs are available. Earmuffs and earplugs are at the admissions building and the Welcome Center Guest Services desk; sensory kits are at the Welcome Center desk.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The exhibit entrance includes a deliberately loud flood scene with thunder and animal noises. To bypass it, enter Deck 1 by the elevator in the ground-level Gift Shop and turn left. There are no flashing or strobe lights inside the Ark.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Almost all videos and theaters are captioned. Braille books with the exhibit sign text are available on each of the three decks; ask Guest Services on each deck. ASL interpreters are scheduled for select programs on certain dates.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guest Services can be reached at (888) 582-4253 for accessibility questions.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kings Island",
+    "city": "Mason",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "6300 Kings Island Drive, Kings Island, OH 45034",
+    "website": "https://www.sixflags.com/kingsisland",
+    "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+    "limitations": "Public website information; no on-site audit. Ride-by-ride requirements, path grades, accessible parking, restroom facilities and quiet spaces are not established here; read the park's Guest Accessibility Guide and confirm before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "kings-island",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Attraction Accessibility Program gives guests with mobility restrictions or cognitive impairments access to attractions. It does not provide immediate boarding.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guests requesting accommodations are encouraged to get the IBCCES Accessibility Card (IAC) in advance by registering online.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Manual wheelchairs and electric wheelchairs with a sun-shade canopy can be rented for the day; the rentals page lists the current prices.",
+        "source_url": "https://www.sixflags.com/kingsisland/rentals",
+        "id": "kings-island.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Guests with full arm (elbow-restricting) or full leg (knee-restricting) casts or braces are restricted from most rides and water slides at Kings Island and Soak City.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "With at least one week's notice, the park provides ASL interpretation for live shows at its entertainment venues. Braille and large-print copies of the Guest Accessibility Guide are at Guest Services in limited numbers.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "White canes can be used on many attractions, but may need to be collapsed and secured, stored or left with a non-rider where they could be a hazard.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Service animals are welcome; a relief area is next to the restroom at Queen City Stunt Coaster. Service animals are not permitted in water attractions, wet decks, wading pools or lazy rivers.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Krohn Conservatory",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "1501 Eden Park Dr., Cincinnati, OH 45202",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+    "limitations": "Public website information; no on-site audit. Routes beyond the Palm House and waterfall, restroom accessibility, parking and drop-off, and wheelchair availability are not stated. Confirm with Krohn before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "krohn-conservatory",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks says a long sloped interior walkway gives universal access to the Palm House and the waterfall.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "krohn-conservatory.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The facility list includes paved walkways and benches.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+        "id": "krohn-conservatory.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The facility list includes public restrooms; their accessibility is not stated. Only service dogs are allowed inside the building.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+        "id": "krohn-conservatory.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Krohn's phone is 513-421-4086, and it is occasionally closed for private events, so check the events calendar. Cincinnati Parks takes accommodation requests by form; questions go to 513-357-2604.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+        "id": "krohn-conservatory.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cincinnati Reds Hall of Fame and Museum",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "100 Joe Nuxhall Way, Cincinnati, OH 45202",
+    "website": "https://www.mlb.com/reds/hall-of-fame",
+    "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+    "limitations": "Public website information; no on-site audit. Accessible parking, drop-off, the street-level entrance, service animal policy and seating are not described. Confirm with the museum box office before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "cincinnati-reds-hall-of-fame-and-museum",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The museum lists wheelchair accessibility throughout its exhibition galleries and theater, and wheelchair-accessible restrooms.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Manual wheelchairs are lent free of charge, first come, first served.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "From the Central Riverfront Garage under Great American Ball Park, signs for the museum lead to an elevator and stairwell up to its entrance.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "All video presentations are open-captioned. Assisted listening headsets are free at the box office.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Large-format gallery floor plans are free on request at the box office.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Devou Park",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "1201 Park Drive, Covington, KY 41011",
+    "website": "https://www.exploredevoupark.org/",
+    "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/devou-park",
+    "limitations": "Public website information; no on-site audit. The city does not say what ADA Compliant covers at each shelter, or describe paved-trail grades, accessible parking or restroom accessibility. Confirm with Covington Parks & Recreation before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "devou-park",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The city lists ADA Compliant among the features of the Overlook and Volpenhein shelters, without saying what it covers.",
+        "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+        "id": "devou-park.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For Overlook shelter users, the city says the nearest restrooms are at Volpenhein Pavilion, which lists restrooms among its features. Their accessibility is not stated.",
+        "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+        "id": "devou-park.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The park has both paved and natural-surface trails. The natural-surface trails close to all users during and immediately after heavy rain.",
+        "source_url": "https://www.exploredevoupark.org/trails",
+        "id": "devou-park.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park, including the Overlook, is open daily from dawn until dark. For help reserving the Overlook, contact recreation@covingtonky.gov or (859) 292-2151.",
+        "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+        "id": "devou-park.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kenton County Public Library — Erlanger Branch",
+    "city": "Erlanger",
+    "state": "KY",
+    "category": "Libraries",
+    "address": "401 Kenton Lands Road, Erlanger, KY 41018",
+    "website": "https://www.kentonlibrary.org/locations/8/",
+    "source_url": "https://www.kentonlibrary.org/locations/8/",
+    "limitations": "Public website information; no on-site audit. The library's accessibility statement does not describe entrances, accessible parking, restrooms or routes. Confirm with the branch before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "kenton-county-public-library-erlanger-branch",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The library states that all areas of the branch are accessible, without describing entrances or routes. Parking is free.",
+        "source_url": "https://www.kentonlibrary.org/locations/8/",
+        "id": "kenton-county-public-library-erlanger-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "During construction the drive-through may be temporarily closed; when it is, staff will bring items out to your vehicle.",
+        "source_url": "https://www.kentonlibrary.org/locations/8/",
+        "id": "kenton-county-public-library-erlanger-branch.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kenton County Public Library — Independence Branch",
+    "city": "Independence",
+    "state": "KY",
+    "category": "Libraries",
+    "address": "1992 Walton-Nicholson Road, Independence, KY 41051",
+    "website": "https://www.kentonlibrary.org/locations/5/",
+    "source_url": "https://www.kentonlibrary.org/locations/5/",
+    "limitations": "Public website information; no on-site audit. The library's accessibility statement does not describe entrances, parking, restrooms or routes. Confirm with the branch before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "kenton-county-public-library-independence-branch",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The library states that all areas of the branch are accessible, without describing entrances or routes.",
+        "source_url": "https://www.kentonlibrary.org/locations/5/",
+        "id": "kenton-county-public-library-independence-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The children's area includes family assisted restrooms.",
+        "source_url": "https://www.kentonlibrary.org/locations/5/",
+        "id": "kenton-county-public-library-independence-branch.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]
