@@ -65,7 +65,10 @@ export default function Sources() {
             pages for changes and recheck each note at least every{" "}
             {RECHECK_AFTER_DAYS} days. A note whose source changed, stopped
             loading or is overdue for a recheck shows a caution until an editor
-            reviews it.
+            reviews it.{" "}
+            <Link href="/updates" className="underline">
+              See recent corrections and withdrawn notes.
+            </Link>
           </dd>
         </div>
         <div>

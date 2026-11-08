@@ -10,6 +10,7 @@ const routes = [
   "/venues/tql-stadium",
   "/about",
   "/sources",
+  "/updates",
   "/visitor-reports",
   "/accessibility",
   "/access-in-pictures",
@@ -329,5 +330,21 @@ test("each access note shows its own source type, check date and history", async
   await expect(page.getByText("blanket statement about accessible paved")).toHaveCount(0);
   await expect(page.locator("#sharon-woods\\.mobility\\.2")).toHaveCount(0);
   await expect(page.getByText("will stay lowered until spring 2027")).toBeVisible();
+});
+
+test("recent changes list corrections and withdrawals with links to the note", async ({
+  page,
+}) => {
+  await page.goto("/updates");
+  const corrected = page.getByRole("heading", { name: /Corrected/ }).first();
+  await expect(corrected).toBeVisible();
+  await expect(page.getByText(/photosensitive-epilepsy warning/)).toBeVisible();
+  await expect(page.getByText(/Withdrawn wording:.*paved/)).toBeVisible();
+  await page
+    .getByRole("link", { name: "Creation Museum" })
+    .first()
+    .click();
+  await expect(page).toHaveURL(/\/venues\/creation-museum#creation-museum\.sensory\.1$/);
+  await expect(page.locator("#creation-museum\\.sensory\\.1")).toBeInViewport();
 });
 

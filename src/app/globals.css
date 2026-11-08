@@ -207,3 +207,7 @@ body {
 .visitor-report { padding:24px 0; border-top:1px solid var(--border); overflow-wrap:anywhere; }
 .report-method { padding:20px 0; border-top:1px solid var(--border); border-bottom:1px solid var(--border); line-height:1.8; }
 #visitor-reports, #visitor-evidence { scroll-margin-top:90px; }
+.update-day { border-top: 1px solid var(--border); padding-top: 8px; margin-top: 28px; }
+.update-list { list-style: none; padding-left: 0; }
+.update-list > li { border-left: 2px solid var(--border); padding-left: 14px; margin: 14px 0; line-height: 1.6; }
+

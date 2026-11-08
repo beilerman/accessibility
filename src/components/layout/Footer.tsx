@@ -19,6 +19,7 @@ export function Footer() {
             <Link href="/visitor-reports">Visitor reports</Link>
             <Link href="/access-in-pictures">Visual guide</Link>
             <Link href="/sources">Sources & evidence</Link>
+            <Link href="/updates">Recent changes</Link>
             <Link href="/accessibility">Using this site</Link>
             <Link href="/about">About</Link>
           </nav>

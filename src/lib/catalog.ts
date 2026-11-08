@@ -144,3 +144,46 @@ export function dateLabel(iso: string) {
     timeZone: "UTC",
   }).format(new Date(iso + "T12:00:00Z"));
 }
+
+export interface CatalogChange {
+  date: string;
+  action: "revised" | "retired" | "added" | "flagged";
+  note: string;
+  fact: Fact;
+  place: PublicPlace;
+}
+
+/**
+ * Editorial changes worth showing publicly, newest first. Routine rechecks
+ * are counted, not listed; notes added in the initial September 2026
+ * catalog build are summarized rather than listed one by one.
+ */
+export function catalogChanges(records: PublicPlace[] = catalogRecords) {
+  const changes: CatalogChange[] = [];
+  const rechecks = new Map<string, number>();
+  for (const place of records) {
+    for (const fact of place.facts) {
+      fact.history.forEach((h, i) => {
+        if (h.action === "rechecked") {
+          rechecks.set(h.date, (rechecks.get(h.date) ?? 0) + 1);
+        } else if (!(h.action === "added" && i === 0 && h.date < "2026-11-01")) {
+          changes.push({ date: h.date, action: h.action, note: h.note, fact, place });
+        }
+      });
+    }
+  }
+  const order = { revised: 0, retired: 1, flagged: 2, added: 3 } as const;
+  changes.sort(
+    (a, b) =>
+      b.date.localeCompare(a.date) ||
+      order[a.action] - order[b.action] ||
+      a.place.name.localeCompare(b.place.name),
+  );
+  return {
+    changes,
+    rechecks: [...rechecks.entries()]
+      .map(([date, count]) => ({ date, count }))
+      .sort((a, b) => b.date.localeCompare(a.date)),
+  };
+}
+

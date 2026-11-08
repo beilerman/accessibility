@@ -8,6 +8,7 @@ import {
   factNeedsCaution,
   recheckDueDate,
   latestRetrieval,
+  catalogChanges,
 } from "@/lib/catalog";
 import { getVenues, getEditorialReviews, getFeaturedReview } from "@/lib/data";
 
@@ -83,6 +84,24 @@ describe("Public-source evidence contract", () => {
     expect(
       factNeedsCaution({ ...fresh, review_status: "needs_recheck" }, "2026-09-11"),
     ).toBe(true);
+  });
+  it("lists editorial changes newest first and counts routine rechecks", () => {
+    const { changes, rechecks } = catalogChanges();
+    const dates = changes.map((c) => c.date);
+    expect([...dates].sort().reverse()).toEqual(dates);
+    expect(changes.some((c) => c.action === "rechecked" as never)).toBe(false);
+    // The safety-relevant Creation Museum revision is visible.
+    expect(
+      changes.some((c) => c.action === "revised" && c.fact.id === "creation-museum.sensory.1"),
+    ).toBe(true);
+    // Retired notes appear, with their withdrawn text still available.
+    const retired = changes.find((c) => c.fact.id === "sharon-woods.mobility.2");
+    expect(retired?.action).toBe("retired");
+    expect(retired?.fact.text).toMatch(/paved/);
+    // Initial September catalog additions are summarized, not listed.
+    expect(changes.some((c) => c.action === "added" && c.date === "2026-09-10")).toBe(false);
+    const total = allFacts.flatMap((f) => f.history).filter((h) => h.action === "rechecked").length;
+    expect(rechecks.reduce((n, r) => n + r.count, 0)).toBe(total);
   });
   it("combines text, location, category and information coverage without a fit score", () => {
     const selected = findPlaces({
