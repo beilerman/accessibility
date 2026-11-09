@@ -24,14 +24,19 @@ export function CategoryArt({
         }
       />
       <figcaption className="photo-caption">
-        <p className="font-medium text-foreground">
-          AI artwork · {item.category}
-        </p>
-        <p>
-          {compact
-            ? "Imagined scene, not a photograph of this venue."
-            : item.caption}
-        </p>
+        {compact ? (
+          <p>
+            AI artwork · {item.category}.{" "}
+            <span>Imagined scene, not a photograph of this venue.</span>
+          </p>
+        ) : (
+          <>
+            <p className="font-medium text-foreground">
+              AI artwork · {item.category}
+            </p>
+            <p>{item.caption}</p>
+          </>
+        )}
       </figcaption>
     </figure>
   );

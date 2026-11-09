@@ -12,7 +12,19 @@ import {
   User,
   LogIn,
   LogOut,
+  MessageSquareText,
+  Images,
+  History,
 } from "lucide-react";
+
+const mobileLinks = [
+  { href: "/venues", label: "Browse places", Icon: MapPin },
+  { href: "/visitor-reports", label: "Visitor reports", Icon: MessageSquareText },
+  { href: "/access-in-pictures", label: "Visual guide", Icon: Images },
+  { href: "/sources", label: "Sources", Icon: BookOpen },
+  { href: "/updates", label: "Recent changes", Icon: History },
+  { href: "/about", label: "About", Icon: Info },
+];
 import type { User as SupabaseUser } from "@supabase/supabase-js";
 
 interface MobileNavProps {
@@ -49,59 +61,22 @@ export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
       className="md:hidden border-t border-border bg-background"
     >
       <div className="px-4 py-4 space-y-1">
-        <Link
-          href="/venues"
-          className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
-            pathname === "/venues"
-              ? "bg-accent/10 text-accent font-medium"
-              : "text-muted-foreground hover:text-foreground hover:bg-muted"
-          }`}
-          onClick={onClose}
-        >
-          <MapPin className="h-5 w-5" aria-hidden="true" />
-          Browse places
-        </Link>
-        <Link
-          href="/sources"
-          className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
-            pathname === "/sources"
-              ? "bg-accent/10 text-accent font-medium"
-              : "text-muted-foreground hover:text-foreground hover:bg-muted"
-          }`}
-          onClick={onClose}
-        >
-          <BookOpen className="h-5 w-5" aria-hidden="true" />
-          Sources
-        </Link>
-        <Link
-          href="/about"
-          className={`flex items-center gap-3 px-3 py-3 rounded-lg transition-colors min-h-[44px] ${
-            pathname === "/about"
-              ? "bg-accent/10 text-accent font-medium"
-              : "text-muted-foreground hover:text-foreground hover:bg-muted"
-          }`}
-          onClick={onClose}
-        >
-          <Info className="h-5 w-5" aria-hidden="true" />
-          About
-        </Link>
-
-        <Link
-          href="/access-in-pictures"
-          onClick={onClose}
-          className="flex items-center gap-3 px-3 py-3 rounded-lg min-h-[44px] text-muted-foreground hover:text-foreground hover:bg-muted"
-        >
-          <BookOpen className="h-5 w-5" aria-hidden="true" />
-          Visual guide
-        </Link>
-        <Link
-          href="/visitor-reports"
-          onClick={onClose}
-          className="flex items-center gap-3 px-3 py-3 rounded-lg min-h-[44px] text-muted-foreground hover:text-foreground hover:bg-muted"
-        >
-          <BookOpen className="h-5 w-5" aria-hidden="true" />
-          Visitor reports
-        </Link>
+        {mobileLinks.map(({ href, label, Icon }) => (
+          <Link
+            key={href}
+            href={href}
+            onClick={onClose}
+            aria-current={pathname === href ? "page" : undefined}
+            className={`flex items-center gap-3 px-3 py-3 rounded-xl transition-colors min-h-[48px] text-lg ${
+              pathname === href
+                ? "bg-accent-soft text-foreground font-bold"
+                : "text-foreground hover:bg-muted"
+            }`}
+          >
+            <Icon className="h-5 w-5 text-accent" aria-hidden="true" />
+            {label}
+          </Link>
+        ))}
         {/* Divider */}
         {COMMUNITY_ENABLED && <div className="h-px bg-border my-2" />}
 

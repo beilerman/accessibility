@@ -27,31 +27,46 @@ export function VenuePhoto({
             : "(max-width: 1240px) 95vw, 1192px"
         }
       />
-      <figcaption className="photo-caption">
-        <p className="font-medium text-foreground">
-          Venue photo
-          {photo.photoDate ? ` · ${photo.photoDate}` : " · Date unknown"}
-        </p>
-        {!compact && <p>{photo.caption}</p>}
-        <p>
-          <a href={photo.sourceUrl} target="_blank" rel="noopener noreferrer">
-            {photo.creditText || `Photo: ${photo.author}`}
-            <span className="sr-only"> (source opens in new tab)</span>
-          </a>
-          {" · "}
-          <a href={photo.licenseUrl} target="_blank" rel="noopener noreferrer">
-            {photo.license}
-            <span className="sr-only"> (license opens in new tab)</span>
-          </a>
-        </p>
-        {!compact && (
+      {compact ? (
+        <figcaption className="photo-caption">
+          <p>
+            Photo{photo.photoDate ? ` · ${photo.photoDate.slice(0, 4)}` : ""} ·{" "}
+            <a href={photo.sourceUrl} target="_blank" rel="noopener noreferrer">
+              {photo.author}
+              <span className="sr-only"> (photo source opens in new tab)</span>
+            </a>
+            {" · "}
+            <a href={photo.licenseUrl} target="_blank" rel="noopener noreferrer">
+              {photo.license.replace(/ \(.*\)$/, "")}
+              <span className="sr-only"> (license opens in new tab)</span>
+            </a>
+          </p>
+        </figcaption>
+      ) : (
+        <figcaption className="photo-caption">
+          <p className="font-medium text-foreground">
+            Venue photo
+            {photo.photoDate ? ` · ${photo.photoDate}` : " · Date unknown"}
+          </p>
+          <p>{photo.caption}</p>
+          <p>
+            <a href={photo.sourceUrl} target="_blank" rel="noopener noreferrer">
+              {photo.creditText || `Photo: ${photo.author}`}
+              <span className="sr-only"> (source opens in new tab)</span>
+            </a>
+            {" · "}
+            <a href={photo.licenseUrl} target="_blank" rel="noopener noreferrer">
+              {photo.license}
+              <span className="sr-only"> (license opens in new tab)</span>
+            </a>
+          </p>
           <p>
             Context photograph. Access details and current conditions require
             separate confirmation. Resized and converted to WebP; full frame
             retained.
           </p>
-        )}
-      </figcaption>
+        </figcaption>
+      )}
     </figure>
   );
 }

@@ -1,5 +1,9 @@
 import type { Metadata } from "next";
-import { DM_Serif_Display, Source_Sans_3, JetBrains_Mono } from "next/font/google";
+import {
+  Fraunces,
+  Atkinson_Hyperlegible_Next,
+  JetBrains_Mono,
+} from "next/font/google";
 import { ThemeProvider } from "next-themes";
 import { SITE_ORIGIN } from "@/lib/site";
 import { SkipToContent } from "@/components/shared/SkipToContent";
@@ -8,17 +12,22 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import "./globals.css";
 
-const dmSerifDisplay = DM_Serif_Display({
-  variable: "--font-dm-serif-display",
+// Fraunces: a warm, soft serif for headings.
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
   subsets: ["latin"],
-  weight: "400",
+  style: ["normal", "italic"],
+  axes: ["SOFT", "WONK", "opsz"],
   display: "swap",
 });
 
-const sourceSans3 = Source_Sans_3({
-  variable: "--font-source-sans-3",
+// Atkinson Hyperlegible Next: designed by the Braille Institute so that
+// easily confused letters stay distinct for low-vision readers.
+const atkinson = Atkinson_Hyperlegible_Next({
+  variable: "--font-atkinson",
   subsets: ["latin"],
   display: "swap",
+  adjustFontFallback: false,
 });
 
 const jetbrainsMono = JetBrains_Mono({
@@ -51,7 +60,7 @@ export default function RootLayout({
     <html
       lang="en"
       suppressHydrationWarning
-      className={`${dmSerifDisplay.variable} ${sourceSans3.variable} ${jetbrainsMono.variable}`}
+      className={`${fraunces.variable} ${atkinson.variable} ${jetbrainsMono.variable}`}
     >
       <body className="min-h-screen flex flex-col bg-background text-foreground antialiased">
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>

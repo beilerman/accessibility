@@ -1,12 +1,13 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
 import { useState, useEffect, useMemo, useCallback } from "react";
 import { Search, Menu, X, User, LogOut } from "lucide-react";
 import { DarkModeToggle } from "@/components/shared/DarkModeToggle";
 import { MobileNav } from "./MobileNav";
+import { BrandMark } from "./BrandMark";
 import { createClient } from "@/lib/supabase/client";
 import type { User as SupabaseUser } from "@supabase/supabase-js";
 
@@ -20,6 +21,7 @@ const navLinks = [
 
 export function Header() {
   const router = useRouter();
+  const pathname = usePathname();
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [user, setUser] = useState<SupabaseUser | null>(null);
   const supabase = useMemo(
@@ -53,30 +55,30 @@ export function Header() {
   }, [supabase, router]);
 
   return (
-    <header className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
+    <header className="site-header">
+      <div className="page-shell">
+        <div className="flex items-center justify-between h-[68px]">
           {/* Logo */}
-          <Link
-            href="/"
-            className="flex items-center gap-2 font-display text-xl font-bold text-foreground hover:text-accent transition-colors"
-          >
-            <span aria-hidden="true" className="text-accent text-2xl">
-              &#9899;
-            </span>
+          <Link href="/" className="brand">
+            <BrandMark />
             Threshold
           </Link>
 
           {/* Desktop nav */}
           <nav
             aria-label="Primary"
-            className="hidden md:flex items-center gap-6"
+            className="hidden md:flex items-center gap-7"
           >
             {navLinks.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors min-h-[44px] flex items-center"
+                className="nav-link"
+                aria-current={
+                  pathname === link.href || pathname.startsWith(link.href + "/")
+                    ? "page"
+                    : undefined
+                }
               >
                 {link.label}
               </Link>
@@ -92,10 +94,10 @@ export function Header() {
           </nav>
 
           {/* Desktop actions */}
-          <div className="hidden md:flex items-center gap-3">
+          <div className="hidden md:flex items-center gap-1">
             <Link
               href="/venues"
-              className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
+              className="icon-button"
               aria-label="Search places"
             >
               <Search className="h-5 w-5" />
@@ -135,7 +137,7 @@ export function Header() {
             <DarkModeToggle />
             <button
               onClick={() => setMobileNavOpen(!mobileNavOpen)}
-              className="p-2 rounded-lg text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px]"
+              className="icon-button"
               aria-label={mobileNavOpen ? "Close menu" : "Open menu"}
               aria-expanded={mobileNavOpen}
               aria-controls="mobile-nav"

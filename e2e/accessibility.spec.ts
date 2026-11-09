@@ -421,3 +421,26 @@ test("reviewed places are surfaced on the homepage and in recent changes", async
   ).toBeVisible();
   await expect(page.getByText(/New Threshold reviews \(3\)/)).toBeVisible();
 });
+
+test("navigation marks the current section and hero photos link to real places", async ({
+  page,
+}) => {
+  await page.goto("/");
+  const hero = page.locator(".arch-trio");
+  await expect(hero.getByRole("link")).toHaveCount(3);
+  await expect(page.locator(".arch-credits")).toContainText("Photos:");
+  await hero.getByRole("link", { name: /Cincinnati Music Hall/ }).click();
+  await expect(page).toHaveURL(/\/venues\/cincinnati-music-hall$/);
+  await expect(
+    page.getByRole("navigation", { name: "Primary" }).getByRole("link", {
+      name: "Browse places",
+    }),
+  ).toHaveAttribute("aria-current", "page");
+  await page.goto("/sources");
+  await expect(
+    page.getByRole("navigation", { name: "Primary" }).getByRole("link", {
+      name: "Sources",
+    }),
+  ).toHaveAttribute("aria-current", "page");
+});
+

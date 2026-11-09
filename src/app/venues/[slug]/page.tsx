@@ -1,7 +1,22 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { ArrowLeft, ArrowUpRight, MapPin } from "lucide-react";
+import {
+  ArrowLeft,
+  ArrowUpRight,
+  MapPin,
+  Route,
+  Ear,
+  BookOpen,
+  Coffee,
+} from "lucide-react";
+
+const DOMAIN_ICONS = {
+  mobility: Route,
+  sensory: Ear,
+  cognitive: BookOpen,
+  chronic: Coffee,
+} as const;
 import {
   places,
   DOMAIN_LABELS,
@@ -54,64 +69,79 @@ export default async function PlacePage({
   const aiImage = aiImageForPlace(p.slug);
   const artwork = artForCategory(p.category);
   return (
-    <div className="page-shell py-10">
+    <div className="page-shell py-8">
       <Link
         href="/venues"
-        className="inline-flex items-center gap-2 min-h-11 text-sm underline"
+        className="inline-flex items-center gap-2 min-h-11 text-sm font-semibold underline underline-offset-4"
       >
         <ArrowLeft aria-hidden="true" className="h-4 w-4" />
         All places
       </Link>
-      <div className="detail-heading">
-        <p className="eyebrow">
-          {p.category} ·{" "}
-          {p.state === "KY" ? "NORTHERN KENTUCKY" : "GREATER CINCINNATI"}
-        </p>
-        <h1 className="font-display text-4xl sm:text-5xl mt-4">{p.name}</h1>
-        <p className="flex items-center gap-2 mt-4 text-muted-foreground">
-          <MapPin aria-hidden="true" className="h-4 w-4" />
-          {p.city}, {p.state}
-        </p>
-      </div>
-      {photo ? (
-        <VenuePhoto photo={photo} />
-      ) : aiImage ? (
-        <AiVenueImage image={aiImage} />
-      ) : artwork ? (
-        <CategoryArt item={artwork} />
-      ) : null}
-      <div className="evidence-banner">
-        <strong>From official public websites</strong>
-        <span>
-          Sources last checked {dateLabel(latestRetrieval(p))} ·{" "}
-          {teamReview ? (
-            <a href="#threshold-review" className="underline">
-              Includes a firsthand Threshold review
-            </a>
-          ) : (
-            "Not field audited"
+      <div className="detail-hero">
+        <div className="detail-heading">
+          <p className="eyebrow">
+            {p.category} ·{" "}
+            {p.state === "KY" ? "NORTHERN KENTUCKY" : "GREATER CINCINNATI"}
+          </p>
+          <h1 className="font-display">{p.name}</h1>
+          <p className="flex items-center gap-2 mt-4 text-lg text-muted-foreground">
+            <MapPin aria-hidden="true" className="h-5 w-5" />
+            {p.city}, {p.state}
+          </p>
+          {teamReview && (
+            <p className="mt-5">
+              <a href="#threshold-review" className="badge-firsthand">
+                Firsthand Threshold review
+                <span className="sr-only"> (jump to review)</span>
+              </a>
+            </p>
           )}
-        </span>
-        <p>
-          The date records our source check, not a visit or confirmation by the
-          venue. No organization account has verified this listing.
-        </p>
+          <div className="evidence-banner">
+            <strong>From official public websites</strong>
+            <span>
+              Sources last checked {dateLabel(latestRetrieval(p))} ·{" "}
+              {teamReview ? (
+                <a href="#threshold-review" className="underline">
+                  Includes a firsthand Threshold review
+                </a>
+              ) : (
+                "Not field audited"
+              )}
+            </span>
+            <p>
+              The date records our source check, not a visit or confirmation by
+              the venue. No organization account has verified this listing.
+            </p>
+          </div>
+        </div>
+        {photo ? (
+          <VenuePhoto photo={photo} />
+        ) : aiImage ? (
+          <AiVenueImage image={aiImage} />
+        ) : artwork ? (
+          <CategoryArt item={artwork} />
+        ) : null}
       </div>
       {teamReview && <TeamReview review={teamReview} />}
       <div className="detail-grid">
         <div>
-          <h2 className="font-display text-3xl mb-7">
+          <p className="eyebrow">FROM OFFICIAL SOURCES</p>
+          <h2 className="font-display text-4xl mt-3 mb-7">
             What the venue publishes
           </h2>
           {Object.entries(DOMAIN_LABELS).map(([key, label]) => {
             const facts = p.facts.filter((f) => f.domain === key);
+            const Icon = DOMAIN_ICONS[key as keyof typeof DOMAIN_LABELS];
             return (
               <section className="fact-group" key={key} aria-labelledby={key}>
-                <h3 id={key} className="font-semibold text-xl mb-4">
+                <h3 id={key}>
+                  <span className="domain-icon">
+                    <Icon aria-hidden="true" className="h-5 w-5" />
+                  </span>
                   {label}
                 </h3>
                 {facts.length ? (
-                  <ul className="space-y-5">
+                  <ul className="fact-list">
                     {facts.map((f, i) => {
                       const caution = factNeedsCaution(f);
                       return (
@@ -139,6 +169,7 @@ export default async function PlacePage({
                               </>
                             )}
                           </p>
+                          <div className="fact-actions">
                           <a
                             href={f.source_url}
                             target="_blank"
@@ -180,6 +211,7 @@ export default async function PlacePage({
                               <code>{f.id}</code>
                             </p>
                           </details>
+                          </div>
                         </li>
                       );
                     })}
@@ -206,7 +238,7 @@ export default async function PlacePage({
               timing you need. Services and spaces may vary by event.
             </p>
           </section>
-          <section className="place-card">
+          <section className="panel-card">
             <h2 className="font-display text-2xl">Plan your visit</h2>
             <p>
               {p.address ||

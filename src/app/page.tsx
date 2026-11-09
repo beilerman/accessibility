@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { ArrowRight, BookOpen, Route, Ear, Coffee } from "lucide-react";
 import { places, factCount, DOMAIN_LABELS } from "@/lib/catalog";
 import { PlaceCard } from "@/components/catalog/PlaceCard";
-import { illustrations } from "@/lib/media";
+import { illustrations, photoForPlace } from "@/lib/media";
 import { AccessIllustration } from "@/components/catalog/AccessIllustration";
 import Image from "next/image";
 import { categoryArt } from "@/lib/media";
@@ -15,16 +15,28 @@ export const metadata: Metadata = {
     "Explore source-linked accessibility information for places in Northern Kentucky and Greater Cincinnati. Mobility, sensory, planning and everyday needs.",
 };
 const icons = [Route, Ear, BookOpen, Coffee];
+const heroSlugs = [
+  "cincinnati-music-hall",
+  "cincinnati-museum-center",
+  "southgate-house-revival",
+];
+const quickSearches = ["wheelchair", "elevator", "sensory", "parking"];
+
 export default function Home() {
   const reviewed = places.filter((p) =>
     teamReviews.some((r) => r.placeSlug === p.slug),
   );
+  const heroPlaces = heroSlugs.flatMap((slug) => {
+    const place = places.find((p) => p.slug === slug);
+    const photo = photoForPlace(slug);
+    return place && photo ? [{ place, photo }] : [];
+  });
   const featured = [
     "newport-aquarium",
     "cincinnati-art-museum",
-    "cincinnati-museum-center",
+    "ark-encounter",
     "the-carnegie",
-    "cincinnati-music-hall",
+    "krohn-conservatory",
     "bb-riverboats",
   ].flatMap((slug) => places.filter((p) => p.slug === slug));
   return (
@@ -61,27 +73,62 @@ export default function Home() {
               Explore <ArrowRight aria-hidden="true" className="h-4 w-4" />
             </button>
           </form>
-          <p className="text-sm text-muted-foreground mt-4">
+          <p className="hero-chips">
+            <span>Try:</span>
+            {quickSearches.map((q) => (
+              <Link key={q} href={`/venues?q=${q}`}>
+                {q}
+              </Link>
+            ))}
+          </p>
+          <p className="text-sm text-muted-foreground mt-5">
             No account needed. Every access note links to its source.
           </p>
         </div>
-        <aside className="hero-visual" aria-label="Illustrated access guide">
-          {illustrations[0] && <AccessIllustration item={illustrations[0]} />}
-          <h2 className="font-display text-2xl mt-5">
-            Small details. Better questions.
-          </h2>
-          <p className="mt-3 text-muted-foreground leading-relaxed">
-            See examples of access features and learn what to confirm before a
-            visit.
+        <div className="hero-visual">
+          <div className="arch-trio">
+            {heroPlaces.map(({ place, photo }) => (
+              <Link
+                key={place.slug}
+                href={`/venues/${place.slug}`}
+                className="arch"
+              >
+                <span className="arch-frame">
+                  <Image
+                    src={photo.src}
+                    width={photo.width}
+                    height={photo.height}
+                    alt={photo.alt}
+                    sizes="(max-width: 700px) 30vw, 200px"
+                    priority
+                  />
+                </span>
+                <span className="arch-label">{place.name}</span>
+                <span className="arch-city">
+                  {place.city}, {place.state}
+                </span>
+              </Link>
+            ))}
+          </div>
+          <p className="arch-credits">
+            Photos:{" "}
+            {heroPlaces.map(({ photo }, i) => (
+              <span key={photo.slug}>
+                {i > 0 && " · "}
+                <a
+                  href={photo.sourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {photo.author}
+                  <span className="sr-only"> (photo source opens in new tab)</span>
+                </a>{" "}
+                ({photo.license})
+              </span>
+            ))}
+            . Cropped to fit; full frames are on each place page.
           </p>
-          <Link
-            href="/access-in-pictures"
-            className="inline-flex items-center gap-2 underline min-h-11 mt-4"
-          >
-            Explore the visual guide{" "}
-            <ArrowRight aria-hidden="true" className="h-4 w-4" />
-          </Link>
-        </aside>
+        </div>
       </section>
       <div className="catalog-stats" aria-label="Directory coverage">
         <p>
@@ -91,28 +138,30 @@ export default function Home() {
           <strong>{factCount}</strong> source-linked access notes
         </p>
         <p>
-          <strong>2</strong> sides of the river
+          <strong>{teamReviews.length}</strong> firsthand Threshold reviews
         </p>
         <p>
-          <strong>0</strong> field audits so far
+          <strong>2</strong> sides of the river
         </p>
       </div>
-      <section
-        className="py-12 border-b border-border"
-        aria-labelledby="needs-heading"
-      >
+      <section className="home-section" aria-labelledby="needs-heading">
         <p className="eyebrow">START WITH WHAT MATTERS TO YOU</p>
-        <h2 id="needs-heading" className="font-display text-3xl mt-3">
+        <h2 id="needs-heading" className="font-display text-4xl mt-3">
           What would you like to know?
         </h2>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-7">
+        <div className="need-grid">
           {Object.entries(DOMAIN_LABELS).map(([k, v], i) => {
             const Icon = icons[i];
             return (
               <Link key={k} href={`/venues?domain=${k}`} className="need-link">
-                <Icon aria-hidden="true" className="h-6 w-6 text-accent mb-5" />
+                <span className="need-icon">
+                  <Icon aria-hidden="true" className="h-6 w-6" />
+                </span>
                 <span>{v}</span>
-                <ArrowRight aria-hidden="true" className="h-4 w-4 mt-4" />
+                <span className="need-more">
+                  <span className="need-more-text">See places</span>{" "}
+                  <ArrowRight aria-hidden="true" className="h-4 w-4" />
+                </span>
               </Link>
             );
           })}
@@ -122,46 +171,13 @@ export default function Home() {
           place will work for you.
         </p>
       </section>
-      <section
-        className="py-12 border-b border-border"
-        aria-labelledby="categories-heading"
-      >
-        <p className="eyebrow">MAKE A DAY OF IT</p>
-        <h2 id="categories-heading" className="font-display text-3xl mt-3">
-          Find your kind of place.
-        </h2>
-        <div className="category-tiles mt-7">
-          {categoryArt.map((item) => (
-            <Link
-              key={item.category}
-              href={`/venues?category=${encodeURIComponent(item.category)}`}
-              className="category-tile"
-              aria-label={`Explore ${item.category}`}
-            >
-              <Image
-                src={item.src}
-                width={item.width}
-                height={item.height}
-                alt=""
-                sizes="(max-width: 700px) 45vw, 230px"
-              />
-              <span className="font-semibold block px-4 pt-4">
-                {item.category}
-              </span>
-              <span className="block px-4 pb-4 pt-1 text-xs text-muted-foreground">
-                AI category artwork
-              </span>
-            </Link>
-          ))}
-        </div>
-      </section>
       {reviewed.length > 0 && (
-        <section className="py-12" aria-labelledby="reviewed-heading">
+        <section className="reviewed-band" aria-labelledby="reviewed-heading">
           <p className="eyebrow">WHERE WE&apos;VE BEEN</p>
-          <h2 id="reviewed-heading" className="font-display text-3xl mt-3">
+          <h2 id="reviewed-heading" className="font-display text-4xl mt-3">
             Firsthand Threshold reviews
           </h2>
-          <p className="mt-4 max-w-3xl leading-relaxed">
+          <p className="section-lede">
             Places our team has visited and written up, shown alongside what
             each venue publishes.
           </p>
@@ -172,17 +188,53 @@ export default function Home() {
           </div>
         </section>
       )}
-      <section className="py-12" aria-labelledby="explore-heading">
+      <section className="home-section" aria-labelledby="categories-heading">
+        <p className="eyebrow">MAKE A DAY OF IT</p>
+        <h2 id="categories-heading" className="font-display text-4xl mt-3">
+          Find your kind of place.
+        </h2>
+        <div className="category-tiles">
+          {categoryArt.map((item) => {
+            const count = places.filter(
+              (p) => p.category === item.category,
+            ).length;
+            return (
+              <Link
+                key={item.category}
+                href={`/venues?category=${encodeURIComponent(item.category)}`}
+                className="category-tile"
+                aria-label={`Explore ${item.category}`}
+              >
+                <Image
+                  src={item.src}
+                  width={item.width}
+                  height={item.height}
+                  alt=""
+                  sizes="(max-width: 700px) 45vw, (max-width: 1100px) 30vw, 200px"
+                />
+                <span className="category-tile-name">{item.category}</span>
+                <span className="category-tile-count">
+                  {count} {count === 1 ? "place" : "places"}
+                </span>
+              </Link>
+            );
+          })}
+        </div>
+        <p className="text-sm text-muted-foreground mt-4">
+          Category artwork is AI-generated and does not show real venues.
+        </p>
+      </section>
+      <section className="home-section" aria-labelledby="explore-heading">
         <div className="flex flex-wrap justify-between items-end gap-4 mb-8">
           <div>
             <p className="eyebrow">CLOSE TO HOME</p>
-            <h2 id="explore-heading" className="font-display text-3xl mt-3">
+            <h2 id="explore-heading" className="font-display text-4xl mt-3">
               A few places to start
             </h2>
           </div>
           <Link
             href="/venues"
-            className="inline-flex gap-2 items-center underline min-h-11"
+            className="inline-flex gap-2 items-center underline underline-offset-4 font-semibold min-h-11"
           >
             Browse all {places.length} places{" "}
             <ArrowRight aria-hidden="true" className="h-4 w-4" />
@@ -194,7 +246,24 @@ export default function Home() {
           ))}
         </div>
       </section>
-      <section className="before-panel mb-14">
+      <section className="guide-band" aria-labelledby="guide-heading">
+        <div>
+          <p className="eyebrow">THE VISUAL GUIDE</p>
+          <h2 id="guide-heading" className="font-display text-4xl mt-3">
+            Small details. Better questions.
+          </h2>
+          <p className="mt-4">
+            See examples of access features and learn what to confirm before a
+            visit.
+          </p>
+          <Link href="/access-in-pictures" className="guide-cta">
+            Explore the visual guide{" "}
+            <ArrowRight aria-hidden="true" className="h-4 w-4" />
+          </Link>
+        </div>
+        {illustrations[0] && <AccessIllustration item={illustrations[0]} />}
+      </section>
+      <section className="before-panel my-14">
         <h2 className="font-display text-2xl">The last step is yours.</h2>
         <p>
           Conditions can change. Read the linked venue guidance and contact the

@@ -29,7 +29,7 @@ export function AiVenueImage({
         }
       />
       <figcaption className="photo-caption">
-        <p className="font-medium text-foreground">
+        <p className={compact ? undefined : "font-medium text-foreground"}>
           AI-generated image · not a photograph
         </p>
         {!compact && (

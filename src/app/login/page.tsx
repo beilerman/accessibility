@@ -28,7 +28,7 @@ export default async function LoginPage({
           Sign-in, personal profiles, and review submissions will open when our
           community review process is ready.
         </p>
-        <Link href="/venues" className="inline-flex items-center mt-6 px-5 py-3 min-h-[44px] rounded-lg bg-accent text-white font-medium hover:bg-accent-hover">
+        <Link href="/venues" className="primary-button mt-6">
           Browse places
         </Link>
       </div>

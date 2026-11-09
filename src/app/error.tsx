@@ -23,7 +23,7 @@ export default function Error({
       </p>
       <button
         onClick={reset}
-        className="inline-flex items-center gap-2 px-6 py-3 bg-accent text-white font-semibold rounded-lg hover:bg-accent-hover transition-colors min-h-[44px]"
+        className="primary-button"
       >
         <RefreshCw className="h-5 w-5" aria-hidden="true" />
         Try again

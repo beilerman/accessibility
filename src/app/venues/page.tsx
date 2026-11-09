@@ -22,7 +22,7 @@ export default async function VenuesPage({
   );
   const results = findPlaces(filters);
   return (
-    <div className="page-shell py-12">
+    <div className="page-shell pb-12 directory-hero">
       <p className="eyebrow">YOUR LOCAL ACCESS GUIDE</p>
       <h1 className="font-display text-4xl sm:text-5xl mt-3">
         Find your next place.
@@ -40,7 +40,7 @@ export default async function VenuesPage({
           </span>
         </p>
         <p className="text-sm text-muted-foreground">
-          Official public websites · No field audits yet
+          Official public websites · Firsthand reviews are marked
         </p>
       </div>
       <p className="text-sm text-muted-foreground mb-7">

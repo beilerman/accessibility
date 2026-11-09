@@ -12,7 +12,7 @@ export default function NotFound() {
       <div className="flex flex-col sm:flex-row gap-4 justify-center">
         <Link
           href="/venues"
-          className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-accent text-white font-semibold rounded-lg hover:bg-accent-hover transition-colors min-h-[44px]"
+          className="primary-button"
         >
           <Search className="h-5 w-5" aria-hidden="true" />
           Search Venues
