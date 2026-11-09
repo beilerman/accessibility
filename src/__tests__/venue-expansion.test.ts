@@ -22,7 +22,8 @@ describe("November source-backed venue expansion", () => {
         expect(f.source_url).toMatch(/^https:/);
         expect(f.review_status).toBe("source_checked");
         expect(f.observed_at).toBeNull();
-        expect(f.retrieved_at).toBe("2026-11-08");
+        // Guides were added on November 8; later notes may be read on later dates.
+        expect(f.retrieved_at >= "2026-11-08").toBe(true);
       }
     }
   });

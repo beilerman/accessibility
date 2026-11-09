@@ -7,7 +7,7 @@
     "address": "1330 Monmouth Avenue, Cincinnati, OH 45225",
     "website": "https://www.americansignmuseum.org/",
     "source_url": "https://www.americansignmuseum.org/visit",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -78,6 +78,78 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking spaces are along the side of the building, closer to the side lobby entrance.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum recommends at least 60 to 90 minutes for a visit.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Food and drinks are not permitted in the exhibition areas.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Service animals are welcome; other animals should stay home.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -1441,7 +1513,7 @@
     "address": "953 Eden Park Drive, Cincinnati, OH 45202",
     "website": "https://www.cincinnatiartmuseum.org/",
     "source_url": "https://www.cincinnatiartmuseum.org/access",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -1532,6 +1604,114 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is outside the Main Entrance, at the DeWitt Entrance (the ground-floor entrance off the back lot) and near Art Climb. Visitors who cannot walk long distances can be dropped off at the roundabout in front of the Main Entrance.",
+        "source_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+        "id": "cincinnati-art-museum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Four visitor elevators (A to D) link the floors; Elevator D runs from Gallery 104 on the second floor to the Mary R. Schiff Library.",
+        "source_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+        "id": "cincinnati-art-museum.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The ground floor has the most accessible restrooms, including an adjustable universal changing station, with single-room gender-neutral restrooms nearby. A first-floor accessible restroom with a changing table is in the northwest corner of the Great Hall.",
+        "source_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+        "id": "cincinnati-art-museum.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Large bags are checked in the coat room; a bag holding medical needs can instead be inspected when you arrive and leave.",
+        "source_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+        "id": "cincinnati-art-museum.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "ASL interpretation is available for all public programs, and CART captioning for select programs; request either at least two weeks ahead. Assistive listening devices are at the check-in table for Fath Auditorium programs.",
+        "source_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+        "id": "cincinnati-art-museum.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Sighted guides, audio description and touch tours can be scheduled by email at least two weeks ahead. The Terrace Café has Braille menus and the Welcome Cart has Braille booklets.",
+        "source_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+        "id": "cincinnati-art-museum.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -1654,7 +1834,7 @@
     "address": "1301 Western Avenue, Cincinnati, OH 45203",
     "website": "https://www.cincymuseum.org/",
     "source_url": "https://www.cincymuseum.org/visit/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -1747,6 +1927,150 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Medication, pumped milk and required food that must stay cold can be kept in the refrigerator in the Public Safety Quiet Zone.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The accessibility page lists adult changing tables (up to 400 lb) in universal restrooms on the Concourse, on the Mezzanine and on the Lower Level near the Museum of Natural History & Science.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "OMNIMAX wheelchair seating is at the top of the dome, and staff will help guests up the elevator.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "OMNIMAX films offer audio description, closed captioning and assistive listening on request.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The museum suggests weekday afternoons from 3 to 5 p.m. as the quietest time. From December 2026 a short pipe-organ performance (about 3 minutes) is planned on Sunday afternoons at 4:15 p.m.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Deaf Days with ASL are held at least once during each featured exhibit, and a script of featured-exhibit audio is available at the box office.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum says it does not provide social stories, visual schedules or first/then boards.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A caregiver visiting to support a person with a disability can get a free Museum Admission ticket.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Rentals require an adult renter, agreement and retained ID or credit card; availability is not guaranteed. Request entry assistance at least 24 hours ahead.",
@@ -1761,7 +2085,7 @@
     "category": "Arts & performances",
     "website": "https://www.cincinnatiarts.org/music-hall",
     "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -1852,6 +2176,114 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is in the Washington Park Garage and, as available, in the Music Hall surface lot and the Town Center Garage.",
+        "source_url": "https://www.cincinnatisymphony.org/accessibility/",
+        "id": "cincinnati-music-hall.mobility.3",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Special seating is available for guests who cannot transfer out of their wheelchairs or have other seating needs; contact the Box Office in advance when possible.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Single-room restrooms are at the 1241 Elm Street entrance near the Box Office, on the north side of the Orchestra level, on the south side of the Balcony level and on the west side of the Ballroom.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "At Cincinnati Symphony performances, sensory-friendly bags (sunglasses, headphones, quiet fidgets) can be checked out at Guest Services, and an usher can guide you to a quiet room.",
+        "source_url": "https://www.cincinnatisymphony.org/accessibility/",
+        "id": "cincinnati-music-hall.sensory.2",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "To request ASL interpretation or audio description for a Cincinnati Symphony concert, email at least one month ahead and before buying tickets.",
+        "source_url": "https://www.cincinnatisymphony.org/accessibility/",
+        "id": "cincinnati-music-hall.sensory.3",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Bags are limited to 18 x 18 x 8 inches, with exceptions for medical necessity; tell a staff member. Guests with a pacemaker or metal implant can ask to be screened another way.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/safety-procedures",
+        "id": "cincinnati-music-hall.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -2150,7 +2582,7 @@
     "address": "962 Mt. Adams Circle, Cincinnati, OH 45202",
     "website": "https://cincyplay.com/",
     "source_url": "https://cincyplay.com/visit/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -2241,6 +2673,78 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A curbside drop-off gives direct access to the street-level Box Office, lobby and elevator.",
+        "source_url": "https://www.cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is limited and must be reserved and paid for in advance.",
+        "source_url": "https://www.cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Rouse Theatre (Moe and Jack's Place) has accessible seating in every section, and its elevator goes up to the balcony or down to the front rows of the orchestra.",
+        "source_url": "https://www.cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Deaf, hard-of-hearing, deafblind or speech-disabled patrons can dial 711 to reach the Box Office through Ohio Relay.",
+        "source_url": "https://www.cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -3962,7 +4466,7 @@
     "category": "Arts & performances",
     "website": "https://promowestlive.com/cincinnati/megacorp-pavilion",
     "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -4101,6 +4605,24 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Indoor shows are non-smoking.",
+        "source_url": "https://promowestlive.com/cincinnati/faq",
+        "id": "megacorp-pavilion.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -7003,7 +7525,7 @@
     "address": "111 E. 6th Street, Newport, KY",
     "website": "https://www.southgatehouse.com/",
     "source_url": "https://www.southgatehouse.com/about/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "cognitive",
@@ -7058,6 +7580,24 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Age limits vary by show: some are all ages, others 18+ or 21+.",
+        "source_url": "https://www.southgatehouse.com/about/",
+        "id": "southgate-house-revival.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Physical access remains unverified. Confirm the street-to-room route, any steps or lift, wheelchair viewing and companion spaces, and accessible restrooms for the Sanctuary, Revival Room or Lounge used by your event. The website accessibility statement is not evidence of building access.",
@@ -7073,7 +7613,7 @@
     "address": "One Levee Way, Suite 4100, Newport, KY",
     "website": "https://www.amctheatres.com/movie-theatres/cincinnati/amc-newport-on-the-levee-20",
     "source_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "cognitive",
@@ -7142,6 +7682,78 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "AMC's page for this theatre lists open caption (on-screen subtitle) showings, closed caption devices, assistive listening devices, audio description and Sensory Friendly Films. AMC says not every title supports captions or audio description; look for the labels on showtimes.",
+        "source_url": "https://www.amctheatres.com/movie-theatres/cincinnati/amc-newport-on-the-levee-20",
+        "id": "amc-newport-on-the-levee-20.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "AMC's Sensory Friendly Film program (chain-wide) runs on the second and fourth Saturday (family-friendly) and on Wednesday evenings (mature audiences) each month, and the film starts at the listed time with no trailers.",
+        "source_url": "https://www.amctheatres.com/programs/sensory-friendly-films",
+        "id": "amc-newport-on-the-levee-20.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "AMC Stubs members who need a personal care assistant can request a free PCA ticket through AMC's Contact Us form (chain-wide policy).",
+        "source_url": "https://www.amctheatres.com/assistive-moviegoing",
+        "id": "amc-newport-on-the-levee-20.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "AMC lists a No Outside Food and Beverage policy for this theatre; it does not state a medical exception.",
+        "source_url": "https://www.amctheatres.com/movie-theatres/cincinnati/amc-newport-on-the-levee-20",
+        "id": "amc-newport-on-the-levee-20.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -8998,7 +9610,7 @@
     "website": "https://gobearcats.com/facilities/fifth-third-arena",
     "source_url": "https://gobearcats.com/basketball-gameday-guide",
     "limitations": "Public website information for UC athletics; no on-site audit. Wheelchair seating locations, elevators, restrooms and the accessible entrance are not described. Contact the UC Athletics Ticket Office before attending.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "fifth-third-arena",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9056,6 +9668,78 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Fans with disabilities are asked to contact the UC Athletics Ticket Office ahead of time; other disability-related accommodations can be requested from UC's accessibility office (AccessResources@uc.edu).",
+        "source_url": "https://gobearcats.com/basketball-gameday-guide",
+        "id": "fifth-third-arena.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The clear-bag policy makes exceptions for medically necessary items after inspection.",
+        "source_url": "https://gobearcats.com/basketball-gameday-guide",
+        "id": "fifth-third-arena.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "There is no re-entry at Fifth Third Arena.",
+        "source_url": "https://gobearcats.com/basketball-gameday-guide",
+        "id": "fifth-third-arena.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The first-aid center is on the north side of the main-level concourse by the Armory Bar; a nursing suite is on the same concourse behind section 109.",
+        "source_url": "https://gobearcats.com/basketball-gameday-guide",
+        "id": "fifth-third-arena.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -9068,7 +9752,7 @@
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
     "limitations": "Public website information; no on-site audit. Cincinnati Parks' news page says the treehouse has reopened, but the Mt. Airy park page still describes it as closed for repairs; confirm it is open before you go. Ramp slopes, accessible parking at the treehouse and restroom accessibility are not stated.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "everybodys-treehouse-mt-airy-forest",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9126,6 +9810,42 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Area 10 shelter across from the treehouse is first come, first served and has restrooms, listed as open 6 a.m. to 10 p.m.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+        "id": "everybodys-treehouse-mt-airy-forest.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cincinnati Parks provides reasonable accommodations on request through its Reasonable Accommodation Request Form; questions go to 513-357-2604.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+        "id": "everybodys-treehouse-mt-airy-forest.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -9138,7 +9858,7 @@
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
     "limitations": "Public website information; no on-site audit. Parking, restroom accessibility and trail surfaces beyond the paved path are not described. The nature center building is open mainly for programs.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "bettman-nature-preserve",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9178,6 +9898,24 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The nature center building is closed to the public and opens only for programs.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+        "id": "bettman-nature-preserve.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -9190,7 +9928,7 @@
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
     "limitations": "Public website information; no on-site audit. Restroom accessibility and accessible parking are not stated, and the park page lists some restrooms as out of service. Confirm with Cincinnati Parks.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "burnet-woods-trailside-nature-center",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9248,6 +9986,60 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Trailside Nature Center is open only during scheduled programs, and the Wolff Planetarium's monthly programs require registration.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "id": "burnet-woods-trailside-nature-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Millionaire's Club restrooms are listed as closed for repairs.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "id": "burnet-woods-trailside-nature-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Free two-hour parking is on Brookline Ave. and Burnet Woods Dr. around the bandstand.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "id": "burnet-woods-trailside-nature-center.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -9260,7 +10052,7 @@
     "website": "https://www.junglejims.com/",
     "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
     "limitations": "Public website information; no on-site audit. Accessible parking, restrooms and quiet hours are not described. Confirm with customer service before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "jungle-jims-fairfield",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9296,6 +10088,42 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Jungle Jim's app has an interactive store map.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip",
+        "id": "jungle-jims-fairfield.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Regular in-store groceries cannot be ordered online for pickup or delivery, so shopping is in person.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-fairfield.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -10384,6 +11212,112 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Woodward Theater",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "1404 Main Street, Cincinnati, OH 45202",
+    "website": "https://www.woodwardtheater.com/",
+    "source_url": "https://www.woodwardtheater.com/plan-your-visit",
+    "limitations": "Public website information; no on-site audit. The venue says its entry and bathrooms are ADA-compliant but publishes no details on wheelchair viewing spots, assistive listening, sensory resources, service animals or re-entry. Seating is limited and must be requested; confirm with the venue (woodwardtheater@gmail.com, 513-345-7981) before the show.",
+    "checked_at": "2026-11-09",
+    "slug": "woodward-theater",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The venue says it is ADA-compliant, including its entry and bathrooms.",
+        "source_url": "https://www.woodwardtheater.com/plan-your-visit",
+        "id": "woodward-theater.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Two metered accessible parking spaces are on Main St within 50 feet of the main entrance. Ziegler Park Garage, one block east at Sycamore and 14th, is covered, open 24 hours and has 500 spaces.",
+        "source_url": "https://www.woodwardtheater.com/plan-your-visit",
+        "id": "woodward-theater.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Seating is not always available, but a limited-capacity seating area for people with special needs is offered on request.",
+        "source_url": "https://www.woodwardtheater.com/plan-your-visit",
+        "id": "woodward-theater.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "By streetcar, get off at Hanke Exchange (12th & Main) and walk two blocks north on Main; a Metro stop is one block north at Main and Orchard.",
+        "source_url": "https://www.woodwardtheater.com/parking-info",
+        "id": "woodward-theater.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Purses, backpacks and bags are prohibited unless they meet the venue's bag guidelines, so check them before you go.",
+        "source_url": "https://www.woodwardtheater.com/plan-your-visit",
+        "id": "woodward-theater.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }

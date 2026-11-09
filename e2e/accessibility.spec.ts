@@ -49,6 +49,7 @@ const routes = [
   "/venues/nku-fine-arts-center",
   "/venues/middleton-mills-park",
   "/venues/giles-conrad-park",
+  "/venues/woodward-theater",
   "/venues/central-park-boone-county-arboretum",
   "/venues/licking-river-greenway-trails",
   "/venues/campbell-county-public-library-newport-branch",
