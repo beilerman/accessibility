@@ -12,10 +12,50 @@
     "https://bcplundiscovered.org/accessibilityoptions/": {
       "status": 200,
       "final_url": "https://bcplundiscovered.org/accessibilityoptions/",
-      "last_modified": null,
+      "last_modified": "Mon, 09 Nov 2026 01:17:17 GMT",
       "sha256": "f84e4a2f32c90e6de2c6c1b6b5eb58ebd494b8286cd751eb4646db9b508422eb",
       "fingerprint_version": 5,
       "chars": 6215
+    },
+    "https://bradymusiccenter.com/accessibility": {
+      "status": 200,
+      "final_url": "https://bradymusiccenter.com/accessibility",
+      "last_modified": null,
+      "sha256": "049f2e47aca9fdd17ad4820c05018581fde958dd29a0e29c5e81df4c01236c9b",
+      "fingerprint_version": 5,
+      "chars": 1155
+    },
+    "https://bradymusiccenter.com/venue-info/faq": {
+      "status": 200,
+      "final_url": "https://bradymusiccenter.com/venue-info/faq",
+      "last_modified": null,
+      "sha256": "8a54d39d680200e0d182c1bb761e3a2eb11c5535a4d9e144b25a9bd271104d59",
+      "fingerprint_version": 5,
+      "chars": 12098
+    },
+    "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items": {
+      "status": 200,
+      "final_url": "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items",
+      "last_modified": null,
+      "sha256": "bd1a69b6af6431a3de103c1b008d238247022543cdb7785e90343becca413c47",
+      "fingerprint_version": 5,
+      "chars": 6548
+    },
+    "https://cballet.org/accessibility/": {
+      "status": 200,
+      "final_url": "https://cballet.org/accessibility/",
+      "last_modified": "Fri, 20 Jan 2023 14:10:49 GMT",
+      "sha256": "4b038c0cf608e761684a185cfdb42463d2b79068d43116e7b4d8c7be2816fd73",
+      "fingerprint_version": 5,
+      "chars": 4205
+    },
+    "https://chpl.org/accessibility-services/": {
+      "status": 200,
+      "final_url": "https://chpl.org/accessibility-services/",
+      "last_modified": null,
+      "sha256": "310d809e19be802c6eb51429c28bfdb1350104232459c9f69e04be0463a932a3",
+      "fingerprint_version": 5,
+      "chars": 669
     },
     "https://chpl.org/locations/1/": {
       "status": 200,
@@ -32,6 +72,14 @@
       "sha256": "a3ae8224f53991230251fe294872debb451792da8c54959cc50ab88992d9b52a",
       "fingerprint_version": 5,
       "chars": 2693
+    },
+    "https://chpl.org/outreach/": {
+      "status": 200,
+      "final_url": "https://chpl.org/services/outreach/",
+      "last_modified": null,
+      "sha256": "f934316d162c14cab277dfbdcdafa0108e3b942fcf6e202b0cb409ecebf2cc8c",
+      "fingerprint_version": 5,
+      "chars": 2429
     },
     "https://cincinnati-oh.gov/streetcar/about-the-streetcar/faqs": {
       "status": 200,
@@ -85,9 +133,41 @@
       "status": 200,
       "final_url": "https://falcontheater.net/contact-us/",
       "last_modified": null,
-      "sha256": "a2c0be802eaec484d66c637ee775f08b0d6cdaade7b7c7a001496e5bb67894e2",
+      "sha256": "951921385bf7f33c03747487012993e5348118edd7fe88a33ab4f3c67f847d48",
       "fingerprint_version": 5,
-      "chars": 503
+      "chars": 501
+    },
+    "https://falcontheater.net/contact-us/directions-to-falcon/": {
+      "status": 200,
+      "final_url": "https://falcontheater.net/contact-us/directions-to-falcon/",
+      "last_modified": null,
+      "sha256": "aa6268579d7c8a565d539bf374aeedad2340ecf4df40f2b3a912f291b19d31c7",
+      "fingerprint_version": 5,
+      "chars": 595
+    },
+    "https://falcontheater.net/health-safety/": {
+      "status": 200,
+      "final_url": "https://falcontheater.net/health-safety/",
+      "last_modified": null,
+      "sha256": "a62f1cbde56cf471a9db0695b0605e704888de10253f53c541399d1e7b8c93c8",
+      "fingerprint_version": 5,
+      "chars": 2221
+    },
+    "https://falcontheater.net/tickets-information/": {
+      "status": 200,
+      "final_url": "https://falcontheater.net/tickets-information/",
+      "last_modified": null,
+      "sha256": "391563f42b1cd1f584757afd62b7b378e1fb779d06b77fc02198db8bc54b94fe",
+      "fingerprint_version": 5,
+      "chars": 2222
+    },
+    "https://falcontheater.net/tickets-information/ticket-policies/": {
+      "status": 200,
+      "final_url": "https://falcontheater.net/tickets-information/ticket-policies/",
+      "last_modified": null,
+      "sha256": "11adcf3a9be167ff3fdcdf6786ca2c4131d5c33bb0c131418568c6533cd3cb16",
+      "fingerprint_version": 5,
+      "chars": 2552
     },
     "https://falcontheater.net/visit/": {
       "status": 200,
@@ -116,7 +196,7 @@
     "https://freedomcenter.org/visit/accessibility/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/visit/accessibility/",
-      "last_modified": "Sun, 08 Nov 2026 23:38:18 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:27:14 GMT",
       "sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
       "fingerprint_version": 5,
       "chars": 2149
@@ -124,7 +204,7 @@
     "https://freedomcenter.org/voice/accessibilitytools-copy/": {
       "status": 200,
       "final_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
-      "last_modified": "Sun, 08 Nov 2026 23:38:18 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:27:15 GMT",
       "sha256": "8e7d6afcce392f058d029d9d88212eeb23b5d68d4233d71bf8b4e24ee348a008",
       "fingerprint_version": 5,
       "chars": 2687
@@ -133,9 +213,9 @@
       "status": 200,
       "final_url": "https://gobananascomedy.com/main/",
       "last_modified": null,
-      "sha256": "c27aae41a8495277d757d069ec7b70ef196fd9c6c0bf71073aab348e1a9ae1b7",
+      "sha256": "1cc384592a96e1ce60dc3a39a0ac6243b8de0ffc56cd2c1a937273db5d0f7868",
       "fingerprint_version": 5,
-      "chars": 7725
+      "chars": 7601
     },
     "https://gobananascomedy.com/main/directions/": {
       "status": 200,
@@ -145,17 +225,77 @@
       "fingerprint_version": 5,
       "chars": 153
     },
+    "https://gobearcats.com/ada-accessibility": {
+      "status": 200,
+      "final_url": "https://gobearcats.com/ada-accessibility",
+      "last_modified": null,
+      "sha256": "3602bf8b4bc25178651315cd8aa46d0f441b2c043531b50477c4a7cdeb16c8c1",
+      "fingerprint_version": 5,
+      "chars": 1635
+    },
+    "https://gobearcats.com/basketball-gameday-guide": {
+      "status": 200,
+      "final_url": "https://gobearcats.com/basketball-gameday-guide",
+      "last_modified": null,
+      "sha256": "e73496390034b837426e0e0ec9c7c742895e317cf701430ea6c2c706c6fee21e",
+      "fingerprint_version": 5,
+      "chars": 17696
+    },
+    "https://gobearcats.com/nippert-gameday-guide": {
+      "status": 200,
+      "final_url": "https://gobearcats.com/nippert-gameday-guide",
+      "last_modified": null,
+      "sha256": "9f4c1927f6997ad58650d6bfa2e14eaa1033c3451454ec0c6fb90ae6f8acb042",
+      "fingerprint_version": 5,
+      "chars": 22746
+    },
     "https://heritagebankcenter.com/venue-info": {
       "status": 200,
       "final_url": "https://heritagebankcenter.com/venue-info",
-      "last_modified": "Sun, 08 Nov 2026 23:38:20 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:27:24 GMT",
       "sha256": "26e7070359e84699f7193b0a75170d552333480e8e6bf587246a042fc65b7a70",
       "fingerprint_version": 5,
       "chars": 20046
     },
+    "https://heritagevillagecincinnati.org/access-and-accommodations/": {
+      "status": 403,
+      "error": "Forbidden"
+    },
+    "https://mollymalonesirishpub.com/covington/": {
+      "status": 403,
+      "error": "Forbidden"
+    },
+    "https://mollymalonesirishpub.com/covington/contact/": {
+      "status": 403,
+      "error": "Forbidden"
+    },
     "https://mollymalonesirishpub.com/covington/private-party-menu/": {
       "status": 403,
       "error": "Forbidden"
+    },
+    "https://myfountainsquare.com/amenities/": {
+      "status": 200,
+      "final_url": "https://myfountainsquare.com/amenities/",
+      "last_modified": null,
+      "sha256": "f765e483a4ae5c9e5248439703cf42e9466b1eb0bf252e18229c0baf5b0bf500",
+      "fingerprint_version": 5,
+      "chars": 4515
+    },
+    "https://myfountainsquare.com/parking/": {
+      "status": 200,
+      "final_url": "https://myfountainsquare.com/parking/",
+      "last_modified": "Mon, 09 Nov 2026 02:01:50 GMT",
+      "sha256": "3479b9e25b53b96e19403e50a207b890d667ab93a658ec199cb745b3c50b69cd",
+      "fingerprint_version": 5,
+      "chars": 3268
+    },
+    "https://myfountainsquare.com/square-rules/": {
+      "status": 200,
+      "final_url": "https://myfountainsquare.com/square-rules/",
+      "last_modified": null,
+      "sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450",
+      "fingerprint_version": 5,
+      "chars": 5336
     },
     "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807": {
       "status": 200,
@@ -173,6 +313,14 @@
       "fingerprint_version": 5,
       "chars": 2895
     },
+    "https://promowestlive.com/cincinnati/faq": {
+      "status": 200,
+      "final_url": "https://promowestlive.com/cincinnati/faq",
+      "last_modified": null,
+      "sha256": "5217cb9961d37950a34d33264c92e66e92c1959552e580549815e67a2804dd8b",
+      "fingerprint_version": 5,
+      "chars": 5736
+    },
     "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility": {
       "status": 200,
       "final_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
@@ -180,6 +328,22 @@
       "sha256": "a99651cbd54a1614cb12eeef75f35c4acebfc399c93dc9fa3972fd5e3e0cd66b",
       "fingerprint_version": 5,
       "chars": 2446
+    },
+    "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/": {
+      "status": 200,
+      "final_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+      "last_modified": null,
+      "sha256": "c43e4fb00ae201797a98ec8e292e7661258ff1618afc433136000ae3907f3761",
+      "fingerprint_version": 5,
+      "chars": 12168
+    },
+    "https://renfestival.com/faq/": {
+      "status": 200,
+      "final_url": "https://renfestival.com/faq/",
+      "last_modified": null,
+      "sha256": "1b26eea60dfd109a19a0972a6780ad6c9eed5c5b6b77738017218d7ebc1fb461",
+      "fingerprint_version": 5,
+      "chars": 8800
     },
     "https://riverbend.org/plan-your-visit/directions-parking": {
       "status": 200,
@@ -229,6 +393,22 @@
       "fingerprint_version": 5,
       "chars": 2929
     },
+    "https://thecarnegie.com/direction-and-parking/": {
+      "status": 200,
+      "final_url": "https://thecarnegie.com/direction-and-parking/",
+      "last_modified": "Sun, 08 Nov 2026 14:49:04 GMT",
+      "sha256": "fc1b22f9eb815eb26fd68fa1b0c3ccc216dc54156862277669f2e06b999b3d3d",
+      "fingerprint_version": 5,
+      "chars": 2906
+    },
+    "https://thechildrenstheatre.com/accessibility/": {
+      "status": 200,
+      "final_url": "https://thechildrenstheatre.com/accessibility/",
+      "last_modified": "Mon, 09 Nov 2026 01:12:49 GMT",
+      "sha256": "2dd881ada98f1772e85828447eddbf22128bae4b046cd73ba67300afc25425a3",
+      "fingerprint_version": 5,
+      "chars": 6171
+    },
     "https://thetruistarena.com/plan-your-visit/faq": {
       "status": 200,
       "final_url": "https://thetruistarena.com/plan-your-visit/faq",
@@ -253,6 +433,30 @@
       "fingerprint_version": 5,
       "chars": 203
     },
+    "https://washingtonpark.org/amenities/": {
+      "status": 200,
+      "final_url": "https://washingtonpark.org/amenities/",
+      "last_modified": null,
+      "sha256": "0678c067e613752d5f60fea7444101be6fa0a7e0faa2f79c5d66a8494f5c9b63",
+      "fingerprint_version": 5,
+      "chars": 3320
+    },
+    "https://washingtonpark.org/park-rules/": {
+      "status": 200,
+      "final_url": "https://washingtonpark.org/park-rules/",
+      "last_modified": null,
+      "sha256": "b553b0964f6ab30994ef60cfde3861efc19b9d6a83deeed20c8e137d4dfffbba",
+      "fingerprint_version": 5,
+      "chars": 5099
+    },
+    "https://washingtonpark.org/parking/": {
+      "status": 200,
+      "final_url": "https://washingtonpark.org/parking/",
+      "last_modified": null,
+      "sha256": "c2838f39ac478c378a4db5f46e17ba32941a7079815ab28fc527dc1a781afcf1",
+      "fingerprint_version": 5,
+      "chars": 4247
+    },
     "https://www.americansignmuseum.org/visit": {
       "status": 200,
       "final_url": "https://www.americansignmuseum.org/visit/",
@@ -272,15 +476,23 @@
     "https://www.bcpl.org/locations": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations",
-      "last_modified": "Sun, 08 Nov 2026 23:38:26 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:26:40 GMT",
       "sha256": "765d8189d4678c1adcda7e8fd791c26f0f9091c1be5c053b837d1792c62a4207",
       "fingerprint_version": 5,
       "chars": 2273
     },
+    "https://www.bcpl.org/locations/hebron": {
+      "status": 200,
+      "final_url": "https://www.bcpl.org/locations/hebron",
+      "last_modified": "Mon, 09 Nov 2026 02:18:14 GMT",
+      "sha256": "a1530940904c623addd241aad9071fc73b57b4db36bf0398d9105ea9ebd81388",
+      "fingerprint_version": 5,
+      "chars": 740
+    },
     "https://www.bcpl.org/sensory-room": {
       "status": 200,
       "final_url": "https://www.bcpl.org/sensory-room",
-      "last_modified": "Sun, 08 Nov 2026 23:38:27 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:28:05 GMT",
       "sha256": "9ecab0874cfee7ba07c389ff22efbf2ad5b3a85bf0498556db04a6dd9ce9b2b7",
       "fingerprint_version": 5,
       "chars": 2293
@@ -317,6 +529,30 @@
       "fingerprint_version": 5,
       "chars": 1581
     },
+    "https://www.boonecountyky.org/services/parks/park_shelters/index.php": {
+      "status": 200,
+      "final_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+      "last_modified": null,
+      "sha256": "6c484d328cc697e66287395bb1606785769333e566410279b72771731cde583e",
+      "fingerprint_version": 5,
+      "chars": 2847
+    },
+    "https://www.butlercountyrta.com/accessibility/bcare-paratransit/": {
+      "status": 200,
+      "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+      "last_modified": null,
+      "sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+      "fingerprint_version": 5,
+      "chars": 4168
+    },
+    "https://www.butlercountyrta.com/accessibility/travel-training/": {
+      "status": 200,
+      "final_url": "https://www.butlercountyrta.com/accessibility/travel-training/",
+      "last_modified": null,
+      "sha256": "c3b2b4100237acf24fc24247bf554846e94ed2241a29c3ca701229adb6184820",
+      "fingerprint_version": 5,
+      "chars": 2072
+    },
     "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/": {
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
@@ -324,6 +560,14 @@
       "sha256": "c5e8759429e8bfa4df49fbab8014e08e9c31527bb01c0b3dd41cef381b8efb5b",
       "fingerprint_version": 5,
       "chars": 25916
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+      "last_modified": null,
+      "sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9",
+      "fingerprint_version": 5,
+      "chars": 2560
     },
     "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/": {
       "status": 200,
@@ -333,6 +577,38 @@
       "fingerprint_version": 5,
       "chars": 4896
     },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+      "last_modified": null,
+      "sha256": "7da891a3dccffd71b7d4d83252fd3bc7252f181b411795a3a39a0819495f16c1",
+      "fingerprint_version": 5,
+      "chars": 26173
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+      "last_modified": null,
+      "sha256": "391d989137f08c8b4b9ff834de5a2fc57facf3b6bd0b8a0d60251b1b2ed8129a",
+      "fingerprint_version": 5,
+      "chars": 25458
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+      "last_modified": null,
+      "sha256": "395f9dd59f714c64430c712c3046a2350a055ec410b51a0db8f3e2bcfa10a45b",
+      "fingerprint_version": 5,
+      "chars": 28076
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+      "last_modified": null,
+      "sha256": "ce8e03b456af19aea6315fbfed77708272a2e57f2eb4fb59690abb4de48d56f8",
+      "fingerprint_version": 5,
+      "chars": 25481
+    },
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": {
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
@@ -340,6 +616,22 @@
       "sha256": "2105ae02efcc640c149b217f3511e9f5e5eca3a1e36b45163e2a37a06afbb1eb",
       "fingerprint_version": 5,
       "chars": 26610
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+      "last_modified": null,
+      "sha256": "d1e2870d11785ed51b82acabe0c67aa12b0bd3a8ec42dd4c7e1e622489133c80",
+      "fingerprint_version": 5,
+      "chars": 27025
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+      "last_modified": null,
+      "sha256": "2f99257c99fbcb753fdc8b99f8d3742393cce09362f87d94798d246b6027a442",
+      "fingerprint_version": 5,
+      "chars": 26226
     },
     "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/": {
       "status": 200,
@@ -396,6 +688,22 @@
       "sha256": "659d6714fdee54e6358593c181c1287e17eafd61fd5177f6a15d71963a1d53fa",
       "fingerprint_version": 5,
       "chars": 13356
+    },
+    "https://www.cincynature.org/visit/our-trails": {
+      "status": 200,
+      "final_url": "https://www.cincynature.org/visit/our-trails",
+      "last_modified": "Mon, 09 Nov 2026 02:08:53 GMT",
+      "sha256": "6e6b735e90fe16169fb7de359f7dafe5977bfb8767f19e8dec57ea082008b621",
+      "fingerprint_version": 5,
+      "chars": 5175
+    },
+    "https://www.cincynature.org/visit/visit-us": {
+      "status": 200,
+      "final_url": "https://www.cincynature.org/visit/visit-us",
+      "last_modified": "Mon, 09 Nov 2026 02:21:40 GMT",
+      "sha256": "7448ee9f543b4a192226b942b2180a0e9e47461b1264909fb16bbbd37daf75fe",
+      "fingerprint_version": 5,
+      "chars": 6185
     },
     "https://www.cincyshakes.com/your-visit/accessibility": {
       "status": 200,
@@ -485,6 +793,14 @@
       "fingerprint_version": 5,
       "chars": 6537
     },
+    "https://www.fittoncenter.org/accessibility": {
+      "status": 200,
+      "final_url": "https://www.fittoncenter.org/accessibility",
+      "last_modified": null,
+      "sha256": "3a271e1164f7cf219d5131b4c98343720894417712ba6334986714ea42f68bf7",
+      "fingerprint_version": 5,
+      "chars": 1677
+    },
     "https://www.go-metro.com/access": {
       "status": 200,
       "final_url": "https://www.go-metro.com/access-paratransit/",
@@ -517,6 +833,38 @@
       "fingerprint_version": 5,
       "chars": 1557
     },
+    "https://www.greatparks.org/parks/miami-whitewater-forest": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+      "last_modified": null,
+      "sha256": "b18c009dd94f90f0f87e62b7a98304e202a2183aac98da1328f08e8bc6dc6326",
+      "fingerprint_version": 5,
+      "chars": 6437
+    },
+    "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+      "last_modified": null,
+      "sha256": "e99da80fde489a5aa77bd20fc4d6335369239b302d5aa8cce769678c407957d0",
+      "fingerprint_version": 5,
+      "chars": 2666
+    },
+    "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
+      "last_modified": null,
+      "sha256": "1f2abadf2e59e6937a31976059332e234984ee232b3e4d7aa67939e3526d81e3",
+      "fingerprint_version": 5,
+      "chars": 1986
+    },
+    "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail",
+      "last_modified": null,
+      "sha256": "df1ab47cb79fde9b0dc5234e04e43ff1471980f605a2faa87f068073000a9305",
+      "fingerprint_version": 5,
+      "chars": 872
+    },
     "https://www.greatparks.org/parks/sharon-woods": {
       "status": 200,
       "final_url": "https://www.greatparks.org/parks/sharon-woods",
@@ -525,9 +873,97 @@
       "fingerprint_version": 5,
       "chars": 6319
     },
+    "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail",
+      "last_modified": null,
+      "sha256": "0f4325dd14617db0f197d1f61df6a37d809bc8869b7be22b5d1574c5bb4216b9",
+      "fingerprint_version": 5,
+      "chars": 677
+    },
+    "https://www.greatparks.org/parks/sharon-woods/island-grove-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/sharon-woods/island-grove-trail",
+      "last_modified": null,
+      "sha256": "100b28242821b7d5a8356f414535407d9dbd015c6d9db32563dab8f7eb537b5e",
+      "fingerprint_version": 5,
+      "chars": 660
+    },
+    "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail",
+      "last_modified": null,
+      "sha256": "e03735ea709774e7a11cc7db10afd1dd5fc7268f993aa65a96b85bb2b103f8ee",
+      "fingerprint_version": 5,
+      "chars": 625
+    },
+    "https://www.greatparks.org/parks/sharon-woods/sharon-woods-harbor": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/sharon-woods/sharon-woods-harbor",
+      "last_modified": null,
+      "sha256": "68d75cc90501185e0740bb584048c3f56b6012489e75cbc86a69acd8de0ce621",
+      "fingerprint_version": 5,
+      "chars": 3040
+    },
+    "https://www.greatparks.org/parks/winton-woods": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/winton-woods",
+      "last_modified": null,
+      "sha256": "8aa992f598cb2f65b928823178b6695c19dcb7a67c8de725b23692de68b0a091",
+      "fingerprint_version": 5,
+      "chars": 4072
+    },
+    "https://www.greatparks.org/parks/winton-woods/harbor-loop-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/winton-woods/harbor-loop-trail",
+      "last_modified": null,
+      "sha256": "2b14e2ff447e23a44ed2998372adcebf4ca6c0ef0cd7b0fda2850a05b9ced4bc",
+      "fingerprint_version": 5,
+      "chars": 858
+    },
+    "https://www.greatparks.org/parks/winton-woods/west-branch-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/winton-woods/west-branch-trail",
+      "last_modified": null,
+      "sha256": "0ec7e8b0482efb4cc491ccea91f26d9709f83a29bbd1f193db2247f0dd7bcb5f",
+      "fingerprint_version": 5,
+      "chars": 646
+    },
+    "https://www.greatparks.org/parks/winton-woods/winton-center": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/winton-woods/winton-center",
+      "last_modified": null,
+      "sha256": "b1011b81bd2754a230e2a8f3f2c4f0cb9a1d8e5efe18ef7a92ea04d4a0de9212",
+      "fingerprint_version": 5,
+      "chars": 1321
+    },
+    "https://www.greatwolf.com/mason/accessibility": {
+      "status": 200,
+      "final_url": "https://www.greatwolf.com/mason/accessibility",
+      "last_modified": "Fri, 06 Nov 2026 20:48:38 GMT",
+      "sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f",
+      "fingerprint_version": 5,
+      "chars": 5739
+    },
+    "https://www.greatwolf.com/mason/faq": {
+      "status": 200,
+      "final_url": "https://www.greatwolf.com/mason/faq",
+      "last_modified": "Fri, 06 Nov 2026 20:52:04 GMT",
+      "sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea",
+      "fingerprint_version": 5,
+      "chars": 67512
+    },
     "https://www.imax.com/theatre/amc-newport-levee-20-imax": {
       "status": 403,
       "error": "Forbidden"
+    },
+    "https://www.junglejims.com/discover/plan-your-trip/faq": {
+      "status": 200,
+      "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+      "last_modified": "Sat, 07 Nov 2026 02:52:46 GMT",
+      "sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
+      "fingerprint_version": 5,
+      "chars": 11413
     },
     "https://www.kentonlibrary.org/homebound/": {
       "status": 200,
@@ -561,6 +997,14 @@
       "fingerprint_version": 5,
       "chars": 4368
     },
+    "https://www.kenwoodtownecentre.com/en/visit/": {
+      "status": 200,
+      "final_url": "https://www.kenwoodtownecentre.com/en/visit/",
+      "last_modified": "Mon, 09 Nov 2026 02:29:46 GMT",
+      "sha256": "e571a079445d05e01f690c13d650813415aa5769d482505a334dfc7fa540bc97",
+      "fingerprint_version": 5,
+      "chars": 12154
+    },
     "https://www.ludlowgaragecincinnati.com/faqs/": {
       "status": 200,
       "final_url": "https://www.ludlowgaragecincinnati.com/faqs/",
@@ -568,6 +1012,22 @@
       "sha256": "cad07eba8f84fa02a5845fd49a31d1f09adc42d323eff6f1697326e593167607",
       "fingerprint_version": 5,
       "chars": 5397
+    },
+    "https://www.memorialhallotr.com/about-memo/": {
+      "status": 200,
+      "final_url": "https://www.memorialhallotr.com/about-memo/",
+      "last_modified": null,
+      "sha256": "68df7ad812de5340d87150a46d5c2013b06a78399aa34b882bbfd29a990d67b9",
+      "fingerprint_version": 5,
+      "chars": 1593
+    },
+    "https://www.memorialhallotr.com/plan-your-visit/": {
+      "status": 200,
+      "final_url": "https://www.memorialhallotr.com/plan-your-visit/",
+      "last_modified": null,
+      "sha256": "69cefdf3ea23829524cec2d1cdf2200f3d46d0d556bcc6e63b9b5c32ca2c2b62",
+      "fingerprint_version": 5,
+      "chars": 1912
     },
     "https://www.mlb.com/reds/ballpark/disability-access-guide": {
       "status": 200,
@@ -597,10 +1057,18 @@
       "status": 403,
       "error": "Forbidden"
     },
+    "https://www.newportonthelevee.com/directions-and-parking/": {
+      "status": 200,
+      "final_url": "https://www.newportonthelevee.com/directions-and-parking/",
+      "last_modified": "Mon, 09 Nov 2026 02:30:00 GMT",
+      "sha256": "9c63ad37c385f92873fe13e71a4bc8b5bd637e3c9654b7243ae714488006f97b",
+      "fingerprint_version": 5,
+      "chars": 934
+    },
     "https://www.newportonthelevee.com/entertainment/amc-theatres/": {
       "status": 200,
       "final_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
-      "last_modified": "Sun, 08 Nov 2026 23:39:10 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:30:02 GMT",
       "sha256": "b42398d62f1fa97d911c76acf0e09630bc9bf8227876363b4387f5c245792e39",
       "fingerprint_version": 5,
       "chars": 468
@@ -648,7 +1116,7 @@
     "https://www.southgatehouse.com/about/": {
       "status": 200,
       "final_url": "https://www.southgatehouse.com/about/",
-      "last_modified": "Sun, 08 Nov 2026 23:39:12 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:30:08 GMT",
       "sha256": "7e0560f58fe573df54d06b243a485e1fd2671e4b52e08cd3d5a209d364cc8a80",
       "fingerprint_version": 5,
       "chars": 1953
@@ -684,13 +1152,32 @@
       "sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe",
       "fingerprint_version": 5,
       "chars": 4426
+    },
+    "https://www.yourmetroparks.net/about/accessibility": {
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/about/accessibility",
+      "last_modified": "Sun, 08 Nov 2026 05:31:54 GMT",
+      "sha256": "3790a2280d7377d85b229938217b8fb9cd1d0441cae0849fe72b0bdcd5a3c639",
+      "fingerprint_version": 5,
+      "chars": 5535
+    },
+    "https://www.yourmetroparks.net/parks/voice-of-america-metropark": {
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+      "last_modified": "Sun, 08 Nov 2026 01:11:32 GMT",
+      "sha256": "7cb9c04b41db2f766f2ad4c26e60026fb6ffa25688e3dfe4f7be9ffb1e8a4390",
+      "fingerprint_version": 5,
+      "chars": 2673
     }
   },
   "findings": {
-    "https://chpl.org/locations/1/": "changed",
+    "https://falcontheater.net/contact-us/": "unstable",
+    "https://gobananascomedy.com/main/": "changed",
+    "https://heritagevillagecincinnati.org/access-and-accommodations/": "blocked",
+    "https://mollymalonesirishpub.com/covington/": "blocked",
+    "https://mollymalonesirishpub.com/covington/contact/": "blocked",
     "https://mollymalonesirishpub.com/covington/private-party-menu/": "blocked",
     "https://www.imax.com/theatre/amc-newport-levee-20-imax": "blocked",
-    "https://www.kentonlibrary.org/locations/4": "changed",
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked"
   }
 }
