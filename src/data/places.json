@@ -9972,5 +9972,423 @@
         ]
       }
     ]
+  },
+  {
+    "name": "NKU Fine Arts Center (Greaves Concert Hall, Corbett and Stauss Theatres)",
+    "city": "Highland Heights",
+    "state": "KY",
+    "category": "Arts & performances",
+    "address": "100 Nunn Drive, Highland Heights, KY 41099",
+    "website": "https://www.nku.edu/artsci/sota.html",
+    "source_url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+    "limitations": "Public website information; no on-site audit. Entrances, elevators, restrooms and accessible parking spaces are not described. Contact the NKU School of the Arts box office before attending.",
+    "checked_at": "2026-11-08",
+    "slug": "nku-fine-arts-center",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "All performance venues have accessible seating; a house manager or usher can help. Guests who need special seating because of a medical condition should contact the box office at least 48 hours ahead; availability depends on the performance.",
+        "source_url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+        "id": "nku-fine-arts-center.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Corbett Theatre performances have reserved seats; Stauss Theatre and Greaves Concert Hall are general seating. Venues open about 30 minutes before curtain, and Stauss Theatre has no late seating.",
+        "source_url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+        "id": "nku-fine-arts-center.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "If you don't have a phone or printer for your tickets, box office staff can check you in.",
+        "source_url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+        "id": "nku-fine-arts-center.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Parking Lots D and I are designated for School of the Arts events. No food or drink is allowed in any performance venue.",
+        "source_url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+        "id": "nku-fine-arts-center.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Middleton-Mills Park",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "3415 Mills Road, Covington, KY 41015",
+    "website": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
+    "source_url": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
+    "limitations": "Public website information; no on-site audit. Accessible parking, paths between facilities and restroom accessibility are not described. Call Kenton County Parks and Recreation at 859-525-7529.",
+    "checked_at": "2026-11-08",
+    "slug": "middleton-mills-park",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Kenton County lists an accessible fishing pier, and one of the park's two playgrounds has ADA-accessible safety surfacing. The hiking trails are unpaved.",
+        "source_url": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
+        "id": "middleton-mills-park.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park is open daily from dawn to dusk.",
+        "source_url": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
+        "id": "middleton-mills-park.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Giles Conrad Park",
+    "city": "Hebron",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "7500 River Road, Hebron, KY 41048",
+    "website": "https://www.boonecountyky.org/business_detail_T35_R65.php",
+    "source_url": "https://www.boonecountyky.org/business_detail_T35_R65.php",
+    "limitations": "Public website information; no on-site audit. Restrooms, benches and the slope from parking to the overlooks are not described. Contact Boone County Parks.",
+    "checked_at": "2026-11-08",
+    "slug": "giles-conrad-park",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The park has 1.3 miles of paved, level trail connecting riverbank overlooks and open green space.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R65.php",
+        "id": "giles-conrad-park.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Boone County says accessible parking is available at Giles Conrad Park, with a paved walking path to the neighboring Valley Orchards fields.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R202.php",
+        "id": "giles-conrad-park.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Central Park & Boone County Arboretum",
+    "city": "Burlington",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "9190 Camp Ernst Road, Burlington, KY 41005",
+    "website": "https://www.bcarboretum.org/",
+    "source_url": "https://www.boonecountyky.org/business_detail_T35_R60.php",
+    "limitations": "Public website information; no on-site audit. Trail slopes, accessible parking and whether the restroom buildings are accessible are not described.",
+    "checked_at": "2026-11-08",
+    "slug": "central-park-boone-county-arboretum",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The park has 2.35 miles of paved walking trails, plus concession and restroom buildings; their accessibility is not stated.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R60.php",
+        "id": "central-park-boone-county-arboretum.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The arboretum says there are several places to leave the paved trail for woodland trails; those side trails are not described as paved.",
+        "source_url": "https://www.bcarboretum.org/about-us",
+        "id": "central-park-boone-county-arboretum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Licking River Greenway & Trails",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "Levassor Ave. & Eastern Ave. (behind Holmes High School), Covington, KY",
+    "website": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
+    "source_url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
+    "limitations": "Public website information; no on-site audit. Slopes, trail width, parking and restrooms are not described, and most of the route is unpaved or on streets.",
+    "checked_at": "2026-11-08",
+    "slug": "licking-river-greenway-trails",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Covington's section includes 1.5 miles of nature trail, 0.75 mile of paved trail and about 2.5 miles that use sidewalks and roads. A parallel paved trail runs only part of the way.",
+        "source_url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
+        "id": "licking-river-greenway-trails.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Trail access points are behind Holmes High School at Levassor and Eastern avenues, at the dead end of East 16th Street, at Clayton-Meyer Park, and behind Randolph Park.",
+        "source_url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
+        "id": "licking-river-greenway-trails.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Campbell County Public Library — Newport Branch",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Libraries",
+    "address": "901 East 6th Street, Newport, KY 41071",
+    "website": "https://www.cc-pl.org/locations",
+    "source_url": "https://www.cc-pl.org/adult-outreach",
+    "limitations": "Public website information; no on-site audit. The library's pages describe outreach services for the whole county, not the Newport building: entrances, parking, restrooms and routes are not described. Call the branch before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "campbell-county-public-library-newport-branch",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "Campbell County residents who can't visit the library because of a temporary or permanent illness or disability can get materials delivered at home, or by mail for free.",
+        "source_url": "https://www.cc-pl.org/adult-outreach",
+        "id": "campbell-county-public-library-newport-branch.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The library helps patrons sign up for the free Kentucky Talking Book service, for anyone unable to read because of a visual or physical limitation, and the national program of braille and audio materials sent by postage-free mail.",
+        "source_url": "https://www.cc-pl.org/adult-outreach",
+        "id": "campbell-county-public-library-newport-branch.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Boone County Public Library — Chapin Memorial Library",
+    "city": "Petersburg",
+    "state": "KY",
+    "category": "Libraries",
+    "address": "6517 Market St., Petersburg, KY 41080",
+    "website": "https://www.bcpl.org/locations/",
+    "source_url": "https://www.bcpl.org/locations/",
+    "limitations": "Public website information; no on-site audit. A small branch with limited staffed hours. The entrance, restroom and route inside are not described. Call ahead to discuss accommodations.",
+    "checked_at": "2026-11-08",
+    "slug": "boone-county-public-library-chapin-memorial",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Staff are present only part of the open hours (Tuesday and Wednesday 2–7 p.m., Thursday 1–7 p.m., and the first Saturday 9 a.m.–1 p.m.). To get in during unstaffed hours you need to complete an Express Access user agreement. Holds go to lockers on Tuesdays and Thursdays.",
+        "source_url": "https://www.bcpl.org/locations/",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The library system says accessible parking is available at every location, and welcomes a phone call in advance to discuss other accommodations.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-chapin-memorial.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Every Boone County library location is smoke-free.",
+        "source_url": "https://www.bcpl.org/locations/",
+        "id": "boone-county-public-library-chapin-memorial.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]
