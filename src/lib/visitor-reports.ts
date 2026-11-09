@@ -1,6 +1,7 @@
 import ohReports from "@/data/visitor-reports-oh.json";
 import kyReports from "@/data/visitor-reports-ky.json";
 import specialist from "@/data/visitor-reports-specialist.json";
+import community from "@/data/visitor-reports-community.json";
 import { places, type Domain } from "./catalog";
 
 export interface VisitorReport {
@@ -30,6 +31,7 @@ export const visitorReports: VisitorReport[] = [
   ...specialist,
   ...kyReports,
   ...ohReports,
+  ...community,
 ] as VisitorReport[];
 export const reportsForPlace = (slug: string) =>
   visitorReports.filter((report) => report.placeSlug === slug);

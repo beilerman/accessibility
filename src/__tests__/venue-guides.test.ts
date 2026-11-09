@@ -12,7 +12,13 @@ describe("Reviewed concert venue guides", () => {
     expect(place.observed_at).toBeNull();
     expect(place.checked_at).toBe("2026-11-08");
     expect(place.limitations).toContain("no on-site audit");
-    expect(reportsForPlace(slug)).toEqual([]);
+    // Outside visitor reports live in their own collection; they never
+    // become website facts or change a fact's provenance.
+    for (const report of reportsForPlace(slug)) {
+      expect(place.facts.some((f) => f.source_url === report.sourceUrl)).toBe(
+        false,
+      );
+    }
     expect(new Set(place.facts.map((f) => f.domain)).size).toBe(4);
     for (const fact of place.facts) {
       expect(fact.source_type).toBe("venue_official");

@@ -63,7 +63,11 @@ test("concert guides expose sources and cautions on narrow screens", async ({
     await expect(page.getByRole("link", { name: /Official source for/ })).toHaveCount(
       place.facts.length,
     );
-    await expect(page.getByText(/No sufficiently attributable accessibility report/)).toBeVisible();
+    const reports = page.locator("#visitor-reports article.visitor-report");
+    await expect(reports.first()).toBeVisible();
+    await expect(
+      reports.first().getByRole("link").first(),
+    ).toHaveAttribute("href", /^https:/);
     expect(
       await page.evaluate(
         () => document.documentElement.scrollWidth <= window.innerWidth,
