@@ -133,6 +133,10 @@
     "reportedAt": "2026-11-08",
     "points": [
       {
+        "domain": "cognitive",
+        "text": "Parking around Washington Park, including the large garage under the park, fills up fast on weekends when there's a soccer game at TQL Stadium or events at Memorial Hall and Music Hall."
+      },
+      {
         "domain": "mobility",
         "text": "Memorial Hall is more accessible than it looks. It isn't entirely intuitive, but there is a marked door on the right side of the building (when facing the front) with an elevator just inside."
       },
@@ -143,6 +147,33 @@
       {
         "domain": "cognitive",
         "text": "Staff know the building well and were courteous and very helpful."
+      }
+    ]
+  },
+  {
+    "id": "cincinnati-shakespeare-company.team.2026-11-08",
+    "placeSlug": "cincinnati-shakespeare-company",
+    "reviewer": "Matthew Brothers",
+    "reviewerRole": "Threshold co-owner",
+    "visitContext": "Many performances attended with a wheelchair since the theater opened in 2017. Visit dates not recorded.",
+    "visitedAt": null,
+    "reportedAt": "2026-11-08",
+    "points": [
+      {
+        "domain": "cognitive",
+        "text": "Book valet, or a spot in the lot just north of the theater on Elm Street. The many nearby lots and the large garage under Washington Park fill up fast on weekends when there's a soccer game at TQL Stadium or events at Memorial Hall and Music Hall."
+      },
+      {
+        "domain": "mobility",
+        "text": "The theater is designed for universal accessibility, with accessible seating in both the orchestra and the balcony."
+      },
+      {
+        "domain": "mobility",
+        "text": "We almost always sit in the balcony, which has a single row of seats and is a bit cheaper than the orchestra. The view from the floor is better, though not necessarily enough to justify the extra cost."
+      },
+      {
+        "domain": "chronic",
+        "text": "The balcony has its own dedicated accessible restroom."
       }
     ]
   }

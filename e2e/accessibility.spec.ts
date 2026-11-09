@@ -30,6 +30,22 @@ const routes = [
   "/venues/fountain-square",
   "/venues/memorial-hall-otr",
   "/venues/cincinnati-museum-center",
+  "/venues/andrew-j-brady-music-center",
+  "/venues/childrens-theatre-of-cincinnati-emery-theater",
+  "/venues/cincinnati-ballet-center-for-dance",
+  "/venues/nippert-stadium",
+  "/venues/fifth-third-arena",
+  "/venues/everybodys-treehouse-mt-airy-forest",
+  "/venues/bettman-nature-preserve",
+  "/venues/burnet-woods-trailside-nature-center",
+  "/venues/jungle-jims-fairfield",
+  "/venues/great-wolf-lodge-mason",
+  "/venues/fitton-center-for-creative-arts",
+  "/venues/kenwood-towne-centre",
+  "/venues/voice-of-america-metropark",
+  "/venues/heritage-village-museum",
+  "/venues/butler-county-regional-transit-authority",
+  "/venues/ohio-renaissance-festival",
   "/about",
   "/sources",
   "/updates",
@@ -425,7 +441,7 @@ test("reviewed places are surfaced on the homepage and in recent changes", async
   await expect(
     page.getByRole("link", { name: "Bogart’s" }).first(),
   ).toBeVisible();
-  await expect(page.getByText(/New Threshold reviews \(5\)/)).toBeVisible();
+  await expect(page.getByText(/New Threshold reviews \(6\)/)).toBeVisible();
 });
 
 test("navigation marks the current section and hero photos link to real places", async ({

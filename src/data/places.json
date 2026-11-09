@@ -165,6 +165,78 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For the Jarson-Kaplan Theater, automatic accessible doors are on the south end of the building near Sixth and Walnut; the Fifth Third Bank Theater has a dedicated ramp at the south end of its entrance. Each of those theaters has one patron elevator.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "All Aronoff restrooms are described as accessible; for the Jarson-Kaplan and Fifth Third Bank theaters they are one level below, by elevator. A gender-neutral companion care restroom is on the north side of the Loge lobby.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The assistive listening devices have a neck loop for hearing aids with a T-coil. To request an audio-described performance, call (513) 977-4157.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Service animals are welcome and should stay on a leash or in a harness. A lactation suite has a private area with comfortable seats, a changing station, dimmable lights and outlets.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Contact the ticket office in advance for seating and performance-specific accommodations.",
@@ -251,6 +323,42 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Free parking in front of the dock on Riverboat Row is first come, first served.",
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Most cruises allow an hour for boarding, some only 30 minutes, and cruises cannot wait for late arrivals. BB Riverboats is cashless.",
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Confirm the assigned vessel and deck before booking; access differs between boats.",
@@ -333,6 +441,78 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The National Park Service listing also includes a family restroom and an electrical outlet for charging phones.",
+        "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
+        "id": "big-bone-lick-state-historic-site.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The National Park Service listing includes a tactile exhibit, and maps are available.",
+        "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
+        "id": "big-bone-lick-state-historic-site.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Bison Trace Trail is 0.5 mile and rated easy.",
+        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
+        "id": "big-bone-lick-state-historic-site.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "From mid-March through mid-November the museum is open daily, 9 a.m. to 4 p.m.; the Discovery Trail is open daily from dawn to dusk. The campground has showers, restrooms and laundry in a central service building.",
+        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
+        "id": "big-bone-lick-state-historic-site.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -629,6 +809,24 @@
             "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The library welcomes a phone call in advance to discuss other accommodations. Every branch has translation devices for talking with patrons who don't speak English.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-florence-branch.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
@@ -707,6 +905,60 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The branch has a computer desk that raises and lowers at the push of a button. Borrowed wheelchairs can be used throughout the wide-aisle building and outside, including on the Hebron Storywalk.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-hebron-branch.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The amphitheater is outdoors and uncovered; bring blankets or chairs to events there.",
+        "source_url": "https://www.bcpl.org/locations/hebron",
+        "id": "boone-county-public-library-hebron-branch.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The library welcomes a phone call in advance to discuss other accommodations. Every branch has translation devices for talking with patrons who don't speak English.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-hebron-branch.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -1154,6 +1406,24 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shelter listing notes restrooms, grills, electricity and water nearby. Shelters can be reserved by calling 859-334-2117 or at the Parks Office, 5958 Garrard Street, Burlington.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+        "id": "boone-woods-park.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -1667,6 +1937,96 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Some routes use smooth, accessible boardwalks over ponds and walkways of finely crushed limestone.",
+        "source_url": "https://www.cincynature.org/visit",
+        "id": "cincinnati-nature-center-rowe-woods.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The center rates a trail easy when it is relatively flat, under 1.25 miles, at least 3 feet wide, with bridged stream crossings.",
+        "source_url": "https://www.cincynature.org/visit/our-trails",
+        "id": "cincinnati-nature-center-rowe-woods.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Restrooms are behind Krehbiel Pavilion and inside Rowe Visitor Center, with water fountains near both; the center says all restrooms are open during grounds hours even if the visitor center is closed.",
+        "source_url": "https://www.cincynature.org/visit",
+        "id": "cincinnati-nature-center-rowe-woods.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Forest Ear-nocular is designed to amplify the subtle sounds of nature.",
+        "source_url": "https://www.cincynature.org/visit",
+        "id": "cincinnati-nature-center-rowe-woods.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Admission at the gatehouse is card only. A mobile guide works through a web link, with no download or password.",
+        "source_url": "https://www.cincynature.org/visit/visit-us",
+        "id": "cincinnati-nature-center-rowe-woods.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -2711,6 +3071,60 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For accessibility questions, the library system lists 513-369-6968 (option 5) and accessibility@chpl.org; during a visit, any staff member can help.",
+        "source_url": "https://chpl.org/accessibility-services/",
+        "id": "downtown-main-library.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Main Library has a drive-thru.",
+        "source_url": "https://chpl.org/locations/1/",
+        "id": "downtown-main-library.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The library mails materials anywhere in Hamilton County to people with medical disabilities.",
+        "source_url": "https://chpl.org/outreach/",
+        "id": "downtown-main-library.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Entrance closure is time-sensitive. Confirm the route and facilities needed for your visit.",
@@ -2879,6 +3293,60 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Additional parking is at the north end of the Florence Government Center.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Outside food and drinks are not allowed in the facility.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "When thunder or lightning is noticed, the pool is cleared until 30 minutes after the last thunder. For questions or help, call (859) 282-4130, 9 a.m. to 5 p.m. weekdays.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public city website reporting; no on-site audit. Seasonal venue: the posted 2026 operating season ends Labor Day. Verify the next opening date. No claim is made about lift access to other pools or slides.",
@@ -2956,6 +3424,42 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Listed amenities include parking, the playground and restrooms; restroom accessibility is not stated.",
+        "source_url": "https://www.greatparks.org/parks/francis-recreacres",
+        "id": "francis-recreacres.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Great Parks motor vehicle permit is required to drive into the park.",
+        "source_url": "https://www.greatparks.org/parks/francis-recreacres",
+        "id": "francis-recreacres.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -3126,6 +3630,42 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For accessibility questions, the library system lists 513-369-6968 (option 5) and accessibility@chpl.org; during a visit, any staff member can help.",
+        "source_url": "https://chpl.org/accessibility-services/",
+        "id": "harrison-branch-library.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The library mails materials anywhere in Hamilton County to people with medical disabilities.",
+        "source_url": "https://chpl.org/outreach/",
+        "id": "harrison-branch-library.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. The facility list does not specify door widths, restroom layout or sensory conditions. Contact the branch for details.",
@@ -3282,6 +3822,42 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "All meeting rooms are described as accessible, with power outlets.",
+        "source_url": "https://www.kentonlibrary.org/locations/4",
+        "id": "kenton-county-public-library-covington-branch.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The drive-thru closes one hour before the branch.",
+        "source_url": "https://www.kentonlibrary.org/locations/4",
+        "id": "kenton-county-public-library-covington-branch.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -3457,6 +4033,78 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Indoor ADA viewing is on the upper bar level house right of the sound booth and in Level 2 sections H and L; outdoor ADA viewing is house right in the area marked ADA and section F. For access questions, call 859-900-2294.",
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+        "id": "megacorp-pavilion.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For general-admission shows, Guest Services staff can help with accessible seating on arrival.",
+        "source_url": "https://promowestlive.com/cincinnati/faq",
+        "id": "megacorp-pavilion.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Almost all shows are general-admission standing room only, and almost all have no re-entry.",
+        "source_url": "https://promowestlive.com/cincinnati/faq",
+        "id": "megacorp-pavilion.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Chairs, strollers, coolers, umbrellas and car seats are prohibited, as are non-service animals and prescriptions without a label.",
+        "source_url": "https://promowestlive.com/cincinnati/faq",
+        "id": "megacorp-pavilion.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website reporting; no on-site audit. Contact the venue in advance about the specific indoor or outdoor event layout.",
@@ -3534,6 +4182,96 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 0.6-mile Tallgrass Prairie Trail is labeled Not Accessible.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail",
+        "id": "miami-whitewater-forest.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Shaker Trace Trail is getting a new 2-inch asphalt overlay, and sections will close temporarily during repairs and paving.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "id": "miami-whitewater-forest.mobility.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Shaker Trace Nursery campus has a paved connection to the Shaker Trace Outer Loop Trail.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
+        "id": "miami-whitewater-forest.mobility.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Great Parks motor vehicle permit is required to drive into the park. The park phone is 513-367-4774.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "id": "miami-whitewater-forest.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The harbor has a snack bar with outdoor seating.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+        "id": "miami-whitewater-forest.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -4438,6 +5176,96 @@
             "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 0.6-mile Island Grove Trail is rated easy but labeled Not Accessible.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods/island-grove-trail",
+        "id": "sharon-woods.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 0.7-mile Lone Oak Trail is rated easy but labeled Not Accessible.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail",
+        "id": "sharon-woods.mobility.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 1.3-mile Buckeye Falls Trail is rated easy/moderate and labeled Not Accessible.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail",
+        "id": "sharon-woods.mobility.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The harbor area has ample shaded seating.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods/sharon-woods-harbor",
+        "id": "sharon-woods.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Great Parks motor vehicle permit is required to drive into the park. The park phone is 513-563-4513.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods",
+        "id": "sharon-woods.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Harbor construction affects amenities; check closures. Address and construction source: https://www.greatparks.org/parks/sharon-woods",
@@ -4896,6 +5724,78 @@
             "note": "Re-read the live source; the summary still matches."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchairs, adaptive strollers and other mobility aids are always allowed throughout the museum. Free on-site parking is limited.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Large-print exhibition labels are available, and staff are trained to respond to visitors with neurodivergent and invisible disabilities.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Bags smaller than 11 by 15 inches can be carried in the galleries.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Accessibility questions go to accessibility@taftmuseum.org.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Confirm individual accommodation needs with accessibility@taftmuseum.org.",
@@ -5086,6 +5986,42 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Free, unmetered street parking is on all four sides of the building, and The Carnegie's own lot, behind the building at Robbins and Greenup, is always open to patrons. Valet parking is not offered unless stated.",
+        "source_url": "https://thecarnegie.com/direction-and-parking/",
+        "id": "the-carnegie.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Captioning has been offered at major theatrical performances since 2006.",
+        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "id": "the-carnegie.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -5486,6 +6422,78 @@
             "note": "Added during the November 2026 source recheck; the source states this directly."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Harbor Loop Trail is a 3.4-mile shared-use trail rated easy; the page doesn't say whether it is accessible.",
+        "source_url": "https://www.greatparks.org/parks/winton-woods/harbor-loop-trail",
+        "id": "winton-woods.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The West Branch Trail is a 0.9-mile shared-use trail rated easy; the page doesn't say whether it is accessible.",
+        "source_url": "https://www.greatparks.org/parks/winton-woods/west-branch-trail",
+        "id": "winton-woods.mobility.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Great Parks motor vehicle permit is required to drive into the park. The park phone is 513-521-7275.",
+        "source_url": "https://www.greatparks.org/parks/winton-woods",
+        "id": "winton-woods.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guest Relations at the Winton Center is open weekdays, 8 a.m. to 4:30 p.m.",
+        "source_url": "https://www.greatparks.org/parks/winton-woods/winton-center",
+        "id": "winton-woods.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Verify current launch operation and park closures. Address source: https://www.greatparks.org/parks/winton-woods",
@@ -5732,6 +6740,42 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The main floor has live music and live sports on big screens.",
+        "source_url": "https://mollymalonesirishpub.com/covington/",
+        "id": "molly-malones-covington.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To ask about access, call (859) 491-6659 or email info@mollymalonesirishpub.com.",
+        "source_url": "https://mollymalonesirishpub.com/covington/contact/",
+        "id": "molly-malones-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. These details concern the named event rooms. Confirm the step-free route from the street to the elevator, its dimensions and availability, restroom accessibility, and access to other dining or outdoor areas. Private restrooms are not necessarily accessible restrooms.",
@@ -5772,6 +6816,42 @@
         "text": "The venue describes its lower-level main dining room and Bourbon Lounge as accessible. Confirm the entrance and restroom routes for your visit.",
         "source_url": "https://parties.smokejustis.com/",
         "id": "smoke-justis.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Bourbon Lounge is a room for standing and mingling, with limited seating spread around it. It stays open to the public, so a large reservation there is a table in a busy room.",
+        "source_url": "https://parties.smokejustis.com/",
+        "id": "smoke-justis.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For other access questions, the venue lists 859-814-8858 and jade@smokejustis.com.",
+        "source_url": "https://parties.smokejustis.com/",
+        "id": "smoke-justis.cognitive.1",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-08",
         "published_at": null,
@@ -5836,6 +6916,78 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Seating opens 30 minutes before each performance.",
+        "source_url": "https://falcontheater.net/tickets-information/",
+        "id": "falcon-theatre.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "If you leave during a performance, readmittance is at the house manager's discretion; latecomers are also seated at the house manager's discretion.",
+        "source_url": "https://falcontheater.net/tickets-information/ticket-policies/",
+        "id": "falcon-theatre.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Street parking is available on most main and side streets; check the parking meters for their hours.",
+        "source_url": "https://falcontheater.net/contact-us/directions-to-falcon/",
+        "id": "falcon-theatre.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The full program is posted online so you can read it before or after the show.",
+        "source_url": "https://falcontheater.net/health-safety/",
+        "id": "falcon-theatre.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Advance accommodation instructions do not establish every physical route. Confirm step-free entry, wheelchair and companion-seat locations, and accessible restrooms with the box office.",
@@ -5858,6 +7010,42 @@
         "text": "Shows are general admission. Seating arrangements vary by event and available seats are first come, first served; confirm your show's room and seating arrangements before buying.",
         "source_url": "https://www.southgatehouse.com/about/",
         "id": "southgate-house-revival.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Seating varies by show: some are standing room only, some are all seated, and most are a mix. A state-issued ID is required for all guests, whatever their age.",
+        "source_url": "https://www.southgatehouse.com/about/",
+        "id": "southgate-house-revival.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Smoking and vaping are not allowed in the venue.",
+        "source_url": "https://www.southgatehouse.com/about/",
+        "id": "southgate-house-revival.chronic.1",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-08",
         "published_at": null,
@@ -5940,6 +7128,24 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Valet parking for Newport on the Levee is at the East Third Street entrance behind Brio Tuscan Grille. For parking questions, call (859) 888-2455.",
+        "source_url": "https://www.newportonthelevee.com/directions-and-parking/",
+        "id": "amc-newport-on-the-levee-20.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Broad amenity listings do not establish a complete step-free route. Confirm the street or garage entrance, elevators and operating hours, outage alternative, accessible restrooms, and wheelchair/companion positions for your auditorium. Confirm assistive-device availability for the selected screening.",
@@ -5998,6 +7204,24 @@
         "text": "The official homepage publishes a new telephone number, 513-873-7233. Use the current official contact details when asking about access arrangements.",
         "source_url": "https://gobananascomedy.com/main/",
         "id": "go-bananas-comedy-club.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Show listings say doors open at 6:30 for 7:30 shows and 9:20 for 9:45 shows; arriving early helps if you need a particular seat.",
+        "source_url": "https://gobananascomedy.com/main/",
+        "id": "go-bananas-comedy-club.cognitive.4",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-08",
         "published_at": null,
@@ -6668,6 +7892,42 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The drive-thru window closes one hour before the branch.",
+        "source_url": "https://www.kentonlibrary.org/locations/8/",
+        "id": "kenton-county-public-library-erlanger-branch.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Kenton County's homebound service makes free monthly deliveries of available materials.",
+        "source_url": "https://www.kentonlibrary.org/homebound/",
+        "id": "kenton-county-public-library-erlanger-branch.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -6709,6 +7969,42 @@
         "source_url": "https://www.kentonlibrary.org/locations/5/",
         "id": "kenton-county-public-library-independence-branch.chronic.1",
         "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The branch has a drive-through window.",
+        "source_url": "https://www.kentonlibrary.org/locations/5/",
+        "id": "kenton-county-public-library-independence-branch.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Kenton County's homebound service makes free monthly deliveries of available materials.",
+        "source_url": "https://www.kentonlibrary.org/homebound/",
+        "id": "kenton-county-public-library-independence-branch.chronic.3",
+        "source_type": "venue_official",
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
@@ -7290,6 +8586,1378 @@
         "text": "Connector streetcar stops nearby include 14th & Elm, Washington Park, and 12th & Vine.",
         "source_url": "https://www.memorialhallotr.com/plan-your-visit/",
         "id": "memorial-hall-otr.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Andrew J Brady Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "25 Race Street, Cincinnati, OH 45202",
+    "website": "https://bradymusiccenter.com/",
+    "source_url": "https://bradymusiccenter.com/accessibility",
+    "limitations": "Public website information; no on-site audit. Accessible restroom locations, assistive listening, drop-off points and quiet spaces are not described. Confirm with the venue before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "andrew-j-brady-music-center",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The venue says its indoor and outdoor venues are fully accessible, with ADA-compliant entrances and seating. Accessible, hearing-impaired or visually-impaired seating must be requested when you buy tickets.",
+        "source_url": "https://bradymusiccenter.com/accessibility",
+        "id": "andrew-j-brady-music-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Seats in the ADA sections are sold on a best-available basis through Ticketmaster or the box office during its hours.",
+        "source_url": "https://bradymusiccenter.com/accessibility",
+        "id": "andrew-j-brady-music-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Sign language interpretation is available on request at least three weeks before the event, subject to interpreter availability; email info@bradymusiccenter.com.",
+        "source_url": "https://bradymusiccenter.com/accessibility",
+        "id": "andrew-j-brady-music-center.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "From the Central Riverfront Garage, elevators are at Race Street, Freedom Way and Ted Berry Way. For the outdoor ICON Festival Stage, the Mehring Way entrance is reached by steps.",
+        "source_url": "https://bradymusiccenter.com/venue-info/faq",
+        "id": "andrew-j-brady-music-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Service animals covered under ADA regulations are allowed.",
+        "source_url": "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items",
+        "id": "andrew-j-brady-music-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Children's Theatre of Cincinnati — Emery Theater",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "1112 Walnut Street, Cincinnati, OH 45202",
+    "website": "https://thechildrenstheatre.com/",
+    "source_url": "https://thechildrenstheatre.com/accessibility/",
+    "limitations": "Public website information; no on-site audit. The accessible entrance, restrooms and parking or drop-off are not described. Performances at the Showtime Stage on Red Bank Road are not signed or audio described. Confirm with the box office.",
+    "checked_at": "2026-11-08",
+    "slug": "childrens-theatre-of-cincinnati-emery-theater",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Wheelchair-accessible seats and companion seats are offered at all price levels, with additional wheelchair-transfer seating in the Orchestra and Dress Circle. The Emery Theater has an elevator; email the theater to request an accessible seat.",
+        "source_url": "https://thechildrenstheatre.com/accessibility/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Selected MainStage performances have an ASL interpreter standing at audience left, and audio description is offered at the second Saturday 2 p.m. performance of each 2026–27 MainStage production.",
+        "source_url": "https://thechildrenstheatre.com/accessibility/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Assistive listening devices are available from the box office at every performance at the Emery, and a limited number of sensory bags with sunglasses, fidgets and headphones can be requested there.",
+        "source_url": "https://thechildrenstheatre.com/accessibility/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A shared quiet space with muted sound, dim lighting and room to move still has a view of the show. Sensory-friendly performances use softer lights and gentler sounds, with no fog or strobes, and have a quiet area.",
+        "source_url": "https://thechildrenstheatre.com/accessibility/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cincinnati Ballet — Center for Dance",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "1801 Gilbert Avenue, Cincinnati, OH 45202",
+    "website": "https://cballet.org/",
+    "source_url": "https://cballet.org/accessibility/",
+    "limitations": "Public website information; no on-site audit. This listing covers the ballet's Margaret and Michael Valentine Center for Dance; many mainstage performances are at other theaters with their own access arrangements. Service animals and assistive listening at this building are not described.",
+    "checked_at": "2026-11-08",
+    "slug": "cincinnati-ballet-center-for-dance",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Both sets of entrance doors have push buttons for independent entry and exit, and an elevator connects the floors.",
+        "source_url": "https://cballet.org/accessibility/",
+        "id": "cincinnati-ballet-center-for-dance.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "All studios are accessible for guests using mobility devices, and the Sheakley Premier Performance Studio and the Community Terrace and Performance Plaza can seat people using mobility devices.",
+        "source_url": "https://cballet.org/accessibility/",
+        "id": "cincinnati-ballet-center-for-dance.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Designated accessible parking is on the west (I-71) side near the ground-floor entrance.",
+        "source_url": "https://cballet.org/accessibility/",
+        "id": "cincinnati-ballet-center-for-dance.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "All restrooms have accessible stalls, and the first-level restroom and locker facilities include an accessible shower stall.",
+        "source_url": "https://cballet.org/accessibility/",
+        "id": "cincinnati-ballet-center-for-dance.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cincinnati Ballet presents sensory-friendly versions of select ballets during the season; check where each one is performed.",
+        "source_url": "https://cballet.org/accessibility/",
+        "id": "cincinnati-ballet-center-for-dance.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nippert Stadium (University of Cincinnati)",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "2700 Bearcats Way, Cincinnati, OH 45221",
+    "website": "https://gobearcats.com/facilities/nippert-stadium",
+    "source_url": "https://gobearcats.com/ada-accessibility",
+    "limitations": "Public website information for UC athletics; no on-site audit. Elevators, companion seating and the accessible entry gate are not described, and other events may differ. Call (513) 556-2283 before attending.",
+    "checked_at": "2026-11-08",
+    "slug": "nippert-stadium",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "ADA seating is in Sections 101–113, 115–117, 125–127 and 131–132, and in premium Sections 333, 334, 337 and 344; a seating map is linked from the page.",
+        "source_url": "https://gobearcats.com/ada-accessibility",
+        "id": "nippert-stadium.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking for football is in Woodside Garage for $25 (card only) with a state-issued disability placard, with a shuttle to a drop-off near the stadium. Gameday shuttles from Eden Garage are ADA accessible.",
+        "source_url": "https://gobearcats.com/ada-accessibility",
+        "id": "nippert-stadium.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "All restrooms are ADA accessible and have baby changing stations.",
+        "source_url": "https://gobearcats.com/ada-accessibility",
+        "id": "nippert-stadium.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Live closed captions show on each ribbon board and on your phone during home games. ASL interpreters can be requested for any UC event through the university's ASL/CART request form.",
+        "source_url": "https://gobearcats.com/nippert-gameday-guide",
+        "id": "nippert-stadium.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fifth Third Arena (University of Cincinnati)",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "2700 Bearcats Way, Cincinnati, OH 45221",
+    "website": "https://gobearcats.com/facilities/fifth-third-arena",
+    "source_url": "https://gobearcats.com/basketball-gameday-guide",
+    "limitations": "Public website information for UC athletics; no on-site audit. Wheelchair seating locations, elevators, restrooms and the accessible entrance are not described. Contact the UC Athletics Ticket Office before attending.",
+    "checked_at": "2026-11-08",
+    "slug": "fifth-third-arena",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Cash parking for people needing accessible parking is in Campus Green Garage, Woodside Garage, University Garage Level 1 (men's basketball) and Corry Garage (women's basketball), with a state-issued disability placard.",
+        "source_url": "https://gobearcats.com/basketball-gameday-guide",
+        "id": "fifth-third-arena.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Pre-recorded videos on the main board have open captions, and live captioning is available on your phone during games. ASL interpreters can be requested for any UC event.",
+        "source_url": "https://gobearcats.com/basketball-gameday-guide",
+        "id": "fifth-third-arena.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The arena follows the University of Cincinnati's service animal and emotional support animal policy.",
+        "source_url": "https://gobearcats.com/basketball-gameday-guide",
+        "id": "fifth-third-arena.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Everybody's Treehouse — Mt. Airy Forest",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "5083 Colerain Ave., Cincinnati, OH 45223",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+    "limitations": "Public website information; no on-site audit. Cincinnati Parks' news page says the treehouse has reopened, but the Mt. Airy park page still describes it as closed for repairs; confirm it is open before you go. Ramp slopes, accessible parking at the treehouse and restroom accessibility are not stated.",
+    "checked_at": "2026-11-08",
+    "slug": "everybodys-treehouse-mt-airy-forest",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks describes Everybody's Treehouse as an accessible treehouse built in 2006 for visitors of all abilities: 1,500 square feet, 14 feet off the ground, with six side ramps connected to 12 trees.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "everybodys-treehouse-mt-airy-forest.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Cincinnati Parks news item says the treehouse is once again welcoming visitors; the park page calls it Ohio's only wheelchair-accessible public treehouse.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+        "id": "everybodys-treehouse-mt-airy-forest.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Mt. Airy Forest feature list includes paved walkways and parking.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+        "id": "everybodys-treehouse-mt-airy-forest.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bettman Nature Preserve",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "4 Beech Ln., Cincinnati, OH 45208",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+    "limitations": "Public website information; no on-site audit. Parking, restroom accessibility and trail surfaces beyond the paved path are not described. The nature center building is open mainly for programs.",
+    "checked_at": "2026-11-08",
+    "slug": "bettman-nature-preserve",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The preserve has a paved, wheelchair-accessible path leading to views of the preserve, and an accessible trail that winds through about six acres of forest.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+        "id": "bettman-nature-preserve.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Cincinnati Parks describes the Bettman Sensory Garden and Pathway in O'Bryonville as having accessible walkways, easy access to an overlook, an accessible picnic table and raised planting beds.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "bettman-nature-preserve.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Burnet Woods & Trailside Nature Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "3251 Brookline Ave., Cincinnati, OH 45220",
+    "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+    "limitations": "Public website information; no on-site audit. Restroom accessibility and accessible parking are not stated, and the park page lists some restrooms as out of service. Confirm with Cincinnati Parks.",
+    "checked_at": "2026-11-08",
+    "slug": "burnet-woods-trailside-nature-center",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Trailside Nature Center has an accessible meeting room for nature education programs.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "id": "burnet-woods-trailside-nature-center.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The playground off Clifton Avenue has accessible features, including a glider, a group disc swing and musical instruments. Its engineered wood fiber surface is described as accessible for mobility devices.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "id": "burnet-woods-trailside-nature-center.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks says an accessible fishing station was built at the lake, and the park's feature list includes paved walkways.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "burnet-woods-trailside-nature-center.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": "2020-07-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jungle Jim's International Market — Fairfield",
+    "city": "Fairfield",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "5440 Dixie Hwy, Fairfield, OH 45014",
+    "website": "https://www.junglejims.com/",
+    "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+    "limitations": "Public website information; no on-site audit. Accessible parking, restrooms and quiet hours are not described. Confirm with customer service before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "jungle-jims-fairfield",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Motorized shopping carts and standard wheelchairs are available at the main entrances.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-fairfield.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "A Caroline Cart, a shopping cart with a seat for an older child or adult, is available by special request at Customer Service. Only service animals are allowed.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-fairfield.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Great Wolf Lodge — Mason",
+    "city": "Mason",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "2501 Great Wolf Dr, Mason, OH 45040",
+    "website": "https://www.greatwolf.com/mason",
+    "source_url": "https://www.greatwolf.com/mason/accessibility",
+    "limitations": "Public website information; no on-site audit. Where the waterproof wheelchairs are kept, which audibility equipment is offered, and the accessibility of slide queues and lockers are not described. Confirm with Guest Services before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "great-wolf-lodge-mason",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The lodge lists an accessible front entrance, designated accessible parking on site, and accessible common-area restrooms and water fountains.",
+        "source_url": "https://www.greatwolf.com/mason/accessibility",
+        "id": "great-wolf-lodge-mason.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Pool areas have some combination of sloped zero-depth entries, transport systems or pool lifts, and a limited number of waterproof wheelchairs are free to use at specific locations. Waterslides and elevated attractions are not wheelchair accessible.",
+        "source_url": "https://www.greatwolf.com/mason/accessibility",
+        "id": "great-wolf-lodge-mason.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchairs can be borrowed temporarily from Guest Services, first come, first served.",
+        "source_url": "https://www.greatwolf.com/mason/faq",
+        "id": "great-wolf-lodge-mason.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Closed captioning or transcripts are available for certain attractions with audio, including MagiQuest, and equipment to help with hearing is available on request.",
+        "source_url": "https://www.greatwolf.com/mason/accessibility",
+        "id": "great-wolf-lodge-mason.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A downloadable sensory guide, developed with IBCCES, covers each slide, pool, ride, attraction, show and activity.",
+        "source_url": "https://www.greatwolf.com/mason/accessibility",
+        "id": "great-wolf-lodge-mason.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fitton Center for Creative Arts",
+    "city": "Hamilton",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "101 S Monument Ave, Hamilton, OH 45011",
+    "website": "https://www.fittoncenter.org",
+    "source_url": "https://www.fittoncenter.org/accessibility",
+    "limitations": "Public website information; no on-site audit. Assistive listening, captioned or interpreted performances and sensory-friendly programs are not described. Contact the center before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "fitton-center-for-creative-arts",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "There are four designated accessible parking spaces with access aisles, a front-entrance curb cut, and automatic door buttons on the interior and exterior entrance doors.",
+        "source_url": "https://www.fittoncenter.org/accessibility",
+        "id": "fitton-center-for-creative-arts.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "An oversized elevator serves all floors, and the theater has two designated wheelchair seats with companion seating.",
+        "source_url": "https://www.fittoncenter.org/accessibility",
+        "id": "fitton-center-for-creative-arts.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Mobility-device-accessible restroom stalls are on the first and third floors.",
+        "source_url": "https://www.fittoncenter.org/accessibility",
+        "id": "fitton-center-for-creative-arts.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Room signs are in Braille and gallery signage is high-contrast and large-print. With advance notice, tactile tours of selected artworks and building features are offered.",
+        "source_url": "https://www.fittoncenter.org/accessibility",
+        "id": "fitton-center-for-creative-arts.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "With advance notice, support workers can accompany registered students in classes and workshops without paying a registration fee.",
+        "source_url": "https://www.fittoncenter.org/accessibility",
+        "id": "fitton-center-for-creative-arts.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kenwood Towne Centre",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "7875 Montgomery Road, Cincinnati, OH 45236",
+    "website": "https://www.kenwoodtownecentre.com",
+    "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+    "limitations": "Public website information; no on-site audit. Accessible parking locations, whether the family restrooms suit wheelchair users, scooter loans and quiet hours are not described. Ask the Security office.",
+    "checked_at": "2026-11-08",
+    "slug": "kenwood-towne-centre",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Manual wheelchairs are free to borrow from the Security office, first come, first served.",
+        "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+        "id": "kenwood-towne-centre.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Elevators are on the upper level to the left of Nordstrom and outside Dillard's. Ride-share drop-off and pick-up points are on the lower level of the parking garage.",
+        "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+        "id": "kenwood-towne-centre.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Family restrooms are on the lower level, inside the men's and women's restrooms. Seating areas are near center court on both floors, near Apple on the second floor, and in the Nordstrom wing.",
+        "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+        "id": "kenwood-towne-centre.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Doors open to mall walkers one hour before stores open. Pets are not allowed, but service dogs are.",
+        "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+        "id": "kenwood-towne-centre.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Voice of America MetroPark",
+    "city": "West Chester",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "7850 VOA Park Drive, West Chester, OH 45069",
+    "website": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+    "source_url": "https://www.yourmetroparks.net/about/accessibility",
+    "limitations": "Public website information; no on-site audit. How much of the nine miles of trail is paved, accessible parking, and whether the restrooms and playground are accessible are not described. Contact MetroParks before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "voice-of-america-metropark",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "MetroParks of Butler County lends GRIT all-terrain wheelchairs (one adult-size, one child-size), picked up and returned at the park's Welcome Center. Reservations need a refundable $75 deposit, and the chairs can be used in other parks too.",
+        "source_url": "https://www.yourmetroparks.net/about/accessibility",
+        "id": "voice-of-america-metropark.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The park has nine miles of combined paved and natural trails, and it received a Wheel the World Destination designation in 2025.",
+        "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+        "id": "voice-of-america-metropark.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Listed amenities include flush toilets, portable toilets, picnic tables, a playground and water.",
+        "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+        "id": "voice-of-america-metropark.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "MetroParks has an accessibility coordinator, reachable at (513) 867-5835 or swingate@yourmetroparks.net.",
+        "source_url": "https://www.yourmetroparks.net/about/accessibility",
+        "id": "voice-of-america-metropark.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Heritage Village Museum",
+    "city": "Sharonville",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "11500 Lebanon Road (Route 42), Sharonville, OH 45241",
+    "website": "https://heritagevillagecincinnati.org",
+    "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+    "limitations": "Public website information; no on-site audit. The museum is inside Sharon Woods but run separately. Step-free entry into the historic buildings and assistive listening for tours are not described; the museum says it is making accessibility improvements. Call (513) 563-9484 before your visit.",
+    "checked_at": "2026-11-08",
+    "slug": "heritage-village-museum",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Accessible parking and drop-off can be arranged on request by calling (513) 563-9484. A wheelchair is available on request, and during large events a golf cart can carry visitors who need help.",
+        "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+        "id": "heritage-village-museum.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The village pathway is compacted gravel, which the museum says most wheelchairs, strollers and wagons can handle. Benches are outside most buildings; a map shows where.",
+        "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+        "id": "heritage-village-museum.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For an accessible restroom during regular hours, ask a staff member or volunteer; two accessible portable restrooms are added during events.",
+        "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+        "id": "heritage-village-museum.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Self-guided tour booklets come in large print and Braille, among other formats. Trained service animals are welcome.",
+        "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+        "id": "heritage-village-museum.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A designated quiet area is available at all events.",
+        "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+        "id": "heritage-village-museum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Butler County Regional Transit Authority (BCRTA) and BCARE paratransit",
+    "city": "Hamilton",
+    "state": "OH",
+    "category": "Transportation",
+    "address": "6 S. 2nd Street, Hamilton, OH 45011",
+    "website": "https://www.butlercountyrta.com",
+    "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+    "limitations": "Public website information; no on-site audit. The address is the agency's administrative office. Stop announcements and the accessibility of individual stations and stops are not described.",
+    "checked_at": "2026-11-08",
+    "slug": "butler-county-regional-transit-authority",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "All BCRTA and MTS vehicles have lifts for mobility devices.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "ADA paratransit serves people within 3/4 mile of fixed routes who are certified by BCRTA; approval lasts five years. One personal care attendant rides free.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "ADA trips must be booked the day before, but same-day trips are allowed when the schedule permits.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A free travel training program teaches riders to plan and ride fixed routes, paratransit and the BGo curb-to-curb service.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/travel-training/",
+        "id": "butler-county-regional-transit-authority.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ohio Renaissance Festival",
+    "city": "Waynesville",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "10542 Ohio 73, Waynesville, OH 45068",
+    "website": "https://renfestival.com",
+    "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+    "limitations": "Public website information; no on-site audit. The accessibility guide on the festival's site is written by an author who works with the festival. Wheelchair loans, accessible stage seating and quiet areas are not described.",
+    "checked_at": "2026-11-08",
+    "slug": "ohio-renaissance-festival",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Pathways are gravel, and the festival says to expect rough terrain. It is not renting mobility scooters at this time.",
+        "source_url": "https://renfestival.com/faq/",
+        "id": "ohio-renaissance-festival.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is the first few rows nearest the front gate. The three archway entrances have no turnstiles or steps.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Every restroom location has an accessible stall; a few restrooms sit on raised platforms with a ramp. Most food counters are at standing chest height. There are two first aid stations, one just inside the front gate.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The festival's guide lists loud moments, including a real cannon fired at the front gate at 10:30 a.m. and stunt gunfire at the Shipwreck Stage pirate show.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.sensory.1",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-08",
         "published_at": null,
