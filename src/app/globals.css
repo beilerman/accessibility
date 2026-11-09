@@ -81,10 +81,25 @@
 /* A slightly larger base size: this audience includes low-vision readers. */
 html { font-size: 106.25%; }
 
+/*
+ * Size-matched fallback for Atkinson Hyperlegible Next. next/font has no
+ * metrics for it, so these were measured in Chromium (canvas text metrics,
+ * Nov 2026): it is 1.1% narrower than Arial, with ascent 0.98em and
+ * descent 0.32em. Matching them keeps text from jumping while the font loads.
+ */
+@font-face {
+  font-family: "Atkinson Fallback";
+  src: local("Arial"), local("ArialMT"), local("Helvetica");
+  size-adjust: 98.91%;
+  ascent-override: 99.08%;
+  descent-override: 32.35%;
+  line-gap-override: 0%;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-body), system-ui, sans-serif;
+  font-family: var(--font-body), "Atkinson Fallback", system-ui, sans-serif;
   text-rendering: optimizeLegibility;
 }
 
