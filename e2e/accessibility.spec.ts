@@ -28,6 +28,8 @@ const routes = [
   "/venues/ault-park",
   "/venues/washington-park",
   "/venues/fountain-square",
+  "/venues/memorial-hall-otr",
+  "/venues/cincinnati-museum-center",
   "/about",
   "/sources",
   "/updates",
@@ -423,7 +425,7 @@ test("reviewed places are surfaced on the homepage and in recent changes", async
   await expect(
     page.getByRole("link", { name: "Bogart’s" }).first(),
   ).toBeVisible();
-  await expect(page.getByText(/New Threshold reviews \(3\)/)).toBeVisible();
+  await expect(page.getByText(/New Threshold reviews \(5\)/)).toBeVisible();
 });
 
 test("navigation marks the current section and hero photos link to real places", async ({

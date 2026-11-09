@@ -7216,5 +7216,93 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Memorial Hall",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "1225 Elm Street, Cincinnati, OH 45202",
+    "website": "https://www.memorialhallotr.com/",
+    "source_url": "https://www.memorialhallotr.com/about-memo/",
+    "checked_at": "2026-11-08",
+    "limitations": "Public website information plus a firsthand Threshold review; no formal on-site audit. The front entrance has steps; use the marked accessible door on the right side. Accessible restrooms, the route from the garage, and seat locations for your event are not described; confirm with the box office.",
+    "slug": "memorial-hall-otr",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Memorial Hall says its basement, first and second floors are fully accessible by a patron elevator on the north side of the building (the right side when facing the front entrance), entered at street level.",
+        "source_url": "https://www.memorialhallotr.com/about-memo/",
+        "id": "memorial-hall-otr.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Anderson Theater has a number of wheelchair- and scooter-accessible seating locations; for details on accessible seating, call the box office at (513) 977-8838.",
+        "source_url": "https://www.memorialhallotr.com/about-memo/",
+        "id": "memorial-hall-otr.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The box office takes calls Tuesday to Friday, 1 to 6 p.m. The most convenient parking is the Washington Park Garage directly across the street; other nearby garages and lots are listed on the visit page.",
+        "source_url": "https://www.memorialhallotr.com/plan-your-visit/",
+        "id": "memorial-hall-otr.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Connector streetcar stops nearby include 14th & Elm, Washington Park, and 12th & Vine.",
+        "source_url": "https://www.memorialhallotr.com/plan-your-visit/",
+        "id": "memorial-hall-otr.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-08",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]
