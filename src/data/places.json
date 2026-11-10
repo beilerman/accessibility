@@ -167,7 +167,7 @@
     "address": "650 Walnut Street, Cincinnati, OH 45202",
     "website": "https://www.cincinnatiarts.org/aronoff-center",
     "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -305,6 +305,96 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For Procter & Gamble Hall, automatic accessible doors are at the Weston Art Gallery entrance on the plaza near Seventh and Walnut, and two patron elevators are in the Weston Art Gallery and near the Ticket Office.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Accessible seating is available for patrons who cannot transfer out of their wheelchairs; call the Ticket Office at (513) 621-2787 in advance. Tell staff at purchase about accommodations or a service animal.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "In Procter & Gamble Hall, restrooms are in the side corridors of the lobbies, except on the Balcony level, where they are on the north side only.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "At ASL performances, the audience can see both the interpreters and the stage from a designated area.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The designated drop-off is on Seventh Street; the Gallery entrance there is accessible and leads to an elevator serving all levels of Procter & Gamble Hall.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/directions-parking",
+        "id": "aronoff-center-for-the-arts.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -2978,7 +3068,7 @@
     "address": "1195 Elm Street, Cincinnati, OH 45202",
     "website": "https://www.cincyshakes.com/",
     "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -3067,6 +3157,96 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "There are three wheelchair spaces, two in the Lower Gallery and one in the Upper Gallery. You enter at Row D, so every Row D seat is step-free; floor seats on the lowered stage are reached by one step down.",
+        "source_url": "https://www.cincyshakes.com/your-visit/seating",
+        "id": "cincinnati-shakespeare-company.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Transfer-arm seats are available and marked on the seating chart.",
+        "source_url": "https://www.cincyshakes.com/on-stage/sensory",
+        "id": "cincinnati-shakespeare-company.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "All-gender restrooms on the second floor are individual locking stalls with a shared sink.",
+        "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
+        "id": "cincinnati-shakespeare-company.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Sensory-friendly shows reduce lighting and sound effects, and audience members may leave and return for breaks as often as needed.",
+        "source_url": "https://www.cincyshakes.com/on-stage/sensory",
+        "id": "cincinnati-shakespeare-company.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Washington Park garage needs no phone, and an attendant is usually available to help.",
+        "source_url": "https://www.cincyshakes.com/your-visit/parking",
+        "id": "cincinnati-shakespeare-company.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -4665,7 +4845,7 @@
     "address": "100 Joe Nuxhall Way, Cincinnati, OH",
     "website": "https://www.mlb.com/reds/ballpark",
     "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -4754,6 +4934,96 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Fans can use the Aira Explorer app for visual interpreting or the Aira ASL app for American Sign Language interpreting at Reds games. A sensory room in the TriHealth Family Zone is staffed by TriHealth medical personnel.",
+        "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
+        "id": "great-american-ball-park.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Elevators are behind Sections 101, 110, 121, 127 and 135. Accessible spaces in the Central Riverfront and East garages are pay-on-entry, first come, first served.",
+        "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
+        "id": "great-american-ball-park.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Backpacks are prohibited unless designed for medical or infant care. If a medical condition prevents metal-detector screening, other screening is arranged.",
+        "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
+        "id": "great-american-ball-park.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Re-entry works only through the designated gate at Gapper's Alley, where your ticket is scanned.",
+        "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
+        "id": "great-american-ball-park.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "All restrooms have diaper-changing stations and are accessible to guests with disabilities.",
+        "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
+        "id": "great-american-ball-park.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -7364,7 +7634,7 @@
     "address": "316 Pike Street, Cincinnati, OH 45202",
     "website": "https://www.taftmuseum.org/",
     "source_url": "https://www.taftmuseum.org/visitor-information/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -7502,6 +7772,60 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The museum says it is Cincinnati's first Sensory Inclusive certified museum. Flash and phone flashlights are not allowed in the galleries.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Segways and other non-medical mobility devices are not permitted. The front gates and garage open 15 minutes before the museum opens.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Coats cannot be carried through the galleries (wear it or use the coatroom), and backpacks must be carried by hand or worn on the front.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -8561,7 +8885,7 @@
     "address": "342 Ludlow Avenue, Cincinnati, OH",
     "website": "https://www.ludlowgaragecincinnati.com/",
     "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -8652,6 +8976,60 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "No backpacks are permitted; the bag rules list no medical exception. Entry includes metal-detector and bag screening.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "At general-admission shows a few seats are often (not always) left at the very rear, first come, first served. There is no food service in the concert venue.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Concerts can be loud; the venue strongly recommends hearing protection for young children.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Confirm west-entry opening hours, lift operating status, dimensions and capacity, the parking or drop-off route, and companion seating before your visit.",
@@ -8667,7 +9045,7 @@
     "address": "7950 Freedom Way, Florence, KY",
     "website": "https://florenceyalls.com/",
     "source_url": "https://florenceyalls.com/pages/yalls-a-z",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -8736,6 +9114,60 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Outside food and drinks are prohibited, with no medical exception listed. First Aid is on the third-base concourse.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Bags must be clear unless smaller than 4.5 by 6.5 inches; staff provide a bag for medically necessary items if needed.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Games called for extreme heat can be exchanged for a future game. General parking is free in all lots except the VIP lot.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -8931,7 +9363,7 @@
     "address": "636 Monmouth Street, Newport, KY",
     "website": "https://falcontheater.net/",
     "source_url": "https://falcontheater.net/visit/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -9036,6 +9468,24 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Reserved tickets must be claimed at least 10 minutes before showtime, and latecomers may be denied admission depending on the production. Weather or illness cancellations are posted on the website and box-office line.",
+        "source_url": "https://falcontheater.net/tickets-information/ticket-policies/",
+        "id": "falcon-theatre.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -9570,7 +10020,7 @@
     "website": "https://www.sixflags.com/kingsisland",
     "source_url": "https://www.sixflags.com/kingsisland/accessibility",
     "limitations": "Public website information; no on-site audit. Ride-by-ride requirements, path grades, accessible parking, restroom facilities and quiet spaces are not established here; read the park's Guest Accessibility Guide and confirm before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "kings-island",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9696,6 +10146,114 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Present your IBCCES Accessibility Card at Guest Services on arrival to explain your accommodation needs; only IBCCES issues the card, not Kings Island. Each ride's Safety Guide sign shows where program guests enter.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Guests with leg prostheses may not ride Banshee, Delirium, Diamondback, Invertigo or Orion; some guests with certain amputations may ride Orion, Diamondback and Banshee with a separate supplemental restraint harness.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "On most rides a service animal must stay with a non-riding member of your party; staff cannot take control of it.",
+        "source_url": "https://www.sixflags.com/kingsisland/accessibility",
+        "id": "kings-island.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Guests with medically required diets may bring small soft-sided coolers. Otherwise only unopened and empty water bottles and baby food are allowed.",
+        "source_url": "https://www.sixflags.com/kingsisland/frequently-asked-questions",
+        "id": "kings-island.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "To leave and return the same day, ask for a re-entry ticket at the Front Gate or Soak City exit.",
+        "source_url": "https://www.sixflags.com/kingsisland/frequently-asked-questions",
+        "id": "kings-island.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Preferred Parking is next to the Front Gate; there are no Preferred spaces near the Soak City entrance.",
+        "source_url": "https://www.sixflags.com/kingsisland/parking",
+        "id": "kings-island.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -12406,7 +12964,7 @@
     "website": "https://www.fittoncenter.org",
     "source_url": "https://www.fittoncenter.org/accessibility",
     "limitations": "Public website information; no on-site audit. Assistive listening, captioned or interpreted performances and sensory-friendly programs are not described. Contact the center before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "fitton-center-for-creative-arts",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -12496,6 +13054,60 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Studios have height-adjustable tables, and the Ballroom, Rotary Vista Room and Riverview Terrace can be set up for any mobility device.",
+        "source_url": "https://www.fittoncenter.org/accessibility",
+        "id": "fitton-center-for-creative-arts.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Galleries close periodically for installations, so check the schedule. Accessibility questions: 513-863-8873 ext. 110 or frontdesk@fittoncenter.org.",
+        "source_url": "https://www.fittoncenter.org/accessibility",
+        "id": "fitton-center-for-creative-arts.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The parking lot is sometimes shared when several events are on.",
+        "source_url": "https://www.fittoncenter.org/faqs",
+        "id": "fitton-center-for-creative-arts.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -12742,7 +13354,7 @@
     "website": "https://heritagevillagecincinnati.org",
     "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
     "limitations": "Public website information; no on-site audit. The museum is inside Sharon Woods but run separately. Step-free entry into the historic buildings and assistive listening for tours are not described; the museum says it is making accessibility improvements. Call (513) 563-9484 before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "heritage-village-museum",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -12832,6 +13444,60 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Not every building is accessible yet; the museum says improvements are under way.",
+        "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+        "id": "heritage-village-museum.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The public restrooms are in the basement of Hayner House (to the right when facing the gift shop).",
+        "source_url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+        "id": "heritage-village-museum.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Building interiors are seen only on guided tours, which take about an hour and a half; self-guided visitors cannot enter the buildings.",
+        "source_url": "https://heritagevillagecincinnati.org/frequently-asked-questions/",
+        "id": "heritage-village-museum.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }

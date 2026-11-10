@@ -35,3 +35,10 @@ Adds 59 notes to 14 more listings, with all 93 candidate quotes matched against 
 - **Taft, Truist Arena:** medical bags, re-entry, restroom locations, Truist's emergency procedure. The Taft's food counter is down a flight of stairs.
 - **TANK:** reduced-fare ID, stops called out on request, the service-animal rules, requesting a bench or shelter. Conflict not published: the fare page says $1 but the FAQ says $0.75.
 - **Others:** Kenwood, Creation Museum, CAC, Ensemble, Great Wolf Lodge, The Carnegie, Vent Haven, Dinsmore, Cincinnati Ballet.
+
+## Fourth pass (same day)
+Adds 37 notes to 10 big venues, with all 67 quotes matched against a fresh fetch.
+- **Kings Island:** how the IBCCES card is used, which rides are closed to riders with leg prostheses, service animals on rides, soft-sided coolers for medical diets, re-entry.
+- **Great American Ball Park:** Aira visual and ASL interpreting, a staffed sensory room, elevator locations, medical backpacks and alternative screening, re-entry only through Gapper's Alley.
+- **Others:** the Aronoff (P&G Hall doors, elevators, restrooms), Cincinnati Shakespeare (step-free Row D, transfer-arm seats), the Taft Museum, Heritage Village, the Fitton Center, the Florence Y'alls, the Ludlow Garage and the Falcon Theatre.
+- **Not done:** the Newport Aquarium blocks scripted fetches (Akamai) and needs a browser pass.
