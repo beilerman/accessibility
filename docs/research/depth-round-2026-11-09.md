@@ -27,3 +27,11 @@ Adds 75 notes to 18 more listings, with every quote matched against a fresh fetc
 - **Nippert, Reds Hall of Fame, Brady, Children's Theatre:** medical bags, re-entry, first aid, run times, live-feed monitors. Brady's garage elevator is out of service, dated November 9.
 - **Observatory:** open by appointment only. The site also says staff may not be able to fully assist some disabilities.
 - **Smaller additions:** Krohn, Pyramid Hill, NKY Convention Center, BB Riverboats, Devou, Fountain Square (Winterhaus), Memorial Hall parking, Renaissance Festival (hills, re-entry, ASL weekend).
+
+## Third pass (same day)
+Adds 59 notes to 14 more listings, with all 93 candidate quotes matched against a fresh fetch.
+- **Paycor Stadium:** register in advance at First Aid if you may need to leave for medical reasons. The medical exceptions to the food and bag rules, the service-animal relief procedure, and accessible lot spaces limited to season pass holders.
+- **Cincinnati Zoo:** rentals can be reserved 24 hours ahead, placard holders are always admitted to Vine Lot, and medical coolers are stored case by case. Free admission for a caregiver and sensory-friendly restrooms.
+- **Taft, Truist Arena:** medical bags, re-entry, restroom locations, Truist's emergency procedure. The Taft's food counter is down a flight of stairs.
+- **TANK:** reduced-fare ID, stops called out on request, the service-animal rules, requesting a bench or shelter. Conflict not published: the fare page says $1 but the FAQ says $0.75.
+- **Others:** Kenwood, Creation Museum, CAC, Ensemble, Great Wolf Lodge, The Carnegie, Vent Haven, Dinsmore, Cincinnati Ballet.
