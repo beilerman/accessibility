@@ -393,10 +393,8 @@ test("recent changes list corrections and withdrawals with links to the note", a
   await expect(corrected).toBeVisible();
   await expect(page.getByText(/photosensitive-epilepsy warning/)).toBeVisible();
   await expect(page.getByText(/Withdrawn wording:.*paved/)).toBeVisible();
-  await page
-    .getByRole("link", { name: "Creation Museum" })
-    .first()
-    .click();
+  // Later "Added" entries also link to the venue, so target the corrected note's link.
+  await page.locator('a[href$="#creation-museum.sensory.1"]').first().click();
   await expect(page).toHaveURL(/\/venues\/creation-museum#creation-museum\.sensory\.1$/);
   await expect(page.locator("#creation-museum\\.sensory\\.1")).toBeInViewport();
 });

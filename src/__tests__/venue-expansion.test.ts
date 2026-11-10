@@ -37,7 +37,8 @@ describe("November source-backed venue expansion", () => {
     expect(place("molly-malones-covington").limitations).toMatch(/Private restrooms are not necessarily accessible/);
   });
   it("keeps limited-source venues' route gaps visible", () => {
-    expect(place("southgate-house-revival").limitations).toMatch(/Physical access remains unverified/);
+    // A firsthand Threshold review now covers the stages; the website still says nothing.
+    expect(place("southgate-house-revival").limitations).toMatch(/website does not describe physical access/);
     expect(place("southgate-house-revival").limitations).toMatch(/Sanctuary, Revival Room or Lounge/);
     expect(place("amc-newport-on-the-levee-20").limitations).toMatch(/outage alternative/);
     expect(text("amc-newport-on-the-levee-20")).not.toMatch(/kitchen|service elevator/i);
