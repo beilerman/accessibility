@@ -182,8 +182,8 @@
     "placeSlug": "southgate-house-revival",
     "reviewer": "Matthew Brothers",
     "reviewerRole": "Threshold co-owner",
-    "visitContext": "Shows attended as a wheelchair user. Visit dates not recorded.",
-    "visitedAt": null,
+    "visitContext": "Shows attended as a wheelchair user, most recently on September 3, 2026.",
+    "visitedAt": "2026-09-03",
     "reportedAt": "2026-11-09",
     "points": [
       {
@@ -205,6 +205,29 @@
       {
         "domain": "sensory",
         "text": "Audiences can be quite rambunctious."
+      }
+    ]
+  },
+  {
+    "id": "falcon-theatre.team.2026-11-09",
+    "placeSlug": "falcon-theatre",
+    "reviewer": "Matthew Brothers",
+    "reviewerRole": "Threshold co-owner",
+    "visitContext": "Performances attended as a wheelchair user, most recently on September 25, 2026.",
+    "visitedAt": "2026-09-25",
+    "reportedAt": "2026-11-09",
+    "points": [
+      {
+        "domain": "mobility",
+        "text": "The theatre is quite small (75 seats), and accessible seating is generally in the front row."
+      },
+      {
+        "domain": "mobility",
+        "text": "There is a step to get into the theatre, but they have a ramp."
+      },
+      {
+        "domain": "cognitive",
+        "text": "Be patient: it can take a minute, especially closer to showtime."
       }
     ]
   }
