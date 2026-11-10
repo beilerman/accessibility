@@ -277,10 +277,16 @@ test("keyboard-only search and mobile navigation, narrow layout and dark theme",
   await page.keyboard.type("Newport");
   await page.keyboard.press("Enter");
   await expect(page.getByRole("status")).toContainText("places found");
-  await page.getByRole("button", { name: "Open menu" }).click();
-  await expect(
-    page.getByRole("navigation", { name: "Mobile navigation" }),
-  ).toBeVisible();
+  // The search submit is a full page load, and the menu button only responds
+  // once the page has hydrated. Retry the click instead of racing hydration
+  // (this failed about half the time under parallel load and broke CI).
+  await expect(async () => {
+    const open = page.getByRole("button", { name: "Open menu" });
+    if (await open.isVisible()) await open.click();
+    await expect(
+      page.getByRole("navigation", { name: "Mobile navigation" }),
+    ).toBeVisible({ timeout: 1000 });
+  }).toPass();
   await page
     .getByRole("navigation", { name: "Mobile navigation" })
     .getByRole("link", { name: "Sources", exact: true })
@@ -477,3 +483,21 @@ test("navigation marks the current section and hero photos link to real places",
   ).toHaveAttribute("aria-current", "page");
 });
 
+
+test("place pages offer jump links with note counts", async ({ page }) => {
+  const place = places.find((p) => p.slug === "bogarts")!;
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/venues/bogarts");
+  const jumps = page.getByRole("navigation", { name: "On this page" });
+  const mobility = place.facts.filter(
+    (f) => f.domain === "mobility" && f.review_status !== "retired",
+  ).length;
+  await expect(
+    jumps.getByRole("link", { name: /Mobility & getting around/ }),
+  ).toContainText(String(mobility));
+  await jumps.getByRole("link", { name: /Sensory & communication/ }).click();
+  await expect(page).toHaveURL(/#sensory$/);
+  await expect(
+    page.getByRole("heading", { name: "Sensory & communication" }),
+  ).toBeInViewport();
+});

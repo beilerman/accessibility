@@ -115,6 +115,42 @@ export default async function PlacePage({
               the venue. No organization account has verified this listing.
             </p>
           </div>
+          <nav aria-label="On this page" className="page-jumps">
+            <ul>
+              {Object.entries(DOMAIN_LABELS).map(([key, label]) => {
+                const count = p.facts.filter((f) => f.domain === key).length;
+                return (
+                  <li key={key}>
+                    <a href={`#${key}`}>
+                      {label}{" "}
+                      <span className="jump-count">
+                        {count || "none yet"}
+                        <span className="sr-only">
+                          {count === 1 ? " note" : count ? " notes" : ""}
+                        </span>
+                      </span>
+                    </a>
+                  </li>
+                );
+              })}
+              <li>
+                <a href="#before-you-go">Limits to confirm</a>
+              </li>
+              {reports.length > 0 && (
+                <li>
+                  <a href="#visitor-reports">
+                    Visitor reports{" "}
+                    <span className="jump-count">
+                      {reports.length}
+                      <span className="sr-only">
+                        {reports.length === 1 ? " report" : " reports"}
+                      </span>
+                    </span>
+                  </a>
+                </li>
+              )}
+            </ul>
+          </nav>
         </div>
         {photo ? (
           <VenuePhoto photo={photo} />
@@ -229,7 +265,7 @@ export default async function PlacePage({
           })}
         </div>
         <aside aria-label="Plan your visit" className="space-y-6">
-          <section className="before-panel">
+          <section className="before-panel" id="before-you-go">
             <p className="eyebrow">BEFORE YOU GO</p>
             <h2 className="font-display text-2xl">
               Limits & things to confirm

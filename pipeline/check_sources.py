@@ -9,6 +9,12 @@ reasons unrelated to accessibility. Nothing here edits fact text.
 
   python3 pipeline/check_sources.py              # report only, save snapshot
   python3 pipeline/check_sources.py --flag       # also mark affected facts needs_recheck
+  python3 pipeline/check_sources.py --new-only   # baseline sources added since the last snapshot
+
+Where a note's supporting passage is on file (pipeline/evidence/quotes.json),
+a changed page is judged by whether that passage is still there, not by the
+page hash alone: SUPPORTED needs no action, QUOTE_MISSING names the notes to
+re-read.
 
 Run from the repository root. Standard library only.
 """
@@ -18,6 +24,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import hashlib
+import html as html_lib
 import json
 import re
 import sys
@@ -28,6 +35,10 @@ from pathlib import Path
 
 PLACES = Path("src/data/places.json")
 SNAPSHOT_DIR = Path("pipeline/source-checks")
+# {fact_id: {"url", "quote", "verified_at"}}: the verbatim passage an editor
+# matched against the live page when the note was written or rechecked.
+# Evidence for editors and this monitor only; never shown on the site.
+QUOTES = Path("pipeline/evidence/quotes.json")
 USER_AGENT = "ThresholdSourceCheck/1.0 (accessibility directory source monitor)"
 # Bump when fingerprint() changes; hashes from other versions are not compared.
 FINGERPRINT_VERSION = 5
@@ -139,6 +150,61 @@ def fingerprint(html: str) -> str:
     return hashlib.sha256("\n".join(text_blocks(html)).encode()).hexdigest()
 
 
+def quote_text(raw: str) -> str:
+    """Normalize a page (or a quote) for exact-substring quote matching.
+
+    Tags are dropped but script contents are kept, because some sites ship
+    their copy as JSON. Typographic quotes and dashes are flattened so a
+    curly apostrophe never reads as a content change.
+    """
+    for _ in range(3):
+        raw = re.sub(r"<[^>]+>", " ", html_lib.unescape(raw))
+    for a, b in (("\u00a0", " "), ("\u2019", "'"), ("\u2018", "'"), ("\u201c", '"'), ("\u201d", '"'), ("\u2013", "-"), ("\u2014", "-")):
+        raw = raw.replace(a, b)
+    return re.sub(r"\s+", " ", raw)
+
+
+def load_quotes() -> dict[str, dict]:
+    return json.loads(QUOTES.read_text()) if QUOTES.exists() else {}
+
+
+def judge_by_quotes(places, quotes, current, findings) -> dict[str, list[str]]:
+    """Refine each 'changed' source using the supporting passages on file.
+
+    If every active note citing the page has a passage and all of them are
+    still on the page, the finding becomes 'supported'. If any passage is
+    gone, it becomes 'quote_missing' and those note IDs are returned. Pages
+    with a note that has no passage on file stay 'changed' (whole-page review).
+    """
+    by_url: dict[str, list[dict]] = {}
+    for place in places:
+        for fact in place["facts"]:
+            if fact["review_status"] != "retired":
+                by_url.setdefault(fact["source_url"], []).append(fact)
+    missing: dict[str, list[str]] = {}
+    for url, kind in list(findings.items()):
+        if kind != "changed":
+            continue
+        facts = by_url.get(url, [])
+        page = current[url].get("_text")
+        known = [f for f in facts if f["id"] in quotes and quotes[f["id"]].get("url") == url]
+        if page is None or not known:
+            continue
+        gone = [f["id"] for f in known if quote_text(quotes[f["id"]]["quote"]) not in page]
+        if gone:
+            findings[url] = "quote_missing"
+            missing[url] = gone
+        elif len(known) == len(facts):
+            findings[url] = "supported"
+    return missing
+
+
+def uncovered(places: list[dict], snapshot: dict[str, dict]) -> list[str]:
+    """Active source URLs with no baseline in a snapshot (so never monitored)."""
+    urls = {f["source_url"] for p in places for f in p["facts"] if f["review_status"] != "retired"}
+    return sorted(urls - set(snapshot))
+
+
 def fetch(url: str, timeout: float = 30) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
@@ -151,6 +217,8 @@ def fetch(url: str, timeout: float = 30) -> dict:
                 "sha256": fingerprint(body),
                 "fingerprint_version": FINGERPRINT_VERSION,
                 "chars": len(visible_text(body)),
+                # In memory only (dropped before the snapshot is written).
+                "_text": quote_text(body),
             }
     except urllib.error.HTTPError as e:
         return {"status": e.code, "error": str(e.reason)}
@@ -217,11 +285,17 @@ def confirm_changes(previous, current, findings, fetcher=None) -> dict[str, str]
     return confirmed
 
 
-def flag_facts(places: list[dict], findings: dict[str, str], today: str) -> int:
+def flag_facts(places: list[dict], findings: dict[str, str], today: str, missing: dict[str, list[str]] | None = None) -> int:
     flagged = 0
+    missing = missing or {}
     for place in places:
         for fact in place["facts"]:
             kind = findings.get(fact["source_url"])
+            if kind == "quote_missing":
+                # Only the notes whose passage disappeared need a re-read.
+                if fact["id"] not in missing.get(fact["source_url"], []):
+                    continue
+                kind = "changed"
             if kind not in ("changed", "unavailable") or fact["review_status"] == "retired":
                 continue
             status = "source_unavailable" if kind == "unavailable" else "needs_recheck"
@@ -249,27 +323,38 @@ def latest_snapshot() -> dict[str, dict]:
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--flag", action="store_true", help="mark affected facts in places.json")
+    ap.add_argument("--new-only", action="store_true", help="fetch only sources missing from the latest snapshot and add them to it")
     args = ap.parse_args(argv)
 
     places = json.loads(PLACES.read_text())
     urls = sorted({f["source_url"] for p in places for f in p["facts"] if f["review_status"] != "retired"})
     previous = latest_snapshot()
+    if args.new_only:
+        urls = uncovered(places, previous)
     current = {}
     for url in urls:
         current[url] = fetch(url)
         print(f"{current[url].get('status')!s:>5}  {url}", file=sys.stderr)
 
     findings = confirm_changes(previous, current, compare(previous, current))
+    missing = judge_by_quotes(places, load_quotes(), current, findings)
     today = dt.date.today().isoformat()
+    for result in current.values():
+        result.pop("_text", None)
+    if args.new_only:
+        # Earlier baselines are carried forward untouched: they still record
+        # the state an editor last reviewed.
+        current = {**previous, **current}
     SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
     out = SNAPSHOT_DIR / f"{today}.json"
-    out.write_text(json.dumps({"checked_at": today, "sources": current, "findings": findings}, indent=2) + "\n")
+    out.write_text(json.dumps({"checked_at": today, "sources": current, "findings": findings, "missing_quotes": missing}, indent=2) + "\n")
 
     for url, kind in sorted(findings.items()):
-        print(f"{kind.upper():12} {url}")
-    print(f"{len(urls)} sources checked, {len(findings)} need attention; snapshot {out}")
+        print(f"{kind.upper():13} {url}" + (f"  notes: {', '.join(missing[url])}" if url in missing else ""))
+    attention = sum(kind != "supported" for kind in findings.values())
+    print(f"{len(urls)} sources checked, {attention} need attention; snapshot {out}")
     if args.flag and findings:
-        n = flag_facts(places, findings, today)
+        n = flag_facts(places, findings, today, missing)
         PLACES.write_text(json.dumps(places, indent=2, ensure_ascii=False) + "\n")
         print(f"Flagged {n} facts")
     return 0

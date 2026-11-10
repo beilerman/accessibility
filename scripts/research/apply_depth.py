@@ -1,16 +1,32 @@
-"""apply_depth.py <spec.json> [date]: append notes to existing places. spec = {slug: [[domain,text,url,source_type?]]}"""
-import json,sys
-import datetime,pathlib
-P=pathlib.Path(__file__).resolve().parents[2]/'src/data/places.json'
-date=sys.argv[2] if len(sys.argv)>2 else datetime.date.today().isoformat()
-NOTE="Added from the linked official public source; no field observation or private visitor report is implied."
-d=json.load(open(P));by={p['slug']:p for p in d}
-for slug,notes in json.load(open(sys.argv[1])).items():
-    p=by[slug]
-    for n in notes:
-        dom,text,url=n[:3];st=n[3] if len(n)>3 else "venue_official"
-        k=1+max([int(f['id'].rsplit('.',1)[1]) for f in p['facts'] if f['domain']==dom] or [0])
-        p['facts'].append(dict(domain=dom,text=text,source_url=url,id=f"{slug}.{dom}.{k}",source_type=st,retrieved_at=date,published_at=None,observed_at=None,review_status="source_checked",history=[dict(date=date,action="added",note=NOTE)]))
-    p['checked_at']=date
-    print(slug,'+',len(notes))
-json.dump(d,open(P,'w'),indent=2,ensure_ascii=False);open(P,'a').write('\n')
+"""apply_depth.py <spec.json> [date]: append notes to existing places.
+
+spec = {slug: [[domain, text, url, source_type?, quote?], ...]}
+source_type defaults to venue_official. Pass the verified verbatim quote as
+the fifth item: it is stored in pipeline/evidence/quotes.json so the source
+monitor can tell whether a later page change still supports the note.
+"""
+import json
+import sys
+
+from _catalog import load_places, load_quotes, new_fact, record_quote, save_places, save_quotes, today
+
+date = sys.argv[2] if len(sys.argv) > 2 else today()
+places = load_places()
+by_slug = {p["slug"]: p for p in places}
+quotes = load_quotes()
+for slug, notes in json.load(open(sys.argv[1])).items():
+    place = by_slug[slug]
+    have = {f["text"].strip().lower() for f in place["facts"]}
+    for note in notes:
+        domain, text, url = note[:3]
+        source_type = note[3] if len(note) > 3 and note[3] else "venue_official"
+        assert text.strip().lower() not in have, f"duplicate note for {slug}: {text[:60]}"
+        n = 1 + max([int(f["id"].rsplit(".", 1)[1]) for f in place["facts"] if f["domain"] == domain] or [0])
+        fact = new_fact(slug, n, domain, text, url, source_type, date)
+        place["facts"].append(fact)
+        have.add(text.strip().lower())
+        record_quote(quotes, fact["id"], url, note[4] if len(note) > 4 else None, date)
+    place["checked_at"] = date
+    print(slug, "+", len(notes))
+save_places(places)
+save_quotes(quotes)

@@ -1,15 +1,31 @@
-"""add_places.py <spec.json> [date]: append new places (hand-written notes) to places.json."""
-import json,re,sys
-import datetime,pathlib
-P=pathlib.Path(__file__).resolve().parents[2]/'src/data/places.json'
-d=json.load(open(P));have={p['slug'] for p in d}
-DATE=sys.argv[2] if len(sys.argv)>2 else datetime.date.today().isoformat()
-NOTE="Added from the linked official public source; no field observation or private visitor report is implied."
-for p in json.load(open(sys.argv[1])):
-    s=p.pop('slug');assert s not in have,s
-    facts=[];cnt={}
-    for dom,text,url,st,pub in p.pop('facts'):
-        cnt[dom]=cnt.get(dom,0)+1
-        facts.append(dict(domain=dom,text=text,source_url=url,id=f"{s}.{dom}.{cnt[dom]}",source_type=st,retrieved_at=DATE,published_at=pub,observed_at=None,review_status="source_checked",history=[dict(date=DATE,action="added",note=NOTE)]))
-    d.append(dict(**p,checked_at=DATE,slug=s,evidence_type="public_website",observed_at=None,facts=facts));have.add(s);print('added',s,len(facts))
-json.dump(d,open(P,'w'),indent=2,ensure_ascii=False);open(P,'a').write('\n')
+"""add_places.py <spec.json> [date]: append new places (hand-written notes).
+
+Each record has slug, name, city, state, category, address, website,
+source_url, limitations and facts. Each fact is
+[domain, text, url, source_type, published_at, quote?]; the verified verbatim
+quote is stored in pipeline/evidence/quotes.json for the source monitor.
+"""
+import json
+import sys
+
+from _catalog import load_places, load_quotes, new_fact, record_quote, save_places, save_quotes, today
+
+date = sys.argv[2] if len(sys.argv) > 2 else today()
+places = load_places()
+have = {p["slug"] for p in places}
+quotes = load_quotes()
+for record in json.load(open(sys.argv[1])):
+    slug = record.pop("slug")
+    assert slug not in have, slug
+    facts, count = [], {}
+    for item in record.pop("facts"):
+        domain, text, url, source_type, published_at = item[:5]
+        count[domain] = count.get(domain, 0) + 1
+        fact = new_fact(slug, count[domain], domain, text, url, source_type, date, published_at)
+        facts.append(fact)
+        record_quote(quotes, fact["id"], url, item[5] if len(item) > 5 else None, date)
+    places.append(dict(**record, checked_at=date, slug=slug, evidence_type="public_website", observed_at=None, facts=facts))
+    have.add(slug)
+    print("added", slug, len(facts))
+save_places(places)
+save_quotes(quotes)

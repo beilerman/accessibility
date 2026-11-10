@@ -3,10 +3,9 @@ Accepts either new-place records (facts + address_quote) or depth records ({slug
 import json,sys,urllib.request,html,re,time
 UA={"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"}
 cache={}
-def norm(t):
-    for _ in range(3): t=re.sub(r'<[^>]+>',' ',html.unescape(t))
-    t=t.replace(' ',' ').replace('’',"'").replace('‘',"'").replace('“','"').replace('”','"').replace('–','-').replace('—','-')
-    return re.sub(r'\s+',' ',t)
+# One normalization for verifying quotes and for the weekly source monitor.
+sys.path.insert(0,str(__import__('pathlib').Path(__file__).resolve().parents[2]/'pipeline'))
+from check_sources import quote_text as norm
 def text(u):
     if u not in cache:
         try:

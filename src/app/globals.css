@@ -295,6 +295,14 @@ body {
 .detail-heading h1 { font-size: clamp(2.3rem, 4.4vw, 3.9rem); line-height: 1.04; letter-spacing: -.028em; margin-top: 14px; }
 .evidence-banner { border: 1px solid var(--border); padding: 18px 22px; border-radius: var(--radius); margin-top: 28px; background: var(--card); font-size: .9rem; line-height: 1.55; display: flex; gap: 6px 22px; flex-wrap: wrap; box-shadow: var(--shadow-sm); }
 .evidence-banner p { width: 100%; color: var(--muted-foreground); }
+/* Jump links under a place's heading: the fastest way past the photo to the
+   notes a visitor needs, with how many notes each topic has. */
+.page-jumps { margin-top: 22px; }
+.page-jumps ul { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; }
+.page-jumps a { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 6px 16px; border: 1px solid var(--border); border-radius: 999px; background: var(--card); color: var(--foreground); font-size: .9rem; font-weight: 600; text-decoration: none; }
+.page-jumps a:hover { border-color: var(--accent); color: var(--accent); }
+.page-jumps .jump-count { font-weight: 400; color: var(--muted-foreground); }
+.fact-group h3, #before-you-go { scroll-margin-top: 90px; }
 .detail-grid { display: grid; grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr); gap: 52px; padding-bottom: 50px; }
 .fact-group { border-top: 1px solid var(--border); padding: 28px 0; }
 .fact-group h3 { display: flex; align-items: center; gap: 12px; font-family: var(--font-display), Georgia, serif; font-variation-settings: "SOFT" 60, "WONK" 0; font-size: 1.4rem; font-weight: 500; margin-bottom: 18px; }

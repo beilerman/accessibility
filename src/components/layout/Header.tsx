@@ -3,13 +3,15 @@
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
-import { useState, useEffect, useMemo, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { Search, Menu, X, User, LogOut } from "lucide-react";
 import { DarkModeToggle } from "@/components/shared/DarkModeToggle";
 import { MobileNav } from "./MobileNav";
 import { BrandMark } from "./BrandMark";
-import { createClient } from "@/lib/supabase/client";
-import type { User as SupabaseUser } from "@supabase/supabase-js";
+import type {
+  SupabaseClient,
+  User as SupabaseUser,
+} from "@supabase/supabase-js";
 
 const navLinks = [
   { href: "/venues", label: "Browse places" },
@@ -24,35 +26,43 @@ export function Header() {
   const pathname = usePathname();
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [user, setUser] = useState<SupabaseUser | null>(null);
-  const supabase = useMemo(
-    () => (COMMUNITY_ENABLED ? createClient() : null),
-    [],
-  );
+  // The Supabase client is loaded only when community features are on, so the
+  // read-only catalog does not ship it to every visitor.
+  const supabaseRef = useRef<SupabaseClient | null>(null);
   const closeMobileNav = useCallback(() => setMobileNavOpen(false), []);
 
   useEffect(() => {
-    if (!supabase) return;
-
-    supabase.auth.getUser().then(({ data: { user } }) => {
-      setUser(user);
+    if (!COMMUNITY_ENABLED) return;
+    let cancelled = false;
+    let unsubscribe = () => {};
+    import("@/lib/supabase/client").then(({ createClient }) => {
+      if (cancelled) return;
+      const supabase = createClient();
+      supabaseRef.current = supabase;
+      supabase.auth.getUser().then(({ data: { user } }) => {
+        if (!cancelled) setUser(user);
+      });
+      const {
+        data: { subscription },
+      } = supabase.auth.onAuthStateChange((_event, session) => {
+        setUser(session?.user ?? null);
+      });
+      unsubscribe = () => subscription.unsubscribe();
     });
-
-    const {
-      data: { subscription },
-    } = supabase.auth.onAuthStateChange((_event, session) => {
-      setUser(session?.user ?? null);
-    });
-
-    return () => subscription.unsubscribe();
-  }, [supabase]);
+    return () => {
+      cancelled = true;
+      unsubscribe();
+    };
+  }, []);
 
   const handleSignOut = useCallback(async () => {
+    const supabase = supabaseRef.current;
     if (!supabase) return;
     await supabase.auth.signOut();
     setUser(null);
     router.replace("/");
     router.refresh();
-  }, [supabase, router]);
+  }, [router]);
 
   return (
     <header className="site-header">

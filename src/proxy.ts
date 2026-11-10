@@ -64,8 +64,10 @@ export async function proxy(request: NextRequest) {
   return response;
 }
 
+// Only the account routes need the proxy. A catch-all matcher ran it on every
+// page and image request just to let them through. When community features
+// launch and pages render per-user content, widen this again so sessions
+// refresh on every route.
 export const config = {
-  matcher: [
-    "/((?!_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt).*)",
-  ],
+  matcher: ["/submit/:path*", "/profile/:path*", "/auth/callback", "/login"],
 };

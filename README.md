@@ -28,7 +28,9 @@ Playwright tests start the built server on port 3217. Install its Chromium brows
 
 ## Working plan
 
-- `docs/PLAN.md`: original Claude v1.1 plan, preserved as downloaded.
+- `docs/ROADMAP.md`: **the current plan**: architecture summary, review findings, operating cadence and next work.
+- `docs/HANDOFF-2026-11-10.md`: where the last session stopped and how research is done.
+- `docs/PLAN.md`: original Claude v1.1 plan, preserved as downloaded (history).
 - `docs/DECISIONS.md`: corrections and implementation decisions after repository recovery.
 - `docs/IMPLEMENTATION-STATUS.md`: execution ledger, validation evidence and remaining dependencies.
 - `pipeline/README.md`: optional Overture staging pull and provenance handling.
@@ -37,7 +39,7 @@ The recovered repository is Next.js 16 / React 19; the plan's proposed Vite migr
 
 ## Source monitoring
 
-`python3 pipeline/check_sources.py` re-fetches every fact source, saves a hashed snapshot in `pipeline/source-checks/` and lists sources that changed, stopped loading or were blocked by bot protection. Add `--flag` to mark affected facts for editorial recheck; flagged facts show a caution on the site. After re-reading a source, set the fact's `retrieved_at`, restore `review_status` to `source_checked` and append a `rechecked` or `revised` history entry. Never renumber or reuse a fact ID.
+`python3 pipeline/check_sources.py` re-fetches every fact source, saves a hashed snapshot in `pipeline/source-checks/` and lists sources that changed, stopped loading or were blocked by bot protection. Where a note's verified supporting quote is stored in `pipeline/evidence/quotes.json`, a changed page is judged by whether the quote is still there: `SUPPORTED` needs no action and `QUOTE_MISSING` names the notes to re-read. After adding notes, run it with `--new-only` and commit the snapshot; a pipeline test fails if any source has no baseline. Record rechecks with `scripts/research/recheck.py`; `scripts/research/queue.py` lists what to recheck next. Before deploying, run `sh scripts/release-check.sh`. Add `--flag` to mark affected facts for editorial recheck; flagged facts show a caution on the site. After re-reading a source, set the fact's `retrieved_at`, restore `review_status` to `source_checked` and append a `rechecked` or `revised` history entry. Never renumber or reuse a fact ID.
 
 ## Images
 

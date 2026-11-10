@@ -2,6 +2,8 @@
 
 Updated 2026-09-10. This is the current execution record; the older plans' completion labels are historical and do not establish current readiness.
 
+> **Forward plan:** see [ROADMAP.md](ROADMAP.md) (November 10, 2026). The six-week sequence below is superseded; this file remains the dated record of what was done.
+
 ## Outcome and scope
 
 The local read-only directory is implemented and validated with 32 places and 106 sourced facts across Northern Kentucky and Greater Cincinnati. The sourced directory was published to production after the user approved it. The expanded photo update is live: 20 licensed venue photographs, five labeled AI category artworks covering the other 12 listings, and three separate AI teaching illustrations. All 32 listings have a visual. A new visitor-report layer adds 17 attributed public accounts across 12 places, clearly separated from official venue facts; [research and release verification](VISITOR-RESEARCH-RELEASE-2026-09-10.md) is complete. See the [visual coverage and production verification record](VISUAL-COVERAGE-2026-09-10.md). The full six-week program remains unfinished, including community accounts, database authorization, organization claims and field reviews.
@@ -159,3 +161,7 @@ Two research agents proposed 10 listings (6 Ohio, 4 Kentucky) from official sour
 - **Totals:** 88 places, 446 active notes, 6 Threshold reviews, 42 visitor reports.
 - **Still thin:** Go Bananas, AMC Newport and Southgate House publish almost nothing about physical access.
 - **Later:** added 7 Northern Kentucky places: NKU Fine Arts Center, Middleton-Mills Park, Giles Conrad Park, Central Park & Boone County Arboretum, Licking River Greenway, the Campbell County Library's Newport branch, and Boone County's Chapin Memorial Library. All 41 quotes were re-matched. Turfway Park was skipped because its only notes are about smoking. Also added 9 more verified visitor reports for Taft Theatre, Music Hall, Krohn, Aronoff, the Renaissance Festival and Brady Music Center. Tripadvisor reviews were checked in a browser, and one wrong date from the research pass was corrected. Fixed a draft caveat to match the Taft's own statement that it has no elevator. The source monitor now covers 149 sources.
+
+## Architecture and process review (November 10)
+
+Findings, fixes and the forward plan are in [ROADMAP.md](ROADMAP.md). In short: 82 of 231 sources had no monitoring baseline (now baselined, and enforced by a test); the monitor now judges changed pages by stored supporting quotes; research scripts store quotes and record rechecks; place pages have jump links with note counts; the Supabase client and the catch-all proxy no longer load on public pages; the flaky keyboard test that failed CI on `master` is fixed; a pre-deploy check script was added. Validation: 64 unit tests, 36 pipeline tests, 78 browser tests, type check, lint with 0 errors and the production build. Not committed or deployed in that session.

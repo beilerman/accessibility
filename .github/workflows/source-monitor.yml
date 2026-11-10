@@ -25,8 +25,8 @@ jobs:
         id: check
         run: |
           python3 pipeline/check_sources.py | tee report.txt
-          grep -E '^(CHANGED|UNAVAILABLE|BLOCKED|UNSTABLE) ' report.txt > findings.txt || true
-          echo "count=$(grep -cE '^(CHANGED|UNAVAILABLE)' findings.txt || true)" >> "$GITHUB_OUTPUT"
+          grep -E '^(CHANGED|QUOTE_MISSING|UNAVAILABLE|BLOCKED|UNSTABLE) ' report.txt > findings.txt || true
+          echo "count=$(grep -cE '^(CHANGED|QUOTE_MISSING|UNAVAILABLE)' findings.txt || true)" >> "$GITHUB_OUTPUT"
       - uses: actions/upload-artifact@v4
         with:
           name: source-snapshot
@@ -43,7 +43,7 @@ jobs:
             cat findings.txt
             echo '```'
             echo
-            echo "For each CHANGED or UNAVAILABLE source: re-read it, update the affected notes in src/data/places.json (retrieved_at, review_status, a history entry), then commit a fresh snapshot with \`python3 pipeline/check_sources.py\`. BLOCKED/UNSTABLE need a manual browser check and never flag notes."
+            echo "QUOTE_MISSING lists the notes whose supporting passage is no longer on the page; re-read those first. For each CHANGED or UNAVAILABLE source: re-read it, update the affected notes in src/data/places.json (retrieved_at, review_status, a history entry), then commit a fresh snapshot with \`python3 pipeline/check_sources.py\`. BLOCKED/UNSTABLE need a manual browser check and never flag notes."
             echo
             echo "Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
           } > body.md

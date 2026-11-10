@@ -1,6 +1,21 @@
 import unittest
 
-from check_sources import compare, confirm_changes, fingerprint, flag_facts, script_prose, visible_text
+import json
+from pathlib import Path
+
+from check_sources import (
+    compare,
+    confirm_changes,
+    fingerprint,
+    flag_facts,
+    judge_by_quotes,
+    quote_text,
+    script_prose,
+    uncovered,
+    visible_text,
+)
+
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def fact(url, status="source_checked"):
@@ -125,6 +140,79 @@ class FlagTests(unittest.TestCase):
         self.assertEqual(a["history"][0]["action"], "flagged")
         self.assertEqual(flag_facts(places, {"a": "changed"}, "2026-11-09"), 0)
         self.assertEqual(len(a["history"]), 1)
+
+
+def noted(fid, url, status="source_checked"):
+    return {"id": fid, "source_url": url, "review_status": status, "history": []}
+
+
+class QuoteTests(unittest.TestCase):
+    URL = "https://a.example/access"
+    PLACES = [{"facts": [noted("a.mobility.1", URL), noted("a.sensory.1", URL), noted("a.chronic.1", URL, "retired")]}]
+    QUOTES = {
+        "a.mobility.1": {"url": URL, "quote": "The venue\u2019s ramp is at the north door"},
+        "a.sensory.1": {"url": URL, "quote": "Sensory bags are available"},
+    }
+
+    def page(self, body):
+        return {self.URL: {"status": 200, "_text": quote_text(body)}}
+
+    def test_curly_quotes_and_markup_do_not_break_a_match(self):
+        self.assertIn(quote_text("The venue\u2019s ramp &amp; lift"), quote_text("<p>The venue's&nbsp;ramp\n &amp;amp; lift</p>"))
+
+    def test_changed_page_with_every_quote_intact_is_supported(self):
+        findings = {self.URL: "changed"}
+        page = self.page("<p>New hours!</p><p>The venue's ramp is at the north door.</p><p>Sensory bags are available.</p>")
+        self.assertEqual(judge_by_quotes(self.PLACES, self.QUOTES, page, findings), {})
+        self.assertEqual(findings, {self.URL: "supported"})
+        self.assertEqual(flag_facts(self.PLACES, findings, "2026-11-10"), 0)
+
+    def test_missing_quote_flags_only_that_note(self):
+        import copy
+        places = copy.deepcopy(self.PLACES)
+        findings = {self.URL: "changed"}
+        page = self.page("<p>The venue's ramp is at the north door.</p><p>Sensory bags are no longer offered.</p>")
+        missing = judge_by_quotes(places, self.QUOTES, page, findings)
+        self.assertEqual(findings, {self.URL: "quote_missing"})
+        self.assertEqual(missing, {self.URL: ["a.sensory.1"]})
+        self.assertEqual(flag_facts(places, findings, "2026-11-10", missing), 1)
+        statuses = {f["id"]: f["review_status"] for f in places[0]["facts"]}
+        self.assertEqual(statuses, {"a.mobility.1": "source_checked", "a.sensory.1": "needs_recheck", "a.chronic.1": "retired"})
+
+    def test_a_note_without_a_quote_keeps_whole_page_review(self):
+        findings = {self.URL: "changed"}
+        page = self.page("<p>The venue's ramp is at the north door.</p>")
+        quotes = {"a.mobility.1": self.QUOTES["a.mobility.1"]}
+        self.assertEqual(judge_by_quotes(self.PLACES, quotes, page, findings), {})
+        self.assertEqual(findings, {self.URL: "changed"})
+
+    def test_other_findings_are_left_alone(self):
+        findings = {self.URL: "unavailable"}
+        judge_by_quotes(self.PLACES, self.QUOTES, {self.URL: {"status": 404}}, findings)
+        self.assertEqual(findings, {self.URL: "unavailable"})
+
+
+class CoverageTests(unittest.TestCase):
+    def test_uncovered_lists_active_sources_without_a_baseline(self):
+        places = [{"facts": [noted("a.mobility.1", "https://a.example/1"), noted("a.mobility.2", "https://a.example/2"), noted("a.mobility.3", "https://a.example/3", "retired")]}]
+        self.assertEqual(uncovered(places, {"https://a.example/1": {}}), ["https://a.example/2"])
+
+    def test_every_catalog_source_has_a_baseline(self):
+        """After adding notes, run `python3 pipeline/check_sources.py --new-only`
+        and commit the snapshot; a source with no baseline is never monitored."""
+        places = json.loads((ROOT / "src/data/places.json").read_text())
+        latest = sorted((ROOT / "pipeline/source-checks").glob("*.json"))[-1]
+        self.assertEqual(uncovered(places, json.loads(latest.read_text())["sources"]), [])
+
+    def test_stored_quotes_belong_to_live_notes(self):
+        path = ROOT / "pipeline/evidence/quotes.json"
+        if not path.exists():
+            return
+        places = json.loads((ROOT / "src/data/places.json").read_text())
+        urls = {f["id"]: f["source_url"] for p in places for f in p["facts"]}
+        for fid, q in json.loads(path.read_text()).items():
+            self.assertEqual(q["url"], urls.get(fid), fid)
+            self.assertTrue(q["quote"].strip(), fid)
 
 
 if __name__ == "__main__":
