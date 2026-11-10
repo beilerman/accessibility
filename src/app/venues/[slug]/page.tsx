@@ -34,6 +34,7 @@ import { teamReviewForPlace } from "@/lib/team-reviews";
 import { CategoryArt } from "@/components/catalog/CategoryArt";
 import { reportsForPlace } from "@/lib/visitor-reports";
 import { VisitorReport } from "@/components/catalog/VisitorReport";
+import { ScrollToHash } from "@/components/catalog/ScrollToHash";
 // Re-render daily so overdue-recheck cautions (computed from today's date)
 // appear without waiting for a new deploy.
 export const revalidate = 86400;
@@ -70,6 +71,7 @@ export default async function PlacePage({
   const artwork = artForCategory(p.category);
   return (
     <div className="page-shell py-8">
+      <ScrollToHash />
       <Link
         href="/venues"
         className="inline-flex items-center gap-2 min-h-11 text-sm font-semibold underline underline-offset-4"

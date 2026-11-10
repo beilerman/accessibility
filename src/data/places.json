@@ -14276,5 +14276,463 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Lindner Family Tennis Center (Cincinnati Open)",
+    "city": "Mason",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "6100 Legacy Park Way, Mason, OH 45040",
+    "website": "https://cincinnatiopen.com/",
+    "source_url": "https://cincinnatiopen.com/visit/faqs/",
+    "limitations": "Public website information; no on-site audit. The tournament FAQ covers the August Cincinnati Open only. It does not say whether parking shuttles have lifts, where accessible restrooms are, or whether assistive listening, captioning, quiet or cooling spaces are offered.",
+    "checked_at": "2026-11-09",
+    "slug": "lindner-family-tennis-center-cincinnati-open",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Accessible parking is available with a disability placard: hang it on the mirror and attendants direct you to the right lot. Shuttles run from public lots to the gates, and a patron drop-off is by the North Entrance.",
+        "source_url": "https://cincinnatiopen.com/visit/faqs/",
+        "id": "lindner-family-tennis-center-cincinnati-open.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Elevators serve the upper levels of Grandstand and Center Court; ushers can direct you to the closest one. If you already have tickets and need ADA seating, call 513-651-0303 or visit the North Entrance ticket office during the tournament.",
+        "source_url": "https://cincinnatiopen.com/visit/faqs/",
+        "id": "lindner-family-tennis-center-cincinnati-open.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue does not rent wheelchairs, scooters or walkers and has no wheelchair concierge service to help guests around the grounds, so bring your own mobility aid.",
+        "source_url": "https://cincinnatiopen.com/visit/faqs/",
+        "id": "lindner-family-tennis-center-cincinnati-open.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Outside food is not allowed except in a limited quantity for medical or infant purposes. Re-entry is allowed if you exit-scan on the way out.",
+        "source_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+        "id": "lindner-family-tennis-center-cincinnati-open.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mariemont Players (Walton Creek Theater)",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "4101 Walton Creek Road, Cincinnati, OH 45227",
+    "website": "https://www.mariemontplayers.com/",
+    "source_url": "https://www.mariemontplayers.com/seating",
+    "limitations": "Public website information; no on-site audit. The site does not describe the entrance route, accessible restrooms, the number of wheelchair spaces or accessible parking. Confirm these with the box office when booking.",
+    "checked_at": "2026-11-09",
+    "slug": "mariemont-players-walton-creek-theater",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "ADA seating is limited; contact the box office at least 48 hours in advance, when buying tickets.",
+        "source_url": "https://www.mariemontplayers.com/seating",
+        "id": "mariemont-players-walton-creek-theater.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Space for walkers and rollators is limited, and they may need to be stored in a closet inside the auditorium.",
+        "source_url": "https://www.mariemontplayers.com/seating",
+        "id": "mariemont-players-walton-creek-theater.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The theater has a hearing loop for T-coil hearing aids and cochlear implants; free loop receiver headsets are available at the box office before showtime.",
+        "source_url": "https://www.mariemontplayers.com/seating",
+        "id": "mariemont-players-walton-creek-theater.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The onsite parking lot is small and can fill up for sold-out shows.",
+        "source_url": "https://www.mariemontplayers.com/directions",
+        "id": "mariemont-players-walton-creek-theater.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "A full digital program is offered alongside the printed booklet. Masks are recommended because the space is small and close to the actors.",
+        "source_url": "https://www.mariemontplayers.com/health",
+        "id": "mariemont-players-walton-creek-theater.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Summit Park",
+    "city": "Blue Ash",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "4335 Glendale Milford Road, Blue Ash, OH 45242",
+    "website": "https://www.summitparkblueash.com/",
+    "source_url": "https://www.summitparkblueash.com/residents/walking_trails.php",
+    "limitations": "Public website information; no on-site audit. The park's parking page does not yet say where accessible parking is. Restroom accessibility beyond 'family restrooms' and playscape surfaces are not described.",
+    "checked_at": "2026-11-09",
+    "slug": "summit-park-blue-ash",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Trails are a blend of pavement, mulch and crushed gravel. Just under four laps of the Great Lawn make a mile.",
+        "source_url": "https://www.summitparkblueash.com/residents/walking_trails.php",
+        "id": "summit-park-blue-ash.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Motorized devices are prohibited in Blue Ash parks, except mobility devices used for accessibility.",
+        "source_url": "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
+        "id": "summit-park-blue-ash.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Family restrooms are under the Observation Tower, beneath the Glass Canopy and near the Main Playground. From December 1 to January 31 the playground restrooms close and the Community Room restrooms open only during Ice Rink hours.",
+        "source_url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
+        "id": "summit-park-blue-ash.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The main playground has ADA ramps.",
+        "source_url": "https://www.summitparkblueash.com/residents/playground.php",
+        "id": "summit-park-blue-ash.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Observation Tower is temporarily closed for improvements.",
+        "source_url": "https://www.summitparkblueash.com/residents/the_observation_tower.php",
+        "id": "summit-park-blue-ash.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Rhinegeist Brewery",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "1910 Elm Street, Cincinnati, OH 45202",
+    "website": "https://rhinegeist.com/",
+    "source_url": "https://rhinegeist.com/brewery-tours/",
+    "limitations": "Public website information; no on-site audit. The brewery's accessibility page covers only its website. Step-free entry, elevator access to the rooftop, accessible restrooms, parking and service-animal policy are not described.",
+    "checked_at": "2026-11-09",
+    "slug": "rhinegeist-brewery",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Public brewery tours are ADA accessible but need two weeks' notice, the same as private tours. Strollers are not recommended.",
+        "source_url": "https://rhinegeist.com/brewery-tours/",
+        "id": "rhinegeist-brewery.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "A brewery tour lasts 60 minutes. Public tours are first come, first served; sign up in person.",
+        "source_url": "https://rhinegeist.com/brewery-tours/",
+        "id": "rhinegeist-brewery.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Pets are not allowed because it is an active brewing facility; the page does not mention service animals.",
+        "source_url": "https://rhinegeist.com/brewery-tours/",
+        "id": "rhinegeist-brewery.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Outside food is welcome. Rooftop seating depends on the weather and is first come, first served.",
+        "source_url": "https://rhinegeist.com/rooftop/",
+        "id": "rhinegeist-brewery.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Boone Cliffs State Nature Preserve",
+    "city": "Burlington",
+    "state": "KY",
+    "category": "Parks & outdoors",
+    "address": "4990 Middle Creek Road, Burlington, KY 41005",
+    "website": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+    "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+    "limitations": "Public website information; no on-site audit. No restrooms, accessible parking or accessible trail sections are listed. This is a rugged hiking preserve, not a step-free destination.",
+    "checked_at": "2026-11-09",
+    "slug": "boone-cliffs-state-nature-preserve",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Trails are unpaved, range from moderate to difficult, and are open to foot traffic only.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+        "id": "boone-cliffs-state-nature-preserve.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Because parking is limited, a reservation is required 48 hours in advance; each reservation covers one vehicle.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+        "id": "boone-cliffs-state-nature-preserve.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The county describes it as a destination for a quiet hike and a more rugged outdoor experience.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+        "id": "boone-cliffs-state-nature-preserve.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]

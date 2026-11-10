@@ -42,3 +42,15 @@ Adds 37 notes to 10 big venues, with all 67 quotes matched against a fresh fetch
 - **Great American Ball Park:** Aira visual and ASL interpreting, a staffed sensory room, elevator locations, medical backpacks and alternative screening, re-entry only through Gapper's Alley.
 - **Others:** the Aronoff (P&G Hall doors, elevators, restrooms), Cincinnati Shakespeare (step-free Row D, transfer-arm seats), the Taft Museum, Heritage Village, the Fitton Center, the Florence Y'alls, the Ludlow Garage and the Falcon Theatre.
 - **Not done:** the Newport Aquarium blocks scripted fetches (Akamai) and needs a browser pass.
+
+## New places, fourth pass
+Five new listings, with all 45 quotes matched against a fresh fetch:
+- **Lindner Family Tennis Center (Cincinnati Open):** placard parking with attendants, shuttles, elevators to the upper levels. No wheelchair rentals or wheelchair concierge, so bring your own. Food is allowed for medical needs, and re-entry with an exit scan.
+- **Mariemont Players (Walton Creek Theater):** limited ADA seating with 48 hours' notice, a hearing loop with free receivers, walker storage.
+- **Summit Park (Blue Ash):** trail surfaces, an exception for mobility devices, three family restrooms and their winter closures. The Observation Tower is closed for improvements.
+- **Rhinegeist:** public tours are accessible with two weeks' notice. Outside food is welcome.
+- **Boone Cliffs:** a reservation is required, and the trails are rugged and unpaved.
+
+Skipped because no access information was published, or the venue appears closed: Coney Island/Sunlite (site no longer resolves), EnterTRAINment Junction (site 404), Gorman Heritage Farm, Sawyer Point, the Great Parks sites (no site-specific text), Tower Park, MainStrasse, Taft's Ale House, Braxton, Middle Creek Park (unpaved trails only).
+
+Fix: venue pages now scroll to a linked note (`#note-id`) after a client-side navigation. Before, the previous page's scroll position could win, and Recent changes links landed at the bottom of the page.
