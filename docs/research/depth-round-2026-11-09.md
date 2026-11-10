@@ -17,3 +17,13 @@ Adds 51 notes to 13 existing listings and one new listing, the Woodward Theater.
 - **Mt. Airy Forest page conflict:** the park page's description still says the treehouse is "currently closed for repairs", while its features list says "Now Open" and a September 2026 news item announces the reopening. We kept the reopened status.
 - **Fifth Third Arena:** no official page gives elevator or wheelchair-seat locations; the old A–Z guide URLs return 404.
 - **Burnet Woods:** no open public restroom is confirmed; the Millionaire's Club restrooms are closed for repairs.
+
+## Second pass (same day)
+Adds 75 notes to 18 more listings, with every quote matched against a fresh fetch. A note that drew on two pages was split so that each note cites its own page.
+- **CVG:** how to arrange wheelchair assistance, the companion gate pass, distances, relief areas, visual paging, the sensory room's location, TSA Cares.
+- **Freedom Center:** ECV terms, garage elevator, family restroom, the contact address for accommodations.
+- **Heritage Bank Center:** the medical exceptions to the bag, food and re-entry rules, Guest Relations, first aid, service animals. Its own pages disagree on the family restroom (section 110 or 112), and the note says so.
+- **Streetcar and Metro:** wheelchairs are not strapped down on the streetcar, and wheels can catch in the track gap. Fare Deal half fares, Access riders' half fare, temporary service for visitors.
+- **Nippert, Reds Hall of Fame, Brady, Children's Theatre:** medical bags, re-entry, first aid, run times, live-feed monitors. Brady's garage elevator is out of service, dated November 9.
+- **Observatory:** open by appointment only. The site also says staff may not be able to fully assist some disabilities.
+- **Smaller additions:** Krohn, Pyramid Hill, NKY Convention Center, BB Riverboats, Devou, Fountain Square (Winterhaus), Memorial Hall parking, Renaissance Festival (hills, re-entry, ASL weekend).

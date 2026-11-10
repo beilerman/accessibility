@@ -324,7 +324,7 @@
     "address": "101 Riverboat Row, Newport, KY 41071",
     "website": "https://www.bbriverboats.com/",
     "source_url": "https://www.bbriverboats.com/faq",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -427,6 +427,60 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Both boats have climate-controlled decks as well as open-air viewing areas.",
+        "source_url": "https://www.bbriverboats.com/about",
+        "id": "bb-riverboats.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Tell the company about dietary needs when booking a dining cruise; gluten-free, vegetarian and vegan options are offered.",
+        "source_url": "https://www.bbriverboats.com/dining-cruises",
+        "id": "bb-riverboats.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cruises run rain or shine; in severe weather or unsafe river conditions the captain decides whether to sail.",
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -1728,7 +1782,7 @@
     "category": "Transportation",
     "website": "https://www.go-metro.com/",
     "source_url": "https://www.go-metro.com/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -1817,6 +1871,96 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Fare Deal ID cards give half-price fares on Metro fixed routes. Riders 65+ or with Medicare qualify automatically; riders with disabilities under 65 without Medicare must apply and be certified.",
+        "source_url": "https://www.go-metro.com/fares-passes/fare-deal-program/",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Access paratransit passholders ride Metro fixed-route buses for half price.",
+        "source_url": "https://www.go-metro.com/fares-passes/fare-information/",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Service animals ride Metro buses with no extra fare.",
+        "source_url": "https://www.go-metro.com/accessibility/",
+        "id": "cincinnati-metro-and-access-paratransit.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Access provides free transportation to the functional skills assessment. Book Access trips with Customer Care at 513-531-8888 or in the MyAccess app.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Visitors certified for paratransit in their hometown may be eligible for temporary Access service.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -2476,7 +2620,7 @@
     "address": "3489 Observatory Place, Cincinnati, Ohio 45208",
     "website": "https://www.cincinnatiobservatory.org/",
     "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -2565,6 +2709,78 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The observatory's FAQ says it is currently open by appointment only.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/faqs/",
+        "id": "cincinnati-observatory.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The main public areas are fairly level, with blacktop or brick paths. From the #11 bus it is a short but uphill 0.3-mile walk.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "There is an ADA-compliant outdoor drinking fountain and two benches; the 1904 building has two accessible restrooms.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The observatory says it may not have staff with the skills to fully assist visitors with vision, hearing, physical or developmental disabilities.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -3011,7 +3227,7 @@
     "category": "Transportation",
     "website": "https://www.cvgairport.com/",
     "source_url": "https://www.cvgairport.com/accessibility/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -3126,6 +3342,132 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Schedule free wheelchair assistance with your airline before you travel; at the airport it can also be requested free through Bags, Inc.",
+        "source_url": "https://www.cvgairport.com/accessibility/wheelchairs/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A companion helping a passenger with a disability to or from the gate needs an airline-issued pass to show at the security checkpoint.",
+        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "It is about 175 feet from the departure-level sidewalk to the ticket counter. The free ValuPark lot shuttle is wheelchair accessible.",
+        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Indoor service-animal relief areas are near Gates A18 and B13. The outdoor relief area is on the Baggage Claim level, so using it means going back through security.",
+        "source_url": "https://www.cvgairport.com/accessibility/service-animals/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Monitors throughout the terminals show public-address announcements visually.",
+        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The sensory room announced for children is in Concourse A next to the Over the Rhine Market, diagonal from Starbucks.",
+        "source_url": "https://www.cvgairport.com/on-the-horizon/cvg-airport-opens-first-sensory-room-for-children/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TSA Cares (1-855-787-2227) helps travelers with disabilities and medical conditions through screening; CVG suggests calling about 72 hours before travel.",
+        "source_url": "https://www.cvgairport.com/accessibility/security-and-accessibility/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -4185,7 +4527,7 @@
     "address": "100 Broadway, Cincinnati, OH 45202",
     "website": "https://heritagebankcenter.com/",
     "source_url": "https://heritagebankcenter.com/venue-info",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "cognitive",
@@ -4256,6 +4598,114 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Medical bags are an exception to the bag rules but get a full search at entry. Outside food is not permitted, but exceptions may be made for medical reasons.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "There is no re-entry during events, except for medical reasons or to return a prohibited item to a vehicle.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guest Relations helps guests with disabilities during events.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The First Aid room behind section 110 has trained staff at all events. The venue's pages disagree on the accessible/family restroom: the amenities page says behind section 110, the venue-info page says behind section 112.",
+        "source_url": "https://heritagebankcenter.com/amenities",
+        "id": "heritage-bank-center.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Only service animals are allowed; they must stay on a harness in ticketed areas and may not block aisles or hallways.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Every guest goes through metal-detector screening and a bag inspection at entry.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -4811,7 +5261,7 @@
     "address": "50 East Freedom Way, Cincinnati, OH 45202",
     "website": "https://freedomcenter.org/",
     "source_url": "https://freedomcenter.org/visit/accessibility/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -4902,6 +5352,114 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchairs are free and ECVs cost $25 (renters must be over 18 and sign an agreement). The front desk holds a driver's license or credit card until return, and the equipment cannot leave the museum.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The public Central Riverfront Garage below the museum is fully accessible by elevator.",
+        "source_url": "https://freedomcenter.org/visit/parking/",
+        "id": "national-underground-railroad-freedom-center.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "A family restroom is on the first floor.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The museum suggests planning 3 to 4 hours for a visit.",
+        "source_url": "https://freedomcenter.org/visit/plan-your-visit/",
+        "id": "national-underground-railroad-freedom-center.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Self-guided audio tours play on your own phone, so bring headphones.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Accommodation requests and accessibility questions go to accessible@nurfc.org.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -5085,7 +5643,7 @@
     "category": "Museums & attractions",
     "website": "https://www.nkycc.com/",
     "source_url": "https://www.nkycc.com/about/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -5172,6 +5730,42 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "An elevator serves the third-floor Conference Level, and a walkway connects the Cincinnati Marriott at RiverCenter directly to it. All concession stands are wheelchair accessible.",
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "There are two Mamava lactation pods, one on each level.",
+        "source_url": "https://www.nkycc.com/faq/",
+        "id": "northern-kentucky-convention-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -5293,7 +5887,7 @@
     "address": "1763 Hamilton Cleves Road, Hamilton, OH 45013",
     "website": "https://www.pyramidhill.org/",
     "source_url": "https://www.pyramidhill.org/visit",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -5384,6 +5978,60 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Pyramid House and the Gallery Museum both have accessible parking and a wheelchair-accessible entrance, though the Gallery Museum has a small step up into the building.",
+        "source_url": "https://www.pyramidhill.org/visit",
+        "id": "pyramid-hill-sculpture-park-museum.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Gallery Loop through the main park is about 1.75 miles and can be driven or walked. Art Carts cost $25 for the first hour and $20 for each additional full hour.",
+        "source_url": "https://www.pyramidhill.org/visit",
+        "id": "pyramid-hill-sculpture-park-museum.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Leashed service dogs are welcome in all park facilities. For accessibility questions, email ecox@pyramidhill.org or call 513-868-8336.",
+        "source_url": "https://www.pyramidhill.org/visit",
+        "id": "pyramid-hill-sculpture-park-museum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -6559,7 +7207,7 @@
     "category": "Transportation",
     "website": "https://www.cincinnati-oh.gov/streetcar/",
     "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "facts": [
       {
         "domain": "mobility",
@@ -6630,6 +7278,96 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchairs and other mobility devices are not strapped down; use the designated area and set your brake.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
+        "id": "the-connector-cincinnati-streetcar.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Cross the tracks at a right angle in a wheelchair or other mobility device, because wheels can catch in the track gap.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
+        "id": "the-connector-cincinnati-streetcar.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Streetcars are very quiet; the city advises crossing only at signalized crosswalks.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
+        "id": "the-connector-cincinnati-streetcar.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The streetcar is free. Real-time arrivals are in the Transit App, and only service animals may ride unless a pet is in a secured carrier.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
+        "id": "the-connector-cincinnati-streetcar.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Each streetcar has 38 seats and room for 116 standing riders.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
+        "id": "the-connector-cincinnati-streetcar.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -8182,7 +8920,7 @@
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
     "limitations": "Public website information; no on-site audit. Routes beyond the Palm House and waterfall, restroom accessibility, parking and drop-off, and wheelchair availability are not stated. Confirm with Krohn before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "krohn-conservatory",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -8258,6 +8996,60 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "If the events calendar shows two entries with different times for your day, the accurate hours are under the 'Krohn Closes Early' or 'Krohn Closed' entry.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+        "id": "krohn-conservatory.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Tickets are sold at the door for cash, Visa or Mastercard.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/",
+        "id": "krohn-conservatory.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks says the Gale garden at Krohn was made accessible.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "id": "krohn-conservatory.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -8270,7 +9062,7 @@
     "website": "https://www.mlb.com/reds/hall-of-fame",
     "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
     "limitations": "Public website information; no on-site audit. Accessible parking, drop-off, the street-level entrance, service animal policy and seating are not described. Confirm with the museum box office before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "cincinnati-reds-hall-of-fame-and-museum",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -8364,6 +9156,78 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Exhibits are on two floors; the museum suggests at least 45 to 60 minutes for a self-guided visit.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum is closed on Mondays, on Sundays when the Bengals play at home, and on major holidays.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Central Riverfront Garage's Joe Nuxhall Way entrance is across from the museum building.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "On ballpark tours, backpacks are not permitted except for medical and infant-care purposes, and the Hall of Fame cannot store bags or strollers.",
+        "source_url": "https://www.mlb.com/reds/hall-of-fame/visit/tours",
+        "id": "cincinnati-reds-hall-of-fame-and-museum.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -8376,7 +9240,7 @@
     "website": "https://www.exploredevoupark.org/",
     "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/devou-park",
     "limitations": "Public website information; no on-site audit. The city does not say what ADA Compliant covers at each shelter, or describe paved-trail grades, accessible parking or restroom accessibility. Confirm with Covington Parks & Recreation before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "devou-park",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -8448,6 +9312,78 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Welcome Center in the Devou Golf & Event Center has park maps, restrooms and staff. Park Rangers can be reached at 859-801-3592.",
+        "source_url": "https://www.exploredevoupark.org/welcome",
+        "id": "devou-park.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The park says all its covered picnic shelters are ADA accessible.",
+        "source_url": "https://www.exploredevoupark.org/picnic-shelters",
+        "id": "devou-park.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "At NaturePlay@BCM, all pathways and major play features are ADA accessible.",
+        "source_url": "https://www.exploredevoupark.org/natureplay",
+        "id": "devou-park.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Enter by Devou Drive for the Drees Pavilion, Memorial Overlook and Volpenhein Pavilion lots, or by Parkway Avenue for Gus Sheehan Park and Prisoners Lake.",
+        "source_url": "https://www.exploredevoupark.org/parking",
+        "id": "devou-park.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -9046,7 +9982,7 @@
     "website": "https://myfountainsquare.com/",
     "source_url": "https://myfountainsquare.com/amenities/",
     "limitations": "Public website information; no on-site audit. A step-free route onto the plaza, accessible garage spaces, and whether the restrooms are accessible are not stated. Confirm before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "fountain-square",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9122,6 +10058,60 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Restroom attendants are on duty during larger events; if the restrooms are closed during posted hours, Ambassadors can explain why or open them when possible.",
+        "source_url": "https://myfountainsquare.com/amenities/",
+        "id": "fountain-square.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "If no event is on or the concession stand is closed, ask a 3CDC operations staff member for help charging medical equipment.",
+        "source_url": "https://myfountainsquare.com/square-rules/",
+        "id": "fountain-square.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Winterhaus is a heated, glass-enclosed tent on the square. Outside food and non-alcoholic drinks are allowed if someone in your group buys an item, and seat use is limited to one hour.",
+        "source_url": "https://myfountainsquare.com/square-rules/",
+        "id": "fountain-square.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -9133,7 +10123,7 @@
     "address": "1225 Elm Street, Cincinnati, OH 45202",
     "website": "https://www.memorialhallotr.com/",
     "source_url": "https://www.memorialhallotr.com/about-memo/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "limitations": "Public website information plus a firsthand Threshold review; no formal on-site audit. The front entrance has steps; use the marked accessible door on the right side. Accessible restrooms, the route from the garage, and seat locations for your event are not described; confirm with the box office.",
     "slug": "memorial-hall-otr",
     "evidence_type": "public_website",
@@ -9210,6 +10200,24 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Washington Park Garage across the street has glass elevators at its northeast and northwest corners and across from the Music Hall entrance, with pay stations in each elevator lobby.",
+        "source_url": "https://washingtonpark.org/parking/",
+        "id": "memorial-hall-otr.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -9222,7 +10230,7 @@
     "website": "https://bradymusiccenter.com/",
     "source_url": "https://bradymusiccenter.com/accessibility",
     "limitations": "Public website information; no on-site audit. Accessible restroom locations, assistive listening, drop-off points and quiet spaces are not described. Confirm with the venue before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "andrew-j-brady-music-center",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9316,6 +10324,78 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "As of November 9, 2026, the venue's FAQ says the garage elevator closest to the venue is out of service and points to other elevators.",
+        "source_url": "https://bradymusiccenter.com/venue-info/faq",
+        "id": "andrew-j-brady-music-center.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Buying ADA-section tickets confirms that you or someone in your party needs reserved seating because of mobility or standing difficulties.",
+        "source_url": "https://bradymusiccenter.com/accessibility",
+        "id": "andrew-j-brady-music-center.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Medically necessary bags are allowed with the guest who uses them; all bags are searched.",
+        "source_url": "https://bradymusiccenter.com/venue-info/faq",
+        "id": "andrew-j-brady-music-center.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "There is no re-entry at indoor or outdoor events. First Aid is on the Floor by the tunnel entrance, and a gender-neutral bathroom is on the right side of the floor.",
+        "source_url": "https://bradymusiccenter.com/venue-info/faq",
+        "id": "andrew-j-brady-music-center.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ]
   },
@@ -9328,7 +10408,7 @@
     "website": "https://thechildrenstheatre.com/",
     "source_url": "https://thechildrenstheatre.com/accessibility/",
     "limitations": "Public website information; no on-site audit. The accessible entrance, restrooms and parking or drop-off are not described. Performances at the Showtime Stage on Red Bank Road are not signed or audio described. Confirm with the box office.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "childrens-theatre-of-cincinnati-emery-theater",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9400,6 +10480,96 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Book a designated wheelchair seat: the theatre may not have a spare wheelchair space to move you to if you buy elsewhere.",
+        "source_url": "https://thechildrenstheatre.com/accessibility/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Character Guide, a guide to attending the show and a downloadable Social Narrative are posted a week before each production.",
+        "source_url": "https://thechildrenstheatre.com/accessibility/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Shows usually last under 70 minutes and have no intermission.",
+        "source_url": "https://thechildrenstheatre.com/faq/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "If you step out, a monitor on each floor of the Emery shows a live feed of the production.",
+        "source_url": "https://thechildrenstheatre.com/faq/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Latecomers are seated at an appropriate moment, possibly in the best available seats rather than their reserved ones.",
+        "source_url": "https://thechildrenstheatre.com/faq/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -9522,7 +10692,7 @@
     "website": "https://gobearcats.com/facilities/nippert-stadium",
     "source_url": "https://gobearcats.com/ada-accessibility",
     "limitations": "Public website information for UC athletics; no on-site audit. Elevators, companion seating and the accessible entry gate are not described, and other events may differ. Call (513) 556-2283 before attending.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "nippert-stadium",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -9594,6 +10764,114 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The accessible-parking shuttle from Woodside Garage to the drop-off near the stadium is a golf cart.",
+        "source_url": "https://gobearcats.com/nippert-gameday-guide",
+        "id": "nippert-stadium.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Medical bags and items must be inspected and are marked with a wristband or sticker.",
+        "source_url": "https://gobearcats.com/nippert-gameday-guide",
+        "id": "nippert-stadium.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "There is no re-entry; in an emergency, contact the ticket taker or security supervisor at the nearest gate. UC Health staffs First Aid rooms behind sections 117 and 111, in Victory Plaza and on the West Pavilion Club level.",
+        "source_url": "https://gobearcats.com/nippert-gameday-guide",
+        "id": "nippert-stadium.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For non-emergency help during a game, text (513) 450-8556. Other disability-related accommodations can be requested at AccessResources@uc.edu.",
+        "source_url": "https://gobearcats.com/nippert-gameday-guide",
+        "id": "nippert-stadium.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Seat cushions up to 18 inches are allowed, and free lockers outside Gates B and J hold items that can't come inside.",
+        "source_url": "https://gobearcats.com/nippert-gameday-guide",
+        "id": "nippert-stadium.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Service dogs are allowed; emotional support, comfort and companion animals are not.",
+        "source_url": "https://gobearcats.com/nippert-gameday-guide",
+        "id": "nippert-stadium.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -10722,7 +12000,7 @@
     "website": "https://renfestival.com",
     "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
     "limitations": "Public website information; no on-site audit. The accessibility guide on the festival's site is written by an author who works with the festival. Wheelchair loans, accessible stage seating and quiet areas are not described.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-09",
     "slug": "ohio-renaissance-festival",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -10794,6 +12072,78 @@
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "You can leave and return the same day; get a hand stamp on the way out. Both first aid stations also hand out water.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The steepest hills are between Market Square and Minstrel's Grove (cresting at the Swordsmen's Stage) and in Upson Downs. Some vendor booths have temporary ramps they will put down when asked.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "ASL interpretation is offered for all shows on one weekend a year.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Service animals are allowed; therapy and emotional support animals are not.",
+        "source_url": "https://renfestival.com/service-animal-policy/",
+        "id": "ohio-renaissance-festival.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-09",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
