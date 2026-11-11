@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "publish_ready": {"type": "boolean"},
+    "summary": {"type": "string"}
+  },
+  "required": ["publish_ready", "summary"],
+  "additionalProperties": false
+}

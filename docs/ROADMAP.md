@@ -79,7 +79,7 @@ Eight places a week covers the catalog in about 13 weeks, inside the 180-day win
 
 Brad requested continued development of the depth and breadth of collected and
 displayed information, with particular interest in photographs relevant to access.
-The recurring maintenance job now rotates source corrections, access-photo collection,
+The hourly maintenance job now rotates source corrections, access-photo collection,
 deeper venue notes and new venue coverage. Prioritize entrances, parking-to-door
 routes, ramps, lifts, seating, restrooms, changing facilities and quiet spaces.
 
@@ -131,3 +131,12 @@ The order stays as in `COMMUNITY-READINESS.md`: rebuild contribution against cat
 - The NKU policies page fails TLS with the system Python, and AMC, Heritage Village, IMAX, Molly Malone's and Newport Aquarium block scripts. All need a browser check each cycle.
 - The keyboard test once failed in CI at a different step (focus on the search field after the skip link). It did not reproduce in 60 local runs. Watch for it.
 - `IMPLEMENTATION-STATUS.md` has grown into a long diary. Keep adding dated entries, but put plans here.
+
+
+## Continual execution
+
+The update process runs hourly and at login from a persistent automation workspace.
+It resumes unfinished batches, records recovery patches when public work advances,
+validates accepted changes and pushes both publication branches. Runtime status,
+logs and operation are documented in docs/CONTINUAL-UPDATES.md. Publication remains
+limited to the two daily Vercel release slots.
