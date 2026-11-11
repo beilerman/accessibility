@@ -58,5 +58,25 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaker_Trace_Trail_2.jpeg",
     "checkedAt": "2026-11-10"
+  },
+  {
+    "id": "ark-encounter-exterior-ramp",
+    "slug": "ark-encounter",
+    "title": "Exterior ramp structure and benches",
+    "alt": "A raised wooden ramp with railings runs beside the Ark, above a rock bed; a separate paved walkway with wooden benches follows the building below.",
+    "caption": "A 2019 view shows the exterior ramp structure alongside the Ark and benches along the lower walkway. Full frame retained; resized and converted to WebP.",
+    "author": "Cimerondagert",
+    "photoDate": "2019-05-02",
+    "limitations": "The ramp walking surface, doorway and connections from parking are outside this view. It does not establish slope, dimensions, a complete step-free route or current conditions.",
+    "relatedFactIds": [
+      "ark-encounter.mobility.1"
+    ],
+    "src": "/images/access/ark-encounter-ramp.webp",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ark_Encounter_004.jpg",
+    "checkedAt": "2026-11-11"
   }
 ]

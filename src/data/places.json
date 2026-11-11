@@ -10459,7 +10459,7 @@
     "website": "https://arkencounter.com/",
     "source_url": "https://arkencounter.com/accessibility/",
     "limitations": "Public website information; no on-site audit. Confirm the shuttle you board, distances from parking and drop-off, the adult changing table location, and current rental availability before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-11",
     "slug": "ark-encounter",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -10470,7 +10470,7 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10479,6 +10479,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10488,7 +10493,7 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10497,6 +10502,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10506,7 +10516,7 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10515,6 +10525,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10524,7 +10539,7 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10533,6 +10548,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10542,7 +10562,7 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10551,16 +10571,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "Free sensory kits, noise-reducing earmuffs and earplugs are available. Earmuffs and earplugs are at the admissions building and the Welcome Center Guest Services desk; sensory kits are at the Welcome Center desk.",
+        "text": "Free sensory kits, noise-reducing earmuffs and earplugs are available. Earmuffs and earplugs are at the admissions building and the Welcome Center Guest Services desk; sensory kits are at the Welcome Center desk. The venue asks for a name and phone number to borrow these items; return them to the Welcome Center desk before boarding the departure bus. Reservations are not needed.",
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10569,6 +10594,16 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Added borrowing, return and reservation conditions from the freshly verified official accessibility page."
           }
         ]
       },
@@ -10578,7 +10613,7 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10587,6 +10622,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10596,7 +10636,7 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10605,6 +10645,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10614,13 +10659,108 @@
         "source_url": "https://arkencounter.com/accessibility/",
         "id": "ark-encounter.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The first entrance has an automatic door, according to the venue.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchair and ECV rentals are at Chariots of Tyre in the Welcome Center, on the right just past Guest Services when entering from the bus drop-off.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Deck 2 “Kid’s Spooky Animal Encounters” exhibit has puffs of air, animal sounds, mirrors and a jump scare with an illuminated growling jaguar.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Christmas laser-light show projected onto the outside of the Ark has flashing and quickly changing lights.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.sensory.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "A descriptive audio tour of the main exhibits is available to listen to on your own device.",
+        "source_url": "https://arkencounter.com/accessibility/",
+        "id": "ark-encounter.sensory.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
