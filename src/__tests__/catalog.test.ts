@@ -10,7 +10,6 @@ import {
   latestRetrieval,
   catalogChanges,
 } from "@/lib/catalog";
-import { getVenues, getEditorialReviews, getFeaturedReview } from "@/lib/data";
 
 describe("Public-source evidence contract", () => {
   it("retains per-fact primary links and distinguishes research from visits", () => {
@@ -116,10 +115,5 @@ describe("Public-source evidence contract", () => {
     ).toBe(true);
     expect(findPlaces({ q: "zz-no-such-place" })).toEqual([]);
     expect(findPlaces({ city: "Newport", region: "OH" })).toEqual([]);
-  });
-  it("never exposes legacy generated reviews while the community system is gated", async () => {
-    expect(await getVenues()).toEqual([]);
-    expect(await getEditorialReviews()).toEqual([]);
-    expect(await getFeaturedReview()).toBeNull();
   });
 });

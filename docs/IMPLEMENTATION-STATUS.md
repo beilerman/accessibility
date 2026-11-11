@@ -165,3 +165,5 @@ Two research agents proposed 10 listings (6 Ohio, 4 Kentucky) from official sour
 ## Architecture and process review (November 10)
 
 Findings, fixes and the forward plan are in [ROADMAP.md](ROADMAP.md). In short: 82 of 231 sources had no monitoring baseline (now baselined, and enforced by a test); the monitor now judges changed pages by stored supporting quotes; research scripts store quotes and record rechecks; place pages have jump links with note counts; the Supabase client and the catch-all proxy no longer load on public pages; the flaky keyboard test that failed CI on `master` is fixed; a pre-deploy check script was added. Validation: 64 unit tests, 36 pipeline tests, 78 browser tests, type check, lint with 0 errors and the production build. Not committed or deployed in that session.
+
+Later on November 10: GitHub issue #3 was cleared (99 notes on 23 changed sources re-read; 93 confirmed, 6 reworded, quotes stored), and the gated legacy community code was removed (29 files, six dependencies; migrations and authorization tests kept). Validation: 42 unit tests, 36 pipeline tests, 78 browser tests, type check, lint and build.

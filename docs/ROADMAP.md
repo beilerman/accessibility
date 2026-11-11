@@ -10,7 +10,7 @@ Threshold is a read-only, source-linked directory: 101 places, 699 active notes,
 |---|---|
 | Data | JSON files in `src/data/`. `places.json` holds every place and note with its ID, source, dates, status and history. Reviews, visitor reports and image credits are separate files. |
 | Site | Next.js 16, statically generated. Place pages re-render daily so overdue cautions appear without a deploy. The directory and visitor-report pages render per request and work without JavaScript. |
-| Database | Supabase holds only the gated legacy community tables. The public site never calls it. |
+| Database | Supabase holds only the legacy community tables. The site has no database code. |
 | Updates | Research agents propose notes with verbatim quotes; scripts re-fetch and verify each quote; an editor writes the note; scripts append it. |
 | Monitoring | `pipeline/check_sources.py` runs weekly in GitHub Actions and opens an issue when sources change. |
 | Release | Production is deployed by CLI from the working tree, at most twice a day. |
@@ -25,20 +25,24 @@ The trust model is the strongest part: per-note provenance, append-only history,
 | 2 | **The monitor is too noisy to act on.** One day after the baseline it reported 22 of 149 pages changed (issue #3, still open). It hashes whole pages, so library hours or an events list count as a change. Nobody triaged the issue and the handoff did not mention it. | Fixed going forward. Notes can now carry their verified supporting quote (`pipeline/evidence/quotes.json`). A changed page whose quotes are all still present reports `SUPPORTED`; a missing quote reports `QUOTE_MISSING` with the exact note IDs. Existing notes have no stored quote yet; the rolling recheck below fills them in. |
 | 3 | **All notes fall due at once.** 463 notes were read on November 8 and 236 on November 9, so every note shows a recheck caution on May 7–8, 2027 unless the whole catalog is re-read that week. | Process fixed: `queue.py recheck` and `recheck.py` support a rolling recheck. The rechecking itself is work item 2 below. |
 | 4 | **CI on `master` failed for the commit that is live**, and for an earlier one. The keyboard test clicked the mobile menu before the page hydrated; under load it failed about half the time (14 of 25 runs). | Fixed: 25 of 25 runs pass. |
-| 5 | **Every page shipped the Supabase client** (about 207 KB of JavaScript) though community features are off, which also widened the window in which the menu button does nothing. | Fixed: it loads only when `COMMUNITY_ENABLED` is true. |
-| 6 | **The proxy ran on every page and image request** only to redirect three account routes. | Fixed: the matcher covers only the account routes. Widen it again at community launch. |
+| 5 | **Every page shipped the Supabase client** (about 207 KB of JavaScript) though community features are off, which also widened the window in which the menu button does nothing. | Fixed, then removed with the legacy code. |
+| 6 | **The proxy ran on every page and image request** only to redirect three account routes. | Fixed, then replaced by three static redirects. |
 | 7 | **Image optimizer quota risk.** The Vercel account is shared with other projects and one of them has already exhausted the optimizer quota. The default 4-hour cache re-transforms every image size many times a month. | Reduced: 31-day cache and fewer generated sizes. If a 402 ever appears, switch to pre-sized files and `unoptimized` images. |
 | 8 | **Place pages bury the notes.** On a phone the visitor scrolls past the photo, the credit and the review before reaching any access note, with no sense of what the page holds. | Fixed: jump links under the heading show each topic and its note count, plus limits and visitor reports. |
 | 9 | **Nothing stopped a bad deploy.** Deploys come from the local tree, so uncommitted, unpushed or CI-failing work could go live. | Fixed: `scripts/release-check.sh`. |
 | 10 | **Research helpers threw away the evidence.** Quotes were verified and then discarded, and nothing recorded a recheck except hand edits. | Fixed: `apply_depth.py` and `add_places.py` store quotes and reject duplicates and bad values; `recheck.py` records rechecks; `queue.py` builds the research briefs. |
 
-Verified on November 10: 64 unit tests, 36 pipeline tests, 78 browser tests, type check, lint (0 errors) and the production build. Nothing was committed, pushed or deployed in that session.
+These fixes were committed as `3c288e2` and deployed on November 10.
+
+**Later the same day:**
+
+- **Issue #3 cleared.** All 99 notes on the 23 flagged sources were re-read against fresh fetches, and every supporting quote was machine-matched. 93 were confirmed and 6 were reworded (Brady Music Center entrances, The Carnegie parking, Southgate House seating, two Taft Theatre notes, Erlanger drive-through). All 99 now have a stored quote, and the monitor reports those pages as `SUPPORTED`.
+- **Legacy community code removed** (about 5,400 lines, 29 files, six dependencies). The proxy is gone; old account URLs redirect through `next.config.ts`. Migrations and the authorization tests are kept.
 
 ## Findings that need a decision from Brad or Matthew
 
 1. **There is no way to report an error.** No page lists an email address or form. A directory that asks for trust needs a corrections path, and an accessibility statement normally names a contact. Decide the address (a shared inbox is best), then add "Report a problem with this page" to every place page and the footer.
-2. **About 4,000 lines of gated legacy code remain** (`mock-data.ts`, `ReviewForm`, `/reviews/[slug]`, the Google Maps component and its dependency). `COMMUNITY-READINESS.md` already says the community features must be rebuilt against catalog slugs, so little of it will be reused. Recommendation: delete it and keep the migrations and the authorization tests. Git keeps the history.
-3. **Hosting plan.** Vercel's free plan is for non-commercial use and its limits are shared across all of Brad's projects. Moving Threshold to its own team, or to Pro, removes both the deploy cap and the optimizer risk. Do it before any launch push.
+2. **Hosting plan.** Vercel's free plan is for non-commercial use and its limits are shared across all of Brad's projects. Moving Threshold to its own team, or to Pro, removes both the deploy cap and the optimizer risk. Do it before any launch push.
 
 ## Operating cadence
 
@@ -73,13 +77,11 @@ Eight places a week covers the catalog in about 13 weeks, inside the 180-day win
 
 ## Next work, in order
 
-### 1. Clear issue #3 (next session)
-
-Re-read the 22 changed sources and the unavailable Truist Arena FAQ. Store a quote for every note confirmed. This is the first real use of the new recheck flow.
+### 1. Clear issue #3 (done November 10)
 
 ### 2. Start the rolling recheck (weekly, from now)
 
-Target: every note has a stored quote and a staggered due date by mid-February 2027. Measure with `queue.py status`.
+99 of 699 notes have a stored quote so far. Target: every note has a stored quote and a staggered due date by mid-February 2027. Measure with `queue.py status`.
 
 ### 3. Corrections path (after decision 1)
 

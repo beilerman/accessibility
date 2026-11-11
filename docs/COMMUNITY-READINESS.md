@@ -56,3 +56,6 @@ The earlier advisor result returned no lints during startup and is not treated a
 
 **Sign-ups paused (2026-11-08, user decision).** "Allow new users to sign up" was turned off in the Supabase dashboard. Verified: `/auth/v1/settings` reports `disable_signup: true`, and a sign-up attempt returns 422 `signup_disabled`. Re-enable it only when community features launch, after the remaining items above.
 
+## November 10, 2026: legacy application code removed
+
+The gated community application code (sample data, review form, profile and submit pages, auth callback, Supabase clients, `COMMUNITY_ENABLED`) was deleted; it is in git history up to commit `3c288e2`. It was built on venue UUIDs and sample content and would not have been reused (finding 4 above). The database migrations, the live database hardening and the PGlite authorization tests are unchanged and remain the starting point. Sign-ups stay off.

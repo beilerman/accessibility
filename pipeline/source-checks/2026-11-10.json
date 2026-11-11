@@ -12,7 +12,7 @@
     "https://bcplundiscovered.org/accessibilityoptions/": {
       "status": 200,
       "final_url": "https://bcplundiscovered.org/accessibilityoptions/",
-      "last_modified": "Mon, 09 Nov 2026 01:17:17 GMT",
+      "last_modified": "Mon, 09 Nov 2026 02:36:53 GMT",
       "sha256": "f84e4a2f32c90e6de2c6c1b6b5eb58ebd494b8286cd751eb4646db9b508422eb",
       "fingerprint_version": 5,
       "chars": 6215
@@ -29,17 +29,17 @@
       "status": 200,
       "final_url": "https://bradymusiccenter.com/venue-info/faq",
       "last_modified": null,
-      "sha256": "8a54d39d680200e0d182c1bb761e3a2eb11c5535a4d9e144b25a9bd271104d59",
+      "sha256": "07630164f83b12d9e44c94d7030328bd4feef4c250340c564fe31f7104ea2e37",
       "fingerprint_version": 5,
-      "chars": 12098
+      "chars": 12102
     },
     "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items": {
       "status": 200,
       "final_url": "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items",
       "last_modified": null,
-      "sha256": "bd1a69b6af6431a3de103c1b008d238247022543cdb7785e90343becca413c47",
+      "sha256": "c7ea3d18149bdb70ae3a39fcd3956a9c04a9734c4d6a4b916116ae8349f9816e",
       "fingerprint_version": 5,
-      "chars": 6548
+      "chars": 6552
     },
     "https://cballet.org/accessibility/": {
       "status": 200,
@@ -61,17 +61,17 @@
       "status": 200,
       "final_url": "https://chpl.org/locations/1/",
       "last_modified": null,
-      "sha256": "3ac5d99af087adda3cf2726dfe4c3ad9e47c5c58506a813509e11b80b2240528",
+      "sha256": "0c385f18b0071e7e11c1a67724419e6ba4a642e5d47fb51488f70359bcc75982",
       "fingerprint_version": 5,
-      "chars": 4921
+      "chars": 4949
     },
     "https://chpl.org/locations/ha/": {
       "status": 200,
       "final_url": "https://chpl.org/locations/ha/",
       "last_modified": null,
-      "sha256": "a3ae8224f53991230251fe294872debb451792da8c54959cc50ab88992d9b52a",
+      "sha256": "ff2615ada0023a3d8ddd580a1e25149808358b375fbd284fd1a98132c7741abb",
       "fingerprint_version": 5,
-      "chars": 2693
+      "chars": 2650
     },
     "https://chpl.org/outreach/": {
       "status": 200,
@@ -252,10 +252,10 @@
     "https://heritagebankcenter.com/venue-info": {
       "status": 200,
       "final_url": "https://heritagebankcenter.com/venue-info",
-      "last_modified": "Mon, 09 Nov 2026 02:27:24 GMT",
-      "sha256": "26e7070359e84699f7193b0a75170d552333480e8e6bf587246a042fc65b7a70",
+      "last_modified": "Wed, 11 Nov 2026 00:03:15 GMT",
+      "sha256": "98405b69faeaa9a80354b8994d5cb688f9b49a74a6835a9df8daa10400e23263",
       "fingerprint_version": 5,
-      "chars": 20046
+      "chars": 20344
     },
     "https://heritagevillagecincinnati.org/access-and-accommodations/": {
       "status": 403,
@@ -341,7 +341,7 @@
       "status": 200,
       "final_url": "https://renfestival.com/faq/",
       "last_modified": null,
-      "sha256": "1b26eea60dfd109a19a0972a6780ad6c9eed5c5b6b77738017218d7ebc1fb461",
+      "sha256": "e78b2ea90f1477da73b652a7e6956878e42a2599ccae523b0e7b97236b680eaa",
       "fingerprint_version": 5,
       "chars": 8800
     },
@@ -381,9 +381,9 @@
       "status": 200,
       "final_url": "https://tafttheatre.org/venue-info/faq",
       "last_modified": null,
-      "sha256": "7b8bbf7ce5c86abf949de6cd58852bc230c952925b072d7dc892a470578c723d",
+      "sha256": "6f3d821f97da4a2dec25b2b26a80d97ad4e955e8656e7ff7d7dc542094801ada",
       "fingerprint_version": 5,
-      "chars": 12116
+      "chars": 12120
     },
     "https://thecarnegie.com/about/visiting-the-carnegie/": {
       "status": 200,
@@ -396,10 +396,10 @@
     "https://thecarnegie.com/direction-and-parking/": {
       "status": 200,
       "final_url": "https://thecarnegie.com/direction-and-parking/",
-      "last_modified": "Sun, 08 Nov 2026 14:49:04 GMT",
-      "sha256": "fc1b22f9eb815eb26fd68fa1b0c3ccc216dc54156862277669f2e06b999b3d3d",
+      "last_modified": "Tue, 10 Nov 2026 23:40:43 GMT",
+      "sha256": "f34e4214a11279bb051b0fec756ab9b827928c45a23c0302f55fa1cd35c3b9e4",
       "fingerprint_version": 5,
-      "chars": 2906
+      "chars": 2863
     },
     "https://thechildrenstheatre.com/accessibility/": {
       "status": 200,
@@ -461,22 +461,22 @@
       "status": 200,
       "final_url": "https://www.americansignmuseum.org/visit/",
       "last_modified": null,
-      "sha256": "70b455529f60514f2c12af89ba28ffca678601bc8eebd4874b4d58c4904c1769",
+      "sha256": "e4e6fa43c489ebf7219a51e8c3270937a222c4ff55af4ee839dbf5b704e4677b",
       "fingerprint_version": 5,
-      "chars": 7020
+      "chars": 7187
     },
     "https://www.bbriverboats.com/faq": {
       "status": 200,
       "final_url": "https://www.bbriverboats.com/faq",
       "last_modified": null,
-      "sha256": "887e500a2bdb7d2bd5f3e568fe88eeb0335c2432832abe5f006d424c0289eb80",
+      "sha256": "55de0bd0386ece4a09f03de76311b47d0a5774aa3616f28da8e1f097f74cd73b",
       "fingerprint_version": 5,
       "chars": 6370
     },
     "https://www.bcpl.org/locations": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations",
-      "last_modified": "Mon, 09 Nov 2026 02:26:40 GMT",
+      "last_modified": "Wed, 11 Nov 2026 00:03:18 GMT",
       "sha256": "765d8189d4678c1adcda7e8fd791c26f0f9091c1be5c053b837d1792c62a4207",
       "fingerprint_version": 5,
       "chars": 2273
@@ -484,7 +484,7 @@
     "https://www.bcpl.org/locations/hebron": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations/hebron",
-      "last_modified": "Mon, 09 Nov 2026 02:18:14 GMT",
+      "last_modified": "Wed, 11 Nov 2026 00:00:00 GMT",
       "sha256": "a1530940904c623addd241aad9071fc73b57b4db36bf0398d9105ea9ebd81388",
       "fingerprint_version": 5,
       "chars": 740
@@ -492,7 +492,7 @@
     "https://www.bcpl.org/sensory-room": {
       "status": 200,
       "final_url": "https://www.bcpl.org/sensory-room",
-      "last_modified": "Mon, 09 Nov 2026 02:28:05 GMT",
+      "last_modified": "Wed, 11 Nov 2026 00:00:00 GMT",
       "sha256": "9ecab0874cfee7ba07c389ff22efbf2ad5b3a85bf0498556db04a6dd9ce9b2b7",
       "fingerprint_version": 5,
       "chars": 2293
@@ -613,9 +613,9 @@
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
       "last_modified": null,
-      "sha256": "2105ae02efcc640c149b217f3511e9f5e5eca3a1e36b45163e2a37a06afbb1eb",
+      "sha256": "371ac99811d9c791290beafd9763b3b547b5c3964500d1d7dad327484a962fe8",
       "fingerprint_version": 5,
-      "chars": 26610
+      "chars": 26811
     },
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/": {
       "status": 200,
@@ -977,25 +977,25 @@
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/4/",
       "last_modified": null,
-      "sha256": "e2322c5ee089a4847dd4f1a992022c38be05a90442806d8d17c3a237f1f96b4a",
+      "sha256": "1d027a6fd603cdaad21de1ce571bc7cdc8ab11199a4ccfcccbaff82c935ef0ef",
       "fingerprint_version": 5,
-      "chars": 3604
+      "chars": 4330
     },
     "https://www.kentonlibrary.org/locations/5/": {
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/5/",
       "last_modified": null,
-      "sha256": "06ca7a1dcc112c7314d9fbc9eb0161353667474f7092234969e4a29b31c7e3dd",
+      "sha256": "bd79e46ad51b22a28905129403d7fd832c016653c06703a3ec37dfd7d03b2bce",
       "fingerprint_version": 5,
-      "chars": 4213
+      "chars": 4918
     },
     "https://www.kentonlibrary.org/locations/8/": {
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/8/",
       "last_modified": null,
-      "sha256": "5a0358dee436f490e88e058d3d887dfedf588e4c90f4585b2e8bf329d054e8a5",
+      "sha256": "b39539038b3d36f6ed303d6513548516ce2714ca3390dd1fa599d658f6f1fb21",
       "fingerprint_version": 5,
-      "chars": 4368
+      "chars": 5115
     },
     "https://www.kenwoodtownecentre.com/en/visit/": {
       "status": 200,
@@ -1068,7 +1068,7 @@
     "https://www.newportonthelevee.com/entertainment/amc-theatres/": {
       "status": 200,
       "final_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
-      "last_modified": "Mon, 09 Nov 2026 02:30:02 GMT",
+      "last_modified": "Wed, 11 Nov 2026 00:00:09 GMT",
       "sha256": "b42398d62f1fa97d911c76acf0e09630bc9bf8227876363b4387f5c245792e39",
       "fingerprint_version": 5,
       "chars": 468
@@ -1109,17 +1109,17 @@
       "status": 200,
       "final_url": "https://www.sixflags.com/kingsisland/rentals",
       "last_modified": null,
-      "sha256": "63d1815fff169b25a5dd22070db34c616106857612f5f92e8957c7b7515fc9ad",
+      "sha256": "a88009eaebb440b6a6da9dd1e5a70a4fdca9a66deeee150103528aaf649a098f",
       "fingerprint_version": 5,
-      "chars": 1556
+      "chars": 1575
     },
     "https://www.southgatehouse.com/about/": {
       "status": 200,
       "final_url": "https://www.southgatehouse.com/about/",
-      "last_modified": "Mon, 09 Nov 2026 02:30:08 GMT",
-      "sha256": "7e0560f58fe573df54d06b243a485e1fd2671e4b52e08cd3d5a209d364cc8a80",
+      "last_modified": "Wed, 11 Nov 2026 00:00:09 GMT",
+      "sha256": "b32a6660fba778cabfd5f4a3821a7775c0ef8138aea137e45df8f13c85cd5f17",
       "fingerprint_version": 5,
-      "chars": 1953
+      "chars": 1926
     },
     "https://www.taftmuseum.org/visitor-information/": {
       "status": 200,
@@ -1807,11 +1807,22 @@
     }
   },
   "findings": {
-    "https://heritagevillagecincinnati.org/frequently-asked-questions/": "blocked",
-    "https://www.amctheatres.com/assistive-moviegoing": "blocked",
-    "https://www.amctheatres.com/movie-theatres/cincinnati/amc-newport-on-the-levee-20": "blocked",
-    "https://www.amctheatres.com/programs/sensory-friendly-films": "blocked",
-    "https://www.nku.edu/artsci/sota/news-events/policies/index.html": "unavailable"
+    "https://bradymusiccenter.com/venue-info/faq": "supported",
+    "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items": "supported",
+    "https://chpl.org/locations/1/": "supported",
+    "https://chpl.org/locations/ha/": "supported",
+    "https://heritagebankcenter.com/venue-info": "supported",
+    "https://renfestival.com/faq/": "supported",
+    "https://tafttheatre.org/venue-info/faq": "supported",
+    "https://thecarnegie.com/direction-and-parking/": "supported",
+    "https://www.americansignmuseum.org/visit": "supported",
+    "https://www.bbriverboats.com/faq": "supported",
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": "unstable",
+    "https://www.kentonlibrary.org/locations/4": "supported",
+    "https://www.kentonlibrary.org/locations/5/": "supported",
+    "https://www.kentonlibrary.org/locations/8/": "supported",
+    "https://www.sixflags.com/kingsisland/rentals": "supported",
+    "https://www.southgatehouse.com/about/": "supported"
   },
   "missing_quotes": {}
 }

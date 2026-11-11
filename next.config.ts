@@ -9,12 +9,13 @@ const nextConfig: NextConfig = {
     formats: ["image/webp"],
     deviceSizes: [640, 828, 1200, 1920],
     imageSizes: [256, 384],
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "images.unsplash.com",
-      },
-    ],
+  },
+  // Account routes do not exist while the directory is read-only. Old links
+  // land on the page that explains this. Temporary, so they can return.
+  async redirects() {
+    return ["/submit", "/profile", "/profile/:path*"].map(
+      (source) => ({ source, destination: "/login", permanent: false }),
+    );
   },
 };
 

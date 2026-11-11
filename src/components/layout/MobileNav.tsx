@@ -1,17 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
 import {
   MapPin,
   Info,
   BookOpen,
-  PenSquare,
-  User,
-  LogIn,
-  LogOut,
   MessageSquareText,
   Images,
   History,
@@ -25,16 +20,13 @@ const mobileLinks = [
   { href: "/updates", label: "Recent changes", Icon: History },
   { href: "/about", label: "About", Icon: Info },
 ];
-import type { User as SupabaseUser } from "@supabase/supabase-js";
 
 interface MobileNavProps {
   open: boolean;
   onClose: () => void;
-  user: SupabaseUser | null;
-  onSignOut: () => void;
 }
 
-export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
+export function MobileNav({ open, onClose }: MobileNavProps) {
   const pathname = usePathname();
 
   useEffect(() => {
@@ -77,49 +69,6 @@ export function MobileNav({ open, onClose, user, onSignOut }: MobileNavProps) {
             {label}
           </Link>
         ))}
-        {/* Divider */}
-        {COMMUNITY_ENABLED && <div className="h-px bg-border my-2" />}
-
-        {COMMUNITY_ENABLED &&
-          (user ? (
-            <>
-              <Link
-                href="/submit"
-                className="flex items-center gap-3 px-3 py-3 rounded-lg text-accent hover:bg-accent/10 transition-colors min-h-[44px] font-medium"
-                onClick={onClose}
-              >
-                <PenSquare className="h-5 w-5" aria-hidden="true" />
-                Submit Review
-              </Link>
-              <Link
-                href="/profile"
-                className="flex items-center gap-3 px-3 py-3 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px]"
-                onClick={onClose}
-              >
-                <User className="h-5 w-5" aria-hidden="true" />
-                Profile
-              </Link>
-              <button
-                onClick={() => {
-                  onSignOut();
-                  onClose();
-                }}
-                className="flex items-center gap-3 px-3 py-3 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] w-full text-left"
-              >
-                <LogOut className="h-5 w-5" aria-hidden="true" />
-                Sign Out
-              </button>
-            </>
-          ) : (
-            <Link
-              href="/login"
-              className="flex items-center gap-3 px-3 py-3 rounded-lg text-accent hover:bg-accent/10 transition-colors min-h-[44px] font-medium"
-              onClick={onClose}
-            >
-              <LogIn className="h-5 w-5" aria-hidden="true" />
-              Sign In
-            </Link>
-          ))}
       </div>
     </nav>
   );

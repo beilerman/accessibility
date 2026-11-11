@@ -35,7 +35,7 @@ Playwright tests start the built server on port 3217. Install its Chromium brows
 - `docs/IMPLEMENTATION-STATUS.md`: execution ledger, validation evidence and remaining dependencies.
 - `pipeline/README.md`: optional Overture staging pull and provenance handling.
 
-The recovered repository is Next.js 16 / React 19; the plan's proposed Vite migration is unnecessary. `COMMUNITY_ENABLED` is false in `src/lib/catalog-mode.ts` while community permissions and moderation are implemented and tested. The legacy database query implementation is preserved in `src/lib/legacy-data.ts`, reached only through the gated wrapper. Re-enabling contributions requires privilege/publication/upload authorization tests, moderation, and an approved owner verification process. It is not a feature-flag-only launch.
+The site is Next.js 16 / React 19 and is read-only: it has no accounts and never calls a database. The earlier community code (sample reviews, review form, profile pages, Supabase client) was removed on November 10, 2026; it remains in git history before that date. The database migrations and their authorization tests are kept in `supabase/migrations/` and `src/__tests__/db/`. Old account URLs (`/submit`, `/profile`, `/auth/callback`) redirect to `/login`, which explains that contributions are not open. Community features will be rebuilt against catalog slugs; see `docs/COMMUNITY-READINESS.md` and `docs/ROADMAP.md`.
 
 ## Source monitoring
 

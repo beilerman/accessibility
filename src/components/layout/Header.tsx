@@ -1,17 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
-import { COMMUNITY_ENABLED } from "@/lib/catalog-mode";
-import { useState, useEffect, useCallback, useRef } from "react";
-import { Search, Menu, X, User, LogOut } from "lucide-react";
+import { usePathname } from "next/navigation";
+import { useState, useCallback } from "react";
+import { Search, Menu, X } from "lucide-react";
 import { DarkModeToggle } from "@/components/shared/DarkModeToggle";
 import { MobileNav } from "./MobileNav";
 import { BrandMark } from "./BrandMark";
-import type {
-  SupabaseClient,
-  User as SupabaseUser,
-} from "@supabase/supabase-js";
 
 const navLinks = [
   { href: "/venues", label: "Browse places" },
@@ -22,47 +17,9 @@ const navLinks = [
 ];
 
 export function Header() {
-  const router = useRouter();
   const pathname = usePathname();
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
-  const [user, setUser] = useState<SupabaseUser | null>(null);
-  // The Supabase client is loaded only when community features are on, so the
-  // read-only catalog does not ship it to every visitor.
-  const supabaseRef = useRef<SupabaseClient | null>(null);
   const closeMobileNav = useCallback(() => setMobileNavOpen(false), []);
-
-  useEffect(() => {
-    if (!COMMUNITY_ENABLED) return;
-    let cancelled = false;
-    let unsubscribe = () => {};
-    import("@/lib/supabase/client").then(({ createClient }) => {
-      if (cancelled) return;
-      const supabase = createClient();
-      supabaseRef.current = supabase;
-      supabase.auth.getUser().then(({ data: { user } }) => {
-        if (!cancelled) setUser(user);
-      });
-      const {
-        data: { subscription },
-      } = supabase.auth.onAuthStateChange((_event, session) => {
-        setUser(session?.user ?? null);
-      });
-      unsubscribe = () => subscription.unsubscribe();
-    });
-    return () => {
-      cancelled = true;
-      unsubscribe();
-    };
-  }, []);
-
-  const handleSignOut = useCallback(async () => {
-    const supabase = supabaseRef.current;
-    if (!supabase) return;
-    await supabase.auth.signOut();
-    setUser(null);
-    router.replace("/");
-    router.refresh();
-  }, [router]);
 
   return (
     <header className="site-header">
@@ -93,14 +50,6 @@ export function Header() {
                 {link.label}
               </Link>
             ))}
-            {COMMUNITY_ENABLED && user && (
-              <Link
-                href="/submit"
-                className="text-sm font-medium text-accent hover:text-accent-hover transition-colors min-h-[44px] flex items-center"
-              >
-                Submit Review
-              </Link>
-            )}
           </nav>
 
           {/* Desktop actions */}
@@ -114,32 +63,6 @@ export function Header() {
             </Link>
             <DarkModeToggle />
 
-            {COMMUNITY_ENABLED &&
-              (user ? (
-                <div className="flex items-center gap-2">
-                  <Link
-                    href="/profile"
-                    className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                    aria-label="Your profile"
-                  >
-                    <User className="h-5 w-5" />
-                  </Link>
-                  <button
-                    onClick={handleSignOut}
-                    className="p-2 rounded-lg text-muted-foreground hover:text-foreground hover:bg-muted transition-colors min-h-[44px] min-w-[44px] flex items-center justify-center"
-                    aria-label="Sign out"
-                  >
-                    <LogOut className="h-5 w-5" />
-                  </button>
-                </div>
-              ) : (
-                <Link
-                  href="/login"
-                  className="px-4 py-2 bg-accent text-white font-medium rounded-lg hover:bg-accent-hover transition-colors min-h-[44px] flex items-center text-sm"
-                >
-                  Sign In
-                </Link>
-              ))}
           </div>
 
           {/* Mobile menu button */}
@@ -163,12 +86,7 @@ export function Header() {
       </div>
 
       {/* Mobile nav */}
-      <MobileNav
-        open={mobileNavOpen}
-        onClose={closeMobileNav}
-        user={user}
-        onSignOut={handleSignOut}
-      />
+      <MobileNav open={mobileNavOpen} onClose={closeMobileNav} />
     </header>
   );
 }

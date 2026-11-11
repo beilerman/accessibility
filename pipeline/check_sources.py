@@ -10,6 +10,7 @@ reasons unrelated to accessibility. Nothing here edits fact text.
   python3 pipeline/check_sources.py              # report only, save snapshot
   python3 pipeline/check_sources.py --flag       # also mark affected facts needs_recheck
   python3 pipeline/check_sources.py --new-only   # baseline sources added since the last snapshot
+  python3 pipeline/check_sources.py --only urls.txt  # re-baseline sources an editor just re-read
 
 Where a note's supporting passage is on file (pipeline/evidence/quotes.json),
 a changed page is judged by whether that passage is still there, not by the
@@ -324,6 +325,7 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--flag", action="store_true", help="mark affected facts in places.json")
     ap.add_argument("--new-only", action="store_true", help="fetch only sources missing from the latest snapshot and add them to it")
+    ap.add_argument("--only", metavar="FILE", help="fetch only the URLs listed in FILE (one per line) and update them in the snapshot; use after re-reading those sources")
     args = ap.parse_args(argv)
 
     places = json.loads(PLACES.read_text())
@@ -331,6 +333,9 @@ def main(argv: list[str] | None = None) -> int:
     previous = latest_snapshot()
     if args.new_only:
         urls = uncovered(places, previous)
+    elif args.only:
+        wanted = set(Path(args.only).read_text().split())
+        urls = [u for u in urls if u in wanted]
     current = {}
     for url in urls:
         current[url] = fetch(url)
@@ -341,7 +346,7 @@ def main(argv: list[str] | None = None) -> int:
     today = dt.date.today().isoformat()
     for result in current.values():
         result.pop("_text", None)
-    if args.new_only:
+    if args.new_only or args.only:
         # Earlier baselines are carried forward untouched: they still record
         # the state an editor last reviewed.
         current = {**previous, **current}
