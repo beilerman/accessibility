@@ -41,7 +41,7 @@ These fixes were committed as `3c288e2` and deployed on November 10.
 
 ## Findings that need a decision from Brad or Matthew
 
-1. **There is no way to report an error.** No page lists an email address or form. A directory that asks for trust needs a corrections path, and an accessibility statement normally names a contact. Decide the address (a shared inbox is best), then add "Report a problem with this page" to every place page and the footer.
+1. **Corrections contact: decided and built (November 10).** Brad chose `medpeds@gmail.com`. Every place page has "Report a problem with this page" (the email is pre-filled with the place and its address), the footer has "Report a problem", and the "Using this site" page names the address. The address lives in `src/lib/site.ts`. Committed but not yet deployed: both of the day's deploys were used.
 2. **Hosting plan.** Vercel's free plan is for non-commercial use and its limits are shared across all of Brad's projects. Moving Threshold to its own team, or to Pro, removes both the deploy cap and the optimizer risk. Do it before any launch push.
 
 ## Operating cadence
@@ -83,9 +83,9 @@ Eight places a week covers the catalog in about 13 weeks, inside the 180-day win
 
 99 of 699 notes have a stored quote so far. Target: every note has a stored quote and a staggered due date by mid-February 2027. Measure with `queue.py status`.
 
-### 3. Corrections path (after decision 1)
+### 3. Corrections path (built; deploy on November 11)
 
-A contact link on every place page and in the footer, carrying the place name and note ID. Log each correction in the note history.
+When a correction arrives: re-read the source, fix or retire the note with a history entry that says a reader reported it (never name the reader), and reply. If mail volume grows, move to a shared inbox on the site's own domain.
 
 ### 4. Firsthand reviews as the main growth line
 

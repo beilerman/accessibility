@@ -34,6 +34,7 @@ import { teamReviewForPlace } from "@/lib/team-reviews";
 import { CategoryArt } from "@/components/catalog/CategoryArt";
 import { reportsForPlace } from "@/lib/visitor-reports";
 import { VisitorReport } from "@/components/catalog/VisitorReport";
+import { reportProblemHref } from "@/lib/site";
 import { ScrollToHash } from "@/components/catalog/ScrollToHash";
 // Re-render daily so overdue-recheck cautions (computed from today's date)
 // appear without waiting for a new deploy.
@@ -306,6 +307,13 @@ export default async function PlacePage({
                 </span>
               </a>
             )}
+            <a
+              href={reportProblemHref(p)}
+              className="underline min-h-11 inline-flex items-center"
+            >
+              Report a problem with this page
+              <span className="sr-only"> (opens your email app)</span>
+            </a>
             <Link href="/sources" className="text-sm underline">
               How sources and dates work
             </Link>

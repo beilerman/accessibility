@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { BrandMark } from "./BrandMark";
+import { reportProblemHref } from "@/lib/site";
 
 export function Footer() {
   return (
@@ -28,6 +29,7 @@ export function Footer() {
             <Link href="/access-in-pictures">Visual guide</Link>
             <Link href="/accessibility">Using this site</Link>
             <Link href="/about">About</Link>
+            <a href={reportProblemHref()}>Report a problem</a>
           </nav>
         </div>
         <p className="footer-note">

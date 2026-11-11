@@ -501,3 +501,21 @@ test("place pages offer jump links with note counts", async ({ page }) => {
     page.getByRole("heading", { name: "Sensory & communication" }),
   ).toBeInViewport();
 });
+
+test("every place page and the footer offer a way to report a problem", async ({
+  page,
+}) => {
+  await page.goto("/venues/the-carnegie");
+  const link = page.getByRole("link", {
+    name: /Report a problem with this page/,
+  });
+  const href = await link.getAttribute("href");
+  expect(href).toMatch(/^mailto:/);
+  expect(decodeURIComponent(href!)).toContain("The Carnegie");
+  expect(decodeURIComponent(href!)).toContain("/venues/the-carnegie");
+  await expect(
+    page
+      .getByRole("navigation", { name: "Footer" })
+      .getByRole("link", { name: "Report a problem" }),
+  ).toHaveAttribute("href", /^mailto:/);
+});

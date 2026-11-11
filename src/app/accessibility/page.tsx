@@ -1,3 +1,4 @@
+import { CONTACT_EMAIL, reportProblemHref } from "@/lib/site";
 import Link from "next/link";
 import type { Metadata } from "next";
 export const metadata: Metadata = { title: "Using this site" };
@@ -27,10 +28,15 @@ export default function Accessibility() {
         sessions remain part of the beta plan. This page is not a certification
         of conformance.
       </p>
+      <h2>Tell us about a problem</h2>
       <p>
-        Community reports and a dedicated feedback channel are not open yet. For
-        a venue-specific need, use the official website linked on its place
-        page.
+        If something on this site is hard to use, wrong or out of date, email{" "}
+        <a href={reportProblemHref()} className="underline">
+          {CONTACT_EMAIL}
+        </a>
+        . Every place page also has a “Report a problem with this page” link.
+        Community reports are not open yet. For a venue-specific need, use the
+        official website linked on its place page.
       </p>
       <Link href="/venues" className="primary-button">
         Browse the text directory
