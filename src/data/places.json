@@ -187,7 +187,7 @@
     "address": "650 Walnut Street, Cincinnati, OH 45202",
     "website": "https://www.cincinnatiarts.org/aronoff-center",
     "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-11",
     "facts": [
       {
         "domain": "mobility",
@@ -195,7 +195,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -209,6 +209,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -218,7 +223,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -232,6 +237,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -241,7 +251,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -255,6 +265,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -264,7 +279,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -273,16 +288,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "All Aronoff restrooms are described as accessible; for the Jarson-Kaplan and Fifth Third Bank theaters they are one level below, by elevator. A gender-neutral companion care restroom is on the north side of the Loge lobby.",
+        "text": "All Aronoff restrooms are described as accessible; for the Jarson-Kaplan and Fifth Third Bank theaters they are one level below, by elevator. A gender-neutral companion care restroom is on the north side of the Loge lobby; ask an usher or staff member for access.",
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -291,6 +311,16 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Added the published staff-access instruction for the companion care restroom."
           }
         ]
       },
@@ -300,7 +330,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -309,16 +339,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Service animals are welcome and should stay on a leash or in a harness. A lactation suite has a private area with comfortable seats, a changing station, dimmable lights and outlets.",
+        "text": "Service animals are welcome and should stay on a leash or in a harness; notify a representative at purchase. The lactation suite is inside the house-left Orchestra women’s restroom and has a private area with seats, a changing station, dimmable lights, outlets and a monitor showing the stage.",
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -327,6 +362,16 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Added the published lactation-suite location, stage monitor and service-animal notification instruction."
           }
         ]
       },
@@ -336,7 +381,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -345,6 +390,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -354,7 +404,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -363,6 +413,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -372,7 +427,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -381,6 +436,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -390,7 +450,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
         "id": "aronoff-center-for-the-arts.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -399,22 +459,73 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The designated drop-off is on Seventh Street; the Gallery entrance there is accessible and leads to an elevator serving all levels of Procter & Gamble Hall.",
+        "text": "The designated venue drop-off and pickup zone is on the south side of Seventh Street between Walnut and Main. The Gallery entrance there leads to an elevator serving all levels of Procter & Gamble Hall. The same page lists a separate rideshare location on Walnut Street.",
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/directions-parking",
         "id": "aronoff-center-for-the-arts.mobility.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Specified the published Seventh Street zone and distinguished it from the separately listed rideshare location."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For Procter & Gamble Hall seating, the venue directs visitors to elevator Level 3 for Orchestra seating, Orchestra Box B and Loge Box E; Level 4 for Loge seating and Balcony Boxes C and F; and Level 5 for Balcony seating.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1",
+        "id": "aronoff-center-for-the-arts.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The directions page lists designated rideshare drop-off and pickup on Walnut Street between Sixth and Seventh Streets. It separately lists the venue drop-off zone on Seventh Street; check which location your driver will use.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/directions-parking",
+        "id": "aronoff-center-for-the-arts.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
