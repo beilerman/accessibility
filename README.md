@@ -29,7 +29,7 @@ Playwright tests start the built server on port 3217. Install its Chromium brows
 ## Working plan
 
 - `docs/ROADMAP.md`: **the current plan**: architecture summary, review findings, operating cadence and next work.
-- `docs/HANDOFF-2026-11-10.md`: where the last session stopped and how research is done.
+- `docs/HANDOFF-2026-11-10.md`: **start here.** Current state, first actions, rules, how updates are done; written for any agent or person starting cold.
 - `docs/PLAN.md`: original Claude v1.1 plan, preserved as downloaded (history).
 - `docs/DECISIONS.md`: corrections and implementation decisions after repository recovery.
 - `docs/IMPLEMENTATION-STATUS.md`: execution ledger, validation evidence and remaining dependencies.
