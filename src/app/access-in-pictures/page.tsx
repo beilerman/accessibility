@@ -2,11 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { illustrations } from "@/lib/media";
 import { AccessIllustration } from "@/components/catalog/AccessIllustration";
+import { AccessMedia } from "@/components/catalog/AccessMedia";
 
 export const metadata: Metadata = {
   title: "Access in pictures",
   description:
-    "Visual examples of entrance, sensory and rest features, with questions to ask before a visit. Clearly labeled AI illustrations.",
+    "Venue access photographs and official photo walkthroughs, with dates, credits and illustrated explanations of common access features.",
 };
 
 export default function AccessInPictures() {
@@ -17,12 +18,17 @@ export default function AccessInPictures() {
         See the detail. Know what to ask.
       </h1>
       <p className="text-lg text-muted-foreground max-w-3xl mt-6 leading-relaxed">
-        These realistic AI illustrations explain common access features. They
-        depict example settings, not local venues. An image cannot establish
-        dimensions, operation, sound levels, or a continuous accessible route.
+        Explore photographs of local places and the visual guides their
+        operators publish to help you prepare for a visit.
+      </p>
+      <AccessMedia />
+      <h2 className="font-display text-3xl mt-12">Illustrated access features</h2>
+      <p className="mt-4 max-w-3xl leading-relaxed">
+        These AI illustrations explain common features in example settings.
+        Each highlights visible details and questions to ask before a visit.
       </p>
       <div className="mt-12 space-y-16">
-        {illustrations.map((item, index) => (
+        {illustrations.map((item) => (
           <section
             key={item.id}
             id={item.id}
@@ -30,7 +36,6 @@ export default function AccessInPictures() {
             aria-labelledby={`guide-${item.id}`}
           >
             <div>
-              <p className="eyebrow">0{index + 1} / LOOK CLOSER</p>
               <h2
                 id={`guide-${item.id}`}
                 className="font-display text-3xl mt-3 mb-6"

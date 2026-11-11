@@ -8,10 +8,42 @@ import {
   categoryArt,
   artForCategory,
   photoForPlace,
+  accessPhotos,
+  accessGuides,
 } from "@/lib/media";
 import { places } from "@/lib/catalog";
 
 describe("Public image provenance", () => {
+  it("keeps access photographs licensed and route references tied to the right place", () => {
+    expect(new Set(accessPhotos.map((photo) => photo.id)).size).toBe(accessPhotos.length);
+    expect(new Set(accessPhotos.map((photo) => photo.src)).size).toBe(accessPhotos.length);
+    for (const photo of accessPhotos) {
+      const place = places.find((place) => place.slug === photo.slug);
+      expect(place).toBeDefined();
+      expect(photo.src.startsWith("/images/access/")).toBe(true);
+      expect(existsSync(path.join(process.cwd(), "public", photo.src))).toBe(true);
+      for (const value of [photo.alt, photo.caption, photo.author, photo.license, photo.limitations]) {
+        expect(value.trim().length).toBeGreaterThan(0);
+      }
+      expect(photo.width).toBeGreaterThan(0);
+      expect(photo.height).toBeGreaterThan(0);
+      expect(new URL(photo.sourceUrl).protocol).toBe("https:");
+      expect(new URL(photo.licenseUrl).protocol).toBe("https:");
+      for (const id of photo.relatedFactIds) {
+        expect(place!.facts.some((fact) => fact.id === id)).toBe(true);
+      }
+    }
+    expect(new Set(accessGuides.map((guide) => guide.id)).size).toBe(accessGuides.length);
+    for (const guide of accessGuides) {
+      expect(places.some((place) => place.slug === guide.slug)).toBe(true);
+      expect(new URL(guide.url).protocol).toBe("https:");
+      expect(new URL(guide.sourceUrl).protocol).toBe("https:");
+      expect(guide.pageCount).toBeGreaterThan(0);
+      expect(guide.publisher).toBeTruthy();
+      expect(guide.description).toBeTruthy();
+      expect(guide.checkedAt).toMatch(/^\d{4}-\d{2}-\d{2}$/);
+    }
+  });
   it("provides every listing with either a real photo or explicitly generated category art", () => {
     expect(new Set(categoryArt.map((item) => item.category)).size).toBe(
       categoryArt.length,

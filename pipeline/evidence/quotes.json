@@ -4,6 +4,11 @@
   "quote": "Theater Level inside the Gallery Building",
   "verified_at": "2026-11-10"
  },
+ "amc-newport-on-the-levee-20.mobility.2": {
+  "url": "https://www.newportonthelevee.com/directions-and-parking/",
+  "quote": "Valet Parking: Valet parking is available via the East Third Street entrance behind Brio Tuscan Grille and operates Sunday - Thursday, 11AM to 10PM, Friday & Saturday, 11AM to 11PM. It is $12 per car. ​For parking inquiries, call (859) 888-2455",
+  "verified_at": "2026-11-10"
+ },
  "american-sign-museum.chronic.1": {
   "url": "https://www.americansignmuseum.org/visit",
   "quote": "The Museum has two wheelchairs available for visitor use on a first-come-first-serve basis. There are chairs throughout the Museum as well.",
@@ -31,12 +36,22 @@
  },
  "andrew-j-brady-music-center.chronic.2": {
   "url": "https://bradymusiccenter.com/venue-info/faq",
-  "quote": "Medically necessary bags and diaper bags accompanied by the guest using them. All bags will be searched.",
+  "quote": "Possible exceptions include: Medically necessary bags and diaper bags accompanied by the guest using them. All bags will be searched.",
   "verified_at": "2026-11-10"
  },
  "andrew-j-brady-music-center.chronic.3": {
   "url": "https://bradymusiccenter.com/venue-info/faq",
   "quote": "There is no re-entry for all indoor & outdoor events.",
+  "verified_at": "2026-11-10"
+ },
+ "andrew-j-brady-music-center.cognitive.1": {
+  "url": "https://bradymusiccenter.com/accessibility",
+  "quote": "Seating in designated ADA sections is available on a best-available basis. ADA tickets can be purchased on Ticketmaster.com or at the venue box office during operating hours.",
+  "verified_at": "2026-11-10"
+ },
+ "andrew-j-brady-music-center.mobility.1": {
+  "url": "https://bradymusiccenter.com/accessibility",
+  "quote": "The Andrew J Brady Music Center indoor & outdoor venues are fully accessible, offering ADA-compliant entrances and seating. Patrons requiring ADA, hearing-impaired, or visually-impaired seating must specify their needs at the time of ticket purchase .",
   "verified_at": "2026-11-10"
  },
  "andrew-j-brady-music-center.mobility.2": {
@@ -47,6 +62,16 @@
  "andrew-j-brady-music-center.mobility.3": {
   "url": "https://bradymusiccenter.com/venue-info/faq",
   "quote": "The elevator closest to the venue is currently out of service.",
+  "verified_at": "2026-11-10"
+ },
+ "andrew-j-brady-music-center.mobility.4": {
+  "url": "https://bradymusiccenter.com/accessibility",
+  "quote": "By purchasing tickets for the ADA section, you confirm that you or a member of your party requires reserved seating due to mobility or standing difficulties.",
+  "verified_at": "2026-11-10"
+ },
+ "andrew-j-brady-music-center.sensory.1": {
+  "url": "https://bradymusiccenter.com/accessibility",
+  "quote": "The Andrew J Brady Music Center offers sign language interpretation upon request. Requests for sign language interpreting services must be received 3 weeks before the event and are subject to availability of an interpreter. Please email info@bradymusiccenter.com with your request.",
   "verified_at": "2026-11-10"
  },
  "bb-riverboats.chronic.1": {
@@ -144,6 +169,11 @@
   "quote": "Review our Sensory Room Social Narrative and Sensory Room Policy before your visit.",
   "verified_at": "2026-11-10"
  },
+ "boone-county-public-library-main-library.cognitive.2": {
+  "url": "https://www.bcpl.org/sensory-room",
+  "quote": "Ask staff at the desk to sign you into the Sensory Room. (It remains locked when not in use.) When done, tell staff at the desk to sign you out.",
+  "verified_at": "2026-11-10"
+ },
  "boone-county-public-library-main-library.mobility.1": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
   "quote": "Stop by the front desk to sign a waiver and borrow a wheelchair.",
@@ -157,6 +187,16 @@
  "boone-county-public-library-main-library.sensory.1": {
   "url": "https://www.bcpl.org/sensory-room",
   "quote": "It accommodates up to five people (or one family) at a time and may be reserved for 30 minutes.",
+  "verified_at": "2026-11-10"
+ },
+ "boone-county-public-library-main-library.sensory.2": {
+  "url": "https://www.bcpl.org/sensory-room",
+  "quote": "These three panels offer tactile, visual and sound sensations.",
+  "verified_at": "2026-11-10"
+ },
+ "boone-county-public-library-main-library.sensory.3": {
+  "url": "https://www.bcpl.org/sensory-room",
+  "quote": "The platform is adorned with colored spots which, when pressed, change the color of the bubble tube and stop and start the bubbles inside.",
   "verified_at": "2026-11-10"
  },
  "boone-county-public-library-scheben-branch.chronic.1": {
@@ -207,6 +247,31 @@
  "boone-county-public-library-walton-branch.sensory.2": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
   "quote": "Additionally, the Walton Branch has a family-friendly restroom with an adult changing table and sensory-friendly blue lighting.",
+  "verified_at": "2026-11-10"
+ },
+ "cincinnati-art-museum.mobility.4": {
+  "url": "https://www.cincinnatiartmuseum.org/access",
+  "quote": "Elevator A provides visitor access from the first floor near the Cincinnati Wing to the second floor near Gallery 214. Elevator B provides visitor access from the first floor near the Terrace Café to the second floor near Gallery 210. Elevator C provides visitor access from the first floor near Gallery 136 to the second floor near Gallery 108.",
+  "verified_at": "2026-11-10"
+ },
+ "cincinnati-art-museum.mobility.5": {
+  "url": "https://www.cincinnatiartmuseum.org/access",
+  "quote": "Art Climb includes three accessible platforms reached via pedestrian pathway and identified on the Area Map.",
+  "verified_at": "2026-11-10"
+ },
+ "cincinnati-museum-center.cognitive.3": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "However, feel free to check out our museum focused “Accessibility Amenities” guides on the top right of this page listed under “Additional Information” to build your own or has a visual walkthrough of our galleries before visiting.",
+  "verified_at": "2026-11-10"
+ },
+ "cincinnati-museum-center.mobility.4": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Renters must be over 18 years old and sign the Guest Mobility Equipment Rental Agreement. A driver’s license or credit card will be held at the box office until the wheelchair or ECV is returned. Single strollers: $10 Double strollers: $12 Wheelchairs: $7 Electric Wheelchairs: $29 Please note: All mobility equipment rentals are cashless.",
+  "verified_at": "2026-11-10"
+ },
+ "cincinnati-zoo-botanical-garden.mobility.5": {
+  "url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+  "quote": "Vine Lot (Lot A) located at 3427 Vine Street – 20 dedicated handicap/accessible parking spots Visitors with handicap/accessible placards will always be allowed to park in Vine Lot, even if the lot is full for other incoming traffic. Please have your placard visible to attendants when entering Vine Lot.",
   "verified_at": "2026-11-10"
  },
  "downtown-main-library.chronic.1": {

@@ -7,7 +7,7 @@ import {
   SOURCE_TYPE_LABELS,
   RECHECK_AFTER_DAYS,
 } from "@/lib/catalog";
-import { venuePhotos } from "@/lib/media";
+import { venuePhotos, accessPhotos } from "@/lib/media";
 export const metadata: Metadata = {
   title: "Sources & evidence",
   description:
@@ -162,7 +162,7 @@ export default function Sources() {
         accessibility.
       </p>
       <ul className="source-register">
-        {venuePhotos.map((photo) => (
+        {[...venuePhotos, ...accessPhotos].map((photo) => (
           <li key={photo.src}>
             <Link
               className="font-semibold underline"

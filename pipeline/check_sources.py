@@ -318,7 +318,7 @@ def flag_facts(places: list[dict], findings: dict[str, str], today: str, missing
 
 def latest_snapshot() -> dict[str, dict]:
     files = sorted(SNAPSHOT_DIR.glob("*.json"))
-    return json.loads(files[-1].read_text())["sources"] if files else {}
+    return json.loads(files[-1].read_text()) if files else {}
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -330,7 +330,8 @@ def main(argv: list[str] | None = None) -> int:
 
     places = json.loads(PLACES.read_text())
     urls = sorted({f["source_url"] for p in places for f in p["facts"] if f["review_status"] != "retired"})
-    previous = latest_snapshot()
+    previous_record = latest_snapshot()
+    previous = previous_record.get("sources", {})
     if args.new_only:
         urls = uncovered(places, previous)
     elif args.only:
@@ -344,15 +345,21 @@ def main(argv: list[str] | None = None) -> int:
     findings = confirm_changes(previous, current, compare(previous, current))
     missing = judge_by_quotes(places, load_quotes(), current, findings)
     today = dt.date.today().isoformat()
+    snapshot_findings = findings
+    snapshot_missing = missing
     for result in current.values():
         result.pop("_text", None)
     if args.new_only or args.only:
         # Earlier baselines are carried forward untouched: they still record
         # the state an editor last reviewed.
+        snapshot_findings = {u: kind for u, kind in previous_record.get("findings", {}).items() if u not in current}
+        snapshot_findings.update(findings)
+        snapshot_missing = {u: ids for u, ids in previous_record.get("missing_quotes", {}).items() if u not in current}
+        snapshot_missing.update(missing)
         current = {**previous, **current}
     SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
     out = SNAPSHOT_DIR / f"{today}.json"
-    out.write_text(json.dumps({"checked_at": today, "sources": current, "findings": findings, "missing_quotes": missing}, indent=2) + "\n")
+    out.write_text(json.dumps({"checked_at": today, "sources": current, "findings": snapshot_findings, "missing_quotes": snapshot_missing}, indent=2) + "\n")
 
     for url, kind in sorted(findings.items()):
         print(f"{kind.upper():13} {url}" + (f"  notes: {', '.join(missing[url])}" if url in missing else ""))

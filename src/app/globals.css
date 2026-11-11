@@ -375,6 +375,17 @@ body {
 .venue-photo img, .access-illustration img, .category-art img { display: block; width: 100%; height: auto; object-fit: contain; }
 .venue-photo-compact img, .category-art-compact img { aspect-ratio: 3 / 2; object-fit: cover; object-position: 50% 30%; }
 .venue-photo-detail img { max-height: 640px; }
+.access-media { padding-block: 40px; border-top: 1px solid var(--border); scroll-margin-top: 104px; }
+.access-media-venue { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; align-items: start; }
+.access-media-venue .access-photo-grid, .access-media-venue .access-guide-grid { grid-template-columns: 1fr; }
+.access-photo-grid, .access-guide-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin-top: 28px; }
+.access-photo { min-width: 0; overflow: hidden; border: 1px solid var(--border); border-radius: 22px; background: var(--card); }
+.access-photo-image { display: block; background: var(--muted); }
+.access-photo-image img { display: block; width: 100%; height: auto; object-fit: contain; }
+.access-photo .photo-caption { font-size: .95rem; }
+.access-photo .photo-caption a { color: var(--accent); }
+.access-guide-grid article { min-width: 0; }
+@media (max-width: 700px) { .access-photo-grid, .access-guide-grid, .access-media-venue { grid-template-columns: 1fr; } .access-media-venue { gap: 0; } }
 .category-art-detail img { max-height: 520px; object-fit: cover; }
 .photo-caption { padding: 12px 16px; font-size: .78rem; line-height: 1.6; color: var(--muted-foreground); overflow-wrap: anywhere; }
 .photo-caption p + p { margin-top: 4px; }

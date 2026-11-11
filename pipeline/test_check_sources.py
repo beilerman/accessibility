@@ -1,7 +1,10 @@
 import unittest
 
 import json
+import tempfile
+from unittest.mock import patch
 from pathlib import Path
+import check_sources
 
 from check_sources import (
     compare,
@@ -193,6 +196,31 @@ class QuoteTests(unittest.TestCase):
 
 
 class CoverageTests(unittest.TestCase):
+    def test_partial_source_check_preserves_unreviewed_findings(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            sources = root / "snapshots"
+            sources.mkdir()
+            selected = "https://reviewed.example/"
+            held = "https://held.example/"
+            baseline = {"status": 200, "sha256": "same", "fingerprint_version": 5}
+            prior = {
+                "sources": {selected: baseline, held: baseline},
+                "findings": {selected: "changed", held: "quote_missing"},
+                "missing_quotes": {held: ["held.mobility.1"]},
+            }
+            (sources / "2000-01-01.json").write_text(json.dumps(prior))
+            catalog = root / "places.json"
+            catalog.write_text(json.dumps([{"facts": [fact(selected), fact(held)]}]))
+            wanted = root / "urls.txt"
+            wanted.write_text(selected)
+            with patch.object(check_sources, "SNAPSHOT_DIR", sources), patch.object(check_sources, "PLACES", catalog), patch.object(check_sources, "fetch", return_value=baseline.copy()), patch.object(check_sources, "load_quotes", return_value={}):
+                check_sources.main(["--only", str(wanted)])
+            saved = json.loads(sorted(sources.glob("*.json"))[-1].read_text())
+            self.assertEqual(saved["findings"], {held: "quote_missing"})
+            self.assertEqual(saved["missing_quotes"], {held: ["held.mobility.1"]})
+            self.assertEqual(saved["sources"][held], baseline)
+
     def test_uncovered_lists_active_sources_without_a_baseline(self):
         places = [{"facts": [noted("a.mobility.1", "https://a.example/1"), noted("a.mobility.2", "https://a.example/2"), noted("a.mobility.3", "https://a.example/3", "retired")]}]
         self.assertEqual(uncovered(places, {"https://a.example/1": {}}), ["https://a.example/2"])

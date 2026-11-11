@@ -7,6 +7,8 @@ import commonsPhotos from "@/data/photos-commons.json";
 import flickrPhotos from "@/data/photos-flickr.json";
 import categoryImages from "@/data/category-art.json";
 import aiVenueImageData from "@/data/ai-venue-images.json";
+import accessPhotoData from "@/data/access-photos.json";
+import accessGuideData from "@/data/access-guides.json";
 
 export interface VenuePhoto {
   slug: string;
@@ -35,6 +37,27 @@ export interface AccessIllustration {
   shown: string[];
   confirm: string[];
   guidanceUrl: string;
+}
+
+export interface AccessPhoto extends VenuePhoto {
+  id: string;
+  title: string;
+  limitations: string;
+  relatedFactIds: string[];
+}
+
+export interface AccessGuide {
+  id: string;
+  slug: string;
+  title: string;
+  description: string;
+  publisher: string;
+  url: string;
+  sourceUrl: string;
+  documentDate: string | null;
+  pageCount: number;
+  sizeLabel: string;
+  checkedAt: string;
 }
 
 /**
@@ -77,6 +100,8 @@ export const venuePhotos: VenuePhoto[] = [
 export const illustrations: AccessIllustration[] = generated;
 export const categoryArt: CategoryArt[] = categoryImages;
 export const aiVenueImages: AiVenueImage[] = aiVenueImageData;
+export const accessPhotos: AccessPhoto[] = accessPhotoData;
+export const accessGuides: AccessGuide[] = accessGuideData;
 export function photoForPlace(slug: string) {
   return venuePhotos.find((photo) => photo.slug === slug);
 }

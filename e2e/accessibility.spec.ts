@@ -1,6 +1,8 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 import places from "../src/data/places.json";
+import accessPhotos from "../src/data/access-photos.json";
+import accessGuides from "../src/data/access-guides.json";
 const routes = [
   "/",
   "/venues",
@@ -156,6 +158,24 @@ test("search, combined filters, details, sources and empty state work", async ({
     .click();
   await expect(page.getByRole("status")).toContainText(`${places.length} places found`);
 });
+test("access photographs and venue photo guides are reachable on mobile", async ({ page }) => {
+  await page.setViewportSize({ width: 375, height: 812 });
+  await page.goto("/venues/cincinnati-art-museum");
+  await page.getByRole("link", { name: "Access photos & guides", exact: true }).click();
+  const gallery = page.locator("#access-photos");
+  await expect(gallery.getByRole("heading", { name: "Main entrance approach" })).toBeVisible();
+  const image = gallery.locator("figure img");
+  await expect.poll(() => image.evaluate((img: HTMLImageElement) => img.complete && img.naturalWidth > 0)).toBe(true);
+  await expect(gallery.getByRole("link", { name: "Photo by EEJCC" })).toHaveAttribute("href", /^https:\/\/commons.wikimedia.org/);
+  await expect(gallery.getByRole("link", { name: /Open photo guide/ })).toHaveAttribute("href", /social-narrative-getting-around-2025\.pdf$/);
+  await gallery.getByRole("link", { name: "Read the published route information" }).click();
+  await expect(page.locator('[id="cincinnati-art-museum.mobility.2"]')).toBeInViewport();
+  await page.goto("/access-in-pictures");
+  await expect(page.locator(".access-photo")).toHaveCount(accessPhotos.length);
+  await expect(page.getByRole("link", { name: /Open photo guide/ })).toHaveCount(accessGuides.length);
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
+});
+
 test("photos load with credits and AI examples have visible disclosure", async ({
   page,
 }) => {

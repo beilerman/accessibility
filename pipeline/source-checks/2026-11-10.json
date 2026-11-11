@@ -492,7 +492,7 @@
     "https://www.bcpl.org/sensory-room": {
       "status": 200,
       "final_url": "https://www.bcpl.org/sensory-room",
-      "last_modified": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "last_modified": "Wed, 11 Nov 2026 02:17:37 GMT",
       "sha256": "9ecab0874cfee7ba07c389ff22efbf2ad5b3a85bf0498556db04a6dd9ce9b2b7",
       "fingerprint_version": 5,
       "chars": 2293
@@ -1060,7 +1060,7 @@
     "https://www.newportonthelevee.com/directions-and-parking/": {
       "status": 200,
       "final_url": "https://www.newportonthelevee.com/directions-and-parking/",
-      "last_modified": "Mon, 09 Nov 2026 02:30:00 GMT",
+      "last_modified": "Wed, 11 Nov 2026 01:45:34 GMT",
       "sha256": "9c63ad37c385f92873fe13e71a4bc8b5bd637e3c9654b7243ae714488006f97b",
       "fingerprint_version": 5,
       "chars": 934
@@ -1068,7 +1068,7 @@
     "https://www.newportonthelevee.com/entertainment/amc-theatres/": {
       "status": 200,
       "final_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
-      "last_modified": "Wed, 11 Nov 2026 00:00:09 GMT",
+      "last_modified": "Wed, 11 Nov 2026 01:45:35 GMT",
       "sha256": "b42398d62f1fa97d911c76acf0e09630bc9bf8227876363b4387f5c245792e39",
       "fingerprint_version": 5,
       "chars": 468
@@ -1807,8 +1807,6 @@
     }
   },
   "findings": {
-    "https://bradymusiccenter.com/venue-info/faq": "supported",
-    "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items": "supported",
     "https://chpl.org/locations/1/": "supported",
     "https://chpl.org/locations/ha/": "supported",
     "https://heritagebankcenter.com/venue-info": "supported",

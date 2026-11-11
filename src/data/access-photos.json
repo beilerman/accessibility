@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "cincinnati-art-museum",
+    "title": "Main entrance approach",
+    "alt": "A long sloping walkway behind a low wall crosses the Art Museum facade, with steps visible at the left and right.",
+    "caption": "The front approach shows a long ramp behind a low wall and planting bed, alongside separate flights of steps.",
+    "author": "EEJCC",
+    "photoDate": "2021-06-01",
+    "limitations": "Confirm which entrance is open, the drop-off route and the door controls before travelling.",
+    "relatedFactIds": [
+      "cincinnati-art-museum.mobility.2"
+    ],
+    "id": "cincinnati-art-museum-route",
+    "src": "/images/access/cincinnati-art-museum.webp",
+    "width": 1280,
+    "height": 914,
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cincinnati_Art_Museum.jpg",
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "slug": "smale-riverfront-park",
+    "title": "Riverfront path surface",
+    "alt": "A paved riverside path at Smale Riverfront Park, with grass on one side and a metal river railing on the other.",
+    "caption": "A section of the riverfront path beside the Roebling Bridge shows the paved surface and its river-side railing.",
+    "author": "w_lemay",
+    "photoDate": "2021-07-18",
+    "limitations": "This view does not show the connections between park levels. Confirm elevator operation and any flood or construction closures.",
+    "relatedFactIds": [
+      "smale-riverfront-park.mobility.1"
+    ],
+    "id": "smale-riverfront-park-route",
+    "src": "/images/access/smale-riverfront-park.webp",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roebling_Bridge_from_Smale_Riverfront_Park,_Cincinnati,_OH_-_51386405622.jpg",
+    "checkedAt": "2026-11-10"
+  },
+  {
+    "slug": "miami-whitewater-forest",
+    "title": "Shaker Trace Trail surface",
+    "alt": "A paved section of Shaker Trace Trail with a yellow centre line, trees along the left edge and a grassy verge on the right.",
+    "caption": "This section of Shaker Trace Trail shows the paved surface and an open grassy verge without a handrail.",
+    "author": "Quadell",
+    "photoDate": "2013-05-12",
+    "limitations": "The photograph predates the resurfacing work described in the park notes. Confirm current surface condition, open sections and resting places.",
+    "relatedFactIds": [
+      "miami-whitewater-forest.mobility.4"
+    ],
+    "id": "miami-whitewater-forest-route",
+    "src": "/images/access/miami-whitewater-forest.webp",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaker_Trace_Trail_2.jpeg",
+    "checkedAt": "2026-11-10"
+  }
+]

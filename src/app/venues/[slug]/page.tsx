@@ -26,7 +26,8 @@ import {
   latestRetrieval,
   recheckDueDate,
 } from "@/lib/catalog";
-import { photoForPlace, aiImageForPlace, artForCategory } from "@/lib/media";
+import { photoForPlace, aiImageForPlace, artForCategory, accessPhotos, accessGuides } from "@/lib/media";
+import { AccessMedia } from "@/components/catalog/AccessMedia";
 import { VenuePhoto } from "@/components/catalog/VenuePhoto";
 import { AiVenueImage } from "@/components/catalog/AiVenueImage";
 import { TeamReview } from "@/components/catalog/TeamReview";
@@ -70,6 +71,7 @@ export default async function PlacePage({
   const photo = photoForPlace(p.slug);
   const aiImage = aiImageForPlace(p.slug);
   const artwork = artForCategory(p.category);
+  const hasAccessMedia = [...accessPhotos, ...accessGuides].some((item) => item.slug === p.slug);
   return (
     <div className="page-shell py-8">
       <ScrollToHash />
@@ -137,6 +139,9 @@ export default async function PlacePage({
               <li>
                 <a href="#before-you-go">Limits to confirm</a>
               </li>
+              {hasAccessMedia && (
+                <li><a href="#access-photos">Access photos & guides</a></li>
+              )}
               {reports.length > 0 && (
                 <li>
                   <a href="#visitor-reports">
@@ -326,6 +331,7 @@ export default async function PlacePage({
           </section>
         </aside>
       </div>
+      <AccessMedia slug={p.slug} />
       <section
         id="visitor-reports"
         className="py-10 border-t border-border"

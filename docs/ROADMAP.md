@@ -75,6 +75,21 @@ Eight places a week covers the catalog in about 13 weeks, inside the 180-day win
 2. `sh scripts/release-check.sh`, then `npx vercel --prod --yes`, then append the line it prints to the deploy log.
 3. At most two production deploys a day.
 
+## November 10 photo and coverage priority
+
+Brad requested continued development of the depth and breadth of collected and
+displayed information, with particular interest in photographs relevant to access.
+The recurring maintenance job now rotates source corrections, access-photo collection,
+deeper venue notes and new venue coverage. Prioritize entrances, parking-to-door
+routes, ramps, lifts, seating, restrooms, changing facilities and quiet spaces.
+
+Licensed photos live in src/data/access-photos.json and public/images/access/.
+Official photo walkthroughs are linked through src/data/access-guides.json after
+fetching and visual inspection. These collections appear automatically on the venue
+pages and the Visual guide page. Research and remaining gaps are in
+docs/research/access-photos-2026-11-10.md. New venue coverage should favor
+underrepresented everyday places and Northern Kentucky when adequate evidence exists.
+
 ## Next work, in order
 
 ### 1. Clear issue #3 (done November 10)

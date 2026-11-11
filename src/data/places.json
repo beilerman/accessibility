@@ -1428,6 +1428,60 @@
             "note": "Routine recheck; the source still supports this note."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The sensory room is locked between uses. Ask desk staff to sign you in and unlock it, and tell staff when you finish so they can sign you out.",
+        "source_url": "https://www.bcpl.org/sensory-room",
+        "id": "boone-county-public-library-main-library.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The sensory room’s activity wall has three panels with tactile, visual and sound features.",
+        "source_url": "https://www.bcpl.org/sensory-room",
+        "id": "boone-county-public-library-main-library.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "In the sensory room’s bubble-tube corner, coloured spots on the platform change the tube’s colour and start or stop its bubbles when pressed.",
+        "source_url": "https://www.bcpl.org/sensory-room",
+        "id": "boone-county-public-library-main-library.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
@@ -2033,6 +2087,42 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Elevator A runs from near the Cincinnati Wing to Gallery 214; Elevator B links the Terrace Café area to Gallery 210; Elevator C links Gallery 136 to Gallery 108. These are the museum’s published wayfinding locations.",
+        "source_url": "https://www.cincinnatiartmuseum.org/access",
+        "id": "cincinnati-art-museum.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The museum identifies three Art Climb platforms reached by a pedestrian pathway on its Area Map. Confirm the approach to the particular platform you want to visit.",
+        "source_url": "https://www.cincinnatiartmuseum.org/access",
+        "id": "cincinnati-art-museum.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
     "limitations": "Public website information; no on-site audit. Re-entry accommodation must be requested. Confirm specific restroom, route and equipment needs with the museum.",
@@ -2476,6 +2566,42 @@
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Mobility-equipment rentals are cashless. Renters must be over 18 and sign a rental agreement; the box office holds a driver’s licence or credit card until the wheelchair or ECV is returned.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum links photo walkthroughs under “Accessibility Amenities” for preparing a visit, including guides to quiet zones, restrooms and individual museums.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -3672,6 +3798,24 @@
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The zoo lists 20 designated accessible parking spaces in Vine Lot (Lot A) at 3427 Vine Street. Display your accessible placard to the parking attendants.",
+        "source_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+        "id": "cincinnati-zoo-botanical-garden.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -10065,7 +10209,7 @@
         "source_url": "https://www.newportonthelevee.com/directions-and-parking/",
         "id": "amc-newport-on-the-levee-20.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10074,6 +10218,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12040,7 +12189,7 @@
     "website": "https://bradymusiccenter.com/",
     "source_url": "https://bradymusiccenter.com/accessibility",
     "limitations": "Public website information; no on-site audit. Accessible restroom locations, assistive listening, drop-off points and quiet spaces are not described. Confirm with the venue before your visit.",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-10",
     "slug": "andrew-j-brady-music-center",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -12051,7 +12200,7 @@
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -12060,6 +12209,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12069,7 +12223,7 @@
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -12078,6 +12232,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12087,7 +12246,7 @@
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -12096,6 +12255,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12119,6 +12283,11 @@
             "date": "2026-11-10",
             "action": "revised",
             "note": "Corrected: the source lists the Mehring Way entrance (reached by steps) as an entrance to the music center, and the Carousel Entrance as the outdoor stage's main entrance."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12174,7 +12343,7 @@
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -12183,12 +12352,17 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Medically necessary bags are allowed with the guest who uses them; all bags are searched.",
+        "text": "The FAQ lists medically necessary bags accompanied by the guest using them as a possible exception to the clear-bag policy; all bags are searched. Confirm arrangements with the venue before attending.",
         "source_url": "https://bradymusiccenter.com/venue-info/faq",
         "id": "andrew-j-brady-music-center.chronic.2",
         "source_type": "venue_official",
@@ -12206,6 +12380,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "revised",
+            "note": "Routine recheck: preserved the FAQ qualifier that medically necessary bags are a possible exception to the clear-bag policy, rather than unconditional permission. The separate rules page uses broader permission language; confirm arrangements with the venue."
           }
         ]
       },
