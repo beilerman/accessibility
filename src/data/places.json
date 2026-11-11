@@ -6528,7 +6528,7 @@
     "address": "1 Aquarium Way, Newport, KY 41071",
     "website": "https://www.newportaquarium.com/",
     "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-10",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -6537,7 +6537,7 @@
         "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
         "id": "newport-aquarium.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6551,6 +6551,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source in a regular browser (the site blocks automated readers); the summary still matches."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6560,7 +6565,7 @@
         "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
         "id": "newport-aquarium.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6574,6 +6579,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source in a regular browser (the site blocks automated readers); the summary still matches."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6583,7 +6593,7 @@
         "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
         "id": "newport-aquarium.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6597,6 +6607,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source in a regular browser (the site blocks automated readers); the summary still matches."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6606,7 +6621,7 @@
         "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
         "id": "newport-aquarium.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6620,6 +6635,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source in a regular browser (the site blocks automated readers); the summary still matches."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6629,7 +6649,7 @@
         "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
         "id": "newport-aquarium.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6643,16 +6663,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source in a regular browser (the site blocks automated readers); the summary still matches."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Visitors who require paid personal care attendants may bring them at no additional cost; this applies to general, group, membership, complimentary and third-party tickets. Call 1-800-406-3474 to request companion tickets in advance.",
+        "text": "Visitors who require paid personal care attendants may bring them at no additional cost; this applies to general, group, membership, complimentary and third-party tickets. Call 1-800-406-3474 to request companion tickets in advance. The visitor and paid attendant must collect these tickets in person at the ticket window, with documentation of attendant status.",
         "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
         "id": "newport-aquarium.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6661,6 +6686,16 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 browser recheck; the source states this directly."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "revised",
+            "note": "Added the official ticket-window pickup and attendant-status documentation requirements omitted from the earlier summary."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6670,7 +6705,7 @@
         "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
         "id": "newport-aquarium.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-10",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6679,6 +6714,29 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 browser recheck; the source states this directly."
+          },
+          {
+            "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The aquarium directs visitors to park in the Newport on the Levee garage and take the elevator to plaza (PL) level. It lists accessible spaces around the central elevator column and near the east elevator bay. The main entrance is on the east side of the building, on the plaza.",
+        "source_url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
+        "id": "newport-aquarium.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-10",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-10",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
