@@ -55,3 +55,13 @@ To restore it, run launchctl bootstrap gui/501 ~/Library/LaunchAgents/local.thre
 
 The release job is separate. Stopping research leaves the two scheduled release
 checks registered.
+
+
+## Python test environments
+
+The runner installs pipeline requirements into a requirements-keyed environment under
+the external runtime-state directory's pipeline-envs/ folder. Maintenance and release
+checks share that immutable requirements version. An installation lock prevents races.
+No environment symlink is added to a source checkout. Generated .venv paths and Python
+caches are ignored by Git. Standalone release-check.sh invocation uses uv to resolve
+the declared pipeline requirements.

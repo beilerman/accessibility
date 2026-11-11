@@ -13,7 +13,11 @@ head=$(git rev-parse HEAD)
 ci=$(gh run list --commit "$head" --workflow CI --branch master --event push --json conclusion --jq '.[0].conclusion')
 [ "$ci" = "success" ] || { echo "STOP: CI for $head on master is '${ci:-not finished}'"; exit 1; }
 
-(cd pipeline && .venv/bin/python -m unittest test_check_sources.CoverageTests)
+pipeline_python="${THRESHOLD_PIPELINE_PYTHON:-}"
+if [ -z "$pipeline_python" ]; then
+    pipeline_python=$(uv run --python 3.11 --with-requirements pipeline/requirements.txt python -c 'import sys; print(sys.executable)')
+fi
+(cd pipeline && "$pipeline_python" -m unittest test_check_sources.CoverageTests)
 
 # Brad's rule: at most two production deploys a day.
 log=.vercel/deploys.log

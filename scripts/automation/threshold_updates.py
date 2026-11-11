@@ -93,8 +93,8 @@ def release(check):
             deploy_log = REPO / ".vercel/deploys.log"
             if deploy_log.exists():
                 shutil.copyfile(deploy_log, snapshot / ".vercel/deploys.log")
-            (snapshot / "pipeline/.venv").symlink_to(REPO / "pipeline/.venv", target_is_directory=True)
-            print(run("sh", "scripts/release-check.sh", cwd=snapshot))
+            python = pipeline_python(snapshot)
+            print(run("env", f"THRESHOLD_PIPELINE_PYTHON={python}", "sh", "scripts/release-check.sh", cwd=snapshot))
             tips = run("git", "rev-parse", "HEAD", "origin/master", f"origin/{BRANCH}", cwd=snapshot)
             if tips.splitlines() != [head] * 3:
                 raise RuntimeError("Both publication branches must match the checked release")
@@ -135,6 +135,24 @@ def remote_base():
 
 
 WORKSPACE = STATE / "workspace"
+
+
+def pipeline_python(workspace):
+    requirements = workspace / "pipeline/requirements.txt"
+    digest = hashlib.sha256(requirements.read_bytes()).hexdigest()[:16]
+    environments = STATE / "pipeline-envs"
+    environments.mkdir(parents=True, exist_ok=True)
+    environment = environments / digest
+    python = environment / "bin/python"
+    ready = environment / ".ready"
+    with (environments / f"{digest}.lock").open("a") as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        if not python.exists():
+            run("uv", "venv", "--allow-existing", "--python", "3.11", str(environment), timeout=120)
+        if not ready.exists():
+            run("uv", "pip", "install", "--python", str(python), "-r", str(requirements), timeout=180)
+            ready.write_text(digest)
+    return str(python)
 
 
 def checkpoint(**fields):
@@ -241,9 +259,7 @@ def maintain():
             checkpoint(phase="installing")
             managed_command(("npm", "ci"), workspace, log, 360)
             marker.write_text(dependency_hash)
-        venv = workspace / "pipeline/.venv"
-        if not venv.exists():
-            venv.symlink_to(REPO / "pipeline/.venv", target_is_directory=True)
+        python = pipeline_python(workspace)
 
         checkpoint(phase="researching")
         instructions = (AUTOMATION / "maintenance.md").read_text()
@@ -299,7 +315,7 @@ def maintain():
         for command in commands:
             managed_command(command, workspace, log, 360)
         managed_command(
-            (str(venv / "bin/python"), "-m", "unittest", "discover", "-p", "test_*.py"),
+            (python, "-m", "unittest", "discover", "-p", "test_*.py"),
             workspace / "pipeline", log, 180,
         )
     if remote_base() != base:

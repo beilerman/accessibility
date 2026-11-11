@@ -45,6 +45,11 @@ Record partial reviews accurately. Blocked sources stay held for manual review.
 Do not refresh a whole venue's checked_at after a partial review.
 Review docs/research/access-photos-2026-11-10.md for initial sources and gaps.
 
+Python test environments are provided by the runner outside every Git checkout.
+For agent-side Python checks, use uv run --python 3.11 --with-requirements
+pipeline/requirements.txt python with the required command. Continue prioritizing
+new public-facing access details and imagery alongside freshness checks.
+
 Make safe, in-scope content and application improvements needed to collect and display
 verified access information. Reuse the existing data and UI conventions. Add or update
 regression tests when needed for a specific new behavior. Read the installed Next.js
