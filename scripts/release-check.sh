@@ -10,10 +10,10 @@ git fetch --quiet origin
 head=$(git rev-parse HEAD)
 [ "$head" = "$(git rev-parse origin/master)" ] || { echo "STOP: HEAD is not origin/master (push to both branches first)"; exit 1; }
 
-ci=$(gh run list --commit "$head" --workflow CI --branch master --json conclusion --jq '.[0].conclusion')
+ci=$(gh run list --commit "$head" --workflow CI --branch master --event push --json conclusion --jq '.[0].conclusion')
 [ "$ci" = "success" ] || { echo "STOP: CI for $head on master is '${ci:-not finished}'"; exit 1; }
 
-(cd pipeline && .venv/bin/python -m unittest test_check_sources.CoverageTests 2>&1 | tail -1)
+(cd pipeline && .venv/bin/python -m unittest test_check_sources.CoverageTests)
 
 # Brad's rule: at most two production deploys a day.
 log=.vercel/deploys.log
