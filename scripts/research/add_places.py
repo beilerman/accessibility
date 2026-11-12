@@ -2,8 +2,8 @@
 
 Each record has slug, name, city, state, category, address, website,
 source_url, limitations and facts. Each fact is
-[domain, text, url, source_type, published_at, quote?]; the verified verbatim
-quote is stored in pipeline/evidence/quotes.json for the source monitor.
+[domain, text, url, source_type, published_at, quote]; a string or a list of
+supporting passages is required and freshly matched before any data is saved.
 """
 import json
 import sys
@@ -23,7 +23,7 @@ for record in json.load(open(sys.argv[1])):
         count[domain] = count.get(domain, 0) + 1
         fact = new_fact(slug, count[domain], domain, text, url, source_type, date, published_at)
         facts.append(fact)
-        record_quote(quotes, fact["id"], url, item[5] if len(item) > 5 else None, date)
+        record_quote(quotes, fact["id"], url, item[5] if len(item) > 5 else None, date, text)
     places.append(dict(**record, checked_at=date, slug=slug, evidence_type="public_website", observed_at=None, facts=facts))
     have.add(slug)
     print("added", slug, len(facts))

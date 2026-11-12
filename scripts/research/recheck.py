@@ -2,7 +2,8 @@
 
 spec = {fact_id: quote} for notes the live page still supports. The quote is
 the verbatim passage you matched (run verify.py first); it is stored in
-pipeline/evidence/quotes.json. Use null to record a recheck without a quote.
+pipeline/evidence/quotes.json. A list retains multiple passages for compound
+notes. Null/blank evidence is rejected; helpers re-fetch before saving.
 
 Each note gets retrieved_at = date, review_status source_checked and a
 "rechecked" history entry. A place's checked_at moves forward only when all
@@ -33,7 +34,7 @@ for place in places:
         fact["history"].append(dict(date=date, action="rechecked", note=(
             "Re-read after the source monitor flagged the page; the source still supports this note."
             if was_flagged else "Routine recheck; the source still supports this note.")))
-        record_quote(quotes, fact["id"], fact["source_url"], spec[fact["id"]], date)
+        record_quote(quotes, fact["id"], fact["source_url"], spec[fact["id"]], date, fact["text"])
     active = [f for f in place["facts"] if f["review_status"] != "retired"]
     if active and all(f["retrieved_at"] == date and f["review_status"] == "source_checked" for f in active):
         place["checked_at"] = date

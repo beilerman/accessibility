@@ -15,6 +15,21 @@ An hourly background job runs this process throughout the day. Continue until
 stopped by Brad. Brad's current direction is to go broad and deep. Read
 docs/research/coverage-queue.md and use it to choose the next substantive work.
 
+Accuracy comes first after the November 12 adversarial review. Read
+docs/research/adversarial-accuracy-2026-11-12.md and its accuracy follow-up.
+Prioritize two to four existing venues with high-impact missing or incomplete
+evidence before a large expansion. Backfill arrival/entrance, toilets/changing,
+transport eligibility/booking, assistance limits and seasonal restrictions.
+For every note, compare every clause with the current source, including scope,
+conditions and date. A matching passage alone does not prove the summary.
+Compound notes can pass a list of separate quotes to the research helpers;
+retain support for every independently changeable claim. The helpers now
+re-fetch and reject blank, missing, blocked or unextractable evidence before
+saving source_checked data. Do not bypass a failed gate by editing the JSON to
+claim verification. Preserve blocked sources as unresolved and distinguish
+historical information from current arrangements. Report evidence backfill and
+corrections separately from new-note growth. Continue access-photo research.
+
 Use the available 45-minute research period to investigate several venues and
 sources. Carry a useful batch through evidence review, then continue with additional
 supported work while time remains. Pursue breadth, depth and access imagery together.

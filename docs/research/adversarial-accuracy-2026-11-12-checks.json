@@ -1,0 +1,2138 @@
+{
+  "reviewedAt": "2026-11-12T23:39:00.589496+00:00",
+  "baseCommit": "d7b2ce0477dded6015dee7c7dcae4e44c4630c8e",
+  "scope": "Catalog-wide provenance inventory; targeted fresh fetch, not a semantic audit of every note or a field audit",
+  "inventory": {
+    "venues": 140,
+    "activeNotes": 1217,
+    "quotes": 792,
+    "missingQuoteIds": [
+      "american-sign-museum.mobility.2",
+      "american-sign-museum.cognitive.1",
+      "american-sign-museum.chronic.2",
+      "american-sign-museum.cognitive.2",
+      "bb-riverboats.chronic.2",
+      "bb-riverboats.chronic.3",
+      "cincinnati-art-museum.mobility.1",
+      "cincinnati-art-museum.sensory.1",
+      "cincinnati-art-museum.cognitive.1",
+      "cincinnati-art-museum.chronic.1",
+      "cincinnati-art-museum.mobility.2",
+      "cincinnati-art-museum.mobility.3",
+      "cincinnati-art-museum.chronic.2",
+      "cincinnati-art-museum.chronic.3",
+      "cincinnati-art-museum.sensory.2",
+      "cincinnati-art-museum.sensory.3",
+      "cincinnati-metro-and-access-paratransit.mobility.1",
+      "cincinnati-metro-and-access-paratransit.sensory.1",
+      "cincinnati-metro-and-access-paratransit.cognitive.1",
+      "cincinnati-metro-and-access-paratransit.cognitive.2",
+      "cincinnati-metro-and-access-paratransit.chronic.1",
+      "cincinnati-metro-and-access-paratransit.cognitive.3",
+      "cincinnati-metro-and-access-paratransit.cognitive.4",
+      "cincinnati-metro-and-access-paratransit.mobility.2",
+      "cincinnati-metro-and-access-paratransit.cognitive.5",
+      "cincinnati-metro-and-access-paratransit.mobility.3",
+      "cincinnati-museum-center.mobility.1",
+      "cincinnati-museum-center.mobility.2",
+      "cincinnati-museum-center.sensory.1",
+      "cincinnati-museum-center.chronic.1",
+      "cincinnati-museum-center.chronic.2",
+      "cincinnati-museum-center.chronic.3",
+      "cincinnati-museum-center.mobility.3",
+      "cincinnati-museum-center.sensory.2",
+      "cincinnati-museum-center.sensory.3",
+      "cincinnati-museum-center.sensory.4",
+      "cincinnati-museum-center.cognitive.1",
+      "cincinnati-museum-center.cognitive.2",
+      "cincinnati-music-hall.mobility.1",
+      "cincinnati-music-hall.mobility.2",
+      "cincinnati-music-hall.sensory.1",
+      "cincinnati-music-hall.chronic.1",
+      "cincinnati-music-hall.mobility.3",
+      "cincinnati-music-hall.mobility.4",
+      "cincinnati-music-hall.chronic.2",
+      "cincinnati-music-hall.sensory.2",
+      "cincinnati-music-hall.sensory.3",
+      "cincinnati-music-hall.chronic.3",
+      "cincinnati-observatory.mobility.1",
+      "cincinnati-observatory.mobility.2",
+      "cincinnati-observatory.mobility.3",
+      "cincinnati-observatory.mobility.4",
+      "cincinnati-observatory.cognitive.1",
+      "cincinnati-observatory.cognitive.2",
+      "cincinnati-observatory.mobility.5",
+      "cincinnati-observatory.chronic.1",
+      "cincinnati-observatory.sensory.1",
+      "cincinnati-playhouse-in-the-park.mobility.1",
+      "cincinnati-playhouse-in-the-park.sensory.1",
+      "cincinnati-playhouse-in-the-park.cognitive.1",
+      "cincinnati-playhouse-in-the-park.sensory.2",
+      "cincinnati-playhouse-in-the-park.mobility.2",
+      "cincinnati-playhouse-in-the-park.mobility.3",
+      "cincinnati-playhouse-in-the-park.mobility.4",
+      "cincinnati-playhouse-in-the-park.sensory.3",
+      "cincinnati-shakespeare-company.mobility.1",
+      "cincinnati-shakespeare-company.mobility.2",
+      "cincinnati-shakespeare-company.sensory.1",
+      "cincinnati-shakespeare-company.sensory.2",
+      "cincinnati-shakespeare-company.cognitive.1",
+      "cincinnati-shakespeare-company.mobility.3",
+      "cincinnati-shakespeare-company.mobility.4",
+      "cincinnati-shakespeare-company.chronic.1",
+      "cincinnati-shakespeare-company.sensory.3",
+      "cincinnati-shakespeare-company.cognitive.2",
+      "cincinnati-zoo-botanical-garden.sensory.1",
+      "cincinnati-zoo-botanical-garden.cognitive.1",
+      "cincinnati-zoo-botanical-garden.mobility.1",
+      "cincinnati-zoo-botanical-garden.chronic.1",
+      "cincinnati-zoo-botanical-garden.mobility.2",
+      "cincinnati-zoo-botanical-garden.sensory.2",
+      "cincinnati-zoo-botanical-garden.mobility.3",
+      "cincinnati-zoo-botanical-garden.mobility.4",
+      "cincinnati-zoo-botanical-garden.chronic.2",
+      "cincinnati-zoo-botanical-garden.chronic.3",
+      "cincinnati-zoo-botanical-garden.sensory.3",
+      "cincinnati-zoo-botanical-garden.cognitive.2",
+      "contemporary-arts-center.mobility.1",
+      "contemporary-arts-center.sensory.1",
+      "contemporary-arts-center.cognitive.1",
+      "contemporary-arts-center.sensory.2",
+      "contemporary-arts-center.mobility.2",
+      "contemporary-arts-center.mobility.3",
+      "contemporary-arts-center.sensory.3",
+      "creation-museum.mobility.1",
+      "creation-museum.mobility.2",
+      "creation-museum.sensory.1",
+      "creation-museum.cognitive.1",
+      "creation-museum.chronic.1",
+      "creation-museum.mobility.3",
+      "creation-museum.mobility.4",
+      "creation-museum.chronic.2",
+      "creation-museum.sensory.2",
+      "creation-museum.mobility.5",
+      "dinsmore-homestead.mobility.1",
+      "dinsmore-homestead.mobility.2",
+      "dinsmore-homestead.mobility.3",
+      "dinsmore-homestead.mobility.4",
+      "dinsmore-homestead.cognitive.1",
+      "dinsmore-homestead.chronic.1",
+      "dinsmore-homestead.cognitive.2",
+      "ensemble-theatre-cincinnati.chronic.1",
+      "ensemble-theatre-cincinnati.mobility.3",
+      "ensemble-theatre-cincinnati.sensory.3",
+      "francis-recreacres.mobility.1",
+      "francis-recreacres.mobility.2",
+      "francis-recreacres.cognitive.1",
+      "francis-recreacres.chronic.1",
+      "francis-recreacres.cognitive.2",
+      "great-american-ball-park.mobility.1",
+      "great-american-ball-park.mobility.2",
+      "great-american-ball-park.sensory.1",
+      "great-american-ball-park.chronic.1",
+      "great-american-ball-park.mobility.3",
+      "great-american-ball-park.sensory.2",
+      "great-american-ball-park.mobility.4",
+      "great-american-ball-park.chronic.2",
+      "great-american-ball-park.chronic.3",
+      "great-american-ball-park.chronic.4",
+      "harrison-branch-library.cognitive.1",
+      "harrison-branch-library.chronic.2",
+      "heritage-bank-center.chronic.3",
+      "lou-hartfiel-memorial-park.mobility.1",
+      "lou-hartfiel-memorial-park.sensory.1",
+      "lou-hartfiel-memorial-park.mobility.2",
+      "lou-hartfiel-memorial-park.chronic.1",
+      "megacorp-pavilion.mobility.1",
+      "megacorp-pavilion.mobility.2",
+      "megacorp-pavilion.sensory.1",
+      "megacorp-pavilion.mobility.3",
+      "megacorp-pavilion.mobility.4",
+      "megacorp-pavilion.cognitive.1",
+      "megacorp-pavilion.chronic.1",
+      "megacorp-pavilion.chronic.2",
+      "miami-whitewater-forest.mobility.1",
+      "miami-whitewater-forest.mobility.2",
+      "miami-whitewater-forest.cognitive.1",
+      "miami-whitewater-forest.mobility.3",
+      "miami-whitewater-forest.mobility.4",
+      "miami-whitewater-forest.mobility.5",
+      "miami-whitewater-forest.cognitive.2",
+      "miami-whitewater-forest.chronic.1",
+      "national-underground-railroad-freedom-center.mobility.1",
+      "national-underground-railroad-freedom-center.sensory.1",
+      "national-underground-railroad-freedom-center.cognitive.1",
+      "national-underground-railroad-freedom-center.sensory.2",
+      "national-underground-railroad-freedom-center.mobility.2",
+      "national-underground-railroad-freedom-center.mobility.3",
+      "national-underground-railroad-freedom-center.chronic.1",
+      "national-underground-railroad-freedom-center.chronic.2",
+      "national-underground-railroad-freedom-center.sensory.3",
+      "national-underground-railroad-freedom-center.cognitive.2",
+      "northern-kentucky-convention-center.mobility.1",
+      "northern-kentucky-convention-center.mobility.2",
+      "northern-kentucky-convention-center.mobility.3",
+      "northern-kentucky-convention-center.mobility.4",
+      "northern-kentucky-convention-center.mobility.5",
+      "northern-kentucky-convention-center.chronic.1",
+      "paycor-stadium.mobility.1",
+      "paycor-stadium.mobility.2",
+      "paycor-stadium.cognitive.1",
+      "paycor-stadium.mobility.3",
+      "paycor-stadium.mobility.4",
+      "paycor-stadium.chronic.1",
+      "paycor-stadium.chronic.2",
+      "paycor-stadium.chronic.3",
+      "paycor-stadium.cognitive.2",
+      "paycor-stadium.chronic.4",
+      "paycor-stadium.mobility.5",
+      "pyramid-hill-sculpture-park-museum.mobility.1",
+      "pyramid-hill-sculpture-park-museum.mobility.2",
+      "pyramid-hill-sculpture-park-museum.sensory.1",
+      "pyramid-hill-sculpture-park-museum.chronic.1",
+      "pyramid-hill-sculpture-park-museum.mobility.3",
+      "pyramid-hill-sculpture-park-museum.mobility.4",
+      "pyramid-hill-sculpture-park-museum.cognitive.1",
+      "riverbend-music-center.mobility.1",
+      "riverbend-music-center.mobility.2",
+      "riverbend-music-center.mobility.3",
+      "riverbend-music-center.mobility.4",
+      "riverbend-music-center.sensory.1",
+      "riverbend-music-center.sensory.2",
+      "riverbend-music-center.cognitive.1",
+      "riverbend-music-center.cognitive.2",
+      "riverbend-music-center.chronic.1",
+      "riverbend-music-center.chronic.2",
+      "riverbend-music-center.mobility.5",
+      "sharon-woods.mobility.1",
+      "sharon-woods.cognitive.1",
+      "sharon-woods.cognitive.2",
+      "sharon-woods.mobility.3",
+      "sharon-woods.mobility.4",
+      "sharon-woods.mobility.5",
+      "sharon-woods.chronic.1",
+      "sharon-woods.cognitive.3",
+      "tql-stadium.mobility.1",
+      "tql-stadium.mobility.2",
+      "tql-stadium.sensory.1",
+      "tql-stadium.sensory.2",
+      "tql-stadium.chronic.1",
+      "tql-stadium.mobility.3",
+      "tql-stadium.cognitive.1",
+      "tql-stadium.cognitive.2",
+      "tql-stadium.mobility.4",
+      "tql-stadium.mobility.5",
+      "tql-stadium.cognitive.3",
+      "tql-stadium.mobility.6",
+      "tql-stadium.cognitive.4",
+      "tql-stadium.sensory.3",
+      "taft-theatre.mobility.2",
+      "taft-theatre.cognitive.1",
+      "taft-theatre.chronic.1",
+      "taft-theatre.sensory.1",
+      "the-carnegie.mobility.1",
+      "the-carnegie.mobility.2",
+      "the-carnegie.sensory.1",
+      "the-carnegie.sensory.2",
+      "the-carnegie.mobility.5",
+      "vent-haven-museum.mobility.1",
+      "vent-haven-museum.mobility.2",
+      "vent-haven-museum.chronic.1",
+      "vent-haven-museum.cognitive.1",
+      "vent-haven-museum.mobility.3",
+      "vent-haven-museum.mobility.4",
+      "vent-haven-museum.sensory.1",
+      "ludlow-garage.mobility.1",
+      "ludlow-garage.mobility.2",
+      "ludlow-garage.chronic.1",
+      "ludlow-garage.cognitive.1",
+      "ludlow-garage.cognitive.2",
+      "ludlow-garage.cognitive.3",
+      "ludlow-garage.chronic.2",
+      "ludlow-garage.sensory.1",
+      "florence-yalls-thomas-more-stadium.mobility.1",
+      "florence-yalls-thomas-more-stadium.mobility.2",
+      "florence-yalls-thomas-more-stadium.chronic.1",
+      "florence-yalls-thomas-more-stadium.chronic.2",
+      "florence-yalls-thomas-more-stadium.chronic.3",
+      "florence-yalls-thomas-more-stadium.cognitive.1",
+      "florence-yalls-thomas-more-stadium.chronic.4",
+      "molly-malones-covington.mobility.1",
+      "molly-malones-covington.chronic.1",
+      "molly-malones-covington.sensory.1",
+      "molly-malones-covington.cognitive.1",
+      "falcon-theatre.mobility.1",
+      "falcon-theatre.cognitive.1",
+      "falcon-theatre.cognitive.2",
+      "falcon-theatre.chronic.1",
+      "falcon-theatre.mobility.2",
+      "falcon-theatre.cognitive.3",
+      "falcon-theatre.cognitive.4",
+      "amc-newport-on-the-levee-20.mobility.1",
+      "amc-newport-on-the-levee-20.sensory.1",
+      "amc-newport-on-the-levee-20.sensory.2",
+      "amc-newport-on-the-levee-20.sensory.3",
+      "amc-newport-on-the-levee-20.mobility.3",
+      "amc-newport-on-the-levee-20.chronic.1",
+      "go-bananas-comedy-club.cognitive.1",
+      "go-bananas-comedy-club.cognitive.2",
+      "go-bananas-comedy-club.cognitive.3",
+      "go-bananas-comedy-club.cognitive.4",
+      "kings-island.cognitive.1",
+      "kings-island.cognitive.2",
+      "kings-island.mobility.2",
+      "kings-island.sensory.1",
+      "kings-island.sensory.2",
+      "kings-island.chronic.1",
+      "kings-island.cognitive.3",
+      "kings-island.mobility.3",
+      "kings-island.cognitive.4",
+      "kings-island.chronic.2",
+      "kings-island.chronic.3",
+      "kings-island.mobility.4",
+      "krohn-conservatory.mobility.1",
+      "krohn-conservatory.cognitive.1",
+      "krohn-conservatory.cognitive.3",
+      "krohn-conservatory.mobility.3",
+      "cincinnati-reds-hall-of-fame-and-museum.mobility.1",
+      "cincinnati-reds-hall-of-fame-and-museum.mobility.2",
+      "cincinnati-reds-hall-of-fame-and-museum.mobility.3",
+      "cincinnati-reds-hall-of-fame-and-museum.sensory.1",
+      "cincinnati-reds-hall-of-fame-and-museum.cognitive.1",
+      "cincinnati-reds-hall-of-fame-and-museum.chronic.1",
+      "cincinnati-reds-hall-of-fame-and-museum.cognitive.2",
+      "cincinnati-reds-hall-of-fame-and-museum.mobility.4",
+      "cincinnati-reds-hall-of-fame-and-museum.chronic.2",
+      "devou-park.mobility.1",
+      "devou-park.chronic.1",
+      "devou-park.mobility.2",
+      "devou-park.cognitive.1",
+      "devou-park.chronic.2",
+      "devou-park.mobility.3",
+      "devou-park.mobility.4",
+      "devou-park.cognitive.2",
+      "smale-riverfront-park.mobility.1",
+      "smale-riverfront-park.mobility.2",
+      "smale-riverfront-park.chronic.1",
+      "smale-riverfront-park.cognitive.1",
+      "smale-riverfront-park.cognitive.2",
+      "eden-park.mobility.1",
+      "eden-park.mobility.2",
+      "eden-park.chronic.1",
+      "eden-park.cognitive.1",
+      "eden-park.cognitive.2",
+      "fountain-square.mobility.1",
+      "fountain-square.chronic.1",
+      "fountain-square.chronic.2",
+      "fountain-square.cognitive.1",
+      "fountain-square.chronic.3",
+      "fountain-square.chronic.4",
+      "fountain-square.chronic.5",
+      "memorial-hall-otr.mobility.1",
+      "memorial-hall-otr.mobility.2",
+      "memorial-hall-otr.cognitive.1",
+      "memorial-hall-otr.cognitive.2",
+      "memorial-hall-otr.mobility.3",
+      "childrens-theatre-of-cincinnati-emery-theater.mobility.1",
+      "childrens-theatre-of-cincinnati-emery-theater.sensory.1",
+      "childrens-theatre-of-cincinnati-emery-theater.sensory.2",
+      "childrens-theatre-of-cincinnati-emery-theater.cognitive.1",
+      "childrens-theatre-of-cincinnati-emery-theater.mobility.2",
+      "childrens-theatre-of-cincinnati-emery-theater.cognitive.2",
+      "childrens-theatre-of-cincinnati-emery-theater.chronic.1",
+      "childrens-theatre-of-cincinnati-emery-theater.sensory.3",
+      "childrens-theatre-of-cincinnati-emery-theater.cognitive.3",
+      "cincinnati-ballet-center-for-dance.mobility.1",
+      "cincinnati-ballet-center-for-dance.mobility.2",
+      "cincinnati-ballet-center-for-dance.mobility.3",
+      "cincinnati-ballet-center-for-dance.chronic.1",
+      "cincinnati-ballet-center-for-dance.cognitive.1",
+      "cincinnati-ballet-center-for-dance.mobility.4",
+      "cincinnati-ballet-center-for-dance.sensory.1",
+      "nippert-stadium.mobility.1",
+      "nippert-stadium.mobility.2",
+      "nippert-stadium.chronic.1",
+      "nippert-stadium.sensory.1",
+      "nippert-stadium.mobility.3",
+      "nippert-stadium.chronic.2",
+      "nippert-stadium.chronic.3",
+      "nippert-stadium.cognitive.1",
+      "nippert-stadium.chronic.4",
+      "nippert-stadium.cognitive.2",
+      "fifth-third-arena.mobility.1",
+      "fifth-third-arena.sensory.1",
+      "fifth-third-arena.chronic.1",
+      "fifth-third-arena.cognitive.1",
+      "fifth-third-arena.chronic.2",
+      "fifth-third-arena.chronic.3",
+      "fifth-third-arena.chronic.4",
+      "everybodys-treehouse-mt-airy-forest.mobility.1",
+      "everybodys-treehouse-mt-airy-forest.cognitive.1",
+      "everybodys-treehouse-mt-airy-forest.mobility.2",
+      "everybodys-treehouse-mt-airy-forest.chronic.1",
+      "everybodys-treehouse-mt-airy-forest.cognitive.2",
+      "great-wolf-lodge-mason.mobility.1",
+      "great-wolf-lodge-mason.mobility.2",
+      "great-wolf-lodge-mason.mobility.3",
+      "great-wolf-lodge-mason.sensory.1",
+      "great-wolf-lodge-mason.cognitive.1",
+      "great-wolf-lodge-mason.mobility.4",
+      "great-wolf-lodge-mason.mobility.5",
+      "great-wolf-lodge-mason.chronic.1",
+      "fitton-center-for-creative-arts.mobility.1",
+      "fitton-center-for-creative-arts.mobility.2",
+      "fitton-center-for-creative-arts.chronic.1",
+      "fitton-center-for-creative-arts.sensory.1",
+      "fitton-center-for-creative-arts.cognitive.1",
+      "fitton-center-for-creative-arts.mobility.3",
+      "fitton-center-for-creative-arts.cognitive.2",
+      "fitton-center-for-creative-arts.mobility.4",
+      "voice-of-america-metropark.mobility.1",
+      "voice-of-america-metropark.mobility.2",
+      "voice-of-america-metropark.chronic.1",
+      "voice-of-america-metropark.cognitive.1",
+      "heritage-village-museum.mobility.1",
+      "heritage-village-museum.mobility.2",
+      "heritage-village-museum.chronic.1",
+      "heritage-village-museum.sensory.1",
+      "heritage-village-museum.cognitive.1",
+      "heritage-village-museum.mobility.3",
+      "heritage-village-museum.chronic.2",
+      "heritage-village-museum.cognitive.2",
+      "ohio-renaissance-festival.mobility.2",
+      "ohio-renaissance-festival.chronic.1",
+      "ohio-renaissance-festival.sensory.1",
+      "ohio-renaissance-festival.chronic.2",
+      "ohio-renaissance-festival.mobility.3",
+      "ohio-renaissance-festival.sensory.2",
+      "ohio-renaissance-festival.cognitive.1",
+      "nku-fine-arts-center.mobility.1",
+      "nku-fine-arts-center.cognitive.1",
+      "nku-fine-arts-center.cognitive.2",
+      "nku-fine-arts-center.mobility.2",
+      "woodward-theater.mobility.1",
+      "woodward-theater.mobility.2",
+      "woodward-theater.chronic.1",
+      "woodward-theater.mobility.3",
+      "woodward-theater.cognitive.1",
+      "lindner-family-tennis-center-cincinnati-open.mobility.1",
+      "lindner-family-tennis-center-cincinnati-open.mobility.2",
+      "lindner-family-tennis-center-cincinnati-open.mobility.3",
+      "lindner-family-tennis-center-cincinnati-open.chronic.1",
+      "mariemont-players-walton-creek-theater.mobility.1",
+      "mariemont-players-walton-creek-theater.mobility.2",
+      "mariemont-players-walton-creek-theater.sensory.1",
+      "mariemont-players-walton-creek-theater.mobility.3",
+      "mariemont-players-walton-creek-theater.sensory.2",
+      "summit-park-blue-ash.mobility.1",
+      "summit-park-blue-ash.mobility.2",
+      "summit-park-blue-ash.chronic.1",
+      "summit-park-blue-ash.mobility.3",
+      "summit-park-blue-ash.cognitive.1",
+      "boone-cliffs-state-nature-preserve.mobility.1",
+      "boone-cliffs-state-nature-preserve.cognitive.1",
+      "boone-cliffs-state-nature-preserve.sensory.1"
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.cincinnatiartmuseum.org/access",
+      "status": 200,
+      "final_url": "https://www.cincinnatiartmuseum.org/access",
+      "last_modified": null,
+      "sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+      "fingerprint_version": 6,
+      "chars": 21138,
+      "notes": [
+        {
+          "id": "cincinnati-art-museum.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.chronic.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.mobility.4",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "cincinnati-art-museum.mobility.5",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+      "status": 200,
+      "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+      "last_modified": null,
+      "sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+      "fingerprint_version": 6,
+      "chars": 21138,
+      "notes": [
+        {
+          "id": "cincinnati-art-museum.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.chronic.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.chronic.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.sensory.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-art-museum.sensory.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.go-metro.com/accessibility",
+      "status": 200,
+      "final_url": "https://www.go-metro.com/accessibility/",
+      "last_modified": null,
+      "sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786",
+      "fingerprint_version": 6,
+      "chars": 1979,
+      "notes": [
+        {
+          "id": "cincinnati-metro-and-access-paratransit.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-metro-and-access-paratransit.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.go-metro.com/access",
+      "status": 200,
+      "final_url": "https://www.go-metro.com/access-paratransit/",
+      "last_modified": null,
+      "sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+      "fingerprint_version": 6,
+      "chars": 9297,
+      "notes": [
+        {
+          "id": "cincinnati-metro-and-access-paratransit.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-metro-and-access-paratransit.cognitive.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-metro-and-access-paratransit.chronic.1",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.go-metro.com/fares-passes/fare-deal-program/",
+      "status": 200,
+      "final_url": "https://www.go-metro.com/fares-passes/fare-deal-program/",
+      "last_modified": null,
+      "sha256": "44797773aa756ce5b127d0a7fdba8f79a15a95f739494db9c58424b584b140ad",
+      "fingerprint_version": 6,
+      "chars": 2508,
+      "notes": [
+        {
+          "id": "cincinnati-metro-and-access-paratransit.cognitive.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.go-metro.com/fares-passes/fare-information/",
+      "status": 200,
+      "final_url": "https://www.go-metro.com/fares-passes/fare-information/",
+      "last_modified": null,
+      "sha256": "407ea63545f9039bb831bb66930adb57199e722c5ae5e23bac2e4c36b14069d1",
+      "fingerprint_version": 6,
+      "chars": 1535,
+      "notes": [
+        {
+          "id": "cincinnati-metro-and-access-paratransit.cognitive.4",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.go-metro.com/accessibility/",
+      "status": 200,
+      "final_url": "https://www.go-metro.com/accessibility/",
+      "last_modified": null,
+      "sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786",
+      "fingerprint_version": 6,
+      "chars": 1979,
+      "notes": [
+        {
+          "id": "cincinnati-metro-and-access-paratransit.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.go-metro.com/access-paratransit/",
+      "status": 200,
+      "final_url": "https://www.go-metro.com/access-paratransit/",
+      "last_modified": null,
+      "sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+      "fingerprint_version": 6,
+      "chars": 9297,
+      "notes": [
+        {
+          "id": "cincinnati-metro-and-access-paratransit.cognitive.5",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-metro-and-access-paratransit.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+      "status": 200,
+      "final_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+      "last_modified": null,
+      "sha256": "9ea30831fe2465b2935d9567266fd9d8e743160353839f8d3c3c7c0df6acbc54",
+      "fingerprint_version": 6,
+      "chars": 26073,
+      "notes": [
+        {
+          "id": "cincinnati-zoo-botanical-garden.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.chronic.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.sensory.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.mobility.4",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.chronic.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.chronic.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.sensory.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.cognitive.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "cincinnati-zoo-botanical-garden.mobility.5",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+      "status": 200,
+      "final_url": "https://www.contemporaryartscenter.org/visit/accessibility",
+      "last_modified": null,
+      "sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+      "fingerprint_version": 6,
+      "chars": 3890,
+      "notes": [
+        {
+          "id": "contemporary-arts-center.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "contemporary-arts-center.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "contemporary-arts-center.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "contemporary-arts-center.sensory.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "contemporary-arts-center.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "contemporary-arts-center.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "contemporary-arts-center.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "contemporary-arts-center.sensory.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.contemporaryartscenter.org/visit/hours-admission",
+      "status": 200,
+      "final_url": "https://www.contemporaryartscenter.org/visit/hours-admission",
+      "last_modified": null,
+      "sha256": "f2d027b6fb087312e710f51f42ed34db077bd9c1bed75fbd097e7b38acba0f2b",
+      "fingerprint_version": 6,
+      "chars": 8338,
+      "notes": [
+        {
+          "id": "contemporary-arts-center.cognitive.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "contemporary-arts-center.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "contemporary-arts-center.cognitive.4",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://freedomcenter.org/visit/accessibility/",
+      "status": 200,
+      "final_url": "https://freedomcenter.org/visit/accessibility/",
+      "last_modified": "Thu, 12 Nov 2026 23:38:39 GMT",
+      "sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+      "fingerprint_version": 6,
+      "chars": 2149,
+      "notes": [
+        {
+          "id": "national-underground-railroad-freedom-center.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "national-underground-railroad-freedom-center.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "national-underground-railroad-freedom-center.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "national-underground-railroad-freedom-center.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "national-underground-railroad-freedom-center.chronic.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "national-underground-railroad-freedom-center.sensory.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "national-underground-railroad-freedom-center.cognitive.2",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
+      "status": 200,
+      "final_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
+      "last_modified": "Thu, 12 Nov 2026 23:38:40 GMT",
+      "sha256": "8e7d6afcce392f058d029d9d88212eeb23b5d68d4233d71bf8b4e24ee348a008",
+      "fingerprint_version": 6,
+      "chars": 2687,
+      "notes": [
+        {
+          "id": "national-underground-railroad-freedom-center.sensory.2",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://freedomcenter.org/visit/parking/",
+      "status": 200,
+      "final_url": "https://freedomcenter.org/visit/parking/",
+      "last_modified": "Thu, 12 Nov 2026 23:38:40 GMT",
+      "sha256": "bc332a1c0417c97d2a159ad9f02d281c1ed4817a161a238b03da1c061c72e9c0",
+      "fingerprint_version": 6,
+      "chars": 485,
+      "notes": [
+        {
+          "id": "national-underground-railroad-freedom-center.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://freedomcenter.org/visit/plan-your-visit/",
+      "status": 200,
+      "final_url": "https://freedomcenter.org/visit/plan-your-visit/",
+      "last_modified": "Thu, 12 Nov 2026 23:38:40 GMT",
+      "sha256": "427334279c17236aef72d3bba415707e9d0cb96431a2ea2ca2e5c8f69e704c61",
+      "fingerprint_version": 6,
+      "chars": 2186,
+      "notes": [
+        {
+          "id": "national-underground-railroad-freedom-center.chronic.2",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility",
+      "status": 403,
+      "error": "Forbidden",
+      "notes": [
+        {
+          "id": "newport-aquarium.mobility.1",
+          "storedQuote": true,
+          "quotePresent": null
+        },
+        {
+          "id": "newport-aquarium.mobility.2",
+          "storedQuote": true,
+          "quotePresent": null
+        },
+        {
+          "id": "newport-aquarium.sensory.1",
+          "storedQuote": true,
+          "quotePresent": null
+        },
+        {
+          "id": "newport-aquarium.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": null
+        },
+        {
+          "id": "newport-aquarium.mobility.3",
+          "storedQuote": true,
+          "quotePresent": null
+        },
+        {
+          "id": "newport-aquarium.chronic.1",
+          "storedQuote": true,
+          "quotePresent": null
+        },
+        {
+          "id": "newport-aquarium.sensory.2",
+          "storedQuote": true,
+          "quotePresent": null
+        },
+        {
+          "id": "newport-aquarium.mobility.4",
+          "storedQuote": true,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.pyramidhill.org/visit",
+      "status": 200,
+      "final_url": "https://www.pyramidhill.org/visit",
+      "last_modified": null,
+      "sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+      "fingerprint_version": 6,
+      "chars": 3542,
+      "notes": [
+        {
+          "id": "pyramid-hill-sculpture-park-museum.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "pyramid-hill-sculpture-park-museum.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "pyramid-hill-sculpture-park-museum.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "pyramid-hill-sculpture-park-museum.chronic.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "pyramid-hill-sculpture-park-museum.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "pyramid-hill-sculpture-park-museum.mobility.4",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "pyramid-hill-sculpture-park-museum.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/ada/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/ada/",
+      "last_modified": "Thu, 12 Nov 2026 17:57:24 GMT",
+      "sha256": "a6af21055a7b8f95011d792ac5c275ee242d89e84b67f06621219dcc2b810394",
+      "fingerprint_version": 6,
+      "chars": 3581,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.sensory.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.3",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
+      "last_modified": "Thu, 12 Nov 2026 16:58:07 GMT",
+      "sha256": "6b3efc6c1b19a4c696409d5aef90476083cf832f756c7bf0eb0a13e1cac120d2",
+      "fingerprint_version": 6,
+      "chars": 1330,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/fares-guides/how-to-ride/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/fares-guides/how-to-ride/",
+      "last_modified": "Thu, 12 Nov 2026 17:10:38 GMT",
+      "sha256": "937044a9345f89459dd4f7b24695451e57ddb10b03cfb073d27c3121ec63dba7",
+      "fingerprint_version": 6,
+      "chars": 3799,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.sensory.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.5",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/faq/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/faq/",
+      "last_modified": "Thu, 12 Nov 2026 18:32:14 GMT",
+      "sha256": "6878b9e3e78701fe268791dd94a4fe29bac622046867909da908ae0b745f6706",
+      "fingerprint_version": 6,
+      "chars": 6371,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.4",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.10",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
+      "last_modified": "Thu, 12 Nov 2026 16:58:59 GMT",
+      "sha256": "c94e50af05357c80d8f9cd298e1085ec42423204e6f096feebbb9ae24addf85e",
+      "fingerprint_version": 6,
+      "chars": 4503,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.6",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.4",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/microtransit/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/microtransit/",
+      "last_modified": "Thu, 12 Nov 2026 16:57:03 GMT",
+      "sha256": "1ba20af4344c5a6fd0e108af751dd1138071e282533e994539d02d7dc5e74ab2",
+      "fingerprint_version": 6,
+      "chars": 9280,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.5",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.6",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.7",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.8",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.4",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/fares-guides/fare/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/fares-guides/fare/",
+      "last_modified": "Thu, 12 Nov 2026 17:00:10 GMT",
+      "sha256": "8bc5ffb0f7f609c21f71623f05764d5fc62a2ee9fbe476cd869aba879efec3d7",
+      "fingerprint_version": 6,
+      "chars": 5452,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.9",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/ramp-paratransit/reservations/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/ramp-paratransit/reservations/",
+      "last_modified": "Thu, 12 Nov 2026 17:34:39 GMT",
+      "sha256": "46fcd2b201207596602d30ef14853166ff41b637003df9fc1edc02e802f97b90",
+      "fingerprint_version": 6,
+      "chars": 414,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.11",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/building-better-transit/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/building-better-transit/",
+      "last_modified": "Thu, 12 Nov 2026 17:03:57 GMT",
+      "sha256": "f0bd21974d9f52b1b19610b3721819595a757a9df52981e72f6c86b16af458e4",
+      "fingerprint_version": 6,
+      "chars": 2301,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.7",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.8",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/licking-river-link/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/licking-river-link/",
+      "last_modified": "Thu, 12 Nov 2026 17:28:54 GMT",
+      "sha256": "e1d48edc90e5fe1c8fc44cc695a6b8e32c24dec8cc4fcc684ef82bdde8eb555a",
+      "fingerprint_version": 6,
+      "chars": 1640,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.12",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.9",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.10",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.5",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.6",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/service-alerts/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/service-alerts/",
+      "last_modified": "Thu, 12 Nov 2026 17:10:45 GMT",
+      "sha256": "9ecdbd49366eb548784b460081ac4ab8bda38e2a178cecfb829e1a1fe0520924",
+      "fingerprint_version": 6,
+      "chars": 2509,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.11",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.14",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
+      "last_modified": "Thu, 12 Nov 2026 17:04:17 GMT",
+      "sha256": "bea270e2a0350184b769852fd2361a9153397d5fa156c9ebc95e85a4284c4454",
+      "fingerprint_version": 6,
+      "chars": 201249,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.13",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.12",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/",
+      "last_modified": "Thu, 12 Nov 2026 16:59:31 GMT",
+      "sha256": "1898784b60e8350a77c4f60c827bec37455628dee48767a8fae9f39fbb06660e",
+      "fingerprint_version": 6,
+      "chars": 603947,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.13",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/tap-and-save/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/tap-and-save/",
+      "last_modified": "Thu, 12 Nov 2026 17:10:37 GMT",
+      "sha256": "4041a40688331f103390dcec85556bd86ac111a48a7a60667e77ae2b58fcf0b5",
+      "fingerprint_version": 6,
+      "chars": 1486,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.15",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.16",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.17",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.18",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.19",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.tankbus.org/senior-transportation/",
+      "status": 200,
+      "final_url": "https://www.tankbus.org/senior-transportation/",
+      "last_modified": "Thu, 12 Nov 2026 17:42:02 GMT",
+      "sha256": "7f29540eb8fa5a18ff92e4b02af99645e9c524358806ed13fdc5ec7508d0deec",
+      "fingerprint_version": 6,
+      "chars": 1484,
+      "notes": [
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.20",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.14",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.7",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.21",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.22",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.fccincinnati.com/matchday/accessibility",
+      "status": 200,
+      "final_url": "https://www.fccincinnati.com/matchday/accessibility",
+      "last_modified": null,
+      "sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+      "fingerprint_version": 6,
+      "chars": 4356,
+      "notes": [
+        {
+          "id": "tql-stadium.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.sensory.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.chronic.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://tqlstadium.com/entrances/allegiant-gate",
+      "status": 200,
+      "final_url": "https://tqlstadium.com/entrances/allegiant-gate",
+      "last_modified": null,
+      "sha256": "47d1460b456ce89cc65d9165186e6d7815c2170afed7eb86390406d24a421211",
+      "fingerprint_version": 6,
+      "chars": 230,
+      "notes": [
+        {
+          "id": "tql-stadium.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://tqlstadium.com/entrances/first-financial-gate",
+      "status": 200,
+      "final_url": "https://tqlstadium.com/entrances/first-financial-gate",
+      "last_modified": null,
+      "sha256": "022c9c80a7c74eace05869f4b6c32835a472647cada467ba3380829f999fea0e",
+      "fingerprint_version": 6,
+      "chars": 203,
+      "notes": [
+        {
+          "id": "tql-stadium.cognitive.2",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "status": 200,
+      "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "last_modified": null,
+      "sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+      "fingerprint_version": 6,
+      "chars": 44737,
+      "notes": [
+        {
+          "id": "tql-stadium.mobility.4",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.mobility.6",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.cognitive.4",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.fccincinnati.com/matchday/parking",
+      "status": 200,
+      "final_url": "https://www.fccincinnati.com/matchday/parking",
+      "last_modified": null,
+      "sha256": "cd1a2ff5742af840ccc4eb51e5590c59fc059e36cd885a3a30e06c2e79b39d5d",
+      "fingerprint_version": 6,
+      "chars": 2469,
+      "notes": [
+        {
+          "id": "tql-stadium.mobility.5",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "tql-stadium.cognitive.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation",
+      "status": 200,
+      "final_url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation",
+      "last_modified": null,
+      "sha256": "bd1f16ed3f5e4bb1d58ddb522f12049b89a1dde8d9eb6c512d50e940df878cff",
+      "fingerprint_version": 6,
+      "chars": 6537,
+      "notes": [
+        {
+          "id": "tql-stadium.sensory.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.taftmuseum.org/visitor-information/",
+      "status": 200,
+      "final_url": "https://www.taftmuseum.org/visitor-information/",
+      "last_modified": null,
+      "sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+      "fingerprint_version": 6,
+      "chars": 8540,
+      "notes": [
+        {
+          "id": "taft-museum-of-art.mobility.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.sensory.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.sensory.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.chronic.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.sensory.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.mobility.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.chronic.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "taft-museum-of-art.chronic.4",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
+      "last_modified": null,
+      "sha256": "7ba1058762932ddf19ae5becbaabfc7a1ec6154b5556ae335aa8fc02dbd10a10",
+      "fingerprint_version": 6,
+      "chars": 2224,
+      "notes": [
+        {
+          "id": "the-connector-cincinnati-streetcar.mobility.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.sensory.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://cincinnati-oh.gov/streetcar/about-the-streetcar/faqs",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
+      "last_modified": null,
+      "sha256": "86155e01711e5a32d221aa4dee0cb4934ed8eae7166193ed9378ec9904f729c5",
+      "fingerprint_version": 6,
+      "chars": 4619,
+      "notes": [
+        {
+          "id": "the-connector-cincinnati-streetcar.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
+      "last_modified": null,
+      "sha256": "a990a0119012ca7163d6d5cbdc7e5afb49e8a0aea010ca2baa3a0a353c95a019",
+      "fingerprint_version": 6,
+      "chars": 1876,
+      "notes": [
+        {
+          "id": "the-connector-cincinnati-streetcar.mobility.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.mobility.4",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.sensory.2",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
+      "last_modified": null,
+      "sha256": "86155e01711e5a32d221aa4dee0cb4934ed8eae7166193ed9378ec9904f729c5",
+      "fingerprint_version": 6,
+      "chars": 4619,
+      "notes": [
+        {
+          "id": "the-connector-cincinnati-streetcar.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/",
+      "last_modified": null,
+      "sha256": "ca63430c8d51ec6c532df9f6562071d7e75a4a07591a31e64b9d2a279efc0e8e",
+      "fingerprint_version": 6,
+      "chars": 2604,
+      "notes": [
+        {
+          "id": "the-connector-cincinnati-streetcar.cognitive.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.cognitive.4",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/rules-of-the-rail/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/rules-of-the-rail/",
+      "last_modified": null,
+      "sha256": "4f6297cb46dfb184b5ae91763347cc7a2c7393207917de1f241d4600519caa2b",
+      "fingerprint_version": 6,
+      "chars": 4187,
+      "notes": [
+        {
+          "id": "the-connector-cincinnati-streetcar.sensory.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.chronic.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "the-connector-cincinnati-streetcar.chronic.3",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.venthaven.org/frequently-asked-questions",
+      "status": 200,
+      "final_url": "https://www.venthaven.org/frequently-asked-questions",
+      "last_modified": null,
+      "sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe",
+      "fingerprint_version": 6,
+      "chars": 4426,
+      "notes": [
+        {
+          "id": "vent-haven-museum.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "vent-haven-museum.mobility.2",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "vent-haven-museum.chronic.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "vent-haven-museum.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "vent-haven-museum.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.venthaven.org/directions",
+      "status": 200,
+      "final_url": "https://www.venthaven.org/directions",
+      "last_modified": null,
+      "sha256": "e31e98840ea26b39529b1c54e00bd3271edbc854ea86ff72f1e59e1e9059e54c",
+      "fingerprint_version": 6,
+      "chars": 1710,
+      "notes": [
+        {
+          "id": "vent-haven-museum.mobility.4",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.venthaven.org/schedule-a-tour",
+      "status": 200,
+      "final_url": "https://www.venthaven.org/schedule-a-tour",
+      "last_modified": null,
+      "sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27",
+      "fingerprint_version": 6,
+      "chars": 1382,
+      "notes": [
+        {
+          "id": "vent-haven-museum.sensory.1",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "last_modified": null,
+      "sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+      "fingerprint_version": 6,
+      "chars": 4896,
+      "notes": [
+        {
+          "id": "krohn-conservatory.mobility.1",
+          "storedQuote": false,
+          "quotePresent": null
+        },
+        {
+          "id": "krohn-conservatory.mobility.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+      "last_modified": null,
+      "sha256": "e8ebb3155b9ce2b350f45dfba24b7103df3fd47107139071fa510302a787d2a7",
+      "fingerprint_version": 6,
+      "chars": 33478,
+      "notes": [
+        {
+          "id": "krohn-conservatory.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "krohn-conservatory.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "krohn-conservatory.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "last_modified": null,
+      "sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+      "fingerprint_version": 6,
+      "chars": 27913,
+      "notes": [
+        {
+          "id": "krohn-conservatory.cognitive.1",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/",
+      "last_modified": null,
+      "sha256": "08a0b5d808ac11cf05592aa03b8d7dbf7f8ddb6f59e12a237795cc2a6106dc4c",
+      "fingerprint_version": 6,
+      "chars": 34186,
+      "notes": [
+        {
+          "id": "krohn-conservatory.cognitive.3",
+          "storedQuote": false,
+          "quotePresent": null
+        }
+      ]
+    },
+    {
+      "url": "https://www.boonecountyky.org/business_detail_T35_R60.php",
+      "status": 200,
+      "final_url": "https://www.boonecountyky.org/business_detail_T35_R60.php",
+      "last_modified": null,
+      "sha256": "783c33f64f2610ef6c3393def91bd70f5cce0282426ff45060fdc460d018acf8",
+      "fingerprint_version": 6,
+      "chars": 2300,
+      "notes": [
+        {
+          "id": "central-park-boone-county-arboretum.mobility.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "central-park-boone-county-arboretum.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.bcarboretum.org/about-us",
+      "status": 200,
+      "final_url": "https://bcarboretum.org/about-us",
+      "last_modified": "Sun, 08 Nov 2026 15:43:53 GMT",
+      "sha256": "7828740374579f6d3e3c123c2a313292fea3e422e7485b77dca02a4408c9c808",
+      "fingerprint_version": 6,
+      "chars": 6067,
+      "notes": [
+        {
+          "id": "central-park-boone-county-arboretum.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "central-park-boone-county-arboretum.mobility.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "central-park-boone-county-arboretum.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://bcarboretum.org/plan-your-visit",
+      "status": 200,
+      "final_url": "https://bcarboretum.org/plan-your-visit",
+      "last_modified": "Sun, 08 Nov 2026 20:16:38 GMT",
+      "sha256": "081c94e62b42ad663db15a574f1fac076adee70d457a17a5220f98ea9223b368",
+      "fingerprint_version": 6,
+      "chars": 3021,
+      "notes": [
+        {
+          "id": "central-park-boone-county-arboretum.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "central-park-boone-county-arboretum.cognitive.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "central-park-boone-county-arboretum.mobility.4",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "central-park-boone-county-arboretum.cognitive.4",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://newriffdistilling.com/the-aquifer/",
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/the-aquifer/",
+      "last_modified": null,
+      "sha256": "da9454f35b8290bff6d75689c5dbb93cbadd6acf1af06d8c06712318331174d2",
+      "fingerprint_version": 6,
+      "chars": 10284,
+      "notes": [
+        {
+          "id": "new-riff-distilling.mobility.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "new-riff-distilling.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "new-riff-distilling.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "new-riff-distilling.cognitive.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "new-riff-distilling.cognitive.4",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://newriffdistilling.com/experiences/",
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/experiences/",
+      "last_modified": null,
+      "sha256": "987c500e0692f13423cfbee3c69dcd847963d1262270a4bb34b03223ae9365d3",
+      "fingerprint_version": 6,
+      "chars": 6303,
+      "notes": [
+        {
+          "id": "new-riff-distilling.mobility.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "new-riff-distilling.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "new-riff-distilling.cognitive.6",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://newriffdistilling.com/experiences/bonded-tour/",
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/experiences/bonded-tour/",
+      "last_modified": null,
+      "sha256": "fdd1de7303af565e38ba9731fd4d038428c8679a281ecb38b75b8f17804d69a9",
+      "fingerprint_version": 6,
+      "chars": 5394,
+      "notes": [
+        {
+          "id": "new-riff-distilling.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://newriffdistilling.com/contact/",
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/contact/",
+      "last_modified": null,
+      "sha256": "a285dbeca47629b9a39de5c883ea6800d52831223ef98e1cc1bd33ce503a20e9",
+      "fingerprint_version": 6,
+      "chars": 4418,
+      "notes": [
+        {
+          "id": "new-riff-distilling.cognitive.5",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://braxtonbrewing.com/pages/events",
+      "status": 200,
+      "final_url": "https://braxtonbrewing.com/pages/events",
+      "last_modified": null,
+      "sha256": "b5d6cdc34d29ed6bdf905913584b2e5d5af927a7bca4a252813262de230e9345",
+      "fingerprint_version": 6,
+      "chars": 3424,
+      "notes": [
+        {
+          "id": "braxton-brewing-covington.mobility.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "braxton-brewing-covington.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://braxtonbrewing.com/pages/braxton-covington",
+      "status": 200,
+      "final_url": "https://braxtonbrewing.com/pages/braxton-covington",
+      "last_modified": null,
+      "sha256": "015528199e38abba43debcffcb56c00960447525caee1fd076f6f84e69dd1f42",
+      "fingerprint_version": 6,
+      "chars": 1800,
+      "notes": [
+        {
+          "id": "braxton-brewing-covington.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "braxton-brewing-covington.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+      "status": 200,
+      "final_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+      "last_modified": null,
+      "sha256": "329387edf76adc12225a006379e793bf0002de0ab108ae2b01261f34e409f726",
+      "fingerprint_version": 6,
+      "chars": 10850,
+      "notes": [
+        {
+          "id": "riverside-mainstrasse-village-food-tour.mobility.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "riverside-mainstrasse-village-food-tour.chronic.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "riverside-mainstrasse-village-food-tour.mobility.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "riverside-mainstrasse-village-food-tour.chronic.2",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "riverside-mainstrasse-village-food-tour.chronic.3",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "riverside-mainstrasse-village-food-tour.chronic.4",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "riverside-mainstrasse-village-food-tour.cognitive.3",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    },
+    {
+      "url": "https://riversidefoodtours.com/frequently-asked-questions",
+      "status": 200,
+      "final_url": "https://riversidefoodtours.com/frequently-asked-questions",
+      "last_modified": null,
+      "sha256": "132f3c128d620f414610440fc507f88cbea229343c9312bd6c1296316d26e14a",
+      "fingerprint_version": 6,
+      "chars": 5941,
+      "notes": [
+        {
+          "id": "riverside-mainstrasse-village-food-tour.cognitive.1",
+          "storedQuote": true,
+          "quotePresent": true
+        },
+        {
+          "id": "riverside-mainstrasse-village-food-tour.cognitive.2",
+          "storedQuote": true,
+          "quotePresent": true
+        }
+      ]
+    }
+  ]
+}

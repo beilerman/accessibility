@@ -4,6 +4,17 @@ Updated November 12, 2026, after Northern Kentucky dining, Connector and museum 
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
+## Accuracy follow-up before large expansion
+
+Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
+[the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
+evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
+remaining legacy missing-passage backlog is 401 notes. Start with transit
+eligibility and assistance limits, entrances and toilets/changing facilities.
+TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
+support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
+not adjacent in the source. Preserve manual source conflicts and photo limits.
+
 ## Breadth
 
 The prepared catalog has 140 places. Its categories contain 32 arts venues,

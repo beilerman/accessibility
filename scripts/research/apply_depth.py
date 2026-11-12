@@ -2,7 +2,8 @@
 
 spec = {slug: [[domain, text, url, source_type?, quote?], ...]}
 source_type defaults to venue_official. Pass the verified verbatim quote as
-the fifth item: it is stored in pipeline/evidence/quotes.json so the source
+the fifth item (a string or a list for compound notes). It is required and
+freshly matched before saving, then stored in pipeline/evidence/quotes.json so the source
 monitor can tell whether a later page change still supports the note.
 
 Adding depth is a partial review. The listing's checked_at advances only if
@@ -31,7 +32,7 @@ for slug, notes in spec.items():
         fact = new_fact(slug, n, domain, text, url, source_type, date)
         place["facts"].append(fact)
         have.add(text.strip().lower())
-        record_quote(quotes, fact["id"], url, note[4] if len(note) > 4 else None, date)
+        record_quote(quotes, fact["id"], url, note[4] if len(note) > 4 else None, date, text)
     active = [f for f in place["facts"] if f["review_status"] != "retired"]
     if active and all(f["retrieved_at"] == date and f["review_status"] == "source_checked" for f in active):
         place["checked_at"] = date

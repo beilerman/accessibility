@@ -277,6 +277,26 @@ class QuoteTests(unittest.TestCase):
         judge_by_quotes(self.PLACES, self.QUOTES, {self.URL: {"status": 404}}, findings)
         self.assertEqual(findings, {self.URL: "unavailable"})
 
+    def test_removing_secondary_passage_flags_the_compound_note(self):
+        import copy
+        quotes = copy.deepcopy(self.QUOTES)
+        quotes["a.mobility.1"]["additional_quotes"] = ["Parking is free"]
+        findings = {self.URL: "changed"}
+        page = self.page("The venue's ramp is at the north door. Sensory bags are available.")
+        missing = judge_by_quotes(self.PLACES, quotes, page, findings)
+        self.assertEqual(missing, {self.URL: ["a.mobility.1"]})
+        self.assertEqual(findings, {self.URL: "quote_missing"})
+
+    def test_edited_claim_or_blank_evidence_requires_whole_page_review(self):
+        import copy
+        for evidence in ({"quote": ""}, {"claim_sha256": "outdated"}):
+            quotes = copy.deepcopy(self.QUOTES)
+            quotes["a.mobility.1"].update(evidence)
+            findings = {self.URL: "changed"}
+            page = self.page("The venue's ramp is at the north door. Sensory bags are available.")
+            self.assertEqual(judge_by_quotes(self.PLACES, quotes, page, findings), {})
+            self.assertEqual(findings, {self.URL: "changed"})
+
 
 class CoverageTests(unittest.TestCase):
     def test_partial_source_check_preserves_unreviewed_findings(self):
@@ -324,6 +344,10 @@ class CoverageTests(unittest.TestCase):
         for fid, q in json.loads(path.read_text()).items():
             self.assertEqual(q["url"], urls.get(fid), fid)
             self.assertTrue(q["quote"].strip(), fid)
+            self.assertTrue(check_sources.supporting_passages(q), fid)
+            if q.get("claim_sha256"):
+                text = next(f["text"] for p in places for f in p["facts"] if f["id"] == fid)
+                self.assertEqual(q["claim_sha256"], check_sources.claim_digest(text), fid)
 
 
 if __name__ == "__main__":

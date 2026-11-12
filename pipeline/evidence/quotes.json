@@ -1129,15 +1129,113 @@
   "quote": "Features of interest include a children's garden, a butterfly garden, and a wildlife viewing area surrounded by a native grassland. An example rain garden and an overhead utility planting demonstration area. There are also restrooms, baseball and soccer fields, tennis and basketball courts. These features are all interconnected by over two miles of paved walking / bicycling trails.",
   "verified_at": "2026-11-12"
  },
+ "cincinnati-art-museum.chronic.1": {
+  "url": "https://www.cincinnatiartmuseum.org/access",
+  "quote": "Benches are located throughout the museum.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Accessibility Re-entry Tickets are available for visitors who purchase exhibition tickets and may need to cut their visit short. To request a re-entry ticket, please email [email protected] or fill out the accessibility request form ."
+  ],
+  "claim_sha256": "cd8d40887e9c92e2356684dce1e00569ece60b127f6345e43f6611dd42c05a84",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/access"
+ },
+ "cincinnati-art-museum.chronic.2": {
+  "url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+  "quote": "First Floor Accessible Restroom is located in the northwest corner of the Great Hall. This restroom has a changing table and is accessible for mobility devices. Ground Floor has the most accessible restrooms available. There is an adjustable universal changing station and a manual toilet and sink. Individual gender-neutral restrooms are also nearby.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "79c41b2e3724965c2e264f3be603a54b04ba80b29a62cbbd762bb3878ca7ea26",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/"
+ },
+ "cincinnati-art-museum.chronic.3": {
+  "url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+  "quote": "Large Bags are checked in the coat room. If a bag contains medical needs, it can be inspected upon arrival and exit.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "44678ae22dd3c664efeaa1eae92ed60bbafbc9487b81a17f0e1339d7a908a07d",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/"
+ },
+ "cincinnati-art-museum.cognitive.1": {
+  "url": "https://www.cincinnatiartmuseum.org/access",
+  "quote": "Getting Around Social Narratives help visitors with sensory issues to prepare for their visit through pictures.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Time Timers are visual timers helping to indicate waiting time for people who have issues with transitions. The Accessibility Guide is a large print map which identifies visual rules, loud and quiet areas, seating, low light, and natural light spaces."
+  ],
+  "claim_sha256": "f9a3fe68f8095c35c332acb646d6844028310b4e623f057d4a752e53db063ec4",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/access"
+ },
+ "cincinnati-art-museum.mobility.1": {
+  "url": "https://www.cincinnatiartmuseum.org/access",
+  "quote": "Wheelchairs and Strollers are available to borrow for free without reservations in the coat rooms near the Main and Dewitt Entrances.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Accessible Parking spots are located outside the Main Entrance, the Dewitt Entrance (the ground-floor entrance off the back parking lot), and near Art Climb. Those visitors who cannot walk long distances can be dropped off at the roundabout in front of the Main Entrance. Learn more about Directions and Parking."
+  ],
+  "claim_sha256": "047cdecc0d21f856e639b92a8661f8cfd8b6cc1131929ad82f183333fe0ddbf5",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/access"
+ },
+ "cincinnati-art-museum.mobility.2": {
+  "url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+  "quote": "Accessible Parking spots are located outside the Main Entrance, the Dewitt Entrance (the ground-floor entrance off the back parking lot), and near Art Climb. Those visitors who cannot walk long distances can be dropped off at the roundabout in front of the Main Entrance. Learn more about Directions and Parking.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "222aa283e9f17bf73f1ec525b8cbd8722df8f1f904526faa9900c7af4761215d",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/"
+ },
+ "cincinnati-art-museum.mobility.3": {
+  "url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+  "quote": "Elevator A provides visitor access from the first floor near the Cincinnati Wing to the second floor near Gallery 214. Elevator B provides visitor access from the first floor near the Terrace Café to the second floor near Gallery 210. Elevator C provides visitor access from the first floor near Gallery 136 to the second floor near Gallery 108. Elevator D provides visitor access from the second floor in Gallery 104 to the Mary R. Schiff Library.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "6f25211cc4d0c6cc9be51f6e3b864c896267bfe2f74e820fc0019924bfdfc873",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/"
+ },
  "cincinnati-art-museum.mobility.4": {
   "url": "https://www.cincinnatiartmuseum.org/access",
   "quote": "Elevator A provides visitor access from the first floor near the Cincinnati Wing to the second floor near Gallery 214. Elevator B provides visitor access from the first floor near the Terrace Café to the second floor near Gallery 210. Elevator C provides visitor access from the first floor near Gallery 136 to the second floor near Gallery 108.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "387faaeb3d0327e96704e86c79307f7f80b2ae6e5b796c9e65d2b15d528294a5",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/access"
  },
  "cincinnati-art-museum.mobility.5": {
   "url": "https://www.cincinnatiartmuseum.org/access",
   "quote": "Art Climb includes three accessible platforms reached via pedestrian pathway and identified on the Area Map.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "a34a48bedd7f82646112d32fb4ea72c3ff44abb416f02c3e116e4a48ec01373d",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/access"
+ },
+ "cincinnati-art-museum.sensory.1": {
+  "url": "https://www.cincinnatiartmuseum.org/access",
+  "quote": "Fidgets are available for visitors who need to occupy their hands during their visit. See Play Learn Kits are gallery activity totes designed to encourage creative discussion and learning in the galleries. Sensory Headphones and Earplugs help visitors damper sound if they are by loud noises.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "There is a designated private quiet space on the Ground Floor across from the coat room. This space can be used for nursing mothers and as a calm down space. Gallery 116 serves as a semi-private space on the first floor. The Large Print Accessibility Guide identifies other quiet spaces in the museum."
+  ],
+  "claim_sha256": "ff1172ef9b5016a42e86ecbbab7b1a5c6dd52633448b798eaf852a1437ea2974",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/access"
+ },
+ "cincinnati-art-museum.sensory.2": {
+  "url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+  "quote": "American Sign Language (ASL) interpretation is available for all public programs. Email [email protected] or fill out the accessibility request form to request this service. Communication Access Realtime Translation (CART) captioning is available for select programming. Please contact [email protected] or fill out the accessibility request form at least two weeks prior to the event to schedule these accommodations. Assisted Listening Devices are available for visitors upon request at the check-in table for programs held in the Fath Auditorium.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "45b8bd621a64fa6039ddb32e4edde192331116cb25379e6bbeb9c355f9cc2d2b",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/"
+ },
+ "cincinnati-art-museum.sensory.3": {
+  "url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
+  "quote": "Braille menus are available in the Terrace Café. Braille booklets are available at the Welcome Cart. Sighted guides, Audio Descriptions, and touch tours are available upon request. Please email [email protected] at least two weeks prior to schedule your visit.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "33ccd97b9d462101df6238ccf8542889b851d68843417c2d46bbe679aaa14978",
+  "source_sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
+  "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/"
  },
  "cincinnati-city-hall.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/council/welcome-to-city-hall/city-hall-tours/",
@@ -1487,22 +1585,99 @@
  "contemporary-arts-center.chronic.1": {
   "url": "https://www.contemporaryartscenter.org/visit/hours-admission",
   "quote": "Diaper bags and bags containing medical equipment are permitted in the galleries, but we ask visitors be mindful of their surroundings while exploring the galleries.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "58204991b011d4c4dece542fe88f01fa67e4fb0cf16f9b54d2489e714952459b",
+  "source_sha256": "f2d027b6fb087312e710f51f42ed34db077bd9c1bed75fbd097e7b38acba0f2b",
+  "final_url": "https://www.contemporaryartscenter.org/visit/hours-admission"
+ },
+ "contemporary-arts-center.cognitive.1": {
+  "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+  "quote": "All of the following are available free of charge at the front desk: Wheelchairs Stools Hearing amplifiers Large print text for exhibitions Reading glasses Magnifiers Sensory bags (fidgets, hearing protection, sensory narrative , and sensory map) Any of the sensory bag objects are also available individually.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "We also offer tours for visitors with memory loss and their caregivers free of charge. Please contact us to schedule these accommodations."
+  ],
+  "claim_sha256": "39cc9453ddfd40a0ee7ebb0f56de27606c241d77b82f08eea6f4de16aae1da53",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
  },
  "contemporary-arts-center.cognitive.2": {
   "url": "https://www.contemporaryartscenter.org/visit/accessibility",
-  "quote": "You will enter the glass doors and turn right, moving through another set of glass doors. Please proceed to the front desk to check-in. Accessible restrooms are located on all floors except the lobby. All floors are accessible via elevators. There are two elevators available to visitors. A large elevator is located to the left of the visitor services desk and offers access to all gallery floors. Another smaller elevator is located to the right in the lobby and offers access to all gallery floors and the lower level lobby. Service dogs and ponies are welcome. A service animal is defined as any animal that has been trained to do work or performs tasks for the benefit of a person with a disability. Accommodations/Services All of the following are available free of charge at the front desk: Wheelchairs Stools Hearing amplifiers Large print text for exhibitions Reading glasses Magnifiers Sensory bags (fidgets, hearing protection, sensory narrative , and sensory map) Any of the sensory bag objects are also available individually. All of the following are available with two weeks notice : American Sign Language (ASL) interpretation for all public programs. Audio-described tours of the architecture and/or exhibitions. Tours for groups. All tours for groups of individuals with disabilities are free of charge.",
-  "verified_at": "2026-11-12"
+  "quote": "You will enter the glass doors and turn right, moving through another set of glass doors. Please proceed to the front desk to check-in.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "All of the following are available with two weeks notice : American Sign Language (ASL) interpretation for all public programs. Audio-described tours of the architecture and/or exhibitions. Tours for groups. All tours for groups of individuals with disabilities are free of charge."
+  ],
+  "claim_sha256": "46362c37dd12714059c9f9964d4f4a0459931520f0b124431be443cdccaf6625",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
  },
  "contemporary-arts-center.cognitive.3": {
   "url": "https://www.contemporaryartscenter.org/visit/hours-admission",
   "quote": "General Admission $12 CAC Members FREE 18 and Under FREE SNAP/EBT Recipients FREE",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "d706fa2ec8ef4db3d29650079495ee69a8d36a551f9ff03e5d791100c52b4ba8",
+  "source_sha256": "f2d027b6fb087312e710f51f42ed34db077bd9c1bed75fbd097e7b38acba0f2b",
+  "final_url": "https://www.contemporaryartscenter.org/visit/hours-admission"
  },
  "contemporary-arts-center.cognitive.4": {
   "url": "https://www.contemporaryartscenter.org/visit/hours-admission",
   "quote": "CAC is a non-collecting institution, and gallery floors may be closed while exhibitions are changed out. Call us at (513) 345-8400 or visit the Exhibition page to learn about current exhibitions on view.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "5bd647e9f7830217b0f3d05a8c20c84488bfdb6e1305045a20aa653ace0d0e15",
+  "source_sha256": "f2d027b6fb087312e710f51f42ed34db077bd9c1bed75fbd097e7b38acba0f2b",
+  "final_url": "https://www.contemporaryartscenter.org/visit/hours-admission"
+ },
+ "contemporary-arts-center.mobility.1": {
+  "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+  "quote": "The CAC's entrance is located at street level, in the middle of the building on 6th Street. The entrance has an automatic door.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Accessible restrooms are located on all floors except the lobby. All floors are accessible via elevators."
+  ],
+  "claim_sha256": "a582f61135dd0616698d900c19395dba2ef408b4fa695e22209d51147e1afbbf",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+ },
+ "contemporary-arts-center.mobility.2": {
+  "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+  "quote": "Accessible parking is available at the 21C valet, which is located on Walnut, right around the corner from the CAC's 6th Street entrance. Please notify the valet and 21C front desk staff that you are there for CAC accessible parking to receive the $10 rate.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "39b61df978ca90ee1406ab118e39788016d3081f799247e376c26dbc99cba12a",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+ },
+ "contemporary-arts-center.mobility.3": {
+  "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+  "quote": "Another smaller elevator is located to the right in the lobby and offers access to all gallery floors and the lower level lobby.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "4a5fd7b3d33aaa577f7dce9538827d7cbaae48c73b6c7e7b25053de57a79b1be",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+ },
+ "contemporary-arts-center.sensory.1": {
+  "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+  "quote": "All of the following are available free of charge at the front desk: Wheelchairs Stools Hearing amplifiers Large print text for exhibitions Reading glasses Magnifiers Sensory bags (fidgets, hearing protection, sensory narrative , and sensory map) Any of the sensory bag objects are also available individually.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "c41423939a8fa5e3266315d1decccf4066d35a9892a565a491327fa0465aa712",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+ },
+ "contemporary-arts-center.sensory.2": {
+  "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+  "quote": "All of the following are available with two weeks notice : American Sign Language (ASL) interpretation for all public programs. Audio-described tours of the architecture and/or exhibitions. Tours for groups. All tours for groups of individuals with disabilities are free of charge.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "386ee5d854fab3c395b44fa21ebb600b0311dbd54778498f22cbef4ee0e99263",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+ },
+ "contemporary-arts-center.sensory.3": {
+  "url": "https://www.contemporaryartscenter.org/visit/accessibility",
+  "quote": "Please download our app through Bloomberg Connects, available for Apple or Android. Bloomberg Connects has great interpretive material for the exhibitions, as well as accessibility features such as captioned videos, transcriptions, ASL exhibition tours, and maps.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "e8583f1d00cd8047df6ef7ac6560aa58c7f67a98a222259be85dbed5f5b89066",
+  "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
+  "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
  },
  "downtown-main-library.chronic.1": {
   "url": "https://chpl.org/locations/1/",
@@ -2367,7 +2542,14 @@
  "kenton-county-public-library-latonia-branch.cognitive.3": {
   "url": "https://www.kentonlibrary.org/locations/105/",
   "quote": "Staff Development Day Friday, November 13, 2026 Closed All Day",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Thanksgiving and Friday After Thursday, November 26, 2026 - Friday, November 27, 2026 Closed All Day",
+   "Phone: (859) 962-4000"
+  ],
+  "claim_sha256": "b9589d6c643fb2263fb1da05e7f2753ad62c6753a1f91f992b1f0edf17f0e936",
+  "source_sha256": "b14d843a8c21d9e2971a718452873d6ba5edac01a7217cc26e3f48a0f049ecdb",
+  "final_url": "https://www.kentonlibrary.org/locations/105/"
  },
  "kenton-county-public-library-latonia-branch.mobility.1": {
   "url": "https://www.kentonlibrary.org/locations/105/",
@@ -2929,6 +3111,68 @@
   "quote": "Park in the designated Publix Curbside parking space and notify the store through the Publix Delivery and Curbside app or call the store using the number on the sign. Give the Publix associate your name, and they will bring your order out and load it into your car.",
   "verified_at": "2026-11-12"
  },
+ "pyramid-hill-sculpture-park-museum.chronic.1": {
+  "url": "https://www.pyramidhill.org/visit",
+  "quote": "Weather permitting, Art Carts are available to rent, and Reciprocal Level members can reserve them ahead of time. However, if you need to reserve an art cart for mobility purposes, please call the park. Art carts are rented on a first come, first served basis and cannot be guaranteed.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "a6344843235de5eee368f124b327a5136aaaf4e97bca2d396515852401d7f4b6",
+  "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+  "final_url": "https://www.pyramidhill.org/visit"
+ },
+ "pyramid-hill-sculpture-park-museum.cognitive.1": {
+  "url": "https://www.pyramidhill.org/visit",
+  "quote": "For questions, please contact ecox@pyramidhill.org or call 513-868-8336. Leashed service dogs are welcome in all park facilities under the Americans with Disabilities Act (ADA) .",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "79aa0f01f29490d1cd692d1a844c54d4d02c2588385b29e705d3144193c4afd2",
+  "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+  "final_url": "https://www.pyramidhill.org/visit"
+ },
+ "pyramid-hill-sculpture-park-museum.mobility.1": {
+  "url": "https://www.pyramidhill.org/visit",
+  "quote": "Paved paths and roads are available throughout the park. While these paths are paved, several are located on steep hills and uneven ground. Be mindful and stay on the paths most comfortable for your mobility needs.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "A ramp is available to enter the Visitor Center upon request."
+  ],
+  "claim_sha256": "d4cdc75c45b2acb5dd95dd39718b75ad918fce8a067402d9efeaf52f5daff679",
+  "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+  "final_url": "https://www.pyramidhill.org/visit"
+ },
+ "pyramid-hill-sculpture-park-museum.mobility.2": {
+  "url": "https://www.pyramidhill.org/visit",
+  "quote": "Wheelchair accessible restrooms are located in the Pyramid House and the Gallery Museum. These restrooms are available during museum hours. The Pavilion restrooms have accessible stalls, but there is a small step to get into the building.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "3d09e139d7f822e3be108869a0340bd5f32407989c563cf6461b2f4a8e8886fa",
+  "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+  "final_url": "https://www.pyramidhill.org/visit"
+ },
+ "pyramid-hill-sculpture-park-museum.mobility.3": {
+  "url": "https://www.pyramidhill.org/visit",
+  "quote": "The Pyramid House and Gallery Museum are both offer accessible parking and a wheelchair accessible entrance. The Gallery Museum has a small step up into the building.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "39907852cb836fecb1f64024741e0fcf7cd5f90b2f4f9cc1c59354daf3844d09",
+  "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+  "final_url": "https://www.pyramidhill.org/visit"
+ },
+ "pyramid-hill-sculpture-park-museum.mobility.4": {
+  "url": "https://www.pyramidhill.org/visit",
+  "quote": "Our drivable or walkable Gallery Loop runs throughout the main sections of the Park and is about 1.75 miles.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "$25 for the first hour, $20/additional full hour"
+  ],
+  "claim_sha256": "2aad76896e12f6af110ab3f19f3e501dd2fb9774913303aa3f129da306f936e3",
+  "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+  "final_url": "https://www.pyramidhill.org/visit"
+ },
+ "pyramid-hill-sculpture-park-museum.sensory.1": {
+  "url": "https://www.pyramidhill.org/visit",
+  "quote": "Audio recordings of sculpture descriptions are available on our park's mobile web-app. 3D printed copies of select ancient sculptures are available in the Pyramid House for study. Simply ask the docent when you arrive.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "0569a00a8375415716b6952299187e76bb511daa84b950d5b59010181a64a205",
+  "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
+  "final_url": "https://www.pyramidhill.org/visit"
+ },
  "rhinegeist-brewery.chronic.1": {
   "url": "https://rhinegeist.com/brewery-tours/",
   "quote": "Public tours run on a first come, first served basis. Tours are $10 and include a pint. No reservation needed, just show up and sign up in person.",
@@ -3212,62 +3456,116 @@
  "taft-museum-of-art.chronic.1": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Outside food or drink. Water is allowed only for medical purposes.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "73631e44a237dbfd9395202fa0ad15bdab8eb30e41cf7cb7369faccc63654955",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.chronic.2": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Backpacks, packages, diaper bags, and laptop bags smaller than 11 x 15 inches may be carried in the galleries.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "5a89d0d7e6d9b9dd6dcbbd685f53fb0e8d3d93f7db84f6e0d03341710052ea1a",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.chronic.3": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Bag Policy Backpacks, packages, diaper bags, and laptop bags smaller than 11 x 15 inches may be carried in the galleries. Backpacks may be carried by hand or worn on the front. Coatroom and Lockers The coatroom and lockers are located on the first floor. Your coat may not be carried through the galleries. Please plan on wearing your coat or leave it in the coatroom.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "98aa5ad23e0634743928134b692fe5880d6eaebb55ec2e5b8408fd13525456c3",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.chronic.4": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Diaper changing stations are available in the bathrooms on both the first and second floors of the museum.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "dd235a08eb4c453177ddd110b39d9cfb5706e8bedaf584d73591101123f36736",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.cognitive.1": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Questions? Contact accessibility@taftmuseum.org .",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "59a3f805f54c8336d7045d6fef10d8a5974d6028b878e03afd6d9cfea945c342",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.cognitive.2": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "We are a cashless museum. We accept credit, debit cards, and other digital payment options.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "ddd8408aef813a02e82b1b9e53deac1447d6f3483e66a681b36be43207a32f04",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.mobility.1": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Accessibility and Accommodations The museum is accessible to visitors with limited mobility, by providing wheelchairs, elevators and lifts, restrooms, parking, and ramps. The Taft also offers sensory accommodations including a quiet room, noise-reducing headphones, and braille and large-print materials to explore the museum collection and exhibitions. Questions? Contact accessibility@taftmuseum.org .",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "If you need a wheelchair or assistance with a lift, ask the Visitor Experience team at admissions."
+  ],
+  "claim_sha256": "22b229ba0e55abafcca88499a2e28f1ac7ff63d079b696c36158f0a10b6b44f1",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.mobility.2": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Wheelchairs, adaptive strollers, and other mobility aids are always permitted throughout the museum.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The Taft offers limited, free on-site parking for guests visiting the museum, the Museum Shop, and the Taft Café during regular museum hours in the Taft's on-site garage."
+  ],
+  "claim_sha256": "7ab223968a56f469fad77fb81d49ca27bf0f108f23af05ab9d47c78d9208ec3a",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.mobility.3": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "Segways or other non-medical mobility devices will not be permitted.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The front gates and garage open 15 minutes before museum opening."
+  ],
+  "claim_sha256": "2f0069fe0a934e28e14af8d93d5fef3bc3a57af4fee5c132da4bcebaef46d9db",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.sensory.1": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "The Taft also offers sensory accommodations including a quiet room, noise-reducing headphones, and braille and large-print materials to explore the museum collection and exhibitions.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Braille and Large Print Materials The Taft Museum of Art offers printed visitor materials in alternative formats. Clovernook Center for the Blind and Visually Impaired has partnered with the museum to reproduce the visitor guide and Top 10 brochures. Large print versions of these resources and exhibition labels are also available. Please see admissions for these materials."
+  ],
+  "claim_sha256": "bc2a1e557c2f95fdab1ab6e38840c04e98f1a537c523e388d9158c2860b44511",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.sensory.2": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "KultureCity , a nationally recognized accessibility organization, has provided the Taft team with training and space accommodations to be ready to respond to visitors with neurodivergent and invisible disability needs. To learn more, visit KultureCity's website or app .",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Large print versions of these resources and exhibition labels are also available."
+  ],
+  "claim_sha256": "e45f398da722ac7428d771dde2be1308bfdad292607476d9da1429d56304bc71",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-museum-of-art.sensory.3": {
   "url": "https://www.taftmuseum.org/visitor-information/",
   "quote": "The Taft Museum of Art is Cincinnati's first Sensory Inclusive™ certified museum.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Photography encouraged, but please no flash or flashlights! Take a selfie or snap a picture of your favorite artwork, but protect the art by refraining from using flash or your smartphone's flashlight."
+  ],
+  "claim_sha256": "7d09515d6ad644bca47f5eb985676d1ea6a7947a338b0fc79b9dcb950c118384",
+  "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
+  "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
  "taft-theatre.chronic.2": {
   "url": "https://tafttheatre.org/venue-info/faq",
@@ -3462,7 +3760,14 @@
  "tank-transit-authority-of-northern-kentucky.mobility.12": {
   "url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
   "quote": "Valley Plaza at Walmart",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Covington Transit Center",
+   "Fort Wright Hub"
+  ],
+  "claim_sha256": "12467bc779324a81a597a1d18b38c8fbcd5d71ce8386ecb06fb4e24abdf163eb",
+  "source_sha256": "bea270e2a0350184b769852fd2361a9153397d5fa156c9ebc95e85a4284c4454",
+  "final_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.13": {
   "url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/",

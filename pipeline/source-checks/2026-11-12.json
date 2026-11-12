@@ -646,7 +646,7 @@
       "final_url": "https://www.cincinnatiartmuseum.org/access",
       "last_modified": null,
       "sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 21138
     },
     "https://www.cincinnatiarts.org/plan-your-visit/aronoff-centerweston-art-gallery/accessibility-information-1": {
@@ -718,7 +718,7 @@
       "final_url": "https://www.contemporaryartscenter.org/visit/accessibility",
       "last_modified": null,
       "sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3890
     },
     "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook": {
@@ -1094,7 +1094,7 @@
       "final_url": "https://www.pyramidhill.org/visit",
       "last_modified": null,
       "sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3542
     },
     "https://www.sixflags.com/kingsisland/accessibility": {
@@ -1422,7 +1422,7 @@
       "final_url": "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/",
       "last_modified": null,
       "sha256": "a04919b0776c033e3165947ca3e037a4f66d4634514f1443255073631525bed9",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 21138
     },
     "https://www.cincinnatiarts.org/plan-your-visit/aronoff-center-1/accessibility-information-1": {
@@ -2216,7 +2216,7 @@
     "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/": {
       "status": 200,
       "final_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
-      "last_modified": "Wed, 11 Nov 2026 18:20:37 GMT",
+      "last_modified": "Thu, 12 Nov 2026 17:04:17 GMT",
       "sha256": "bea270e2a0350184b769852fd2361a9153397d5fa156c9ebc95e85a4284c4454",
       "fingerprint_version": 6,
       "chars": 201249
@@ -2433,9 +2433,9 @@
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/105/",
       "last_modified": null,
-      "sha256": "ef10c9219251caba379d2fa093feeff349e6bda3c2e5e25eafa7f941f5c0f485",
+      "sha256": "b14d843a8c21d9e2971a718452873d6ba5edac01a7217cc26e3f48a0f049ecdb",
       "fingerprint_version": 6,
-      "chars": 3836
+      "chars": 3824
     },
     "https://www.premiumoutlets.com/outlet/cincinnati/about": {
       "status": 200,
@@ -3102,7 +3102,8 @@
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked",
     "https://www.target.com/sl/newport/2483": "supported",
     "https://www.bogarts.com/visit": "supported",
-    "https://www.walmart.com/store/2967-ft-wright-ky": "supported"
+    "https://www.walmart.com/store/2967-ft-wright-ky": "supported",
+    "https://www.kentonlibrary.org/locations/105/": "supported"
   },
   "missing_quotes": {}
 }

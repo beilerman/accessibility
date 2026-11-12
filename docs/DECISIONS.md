@@ -81,3 +81,13 @@ Added November 8, 2026. A Threshold owner or team member who visits a place may 
 ## 12. Keep the supporting passage for each note
 
 Added November 10, 2026. When a note is written or rechecked, the verbatim passage that was matched against the live source is stored in `pipeline/evidence/quotes.json`, keyed by note ID. It is editorial evidence for the source monitor and for later rechecks. It is not shown on the site, which continues to summarize in plain words and link to the source (§9). When a source page changes, the monitor checks whether each stored passage is still present: if all are, no editorial action is needed; if one is missing, that note is flagged. A note with no stored passage still gets a whole-page review. A passage still being present shows that the venue still publishes the statement, not that the condition was observed.
+
+November 12 accuracy follow-up: the add/depth/recheck helpers require nonempty
+support and freshly fetch its source before saving. A quote can be a string or
+a list of passages; separate clauses need separate support when not adjacent.
+The registry retains the first passage in `quote`, others in `additional_quotes`,
+and binds newly checked records to the exact note text with `claim_sha256`.
+The monitor checks every retained passage and does not classify edited note text
+as supported by an older binding. Legacy evidence remains readable while it is
+backfilled. Editors must still judge entailment, location, date and conditions;
+neither the text binding nor an exact match establishes truth in the field.

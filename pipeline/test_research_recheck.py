@@ -16,7 +16,7 @@ class RecheckFreshnessTests(unittest.TestCase):
     def run_recheck(self, remaining_note):
         reviewed = {
             "id": "test-venue.mobility.1", "domain": "mobility",
-            "source_url": "https://example.org/access",
+            "source_url": "https://example.org/access", "text": "The north entrance has a ramp.",
             "retrieved_at": "2026-11-08", "review_status": "needs_recheck",
             "history": [{"date": "2026-11-08", "action": "added", "note": "Original note."}],
         }
@@ -32,6 +32,7 @@ class RecheckFreshnessTests(unittest.TestCase):
                 with patch.object(sys, "argv", ["recheck.py", str(spec), "2026-11-12"]), \
                      patch.object(_catalog, "load_places", return_value=[place]), \
                      patch.object(_catalog, "load_quotes", return_value=quotes), \
+                     patch.object(_catalog, "source_result", return_value={"status": 200, "_text": "Ramp at north entrance."}), \
                      patch.object(_catalog, "save_places"), patch.object(_catalog, "save_quotes"):
                     runpy.run_path(str(RESEARCH / "recheck.py"), run_name="__main__")
         self.assertEqual(remaining_note, untouched)

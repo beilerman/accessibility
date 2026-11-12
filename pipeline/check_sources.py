@@ -189,6 +189,21 @@ def load_quotes() -> dict[str, dict]:
     return json.loads(QUOTES.read_text()) if QUOTES.exists() else {}
 
 
+def supporting_passages(record: dict) -> list[str]:
+    """All independently changeable passages must remain present, not just one."""
+    extra = record.get("additional_quotes", [])
+    if not isinstance(extra, list):
+        return []
+    passages = [record.get("quote"), *extra]
+    if any(not isinstance(q, str) or not quote_text(q).strip() for q in passages):
+        return []
+    return passages
+
+
+def claim_digest(text: str) -> str:
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
+
+
 def judge_by_quotes(places, quotes, current, findings) -> dict[str, list[str]]:
     """Refine each 'changed' source using the supporting passages on file.
 
@@ -208,10 +223,15 @@ def judge_by_quotes(places, quotes, current, findings) -> dict[str, list[str]]:
             continue
         facts = by_url.get(url, [])
         page = current[url].get("_text")
-        known = [f for f in facts if f["id"] in quotes and quotes[f["id"]].get("url") == url]
+        known = [f for f in facts if f["id"] in quotes
+                 and quotes[f["id"]].get("url") == url
+                 and supporting_passages(quotes[f["id"]])
+                 and (not quotes[f["id"]].get("claim_sha256")
+                      or quotes[f["id"]]["claim_sha256"] == claim_digest(f.get("text", "")))]
         if page is None or not known:
             continue
-        gone = [f["id"] for f in known if quote_text(quotes[f["id"]]["quote"]) not in page]
+        gone = [f["id"] for f in known
+                if any(quote_text(q) not in page for q in supporting_passages(quotes[f["id"]]))]
         if gone:
             findings[url] = "quote_missing"
             missing[url] = gone

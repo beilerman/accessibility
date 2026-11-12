@@ -25,6 +25,7 @@ class DepthFreshnessTests(unittest.TestCase):
                 with patch.object(sys, "argv", ["apply_depth.py", str(spec), "2026-11-12"]), \
                      patch.object(_catalog, "load_places", return_value=[place]), \
                      patch.object(_catalog, "load_quotes", return_value={}), \
+                     patch.object(_catalog, "source_result", return_value={"status": 200, "_text": "Ramp at north entrance."}), \
                      patch.object(_catalog, "save_places"), patch.object(_catalog, "save_quotes"):
                     runpy.run_path(str(RESEARCH / "apply_depth.py"), run_name="__main__")
         self.assertEqual(place["facts"][-1]["id"], "test-venue.mobility.1")

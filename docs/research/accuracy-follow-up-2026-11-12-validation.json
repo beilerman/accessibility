@@ -1,0 +1,33 @@
+{
+  "base": "d7b2ce0477dded6015dee7c7dcae4e44c4630c8e",
+  "notesRechecked": 44,
+  "newEvidenceRecords": 24,
+  "activeNotes": 1217,
+  "quotedNotes": 816,
+  "missingEvidence": 401,
+  "fullVenueReviews": [
+    "cincinnati-art-museum",
+    "contemporary-arts-center",
+    "pyramid-hill-sculpture-park-museum",
+    "taft-museum-of-art"
+  ],
+  "partialVenueReviews": [
+    "tank-transit-authority-of-northern-kentucky",
+    "kenton-county-public-library-latonia-branch"
+  ],
+  "revisedNotes": [
+    "cincinnati-art-museum.sensory.2",
+    "pyramid-hill-sculpture-park-museum.mobility.3"
+  ],
+  "originalIdsAndHistoryPrefixesPreserved": true,
+  "mediaUnchanged": true,
+  "validation": {
+    "browserTests": 123,
+    "unitTests": 86,
+    "pipelineTests": 70,
+    "types": "passed",
+    "lint": "passed",
+    "build": "passed"
+  },
+  "productionDeploymentPerformed": false
+}
