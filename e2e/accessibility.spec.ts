@@ -68,6 +68,8 @@ const routes = [
   "/venues/leblond-recreation-center",
   "/venues/walmart-supercenter-fort-wright",
   "/venues/target-newport",
+  "/venues/florence-mall",
+  "/venues/ikea-west-chester",
   "/venues/cincinnati-northern-kentucky-international-airport-cvg",
   "/venues/boone-county-public-library-chapin-memorial",
   "/about",

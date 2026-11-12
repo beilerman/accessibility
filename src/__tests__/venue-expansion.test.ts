@@ -11,6 +11,48 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("keeps Boone Woods' shelter-office conflict separate from the park arrival address", () => {
+    const slug = "boone-woods-park";
+    expect(place(slug).address).toBe("6000 Veterans Way, Burlington, KY 41005");
+    expect(place(slug).limitations).toMatch(/5958 Garrard Street.*3920 Maplewood Drive.*3290 Maplewood Drive/);
+    expect(text(slug)).toMatch(/April–November/);
+    expect(text(slug)).toMatch(/24 hours ahead/);
+    const note = place(slug).facts.find((f) => f.id === "boone-woods-park.chronic.2")!;
+    expect(note.history.at(-1)?.action).toBe("revised");
+  });
+
+  it("finds West Chester shopping with local pickup steps and scoped equipment policies", () => {
+    const slug = "ikea-west-chester";
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("9500 IKEA Way, West Chester, OH 45069");
+    expect(text(slug)).toMatch(/Store Entrance Lobby/);
+    expect(text(slug)).toMatch(/does not offer motorized scooters/);
+    expect(text(slug)).toMatch(/loading help to back in/);
+    expect(text(slug)).toMatch(/through the store exit, turning left/);
+    expect(text(slug)).toMatch(/does not establish adult-changing equipment/);
+    expect(place(slug).limitations).toMatch(/U.S. chain policies/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+
+  it("finds Florence shopping while dating the sensory event and preserving route gaps", () => {
+    const slug = "florence-mall";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("2028 Florence Mall, Florence, KY 41042");
+    expect(text(slug)).toMatch(/accessible parking spaces are near every entrance/);
+    expect(text(slug)).toMatch(/December 6, 2026, 8:30–9:30 a.m./);
+    expect(text(slug)).toMatch(/not a daily quiet-hour program/);
+    expect(place(slug).limitations).toMatch(/current elevator locations and operation/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("keeps Chapin's unstaffed procedures and Saturday source difference visible", () => {
+    const slug = "boone-county-public-library-chapin-memorial";
+    expect(text(slug)).toMatch(/No library staff are on site/);
+    expect(text(slug)).toMatch(/government-issued photo ID/);
+    expect(text(slug)).toMatch(/public-address announcements/);
+    expect(place(slug).limitations).toMatch(/branch page omits it/);
+    expect(place(slug).limitations).toMatch(/wheelchair-loan and curbside lists do not include Chapin/);
+  });
+
   it("finds Newport shopping while keeping chain support separate from premises evidence", () => {
     const slug = "target-newport";
     expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);

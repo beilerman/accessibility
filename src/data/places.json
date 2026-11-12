@@ -1980,15 +1980,15 @@
     "address": "6000 Veterans Way, Burlington, KY 41005",
     "website": "https://www.boonecountyky.org/services/parks/our_parks.php",
     "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
-        "text": "The playground was updated with ADA-accessible equipment, with cushioned rubber surfacing and ramps to lookouts, toys and slides.",
+        "text": "The county reports cushioned rubber surfacing and ramps leading to lookouts, toys and slides at the updated playground.",
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
         "id": "boone-woods-park.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1997,6 +1997,16 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Replaced the unqualified ADA-accessible-equipment phrase with the county’s concrete descriptions of surfacing and ramps. No compliance conclusion or continuous route is established."
           }
         ]
       },
@@ -2006,7 +2016,7 @@
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
         "id": "boone-woods-park.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2015,6 +2025,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2024,7 +2039,7 @@
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
         "id": "boone-woods-park.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2033,16 +2048,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "The shelter listing notes restrooms, grills, electricity and water nearby. Shelters can be reserved by calling 859-334-2117 or at the Parks Office, 5958 Garrard Street, Burlington.",
+        "text": "The shelter page lists restrooms, grills, electricity and nearby water. Reservations can be made online, by calling 859-334-2117 or in person. Confirm the Parks Office address before travelling; see the listing’s caution.",
         "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
         "id": "boone-woods-park.chronic.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2051,11 +2071,147 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Qualified in-person booking after the 2026 newsletter and current parks-policy contact gave 3290 Maplewood Drive, while the shelter instructions still name 5958 Garrard Street and a county footer says 3920 Maplewood. Keep the conflicting addresses visible and ask visitors to call before travelling."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The county shelter policy gives April–November as the restroom season and warns that cold weather can freeze pipes. This is a general park-shelter policy, not confirmation that a particular toilet is open or has specific access features.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+        "id": "boone-woods-park.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Shelters can be reserved April–October, with reservations opening on the first business day in March. Each reservation covers a whole day; fees include tax and are non-refundable. These dates concern shelter reservations, not the park’s general opening season.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+        "id": "boone-woods-park.chronic.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The county lists seating capacity of 80 for each of Shelters 1 and 2 and 100 for Shelter 3. These are overall capacities; wheelchair spaces, table clearances and companion arrangements are not specified.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+        "id": "boone-woods-park.chronic.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For weather-related effects on games or practice, the park directs visitors to its rainout line, 859-334-2283, or online updates. The line does not establish conditions on a particular path or at the playground.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
+        "id": "boone-woods-park.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The county parks-policy page lists 3290 Maplewood Drive, Burlington, KY 41005 as its contact address. See the listing’s office-address caution before planning an in-person trip.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_policies/index.php",
+        "id": "boone-woods-park.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The county says field-condition updates are posted at 3:30 p.m. on weekdays and by 8 a.m. on weekends, online or via 859-334-2283. This concerns playing fields, not confirmation of a route, toilet or playground’s condition.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_policies/index.php",
+        "id": "boone-woods-park.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For tennis at Boone Woods, the county says courts can be reserved 24 hours ahead on the on-site signup sheets: one hour for singles or two for doubles. Contracted county tennis programs have scheduling priority; high-school teams can request all courts in writing.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_policies/index.php",
+        "id": "boone-woods-park.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Accessibility details cover the playground only; confirm the route from parking to the playground and whether restrooms and the amphitheater are accessible.",
+    "limitations": "Public website information; no on-site audit. Published physical-access details cover the playground; the parking-to-playground route, path gradients, restroom access features and amphitheater seating arrangements remain unverified. The county’s general shelter policy lists April–November restroom operation, not a venue-specific availability check. Shelter capacities do not establish wheelchair seating or table clearances. Office addresses differ: shelter instructions name 5958 Garrard Street and a county footer says 3920 Maplewood Drive, while the parks-policy page and 2026 newsletter list 3290 Maplewood Drive. Confirm the office location by phone before an in-person booking. The park itself remains listed at 6000 Veterans Way.",
     "slug": "boone-woods-park",
     "evidence_type": "public_website",
     "observed_at": null
@@ -16412,10 +16568,10 @@
     "state": "KY",
     "category": "Libraries",
     "address": "6517 Market St., Petersburg, KY 41080",
-    "website": "https://www.bcpl.org/locations/",
+    "website": "https://www.bcpl.org/locations/chapin",
     "source_url": "https://www.bcpl.org/locations/",
-    "limitations": "Public website information; no on-site audit. A small branch with limited staffed hours. The entrance, restroom and route inside are not described. Call ahead to discuss accommodations.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public website information; no on-site audit. The system locations page and Express Access agreement list a first-Saturday staffed session (9 a.m.–1 p.m.), but the dedicated branch page omits it and gives Saturday general hours of 10 a.m.–5 p.m. Confirm Saturday staffing before relying on in-person help. Express Access requires registration and provides no on-site staff. Entrance thresholds, door controls, card-reader reach, locker reach, restroom features and interior routes remain unverified. The system’s wheelchair-loan and curbside lists do not include Chapin; no local availability is inferred.",
+    "checked_at": "2026-11-12",
     "slug": "boone-county-public-library-chapin-memorial",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -16426,7 +16582,7 @@
         "source_url": "https://www.bcpl.org/locations/",
         "id": "boone-county-public-library-chapin-memorial.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16435,6 +16591,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -16444,7 +16605,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-chapin-memorial.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16458,6 +16619,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -16467,13 +16633,180 @@
         "source_url": "https://www.bcpl.org/locations/",
         "id": "boone-county-public-library-chapin-memorial.chronic.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Express Access uses a registered library card for entry during designated unstaffed periods. No library staff are on site; service is self-service.",
+        "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScr39oE5H41CR3Ruv7dyxbXNQ6fGPG-9xuxjNmcPqcw-TauuA/viewform",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Express Access registration requires an active BCPL card in good standing, a government-issued photo ID and signing the agreement in person during staffed hours at Chapin or another BCPL location. The agreement also sets a balance limit without stating its amount.",
+        "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScr39oE5H41CR3Ruv7dyxbXNQ6fGPG-9xuxjNmcPqcw-TauuA/viewform",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Adults may register for Express Access; ages 13–17 need a parent or guardian to co-sign. Children under 13 must stay with a registered Express Access adult. Guests who enter with you must not be left in the library without you.",
+        "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScr39oE5H41CR3Ruv7dyxbXNQ6fGPG-9xuxjNmcPqcw-TauuA/viewform",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "During Express Access, visitors can browse, use self-checkout and assigned holds lockers, and use computers, Wi-Fi and printing. Remote help is available by phone; dial the number posted inside to reach a staffed location for non-emergency help.",
+        "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScr39oE5H41CR3Ruv7dyxbXNQ6fGPG-9xuxjNmcPqcw-TauuA/viewform",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Automated public-address announcements, including closing alerts, may play during Express Access hours.",
+        "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScr39oE5H41CR3Ruv7dyxbXNQ6fGPG-9xuxjNmcPqcw-TauuA/viewform",
+        "id": "boone-county-public-library-chapin-memorial.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The library system reports translation devices at every branch for communication with visitors who do not speak English. This does not identify which languages or communication modes the devices support.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.6",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": "2026-06-09",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "BCPL describes large-print books, read-alongs, Playaways and books on CD in its collection. Libby ebooks and audiobooks offer adjustable text, fonts, brightness and narration, including the OpenDyslexic font.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-chapin-memorial.sensory.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": "2026-06-09",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The dedicated Chapin branch page lists staffed hours as Tuesday/Wednesday 2–7 p.m. and Thursday 1–7 p.m.; it does not list a Saturday staffed session. See the listing caution about differing Saturday information.",
+        "source_url": "https://www.bcpl.org/locations/chapin",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.7",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The notice read November 12, 2026, says all BCPL locations are closed Thursday, November 12, for Staff Development Day. This is a dated exception to regular hours; the notice does not state an Express Access exception.",
+        "source_url": "https://www.bcpl.org/locations/",
+        "id": "boone-county-public-library-chapin-memorial.cognitive.8",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -17955,6 +18288,326 @@
         "source_url": "https://aira.io/target/",
         "id": "target-newport.cognitive.4",
         "source_type": "partner_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Florence Mall",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "2028 Florence Mall, Florence, KY 41042",
+    "website": "https://www.florencemall.com/",
+    "source_url": "https://www.florencemall.com/contact",
+    "limitations": "Public website information; no on-site audit. Parking and rideshare statements come from the mall; they do not establish a continuous step-free route. Entrance names, thresholds, door controls, current elevator locations and operation, equipment loans, toilet and adult-changing facilities remain unverified. The dated 2023 interior photographs show historical equipment and seating, not current availability. Santa Cares is a dated event, not a mall-wide sensory policy; confirm reservations and arrival arrangements with the organizer.",
+    "checked_at": "2026-11-12",
+    "slug": "florence-mall",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The mall says accessible parking spaces are near every entrance, within the free parking areas surrounding the center. It does not identify a particular parking-to-door route, curb crossing or entrance threshold.",
+        "source_url": "https://www.florencemall.com/contact",
+        "id": "florence-mall.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The mall designates its main entrance for rideshare pickups. The published contact page does not name that entrance or describe a level drop-off connection.",
+        "source_url": "https://www.florencemall.com/contact",
+        "id": "florence-mall.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guest Services can be reached at 859-371-1231. Individual shops and restaurants may keep different hours; holiday hours can change.",
+        "source_url": "https://www.florencemall.com/contact",
+        "id": "florence-mall.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "A Santa Cares visit is scheduled for December 6, 2026, 8:30–9:30 a.m. The mall describes this specific event as sensory-friendly for visitors of all ages and abilities, with one reservation per family. This is not a daily quiet-hour program; lighting and sound adjustments are not specified.",
+        "source_url": "https://www.florencemall.com/event/florence-santa-cares",
+        "id": "florence-mall.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The mall provides a PDF directory on its Mall Map page for advance orientation. Use the linked source to open it; the map is not a photograph or a check of equipment operation and route conditions.",
+        "source_url": "https://www.florencemall.com/map.php",
+        "id": "florence-mall.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IKEA West Chester",
+    "city": "West Chester",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "9500 IKEA Way, West Chester, OH 45069",
+    "website": "https://www.ikea.com/us/en/stores/west-chester/",
+    "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+    "limitations": "Public website information; no on-site audit. The local page specifies equipment collection and pickup areas, while the free manual-wheelchair and own-device statements are U.S. chain policies. Entrance thresholds, door controls, continuous routes between floors, elevator locations and current operation, accessible toilet features, adult-changing equipment and quiet spaces remain unverified. Baby-care rooms do not establish adult-changing provision. No location-matched reusable access photograph or inspected official photo guide was selected.",
+    "checked_at": "2026-11-12",
+    "slug": "ikea-west-chester",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The West Chester store keeps wheelchairs in the Store Entrance Lobby and says it does not offer motorized scooters. Availability on a particular visit and loan procedures are not stated.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "IKEA’s U.S. policy describes its loan wheelchairs as manual and complimentary, and says visitors may use their own mobility devices. This is a chain policy, not a measurement of the West Chester routes.",
+        "source_url": "https://www.ikea.com/us/en/customer-service/knowledge/articles/3b8360c2-227d-4beg-bg1d-86819gf2297g.html",
+        "id": "ikea-west-chester.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The store lists accessible parking at the Store Entrance and a loading zone near the exit doors, including Click & Collect pickup spaces. It does not describe the curb crossings, entrance thresholds or door controls.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "In response to a question about rideshare drop-off and pickup points, the store says it has none, although Uber, Lyft and other rideshare services can serve the store. A designated level drop-off connection is not described.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Baby-care rooms with diaper-changing space are in the hallway next to the restaurant and downstairs between the cash lanes and entrance lobby. The source does not establish adult-changing equipment, transfer space or a toilet in these rooms.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For Click & Collect, IKEA says to wait for the second email confirming the order is ready, rather than traveling after the initial order-confirmation email. Have the order number ready and follow the store’s collection signs.",
+        "source_url": "https://www.ikea.com/us/en/customer-service/services/product-reservation/",
+        "id": "ikea-west-chester.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The store says it welcomes fully trained service animals. Its page distinguishes these from pets and animals whose only role is comfort or emotional support; this is the store’s published policy.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For curbside collection, follow Click & Collect signs to the left of the store and check in at a designated space. The store asks customers needing loading help to back in and tell the coworker, wait in the vehicle, and have the pickup email ready.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For inside collection, the store directs customers to the Click & Collect area on the left of the building, then through the store exit, turning left to the order-pickup desk. The source does not describe thresholds or door controls along that approach.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The West Chester page lists Click & Collect as free for IKEA Family members and $2 for non-members. It says orders are held for 24 hours before cancellation and asks customers to ensure their vehicle has enough space.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For returns, spare parts or customer-service matters, the store offers an online option to join the line before arrival. It does not give a guaranteed wait time or describe seating while waiting.",
+        "source_url": "https://www.ikea.com/us/en/stores/west-chester/",
+        "id": "ikea-west-chester.cognitive.3",
+        "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,

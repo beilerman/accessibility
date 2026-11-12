@@ -237,5 +237,41 @@
       "tank-transit-authority-of-northern-kentucky.mobility.1",
       "tank-transit-authority-of-northern-kentucky.mobility.7"
     ]
+  },
+  {
+    "id": "florence-mall-center-court-2023",
+    "slug": "florence-mall",
+    "title": "Center-court elevator and seating (2023)",
+    "src": "/images/access/florence-mall-center-court-2023.webp",
+    "width": 1280,
+    "height": 960,
+    "alt": "Two levels around Florence Mall’s tiled center court, with a glass elevator, curved low walls and a wood bench beneath a large skylight.",
+    "caption": "February 21, 2023: this upper-level view shows the glass elevator at center court, lower-level seating and the surrounding tiled circulation space.",
+    "author": "Larry Hachucka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Florence_Mall_Center_Court;_Florence_KY.jpg",
+    "photoDate": "2023-02-21",
+    "checkedAt": "2026-11-12",
+    "limitations": "Historical photograph. Elevator doors, controls, dimensions and operating status are not established. It does not show an entrance-to-elevator route, seat measurements or wheelchair seating spaces; storefronts and layouts may have changed.",
+    "relatedFactIds": []
+  },
+  {
+    "id": "florence-mall-sears-court-2023",
+    "slug": "florence-mall",
+    "title": "Sears-court escalators and benches (2023)",
+    "src": "/images/access/florence-mall-sears-court-2023.webp",
+    "width": 1280,
+    "height": 960,
+    "alt": "A pair of escalators between Florence Mall’s upper and lower levels at Sears Court, with glass railings, tiled floors, dark low benches and sunlight from overhead skylights.",
+    "caption": "February 21, 2023: escalators occupy the middle of Sears Court, with low benches on the lower level and strong patches of skylight on the floors.",
+    "author": "Larry Hachucka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sears_Court;_Florence_Mall;_Florence_KY.jpg",
+    "photoDate": "2023-02-21",
+    "checkedAt": "2026-11-12",
+    "limitations": "Historical photograph. Escalators do not provide wheelchair access. This frame does not locate an alternative elevator, establish its absence, show a complete route or establish equipment operation today. Lighting varies with time and weather.",
+    "relatedFactIds": []
   }
 ]

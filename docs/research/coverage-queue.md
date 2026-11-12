@@ -1,14 +1,14 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after the shopping and Northern Kentucky connections batch.
+Updated November 12, 2026, after the shopping, parks and Chapin batch.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Breadth
 
-The prepared catalog has 107 places. Its categories contain 32 arts venues,
+The prepared catalog has 109 places. Its categories contain 32 arts venues,
 28 parks, 20 museums/attractions, 14 libraries, five transport entries, five
-food/drink venues and three shopping destinations. Use this distribution to seek
+food/drink venues and five shopping destinations. Use this distribution to seek
 more evidence for everyday activities and less represented types of places.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
@@ -108,26 +108,79 @@ Prepared for runner validation; no Git writes or deployment.
   zone wording and the Link page's old Route 16 transfer instruction conflict;
   limitations explain them. No transfer pavement or route continuity inferred.
 
+## Completed in the November 12 shopping, parks and Chapin pass
+
+Four venues carry supported public changes; Meijer Florence was investigated and
+held. See [full research and receipts](shopping-parks-library-2026-11-12.md).
+Prepared for runner validation; no Git writes or deployment.
+
+- **New coverage:** Florence Mall (five notes) and IKEA West Chester (eleven).
+  Parking/pickup, equipment collection and loan policies, baby-care-room locations,
+  the dated Santa Cares event and preparation resources retain their precise scope.
+- **New information:** sixteen notes at Chapin (nine) and Boone Woods (seven),
+  plus two revised Boone Woods notes (playground description and booking caution). Office addresses conflict; do not
+  silently choose between 5958 Garrard, 3920 Maplewood and 3290 Maplewood.
+- **Freshness:** all seven prior notes at those two old listings reviewed, five
+  retained and two revised. Two full reviews, no new partial review. Weekly full
+  reviews now **16/8**; AMC's six held notes and old checked_at remain unchanged.
+- **Imagery:** two full-frame CC BY-SA 4.0 mall photos, dated February 21, 2023,
+  show the center-court elevator/seating and Sears-court escalators/benches. One
+  new mall guide association links the existing city visitor PDF's frontage photo
+  on page 15. Totals: fourteen photos and nine venue-guide entries (eight distinct
+  guide documents). Historical views do not establish current operation or routes.
+- **Evidence:** final verification covers 39 notes and two addresses; thirteen
+  fresh cited HTML/form sources are baselined. Original guide refetched HTTP 200
+  with identical bytes. Source conflicts, existing IDs/history and unselected
+  source findings are preserved. Prepared totals: 109 places, 850 active notes,
+  349 stored quotes. Runner must complete browser validation.
+
 ## Next concrete batch
 
-1. **Northern Kentucky groceries:** hold Newport Pavilion Kroger for an available
-   browser; repeated direct fetches failed. Investigate the official Florence
-   Meijer branch and its assistance/collection policies as the next breadth lead.
-   Match the branch before importing chain policies; seek reusable arrival photos.
-2. **Boone Woods and Chapin:** deepen these older thin listings with entrance,
-   parking-to-door, restroom and seasonal details. Seek current, correctly matched
-   licensed photographs or official photo narratives. Keep partial dates honest.
-3. **Current Covington transfers:** seek post-November-7 TANK boarding/stop photos,
-   bay diagrams and precise connecting routes. Resolve the Link's Route 16 advice,
-   $1/$0.75 reduced fare and Plus zone/cap differences before simplifying them.
-   Smoke Justis's room details are reviewed; its actual doorway and toilet route
-   still need direct premises evidence and a useful licensed photograph.
-
-The previous concrete batches are completed at the evidence level described above;
-remaining precise gaps are below. Bogart’s, Chapin and Boone Woods remain older
-rolling candidates. Continue everyday growth now the weekly target is exceeded.
+1. **Northern Kentucky groceries:** Kroger Newport Pavilion and Meijer Florence
+   remain held for an available browser. Do not repeat blocked direct requests as
+   a recheck. Seek another official grocery branch source with local collection
+   or assistance evidence, and reusable arrival photographs.
+2. **Florence everyday shopping:** investigate the IKEA Florence Plan and Order
+   Point mentioned on the current West Chester page. Establish the branch address,
+   collection process and physical premises separately; do not transfer full-store
+   wheelchair, scooter, restaurant or baby-care-room statements to an order point.
+   The mall's current map page is https://www.florencemall.com/map.php .
+3. **Boone Woods and county office:** seek current primary evidence resolving
+   the three published office addresses and completion/operation of the planned
+   heated restroom building. The 2024 approval and 2026 newsletter do not prove
+   year-round operation. Seek matched playground/parking/doorway photographs.
+4. **Current Covington transfers:** continue post-November-7 TANK stop, bay and
+   boarding imagery and connection research. Keep reduced-fare/Plus-zone/Route 16
+   conflicts visible. For the older rolling queue, Bogart's remains a candidate;
+   Chapin and Boone Woods are now fully reviewed at the source level described here.
 
 ## Holds and unresolved source conflicts
+
+- **Chapin:** locations and Express Access agreement list first-Saturday staffing,
+  while the branch page omits it and gives different Saturday general hours. Confirm
+  staffing. The November 12 staff-development closure note is dated; it does not
+  establish an Express Access exemption. Card-reader/locker reach, doorway and
+  toilet features remain unknown; do not apply other branches' loan/curbside lists.
+- **Boone Woods:** shelter text says 5958 Garrard Street, a footer 3920 Maplewood,
+  and current policies/newsletter 3290 Maplewood for the Parks Office. Call before
+  an office visit; the park remains 6000 Veterans Way. A 2024 proposal for heated,
+  year-round restrooms is not a completion receipt. The current general policy
+  still lists April–November. The 2026 newsletter's generic shelter photo is not
+  securely matched to this park; no guide/photo was imported from it.
+- **Florence Mall:** entrance name/thresholds, door controls, current elevator and
+  toilet features remain unknown. The working map PDF is a diagram, not a photo;
+  its November 11 file metadata is not an observation date. Santa booking provider
+  rendered as a script shell; no availability, fee or sensory adjustments inferred.
+  Do not attach Alabama/South Carolina mall photos. Its linked city photo shows
+  frontage only, not a parking-to-door route.
+- **IKEA West Chester:** loan conditions, continuous floor routes, elevator and
+  toilet features and quiet spaces remain unknown. No reusable matched access photo
+  found. Examined Flickr pages are All rights reserved and were not downloaded.
+  Search-only repainting warning was absent from fresh official HTML; not imported.
+  Fishers changing tables and U.K./India accommodations are not local evidence.
+- **Meijer Florence:** branch, query and tenant pages returned 403 on direct fetch.
+  Current newsroom Aira statement is a lead, not a verified local store record;
+  Fishers-specific adult-changing details must not be imported into Florence.
 
 - **TANK:** November 7, 2026 service notice replaces the Southbank Shuttle and
   Route 16 and expands Plus to Alexandria Walmart/Village Green with a six-mile
