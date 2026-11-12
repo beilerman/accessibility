@@ -2,6 +2,9 @@ import unittest
 
 import json
 import tempfile
+import ssl
+import subprocess
+import urllib.error
 from unittest.mock import patch
 from pathlib import Path
 import check_sources
@@ -53,6 +56,71 @@ class VisibleTextTests(unittest.TestCase):
     def test_mura_chrome_and_nontext_configuration_are_ignored(self):
         page = '<nav><div data-object="text" data-source="Menu changes"></div></nav><div data-object="map" data-source="Map configuration"></div><p>Entrance</p>'
         self.assertEqual(visible_text(page), "Entrance")
+
+
+class FetchTrustTests(unittest.TestCase):
+    URL = "https://official.example/access"
+
+    def tls_error(self):
+        return urllib.error.URLError(ssl.SSLCertVerificationError(1, "unable to get local issuer"))
+
+    def curl_response(self, status=200, final_modified="Last-Modified: today\r\n"):
+        def run(args, **kwargs):
+            self.assertEqual(args[:2], ["curl", "--disable"])
+            self.assertNotIn("--insecure", args)
+            self.assertNotIn("-k", args)
+            self.assertEqual(args[args.index("--proto") + 1], "=https")
+            self.assertEqual(args[args.index("--proto-redir") + 1], "=https")
+            Path(args[args.index("--output") + 1]).write_bytes(b"<p>Ramp at north door</p>")
+            Path(args[args.index("--dump-header") + 1]).write_text(
+                "HTTP/2 301\r\nLast-Modified: old\r\n\r\nHTTP/2 200\r\n" + final_modified
+            )
+            return subprocess.CompletedProcess(args, 0, f"{status}\n{self.URL}/\ntext/html; charset=utf-8", "")
+        return run
+
+    def test_verified_system_fetch_retains_quote_and_final_response_metadata(self):
+        with patch.object(check_sources.urllib.request, "urlopen", side_effect=self.tls_error()), \
+             patch.object(check_sources.subprocess, "run", side_effect=self.curl_response()):
+            result = check_sources.fetch(self.URL)
+        self.assertEqual(result["status"], 200)
+        self.assertEqual(result["final_url"], self.URL + "/")
+        self.assertEqual(result["last_modified"], "today")
+        self.assertIn("Ramp at north door", result["_text"])
+        self.assertEqual(result["sha256"], fingerprint("<p>Ramp at north door</p>"))
+
+    def test_redirect_timestamp_is_not_carried_to_final_page(self):
+        with patch.object(check_sources.urllib.request, "urlopen", side_effect=self.tls_error()), \
+             patch.object(check_sources.subprocess, "run", side_effect=self.curl_response(final_modified="")):
+            self.assertIsNone(check_sources.fetch(self.URL)["last_modified"])
+
+    def test_python_http_blocks_are_not_retried(self):
+        error = urllib.error.HTTPError(self.URL, 403, "Forbidden", {}, None)
+        with patch.object(check_sources.urllib.request, "urlopen", side_effect=error), \
+             patch.object(check_sources.subprocess, "run") as fallback:
+            self.assertEqual(check_sources.fetch(self.URL)["status"], 403)
+            fallback.assert_not_called()
+
+    def test_fallback_http_blocks_remain_blocked(self):
+        with patch.object(check_sources.urllib.request, "urlopen", side_effect=self.tls_error()), \
+             patch.object(check_sources.subprocess, "run", side_effect=self.curl_response(403)):
+            result = check_sources.fetch(self.URL)
+        self.assertEqual(compare({}, {self.URL: result}), {self.URL: "blocked"})
+        self.assertNotIn("_text", result)
+
+    def test_second_tls_failure_or_missing_curl_leaves_source_unavailable(self):
+        for error in [FileNotFoundError("curl unavailable"), subprocess.CalledProcessError(60, ["curl"])]:
+            with self.subTest(error=error), \
+                 patch.object(check_sources.urllib.request, "urlopen", side_effect=self.tls_error()), \
+                 patch.object(check_sources.subprocess, "run", side_effect=error):
+                result = check_sources.fetch(self.URL)
+            self.assertIsNone(result["status"])
+            self.assertIn("verified curl failed", result["error"])
+
+    def test_other_network_errors_do_not_use_fallback(self):
+        with patch.object(check_sources.urllib.request, "urlopen", side_effect=TimeoutError("timed out")), \
+             patch.object(check_sources.subprocess, "run") as fallback:
+            self.assertIsNone(check_sources.fetch(self.URL)["status"])
+            fallback.assert_not_called()
 
 
 class ScriptProseTests(unittest.TestCase):

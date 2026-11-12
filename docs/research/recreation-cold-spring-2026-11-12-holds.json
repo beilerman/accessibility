@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-11-12",
+  "scope": "Four-venue recreation, library and Covington food batch; these are research gaps, not published findings or field observations.",
+  "PriceHill": {
+    "sources": [
+      "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/price-hill/",
+      "https://www.cincinnati-oh.gov/crc/find-a-facility/aquatics-facility/",
+      "https://www.msasport.com/projects/price-hill-recreation-aquatics-center",
+      "https://cincyrec.org/search/facility.aspx?id=92"
+    ],
+    "hold": "A 2020 CityBeat story quotes a legacy CRC ramp/chairlift description. The old facility link now redirects to current CRC pool information, with no chairlift passage. No present lift, transfer-assistance, operating-condition or slide-access claim imported. Center 959 versus pool 933 Hawthorne are separately published destinations, not silently reconciled. The architect account is undated. Two selected March 16, 2019 CC0 images show the historical sidewalk/steps and drained pool/deck/slide stair tower. Third image 78069274 is a redundant wider pool view and was not imported. Ground-level doors, thresholds, toilets and continuous routes still need evidence."
+  },
+  "Oxford": {
+    "sources": [
+      "https://www.cityofoxford.org/departments/parks_recreation/facilities/oxford_aquatic_center.php",
+      "https://www.travelbutlercounty.com/accessible-parks",
+      "https://www.cityofoxford.org/departments/parks_recreation/",
+      "https://online.fliphtml5.com/edkfw/nton/"
+    ],
+    "hold": "City evidence identifies a zero-depth activity pool; the tourism agency lists lift-chairs without identifying pool, model, dimensions, capacity, transfer assistance or current operation. No such details inferred. Current published procedures are for summer 2026. Blanket animal and admission rules do not establish service-animal or caregiver arrangements. No medical-food exception established. Commons searches found no matched reusable access photograph. City-linked winter flipbook has 30 pages in public configuration, but no offered PDF download was established and no full visual walkthrough inspection was completed; no guide entry or republication. Official webpage photographs have no established reuse licence and were not downloaded as separate photos."
+  },
+  "ColdSpring": {
+    "sources": [
+      "https://www.cc-pl.org/wp-content/uploads/2020/07/August-2020-Newsletter-1.pdf",
+      "https://www.cc-pl.org/connections-newsletter",
+      "https://static.libnet.info/frontend-images/pdfs/ccpl/2026_NOV_Newsletter_FINAL-compressed.pdf",
+      "https://www.cc-pl.org/get-a-library-card"
+    ],
+    "hold": "The indexed August 2020 newsletter describing curbless sidewalks and a rebuilt arrival loop returns direct 404; web retrieval also failed. Its parking/arrival claims remain unpublished. Current newsletter page links a working November 2026, 12-page, 581665-byte newsletter (PDF metadata October 26, 2026), inspected for relevant content. It is an event/news publication rather than an access photo walkthrough; no guide imported. November 4 chair yoga is a past event, not a current recurring access accommodation. The January 3, 2027 Ohio card change is now corroborated on current official HTML and is explicitly future-dated in the new note. Digital-card FAQ still lists Ohio eligibility for current use; no 2027 digital eligibility resolution inferred. Commons results for Newport or unrelated Cold Spring libraries were not transferred. Bay placement, doorway controls, toilets and quiet spaces remain unverified."
+  },
+  "Mamas": {
+    "sources": [
+      "https://www.mamasonmain.com/contact",
+      "https://www.mamasonmain.com/private-dining",
+      "https://www.mamasonmain.com/reservations",
+      "https://www.opentable.com/r/mamas-on-main-covington",
+      "https://www.kentuckytourism.com/detail/articles/2025/06/26/experiencing-kentucky-as-a-wheelchair-user"
+    ],
+    "hold": "The state-hosted travel account describes a side entry and front sidewalk tables, without identifying the side door or visit/capture date. It is attributed public-source evidence, not a Threshold team review. Official private-dining page describes a separate Cottage but no route. OpenTable direct fetch fails with curl HTTP/2 error; indexed stair-only rooftop description not imported as a note. Visible contact hours and embedded structured hours differ (4 versus 5); hours were not imported. Commons searches for Mama, 621 Main and Mainstrasse produced other properties including Cock and Bull/Boyd Mansion; no secure matched venue or side-door image selected, no photographs transferred. Toilet layouts, indoor circulation, companion arrangements and current rooftop access remain unknown.",
+    "followup": "A final explicit HTTP/1.1 request also timed out after 35 seconds with zero response bytes (HTTP 000), so rooftop text remains held. The group email-domain website returned 200 but only an under-construction page; it provides no route evidence."
+  },
+  "preservedHolds": "AMC six blocked notes, Central Park partial review, Molly source blocks and hours, all earlier grocery, pool, lift and current-arrival holds remain unchanged. An exploratory all-day evidence sweep encountered the already-held MadTree candidate; it was excluded from the final accepted-delta verification and remains unpublished."
+}

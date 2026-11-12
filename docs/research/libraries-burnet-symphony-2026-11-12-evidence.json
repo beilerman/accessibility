@@ -1,0 +1,669 @@
+[
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://chpl.org/locations/1/",
+        "quote": "Accessible parking is available in a gated parking lot on the north side of 9 th Street. Press the button on the intercom with your handicapped parking placard visible to access the lot. If needed, you may request assistance from Library staff to enter the building.",
+        "kind": "recheck",
+        "note_id": "downtown-main-library.mobility.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://chpl.org/locations/1/",
+        "quote": "The 9th St. entrance is closed. Please enter on Vine St. or Walnut St.",
+        "kind": "recheck",
+        "note_id": "downtown-main-library.mobility.2",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://chpl.org/locations/1/",
+        "quote": "The plaza walls in both the South and North Plazas have been removed and the South Plaza has been lowered to street level",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "",
+        "url": "https://chpl.org/locations/1/",
+        "quote": "A printed version of this map is available free at the Downtown Main Library.",
+        "kind": "recheck",
+        "note_id": "downtown-main-library.cognitive.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://chpl.org/locations/1/",
+        "quote": "map of the Downtown Main Library",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "",
+        "url": "https://chpl.org/accessibility-services/",
+        "quote": "If you are unable to come to the Library or have a question about our accessibility, please call 513-369-6968 (Option 5) or email us at accessibility@chpl.org .",
+        "kind": "recheck",
+        "note_id": "downtown-main-library.cognitive.2",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://chpl.org/accessibility-services/",
+        "quote": "If you need any assistance during your visit to the Library, please notify any staff member.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "",
+        "url": "https://chpl.org/locations/1/",
+        "quote": "Drive-Thru",
+        "kind": "recheck",
+        "note_id": "downtown-main-library.chronic.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "",
+        "url": "https://chpl.org/outreach/",
+        "quote": "We mail library materials throughout Hamilton County for those with medical disabilities.",
+        "kind": "recheck",
+        "note_id": "downtown-main-library.chronic.2",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "The Covington Library has a free parking lot for our visitors. Please note that free parking may not be available at all times, especially during popular events",
+        "kind": "recheck",
+        "note_id": "kenton-county-public-library-covington-branch.mobility.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "Our free parking is available in the lot on the left directly past the library.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "Street meters are free after 4 pm and on weekends.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "TANK bus serves the Covington Library.",
+        "kind": "recheck",
+        "note_id": "kenton-county-public-library-covington-branch.mobility.2",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/homebound/",
+        "quote": "Homebound services are designed to offer library materials and programming to Kenton County residents with a short or long-term disability, or a medical condition that prevents them from visiting the Library .",
+        "kind": "recheck",
+        "note_id": "kenton-county-public-library-covington-branch.chronic.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/homebound/",
+        "quote": "Free deliveries of any available materials are made monthly. This includes books, CDs, audiobooks, DVDs, etc.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "All meeting rooms are accessible and have power outlets.",
+        "kind": "recheck",
+        "note_id": "kenton-county-public-library-covington-branch.mobility.3",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "Library drive-thru closes one hour before the branch.",
+        "kind": "recheck",
+        "note_id": "kenton-county-public-library-covington-branch.chronic.2",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "It includes a children's museum, a handicap-access meeting room for nature education programs and a fishing lake created in 1875.",
+        "kind": "recheck",
+        "note_id": "burnet-woods-trailside-nature-center.mobility.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "These include a glider, a disc swing which can hold a number of children at the same time, and musical instruments. The safety surface of the play area is also accessible. It is covered in engineered wood fibers as are many of our playgrounds. This provides a safe surface while also providing access for mobility devices.",
+        "kind": "recheck",
+        "note_id": "burnet-woods-trailside-nature-center.mobility.2",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "It is near the historic park bandstand and accessed from Clifton Avenue.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Cincinnati Parks says an accessible fishing station was created at the lake. Its 2020 article does not describe the station’s approach, dimensions or current condition.",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "quote": "Burnet Woods – An accessible fishing station was created at the lake.",
+        "kind": "revision",
+        "note_id": "burnet-woods-trailside-nature-center.mobility.3",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The nature-center hours heading says it opens only for scheduled programs, while the same page says Saturday open hours will resume in late summer/early fall without a year or exact times. Confirm with Trailside at 513-751-3679 or 513-321-6070. Wolff Planetarium’s monthly programs require registration.",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "NATURE CENTER HOURS Open only during scheduled programming. Please view the event list below for programming.",
+        "kind": "revision",
+        "note_id": "burnet-woods-trailside-nature-center.cognitive.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Trailside will continue open hours on Saturdays starting back in late summer/early fall.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "For more information on Trailside Nature Center please call 513-751-3679 or 513-321-6070.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Hours: The Planetarium is open for monthly programming. Registration is required.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Burnet Woods Millionaire's Club Restrooms: Out of service for repair.",
+        "kind": "recheck",
+        "note_id": "burnet-woods-trailside-nature-center.chronic.1",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Visitors to the park can find free two hour parking on Brookline Ave. and Burnet Woods Dr. circling the bandstand.",
+        "kind": "recheck",
+        "note_id": "burnet-woods-trailside-nature-center.mobility.4",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "One-hour group tours require at least five visitors and scheduling at least one week ahead. The request form asks about accessibility accommodations; staff follow up with logistics. A request is not a confirmed tour.",
+        "url": "https://chpl.org/about/history/main/downtown-main-library-tours/",
+        "quote": "Tours are available for groups with a minimum of five people.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://chpl.org/about/history/main/downtown-main-library-tours/",
+        "quote": "Please schedule at least one week in advance.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://chpl.org/about/history/main/downtown-main-library-tours/",
+        "quote": "Are there any accessibility accommodations that you may need?",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://chpl.org/about/history/main/downtown-main-library-tours/",
+        "quote": "After filling out the form below, we will reach out to you with details and logistics.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The completed-project description identifies the atrium’s Social Stairs as seating for individuals, groups and events. This does not locate wheelchair spaces or establish an elevator route.",
+        "url": "https://chpl.org/next-generation/main/",
+        "quote": "Upon entering the atrium, an inviting and warm social stair will knit together the Walnut Street and Vine Street entrances while providing a range of seating opportunities for individuals, small groups, and large events.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The project gallery includes photographs of the South Plaza, Social Stairs and first-floor Reading Garden. It also contains design concepts and old construction updates; those are not current arrival instructions.",
+        "url": "https://chpl.org/next-generation/main/",
+        "quote": "The Reading Garden, located on the 1st Floor of the renovated South Building, is now open to the public after the space saw new landscaping.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "downtown-main-library",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://chpl.org/next-generation/main/",
+        "quote": "South Vine Street Plaza Concept - Plans Not Final",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The branch lists an all-day staff-development closure for Friday, November 13, 2026, and Thanksgiving closures November 26–27. Check its current calendar before travelling.",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "Staff Development Day Friday, November 13, 2026 Closed All Day",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "kenton-county-public-library-covington-branch",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.kentonlibrary.org/locations/4",
+        "quote": "Thanksgiving and Friday After Thursday, November 26, 2026 - Friday, November 27, 2026 Closed All Day",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The park page lists public restrooms with an April 15–October 31 season. It does not confirm November availability; the separate Millionaire’s Club repair closure remains posted.",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Public Restrooms: April 15 - October 31",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "There are no restrooms by the Lower Picnic Shelter on Brookline Drive. The Millionaire’s Club shelter has attached restrooms, but the same page separately lists those restrooms out of service for repair.",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "The Lower Picnic Shelter (on Brookline Dr.) is first come, first serve, or can be reserved for large events through the Special Use Permits Office by calling 513-352-6180. There are no restrooms by this shelter.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "The Millionaire's Club Shelter (at the end of Clifftop Dr., above the bandstand) is first come, first serve, restrooms are connected to this shelter.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "An undated notice says a lower portion of the trail named “Bard Owl Trail” on the page is closed because of significant sinkholes. Closure signs are posted; no reopening date or alternative rolling route is given.",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Trail Closure: A lower portion of the Bard Owl Trail in Burnet Woods is closed for safety. Trail closure signs have been placed on-site. Cincinnati Parks Natural Resources and Planning teams have restricted this area due to significant sink holes in the area.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The Valley Shelter area behind Trailside is low-lying and prone to flooding. Parks warns about combined sewer overflows during and after rain and tells visitors to stay out when closure signs are posted.",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "The Burnet Woods Valley behind Trailside Nature Center, where the Valley Shelter resides, is a low-lying area prone to flooding. This location is monitored for Combined Sewer Overflows (CSO's) that can cause harmful bacteria that may discharge during and after rainfall. For your safety, please stay out of this area when closed signs are posted.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The park’s feature list includes paved walkways and benches. It does not identify which paths connect parking, playground, fishing station and nature center, or give slopes and widths.",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Feature Descriptions Benches",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "burnet-woods-trailside-nature-center",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "quote": "Paved Walkways",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "symphony-hotel-bar",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The venue says a ramp serves the main-floor bar and lounge. It does not identify the ramp entrance, door controls or dimensions; call 513-721-3353 to discuss the route.",
+        "url": "https://www.symphonyhotel.com/contact",
+        "quote": "The bar and lounge on the main floor are wheelchair accessible by ramp.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "symphony-hotel-bar",
+    "facts": [
+      {
+        "domain": "",
+        "text": "All guest rooms are upstairs on the second and third floors. The building has no elevator, and rooms require stairs; the bar’s ramp does not establish a route to guest rooms.",
+        "url": "https://www.symphonyhotel.com/contact",
+        "quote": "All guest rooms are on the second and third floors, and the building has no elevator, so reaching the rooms requires stairs.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "symphony-hotel-bar",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The restaurant has closed. The bar still serves drinks and appetizers Wednesday–Sunday and welcomes visitors who are not staying at the hotel, without a reservation.",
+        "url": "https://www.symphonyhotel.com/contact",
+        "quote": "The restaurant has closed, but the bar is very much alive, serving cocktails, wine, beer, and appetizers Wednesday through Sunday.",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "symphony-hotel-bar",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.symphonyhotel.com/contact",
+        "quote": "The bar is open to the public, no reservation needed, walk-ins welcome.",
+        "kind": "supplementary",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "symphony-hotel-bar",
+    "facts": [
+      {
+        "domain": "",
+        "text": "Posted bar hours are Wednesday–Thursday 4–11 p.m., Friday 4 p.m.–midnight, Saturday 3 p.m.–midnight and Sunday 3–11 p.m.; it is closed Monday–Tuesday. Confirm special-event hours before travelling.",
+        "url": "https://www.symphonyhotel.com/bar",
+        "quote": "Monday Closed Tuesday Closed Wednesday 4 pm – 11 pm Thursday 4 pm – 11 pm Friday 4 pm – Midnight Saturday 3 pm – Midnight Sunday 3 pm – 11 pm",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "symphony-hotel-bar",
+    "facts": [
+      {
+        "domain": "",
+        "text": "The bar’s own page describes its setting as “Low light.” Lighting levels, quiet times and communication supports are not specified.",
+        "url": "https://www.symphonyhotel.com/bar",
+        "quote": "The Scene Low light, high notes",
+        "kind": "new",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "slug": "symphony-hotel-bar",
+    "facts": [
+      {
+        "domain": "",
+        "text": "",
+        "url": "https://www.symphonyhotel.com/contact",
+        "quote": "210 W 14th Street Cincinnati, OH 45202",
+        "kind": "address",
+        "verified": true
+      }
+    ]
+  }
+]

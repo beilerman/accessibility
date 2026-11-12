@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-11-12T13:07:10.706988+00:00",
+  "status": "Unpublished research leads; no new notes, listing, source recheck or venue date refresh.",
+  "freshFetches": [
+    {
+      "url": "https://www.sottocincinnati.com/contact/",
+      "status": 200,
+      "finalUrl": "https://www.sottocincinnati.com/contact/"
+    },
+    {
+      "url": "https://thirdeyebrewingco.com/faq/",
+      "status": 200,
+      "finalUrl": "https://thirdeyebrewingco.com/faq/"
+    },
+    {
+      "url": "https://www.bocacincinnati.com/",
+      "status": 200,
+      "finalUrl": "https://www.bocacincinnati.com/"
+    }
+  ],
+  "findings": [
+    {
+      "venue": "Sotto / BOCA",
+      "sources": [
+        "https://www.sottocincinnati.com/",
+        "https://www.sottocincinnati.com/contact/",
+        "https://www.bocacincinnati.com/"
+      ],
+      "finding": "Fresh official pages loaded. Searches of the downloaded root/contact HTML did not locate an entrance/elevator passage. Guessed /faq returned 404; /faqs redirected to the root rather than establishing an FAQ. The often-repeated BOCA elevator route remains unconfirmed by these official sources; no claim imported."
+    },
+    {
+      "venue": "Incline Public House",
+      "source": "https://www.inclinepublichouse.com/",
+      "finding": "Direct official root returned 403. Held for manual browser review; third-party access badges not imported."
+    },
+    {
+      "venue": "Third Eye Brewing",
+      "source": "https://thirdeyebrewingco.com/faq/",
+      "quote": "Our taprooms are handicap accessible but please contact us if you have any specific questions regarding accessibility.",
+      "additionalQuote": "We have ample parking on site at both Sharonville and Hamilton locations.",
+      "finding": "Fresh FAQ publishes a broad two-location label and parking statement, without entrance selection, thresholds, toilet layouts or a continuous route. Preserve as a future location-specific lead; no listing added solely from a broad verdict."
+    }
+  ],
+  "imagerySearches": [
+    {
+      "query": "\"Sotto\" \"Cincinnati\" filetype:bitmap",
+      "returnedCount": 2,
+      "titles": [
+        "File:Edmund blampied, sotto le scale, 1931.jpg",
+        "File:Émile Schuffenecker, la strada sotto gli alberi, 1888 ca.jpg"
+      ]
+    },
+    {
+      "query": "\"Boca\" \"Cincinnati\" filetype:bitmap",
+      "returnedCount": 15,
+      "titles": [
+        "File:DeCamp Joseph Blue Bird.jpg",
+        "File:DeCamp Joseph Jetty at Low Tide aka The Water Pier 1901.jpg",
+        "File:DeCamp Joseph September Afternoon 1895.jpg",
+        "File:DeCamp Joseph The Blue Cup.jpg",
+        "File:DeCamp Joseph The Fur Jacket.jpg",
+        "File:DeCamp Joseph The Kreutzer Sonata.jpg",
+        "File:DeCamp Joseph The Seamstress.jpg",
+        "File:Frank Duveneck by Joseph de Camp.jpg",
+        "File:Joseph De Camp - Sir General Arthur William Currie - 1923.6.6 - Smithsonian American Art Museum.jpg",
+        "File:Joseph Rodefer DeCamp - Josiah Dwight Whitney (1819-1896) - H176 - Harvard Art Museums.jpg",
+        "File:Joseph Rodefer DeCamp - Portrait of Frank Duveneck, c1911-1912 - Cincinnati Art Museum 1912.249.jpg",
+        "File:Joseph Rodefer DeCamp - The Guitar Player, 1908 - Museum of Fine Arts, Boston 08.204.jpg",
+        "File:Reflections arrengement.jpg",
+        "File:Sally, circa 1907, by Joseph DeCamp (1858-1923) - Worcester Art Museum - IMG 7587.JPG",
+        "File:The blue cup de Camp.jpg"
+      ]
+    },
+    {
+      "query": "\"Third Eye Brewing\" filetype:bitmap",
+      "returnedCount": 0,
+      "titles": []
+    },
+    {
+      "query": "\"Incline Public House\" filetype:bitmap",
+      "returnedCount": 3,
+      "titles": [
+        "File:Cincinnati view from the Incline restaurant.jpg",
+        "File:Incline Public House Sign, East Price Hill, Cincinnati, OH (46707050984).jpg",
+        "File:Incline Public House Sign, East Price Hill, Cincinnati, OH (46707053104).jpg"
+      ]
+    }
+  ],
+  "photoOutcome": "No photograph downloaded or imported from these searches; no inspected-guide claim made."
+}

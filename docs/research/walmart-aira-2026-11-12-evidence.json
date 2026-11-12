@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "walmart-supercenter-fort-wright",
+    "facts": [
+      {
+        "domain": "sensory",
+        "text": "Walmart’s Aira guide describes iOS/Android app setup using a phone number (six-digit code) or email sign-in link. It asks for camera, microphone and location permissions, then directs users to Call an Aira Agent.",
+        "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf",
+        "quote": "Download the free Aira App • Download for iOS • Download for Android Step 2: Sign in using your phone number or email. • If you choose phone number, you'll receive a 6-digit code. • If you choose email, you'll get a \"magic link\" to sign in automatically. • Grant the necessary permissions for camera, mic, and location. Step 3: Tap \"Call an Aira Agent\" to be instantly connected."
+      },
+      {
+        "domain": "sensory",
+        "text": "The guide lists help with signs, labels, finding products and using touchscreens. It excludes assistance while crossing a street and inside public restrooms or locker rooms; transfer or carrying assistance is not described.",
+        "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf",
+        "quote": "What Aira Agents Can Help With • Navigating Walmart stores • Reading signs, price tags, and product labels • Finding specific items and the shortest checkout lines • Identifying objects, people, or store layouts • Using touchscreens and other electronic devices What Aira Agents Can't Do • Provide help while crossing a street • Make decisions on your behalf • Assist inside public restrooms or locker rooms • Violate Aira's T erms of Service or share personal information • Oﬀer personal opinions (unless explicitly asked) "
+      },
+      {
+        "domain": "sensory",
+        "text": "The guide lists English and Spanish, with Aira agents available around the clock without reservations. This describes the remote service, not Fort Wright store opening hours.",
+        "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf",
+        "quote": "Is Aira available in multiple languages? Yes-English and Spanish. When is the service available? Aira Agents are available 24/7 /365-no reservations needed. "
+      },
+      {
+        "domain": "cognitive",
+        "text": "For questions or help setting up Aira, the guide lists 1-800-835-1934, text 1-858-242-4457 and support@aira.io. This is Aira support, separate from the local store.",
+        "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf",
+        "quote": "If you have questions or want assistance setting up the app, Aira's team is ready to help: Call: 1-800-835-1934 T ext: 1-858-242-4457 Email: support@aira.io "
+      },
+      {
+        "note_id": "walmart-supercenter-fort-wright.sensory.1",
+        "text": "The Fort Wright store lists sensory-friendly shopping hours every day, 8–10 a.m.",
+        "url": "https://www.walmart.com/store/2967-ft-wright-ky",
+        "quote": "Sensory-friendly hours Enjoy a calmer shopping environment during these hours. Learn more Mon - Sun | 8am - 10am",
+        "kind": "recheck"
+      },
+      {
+        "note_id": "walmart-supercenter-fort-wright.sensory.2",
+        "text": "Walmart describes its U.S. sensory-hours program as using static TV images, turning off the radio and lowering lights where possible. These are program measures, rather than a guarantee of quiet throughout the store.",
+        "url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "quote": "We operate sensory-friendly shopping hours at all U.S. stores from 8 a.m. to 10 a.m. daily. The program creates a less stimulating environment by changing the TV walls to a static image, turning off the radio, and lowering the lights where possible.",
+        "kind": "recheck"
+      },
+      {
+        "note_id": "walmart-supercenter-fort-wright.mobility.1",
+        "text": "Walmart says all U.S. stores provide Caroline’s Carts. The cart has a large seat with a five-point harness facing the person pushing it. The policy does not specify this branch’s collection point or weight limit.",
+        "url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "quote": "All Walmart U.S. stores provide Caroline’s Carts to help caregivers of customers with disabilities navigate the store with a single cart. A Caroline's Cart looks like a typical shopping cart but includes a large seat with a five-point harness that faces the person pushing the cart, alleviating the need for customers to push both a shopping cart and a wheelchair in the store.",
+        "kind": "recheck"
+      },
+      {
+        "note_id": "walmart-supercenter-fort-wright.sensory.3",
+        "text": "Walmart publishes free Aira navigation services for blind and low-vision customers in U.S. stores and online.",
+        "url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "quote": "We launched free navigation services for blind and low-vision customers in our U.S. stores and online through Aira.",
+        "kind": "recheck"
+      },
+      {
+        "note_id": "walmart-supercenter-fort-wright.sensory.4",
+        "text": "Walmart says on-demand sign-language interpretation is available in U.S. stores by scanning a Sorenson QR code at service desks.",
+        "url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "quote": "Customers and associates can access on-demand sign language interpreting in any of our U.S. stores by scanning a QR code at service desks for Sorenson services.",
+        "kind": "recheck"
+      },
+      {
+        "note_id": "walmart-supercenter-fort-wright.mobility.2",
+        "text": "The Fort Wright store lists grocery pickup and delivery. The store page does not describe pickup-space access or assistance arrangements.",
+        "url": "https://www.walmart.com/store/2967-ft-wright-ky",
+        "quote": "Grocery Pickup and Delivery",
+        "kind": "recheck"
+      },
+      {
+        "note_id": "walmart-supercenter-fort-wright.cognitive.1",
+        "text": "The store is at 3450 Valley Plaza Parkway. Call 859-341-7900 to discuss a visit and confirm available support.",
+        "url": "https://www.walmart.com/store/2967-ft-wright-ky",
+        "quote": "Give us a call at 859-341-7900 and one of our friendly and knowledgeable associates will be happy to help you out.",
+        "kind": "recheck"
+      }
+    ]
+  }
+]

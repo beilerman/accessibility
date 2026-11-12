@@ -11,6 +11,280 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("adds CVG arrival preparation without promising a particular vehicle or shuttle wait", () => {
+    const slug = "cincinnati-northern-kentucky-international-airport-cvg";
+    expect(place(slug).checked_at).toBe("2026-11-12");
+    expect(text(slug)).toMatch(/cash is not accepted/);
+    expect(text(slug)).toMatch(/not guaranteed waits or a device-fit assessment/);
+    expect(text(slug)).toMatch(/Ride A WAV Cincy/);
+    expect(text(slug)).toMatch(/separate from the Terminal curbfront/);
+    expect(text(slug)).toMatch(/tactile cues for silent indoor navigation/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("keeps Walmart visual interpretation limits separate from local physical assistance", () => {
+    const slug = "walmart-supercenter-fort-wright";
+    expect(place(slug).checked_at).toBe("2026-11-12");
+    expect(text(slug)).toMatch(/excludes assistance while crossing a street and inside public restrooms/);
+    expect(text(slug)).toMatch(/transfer or carrying assistance is not described/);
+    expect(text(slug)).toMatch(/remote service, not Fort Wright store opening hours/);
+    expect(place(slug).limitations).toMatch(/rather than observations at this branch/);
+  });
+  it("finds OTR dining with table-versus-stool choices and an email booking alternative", () => {
+    const slug = "nolia-kitchen";
+    expect(findPlaces({ category: "Food & drink", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("1405 Clay Street, Cincinnati, OH 45202");
+    expect(text(slug)).toMatch(/dining room has tables for up to 26/);
+    expect(text(slug)).toMatch(/back bar seats eight on stools/);
+    expect(text(slug)).toMatch(/email hello@noliakitchen.com/);
+    expect(place(slug).limitations).toMatch(/does not establish a continuous step-free route/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Campbell County parks while keeping repair closures and winter toilets explicit", () => {
+    const found = findPlaces({ category: "Parks & outdoors", region: "KY" }).map((p) => p.slug);
+    expect(found).toEqual(expect.arrayContaining(["aj-jolly-park", "pendery-park"]));
+    expect(place("aj-jolly-park").address).toBe("1501 Race Track Road, Alexandria, KY 41001");
+    expect(text("aj-jolly-park")).toMatch(/closes camping and lake access/);
+    expect(text("aj-jolly-park")).toMatch(/including to pedestrians/);
+    expect(text("aj-jolly-park")).toMatch(/bathrooms are closed and portable toilets available/);
+    expect(place("pendery-park").address).toBe("4113 Williams Lane, Melbourne, KY 41059");
+    expect(text("pendery-park")).toMatch(/railroad tracks/);
+    expect(text("pendery-park")).toMatch(/lists five picnic shelters/);
+    expect(text("pendery-park")).toMatch(/separate rental page lists four/);
+    for (const slug of ["aj-jolly-park", "pendery-park"]) {
+      expect(place(slug).limitations).toContain("no on-site audit");
+      expect(place(slug).observed_at).toBeNull();
+    }
+  });
+  it("finds Queensgate yoga without treating a ramp and elevator as measured end-to-end access", () => {
+    const slug = "moon-bridge-yoga";
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("516 Linn Street, Suite 416, Cincinnati, OH 45203");
+    expect(text(slug)).toMatch(/Lot B.*elevator through the front door/);
+    expect(text(slug)).toMatch(/narrow hallway/);
+    expect(text(slug)).toMatch(/shared bathroom/);
+    expect(place(slug).limitations).toMatch(/No medical suitability or ability to assist transfers is inferred/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("preserves Washington Park charging conditions and children's restroom restrictions after full review", () => {
+    const p = place("washington-park");
+    expect(p.checked_at).toBe("2026-11-12");
+    expect(text(p.slug)).toMatch(/power is not guaranteed/);
+    expect(text(p.slug)).toMatch(/only for children and parents using the playground/);
+    expect(text(p.slug)).toMatch(/Porch’s schedule, separate from park opening hours/);
+    expect(p.facts.filter((f) => f.history.some((h) => h.action === "revised"))).toHaveLength(3);
+    expect(p.observed_at).toBeNull();
+  });
+  it("finds Burlington dining with a first-floor request and the no-elevator barrier", () => {
+    const slug = "tousey-house-tavern";
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("5963 North Jefferson Street, Burlington, KY 41005");
+    expect(text(slug)).toMatch(/upstairs and downstairs and no elevator/);
+    expect(text(slug)).toMatch(/request is not confirmation/);
+    expect(place(slug).limitations).toMatch(/no on-site audit/);
+    expect(place(slug).limitations).toMatch(/not today’s visitor entrance/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Blue Ash recreation while separating pool entry from floor and transfer routes", () => {
+    const slug = "blue-ash-recreation-center";
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("4433 Cooper Road, Blue Ash, OH 45242");
+    expect(text(slug)).toMatch(/second floor.*does not describe an elevator route/);
+    expect(text(slug)).toMatch(/state verification of disability status/);
+    expect(text(slug)).toMatch(/notice does not confirm completion/);
+    expect(place(slug).limitations).toContain("no on-site audit");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("preserves Sharonville lift assistance limits and in-person membership requirements", () => {
+    const slug = "sharonville-community-center-aquatic-center";
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("10990 Thornview Drive, Sharonville, OH 45241");
+    expect(text(slug)).toMatch(/staff demonstrate equipment but are not permitted to lift people/);
+    expect(text(slug)).toMatch(/online purchase is unavailable/);
+    expect(text(slug)).toMatch(/past seasonal schedule, not November/);
+    expect(place(slug).limitations).toContain("no on-site audit");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Covington dining with attributed side-entry evidence and held rooftop claims", () => {
+    const slug = "mamas-on-main";
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("621 Main Street, Covington, KY 41011");
+    expect(text(slug)).toMatch(/wheelchair-travel account published by Kentucky Tourism/);
+    expect(place(slug).limitations).toMatch(/not a Threshold team visit/);
+    expect(place(slug).limitations).toMatch(/stair-only rooftop description remains held/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds seasonal recreation while preserving entrance, lift and program limits", () => {
+    const found = findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug);
+    expect(found).toContain("price-hill-recreation-center-dempsey-pool");
+    expect(found).toContain("oxford-aquatic-center");
+    expect(place("price-hill-recreation-center-dempsey-pool").address).toBe("959 Hawthorne Avenue, Cincinnati, OH 45205");
+    expect(text("price-hill-recreation-center-dempsey-pool")).toMatch(/933 Hawthorne Avenue/);
+    expect(text("price-hill-recreation-center-dempsey-pool")).toMatch(/summer 2026 dates, not November/);
+    expect(text("price-hill-recreation-center-dempsey-pool")).toMatch(/systemwide request process/);
+    expect(text("oxford-aquatic-center")).toMatch(/Confirm which pool has a lift/);
+    expect(text("oxford-aquatic-center")).toMatch(/photo can be taken at the Aquatic Center front desk/);
+    expect(text("oxford-aquatic-center")).toMatch(/even for guests who are not swimming/);
+    for (const slug of ["price-hill-recreation-center-dempsey-pool", "oxford-aquatic-center"]) {
+      expect(place(slug).limitations).toContain("no on-site audit");
+      expect(place(slug).observed_at).toBeNull();
+    }
+  });
+  it("preserves Cold Spring vehicle-only delivery and unanswered-call instructions", () => {
+    const all = text("campbell-county-public-library-cold-spring-branch");
+    expect(all).toMatch(/do not leave voicemail/);
+    expect(all).toMatch(/Staff deliver only to vehicles in designated spaces/);
+    expect(all).toMatch(/January 3, 2027.*Easy Access Card/);
+    expect(all).toMatch(/Digital cards need annual renewal/);
+  });
+  it("finds recycling services with rear-lot directions and non-QR check-in", () => {
+    const slug = "cincinnati-recycling-reuse-hub";
+    expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("911 Evans Street, Cincinnati, OH 45204");
+    expect(text(slug)).toMatch(/Woodrow Street behind the building/);
+    expect(text(slug)).toMatch(/QR code, phone number or email address/);
+    expect(text(slug)).toMatch(/does not mean merchandise is free/);
+    expect(place(slug).limitations).toMatch(/predates the 2026 Hub Club program/);
+    expect(place(slug).limitations).toMatch(/no on-site audit/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Golden Lamb dining while preserving upstairs and historic-lift limits", () => {
+    const slug = "golden-lamb";
+    expect(findPlaces({ category: "Food & drink", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("27 S. Broadway, Lebanon, OH 45036");
+    expect(text(slug)).toMatch(/Buckeye Room/);
+    expect(text(slug)).toMatch(/second, third and fourth floors with no elevator/);
+    expect(text(slug)).toMatch(/call 513-932-5065 from the car/);
+    expect(place(slug).limitations).toMatch(/not evidence of completion/);
+    expect(place(slug).limitations).toMatch(/no on-site audit/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("keeps TANK Senior Transportation eligibility, fares and trip restrictions separate", () => {
+    const all = text("tank-transit-authority-of-northern-kentucky");
+    expect(all).toMatch(/at least 67.*photo ID on every ride/);
+    expect(all).toMatch(/Recreation and social trips are excluded/);
+    expect(all).toMatch(/\$8 one-way fare, payable only in cash/);
+    expect(all).toMatch(/Booking-office hours differ from the program’s travel hours/);
+  });
+  it("finds Newport grocery pickup with local collection limits and product exclusions", () => {
+    const slug = "fresh-thyme-market-newport";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("82A Carothers Road, Newport, KY 41071");
+    expect(text(slug)).toMatch(/create a loyalty account/);
+    expect(text(slug)).toMatch(/excludes alcohol from pickup/);
+    expect(place(slug).limitations).toMatch(/do not establish curbside delivery to a vehicle/);
+    expect(place(slug).limitations).toMatch(/no on-site audit/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds the courthouse while keeping juror amenities separate from public access", () => {
+    const slug = "hamilton-county-courthouse";
+    expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("1000 Main Street, Cincinnati, OH 45202");
+    expect(text(slug)).toMatch(/juror amenity, not a confirmed quiet room for every courthouse visitor/);
+    expect(text(slug)).toMatch(/Room 468/);
+    expect(text(slug)).toMatch(/not at a ground-floor walk-up kiosk/);
+    expect(place(slug).limitations).toMatch(/exact step-free street doorway/);
+    expect(place(slug).limitations).toMatch(/no on-site audit/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("preserves Erlanger’s routine curbside restriction and construction exception", () => {
+    const slug = "kenton-county-public-library-erlanger-branch";
+    expect(text(slug)).toMatch(/does not offer regular curbside pickup/);
+    expect(text(slug)).toMatch(/staff will bring items out to your vehicle/);
+    expect(text(slug)).toMatch(/telescopes through the drive-through/);
+    expect(place(slug).limitations).toMatch(/July and August without a year/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Florence warehouse shopping while preserving local equipment and pickup barriers", () => {
+    const slug = "sams-club-florence";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("4949 Houston Road, Florence, KY 41042");
+    expect(text(slug)).toMatch(/some also offer manual wheelchairs/);
+    expect(text(slug)).toMatch(/Additional Pickup Person/);
+    expect(text(slug)).toMatch(/wait exceeding ten minutes.*inside/);
+    expect(text(slug)).toMatch(/live chat daily, 7 a.m.–11 p.m. Central time/);
+    expect(text(slug)).toMatch(/not Florence’s hearing-equipment inventory or a confirmed curbside check-in alternative/);
+    expect(place(slug).limitations).toMatch(/phone-only check-in alternative/);
+    expect(place(slug).limitations).toMatch(/U.S. chain policies/);
+    expect(place(slug).limitations).toMatch(/no on-site audit/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds civic services and indoor swimming without implying a complete entrance or transfer route", () => {
+    expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain("cincinnati-city-hall");
+    expect(place("cincinnati-city-hall").address).toBe("801 Plum Street, Cincinnati, OH 45202");
+    expect(text("cincinnati-city-hall")).toMatch(/elevator to floor four/);
+    expect(place("cincinnati-city-hall").limitations).toMatch(/8:30 a.m..*8 a.m./);
+    expect(place("cincinnati-city-hall").limitations).toMatch(/step-free street entrance/);
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("mt-auburn-indoor-pool");
+    expect(place("mt-auburn-indoor-pool").address).toBe("2034 Young Street, Cincinnati, OH 45219");
+    expect(text("mt-auburn-indoor-pool")).toMatch(/indoor, year-round warm-water pool/);
+    expect(place("mt-auburn-indoor-pool").limitations).toMatch(/transfer methods.*remain unverified/);
+    expect(place("mt-auburn-indoor-pool").limitations).toMatch(/5545 Belmont Avenue.*2034 Young Street/);
+    for (const slug of ["cincinnati-city-hall", "mt-auburn-indoor-pool"]) {
+      expect(place(slug).limitations).toMatch(/no on-site audit/);
+      expect(place(slug).observed_at).toBeNull();
+    }
+  });
+  it("keeps Independence's pickup exceptions and closure conflict visible", () => {
+    const slug = "kenton-county-public-library-independence-branch";
+    expect(text(slug)).toMatch(/telescope rule/);
+    expect(text(slug)).toMatch(/three days/);
+    expect(text(slug)).toMatch(/one-hour-early exception is specifically for Erlanger/);
+    expect(place(slug).limitations).toMatch(/all-day staff-development closure.*used-book sale/);
+    expect(place(slug).limitations).toMatch(/family-assisted restrooms/);
+  });
+  it("keeps partial arboretum review dates and conflicting Greenway distances visible", () => {
+    const arboretum = place("central-park-boone-county-arboretum");
+    const woodlandNote = arboretum.facts.find((f) => f.id === `${arboretum.slug}.mobility.2`)!;
+    expect(arboretum.checked_at <= woodlandNote.retrieved_at).toBe(true);
+    expect(text("central-park-boone-county-arboretum")).toMatch(/seasonal water availability/);
+    expect(text("licking-river-greenway-trails")).toMatch(/upper-levee paved trail/);
+    expect(place("licking-river-greenway-trails").limitations).toMatch(/lengths remain unresolved/);
+  });
+  it("finds Monroe shopping and Latonia library with equipment and route limits", () => {
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain("cincinnati-premium-outlets");
+    expect(text("cincinnati-premium-outlets")).toMatch(/Suite 400/);
+    expect(text("cincinnati-premium-outlets")).toMatch(/closed Saturday–Sunday/);
+    expect(place("cincinnati-premium-outlets").limitations).toMatch(/weekend or evening borrowing and returns are unverified/);
+    expect(findPlaces({ category: "Libraries", region: "KY" }).map((p) => p.slug)).toContain("kenton-county-public-library-latonia-branch");
+    expect(place("kenton-county-public-library-latonia-branch").address).toBe("3911 Winston Ave., Covington, KY 41015");
+    expect(place("kenton-county-public-library-latonia-branch").limitations).toMatch(/not a verified current bus route/);
+    expect(place("kenton-county-public-library-latonia-branch").limitations).toMatch(/date discrepancy remains unresolved/);
+    for (const slug of ["cincinnati-premium-outlets", "kenton-county-public-library-latonia-branch"]) {
+      expect(place(slug).observed_at).toBeNull();
+      expect(place(slug).limitations).toMatch(/no on-site audit/);
+    }
+  });
+  it("finds the Symphony bar while separating its ramp from stair-only hotel rooms", () => {
+    expect(findPlaces({ category: "Food & drink", region: "OH" }).map((p) => p.slug)).toContain("symphony-hotel-bar");
+    expect(place("symphony-hotel-bar").address).toBe("210 W 14th Street, Cincinnati, OH 45202");
+    expect(text("symphony-hotel-bar")).toMatch(/ramp serves the main-floor bar/);
+    expect(text("symphony-hotel-bar")).toMatch(/no elevator/);
+    expect(text("symphony-hotel-bar")).toMatch(/restaurant has closed/);
+    expect(place("symphony-hotel-bar").limitations).toMatch(/no on-site audit/);
+    expect(place("symphony-hotel-bar").observed_at).toBeNull();
+    expect(text("burnet-woods-trailside-nature-center")).toMatch(/April 15–October 31/);
+    expect(text("burnet-woods-trailside-nature-center")).toMatch(/significant sinkholes/);
+    expect(text("burnet-woods-trailside-nature-center")).toMatch(/same page says Saturday open hours/);
+  });
+  it("discovers public services and recreation while preserving construction and seasonal limits", () => {
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center"]);
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("uc-campus-recreation-center");
+    expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toContain("dunham-recreation-complex");
+    expect(place("kenton-county-government-center").address).toBe("1840 Simon Kenton Way, Covington, KY 41011");
+    expect(text("kenton-county-government-center")).toMatch(/vehicle-lot instruction/);
+    expect(place("kenton-county-government-center").limitations).toMatch(/not a verified reopening/);
+    expect(place("uc-campus-recreation-center").address).toBe("2820 Bearcat Way, Cincinnati, OH 45219");
+    expect(place("uc-campus-recreation-center").limitations).toMatch(/2840 Bearcat Way/);
+    expect(text("uc-campus-recreation-center")).toMatch(/zero-depth entry/);
+    expect(place("uc-campus-recreation-center").limitations).toMatch(/not the zero-depth leisure pool/);
+    expect(text("dunham-recreation-complex")).toMatch(/August 8 season closing date/);
+    expect(place("dunham-recreation-complex").limitations).toMatch(/not a November opening or a 2027 schedule/);
+    for (const slug of ["kenton-county-government-center", "uc-campus-recreation-center", "dunham-recreation-complex"]) {
+      expect(place(slug).limitations).toMatch(/no on-site audit/);
+      expect(place(slug).observed_at).toBeNull();
+    }
+  });
+
   it("finds Covington food and Kenwood recreation with their branch-specific limits", () => {
     expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain("galaxie-covington");
     expect(findPlaces({ category: "Museums & attractions", region: "OH" }).map((p) => p.slug)).toContain("brkthrough-cincinnati-kenwood");
@@ -233,7 +507,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
-      "findlay-market", "galaxie-covington", "hofbrauhaus-newport", "jungle-jims-fairfield", "molly-malones-covington", "rhinegeist-brewery", "smoke-justis",
+      "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "nolia-kitchen", "rhinegeist-brewery", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
     ]);
     const art = artForCategory("Food & drink")!;
     expect(art.alt).toMatch(/^AI artwork/);

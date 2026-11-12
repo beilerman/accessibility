@@ -17,7 +17,9 @@ a changed page is judged by whether that passage is still there, not by the
 page hash alone: SUPPORTED needs no action, QUOTE_MISSING names the notes to
 re-read.
 
-Run from the repository root. Standard library only.
+Run from the repository root. HTML monitoring uses the standard library.
+Text PDFs use pypdf from requirements.txt when installed. Without it, PDF byte
+changes still trigger a whole-document review; quotes cannot be confirmed.
 """
 
 from __future__ import annotations
@@ -26,9 +28,13 @@ import argparse
 import datetime as dt
 import hashlib
 import html as html_lib
+import io
 import json
 import re
+import ssl
+import subprocess
 import sys
+import tempfile
 import urllib.error
 import urllib.request
 from html.parser import HTMLParser
@@ -220,24 +226,115 @@ def uncovered(places: list[dict], snapshot: dict[str, dict]) -> list[str]:
     return sorted(urls - set(snapshot))
 
 
+def page_result(body: str, status: int, final_url: str, last_modified=None) -> dict:
+    return {
+        "status": status,
+        "final_url": final_url,
+        "last_modified": last_modified,
+        "sha256": fingerprint(body),
+        "fingerprint_version": FINGERPRINT_VERSION,
+        "chars": len(visible_text(body)),
+        # In memory only (dropped before the snapshot is written).
+        "_text": quote_text(body),
+    }
+
+
+MAX_PDF_BYTES = 10 * 1024 * 1024
+MAX_PDF_PAGES = 150
+
+
+def response_result(data: bytes, content_type: str, status: int, final_url: str,
+                    last_modified=None, encoding="utf-8") -> dict:
+    """Keep HTML behavior, and monitor PDFs without treating binary as prose.
+
+    PDF hashes deliberately cover the original bytes on every machine. A
+    standard-library-only monitor can therefore detect changes too. Extraction
+    errors, scans and missing pypdf leave no matching text: an editor must review
+    the document, and no quote is invented or inferred from pictures.
+    """
+    if "application/pdf" not in content_type.lower() and not data.lstrip().startswith(b"%PDF-"):
+        return page_result(data.decode(encoding, "replace"), status, final_url, last_modified)
+    if len(data) > MAX_PDF_BYTES:
+        return {"status": None, "error": "PDF exceeds the 10 MiB review limit"}
+    result = {
+        "status": status, "final_url": final_url, "last_modified": last_modified,
+        "sha256": hashlib.sha256(data).hexdigest(),
+        "fingerprint_version": "pdf-bytes-1", "format": "pdf", "chars": 0,
+    }
+    try:
+        from pypdf import PdfReader
+        reader = PdfReader(io.BytesIO(data))
+        if reader.is_encrypted:
+            raise ValueError("Encrypted PDF requires manual review")
+        result["pages"] = len(reader.pages)
+        if len(reader.pages) > MAX_PDF_PAGES:
+            raise ValueError("PDF exceeds the 150-page review limit")
+        parts = []
+        for page in reader.pages:
+            contents = page.get_contents()
+            if contents is not None and len(contents.get_data()) > MAX_PDF_BYTES:
+                raise ValueError("PDF page content exceeds the 10 MiB review limit")
+            parts.append(page.extract_text() or "")
+        text = quote_text("\n".join(parts)).strip()
+        if not text:
+            raise ValueError("PDF has no extractable text; manual visual review required")
+        result.update(chars=len(text), _text=text)
+    except Exception as error:
+        result["text_extraction_error"] = f"{type(error).__name__}: {error}"
+    return result
+
+
+def fetch_with_curl(url: str, timeout: float) -> dict:
+    """Try the system TLS trust implementation after Python rejects a chain.
+
+    Certificate verification stays enabled. This does not retry HTTP blocks or
+    permit an HTTPS redirect to plaintext HTTP. Missing curl or a second TLS
+    failure leaves the source unavailable.
+    """
+    with tempfile.TemporaryDirectory(prefix="threshold-source-") as temporary:
+        body_path = Path(temporary) / "body"
+        headers_path = Path(temporary) / "headers"
+        response = subprocess.run(
+            ["curl", "--disable", "--silent", "--show-error", "--location",
+             "--proto", "=https", "--proto-redir", "=https",
+             "--max-time", str(timeout), "--max-filesize", "10485760",
+             "--user-agent", USER_AGENT, "--dump-header", str(headers_path),
+             "--output", str(body_path),
+             "--write-out", "%{http_code}\n%{url_effective}\n%{content_type}", url],
+            check=True, capture_output=True, text=True, timeout=timeout + 5,
+        )
+        code, final_url, content_type = response.stdout.split("\n", 2)
+        status = int(code)
+        if not 200 <= status < 400:
+            return {"status": status, "error": f"HTTP {status}", "transport": "curl_tls_verified"}
+        charset = re.search(r"charset\s*=\s*([^;\s]+)", content_type, re.I)
+        encoding = charset.group(1).strip('"\'') if charset else "utf-8"
+        headers = headers_path.read_text(errors="replace")
+        final_headers = re.split(r"\n\s*\n", headers.strip())[-1]
+        modified = re.findall(r"^last-modified:\s*(.+)$", final_headers, re.I | re.M)
+        result = response_result(body_path.read_bytes(), content_type, status, final_url,
+                                 modified[-1].strip() if modified else None, encoding)
+        result["transport"] = "curl_tls_verified"
+        return result
+
+
 def fetch(url: str, timeout: float = 30) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
-            body = resp.read().decode(resp.headers.get_content_charset() or "utf-8", "replace")
-            return {
-                "status": resp.status,
-                "final_url": resp.geturl(),
-                "last_modified": resp.headers.get("Last-Modified"),
-                "sha256": fingerprint(body),
-                "fingerprint_version": FINGERPRINT_VERSION,
-                "chars": len(visible_text(body)),
-                # In memory only (dropped before the snapshot is written).
-                "_text": quote_text(body),
-            }
+            content_type = resp.headers.get("Content-Type", "")
+            body = resp.read(MAX_PDF_BYTES + 1) if "application/pdf" in content_type.lower() else resp.read()
+            return response_result(body, content_type, resp.status, resp.geturl(),
+                                   resp.headers.get("Last-Modified"), resp.headers.get_content_charset() or "utf-8")
     except urllib.error.HTTPError as e:
         return {"status": e.code, "error": str(e.reason)}
     except Exception as e:  # network, TLS, timeout
+        reason = e.reason if isinstance(e, urllib.error.URLError) else e
+        if isinstance(reason, ssl.SSLCertVerificationError) and url.startswith("https://"):
+            try:
+                return fetch_with_curl(url, timeout)
+            except Exception as fallback_error:
+                return {"status": None, "error": f"{type(e).__name__}: {e}; verified curl failed: {fallback_error}"}
         return {"status": None, "error": f"{type(e).__name__}: {e}"}
 
 

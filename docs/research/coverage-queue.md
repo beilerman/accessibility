@@ -1,15 +1,16 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after the Covington/Kenwood/Middleton and Newport food batches.
+Updated November 12, 2026, after Campbell County, Queensgate, OTR, Walmart and CVG follow-up.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Breadth
 
-The prepared catalog has 114 places. Its categories contain 32 arts venues,
-28 parks, 21 museums/attractions, 14 libraries, five transport entries, seven
-food/drink venues and seven shopping destinations. Use this distribution to seek
-more evidence for everyday activities and less represented types of places.
+The prepared catalog has 137 places. Its categories contain 32 arts venues,
+31 parks/recreation complexes, 21 museums/attractions, 15 libraries, five transport
+entries, twelve food/drink venues, ten shopping destinations, four public-service
+listings and seven recreation/fitness listings. Continue seeking concrete access
+information for everyday activities and less represented neighborhoods/types.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
 shopping and groceries, food venues, transport and arrival connections, public
@@ -34,6 +35,254 @@ For each venue investigated, pursue specific evidence on the following topics.
 Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
+
+## Latest completed batch — November 12 Campbell County, Queensgate and OTR
+
+See [report and next actions](campbell-queensgate-washington-2026-11-12.md), plus
+its validation/media/holds receipts and the Nolia/Walmart/CVG evidence files.
+Prepared for runner tests and atomic pushes, not deployed.
+
+- **New venues:** AJ Jolly Park (13 notes), Pendery Park (seven), Moon Bridge Yoga
+  (eight), Nolia Kitchen (five). **Depth:** Washington Park (four), Fort Wright
+  Walmart (four), CVG (six). **47 new notes**. AJ closure scope is resolved from
+  the current county repair notice; winter toilets and historical work stay
+  qualified. Pendery's railroad crossing and shelter-count conflict, Moon Bridge's
+  narrow hallway, Nolia's tables/stools and online-booking alternative are explicit.
+- **Freshness:** Washington Park, Walmart and CVG fully checked: 32 old notes,
+  29 confirmed/three revised. Washington charging conditions and playground toilet
+  restrictions corrected. Bogart's replacement parking wording still supports its
+  unchanged note; quote/history updated, not another full review. No new partial
+  old-note review. Weekly target already met; repeat November 11 Walmart/CVG reads
+  must not inflate unique weekly progress.
+- **Imagery:** two full-frame Washington photos (2019 paving/benches/curb/tracks,
+  CC0; 2012 green-lit water jets, CC BY-SA 2.0). Twenty-one candidate frames
+  inspected; twenty pending photo outputs/provenance reviewed. Four pending distinct
+  guide documents freshly checked and visually inspected. No new guide entry.
+- **Combined pending:** 23 new venues, 256 notes, eight old revisions; fourteen full
+  existing-venue reviews, one partial old-note review (Central Park), one source-only
+  depth review (TANK). The previous “two partial” grouped those different scopes.
+  Twenty photo entries (nineteen new captures/one reused), seven guide entries/four
+  new distinct documents. Totals: 137 venues, 1,178 active notes, 732 quotes,
+  36 photos, 17 guide entries/thirteen documents.
+- **Validation:** 464 fresh supporting checks/137 sources, no unresolved misses;
+  three Sam's Club DNS failures resolved by fresh TLS-verified retries matching
+  all eight passages. 84 unit/61 Python tests, types, lint, build, preservation and
+  81 final-build HTTP checks pass. **120 browser tests listed, not passed**;
+  Chromium fails before navigation with macOS permission denial 1100. Runner browser
+  validation is required before publication writes. No open Source monitor issue.
+
+**Next concrete batch:** NKY grocery loan/collection points and current arrival
+photographs, Tousey's first-floor door/parking/toilets, Government Center pedestrian
+construction connections, Pendery crossing/nature-trail completion and AJ Jolly's
+actual winter toilets and open playground approach. Nolia needs entrance/table/toilet
+specifics; Moon Bridge needs ramp-to-elevator-to-suite clearances and class supports.
+CVG needs actual shelter/bay boarding images and device/vehicle arrangements.
+
+**New holds:** Riverside's research pages work but monitor requests are 403; its
+three CC0 low-table/cushion photos are October 2019, before the 2020 expansion.
+ALDI Newport's new `f560` locator renders a script shell. Levee sources are 403;
+its inspected elevator-building frame cuts off the doorway and other views lack a
+complete connection. Nolia has no matched reusable photo. County old egov minutes
+are 404 but the current meeting index supplies the working 2024 minutes. County maps
+and the text-only Aira PDF are not photo walkthroughs. CVG planned modernization
+and media-only parking instructions are not current passenger route evidence.
+
+## Earlier completed batch — November 12 north-suburb recreation and Burlington dining
+
+See the [current research report](sharonville-blue-ash-grocery-nature-2026-11-12.md)
+and its validation, evidence, media and holds receipts. All unfinished edits reviewed
+against the publication base; runner owns publication and deployment.
+
+- **New coverage:** Blue Ash Recreation Center (11 notes), Sharonville Community
+  Center & Family Aquatic Center (12), Tousey House Tavern, Burlington (three).
+  **Depth:** Jungle Jim’s Fairfield (four) and Rowe Woods (eight): **38 new notes**.
+  Sharonville staff demonstrate equipment but do not lift people; guest-ID age
+  thresholds differ. Tousey explicitly has no elevator and offers first-floor table
+  requests; its intended step-free doorway and toilets remain unknown. Blue Ash’s
+  repair forecast is not a completion receipt or elevator-route confirmation.
+- **Freshness:** two full existing-venue reviews, 13 old notes confirmed and one
+  Rowe Woods admission note revised. No new partial review. Jungle Jim’s repeats
+  a November 11 full review and must not inflate unique weekly progress. The
+  prior 29/8 target was already met; Rowe Woods adds one venue to that prior log.
+- **Imagery:** four full-frame licensed photos: 2003 grocery aisle, October 2026
+  cabin floor/doorways, and two July 2020 Tousey steps/side-paving views. One city
+  guide link adds a small banked-track photograph (Summer 2026, 28 pages/4.6 MB).
+  No continuous route, current lift operation or measured clearance inferred.
+- **Research support:** text-PDF quote checks and byte-change monitoring, with
+  seven regressions; no OCR, framework, scheduler or hosting change. Use the
+  provided Python environment. A parser-free monitor still detects changed PDF
+  bytes and requires manual document review.
+- **Combined pending:** **19 new venues, 209 notes, five old revisions, 11 full/two
+  partial existing-venue reviews, 18 photo entries** (17 new captures/one reused),
+  **seven guide entries/four newly linked documents**. Totals: **133 venues,
+  1,131 active notes, 680 quotes, 34 photos, 17 guide entries/thirteen documents**.
+- **Validation:** 373 fresh checks/109 official sources, no misses; 18 fresh photo
+  provenance checks; 78 unit/61 Python tests, types, lint, build and 71 local HTTP
+  checks pass. Preservation audit passes. **116 browser tests listed, not passed**:
+  Chromium launch denied by macOS (1100), browser host unavailable. Runner browser
+  validation is required before publication writes.
+
+**Next concrete batch:** put Northern Kentucky everyday arrival routes/photos first:
+Tousey’s first-floor visitor door, parking approach and toilets; public-service
+construction connections and grocery cart/collection points. Deepen Sharonville
+lift operation/caregiver arrangements and toilets, Blue Ash’s elevator and repair
+completion, Jungle Jim’s Giraffe/Rhino equipment-collection/return, and Rowe Woods
+cabin thresholds/winter-route assistance.
+
+**New limits/leads:** Jungle Jim’s map URL says June 2021 but the inspected PDF
+has an August 2026 embedded title and 2026 printed copyright; it is a diagram.
+Rowe Woods’s winter-event trail has an incline and uneven/unpaved ground and
+requires help, separate from its daytime Discovery Trail label. A June heading and
+November hours section coexist; easy-distance criteria also differ from Upland’s
+rating. Sharonville’s 2023 report is fresh 404 and Gower/Upper Grove renderings are
+plans. Tousey’s initial hold was resolved by its official reservation page; seven
+extra inspected photos remain duplicative, and the Indiana Vance–Tousey property
+is unrelated. Keep all earlier holds and partial-review dates.
+
+## Earlier completed batch — November 12 recreation and Covington dining
+
+Reviewed all recovered edits, then investigated four venues. See
+[recreation, Cold Spring and Covington report](recreation-cold-spring-2026-11-12.md),
+its superseding validation receipt, evidence, media and holds. Prepared for runner
+validation; no agent Git writes or deployment.
+
+- **New coverage:** Price Hill Recreation Center/Dempsey Pool (eight notes), Oxford
+  Aquatic Center (ten), Mama’s on Main, Covington (three). **Depth:** seven Cold
+  Spring library notes. **28 new notes**, with seasonal, source and route limits.
+- **Freshness:** all four prior Cold Spring notes confirmed; one full existing-
+  venue review, no new partial review. Recorded weekly full reviews **29/8**.
+  AMC, Central Park and Molly holds/full-review dates preserved.
+- **Imagery:** two full-frame March 16, 2019 Price Hill photographs, Warren LeMay,
+  CC0: street sidewalk/separate steps and drained pool/deck seating/slide stairs.
+  No current lift or complete step-free connection inferred. No new guide entry.
+  All fourteen pending images inspected; their fresh Commons provenance checked.
+  All three pending distinct guide PDFs re-fetched, counted and relevant pages
+  rendered/inspected; historical and election-specific limits retained.
+- **Combined pending:** **16 new venues, 171 new notes, four old revisions, nine
+  full/two partial existing-venue reviews, fourteen access-photo entries (thirteen
+  new captures, one reused), six guide entries/three newly linked documents.**
+  Totals **130 venues, 1,093 active notes, 634 quotes, 30 photos, 16 guide entries/
+  twelve distinct documents**. TANK’s partial entry remains source-only depth,
+  without old-note freshness credit.
+- **Validation:** 314 fresh supporting checks across 89 official pages, zero
+  misses; fourteen photo metadata checks; 75 unit/54 Python tests, types, lint,
+  build and 61 final-build HTTP checks pass. All original IDs/history prefixes,
+  unrelated objects, prior media and unselected monitor state preserved.
+  **113 browser tests listed, not passed:** Chromium still cannot launch because
+  of macOS Mach-port denial 1100; fresh CUA browser host is unavailable. Runner
+  browser validation is required before publication writes.
+
+**Next concrete batch:** identify Price Hill’s current pool/center entrance,
+water-chair or lift and assistance/changing procedures; Oxford lift location,
+transfer operation and current entrance/changing photos; Cold Spring bay/door/toilet
+layout and an available original arrival guide; Mama’s named side door, threshold,
+seating and current rooftop route. Continue all older Hub, courthouse, Golden Lamb,
+grocery, park, pool and transport gaps below.
+
+**New holds:** legacy Dempsey chairlift text is absent from the current official
+redirect target. Cold Spring’s August 2020 arrival newsletter returns 404; its
+curbless/arrival-loop claims remain unpublished. November’s current newsletter is
+not a photo walkthrough. Oxford’s city-linked winter flipbook is not visually
+reviewed; no offered PDF download or reusable access photo established. Mama’s
+OpenTable fetch fails, so indexed stair-only rooftop text remains held. Official
+visible/structured opening times differ; hours were not imported. No other
+Mainstrasse property or Newport library image was substituted. Cold Spring’s
+January 3, 2027 Ohio card change is verified on HTML and explicitly future-dated;
+its current digital-card FAQ does not resolve 2027 digital eligibility.
+
+## Earlier completed batch — November 12 midday
+
+Reviewed all recovered edits, then completed courthouse/Erlanger, Newport groceries,
+TANK Senior Transportation, Golden Lamb and Recycling & Reuse Hub research. See
+[courthouse, grocery, food, transport and reuse report](courthouse-grocery-reuse-2026-11-12.md),
+its superseding combined validation receipt, evidence, media and holds. Prepared for
+runner validation; no Git writes or deployment.
+
+- **New this pass:** Hamilton County Courthouse (12 notes), Fresh Thyme Newport
+  (six), Golden Lamb (seven), Recycling & Reuse Hub (seven); Erlanger depth (four)
+  and TANK Senior Transportation depth (five): **41 new notes**.
+- **Freshness:** Erlanger's four prior notes fully confirmed; one additional full
+  review, weekly **28/8**. TANK is a source-only partial review with no old-note
+  freshness credit. AMC, Central Park and Molly holds/dates preserved.
+- **Imagery:** four licensed full-frame photographs: courthouse 2019 steps/2023
+  screening hall, Golden Lamb 2007 frontage/staircase. Erlanger's page 12 entry in
+  the existing 34-page polling guide; Hub's page 14 arrival image/map in a newly
+  linked **15-page, 41.6 MB December 2023** EPA-hosted presentation. Capture dates,
+  historical limits and publisher links retained; no guide images republished.
+- **Combined pending:** **13 new venues, 143 new notes, four old revisions,
+  eight full/two partial reviews, twelve access-photo entries (eleven new captures,
+  one reused), six guide entries/three newly linked distinct documents**. Totals:
+  **127 venues, 1,065 active notes, 606 quotes, 28 photos, 16 guide entries/twelve
+  documents.** Generic Public services SVG fallback is labelled and inspected.
+- **Validation:** 274 fresh supporting checks/78 pages; twelve current Commons
+  provenance checks; 72 unit/54 pipeline tests, types, lint, build and **54 final-
+  build HTTP checks** pass. 110 browser tests listed; Chromium launch remains
+  blocked by macOS Mach-port denial 1100. Runner browser gate remains mandatory.
+
+**Next concrete batch:** inspect Hub Mini-Hub video/maps and actual threshold/lift/
+toilet/unloading arrangements; establish Golden Lamb's completed tavern lift and
+first-floor route; courthouse step-free street doorway and screening/communication
+assistance; Newport collection/check-in procedures and permitted access photos.
+
+**New/continued holds:** Molly's browser-user-agent HTML fetch returned 200, but
+actual monitor homepage/contact/event sources remain 403; conflicting hours need
+manual review. MRBL partner fetch and correct Kroger branch still fail; ALDI's
+redirected locator/FAQ shells and Trader Joe's blocked policy pages do not establish
+local access. No listings from those leads. Courthouse technology PDF is internally
+inconsistent; no equipment or remote-hearing inventory imported. Golden Lamb 2019
+lift/parking announcement is proposed work. Hub 2023 free-item guidance is historical;
+use current retail-shop/membership sources. Annual $120 prepayment explains the
+introductory $10/month equivalent, so this is not labelled a price conflict. No
+Mt. Auburn map/program/equipment/photo-licence resolution. Preserve all older holds.
+
+## Earlier completed batch — November 12 morning
+
+Reviewed and preserved the entire recovered batch, then investigated City Hall,
+Mt. Auburn Indoor Pool, Independence library and Sam’s Club Florence. See
+[civic, pool, library and shopping report](civic-pool-library-2026-11-12.md) and
+its final validation receipt. Prepared for runner validation; no agent Git writes
+or deployment.
+
+- **New coverage this pass:** City Hall (nine notes), Mt. Auburn (six), Sam’s Club
+  Florence (nine). **Depth:** six Independence library notes on drive-through
+  and hold procedures, pickup exceptions, homebound eligibility and closure dates.
+- **Freshness this pass:** all four prior Independence notes confirmed; one full
+  review and no new partial review. Weekly total **27/8**. Its November 13 closure
+  conflicts with an advertised book sale; no event-admission exception inferred.
+- **Arrival correction:** Mt. Auburn’s printed address/facility register identify
+  2034 Young Street, but its iframe map names 5545 Belmont Avenue. A fresh HTML
+  attribute check supports the caution; no visual map or route inspection claimed.
+- **Imagery:** one full-frame March 10, 2019 City Hall doorway/steps photo, Warren
+  LeMay, CC0, and one Independence entry for page 17 of the already linked 34-page
+  September 2026 county polling guide. No photo captures or daily routes inferred
+  from election instructions. No permitted/inspected Mt. Auburn chair image or
+  matched Sam’s Club Florence image imported.
+- **Combined pending delta:** nine new venues, 102 new notes, four old-note
+  revisions, seven full existing-venue rechecks and Central Park’s one-note partial
+  review. Eight access entries (seven newly collected captures, one existing
+  Covington capture reused); four guide entries/two newly linked documents.
+  **Totals: 123 venues, 1,024 active notes, 564 stored quotes, 24 access photos,
+  14 guide entries/eleven distinct documents.** AMC and Central Park holds persist.
+- **Validation:** 220 fresh supporting checks across 58 official pages plus the
+  separate raw map check; eight current Commons licence/date/full-frame checks;
+  66 unit tests, 54 pipeline tests, types, lint, build and 39 final-build HTTP
+  checks pass. Original IDs/history and unselected quotes/media/monitor findings
+  preserved. The source monitor now retries certificate-chain failures with
+  verified system curl; six regression cases preserve HTTP-block and TLS failures.
+  Generic labelled recreation-category SVG fixes the missing illustration fallback.
+- **Browser gate:** 106 tests listed. Chromium still fails before navigation with
+  macOS Mach-port denial 1100; CUA browser host unavailable. Runner must complete
+  browser validation before its publication writes. No browser or live-site pass.
+
+**Next concrete batch:** Mt. Auburn’s current arrival/map correction, pool entry
+and changing photos with reuse rights, transfer assistance and adapted-session
+registration; City Hall’s current street doorway and queue/communication arrangements;
+Sam’s Club Florence’s device collection/returns, pickup-bay location and check-in
+alternative; Independence’s November 13 event services, rear door and restroom
+layouts. A subsequent Hamilton County Courthouse batch can use the verified-TLS
+fetch repair to review its official arrival/queue pages and seek matched imagery.
+Do not replace older Government Center, UC, Dunham, outlet, Winton, grocery and
+food-route gaps; they remain in the queue below.
 
 ## Completed in the November 11 evening pass
 
@@ -201,7 +450,112 @@ writes, deployment, messages or private correspondence.
   checks pass. Browser launch still fails at macOS Mach-port permission denial;
   96 browser tests listed. The runner must complete its browser gate before pushing.
 
+## Completed in the November 12 public-services and recreation pass
+
+Four venues carried supported work. See
+[public services and recreation](public-services-recreation-2026-11-12.md), its
+65-check evidence file and media receipts. Prepared for runner validation; no Git
+writes, private correspondence or deployment.
+
+- **New coverage:** Kenton County Government Center (eight notes), UC Campus
+  Recreation Center (seventeen), Dunham Recreation Complex / Otto Armleder Pool
+  (seven). Vehicle-lot access, individual office/remote-service options, community
+  membership, pool entry and cleaning, family changing, restroom numbers and
+  program-support processes retain their location, date and policy limits.
+- **New information:** three Bogart's notes on medication, dietary provision and
+  cashless payment. **35 new notes overall**, no prior-note revisions/retirements.
+- **Freshness:** all eleven prior Bogart's notes fully confirmed; one full existing-
+  venue review, weekly **21/8**. No new partial old-note review. AMC remains held.
+- **Imagery:** four full-frame licensed photographs: Government Center railed
+  walkway and entrance forecourt (2020, CC0), UC lap-pool deck/tiered benches (2011,
+  CC BY-SA 3.0), UC plaza/steps (2013, CC BY-SA 3.0). Two also provide venue-context
+  images; they are not counted twice. One linked 34-page official Clerk photo guide,
+  September 2026 metadata, with page 20 inspected; original refetched HTTP 200 with
+  identical bytes. Photos predate construction or current operation; no route
+  continuity, measurements, lift or adult changing inferred. No Dunham photo selected.
+- **Differences/holds:** UC's 2820/2840 Bearcat Way and 45219/45221-0017 destination
+  differences remain visible. Dunham's May 30 announcement and June 6 table differ;
+  all pool schedule claims are summer 2026. County survey registry direct fetches
+  are 403/manual held; county transition-plan timetable is not a completed audit.
+- **Helper fix:** a reproduced recheck.py bug could advance a full-review date
+  while an unresolved same-day note remained. It now requires source_checked status
+  for every active note. Three new regression cases pass; no current catalog record
+  had been incorrectly advanced this run.
+- **Prepared totals/checks:** 117 venues, 957 active notes, 477 stored quotes,
+  twenty access photos, eleven guide entries/ten distinct documents. All 65 evidence
+  checks, eighteen source baselines, types, lint, sixty unit tests, 48 pipeline tests,
+  build and fifteen final-build HTTP checks pass. 99 browser tests listed; macOS
+  still prevents Chromium launch and the browser host is unavailable. Runner gate
+  required before pushing. All unrelated records, old history and unselected
+  monitor findings preserved.
+
+## Completed in the November 12 continued-development pass
+
+Resumed and reviewed all pending public-services/recreation edits. See
+[continued development](continued-development-2026-11-12.md) and its evidence,
+media and final-validation receipts. No conflicts, Git writes or deployments.
+
+- **New this pass:** Symphony Hotel Bar & Lounge (five notes), Cincinnati Premium
+  Outlets in Monroe (eight), Latonia library (seven). The bar's main-floor ramp is
+  separate from stair-only rooms; outlet wheelchair collection is assigned to an
+  office closed weekends; Latonia's bus route and opening-date discrepancy are
+  unresolved. No generic access verdict or present-day route is inferred.
+- **Depth:** seventeen notes at Main Library (three), Covington library (one),
+  Burnet Woods (five), Central Park (one), Licking River (one), Winton Woods (six).
+  Includes near-term library closures, Burnet's seasonal toilets/sinkhole and
+  overflow notices, historical versus current Greenway lengths, Winton underpass,
+  rest stop, transfer-bench description, playground conditions and golf-cart steps.
+- **Freshness this pass:** Main, Covington library, Burnet, Licking and Winton fully
+  reviewed. Central Park is partial: one old county-page note confirmed, the
+  arboretum about page HTTP 406; full date stays November 8. Four old-note revisions,
+  no retirements. Combined with retained Bogart's review, weekly total **26/8**.
+  AMC's six held notes and full-review date remain unchanged.
+- **Media this pass:** Main entrance (July 2024) and atrium seating (June 2025)
+  newly collected; existing Covington June 2018 context capture reused unchanged
+  as an access entry. One more entry for the already linked Clerk photo document
+  (library page 5) and a distinct Great Parks 2021 report (Winton launch pages 16–17,
+  metadata May 2022). These are historical photographs, not operating receipts.
+  All selected final images and relevant PDF pages inspected. No unlicensed images
+  reprinted. Other park scenery, old bridge views and people-heavy interiors held.
+- **Combined prepared work:** six new venues, 72 new notes, six full old-venue
+  reviews and one partial; seven access-photo entries (six new captures, one
+  existing context capture reused); three guide entries/two new distinct documents.
+  Totals **120 venues, 994 active notes, 533 stored quotes, 23 access photos and
+  thirteen guide entries/eleven documents**. Retained helper fix/regressions reviewed.
+- **Validation:** 170 fresh supporting checks across 45 official HTML sources,
+  no misses. Types/lint, 63 unit tests, 48 pipeline tests and build pass. Final
+  thirty HTTP checks and preservation receipts in the validation JSON. Browser launch still denied
+  by macOS (Mach port 1100), and CUA browser host unavailable. Runner browser gate
+  required before atomic branch pushes; scheduled release job owns deployment.
+
 ## Next concrete batch
+
+Latest priorities from the continued pass:
+
+- **Winton Woods:** current parking-to-launch approach, bench/rail operation,
+  assistance/reservations, water and season limits. Inspect current Harbor Loop
+  underpass/end approaches and toilet layouts. The annual report is historical;
+  the 2004 Commons side view was held and does not identify today's named route.
+- **Outlets:** weekend/evening wheelchair collection and return alternatives,
+  Gardenway-to-office continuity, doors and toilets; resolve undated fountain and
+  play-area notices. Interactive map remains uninspected, not a photo guide.
+- **Latonia/Main/Covington:** actual bay/stop-to-door routes, door controls,
+  elevators and toilets; Latonia's June 2026 versus dated 2025 opening discrepancy.
+  Covington's November 13 closure is dated guidance, not a permanent schedule.
+- **Symphony/SWELL:** find the Symphony ramp door, parking and toilets. SWELL remains
+  unpublished: official site and ArtsWave directory hours differ; Rachel Street
+  side-door/parking claims lack current venue-origin confirmation. City Hall also
+  stays a lead pending official arrival/door evidence, not a new listing.
+- **Thin trails:** Central Park's about page returns 406 on both host spellings;
+  manual review needed, partial date preserved. Resolve Licking River's differing
+  2.5-mile total/segment figures and seek current surface/arrival photographs.
+
+- **Further food-route leads:** `late-food-leads-2026-11-12.json` records Sotto/BOCA
+  (official elevator-route passage not located; do not import the repeated claim),
+  Incline Public House (403/manual hold) and Third Eye's two-location broad label
+  (seek actual branch doors, toilets and routes). No extra listings or media added.
+
+Earlier unresolved priorities continue below.
 
 1. **Covington boarding and connections:** seek current post-November-7 stop/bay,
    pavement and deployed-ramp photographs. Preserve TANK's Holman/MLK alert versus
@@ -215,12 +569,14 @@ writes, deployment, messages or private correspondence.
    tours; inspect when browser access returns, rather than claiming them inspected.
    Its 2013 photo and 2021 article are historical. Find premises-specific toilet
    and arrival evidence for additional everyday food venues.
-3. **Everyday public services:** investigate the official Government Center
-   [construction notice](https://www.kentoncountyky.gov/CivicAlerts.aspx?AID=604)
-   alongside confirmed branch addresses, available services and access features.
-   August 17 update sends vehicles to the Pike Street lot entrance until expected
-   spring 2027. Do not turn a driveway notice into a pedestrian-door closure or
-   assume the forecast late-October road reopening occurred. No listing imported.
+3. **Everyday public services:** Government Center is now listed. Seek a current
+   pedestrian approach, correct visitor door, elevator route, toilet/changing and
+   communication evidence. Its 2020 photographs predate construction; the September
+   2026 polling photo guide is election-specific. The state polling-site survey
+   registry needs manual browser review after direct 403s. Retain the Pike Street
+   vehicle-lot instruction and do not assume a forecast road reopening occurred.
+   Investigate another neighborhood public-service branch when stronger local
+   arrival/service evidence is available.
 4. **Northern Kentucky groceries:** Meijer Florence/Kroger Newport remain browser
    holds; avoid repeating blocked scripts. Deepen Publix bays/pharmacy lane,
    equipment, toilets and reusable arrival photos, preserving its address conflict.
@@ -229,8 +585,9 @@ writes, deployment, messages or private correspondence.
    and physical layouts. The state year-round/limited-hours entry is not an
    operating receipt; a seasonal portable-toilet bid is not delivery evidence. The
    August 2026 map's ZIP differs from the current facility page. Seek matched pier,
-   parking-to-facility and toilet photos. Newport/Giles, Boone Woods/Chapin and the
-   older Bogart's rolling queue remain useful depth candidates.
+   parking-to-facility and toilet photos. Newport/Giles and Boone Woods/Chapin
+   remain useful depth candidates. Bogart's, Burnet and Winton were fully reviewed;
+   Central Park remains partial after its blocked arboretum source.
 
 ## Holds and unresolved source conflicts
 
@@ -254,9 +611,23 @@ writes, deployment, messages or private correspondence.
   uses 216 East Third Street; the sign matches the venue, but no entrance role
   is inferred. 2013 photo and 2021 street/restaurant access article do not establish
   today's route. Official virtual tours remain uninspected; no guide entry added.
-- **Government Center:** construction/alternative-service lead held for a new
-  venue review. Distinguish vehicle lot entrance, pedestrian route and expected
-  reopening dates. Do not reuse May voting guidance as a current instruction.
+- **Government Center:** now listed with eight notes. Current pedestrian door,
+  lot-to-door continuity, elevator operation, toilets and communication supports
+  remain unknown. Photo dates 2020; election guide metadata September 2026. State
+  polling-place survey registry is direct-fetch 403/manual held. County plan schedules
+  self-evaluation July 2025–June 2027; it is not a completed local audit. May voting
+  guidance and forecast road reopening dates are not current operating instructions.
+- **UC Campus Recreation:** current recreation page says 2820 Bearcat Way, 45219;
+  contact page says 2820, 45221-0017; directory says 2840, 45219. Confirm arrival and
+  member entrance. No housing/CARE/Crawley/Siddall access transferred. Lap-pool photo
+  is not zero-depth leisure-pool evidence. Family changing is described for small
+  opposite-sex children, not adult assistance. Actual routes, elevators and equipment
+  remain unverified; gym plan says no designated Areas of Rescue Assistance in the
+  Campus Rec Center Gym. How-to playlist remains uninspected.
+- **Dunham:** published pool season ends August 8, 2026; no November/2027 operation
+  inferred. Separate early-opening announcement says May 30, table June 6. No matched
+  reusable photo selected. Proposed renovation, toilets, doors and changing features
+  need completion/current-operation evidence. CRC inclusion policy is systemwide.
 
 - **IKEA Florence:** current branch page lists 7739 Mall Road; the November 2025
   announcement listed 7735. Introduction says no stock, FAQ says some furnishings
@@ -373,7 +744,7 @@ writes, deployment, messages or private correspondence.
   identify a designated trail or useful arrival feature. Eighth thumbnail rate
   limited and uninspected. No named-trail inference or route claim from these views.
 - Existing AMC, BCM/NaturePlay, Cold Spring historical-newsletter and Aronoff holds
-  remain unchanged. AJ Jolly’s 2026 lake/camping closure lead remains unresolved.
+  remain unchanged. AJ Jolly is now listed with the current county repair closures; see the latest batch above.
 
 ## Following breadth and depth work
 
@@ -390,11 +761,10 @@ writes, deployment, messages or private correspondence.
   available. Seek images that actually show pool entry and circulation.
   https://florence-ky.gov/residents/florence-family-aquatic-center/
 
-- **AJ Jolly, prospective coverage with a closure hold.** Kentucky Fish & Wildlife's
+- **AJ Jolly, now listed with construction closures.** Kentucky Fish & Wildlife's
   lake-access page says lake access and camping are closed for calendar year 2026.
-  Resolve the current scope with the county park source before presenting a visit
-  or route option. A construction bid is a lead for research, with completion and
-  current availability still requiring evidence.
+  The latest batch resolves the county closure scope; confirm actual open routes and
+  winter toilets before relying on them. A construction bid is not completion evidence.
   https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/
   https://app.fw.ky.gov/fisheries/AccessSiteDetail.aspx?asid=103
 

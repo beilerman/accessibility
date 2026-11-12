@@ -1,0 +1,556 @@
+{
+  "baseCommit": "a0f29e5cdcd4fc69629ce45885d116619ea8ad7a",
+  "checkedAt": "2026-11-12T13:04:04.396061+00:00",
+  "scope": "Combined retained and newly researched edits; prepared for runner validation, not published by this agent.",
+  "newVenues": [
+    "kenton-county-government-center",
+    "uc-campus-recreation-center",
+    "dunham-recreation-complex",
+    "symphony-hotel-bar",
+    "cincinnati-premium-outlets",
+    "kenton-county-public-library-latonia-branch"
+  ],
+  "newNotes": 72,
+  "newNoteIds": [
+    "bogarts.chronic.3",
+    "bogarts.chronic.4",
+    "bogarts.cognitive.3",
+    "burnet-woods-trailside-nature-center.chronic.2",
+    "burnet-woods-trailside-nature-center.chronic.3",
+    "burnet-woods-trailside-nature-center.mobility.5",
+    "burnet-woods-trailside-nature-center.mobility.6",
+    "burnet-woods-trailside-nature-center.mobility.7",
+    "central-park-boone-county-arboretum.chronic.1",
+    "cincinnati-premium-outlets.chronic.1",
+    "cincinnati-premium-outlets.chronic.2",
+    "cincinnati-premium-outlets.cognitive.1",
+    "cincinnati-premium-outlets.cognitive.2",
+    "cincinnati-premium-outlets.mobility.1",
+    "cincinnati-premium-outlets.mobility.2",
+    "cincinnati-premium-outlets.mobility.3",
+    "cincinnati-premium-outlets.mobility.4",
+    "downtown-main-library.chronic.3",
+    "downtown-main-library.cognitive.3",
+    "downtown-main-library.cognitive.4",
+    "dunham-recreation-complex.chronic.1",
+    "dunham-recreation-complex.cognitive.1",
+    "dunham-recreation-complex.cognitive.2",
+    "dunham-recreation-complex.cognitive.3",
+    "dunham-recreation-complex.cognitive.4",
+    "dunham-recreation-complex.mobility.1",
+    "dunham-recreation-complex.sensory.1",
+    "kenton-county-government-center.cognitive.1",
+    "kenton-county-government-center.cognitive.2",
+    "kenton-county-government-center.cognitive.3",
+    "kenton-county-government-center.cognitive.4",
+    "kenton-county-government-center.cognitive.5",
+    "kenton-county-government-center.cognitive.6",
+    "kenton-county-government-center.cognitive.7",
+    "kenton-county-government-center.mobility.1",
+    "kenton-county-public-library-covington-branch.cognitive.1",
+    "kenton-county-public-library-latonia-branch.chronic.1",
+    "kenton-county-public-library-latonia-branch.chronic.2",
+    "kenton-county-public-library-latonia-branch.cognitive.1",
+    "kenton-county-public-library-latonia-branch.cognitive.2",
+    "kenton-county-public-library-latonia-branch.cognitive.3",
+    "kenton-county-public-library-latonia-branch.mobility.1",
+    "kenton-county-public-library-latonia-branch.mobility.2",
+    "licking-river-greenway-trails.mobility.2",
+    "symphony-hotel-bar.cognitive.1",
+    "symphony-hotel-bar.cognitive.2",
+    "symphony-hotel-bar.mobility.1",
+    "symphony-hotel-bar.mobility.2",
+    "symphony-hotel-bar.sensory.1",
+    "uc-campus-recreation-center.chronic.1",
+    "uc-campus-recreation-center.chronic.2",
+    "uc-campus-recreation-center.chronic.3",
+    "uc-campus-recreation-center.chronic.4",
+    "uc-campus-recreation-center.cognitive.1",
+    "uc-campus-recreation-center.cognitive.2",
+    "uc-campus-recreation-center.cognitive.3",
+    "uc-campus-recreation-center.cognitive.4",
+    "uc-campus-recreation-center.cognitive.5",
+    "uc-campus-recreation-center.cognitive.6",
+    "uc-campus-recreation-center.cognitive.7",
+    "uc-campus-recreation-center.mobility.1",
+    "uc-campus-recreation-center.mobility.2",
+    "uc-campus-recreation-center.mobility.3",
+    "uc-campus-recreation-center.mobility.4",
+    "uc-campus-recreation-center.mobility.5",
+    "uc-campus-recreation-center.sensory.1",
+    "winton-woods.chronic.1",
+    "winton-woods.mobility.5",
+    "winton-woods.mobility.6",
+    "winton-woods.mobility.7",
+    "winton-woods.mobility.8",
+    "winton-woods.sensory.1"
+  ],
+  "fullExistingVenueRechecks": [
+    "bogarts",
+    "downtown-main-library",
+    "kenton-county-public-library-covington-branch",
+    "winton-woods",
+    "burnet-woods-trailside-nature-center",
+    "licking-river-greenway-trails"
+  ],
+  "partialExistingVenueRechecks": {
+    "central-park-boone-county-arboretum": [
+      "central-park-boone-county-arboretum.mobility.1"
+    ]
+  },
+  "revisedNoteIds": [
+    "winton-woods.cognitive.3",
+    "burnet-woods-trailside-nature-center.mobility.3",
+    "burnet-woods-trailside-nature-center.cognitive.1",
+    "licking-river-greenway-trails.mobility.1"
+  ],
+  "priorNotesReviewed": 38,
+  "priorNotesConfirmed": 34,
+  "retiredNotes": 0,
+  "newAccessPhotoEntries": 7,
+  "newlyCollectedPhotoCaptures": 6,
+  "existingContextCaptureReused": 1,
+  "newGuideEntries": 3,
+  "newDistinctGuideDocuments": 2,
+  "counts": {
+    "venues": 120,
+    "activeNotes": 994,
+    "storedQuotes": 533,
+    "accessPhotos": 23,
+    "guideEntries": 13,
+    "distinctGuideDocuments": 11
+  },
+  "evidence": {
+    "checkedAt": "2026-11-12T12:52:58.033792+00:00",
+    "checks": 170,
+    "passed": 170,
+    "failed": 0,
+    "sourceCount": 45,
+    "sources": {
+      "https://chpl.org/about/history/main/downtown-main-library-tours/": {
+        "status": 200,
+        "finalUrl": "https://chpl.org/about/history/main/downtown-main-library-tours/",
+        "bytes": 353952
+      },
+      "https://chpl.org/accessibility-services/": {
+        "status": 200,
+        "finalUrl": "https://chpl.org/accessibility-services/",
+        "bytes": 296162
+      },
+      "https://chpl.org/locations/1/": {
+        "status": 200,
+        "finalUrl": "https://chpl.org/locations/1/",
+        "bytes": 423486
+      },
+      "https://chpl.org/next-generation/main/": {
+        "status": 200,
+        "finalUrl": "https://chpl.org/next-generation/main/",
+        "bytes": 969781
+      },
+      "https://chpl.org/outreach/": {
+        "status": 200,
+        "finalUrl": "https://chpl.org/services/outreach/",
+        "bytes": 328079
+      },
+      "https://cincyweb.cincinnati-oh.gov/cityofcincinnati/news/cincy-rec-welcomes-summer-by-opening-spraygrounds-and-two-pools-starting-saturday-may-30th/": {
+        "status": 200,
+        "finalUrl": "https://cincyweb.cincinnati-oh.gov/cityofcincinnati/news/cincy-rec-welcomes-summer-by-opening-spraygrounds-and-two-pools-starting-saturday-may-30th/",
+        "bytes": 58831
+      },
+      "https://kentonkyclerk.gov/contact-us/": {
+        "status": 200,
+        "finalUrl": "https://kentonkyclerk.gov/contact-us/",
+        "bytes": 187078
+      },
+      "https://kentonkyclerk.gov/voting-locations/": {
+        "status": 200,
+        "finalUrl": "https://kentonkyclerk.gov/voting-locations/",
+        "bytes": 123564
+      },
+      "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=RECCENTER": {
+        "status": 200,
+        "finalUrl": "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=RECCENTER",
+        "bytes": 40228
+      },
+      "https://www.bogarts.com/accessibility": {
+        "status": 200,
+        "finalUrl": "https://www.bogarts.com/accessibility",
+        "bytes": 132096
+      },
+      "https://www.bogarts.com/visit": {
+        "status": 200,
+        "finalUrl": "https://www.bogarts.com/visit",
+        "bytes": 161843
+      },
+      "https://www.boonecountyky.org/business_detail_T35_R60.php": {
+        "status": 200,
+        "finalUrl": "https://www.boonecountyky.org/business_detail_T35_R60.php",
+        "bytes": 123182
+      },
+      "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/": {
+        "status": 200,
+        "finalUrl": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "bytes": 60763
+      },
+      "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/": {
+        "status": 200,
+        "finalUrl": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
+        "bytes": 178393
+      },
+      "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/": {
+        "status": 200,
+        "finalUrl": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+        "bytes": 151422
+      },
+      "https://www.cincinnati-oh.gov/crc/find-a-facility/aquatics-facility/": {
+        "status": 200,
+        "finalUrl": "https://www.cincinnati-oh.gov/crc/find-a-facility/aquatics-facility/",
+        "bytes": 69285
+      },
+      "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/": {
+        "status": 200,
+        "finalUrl": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+        "bytes": 74922
+      },
+      "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/": {
+        "status": 200,
+        "finalUrl": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "bytes": 75987
+      },
+      "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making": {
+        "status": 200,
+        "finalUrl": "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making",
+        "bytes": 54990
+      },
+      "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails": {
+        "status": 200,
+        "finalUrl": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/licking-river-greenway-trails",
+        "bytes": 34221
+      },
+      "https://www.kentoncountyky.gov/CivicAlerts.aspx?AID=604": {
+        "status": 200,
+        "finalUrl": "https://www.kentoncountyky.gov/m/newsflash/home/detail/604",
+        "bytes": 124026
+      },
+      "https://www.kentonlibrary.org/blogs/post/a-century-in-the-making-latonia-branch-now-open/": {
+        "status": 200,
+        "finalUrl": "https://www.kentonlibrary.org/blogs/post/a-century-in-the-making-latonia-branch-now-open/",
+        "bytes": 425785
+      },
+      "https://www.kentonlibrary.org/homebound/": {
+        "status": 200,
+        "finalUrl": "https://www.kentonlibrary.org/homebound/",
+        "bytes": 415716
+      },
+      "https://www.kentonlibrary.org/latonia-branch/faq/": {
+        "status": 200,
+        "finalUrl": "https://www.kentonlibrary.org/latonia-branch/faq/",
+        "bytes": 334940
+      },
+      "https://www.kentonlibrary.org/locations/105/": {
+        "status": 200,
+        "finalUrl": "https://www.kentonlibrary.org/locations/105/",
+        "bytes": 422797
+      },
+      "https://www.kentonlibrary.org/locations/4": {
+        "status": 200,
+        "finalUrl": "https://www.kentonlibrary.org/locations/4/",
+        "bytes": 469598
+      },
+      "https://www.premiumoutlets.com/outlet/cincinnati/about": {
+        "status": 200,
+        "finalUrl": "https://www.premiumoutlets.com/outlet/cincinnati/about",
+        "bytes": 749399
+      },
+      "https://www.premiumoutlets.com/outlet/cincinnati/stores/management-office": {
+        "status": 200,
+        "finalUrl": "https://www.premiumoutlets.com/outlet/cincinnati/stores/management-office",
+        "bytes": 252840
+      },
+      "https://www.symphonyhotel.com/bar": {
+        "status": 200,
+        "finalUrl": "https://www.symphonyhotel.com/bar",
+        "bytes": 13214
+      },
+      "https://www.symphonyhotel.com/contact": {
+        "status": 200,
+        "finalUrl": "https://www.symphonyhotel.com/contact",
+        "bytes": 16551
+      },
+      "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html",
+        "bytes": 76469
+      },
+      "https://www.uc.edu/about/publicsafety/emergencymanagement/emergency-plans/campus-rec-center-gym.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/about/publicsafety/emergencymanagement/emergency-plans/campus-rec-center-gym.html",
+        "bytes": 91240
+      },
+      "https://www.uc.edu/campus-life/campus-rec/about/contact-us.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/about/contact-us.html",
+        "bytes": 117783
+      },
+      "https://www.uc.edu/campus-life/campus-rec/about/parking.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+        "bytes": 122949
+      },
+      "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+        "bytes": 212426
+      },
+      "https://www.uc.edu/campus-life/campus-rec/crc.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/crc.html",
+        "bytes": 134315
+      },
+      "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html",
+        "bytes": 121574
+      },
+      "https://www.uc.edu/campus-life/campus-rec/crc/pools.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
+        "bytes": 119994
+      },
+      "https://www.uc.edu/campus-life/campus-rec/membership/rates/community.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/membership/rates/community.html",
+        "bytes": 116943
+      },
+      "https://www.uc.edu/campus-life/campus-rec/membership/rates/students/first-visit.html": {
+        "status": 200,
+        "finalUrl": "https://www.uc.edu/campus-life/campus-rec/membership/rates/students/first-visit.html",
+        "bytes": 133044
+      },
+      "https://www.greatparks.org/about/accessibility": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/about/accessibility",
+        "last_modified": null,
+        "sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+        "fingerprint_version": 6,
+        "chars": 3029
+      },
+      "https://www.greatparks.org/parks/winton-woods/harbor-loop-trail": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/winton-woods/harbor-loop-trail",
+        "last_modified": null,
+        "sha256": "2b14e2ff447e23a44ed2998372adcebf4ca6c0ef0cd7b0fda2850a05b9ced4bc",
+        "fingerprint_version": 6,
+        "chars": 858
+      },
+      "https://www.greatparks.org/parks/winton-woods/west-branch-trail": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/winton-woods/west-branch-trail",
+        "last_modified": null,
+        "sha256": "0ec7e8b0482efb4cc491ccea91f26d9709f83a29bbd1f193db2247f0dd7bcb5f",
+        "fingerprint_version": 6,
+        "chars": 646
+      },
+      "https://www.greatparks.org/parks/winton-woods/winton-center": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/winton-woods/winton-center",
+        "last_modified": null,
+        "sha256": "b1011b81bd2754a230e2a8f3f2c4f0cb9a1d8e5efe18ef7a92ea04d4a0de9212",
+        "fingerprint_version": 6,
+        "chars": 1321
+      },
+      "https://www.greatparks.org/parks/winton-woods": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/winton-woods",
+        "last_modified": null,
+        "sha256": "8aa992f598cb2f65b928823178b6695c19dcb7a67c8de725b23692de68b0a091",
+        "fingerprint_version": 6,
+        "chars": 4072
+      }
+    },
+    "misses": [],
+    "byEvidenceFile": {
+      "public-services-recreation-2026-11-12-evidence.json": 65,
+      "libraries-burnet-symphony-2026-11-12-evidence.json": 50,
+      "everyday-growth-2026-11-12-evidence.json": 30,
+      "nky-thin-trails-2026-11-12-evidence.json": 6,
+      "winton-depth-2026-11-12-evidence.json": 19
+    },
+    "scope": "151 fresh matching checks across 40 official sources, then 19 further matching Winton checks across five sources."
+  },
+  "checks": {
+    "types": "passed",
+    "lint": "passed",
+    "unitTests": 63,
+    "pipelineTests": 48,
+    "productionBuild": "passed",
+    "httpChecks": [
+      {
+        "path": "/venues/kenton-county-government-center",
+        "status": 200,
+        "activeNotesVerified": 8
+      },
+      {
+        "path": "/venues/uc-campus-recreation-center",
+        "status": 200,
+        "activeNotesVerified": 17
+      },
+      {
+        "path": "/venues/dunham-recreation-complex",
+        "status": 200,
+        "activeNotesVerified": 7
+      },
+      {
+        "path": "/venues/bogarts",
+        "status": 200,
+        "activeNotesVerified": 14
+      },
+      {
+        "path": "/venues/downtown-main-library",
+        "status": 200,
+        "activeNotesVerified": 9
+      },
+      {
+        "path": "/venues/kenton-county-public-library-covington-branch",
+        "status": 200,
+        "activeNotesVerified": 6
+      },
+      {
+        "path": "/venues/burnet-woods-trailside-nature-center",
+        "status": 200,
+        "activeNotesVerified": 11
+      },
+      {
+        "path": "/venues/symphony-hotel-bar",
+        "status": 200,
+        "activeNotesVerified": 5
+      },
+      {
+        "path": "/venues/cincinnati-premium-outlets",
+        "status": 200,
+        "activeNotesVerified": 8
+      },
+      {
+        "path": "/venues/kenton-county-public-library-latonia-branch",
+        "status": 200,
+        "activeNotesVerified": 7
+      },
+      {
+        "path": "/venues/central-park-boone-county-arboretum",
+        "status": 200,
+        "activeNotesVerified": 3
+      },
+      {
+        "path": "/venues/licking-river-greenway-trails",
+        "status": 200,
+        "activeNotesVerified": 3
+      },
+      {
+        "path": "/venues/winton-woods",
+        "status": 200,
+        "activeNotesVerified": 13
+      },
+      {
+        "path": "/venues?category=Public+services&region=KY",
+        "status": 200
+      },
+      {
+        "path": "/venues?category=Recreation+%26+fitness&region=OH",
+        "status": 200
+      },
+      {
+        "path": "/venues?category=Food+%26+drink&region=OH",
+        "status": 200
+      },
+      {
+        "path": "/venues?category=Shopping&region=OH",
+        "status": 200
+      },
+      {
+        "path": "/venues?category=Libraries&region=KY",
+        "status": 200
+      },
+      {
+        "path": "/",
+        "status": 200
+      },
+      {
+        "path": "/access-in-pictures",
+        "status": 200
+      },
+      {
+        "path": "/sources",
+        "status": 200
+      },
+      {
+        "path": "/updates",
+        "status": 200
+      },
+      {
+        "path": "/sitemap.xml",
+        "status": 200
+      },
+      {
+        "path": "/images/access/kenton-government-railed-walkway.webp",
+        "status": 200,
+        "sha256": "8f084a66ff6675cf0bf2ed5ae4d898b6f64da6227fea38660512e425daf015f1"
+      },
+      {
+        "path": "/images/access/kenton-government-entrance.webp",
+        "status": 200,
+        "sha256": "f52b5ce53922efdefc76c8b3a9115ea52813895b5aa30f376a80a6d1b641c5be"
+      },
+      {
+        "path": "/images/access/uc-crc-lap-pool-seating.webp",
+        "status": 200,
+        "sha256": "437f498ae3af4dc2902854724c19107fb33ee15ef19c2d997a0b8069e2316388"
+      },
+      {
+        "path": "/images/access/uc-crc-plaza.webp",
+        "status": 200,
+        "sha256": "520b722c22f9cc1832cdc3dde52f672868bb3318c45235cbd490ea57a0f9b2f6"
+      },
+      {
+        "path": "/images/access/main-library-entrance-forecourt.webp",
+        "status": 200,
+        "sha256": "e8ab7f9cdb579adca769db7a4b06b95657b9dada9948e2000cc47f1497706fa1"
+      },
+      {
+        "path": "/images/access/main-library-atrium-seating.webp",
+        "status": 200,
+        "sha256": "5229e324e858944633f39e538dd5f46ccb630c741d1dc07bbca8c247c093cca0"
+      },
+      {
+        "path": "/images/access/covington-library-entrance-forecourt.webp",
+        "status": 200,
+        "sha256": "0fda5a7218f9c6d3e20ffdc0d22bd1358a7d83f5559f32e079b05665d70080b3"
+      }
+    ],
+    "preservation": "All prior note IDs and history, unrelated venue records, pre-existing media entries and unselected supporting quotes/source snapshots/findings preserved.",
+    "whitespace": "passed",
+    "conflictMarkers": 0,
+    "browser": {
+      "listedTests": 103,
+      "passed": false,
+      "attemptedRoute": "/venues/kenton-county-government-center",
+      "reason": "Chromium fails before navigation: macOS Mach-port Permission denied (1100). CUA browser host unavailable. Runner must complete browser validation."
+    }
+  },
+  "holds": [
+    "Central Park arboretum about source HTTP 406; full date preserved 2026-11-08.",
+    "SWELL current entrance/hours need venue-origin confirmation; no listing.",
+    "City Hall current official arrival evidence not established; no listing.",
+    "Outlet weekend/evening wheelchair collection and undated fountain/play-area notices unresolved.",
+    "Latonia opening-date discrepancy and unnamed current bus route unresolved.",
+    "Licking Greenway differing current segment figures versus 2019 total unresolved.",
+    "Existing AMC six-source-note hold preserved.",
+    "Late food follow-up: Sotto/BOCA entrance/elevator passage not located in fresh official pages; Incline HTTP 403; Third Eye only broad two-location label. No additional listings or media."
+  ],
+  "publication": {
+    "publishReadyForRunnerValidation": true,
+    "agentGitWrites": false,
+    "deployed": false,
+    "runnerBrowserValidationRequired": true
+  },
+  "additionalHeldResearch": "docs/research/late-food-leads-2026-11-12.json"
+}

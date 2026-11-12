@@ -61,9 +61,9 @@
       "status": 200,
       "final_url": "https://chpl.org/locations/1/",
       "last_modified": null,
-      "sha256": "0c385f18b0071e7e11c1a67724419e6ba4a642e5d47fb51488f70359bcc75982",
-      "fingerprint_version": 5,
-      "chars": 4949
+      "sha256": "f9435773ee8409f5bce7e7b2edf743b9ee98a455785b986a5d547da3316c8bc9",
+      "fingerprint_version": 6,
+      "chars": 4914
     },
     "https://chpl.org/locations/ha/": {
       "status": 200,
@@ -78,7 +78,7 @@
       "final_url": "https://chpl.org/services/outreach/",
       "last_modified": null,
       "sha256": "f934316d162c14cab277dfbdcdafa0108e3b942fcf6e202b0cb409ecebf2cc8c",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2429
     },
     "https://cincinnati-oh.gov/streetcar/about-the-streetcar/faqs": {
@@ -438,7 +438,7 @@
       "final_url": "https://washingtonpark.org/amenities/",
       "last_modified": null,
       "sha256": "0678c067e613752d5f60fea7444101be6fa0a7e0faa2f79c5d66a8494f5c9b63",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3320
     },
     "https://washingtonpark.org/park-rules/": {
@@ -446,7 +446,7 @@
       "final_url": "https://washingtonpark.org/park-rules/",
       "last_modified": null,
       "sha256": "b553b0964f6ab30994ef60cfde3861efc19b9d6a83deeed20c8e137d4dfffbba",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 5099
     },
     "https://washingtonpark.org/parking/": {
@@ -454,7 +454,7 @@
       "final_url": "https://washingtonpark.org/parking/",
       "last_modified": null,
       "sha256": "c2838f39ac478c378a4db5f46e17ba32941a7079815ab28fc527dc1a781afcf1",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4247
     },
     "https://www.americansignmuseum.org/visit": {
@@ -510,16 +510,16 @@
       "final_url": "https://www.bogarts.com/accessibility",
       "last_modified": null,
       "sha256": "659d956dba60641a9aabc326a00e09b51994a153af87689a47dd240245ef206a",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4026
     },
     "https://www.bogarts.com/visit": {
       "status": 200,
       "final_url": "https://www.bogarts.com/visit",
       "last_modified": null,
-      "sha256": "145b540af7a7732f08821a9d58922331339e7873cb268d97c09271fcb4243a49",
-      "fingerprint_version": 5,
-      "chars": 7210
+      "sha256": "01938f0e16323bcfa1c6e24ca37d613cd06da67ac5336536b0d324b7d3c0c987",
+      "fingerprint_version": 6,
+      "chars": 7295
     },
     "https://www.boonecountyky.org/business_detail_T35_R58.php": {
       "status": 200,
@@ -597,9 +597,9 @@
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/",
       "last_modified": null,
-      "sha256": "395f9dd59f714c64430c712c3046a2350a055ec410b51a0db8f3e2bcfa10a45b",
-      "fingerprint_version": 5,
-      "chars": 28076
+      "sha256": "54254e9269804a8f7ba748addba3704a69932c0d15dd7e80b8ba4661d0d99003",
+      "fingerprint_version": 6,
+      "chars": 35275
     },
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/": {
       "status": 200,
@@ -684,26 +684,26 @@
     "https://www.cincynature.org/visit": {
       "status": 200,
       "final_url": "https://www.cincynature.org/visit",
-      "last_modified": "Fri, 06 Nov 2026 21:08:04 GMT",
+      "last_modified": "Thu, 12 Nov 2026 04:58:20 GMT",
       "sha256": "659d6714fdee54e6358593c181c1287e17eafd61fd5177f6a15d71963a1d53fa",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 13356
     },
     "https://www.cincynature.org/visit/our-trails": {
       "status": 200,
       "final_url": "https://www.cincynature.org/visit/our-trails",
-      "last_modified": "Mon, 09 Nov 2026 02:08:53 GMT",
-      "sha256": "6e6b735e90fe16169fb7de359f7dafe5977bfb8767f19e8dec57ea082008b621",
-      "fingerprint_version": 5,
-      "chars": 5175
+      "last_modified": "Thu, 12 Nov 2026 19:02:49 GMT",
+      "sha256": "5c03095a59345e1b819847e2049fca160f9829cc8f24fabb7a766b696e016068",
+      "fingerprint_version": 6,
+      "chars": 5206
     },
     "https://www.cincynature.org/visit/visit-us": {
       "status": 200,
       "final_url": "https://www.cincynature.org/visit/visit-us",
-      "last_modified": "Mon, 09 Nov 2026 02:21:40 GMT",
-      "sha256": "7448ee9f543b4a192226b942b2180a0e9e47461b1264909fb16bbbd37daf75fe",
-      "fingerprint_version": 5,
-      "chars": 6185
+      "last_modified": "Thu, 12 Nov 2026 18:43:04 GMT",
+      "sha256": "7971333bf808c31ed8de83ea2c56a342813817f4608a3e1cf3501ca6779bb89d",
+      "fingerprint_version": 6,
+      "chars": 6216
     },
     "https://www.cincyshakes.com/your-visit/accessibility": {
       "status": 200,
@@ -822,7 +822,7 @@
       "final_url": "https://www.greatparks.org/about/accessibility",
       "last_modified": null,
       "sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3029
     },
     "https://www.greatparks.org/parks/francis-recreacres": {
@@ -910,7 +910,7 @@
       "final_url": "https://www.greatparks.org/parks/winton-woods",
       "last_modified": null,
       "sha256": "8aa992f598cb2f65b928823178b6695c19dcb7a67c8de725b23692de68b0a091",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4072
     },
     "https://www.greatparks.org/parks/winton-woods/harbor-loop-trail": {
@@ -918,7 +918,7 @@
       "final_url": "https://www.greatparks.org/parks/winton-woods/harbor-loop-trail",
       "last_modified": null,
       "sha256": "2b14e2ff447e23a44ed2998372adcebf4ca6c0ef0cd7b0fda2850a05b9ced4bc",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 858
     },
     "https://www.greatparks.org/parks/winton-woods/west-branch-trail": {
@@ -926,7 +926,7 @@
       "final_url": "https://www.greatparks.org/parks/winton-woods/west-branch-trail",
       "last_modified": null,
       "sha256": "0ec7e8b0482efb4cc491ccea91f26d9709f83a29bbd1f193db2247f0dd7bcb5f",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 646
     },
     "https://www.greatparks.org/parks/winton-woods/winton-center": {
@@ -934,7 +934,7 @@
       "final_url": "https://www.greatparks.org/parks/winton-woods/winton-center",
       "last_modified": null,
       "sha256": "b1011b81bd2754a230e2a8f3f2c4f0cb9a1d8e5efe18ef7a92ea04d4a0de9212",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1321
     },
     "https://www.greatwolf.com/mason/accessibility": {
@@ -970,16 +970,16 @@
       "final_url": "https://www.kentonlibrary.org/homebound/",
       "last_modified": null,
       "sha256": "4cae701a2f34c6f5c62299d48875093bc67249ad83d25eb633d860721625a014",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4761
     },
     "https://www.kentonlibrary.org/locations/4": {
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/4/",
       "last_modified": null,
-      "sha256": "1d027a6fd603cdaad21de1ce571bc7cdc8ab11199a4ccfcccbaff82c935ef0ef",
-      "fingerprint_version": 5,
-      "chars": 4330
+      "sha256": "57f2c72c747a6224fc82e63a53e39423e5f926f5cf9bfce600fac712c7060893",
+      "fingerprint_version": 6,
+      "chars": 4348
     },
     "https://www.kentonlibrary.org/locations/5/": {
       "status": 200,
@@ -993,9 +993,9 @@
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/8/",
       "last_modified": null,
-      "sha256": "b39539038b3d36f6ed303d6513548516ce2714ca3390dd1fa599d658f6f1fb21",
-      "fingerprint_version": 5,
-      "chars": 5115
+      "sha256": "b80f5023f8c4ea14e5e3c3cdd487f2e22bd552ed16a979d295aef3cd401bac5f",
+      "fingerprint_version": 6,
+      "chars": 5140
     },
     "https://www.kenwoodtownecentre.com/en/visit/": {
       "status": 200,
@@ -1374,7 +1374,7 @@
       "final_url": "https://www.boonecountyky.org/business_detail_T35_R60.php",
       "last_modified": null,
       "sha256": "783c33f64f2610ef6c3393def91bd70f5cce0282426ff45060fdc460d018acf8",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2300
     },
     "https://www.boonecountyky.org/business_detail_T35_R65.php": {
@@ -1510,7 +1510,7 @@
       "final_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/licking-river-greenway-trails",
       "last_modified": null,
       "sha256": "483247d8605ec0470fce1ffdf313dc10d2542e45263dcaf1e2231771c22dde3e",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1271
     },
     "https://www.cvgairport.com/accessibility/security-and-accessibility/": {
@@ -1826,7 +1826,7 @@
       "final_url": "https://www.cc-pl.org/locations",
       "last_modified": null,
       "sha256": "0719ce2b1a4e020977226abaa3c65022e6979d32d749f178f74d459f9ee35745",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3899
     },
     "https://chpl.org/locations/pr/": {
@@ -1856,7 +1856,7 @@
     "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone": {
       "status": 200,
       "final_url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
-      "last_modified": "Thu, 12 Nov 2026 02:21:10 GMT",
+      "last_modified": "Thu, 12 Nov 2026 20:54:48 GMT",
       "sha256": "cb2e7151c0c88a6976aef65dfd03441b8e3a2ad0113b98de902a7998dd88879b",
       "fingerprint_version": 6,
       "chars": 5592
@@ -1873,9 +1873,9 @@
       "status": 200,
       "final_url": "https://www.walmart.com/store/2967-ft-wright-ky",
       "last_modified": null,
-      "sha256": "afaf8901642d54dd811af0e5c0011316f0f672d8d9d92662a5c8f6d572623bd4",
+      "sha256": "0a7c5ba11e0bf55a65e84c85f5d582d2a326b3ac59001a4e2618b54413b307ac",
       "fingerprint_version": 6,
-      "chars": 6524
+      "chars": 6658
     },
     "https://www.cvgairport.com/accessibility/hidden-disabilities/": {
       "status": 200,
@@ -2268,10 +2268,730 @@
       "sha256": "1ce98d0f1b7b40acef8063f22cc9d2e02f743eb9a13ab3f5df27ad0844591394",
       "fingerprint_version": 6,
       "chars": 1569
+    },
+    "https://kentonkyclerk.gov/contact-us/": {
+      "status": 200,
+      "final_url": "https://kentonkyclerk.gov/contact-us/",
+      "last_modified": "Thu, 12 Nov 2026 11:07:20 GMT",
+      "sha256": "22fcc8ce9a10f47500fe0372369d5b9018af92bbeeea5313c351933185b66702",
+      "fingerprint_version": 6,
+      "chars": 31634
+    },
+    "https://kentonkyclerk.gov/voting-locations/": {
+      "status": 200,
+      "final_url": "https://kentonkyclerk.gov/voting-locations/",
+      "last_modified": "Thu, 12 Nov 2026 08:46:54 GMT",
+      "sha256": "90c2db26e8f0f35b026c533d01dd689c55462bdbee799f0f084351cede6ff321",
+      "fingerprint_version": 6,
+      "chars": 3413
+    },
+    "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+      "last_modified": null,
+      "sha256": "00803e7b668fa46f1e02203fbc955236537bf90f24cd7dc1e548dde0f08ddbdd",
+      "fingerprint_version": 6,
+      "chars": 6980
+    },
+    "https://www.cincinnati-oh.gov/crc/find-a-facility/aquatics-facility/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/aquatics-facility/",
+      "last_modified": null,
+      "sha256": "b60b70378f1a18043493eaa4bd0f0ca94c9af321ce0f7c74e4e55a57b17844a7",
+      "fingerprint_version": 6,
+      "chars": 4696
+    },
+    "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+      "last_modified": null,
+      "sha256": "93405731bf0cde872a208ec3c3b8b6d4392500d2760fadcc4b971ede563ca05c",
+      "fingerprint_version": 6,
+      "chars": 2128
+    },
+    "https://www.kentoncountyky.gov/CivicAlerts.aspx?AID=604": {
+      "status": 200,
+      "final_url": "https://www.kentoncountyky.gov/m/newsflash/home/detail/604",
+      "last_modified": null,
+      "sha256": "8db55c1a6ba729c691f11f06d43ade14ac3a412714bdeace1dba5dd3d8f64cbe",
+      "fingerprint_version": 6,
+      "chars": 4887
+    },
+    "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html",
+      "last_modified": "Thu, 12 Nov 2026 07:47:00 GMT",
+      "sha256": "f44409b2bfa4baab0c3141a064d53ae4f5f9bef0a742712035a3ddd338f3e678",
+      "fingerprint_version": 6,
+      "chars": 4479
+    },
+    "https://www.uc.edu/campus-life/campus-rec/about/contact-us.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/about/contact-us.html",
+      "last_modified": "Thu, 12 Nov 2026 07:29:18 GMT",
+      "sha256": "acbd11b60cf0275af3115ee958db0dfc53c18e03602e3a9e6355e82c80fb8ea4",
+      "fingerprint_version": 6,
+      "chars": 742
+    },
+    "https://www.uc.edu/campus-life/campus-rec/about/parking.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+      "last_modified": "Thu, 12 Nov 2026 08:18:41 GMT",
+      "sha256": "9f79783333341e1f90f08e8c09180fe273d6815621a1ca77ecea06d4ee36b409",
+      "fingerprint_version": 6,
+      "chars": 3265
+    },
+    "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+      "last_modified": "Thu, 12 Nov 2026 10:57:06 GMT",
+      "sha256": "9ff4a6d831285aa1c52b94f50dadbae454bb7cc0aedebae4919adf8f67ed4726",
+      "fingerprint_version": 6,
+      "chars": 39037
+    },
+    "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html",
+      "last_modified": "Thu, 12 Nov 2026 11:05:51 GMT",
+      "sha256": "568ce62f6b41ea758e17f020670ac2213875e17532d9c136f8e9ce701461bdd7",
+      "fingerprint_version": 6,
+      "chars": 3764
+    },
+    "https://www.uc.edu/campus-life/campus-rec/crc/pools.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
+      "last_modified": "Thu, 12 Nov 2026 07:32:04 GMT",
+      "sha256": "89bfd810ef174898430504d7abca13d98f4a7f62ab96bd35566e6d02c09247ed",
+      "fingerprint_version": 6,
+      "chars": 1892
+    },
+    "https://www.uc.edu/campus-life/campus-rec/membership/rates/community.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/membership/rates/community.html",
+      "last_modified": "Thu, 12 Nov 2026 11:05:02 GMT",
+      "sha256": "b201b40283067c0df126db3084f538ea721e96998d0183eb50ed61f7ce8134ba",
+      "fingerprint_version": 6,
+      "chars": 1153
+    },
+    "https://www.uc.edu/campus-life/campus-rec/membership/rates/students/first-visit.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/membership/rates/students/first-visit.html",
+      "last_modified": "Thu, 12 Nov 2026 07:30:01 GMT",
+      "sha256": "8e1d18e5df5ff046f67986c14746ce0921a5dd94f030acd92a82657243ada6c7",
+      "fingerprint_version": 6,
+      "chars": 9345
+    },
+    "https://www.uc.edu/about/publicsafety/emergencymanagement/emergency-plans/campus-rec-center-gym.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/about/publicsafety/emergencymanagement/emergency-plans/campus-rec-center-gym.html",
+      "last_modified": "Thu, 12 Nov 2026 07:48:31 GMT",
+      "sha256": "f14f4d94cec5749bd68b31400f634e4f5d3b4feac910bca9f60c03042174eaa5",
+      "fingerprint_version": 6,
+      "chars": 14534
+    },
+    "https://chpl.org/about/history/main/downtown-main-library-tours/": {
+      "status": 200,
+      "final_url": "https://chpl.org/about/history/main/downtown-main-library-tours/",
+      "last_modified": null,
+      "sha256": "d7792e54b8c54a4028b21626ab891ed7e01a22cd56ffd0e9dedddd2fe9adea83",
+      "fingerprint_version": 6,
+      "chars": 3966
+    },
+    "https://chpl.org/next-generation/main/": {
+      "status": 200,
+      "final_url": "https://chpl.org/next-generation/main/",
+      "last_modified": null,
+      "sha256": "27d2e1a689b42ceb0f17ed44f7437e55fcea732bc2648b707cd1829a46ea1165",
+      "fingerprint_version": 6,
+      "chars": 51354
+    },
+    "https://www.symphonyhotel.com/bar": {
+      "status": 200,
+      "final_url": "https://www.symphonyhotel.com/bar",
+      "last_modified": "Mon, 02 Nov 2026 17:54:22 GMT",
+      "sha256": "83392851504408fc22e17a1637ad0e39ea30a131bea63c3ed9d7dfd89293b71e",
+      "fingerprint_version": 6,
+      "chars": 1391
+    },
+    "https://www.symphonyhotel.com/contact": {
+      "status": 200,
+      "final_url": "https://www.symphonyhotel.com/contact",
+      "last_modified": "Tue, 10 Nov 2026 08:18:02 GMT",
+      "sha256": "ea346587b50b356f60fbe0511c6c61cfb1452bf63a8306a3bcf23257065cdf1e",
+      "fingerprint_version": 6,
+      "chars": 2943
+    },
+    "https://www.kentonlibrary.org/blogs/post/a-century-in-the-making-latonia-branch-now-open/": {
+      "status": 200,
+      "final_url": "https://www.kentonlibrary.org/blogs/post/a-century-in-the-making-latonia-branch-now-open/",
+      "last_modified": null,
+      "sha256": "b26b04b515159fba995d2defc546b9103cf82cd9b1b8269ad07989331161179f",
+      "fingerprint_version": 6,
+      "chars": 3563
+    },
+    "https://www.kentonlibrary.org/locations/105/": {
+      "status": 200,
+      "final_url": "https://www.kentonlibrary.org/locations/105/",
+      "last_modified": null,
+      "sha256": "ef10c9219251caba379d2fa093feeff349e6bda3c2e5e25eafa7f941f5c0f485",
+      "fingerprint_version": 6,
+      "chars": 3836
+    },
+    "https://www.premiumoutlets.com/outlet/cincinnati/about": {
+      "status": 200,
+      "final_url": "https://www.premiumoutlets.com/outlet/cincinnati/about",
+      "last_modified": null,
+      "sha256": "167c8a8bb5f56c956ad7acf7e9d4ee3d55d33bbcb7018deefb6e8839db7dbabe",
+      "fingerprint_version": 6,
+      "chars": 6705
+    },
+    "https://www.premiumoutlets.com/outlet/cincinnati/stores/management-office": {
+      "status": 200,
+      "final_url": "https://www.premiumoutlets.com/outlet/cincinnati/stores/management-office",
+      "last_modified": null,
+      "sha256": "6526525f11d4fe2756304fcb927b17df80c8d8984289a324b77c0079b55a311c",
+      "fingerprint_version": 6,
+      "chars": 2270
+    },
+    "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making": {
+      "status": 200,
+      "final_url": "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making",
+      "last_modified": null,
+      "sha256": "14b7a29d99e6f21e4d2de8c8fd929fa6350a9fb3611d4ed3679efc0451adc8f6",
+      "fingerprint_version": 6,
+      "chars": 8764
+    },
+    "https://www.cincinnati-oh.gov/council/public-speakers-registration/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/council/public-speakers-registration/",
+      "last_modified": null,
+      "sha256": "8560cc661fbd95d1ecccdf5af08a5bbef58b1b765c3bf2ca9a1cd674246eb25f",
+      "fingerprint_version": 6,
+      "chars": 2442
+    },
+    "https://www.cincinnati-oh.gov/council/welcome-to-city-hall/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/council/welcome-to-city-hall/",
+      "last_modified": null,
+      "sha256": "7028ee53033c92144af472688792ef1cd2b718007869eb236d97af4f1c8d1298",
+      "fingerprint_version": 6,
+      "chars": 2897
+    },
+    "https://www.cincinnati-oh.gov/council/welcome-to-city-hall/city-hall-tours/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/council/welcome-to-city-hall/city-hall-tours/",
+      "last_modified": null,
+      "sha256": "c2acdeec4abc9c7929f0664acb23ca7c4383011bbdcbece4b877dc72e1b8afeb",
+      "fingerprint_version": 6,
+      "chars": 2220
+    },
+    "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
+      "last_modified": null,
+      "sha256": "21b122c4aaa16f06e07bdbd039f75e30e7997629c067c55e0bd9905360f08bb3",
+      "fingerprint_version": 6,
+      "chars": 1875
+    },
+    "https://www.cincinnati-oh.gov/dote/permits-licenses/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/dote/permits-licenses/",
+      "last_modified": null,
+      "sha256": "b43732d833798856827de1fee808497d07fd934f9303cee119af8cb6c1032622",
+      "fingerprint_version": 6,
+      "chars": 3218
+    },
+    "https://www.cincinnati-oh.gov/manager/aging-and-accessibility/ada/notice-under-the-ada/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/manager/aging-and-accessibility/ada/notice-under-the-ada/",
+      "last_modified": null,
+      "sha256": "2ec705784d951dea339c1a99c0fd5138449d96ebb3571681cb4fb1c981cf1537",
+      "fingerprint_version": 6,
+      "chars": 4326
+    },
+    "https://www.cincinnati-oh.gov/manager/aging-and-accessibility/ada/reasonable-accommodation-policy/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/manager/aging-and-accessibility/ada/reasonable-accommodation-policy/",
+      "last_modified": null,
+      "sha256": "52a3f72308f3b21935f44e0d837814e525bb74c73338919865a3147a8b84513a",
+      "fingerprint_version": 6,
+      "chars": 4836
+    },
+    "https://www.kentonlibrary.org/faq/borrowing/": {
+      "status": 200,
+      "final_url": "https://www.kentonlibrary.org/faq/borrowing/",
+      "last_modified": null,
+      "sha256": "e6cb3b998c4c5938a84f371a7df84c0ecfdd87a6f024b1c76a35a9467c5a4eca",
+      "fingerprint_version": 6,
+      "chars": 12808
+    },
+    "https://help.samsclub.com/app/answers/detail/a_id/3980": {
+      "status": 200,
+      "final_url": "https://help.samsclub.com/app/answers/detail/a_id/3980",
+      "last_modified": null,
+      "sha256": "25c592d1afc40e3ed503a21239cc1d1fac174dd238f8b8d7f70baa4ed21c3bbe",
+      "fingerprint_version": 6,
+      "chars": 16979,
+      "transport": "curl_tls_verified"
+    },
+    "https://help.samsclub.com/app/answers/detail/a_id/515/~/sams-club-ada-accessibility": {
+      "status": 200,
+      "final_url": "https://help.samsclub.com/app/answers/detail/a_id/515/~/sams-club-ada-accessibility",
+      "last_modified": null,
+      "sha256": "724fb5dcd423ef4e61a041646cfbd7c6954fb5718ee7a6e9685cd3ba7425f21e",
+      "fingerprint_version": 6,
+      "chars": 11509,
+      "transport": "curl_tls_verified"
+    },
+    "https://www.samsclub.com/club/8133-florence-ky": {
+      "status": 200,
+      "final_url": "https://www.samsclub.com/club/8133-florence-ky",
+      "last_modified": null,
+      "sha256": "45e1c1f962e0bfca7433121b4d58c70b46e029d61be6dc778d56a9425a79a683",
+      "fingerprint_version": 6,
+      "chars": 6964
+    },
+    "https://help.samsclub.com/app/answers/detail/a_id/671/~/tty-%2F-tdd-assistive-listening-phones": {
+      "status": 200,
+      "final_url": "https://help.samsclub.com/app/answers/detail/a_id/671/~/tty-%2F-tdd-assistive-listening-phones",
+      "last_modified": null,
+      "sha256": "f3e0825bf1931808303d2c0f92fac5a969753ad25c0429f89329e8dd409baca3",
+      "fingerprint_version": 6,
+      "chars": 11215,
+      "transport": "curl_tls_verified"
+    },
+    "https://hamiltoncountycourts.org/index.php/court-administration/": {
+      "status": 200,
+      "final_url": "https://hamiltoncountycourts.org/index.php/court-administration/",
+      "last_modified": null,
+      "sha256": "73aacdd1fba18bf983ca28f3cadb6df7756d5613023bddd94ae31b7cf99d93f5",
+      "fingerprint_version": 6,
+      "chars": 1803,
+      "transport": "curl_tls_verified"
+    },
+    "https://hamiltoncountycourts.org/index.php/courthouse-attire/": {
+      "status": 200,
+      "final_url": "https://hamiltoncountycourts.org/index.php/courthouse-attire/",
+      "last_modified": null,
+      "sha256": "d4d0824b87072c156b9e45be18549d8de1faf377ae1dc60c11eba569426dcdd8",
+      "fingerprint_version": 6,
+      "chars": 890,
+      "transport": "curl_tls_verified"
+    },
+    "https://hamiltoncountycourts.org/index.php/juror-amenities/": {
+      "status": 200,
+      "final_url": "https://hamiltoncountycourts.org/index.php/juror-amenities/",
+      "last_modified": null,
+      "sha256": "0ae3227f483b829b3b6ed596f19792065f73eda62a2956a740e3aafc017294bf",
+      "fingerprint_version": 6,
+      "chars": 1004,
+      "transport": "curl_tls_verified"
+    },
+    "https://hamiltoncountycourts.org/index.php/juror-qa/": {
+      "status": 200,
+      "final_url": "https://hamiltoncountycourts.org/index.php/juror-qa/",
+      "last_modified": null,
+      "sha256": "009e7090941c8e8d2a56b31795d4bedba526856ae0b183b2555c57c06d57a41e",
+      "fingerprint_version": 6,
+      "chars": 4034,
+      "transport": "curl_tls_verified"
+    },
+    "https://hamiltoncountycourts.org/index.php/municipal-finding-whenwhere/": {
+      "status": 200,
+      "final_url": "https://hamiltoncountycourts.org/index.php/municipal-finding-whenwhere/",
+      "last_modified": null,
+      "sha256": "6d425f2cdf62938a561ca736d83f3fcbb61d2406e3c4dc0bce4dbed458236b03",
+      "fingerprint_version": 6,
+      "chars": 2414,
+      "transport": "curl_tls_verified"
+    },
+    "https://hamiltoncountycourts.org/index.php/parking-and-map/": {
+      "status": 200,
+      "final_url": "https://hamiltoncountycourts.org/index.php/parking-and-map/",
+      "last_modified": null,
+      "sha256": "dc4f20aa5d3ec088350f09cb22af1591764915e2a5abcccd520002577d7c068d",
+      "fingerprint_version": 6,
+      "chars": 4207,
+      "transport": "curl_tls_verified"
+    },
+    "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery": {
+      "status": 200,
+      "final_url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+      "last_modified": null,
+      "sha256": "bda6568d84f43208fb245987c3549ed8eb865ed06d4cd6388e5c351d0b4f31b9",
+      "fingerprint_version": 6,
+      "chars": 3006
+    },
+    "https://ww2.freshthyme.com/store-location/newport-kentucky-41071": {
+      "status": 200,
+      "final_url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
+      "last_modified": null,
+      "sha256": "4b1c0595616c7eef72c9c32cf44d957971b7800159c58dab46875b33d60794c1",
+      "fingerprint_version": 6,
+      "chars": 536
+    },
+    "https://cincyhelpcenter.org/": {
+      "status": 200,
+      "final_url": "https://cincyhelpcenter.org/",
+      "last_modified": null,
+      "sha256": "d287df8ba20016eac4f7cc013165d3a4fb4a2fddd32070a532d9c313050538c9",
+      "fingerprint_version": 6,
+      "chars": 2426
+    },
+    "https://www.tankbus.org/senior-transportation/": {
+      "status": 200,
+      "final_url": "https://www.tankbus.org/senior-transportation/",
+      "last_modified": "Wed, 11 Nov 2026 18:35:52 GMT",
+      "sha256": "7f29540eb8fa5a18ff92e4b02af99645e9c524358806ed13fdc5ec7508d0deec",
+      "fingerprint_version": 6,
+      "chars": 1484
+    },
+    "https://www.goldenlamb.com/about-us/faqs/": {
+      "status": 200,
+      "final_url": "https://www.goldenlamb.com/about-us/faqs/",
+      "last_modified": null,
+      "sha256": "102612c9946c43aa18b426fab81f19a21c5e24841905ffb59fa8047a17601c2e",
+      "fingerprint_version": 6,
+      "chars": 1910
+    },
+    "https://www.goldenlamb.com/dine/restaurant-information/restaurant-information/": {
+      "status": 200,
+      "final_url": "https://www.goldenlamb.com/dine/restaurant-information/restaurant-information/",
+      "last_modified": null,
+      "sha256": "b70088e29653b52795af5fbd66bcfc379f4472bd05a027f004ccb5e470721cce",
+      "fingerprint_version": 6,
+      "chars": 2774
+    },
+    "https://www.goldenlamb.com/stay/": {
+      "status": 200,
+      "final_url": "https://www.goldenlamb.com/stay/",
+      "last_modified": null,
+      "sha256": "cb349c9da988b74aa3889603375ec37d1a7ed71d2ec86072e62952e19916ceb3",
+      "fingerprint_version": 6,
+      "chars": 1187
+    },
+    "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off": {
+      "status": 200,
+      "final_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+      "last_modified": null,
+      "sha256": "1e3cdf02aa89e6a6e6b30b3e0f846d6a63aeb7b56d17ef41b0c2c1efa0804f90",
+      "fingerprint_version": 6,
+      "chars": 1491
+    },
+    "https://www.cincinnatirecyclingandreusehub.org/hub-club": {
+      "status": 200,
+      "final_url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
+      "last_modified": null,
+      "sha256": "ed69899fda97fb736ae79ef32eb5652c630f3813e2a46f67383b09443cf21e58",
+      "fingerprint_version": 6,
+      "chars": 8907
+    },
+    "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/price-hill/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/price-hill/",
+      "last_modified": null,
+      "sha256": "416bbd462b960bdc454233d245a0c40d7e69fbe9072c62e9fa5c1bcc92b027f7",
+      "fingerprint_version": 6,
+      "chars": 2057
+    },
+    "https://www.cityofoxford.org/departments/parks_recreation/facilities/oxford_aquatic_center.php": {
+      "status": 200,
+      "final_url": "https://www.cityofoxford.org/departments/parks_recreation/facilities/oxford_aquatic_center.php",
+      "last_modified": null,
+      "sha256": "9763412a71d6066d4d64dcad0e1052cabfcc1609453904e96a412b19425dd277",
+      "fingerprint_version": 6,
+      "chars": 13915
+    },
+    "https://www.cityofoxford.org/departments/parks_recreation/memberships.php": {
+      "status": 200,
+      "final_url": "https://www.cityofoxford.org/departments/parks_recreation/memberships.php",
+      "last_modified": null,
+      "sha256": "dcce527b9bf7caa5e902117ec9d5c0cd9d37f6dee116d00d8a47234a0195cca0",
+      "fingerprint_version": 6,
+      "chars": 3528
+    },
+    "https://www.msasport.com/projects/price-hill-recreation-aquatics-center": {
+      "status": 200,
+      "final_url": "https://www.msasport.com/projects/price-hill-recreation-aquatics-center",
+      "last_modified": null,
+      "sha256": "a7dbd78f0e1df29faa57bdcc20948cc9dd1caaeac2cc9b44a5c9167814efce8c",
+      "fingerprint_version": 6,
+      "chars": 841
+    },
+    "https://www.travelbutlercounty.com/accessible-parks": {
+      "status": 200,
+      "final_url": "https://www.travelbutlercounty.com/accessible-parks",
+      "last_modified": "Thu, 12 Nov 2026 17:27:24 GMT",
+      "sha256": "8f218344ad1d9a37bba48096c43f3d7c48dc44e3ea557e73bb764f4fcb005ef0",
+      "fingerprint_version": 6,
+      "chars": 3267
+    },
+    "https://www.kentuckytourism.com/detail/articles/2025/06/26/experiencing-kentucky-as-a-wheelchair-user": {
+      "status": 200,
+      "final_url": "https://www.kentuckytourism.com/detail/articles/2025/06/26/experiencing-kentucky-as-a-wheelchair-user",
+      "last_modified": "Thu, 12 Nov 2026 17:39:02 GMT",
+      "sha256": "1e140484b806e8f6813c6efeb9b7b96e551b314d106dc2bfe50eeb908d80bf4d",
+      "fingerprint_version": 6,
+      "chars": 16560
+    },
+    "https://www.mamasonmain.com/contact": {
+      "status": 200,
+      "final_url": "https://www.mamasonmain.com/contact",
+      "last_modified": null,
+      "sha256": "f60487372ffcc4c73536b729ae1eb31063c1a1658c1f9820ca7541b88143cb45",
+      "fingerprint_version": 6,
+      "chars": 235
+    },
+    "https://www.cc-pl.org/get-a-library-card": {
+      "status": 200,
+      "final_url": "https://www.cc-pl.org/library-card",
+      "last_modified": null,
+      "sha256": "2d7ea0a4def4976e3b53ccfcd438329f8f272c6fb0b5e012210b8c25188fb2ff",
+      "fingerprint_version": 6,
+      "chars": 5305
+    },
+    "https://www.blueashparksandrec.com/": {
+      "status": 200,
+      "final_url": "https://www.blueashparksandrec.com/",
+      "last_modified": null,
+      "sha256": "ceb091eb69c18283648c8c6cc65f64230b8b460f4ab9825e5bf0416534079621",
+      "fingerprint_version": 6,
+      "chars": 795
+    },
+    "https://www.blueashparksandrec.com/recreation_center/aquatics.php": {
+      "status": 200,
+      "final_url": "https://www.blueashparksandrec.com/recreation_center/aquatics.php",
+      "last_modified": null,
+      "sha256": "4a118482e987cca63ec7f706f17da0c84180087ba403c0f09452f2b61239d65d",
+      "fingerprint_version": 6,
+      "chars": 10563
+    },
+    "https://www.blueashparksandrec.com/recreation_center/fitness_wellness/orientations.php": {
+      "status": 200,
+      "final_url": "https://www.blueashparksandrec.com/recreation_center/fitness_wellness/orientations.php",
+      "last_modified": null,
+      "sha256": "d6f83486792ef31267239e94697d4794ed4de2cf8047d655caa6bba52963b018",
+      "fingerprint_version": 6,
+      "chars": 2857
+    },
+    "https://www.blueashparksandrec.com/recreation_center/membership.php": {
+      "status": 200,
+      "final_url": "https://www.blueashparksandrec.com/recreation_center/membership.php",
+      "last_modified": null,
+      "sha256": "e1a5610c9eb8d8674815da2588cef7585bc685cb96dc6af9266d324df5444f72",
+      "fingerprint_version": 6,
+      "chars": 5044
+    },
+    "https://www.blueashparksandrec.com/recreation_center/poolhours.php": {
+      "status": 200,
+      "final_url": "https://www.blueashparksandrec.com/recreation_center/poolhours.php",
+      "last_modified": null,
+      "sha256": "3dae15780da84b4c95dded38a832ac7581359dfcf029bc605faadc420b7fd821",
+      "fingerprint_version": 6,
+      "chars": 1278
+    },
+    "https://www.cincynature.org/visit/rules-policies": {
+      "status": 200,
+      "final_url": "https://www.cincynature.org/visit/rules-policies",
+      "last_modified": "Thu, 12 Nov 2026 19:02:49 GMT",
+      "sha256": "f1a139aa5c3d5d28662ed706c99d09b948e6f5ce204f806eb071e9c93a0c2bcf",
+      "fingerprint_version": 6,
+      "chars": 15127
+    },
+    "https://www.junglejims.com/experiences/events-attractions/groups-tours": {
+      "status": 200,
+      "final_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+      "last_modified": "Wed, 11 Nov 2026 21:19:07 GMT",
+      "sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9",
+      "fingerprint_version": 6,
+      "chars": 4748
+    },
+    "https://www.sharonville.org/243/Community-Center": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/243/Community-Center",
+      "last_modified": null,
+      "sha256": "645d4337c3633518ce335f4a4e54b1b43782848417ba75f60e570eb671b0b8eb",
+      "fingerprint_version": 6,
+      "chars": 1429
+    },
+    "https://www.sharonville.org/252/Membership": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/252/Membership",
+      "last_modified": null,
+      "sha256": "3b82706cfc927582a19f9b18dd8ae51b54cb25d1e0ddebe0273deaf7bd9e3e0a",
+      "fingerprint_version": 6,
+      "chars": 2559
+    },
+    "https://www.sharonville.org/255/Aquatics": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/255/Aquatics",
+      "last_modified": null,
+      "sha256": "dcb979c09c44f3f744040c18e3ea544ec84d21adc17766f77480ae3171c3a52e",
+      "fingerprint_version": 6,
+      "chars": 1856
+    },
+    "https://www.sharonville.org/256/Pool-Rules": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/256/Pool-Rules",
+      "last_modified": null,
+      "sha256": "d6fe6043ae71cf7224bd4a6181f8d2c2d02e9154111dfbf875f5b75a08fb1452",
+      "fingerprint_version": 6,
+      "chars": 3386
+    },
+    "https://www.sharonville.org/DocumentCenter/View/4647/Facility-Guide-4-2026": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/DocumentCenter/View/4647/Facility-Guide-4-2026",
+      "last_modified": null,
+      "sha256": "2a9dbba4a97deb3cd3df28d4b81fb3c68e43fdfbcf33fc0dc33804c04a3d5c76",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 39733,
+      "pages": 16
+    },
+    "https://www.sharonville.org/DocumentCenter/View/4688/Hometown-Guide-Summer-2026": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/DocumentCenter/View/4688/Hometown-Guide-Summer-2026",
+      "last_modified": null,
+      "sha256": "5e473cfc9be720b7a3127c7c09e0d3713590e3be417c2d1cd946b11fecf6f96a",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 60322,
+      "pages": 28
+    },
+    "https://www.cincynature.org/light-in-the-forest": {
+      "status": 200,
+      "final_url": "https://www.cincynature.org/light-in-the-forest",
+      "last_modified": "Thu, 12 Nov 2026 18:04:33 GMT",
+      "sha256": "2a2d063338afcb873843f4686d5af02b98b1e883b1193c1e0d7c239ded621d26",
+      "fingerprint_version": 6,
+      "chars": 13543
+    },
+    "https://touseyhouse.com/reservations/": {
+      "status": 200,
+      "final_url": "https://touseyhouse.com/reservations/",
+      "last_modified": null,
+      "sha256": "ec4cb791445ab6f27003aa96ea8b04e732baabd05a18535a9139cc343f6ff1d9",
+      "fingerprint_version": 6,
+      "chars": 383
+    },
+    "https://washingtonpark.org/childrens-playground/": {
+      "status": 200,
+      "final_url": "https://washingtonpark.org/childrens-playground/",
+      "last_modified": null,
+      "sha256": "f3a6db2167d7a10b815ad1b50ab1f89236d6b2620f3b1b2bf049e958267ef524",
+      "fingerprint_version": 6,
+      "chars": 2632
+    },
+    "https://washingtonpark.org/porch/": {
+      "status": 200,
+      "final_url": "https://washingtonpark.org/porch/",
+      "last_modified": null,
+      "sha256": "ce1636f044740dee512bae4c595a8dcd30f4971f9626478af32b617eb016b636",
+      "fingerprint_version": 6,
+      "chars": 2436
+    },
+    "https://www.campbellcountyky.gov/departments/parks-recreation/": {
+      "status": 200,
+      "final_url": "https://www.campbellcountyky.gov/departments/parks-recreation/",
+      "last_modified": null,
+      "sha256": "8a736120682b5639fab0715b6c3202251a45868f4dc99f61556058f9e02aa92f",
+      "fingerprint_version": 6,
+      "chars": 2943
+    },
+    "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/": {
+      "status": 200,
+      "final_url": "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/",
+      "last_modified": null,
+      "sha256": "fb8fa2ce7a5abbd1f1065b764b504fb5ef65ca0a943f03f5a82d688295aa680a",
+      "fingerprint_version": 6,
+      "chars": 4294
+    },
+    "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/aj-jolly-safety-repairs-project/": {
+      "status": 200,
+      "final_url": "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/aj-jolly-safety-repairs-project/",
+      "last_modified": null,
+      "sha256": "cb32556df5239f159271de730b73c69c06d4196f0712beae5dc99abc2f913ef3",
+      "fingerprint_version": 6,
+      "chars": 12865
+    },
+    "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/shelters/": {
+      "status": 200,
+      "final_url": "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/shelters/",
+      "last_modified": null,
+      "sha256": "f06fe0b4f4b7ac030f5c1ef94bec0fe49257711660e128013ce79e97c4ebda92",
+      "fingerprint_version": 6,
+      "chars": 5670
+    },
+    "https://www.campbellcountyky.gov/departments/parks-recreation/pendery-park/": {
+      "status": 200,
+      "final_url": "https://www.campbellcountyky.gov/departments/parks-recreation/pendery-park/",
+      "last_modified": null,
+      "sha256": "e367af84297914293cca9fa8551c04713e738da6cd286d138124982b1c020eae",
+      "fingerprint_version": 6,
+      "chars": 852
+    },
+    "https://www.campbellcountyky.gov/media/huiogrlv/ccfc-meeting-minutes-2024-12-18.pdf": {
+      "status": 200,
+      "final_url": "https://www.campbellcountyky.gov/media/huiogrlv/ccfc-meeting-minutes-2024-12-18.pdf",
+      "last_modified": "Fri, 21 Aug 2026 15:08:33 GMT",
+      "sha256": "3ed263667c30fa95a3a8c88484ce5aa0844340f39919316e58cf228e56b635a1",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 12162,
+      "pages": 7
+    },
+    "https://www.moonbridgeyoga.com/": {
+      "status": 200,
+      "final_url": "https://www.moonbridgeyoga.com/",
+      "last_modified": null,
+      "sha256": "79d8fcaf3528517bd23a0abbd3401aa88c6c04dd183f94fa9b2516fabaea2fb7",
+      "fingerprint_version": 6,
+      "chars": 4916
+    },
+    "https://noliakitchen.com/faqs": {
+      "status": 200,
+      "final_url": "https://noliakitchen.com/faqs",
+      "last_modified": null,
+      "sha256": "968161bc030d40a35ce169b252938a6a9b8e78986beca741eabed66be8e67e19",
+      "fingerprint_version": 6,
+      "chars": 1549
+    },
+    "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf": {
+      "status": 200,
+      "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf",
+      "last_modified": "Thu, 07 Aug 2025 07:48:02 GMT",
+      "sha256": "e715e57a53517601f4e5cd29b133ba464a1debbf0633c56bd70ef286b810c330",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 2707,
+      "pages": 2
+    },
+    "https://www.cvgairport.com/accessibility/goodmaps/": {
+      "status": 200,
+      "final_url": "https://www.cvgairport.com/accessibility/goodmaps/",
+      "last_modified": null,
+      "sha256": "695058acab7dff43886374abbb781ed1a01629f13a2f3566405fb80c5a6d37f5",
+      "fingerprint_version": 6,
+      "chars": 1308
+    },
+    "https://www.cvgairport.com/parking-options/": {
+      "status": 200,
+      "final_url": "https://www.cvgairport.com/parking-options/",
+      "last_modified": null,
+      "sha256": "c43c512c6a0cde9416c33bd75e5929f8f06f2980e2c6f14efec0a68ea183ba0a",
+      "fingerprint_version": 6,
+      "chars": 2093
+    },
+    "https://www.cvgairport.com/terminal-information/ground-transportation/": {
+      "status": 200,
+      "final_url": "https://www.cvgairport.com/terminal-information/ground-transportation/",
+      "last_modified": null,
+      "sha256": "c5ddfa33f96158df175c49915e03bab86bda160e8c44b8d3890f728908e9d586",
+      "fingerprint_version": 6,
+      "chars": 3889
     }
   },
   "findings": {
-    "https://chpl.org/locations/1/": "supported",
     "https://chpl.org/locations/ha/": "supported",
     "https://heritagebankcenter.com/venue-info": "supported",
     "https://renfestival.com/faq/": "supported",
@@ -2280,13 +3000,13 @@
     "https://www.americansignmuseum.org/visit": "supported",
     "https://www.bbriverboats.com/faq": "supported",
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": "unstable",
-    "https://www.kentonlibrary.org/locations/4": "supported",
     "https://www.kentonlibrary.org/locations/5/": "supported",
-    "https://www.kentonlibrary.org/locations/8/": "supported",
     "https://www.sixflags.com/kingsisland/rentals": "supported",
     "https://www.southgatehouse.com/about/": "supported",
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked",
-    "https://www.target.com/sl/newport/2483": "supported"
+    "https://www.target.com/sl/newport/2483": "supported",
+    "https://www.bogarts.com/visit": "supported",
+    "https://www.walmart.com/store/2967-ft-wright-ky": "supported"
   },
   "missing_quotes": {}
 }

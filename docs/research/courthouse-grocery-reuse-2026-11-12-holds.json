@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-11-12",
+  "courthouse": {
+    "technologyPlan": "https://hamiltoncountycourts.org/wp-content/uploads/2025/08/CourtTechnologyPlan.pdf",
+    "reason": "Fresh 200, five pages rendered. Internally labelled May 2023 and page 5 of 4; includes a 330-area-code fax and references to three courtrooms, alongside local information. No coherent current local equipment inventory or remote-hearing availability inferred. Guessed ADA route returned 404, which is not proof that accommodations are unavailable. Current step-free doorway, elevator, screening assistance, communication aids and toilets remain unverified."
+  },
+  "MollyMalones": {
+    "url": "https://mollymalonesirishpub.com/covington/",
+    "result": "Mozilla curl returned 200, but fresh source-monitor fetches of the homepage, contact and private-party pages all returned 403. New homepage hours also differ internally (bar, FAQ and menu blocks). No new note or recheck imported, old dates and facts preserved; manual review required."
+  },
+  "MRBL": {
+    "url": "https://www.opentable.com/r/mrbl-bellevue",
+    "result": "Ordinary HTTPS curl failed HTTP/2; HTTP/1.1 timed out with no response. Earlier west-side elevator lead remains held. No interaction with reservation form."
+  },
+  "KrogerNewport": {
+    "url": "https://www.kroger.com/stores/grocery/ky/newport/i-471-memorial-pkwy-carothers-rd/014/00423",
+    "result": "Correct canonical branch URL still timed out with no bytes on fresh HTTP/1.1 fetch; no listing. An initial unrelated guessed store-ID URL was discarded. No local equipment or service claim imported."
+  },
+  "ALDINewport": {
+    "url": "https://info.aldi.us/stores/l/ky/newport/1301-monmouth-street/f560",
+    "result": "Redirected into generic online storefront with only Store Locator text and encoded application data. No adequately verified local access procedure or physical route; no listing. Guessed accessibility URL 404, FAQ/help shells empty. Do not infer equipment from other branches."
+  },
+  "TraderJoesCrestview": {
+    "url": "https://locations.traderjoes.com/ky/crestview-hills/788/",
+    "result": "Branch confirms grocery at 2780 Dixie Highway, separate wine shop at 2785. FAQ and digital accessibility pages 403; physical access not established, no listing. Do not merge wine/grocery destinations."
+  },
+  "MtAuburn": {
+    "result": "Fresh owner page and systemwide inclusion/aquatic-program page reviewed. No resolved map-address discrepancy, current adapted-session dates, transfer procedure, pool-chair licence or inspected equipment photo; no new note or full-review refresh."
+  },
+  "ReuseHub": {
+    "result": "2023 PDF’s free-items description predates current retail resale shop and 2026 membership procedures. Original linked only with historical caution. Current introductory as-low-as $10/month is consistent with $120 annual prepayment; not labelled a price conflict. Monthly billing is a separate option. Mini-Hub video/maps remain uninspected; no current unloading assistance or toilet/lift layout confirmed."
+  },
+  "GoldenLamb": {
+    "result": "2019 proposed lift and improved parking are not completion or operating evidence. Current guest-room no-elevator statement kept separate from first-floor dining and proposed tavern lift. Modern stair-free entrance, lift equipment, toilets and quiet spaces remain unknown."
+  },
+  "unchanged": "AMC’s six held notes, Central Park’s partial review, and all earlier queue holds remain intact."
+}

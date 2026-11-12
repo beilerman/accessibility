@@ -6,8 +6,9 @@ pipeline/evidence/quotes.json. Use null to record a recheck without a quote.
 
 Each note gets retrieved_at = date, review_status source_checked and a
 "rechecked" history entry. A place's checked_at moves forward only when all
-of its active notes were re-read on that date. Notes that need new wording or
-withdrawal are edited by hand (keep the ID, append "revised" or "retired").
+of its active notes were re-read on that date and have source_checked status.
+Notes that need new wording or withdrawal are edited by hand (keep the ID,
+append "revised" or "retired").
 """
 import json
 import sys
@@ -15,7 +16,8 @@ import sys
 from _catalog import load_places, load_quotes, record_quote, save_places, save_quotes, today
 
 date = sys.argv[2] if len(sys.argv) > 2 else today()
-spec = json.load(open(sys.argv[1]))
+with open(sys.argv[1]) as source:
+    spec = json.load(source)
 places = load_places()
 quotes = load_quotes()
 seen = set()
@@ -33,7 +35,7 @@ for place in places:
             if was_flagged else "Routine recheck; the source still supports this note.")))
         record_quote(quotes, fact["id"], fact["source_url"], spec[fact["id"]], date)
     active = [f for f in place["facts"] if f["review_status"] != "retired"]
-    if active and all(f["retrieved_at"] == date for f in active):
+    if active and all(f["retrieved_at"] == date and f["review_status"] == "source_checked" for f in active):
         place["checked_at"] = date
 unknown = set(spec) - seen
 assert not unknown, f"unknown note IDs: {sorted(unknown)}"

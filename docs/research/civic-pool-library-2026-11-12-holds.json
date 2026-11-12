@@ -1,0 +1,73 @@
+{
+  "checkedAt": "2026-11-12",
+  "MRBL": {
+    "sources": [
+      "https://www.mrblsteak.com/",
+      "https://www.mrblsteak.com/calendar",
+      "https://www.mrblsteak.com/private-dining",
+      "https://www.mrblsteak.com/gallery"
+    ],
+    "verifiedScope": "Fresh official HTML confirms 119 Fairfield Avenue, Suite 427, Bellevue, KY 41073, current hours, a November live-music calendar and a linked OpenTable reservation provider. No physical-access instruction found on reviewed owner pages. No form submitted or age assertion made.",
+    "heldSource": "https://www.opentable.com/r/mrbl-bellevue",
+    "hold": "The indexed west-side glass-elevator statement is a research lead only. Direct page fetch timed out; official linked reservation URL failed with curl HTTP/2 error. No listing or elevator claim imported. Guessed owner FAQ/contact routes returned 404. No location-matched reusable access photo selected."
+  },
+  "NewRiff": {
+    "sources": [
+      "https://newriffdistilling.com/contact/",
+      "https://newriffdistilling.com/experiences/",
+      "https://newriffdistilling.com/faq/",
+      "https://newriffdistilling.com/"
+    ],
+    "hold": "All four direct official fetches returned HTTP 403. Search-only elevator/no-stair lead is not confirmed. No listing, note or recheck imported. Six CC0 Commons search results identify West Campus, a different site from the prospective 24 Distillery Way visitor destination; no photographs downloaded or transferred between sites."
+  },
+  "MadMikes": {
+    "source": "https://madmikesburger.com/newport/",
+    "hold": "Search retrieval has a Newport location and broad access labels; fresh direct fetch returned HTTP 403. No local entrance, restroom or seating claim imported and no listing added."
+  },
+  "CityHall": {
+    "hold": "Ninth Street step-free entrance appears in secondary reporting, including a 2016 courtyard security proposal. No current fresh official doorway instruction established. Do not transfer Central Avenue entrance instructions for 805 Central Avenue to City Hall at 801 Plum Street, or apply Cleveland/Dayton/Oulu city-hall features."
+  },
+  "MtAuburn": {
+    "fallSchedule": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-Fall-2026-Schedule-and-Program-Info.pdf",
+    "decemberSchedule": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-December-26-Schedule-and-Program-Info.pdf",
+    "scope": "Fresh schedule PDFs fetched and text extracted (2 and 3 pages). Fall cover is September 28-November 25, 2026, but its adapted-aquatics session ended November 7. December packet covers November 30-December 18 and also contains January-April lesson details. No current adapted session inferred, no schedule hours copied into a note from a different source page. These are timetables, not photo guides."
+  },
+  "HamiltonCountyCourthouse": {
+    "sources": {
+      "court-parking": {
+        "url": "https://hamiltoncountycourts.org/index.php/parking-and-map/",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>"
+      },
+      "court-security": {
+        "url": "https://hamiltoncountycourts.org/index.php/courthouse-attire/",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>"
+      },
+      "court-ada": {
+        "url": "https://hamiltoncountycourts.org/index.php/ada/",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>"
+      },
+      "court-jury": {
+        "url": "https://hamiltoncountycourts.org/index.php/jury-service/",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)>"
+      }
+    },
+    "hold": "Official arrival/security sources are leads. All four initial Python requests failed certificate-chain verification; no listing, security rule, entrance or accommodation claim imported. Unrelated Hamilton County courts and unofficial court-record aggregators were not used.",
+    "followup": "A normal curl request with TLS certificate verification enabled returned HTTP 200 for the official parking page. It names 1000 Main Street, an 8 a.m. opening, security-checkpoint queues longest 8:30-9:30 a.m., Main Street arrival and named garages. This source has been text-reviewed only; no listing or current step-free route established. The new narrowly scoped verified-TLS fallback may permit a later complete evidence/imagery batch."
+  },
+  "SamsClubFlorence": {
+    "status": "Supported listing added after verified-TLS fetch recovery",
+    "sources": [
+      "https://www.samsclub.com/club/8133-florence-ky",
+      "https://help.samsclub.com/app/answers/detail/a_id/515/~/sams-club-ada-accessibility",
+      "https://help.samsclub.com/app/answers/detail/a_id/3980"
+    ],
+    "heldGaps": "No matched reusable access photo or official inspected photo guide. Equipment counts, collection location, loan rules, local loading assistance meeting point, physical pickup-bay layout, phone-only check-in and toilet/changing facilities remain unverified. The linked older 1726 pickup help URL redirects to a script-only page, and guessed 1113 yielded an error shell. Neither was used as fact evidence.",
+    "scope": "The 3980 current FAQ provides pickup instructions; its pickup hours are distinct from the local branch’s shopping hours, not a resolved statement of Florence’s available order slots. Chain compliance claim was not imported.",
+    "communicationFollowup": "The current TTY/TDD help page was freshly fetched and matched twice: it says no assistive-listening telephone lines and offers live chat daily 7 a.m.-11 p.m. Central. Published as a separate chain-scoped note; this does not establish a Florence pickup check-in alternative. The 457 Curbside Pickup Purchases page did not establish a phone-only arrival procedure."
+  },
+  "CostcoFlorence": {
+    "source": "https://www.costco.com/w/-/ky/florence-kentucky/1197",
+    "status": 200,
+    "scope": "Fresh warehouse page names 800 Heights Boulevard, membership-dependent shopping hours, pharmacy and hearing/optical service contacts. Physical access and branch-specific equipment not established; no listing or accommodation claim imported. Canadian/Ontario accessibility policy not applied."
+  }
+}

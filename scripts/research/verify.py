@@ -6,14 +6,22 @@ cache={}
 # One normalization for verifying quotes and for the weekly source monitor.
 sys.path.insert(0,str(__import__('pathlib').Path(__file__).resolve().parents[2]/'pipeline'))
 from check_sources import quote_text as norm
+from check_sources import response_result
+
+def document_text(data, url, content_type=""):
+    if "application/pdf" in content_type.lower() or data.lstrip().startswith(b"%PDF-"):
+        result = response_result(data, content_type, 200, url)
+        return result.get("_text") or "ERR " + result.get("text_extraction_error", result.get("error", "PDF needs manual review"))
+    return norm(data.decode('utf8', 'ignore'))
+
 def text(u):
     if u not in cache:
         try:
-            raw=urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=40).read().decode('utf8','ignore')
-            cache[u]=norm(raw)  # keep script contents too (some sites embed copy in JSON)
+            with urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=40) as response:
+                cache[u]=document_text(response.read(),u,response.headers.get('Content-Type',''))
         except Exception as e:
             import subprocess
-            try: cache[u]=norm(subprocess.check_output(['curl','-sL','-m','40','-A',UA['User-Agent'],u]).decode('utf8','ignore'))
+            try: cache[u]=document_text(subprocess.check_output(['curl','-sL','-m','40','-A',UA['User-Agent'],u]),u)
             except Exception as e2: cache[u]='ERR '+str(e2)
         time.sleep(0.8)
     return cache[u]

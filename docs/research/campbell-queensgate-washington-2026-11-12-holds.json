@@ -1,0 +1,114 @@
+{
+  "checkedAt": "2026-11-12T21:04:09.938729+00:00",
+  "Riverside Korean Restaurant": {
+    "status": "held_manual_review",
+    "officialUrls": [
+      "https://riversidekoreanrestaurant.com/",
+      "https://riversidekoreanrestaurant.com/contact/"
+    ],
+    "researchFetch": 200,
+    "sourceMonitorFetch": 403,
+    "verifiedLead": "Current home page distinguishes conventional seating and Korean floor tables; same-day reservations by phone on contact page. No listing imported while monitor retrieval is blocked.",
+    "photos": [
+      {
+        "commonsPageId": 88191548,
+        "captureDate": "2019-10-28",
+        "license": "CC0",
+        "author": "Warren LeMay",
+        "inspection": "Three similar low-table/cushion photographs inspected. The vertical frame shows the low table, cushion and floor clearly; all predate the venue-described 2020 expansion. Retain as candidates only, no public asset."
+      },
+      {
+        "commonsPageId": 88191553,
+        "captureDate": "2019-10-28",
+        "license": "CC0",
+        "author": "Warren LeMay",
+        "inspection": "Three similar low-table/cushion photographs inspected. The vertical frame shows the low table, cushion and floor clearly; all predate the venue-described 2020 expansion. Retain as candidates only, no public asset."
+      },
+      {
+        "commonsPageId": 88191552,
+        "captureDate": "2019-10-28",
+        "license": "CC0",
+        "author": "Warren LeMay",
+        "inspection": "Three similar low-table/cushion photographs inspected. The vertical frame shows the low table, cushion and floor clearly; all predate the venue-described 2020 expansion. Retain as candidates only, no public asset."
+      }
+    ]
+  },
+  "Newport on the Levee": {
+    "status": "held_manual_review",
+    "urls": [
+      "https://www.newportonthelevee.com/amenities/",
+      "https://www.newportonthelevee.com/directions-and-parking/",
+      "https://www.newportonthelevee.com/directory/"
+    ],
+    "directFetch": 403,
+    "photos": "Four licensed full frames inspected: 2019 elevator-building image cuts off the actual entrance; 2010 lower-level image has people/vehicles and a gap in the route; 2019/2022 river views do not identify an elevator connection. None imported."
+  },
+  "Moon Bridge Yoga": {
+    "status": "supported_pending_runner",
+    "note": "Browser-user-agent root and offerings requests returned 403, but multiple source-monitor requests and the independent verify.py fetch succeeded at 200 with the FAQ and address. Current accepted passages verified. No reusable matched access photograph found."
+  },
+  "ALDI Newport": {
+    "status": "held_script_shell",
+    "oldLocator": "https://stores.aldi.us/ky/newport/1301-monmouth-street",
+    "finalLocator": "https://www.aldi.us/store/aldi/pages/locator/l/ky/newport/1301-monmouth-street/f560",
+    "http": 200,
+    "extractableTextChars": 29,
+    "note": "Locator redirects to current shopping platform but supplies only a script shell; help root and old FAQ also lack readable content. No location, pickup or motorcart fact imported. Avoid nonofficial ALDI-lookalike domains and other stores’ cart anecdotes."
+  },
+  "Nolia Kitchen": {
+    "status": "supported_pending_runner",
+    "canonical": "https://noliakitchen.com/faqs",
+    "note": "Canonical FAQs fetched directly and through source monitor at 200. Squarespace mirror also works but is not the note source. Commons searches for Nolia/1405 Clay did not identify a matched access photograph; broad Clay Street images remain unselected."
+  },
+  "Benihana Cincinnati": {
+    "status": "lead_only",
+    "officialUrl": "https://www.benihana.com/locations/cincinnati-i/",
+    "note": "Official page fetched 200 with an undetailed wheelchair-accessible label, onsite parking and private dining. No clear entrance/transfer/toilet route or matched access photo identified. No listing added."
+  },
+  "The Chalet": {
+    "status": "excluded_outside_region",
+    "url": "https://thechaletgourmet.com/faqs%2Freviews",
+    "note": "Useful ramp/loft FAQ belongs to Somerset, Kentucky, outside this directory’s Greater Cincinnati/Northern Kentucky scope. Not a local listing."
+  },
+  "Pompilios": {
+    "status": "lead_only",
+    "commonsPageId": 94347891,
+    "inspection": "August 2020 CC0 frame shows rear/upper wall and a parking sign; no complete visitor doorway/parking-to-door connection. Not imported."
+  },
+  "Campbell County parks media": {
+    "status": "no_new_guide",
+    "note": "No AJ Jolly/Pendery access photograph found on Commons. County shelter/site-photo pages remain live but photographs have no established reuse licence. The inspected one-page February 2025 map PDF is 23.7 MB with symbols, not a photo walkthrough; five-page driving PDF has map screenshots, not venue photographs. February 2025 newsletter page 4 has only a golf landscape photo alongside historical completed-work text. No guide or photograph imported from these. Current 2024 minutes recovered at the new /media/ URL; old egov link is 404."
+  },
+  "Pendery nature trail": {
+    "status": "held_completion_and_route",
+    "lead": "https://linknky.com/culture/2026/10/15/pendery-park-nature-trail-to-open-next-month/",
+    "note": "News announces November 6 ribbon cutting and location near entrance sign. No fresh primary completion/route/equipment inspection established. Keep separate from current overview’s three-quarter-mile trail. No opening or surface claim imported."
+  },
+  "CVG": {
+    "status": "arrival_depth_ready_media_held",
+    "note": "Current parking, ground-transportation and GoodMaps pages support new notes; all 20 earlier notes freshly supported. Elevate CVG describes planned work, not completed restroom/elevator improvements or a particular current closure. Media parking instructions are for journalists, not passenger arrival. No new matched reusable access photo or inspected 360-degree tour; earlier image/tour holds remain."
+  },
+  "Walmart Aira PDF": {
+    "status": "text_evidence_only",
+    "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf",
+    "pages": 2,
+    "bytes": 86098,
+    "metadataDate": "2025-06-26",
+    "inspection": "Both full pages rendered and inspected. Text instructions with logos and video links, not a photo walkthrough; added as note source, not to access-guides.json. Video not inspected. No local cart or assistance observation inferred."
+  },
+  "Washington Park media": {
+    "status": "two_selected",
+    "note": "Thirteen frames inspected. Selected February 2019 curb/sidewalk/bench view and August 2012 green-lit water jets. Other frames show prominent people, partial/duplicate views, a weak street context or old filtered playground images. No strobe/noise/quiet-hour or current-operation claim from still images."
+  },
+  "Final arrival-photo search": {
+    "checkedAt": "2026-11-12T21:11:53.098280+00:00",
+    "queries": [
+      "Fort Wright + Walmart",
+      "Florence + Sam’s Club",
+      "Kenton County Government",
+      "Sharonville + Community Center"
+    ],
+    "source": "Wikimedia Commons imageinfo search, bitmap files",
+    "result": "No additional matched image candidates returned. Existing photo/guide gaps retained; no duplicate or other-location picture substituted."
+  }
+}

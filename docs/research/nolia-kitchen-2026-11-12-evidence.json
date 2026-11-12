@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "nolia-kitchen",
+    "address_url": "https://noliakitchen.com/faqs",
+    "address_quote": "1405 Clay Street Cincinnati, OH 45202",
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Nolia describes a wheelchair-accessible entrance and asks visitors to tell staff about accommodation needs. The FAQ does not identify the doorway, controls or threshold.",
+        "url": "https://noliakitchen.com/faqs",
+        "quote": "We have a wheelchair-accessible entrance. Please let us know if you need accommodations and we will be happy to direct you to."
+      },
+      {
+        "domain": "mobility",
+        "text": "The dining room has tables for up to 26. The front chef’s counter seats five on bar stools, and the separate back bar seats eight on stools. Ask about the intended table; transfer space and table heights are not described.",
+        "url": "https://noliakitchen.com/faqs",
+        "quote": "Front Chef's Counter: Seats 5 at bar stools overlooking the kitchen. The best place to sit to be a part of the action Dining Room: Seats up to 26 at tables Back Bar: This section is separate, in the back of the restaurant and seats 8 at the bar in bar stools. We offer the same menu and service in the back bar."
+      },
+      {
+        "domain": "cognitive",
+        "text": "For groups of four or more, the restaurant recommends reserving one to three months ahead because last-minute arrangements are harder. This is planning advice, not guaranteed availability.",
+        "url": "https://noliakitchen.com/faqs",
+        "quote": "As our reservation interest has started to take off, it is harder to accommodate groups of 4 or larger last-minute. If you have a larger group, we recommend booking at least 1-3 months in advance to ensure availability."
+      },
+      {
+        "domain": "cognitive",
+        "text": "For six or more guests, reservations require a card through OpenTable. The FAQ gives a $20-per-person fee for cancellation less than 48 hours ahead.",
+        "url": "https://noliakitchen.com/faqs",
+        "quote": "Reservations for 6 or more guests require a credit card on file via OpenTable. If the reservation is canceled less than 48 hours prior to your reservation, a $20 fee per person will be charged."
+      },
+      {
+        "domain": "cognitive",
+        "text": "If online booking does not work, email hello@noliakitchen.com; the restaurant says it responds within 48 hours. An email is not a confirmed booking.",
+        "url": "https://noliakitchen.com/faqs",
+        "quote": "If you are unable to book online via OpenTable, please email us at hello@noliakitchen.com. We will respond within 48 hours."
+      }
+    ]
+  }
+]

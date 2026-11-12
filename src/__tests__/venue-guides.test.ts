@@ -10,7 +10,8 @@ describe("Reviewed concert venue guides", () => {
     expect(place).toBeDefined();
     expect(place.evidence_type).toBe("public_website");
     expect(place.observed_at).toBeNull();
-    expect(place.checked_at).toBe("2026-11-08");
+    // A routine source recheck may advance checked_at without becoming a field visit.
+    expect(place.checked_at >= "2026-11-08").toBe(true);
     expect(place.limitations).toContain("no on-site audit");
     // Outside visitor reports live in their own collection; they never
     // become website facts or change a fact's provenance.
@@ -25,7 +26,7 @@ describe("Reviewed concert venue guides", () => {
       expect(fact.review_status).toBe("source_checked");
       expect(fact.observed_at).toBeNull();
       expect(fact.published_at).toBeNull();
-      expect(fact.retrieved_at).toBe("2026-11-08");
+      expect(fact.retrieved_at >= "2026-11-08").toBe(true);
       expect(new URL(fact.source_url).hostname.replace(/^www\./, "")).toBe(
         new URL(place.website).hostname.replace(/^www\./, ""),
       );

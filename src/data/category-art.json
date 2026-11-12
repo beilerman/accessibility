@@ -54,6 +54,15 @@
     "caption": "AI artwork — food and drink theme; not a view or accessibility assessment of this venue."
   },
   {
+    "category": "Recreation & fitness",
+    "title": "Time to move",
+    "src": "/images/categories/recreation.svg",
+    "width": 1200,
+    "height": 800,
+    "alt": "AI artwork showing a stylized ball, dumbbell and swimming goggles on an abstract background.",
+    "caption": "AI artwork — recreation theme; not a view or accessibility assessment of this venue."
+  },
+  {
     "category": "Shopping",
     "title": "Everyday shopping",
     "src": "/images/categories/shopping.svg",
@@ -61,5 +70,14 @@
     "height": 800,
     "alt": "AI artwork showing two stylized shopping bags and a leaf on an abstract background.",
     "caption": "AI artwork — shopping theme; not a view or accessibility assessment of this venue."
+  },
+  {
+    "category": "Public services",
+    "title": "Community connections",
+    "src": "/images/categories/public-services.svg",
+    "width": 1200,
+    "height": 800,
+    "alt": "AI artwork showing stylized papers, a pencil and speech bubbles on an abstract background.",
+    "caption": "AI artwork — public services theme; not a view or accessibility assessment of this venue."
   }
 ]

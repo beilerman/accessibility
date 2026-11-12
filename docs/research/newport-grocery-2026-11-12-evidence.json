@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "fresh-thyme-market-newport",
+    "address_url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
+    "address_quote": "82A Carothers Rd., Newport, KY 41071",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Newport location is at 82A Carothers Road and lists daily store hours of 7 a.m.–9 p.m. Call 859-486-2106 to confirm current hours and pickup or assistance arrangements. These are shopping hours, not a verified pickup timetable.",
+        "url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
+        "quote": "Store address 82A Carothers Rd., Newport, KY 41071 Get Directions Phone number 859-486-2106 Email [email protected] Store Hours* Sunday 7:00 am - 9:00 pm Monday 7:00 am - 9:00 pm Tuesday 7:00 am - 9:00 pm Wednesday 7:00 am - 9:00 pm Thursday 7:00 am - 9:00 pm Friday 7:00 am - 9:00 pm Saturday 7:00 am - 9:00 pm"
+      },
+      {
+        "domain": "cognitive",
+        "text": "Fresh Thyme’s pickup FAQ linked in the Newport storefront offers ordering through its website or mobile app. Sign in or create a loyalty account, choose the store and add items. The page does not describe the Newport collection point, arrival check-in or loading help.",
+        "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "quote": "There are two ways to place a pickup order with Fresh Thyme: Using our Website: Sign in or create your Fresh Thyme loyalty account. Select your preferred store and begin adding items to your cart. Using our Mobile App: Download our mobile app on the App Store or Google Play . Sign in or create your Fresh Thyme loyalty account. Select your preferred store and begin adding items to your cart."
+      },
+      {
+        "domain": "chronic",
+        "text": "The chain’s pickup rules say to collect within the selected time frame and contact the store directly if late or changing an order. If the store has not heard from the customer by the end of the day, it cancels the order without processing payment.",
+        "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "quote": "You can pick up your order within the selected time frame. If you are going to arrive late or need to change your order, please contact the store directly. If the store has not heard from the customer by the end of the day, the order will be cancelled. Payment is not processed for cancelled orders."
+      },
+      {
+        "domain": "cognitive",
+        "text": "The pickup FAQ allows scheduling up to two weeks ahead. A missing preferred time slot means that store has reached its pickup capacity for that period; choose an available slot. This does not confirm today’s Newport availability.",
+        "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "quote": "Currently, pick-up times can be scheduled as far out as two weeks in advance. What if my desired timeslot is not showing? If the timeslot you desire is not available, this means that store already has the maximum amount of pickup orders during that timeframe. Please choose the next available timeslot."
+      },
+      {
+        "domain": "chronic",
+        "text": "The pickup FAQ says temperature-controlled products are kept in temperature-controlled storage before collection. It does not provide storage temperatures or promise a safe storage period after collection.",
+        "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "quote": "How will temperature-controlled products stay hot or cold? Temperature-controlled products are placed in temperature-controlled storage."
+      },
+      {
+        "domain": "cognitive",
+        "text": "Fresh Thyme’s pickup FAQ excludes alcohol from pickup and says CBD products can only be bought in-store. Plan for those exclusions before relying on pickup for a complete shopping trip.",
+        "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "quote": "Can I purchase CBD products online? Not at this time. CBD products can only be purchased in-store. Can I purchase alcohol online? Not through pick-up at this time. Alcohol products can only be purchased in-store or through a delivery service provider like DoorDash, Instacart, or UberEats."
+      }
+    ],
+    "storeMatch": {
+      "sourceUrl": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+      "retailerStoreId": "801",
+      "name": "Newport, KY",
+      "addressLine1": "82A Carothers Rd.",
+      "shoppingModes": [
+        "planning",
+        "pickup"
+      ],
+      "method": "JSON-decoded activeStoreDetails and matched official branch address and public storefront header. No login, cart or order action."
+    }
+  }
+]

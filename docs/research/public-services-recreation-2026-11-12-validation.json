@@ -1,0 +1,136 @@
+{
+  "baseCommit": "a0f29e5cdcd4fc69629ce45885d116619ea8ad7a",
+  "checkedAt": "2026-11-12T11:27:36.802671+00:00",
+  "newVenues": [
+    "kenton-county-government-center",
+    "uc-campus-recreation-center",
+    "dunham-recreation-complex"
+  ],
+  "newNotes": 35,
+  "fullExistingVenueRechecks": [
+    "bogarts"
+  ],
+  "partialExistingNoteRechecks": [],
+  "revisedNotes": 0,
+  "retiredNotes": 0,
+  "newAccessPhotos": 4,
+  "newContextPhotoUses": 2,
+  "newGuides": 1,
+  "counts": {
+    "venues": 117,
+    "activeNotes": 957,
+    "storedQuotes": 477,
+    "accessPhotos": 20,
+    "guideEntries": 11,
+    "distinctGuideDocuments": 10
+  },
+  "evidenceChecks": {
+    "passed": 65,
+    "failed": 0,
+    "scope": "35 new notes, 11 old notes, 3 addresses, 16 supplementary passages"
+  },
+  "sourceBaselines": {
+    "pages": 18,
+    "status": 200,
+    "newAttentionFindings": 0
+  },
+  "checks": {
+    "types": "passed",
+    "lint": "passed",
+    "unitTests": 60,
+    "pipelineTests": 48,
+    "productionBuild": "passed",
+    "httpChecks": [
+      {
+        "path": "/venues/kenton-county-government-center",
+        "status": 200,
+        "checked": "All active notes, limitations, heading and report link visible in rendered HTML"
+      },
+      {
+        "path": "/venues/uc-campus-recreation-center",
+        "status": 200,
+        "checked": "All active notes, limitations, heading and report link visible in rendered HTML"
+      },
+      {
+        "path": "/venues/dunham-recreation-complex",
+        "status": 200,
+        "checked": "All active notes, limitations, heading and report link visible in rendered HTML"
+      },
+      {
+        "path": "/venues/bogarts",
+        "status": 200,
+        "checked": "All active notes, limitations, heading and report link visible in rendered HTML"
+      },
+      {
+        "path": "/venues?category=Public%20services&region=KY",
+        "status": 200,
+        "checked": "Expected listing discovered in category/region filter"
+      },
+      {
+        "path": "/venues?category=Recreation%20%26%20fitness&region=OH",
+        "status": 200,
+        "checked": "Expected listing discovered in category/region filter"
+      },
+      {
+        "path": "/venues?category=Parks%20%26%20outdoors&region=OH",
+        "status": 200,
+        "checked": "Expected listing discovered in category/region filter"
+      },
+      {
+        "path": "/access-in-pictures",
+        "status": 200
+      },
+      {
+        "path": "/sources",
+        "status": 200
+      },
+      {
+        "path": "/updates",
+        "status": 200
+      },
+      {
+        "path": "/",
+        "status": 200
+      },
+      {
+        "path": "/images/access/kenton-government-railed-walkway.webp",
+        "status": 200,
+        "sha256": "8f084a66ff6675cf0bf2ed5ae4d898b6f64da6227fea38660512e425daf015f1"
+      },
+      {
+        "path": "/images/access/kenton-government-entrance.webp",
+        "status": 200,
+        "sha256": "f52b5ce53922efdefc76c8b3a9115ea52813895b5aa30f376a80a6d1b641c5be"
+      },
+      {
+        "path": "/images/access/uc-crc-lap-pool-seating.webp",
+        "status": 200,
+        "sha256": "437f498ae3af4dc2902854724c19107fb33ee15ef19c2d997a0b8069e2316388"
+      },
+      {
+        "path": "/images/access/uc-crc-plaza.webp",
+        "status": 200,
+        "sha256": "520b722c22f9cc1832cdc3dde52f672868bb3318c45235cbd490ea57a0f9b2f6"
+      }
+    ],
+    "preservation": "passed",
+    "whitespace": "passed",
+    "browser": {
+      "listedTests": 99,
+      "passed": false,
+      "targetedRoute": "/venues/kenton-county-government-center",
+      "reason": "Chromium launch fails before navigation with macOS Mach-port Permission denied (1100); CUA browser host unavailable. Runner must complete browser gate."
+    }
+  },
+  "helperFix": {
+    "file": "scripts/research/recheck.py",
+    "issue": "An unresolved same-day note could advance a full venue review date.",
+    "regressionTests": 3,
+    "reproducedBeforeFix": true
+  },
+  "publication": {
+    "agentGitWrites": false,
+    "deployed": false,
+    "runnerValidationRequired": true
+  }
+}

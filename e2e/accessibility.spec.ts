@@ -1,10 +1,20 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 import places from "../src/data/places.json";
-import { dateLabel } from "../src/lib/catalog";
+import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/catalog";
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/nolia-kitchen",
+  "/venues/aj-jolly-park",
+  "/venues/pendery-park",
+  "/venues/moon-bridge-yoga",
+  "/venues/tousey-house-tavern",
+  "/venues/blue-ash-recreation-center",
+  "/venues/sharonville-community-center-aquatic-center",
+  "/venues/mamas-on-main",
+  "/venues/price-hill-recreation-center-dempsey-pool",
+  "/venues/oxford-aquatic-center",
   "/",
   "/venues",
   "/venues/newport-aquarium",
@@ -27,6 +37,7 @@ const routes = [
   "/venues/kenton-county-public-library-erlanger-branch",
   "/venues/kenton-county-public-library-independence-branch",
   "/venues/smale-riverfront-park",
+  "/venues/winton-woods",
   "/venues/eden-park",
   "/venues/ault-park",
   "/venues/washington-park",
@@ -75,6 +86,19 @@ const routes = [
   "/venues/galaxie-covington",
   "/venues/hofbrauhaus-newport",
   "/venues/brkthrough-cincinnati-kenwood",
+  "/venues/kenton-county-government-center",
+  "/venues/uc-campus-recreation-center",
+  "/venues/dunham-recreation-complex",
+  "/venues/symphony-hotel-bar",
+  "/venues/golden-lamb",
+  "/venues/cincinnati-premium-outlets",
+  "/venues/kenton-county-public-library-latonia-branch",
+  "/venues/cincinnati-city-hall",
+  "/venues/cincinnati-recycling-reuse-hub",
+  "/venues/hamilton-county-courthouse",
+  "/venues/mt-auburn-indoor-pool",
+  "/venues/sams-club-florence",
+  "/venues/fresh-thyme-market-newport",
   "/venues/ikea-west-chester",
   "/venues/cincinnati-northern-kentucky-international-airport-cvg",
   "/venues/boone-county-public-library-chapin-memorial",
@@ -104,13 +128,12 @@ test("concert guides expose sources and cautions on narrow screens", async ({
 }) => {
   await page.setViewportSize({ width: 375, height: 812 });
   for (const slug of ["riverbend-music-center", "bogarts"]) {
-    const place = places.find((p) => p.slug === slug)!;
+    const place = publicPlaces.find((p) => p.slug === slug)!;
     await page.goto(`/venues?q=${encodeURIComponent(place.name)}`);
     await page.getByRole("link", { name: place.name, exact: true }).click();
     await expect(page.getByRole("heading", { level: 1 })).toHaveText(place.name);
-    const latestCheck = place.facts.map((fact) => fact.retrieved_at).sort().at(-1)!;
     await expect(
-      page.getByText("Sources last checked " + dateLabel(latestCheck), { exact: false }),
+      page.getByText("Sources last checked " + dateLabel(latestRetrieval(place)), { exact: false }),
     ).toBeVisible();
     await expect(page.getByText(place.limitations, { exact: true })).toBeVisible();
     await expect(page.getByRole("link", { name: /Official source for/ })).toHaveCount(
