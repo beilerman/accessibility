@@ -8151,7 +8151,7 @@
     "category": "Transportation",
     "website": "https://www.tankbus.org/",
     "source_url": "https://www.tankbus.org/ada/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -8159,7 +8159,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8168,6 +8168,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8177,7 +8182,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8186,6 +8191,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8195,7 +8205,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8204,16 +8214,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "RAMP (Regional Area Mobility Program) is TANK's door-to-door paratransit service for people who cannot use the fixed-route buses, covering Boone, Campbell and Kenton counties.",
+        "text": "RAMP is TANK’s door-to-door paratransit service for people unable to use its fixed-route buses. The eligibility page describes service in areas of Boone, Campbell and Kenton counties that are also served by TANK’s fixed-route system; this does not establish that every address in those counties is covered.",
         "source_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8222,6 +8237,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Clarified the source’s fixed-route service-area qualification; county names alone do not establish coverage for every address."
           }
         ]
       },
@@ -8231,7 +8251,7 @@
         "source_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8240,6 +8260,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8249,7 +8274,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8258,6 +8283,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8267,7 +8297,7 @@
         "source_url": "https://www.tankbus.org/fares-guides/how-to-ride/",
         "id": "tank-transit-authority-of-northern-kentucky.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8276,6 +8306,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8285,7 +8320,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8294,16 +8329,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Service animals need no proof of certification; you may only be asked whether the animal is needed because of a disability and what it is trained to do. Reasonable-modification requests can be made by phone, in person or online.",
+        "text": "TANK says riders do not need to show service-animal certification, but may be asked whether the animal is required because of a disability and what work it is trained to perform. It must remain under its owner’s control and not pose a direct threat to others. Reasonable-modification requests can be made by phone, in person or online.",
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8312,6 +8352,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Matched the agency’s published service-animal wording without adding an independent legal exclusivity claim; retained the request channels on the same source."
           }
         ]
       },
@@ -8321,7 +8366,7 @@
         "source_url": "https://www.tankbus.org/faq/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8330,11 +8375,376 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "TANK asks riders to leave the front seats for older passengers and riders with disabilities, and to keep the aisles clear.",
+        "source_url": "https://www.tankbus.org/fares-guides/how-to-ride/",
+        "id": "tank-transit-authority-of-northern-kentucky.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The passenger signal cord runs across the middle of the bus windows. TANK asks riders to pull it about one block before the stop they want.",
+        "source_url": "https://www.tankbus.org/fares-guides/how-to-ride/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TANK offers one-to-one travel training, usually on the route the rider would use; the rider’s needs determine when and where it happens. Training has no charge, but standard bus fares still apply.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Individual orientation explains vehicle access features and trip planning. TANK says a trainer may take participants to a bus garage to practise boarding or using buses. Request training at 859-814-2135 or through the linked page’s form.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "TANK Plus is curb-to-curb service within its designated zone, or a connection to a listed fixed-route transfer point. The driver does not pull into driveways; riders meet it at the end of a driveway or at a designated location.",
+        "source_url": "https://www.tankbus.org/microtransit/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For TANK Plus, select wheelchair use in the app when booking, or notify the driver at pickup. TANK says each Plus vehicle has space for three wheelchairs.",
+        "source_url": "https://www.tankbus.org/microtransit/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TANK Plus bookings are for an immediate trip, not a future day or time. Use the TANK+ app or call 859-331-8265. The agency suggests requesting a ride about 20–30 minutes before it is needed; availability is limited.",
+        "source_url": "https://www.tankbus.org/microtransit/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Packages can be carried on TANK Plus, but may not occupy a seat. Operators are not permitted to help passengers with packages.",
+        "source_url": "https://www.tankbus.org/microtransit/",
+        "id": "tank-transit-authority-of-northern-kentucky.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Covington Transit Center is one of the listed TANK Plus fixed-route transfer points. A Plus connection costs $2.50 each way, with a separate full fare for the fixed-route trip; regular TANK passes and reduced-fare cards are not accepted on Plus. Confirm the requested journey is in the service zone.",
+        "source_url": "https://www.tankbus.org/microtransit/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "TANK Plus publishes service Monday–Friday, 8 a.m.–6 p.m., and Saturday, 9 a.m.–5 p.m., with no Sunday service. Its 2026 holiday exclusions include Thanksgiving, Christmas Eve and Christmas Day. Confirm availability for the intended date.",
+        "source_url": "https://www.tankbus.org/microtransit/",
+        "id": "tank-transit-authority-of-northern-kentucky.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TANK’s fare page lists a $1 reduced fixed-route fare for older riders, riders with disabilities and military riders. Confirm the applicable fare with TANK before travel.",
+        "source_url": "https://www.tankbus.org/fares-guides/fare/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.9",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TANK’s FAQ lists a $0.75 reduced fare for eligible older, disabled and military riders. Confirm the applicable fare with TANK before travel.",
+        "source_url": "https://www.tankbus.org/faq/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.10",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "RAMP rides can be booked with the TANK On-Demand app, or by telephone. The app requires a smartphone with location services enabled; the page keeps phone booking as an alternative.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/reservations/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.11",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "TANK’s service-change notice effective November 7, 2026 says the Southbank Shuttle and Route 16 are replaced by a corridor served by fixed-route buses. It directs former Route 16 riders to the new Route 1 and Licking River Link; use current schedules when planning a journey. Historical Shuttle photos and the 2025 brochure predate this change.",
+        "source_url": "https://www.tankbus.org/building-better-transit/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The service-change notice effective November 7, 2026 says the TANK Plus zone expands to Alexandria Walmart and Village Green Shopping Center, with a six-mile distance cap. Confirm both the origin and destination with TANK before relying on a trip.",
+        "source_url": "https://www.tankbus.org/building-better-transit/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Licking River Link is published as fare-free during the KY 8 Licking River Bridge project. It runs as a one-way loop; check the stop sequence for both parts of a return journey.",
+        "source_url": "https://www.tankbus.org/licking-river-link/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.12",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Link page lists Covington stops at Greenup Street at Ninth and Fifth Streets, and Scott Street at Sixth and Eleventh Streets. These are stop locations, not confirmation of the pavement, curb ramps or a continuous route to another bus.",
+        "source_url": "https://www.tankbus.org/licking-river-link/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.9",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Link page lists Newport stops at Fourth and Columbia, Monmouth at Seventh and Ninth, Eleventh and York, Sixth and Isabella, and Isabella at Ninth. It says the former Central Avenue stops at Eighth and Tenth Streets are no longer served by this route.",
+        "source_url": "https://www.tankbus.org/licking-river-link/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.10",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Link’s published hours are Monday–Friday, 6 a.m.–11 p.m., and Saturday/Sunday, 10 a.m.–11 p.m. It lists a 30-minute loop frequency, interrupted by the separately listed operator breaks.",
+        "source_url": "https://www.tankbus.org/licking-river-link/",
+        "id": "tank-transit-authority-of-northern-kentucky.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Link page lists no service during weekday operator breaks of 8:30–9 a.m., 12:30–1 p.m., 6–6:30 p.m. and 9–9:30 p.m. On Saturday/Sunday it lists breaks of 12:30–1 p.m. and 6–6:30 p.m. Check the current timetable before setting out.",
+        "source_url": "https://www.tankbus.org/licking-river-link/",
+        "id": "tank-transit-authority-of-northern-kentucky.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Confirm RAMP paratransit eligibility, service area and booking rules with the TANK Special Services office (859-814-2135) before relying on it.",
+    "limitations": "Public website information; no on-site audit. Fixed-route bus features, RAMP door-to-door paratransit and TANK Plus curb-to-curb service have different conditions. Confirm RAMP eligibility, the specific service area and booking rules with Special Services at 859-814-2135. The fare page lists a $1 reduced fixed-route fare while the FAQ lists $0.75; the conflict is unresolved. Confirm the applicable fare before travel. The November 7 service-change notice adds a six-mile TANK Plus cap and new destinations; the separate Plus page still describes Zone 1 in Campbell County. Confirm current zone boundaries. The Link page still suggests a Newport transfer to Route 16, despite the November 7 notice saying Route 16 is replaced. Do not rely on that transfer instruction without checking current schedules. Individual stop pavement, curb connections, transfer walking or rolling routes and station restroom features remain unverified. Historical photographs do not establish current vehicles or boarding arrangements.",
     "slug": "tank-transit-authority-of-northern-kentucky",
     "evidence_type": "public_website",
     "observed_at": null
@@ -10346,7 +10756,7 @@
     "address": "302 Court Street, Covington, KY",
     "website": "https://www.smokejustis.com/",
     "source_url": "https://parties.smokejustis.com/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -10354,7 +10764,7 @@
         "source_url": "https://parties.smokejustis.com/",
         "id": "smoke-justis.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10363,6 +10773,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10372,7 +10787,7 @@
         "source_url": "https://parties.smokejustis.com/",
         "id": "smoke-justis.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10381,6 +10796,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10390,7 +10810,7 @@
         "source_url": "https://parties.smokejustis.com/",
         "id": "smoke-justis.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10399,6 +10819,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10408,7 +10833,7 @@
         "source_url": "https://parties.smokejustis.com/",
         "id": "smoke-justis.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10417,11 +10842,106 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The upstairs Boardroom is arranged around one long table, with a sitting area and sofas at the far end. The venue describes 20–22 as comfortable seating and 40 as the maximum; confirm chair and table arrangements for the group.",
+        "source_url": "https://parties.smokejustis.com/parties/boardroom",
+        "id": "smoke-justis.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The upstairs Clubhouse has booth and table seating, with screens throughout. It is reached by a flight of stairs from the front door, with no elevator.",
+        "source_url": "https://parties.smokejustis.com/parties/clubhouse",
+        "id": "smoke-justis.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The upstairs Clubhouse lists six 65-inch screens and its own sound system. Ask about screen and sound settings for the planned private event; no quiet-room procedure is established.",
+        "source_url": "https://parties.smokejustis.com/parties/clubhouse",
+        "id": "smoke-justis.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Private events use a menu chosen in advance and served as a buffet; the venue says it does not take individual menu orders for those events. Discuss any meal-service assistance and dietary arrangements before booking.",
+        "source_url": "https://parties.smokejustis.com/parties/boardroom",
+        "id": "smoke-justis.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For private-room bookings, the venue permits acoustic live musicians. Discuss the event’s sound arrangements when booking; this does not describe sound levels in the public dining room.",
+        "source_url": "https://parties.smokejustis.com/",
+        "id": "smoke-justis.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Confirm the exact entrance, thresholds, restroom access, and table arrangements for your chosen room. The lower-level accessibility description is the venue's statement, not a field audit.",
+    "limitations": "Public website information; no on-site audit. Confirm the exact entrance, thresholds, restroom access and table arrangements for your chosen room. The venue describes the main dining room and Bourbon Lounge as lower-level and accessible, but gives no measured entrance or toilet route. Boardroom and Clubhouse seating and event details refer to upstairs spaces reached by stairs with no elevator. Screens and a private sound system do not establish a quiet space. Photo dates and current sidewalk conditions need confirmation.",
     "slug": "smoke-justis",
     "evidence_type": "public_website",
     "observed_at": null
@@ -17282,6 +17802,166 @@
         "history": [
           {
             "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Target Newport",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "160 Pavilion Pkwy, Newport, KY 41071-2884",
+    "website": "https://www.target.com/sl/newport/2483",
+    "source_url": "https://www.target.com/sl/newport/2483",
+    "limitations": "Public website information; no on-site audit. Drive Up is confirmed on the local store page; Aira and collection steps are chain policies rather than observations at this branch. Parking-to-door routes, entrance thresholds and door controls, mobility-cart availability and collection, toilet features and quiet spaces remain unverified. The chain page describes self-checkout accessibility as a coming rollout; Newport installation is not established.",
+    "checked_at": "2026-11-12",
+    "slug": "target-newport",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Newport store lists Drive Up, which uses the Target app to collect an order without leaving the car, alongside in-store Order Pickup and Shipt delivery.",
+        "source_url": "https://www.target.com/sl/newport/2483",
+        "id": "target-newport.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Target’s chain instructions say to wait for the ready notification, open the Target app and choose Switch to Drive Up. Let the store know when you are on the way; on arrival park in the Drive Up area and tap I’m here.",
+        "source_url": "https://www.target.com/c/drive-up/-/N-9d42z",
+        "id": "target-newport.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Target offers free Aira visual assistance in its stores for people who are blind or have low vision. In the Aira app, a trained visual interpreter can help with store navigation and finding products; the free offer applies automatically when the app is opened in store. This is a chain policy, not an observation at Newport.",
+        "source_url": "https://www.target.com/c/accessibility/-/N-4ynq1",
+        "id": "target-newport.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Target also offers Aira assistance free of charge for shopping on target.com. This is online support, separate from the physical store route.",
+        "source_url": "https://www.target.com/c/accessibility/-/N-4ynq1",
+        "id": "target-newport.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For accessibility problems using Target’s website or apps, its accessibility page lists Target Guest Services at 1-800-591-3869.",
+        "source_url": "https://www.target.com/c/accessibility/-/N-4ynq1",
+        "id": "target-newport.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Newport store lists 859-814-0140. Ask the store about the specific entrance, mobility-equipment collection point and restroom arrangements before a visit.",
+        "source_url": "https://www.target.com/sl/newport/2483",
+        "id": "target-newport.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Aira says its Target offer can be used for as long as needed while shopping. This describes visual-assistance use, not the Newport store’s opening hours.",
+        "source_url": "https://aira.io/target/",
+        "id": "target-newport.sensory.3",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For online shopping at Target.com on iOS or Android, Aira instructs users to choose Apply a Free Access Offer on the app home screen, select the products button, and search for or select Target.com from the offers list.",
+        "source_url": "https://aira.io/target/",
+        "id": "target-newport.cognitive.4",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }

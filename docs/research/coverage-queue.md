@@ -1,14 +1,14 @@
 # Broad and deep research queue
 
-Updated November 11, 2026, after the late everyday-access batch.
+Updated November 12, 2026, after the shopping and Northern Kentucky connections batch.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Breadth
 
-The prepared catalog has 106 places. Its categories contain 32 arts venues,
+The prepared catalog has 107 places. Its categories contain 32 arts venues,
 28 parks, 20 museums/attractions, 14 libraries, five transport entries, five
-food/drink venues and two shopping destinations. Use this distribution to seek
+food/drink venues and three shopping destinations. Use this distribution to seek
 more evidence for everyday activities and less represented types of places.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
@@ -84,26 +84,71 @@ conflicts, validation and holds. Prepared for the runner; no Git writes or deplo
   Chromium launch is still blocked by macOS permissions; final 87 browser tests
   must pass on the runner. Browser connector unavailable; native Chrome timed out.
 
+## Completed in the November 12 early pass
+
+Four venues investigated, with three carrying supported changes and Kroger held.
+See [shopping and connections research](everyday-connections-2026-11-12.md).
+Prepared for runner validation; no Git writes or deployment.
+
+- **New coverage:** Target Newport, eight notes. Local Drive Up/pickup/delivery
+  evidence is separate from chain Aira support and provider activation steps.
+- **Depth:** 25 notes at Smoke Justis (five) and TANK (twenty), plus two revised
+  TANK notes. Current service-change research continued after the initial batch.
+- **Freshness:** all fourteen prior notes at those two venues reviewed: twelve
+  confirmed and two revised. Weekly full reviews now **14/8**. No new partial
+  review; AMC's earlier six held notes and checked_at remain unchanged.
+- **Imagery:** one CC BY 3.0 full-frame 2011 Southbank Shuttle doorway photograph,
+  with visible steps and explicit historical/replacement cautions. One linked
+  two-page May 2025 TANK rider brochure, both pages visually inspected and its
+  pre-November route information clearly dated. Totals: twelve photos/eight guides.
+- **Evidence:** 48 matched passages, including Target's address, from seventeen
+  fresh HTTP-200 official pages. Source baselines and old unselected findings kept.
+- **Current correction:** November 7 notice says Southbank Shuttle/Route 16 are
+  replaced, and Plus gains new destinations with a six-mile cap. Fare amounts,
+  zone wording and the Link page's old Route 16 transfer instruction conflict;
+  limitations explain them. No transfer pavement or route continuity inferred.
+
 ## Next concrete batch
 
-1. **Northern Kentucky groceries:** investigate Kroger's Newport local store and
-   its published pickup/assistance resources. Match the exact branch and distinguish
-   chain support policies from a local entrance, equipment pickup point or route.
-   Seek reusable arrival photographs and official visual instructions; do not
-   infer local physical features from a chain policy.
-2. **Smoke Justis:** deepen the ground-floor arrival route, entrance thresholds,
-   seating and restroom evidence, preserving the upstairs stair/no-elevator barrier.
-   Seek a location-matched licensed doorway or route photo.
-3. **TANK/Covington arrival connections:** investigate practical boarding and
-   transfer routes, current equipment procedures and access imagery. Preserve the
-   unresolved two-fare source wording until directly resolved. Agency policy does
-   not establish every stop's pavement or a continuous route.
+1. **Northern Kentucky groceries:** hold Newport Pavilion Kroger for an available
+   browser; repeated direct fetches failed. Investigate the official Florence
+   Meijer branch and its assistance/collection policies as the next breadth lead.
+   Match the branch before importing chain policies; seek reusable arrival photos.
+2. **Boone Woods and Chapin:** deepen these older thin listings with entrance,
+   parking-to-door, restroom and seasonal details. Seek current, correctly matched
+   licensed photographs or official photo narratives. Keep partial dates honest.
+3. **Current Covington transfers:** seek post-November-7 TANK boarding/stop photos,
+   bay diagrams and precise connecting routes. Resolve the Link's Route 16 advice,
+   $1/$0.75 reduced fare and Plus zone/cap differences before simplifying them.
+   Smoke Justis's room details are reviewed; its actual doorway and toilet route
+   still need direct premises evidence and a useful licensed photograph.
 
-The previous concrete batch is completed at the evidence level described above;
+The previous concrete batches are completed at the evidence level described above;
 remaining precise gaps are below. Bogart’s, Chapin and Boone Woods remain older
 rolling candidates. Continue everyday growth now the weekly target is exceeded.
 
 ## Holds and unresolved source conflicts
+
+- **TANK:** November 7, 2026 service notice replaces the Southbank Shuttle and
+  Route 16 and expands Plus to Alexandria Walmart/Village Green with a six-mile
+  cap. The Plus page still describes Zone 1/Campbell County; the Link page still
+  recommends Route 16. The fare page gives $1 reduced fixed-route fare and FAQ
+  $0.75. Keep all three differences visible. The linked May 2025 brochure and
+  2011 photograph predate the service changes. The older indexed system map is
+  404; April 2026 TDP proposals are not the final November operating notice.
+- **Kroger Newport Pavilion:** official store web retrieval worked, but repeated
+  direct canonical/short/slash/query fetches failed. No listing or local equipment
+  claim imported. The chain FAQ's differing selected-store headers and Harris
+  Teeter-specific payment paragraph do not establish Newport branch procedures.
+- **Target Newport:** entrance/parking routes, cart collection, toilet features
+  and quiet spaces unknown. Self-checkout rollout is not confirmed at Newport.
+  Legacy help URLs redirected to generic help; use only the working collection
+  instructions. No reusable location-matched access photo selected.
+- **Smoke Justis:** ground-floor route and toilet details remain unknown. Commons
+  Exchange Building views are a different property; do not attach them. Correct
+  2019 Court Street frontage has parked vehicles/plates and no established visitor
+  doorway role. The city's 2023 sidewalk announcement is a proposal, not proof
+  of current completion or surface condition. No reusable route photo selected.
 
 - **Findlay:** service FAQ lists pickup windows 3–6 p.m.; the main shopping page
   says 4–7 p.m. Confirm the selected order slot. Campaign labels doors and seating

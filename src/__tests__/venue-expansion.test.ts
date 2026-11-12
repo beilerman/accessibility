@@ -11,6 +11,26 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Newport shopping while keeping chain support separate from premises evidence", () => {
+    const slug = "target-newport";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("160 Pavilion Pkwy, Newport, KY 41071-2884");
+    expect(text(slug)).toMatch(/without leaving the car/);
+    expect(text(slug)).toMatch(/free Aira visual assistance/);
+    expect(place(slug).limitations).toMatch(/chain policies rather than observations/);
+    expect(place(slug).limitations).toMatch(/Newport installation is not established/);
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("keeps TANK service types, fare conflicts and package-assistance limits visible", () => {
+    const slug = "tank-transit-authority-of-northern-kentucky";
+    expect(text(slug)).toMatch(/does not establish that every address/);
+    expect(text(slug)).toMatch(/does not pull into driveways/);
+    expect(text(slug)).toMatch(/Operators are not permitted to help passengers with packages/);
+    expect(text(slug)).toMatch(/November 7, 2026.*Southbank Shuttle and Route 16 are replaced/);
+    expect(text(slug)).toMatch(/six-mile distance cap/);
+    expect(place(slug).limitations).toMatch(/\$1.*\$0\.75.*unresolved/);
+    expect(place(slug).limitations).toMatch(/Individual stop pavement/);
+  });
   it("finds Price Hill library and LeBlond recreation with source-limited routes", () => {
     expect(findPlaces({ category: "Libraries", region: "OH" }).map((p) => p.slug)).toContain("price-hill-branch-library");
     expect(place("price-hill-branch-library").address).toBe("970 Purcell Avenue, Cincinnati, OH 45205");
