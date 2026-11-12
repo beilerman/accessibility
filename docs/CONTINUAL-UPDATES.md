@@ -65,3 +65,17 @@ checks share that immutable requirements version. An installation lock prevents 
 No environment symlink is added to a source checkout. Generated .venv paths and Python
 caches are ignored by Git. Standalone release-check.sh invocation uses uv to resolve
 the declared pipeline requirements.
+
+## November 12 validation and CLI repair
+
+A fixed November 8 date in the concert browser test blocked refreshed source dates.
+The assertion now follows the latest retrieval date in each tested venue's data.
+Browser validation continues to verify the displayed date.
+
+The release runner uses Vercel CLI 65.14.0 explicitly. Its package can be restored
+from npm when absent from the local cache. A newly published CLI version therefore
+does not change the release tool implicitly.
+
+Recovery runs receive the final host log from the previous failed pass. This gives
+the agent the actual failing assertion or command alongside its research report,
+including the distinction between agent browser-launch restrictions and host results.

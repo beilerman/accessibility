@@ -19,7 +19,7 @@ REPO = Path.home() / "Projects/threshold"
 TEAM = "team_yOWQprx8RcKDA1MIac4lwC34"
 SCOPE = "brad-eilermans-projects"
 PROJECT = "prj_l3DJp4T2eZrCA6W9bjl3HDc1M8FB"
-CLI = ("npx", "--no-install", "vercel")
+CLI = ("npx", "--yes", "vercel@65.14.0")
 ET = ZoneInfo("America/New_York")
 BRANCH = "feat/threshold-public-catalog"
 AUTOMATION = REPO / "scripts/automation"
@@ -237,6 +237,17 @@ def sync_primary(commit):
 
 
 def maintain():
+    status_file = STATE / "latest.json"
+    previous = json.loads(status_file.read_text()) if status_file.exists() else {}
+    previous_log = Path(previous["log"]) if previous.get("log") else None
+    recovery_diagnostics = ""
+    if previous.get("phase") == "retry_pending" and previous_log and previous_log.exists():
+        recovery_diagnostics = (
+            "\nThe previous host run failed. Diagnose the actual host error below and "
+            "repair the prepared batch before expanding it. The agent's browser sandbox "
+            "limitations and host validation results are recorded separately.\n"
+            "<previous_host_log>\n" + previous_log.read_text()[-16000:] + "\n</previous_host_log>\n"
+        )
     stamp = datetime.now(ET).strftime("%Y%m%d-%H%M%S")
     run_dir = STATE / "runs"
     run_dir.mkdir(exist_ok=True)
@@ -266,6 +277,7 @@ def maintain():
         instructions += "\nCurrent workspace: " + str(workspace)
         instructions += "\nResume and review every unfinished edit already here, including any conflict markers."
         instructions += "\nPrimary publication base: " + base + "\n"
+        instructions += recovery_diagnostics
         prompt = run_dir / (stamp + ".prompt.md")
         prompt.write_text(instructions)
         with prompt.open() as source:

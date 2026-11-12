@@ -1,6 +1,7 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 import places from "../src/data/places.json";
+import { dateLabel } from "../src/lib/catalog";
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
@@ -107,7 +108,10 @@ test("concert guides expose sources and cautions on narrow screens", async ({
     await page.goto(`/venues?q=${encodeURIComponent(place.name)}`);
     await page.getByRole("link", { name: place.name, exact: true }).click();
     await expect(page.getByRole("heading", { level: 1 })).toHaveText(place.name);
-    await expect(page.getByText(/Sources last checked Nov 8, 2026/)).toBeVisible();
+    const latestCheck = place.facts.map((fact) => fact.retrieved_at).sort().at(-1)!;
+    await expect(
+      page.getByText("Sources last checked " + dateLabel(latestCheck), { exact: false }),
+    ).toBeVisible();
     await expect(page.getByText(place.limitations, { exact: true })).toBeVisible();
     await expect(page.getByRole("link", { name: /Official source for/ })).toHaveCount(
       place.facts.length,
