@@ -45,12 +45,27 @@ class VisibleTextTests(unittest.TestCase):
     def test_text_change_changes_fingerprint(self):
         self.assertNotEqual(fingerprint("<p>Elevator available</p>"), fingerprint("<p>Elevator closed</p>"))
 
+    def test_mura_text_blocks_are_monitored(self):
+        page = '<main><div data-object="text" data-source="&lt;p&gt;Paved path &amp;amp; benches&lt;/p&gt;"></div></main>'
+        self.assertEqual(visible_text(page), "Paved path & benches")
+        self.assertNotEqual(fingerprint(page), fingerprint(page.replace("Paved path", "Path closed")))
+
+    def test_mura_chrome_and_nontext_configuration_are_ignored(self):
+        page = '<nav><div data-object="text" data-source="Menu changes"></div></nav><div data-object="map" data-source="Map configuration"></div><p>Entrance</p>'
+        self.assertEqual(visible_text(page), "Entrance")
+
 
 class ScriptProseTests(unittest.TestCase):
     PAGE = '<body><p>Nav</p><script type="module">render({"body":"Mostly flat, paved walking trail<br/> for 0.5 mile loop","id":"a8f3c2e9b1d4f6a7c3e8b2d9f1a4c7e2","nonce":"x"})</script></body>'
 
     def test_extracts_prose_strings_not_tokens(self):
         self.assertEqual(script_prose(self.PAGE), "Mostly flat, paved walking trail for 0.5 mile loop")
+
+    def test_quote_matching_decodes_json_paragraph_breaks(self):
+        page = '<script>render({"body":"Paved trail to the pasture.\\n\\nSurface changes to gravel after 0.2 mile."})</script>'
+        passage = "Paved trail to the pasture. Surface changes to gravel after 0.2 mile."
+        self.assertIn(quote_text(passage), quote_text(page))
+        self.assertNotIn(quote_text(passage), quote_text(page.replace("gravel", "dirt")))
 
     def test_content_change_inside_script_changes_fingerprint(self):
         changed = self.PAGE.replace("Mostly flat", "Steep and narrow")

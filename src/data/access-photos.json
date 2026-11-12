@@ -78,5 +78,102 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ark_Encounter_004.jpg",
     "checkedAt": "2026-11-11"
+  },
+  {
+    "id": "ault-park-pavilion-steps",
+    "slug": "ault-park",
+    "title": "Pavilion steps, garden paths and benches",
+    "alt": "Looking down from the pavilion, stone steps with balustrades lead toward intersecting paved paths; benches line the path beside the Great Lawn.",
+    "caption": "A September 2004 view from the pavilion shows the stair approach, garden paths and benches. Full frame retained; resized and converted to WebP.",
+    "author": "Greg Hume",
+    "photoDate": "2004-09-19",
+    "limitations": "This historical view does not show a step-free alternative to the pavilion stairs, a route from parking, path gradients or current surface conditions. Small incidental visitors appear in the distance.",
+    "relatedFactIds": [
+      "ault-park.mobility.1",
+      "ault-park.chronic.1"
+    ],
+    "src": "/images/access/ault-park-pavilion-steps.webp",
+    "width": 1280,
+    "height": 894,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ault_Pavilion_view.jpg",
+    "checkedAt": "2026-11-11"
+  },
+  {
+    "id": "jungle-jims-fairfield-entrance",
+    "slug": "jungle-jims-fairfield",
+    "title": "Historical main entrance doors",
+    "alt": "Three glass doorways beneath a display race car at Jungle Jim’s; dark mats cover parts of the concrete approach and inside passage.",
+    "caption": "A July 2004 photograph from the market’s own Flickr collection shows the Fairfield main entrance doors and mats. Full frame retained; resized and converted to WebP.",
+    "author": "Jungle Jim's International Market",
+    "photoDate": "2004-07-17",
+    "limitations": "The door controls, opening widths and threshold heights are not established by this photograph. It does not show cart collection, designated parking or the complete arrival route. The entrance and displays may have changed since 2004.",
+    "relatedFactIds": [
+      "jungle-jims-fairfield.mobility.1"
+    ],
+    "src": "/images/access/jungle-jims-fairfield-entrance.webp",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main-entrance-doors_(361870735).jpg",
+    "checkedAt": "2026-11-11"
+  },
+  {
+    "id": "jungle-jims-fairfield-restroom-entrances",
+    "slug": "jungle-jims-fairfield",
+    "title": "Historical novelty restroom entrances",
+    "alt": "Restroom entrances styled as portable toilets, labeled Women and Men with wheelchair symbols and No Carts Please signs; a green display stands between them.",
+    "caption": "A December 2004 photograph from the market’s own Flickr collection shows the novelty restroom entrance facade. Full frame retained; resized and converted to WebP.",
+    "author": "Jungle Jim's International Market",
+    "photoDate": "2004-12-27",
+    "limitations": "The wheelchair symbols are visible signage, not evidence of restroom dimensions or facilities. No interior fixtures, turning space, changing equipment or complete approach are shown. Current restroom layout and availability remain unverified.",
+    "relatedFactIds": [],
+    "src": "/images/access/jungle-jims-fairfield-restroom-entrances.webp",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Restrooms_porta_potty_(361911252).jpg",
+    "checkedAt": "2026-11-11"
+  },
+  {
+    "id": "big-bone-lick-bison-route-collage",
+    "slug": "big-bone-lick-state-historic-site",
+    "title": "Historical bison-route photo collage",
+    "alt": "The creator’s collage has a gravel path beside a wire fence in the right panel, fence wires in the left panel and a wooden fence-post detail over the center.",
+    "caption": "Janarude’s June 2010 photo collage shows one of the trails toward the bison enclosure. The creator’s complete collage, frames and lettering are retained; resized and converted to WebP.",
+    "author": "Janarude",
+    "photoDate": "2010-06-26",
+    "limitations": "The source does not identify the named trail or exact segment. Only the right panel shows a short gravel path section; the collage does not show a continuous route, gradients, distance from parking or current conditions. Do not use it to identify a step-free route.",
+    "relatedFactIds": [],
+    "src": "/images/access/big-bone-lick-bison-route-collage.webp",
+    "width": 960,
+    "height": 606,
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:On_the_way_to_see_the_bison.jpg",
+    "checkedAt": "2026-11-11"
+  },
+  {
+    "id": "cvg-concourse-b-corridor",
+    "slug": "cincinnati-northern-kentucky-international-airport-cvg",
+    "title": "Concourse B corridor and restroom sign",
+    "alt": "A broad polished-floor corridor under skylights in Concourse B; overhead signs list Gate B11 and restrooms, Gates B9–10, and Gate B12, with a few distant travelers facing away.",
+    "caption": "A November 2025 view shows the Concourse B corridor near Gates B11 and B12, with overhead wayfinding and a restroom sign. Full frame retained; resized and converted to WebP.",
+    "author": "Antony-22",
+    "photoDate": "2025-11-01",
+    "limitations": "The photograph does not show restroom interiors, changing equipment, elevator approaches or the complete route from the Terminal. It does not establish floor grip, distances, lighting at other times or current conditions.",
+    "relatedFactIds": [
+      "cincinnati-northern-kentucky-international-airport-cvg.mobility.2"
+    ],
+    "src": "/images/access/cvg-concourse-b-corridor.webp",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cincinnati_Airport_2025b.jpg",
+    "checkedAt": "2026-11-11"
   }
 ]

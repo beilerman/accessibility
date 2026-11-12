@@ -54,7 +54,7 @@
       "final_url": "https://chpl.org/accessibility-services/",
       "last_modified": null,
       "sha256": "310d809e19be802c6eb51429c28bfdb1350104232459c9f69e04be0463a932a3",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 669
     },
     "https://chpl.org/locations/1/": {
@@ -300,9 +300,9 @@
     "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807": {
       "status": 200,
       "final_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
-      "last_modified": "Sat, 07 Nov 2026 09:54:38 GMT",
+      "last_modified": "Wed, 11 Nov 2026 01:22:19 GMT",
       "sha256": "7686898be5b7023ec3a0b0574b66846313120dc5596b08614720aae4520a5b3c",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 20
     },
     "https://parties.smokejustis.com/": {
@@ -557,9 +557,9 @@
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
       "last_modified": null,
-      "sha256": "c5e8759429e8bfa4df49fbab8014e08e9c31527bb01c0b3dd41cef381b8efb5b",
-      "fingerprint_version": 5,
-      "chars": 25916
+      "sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+      "fingerprint_version": 6,
+      "chars": 27913
     },
     "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/": {
       "status": 200,
@@ -574,24 +574,24 @@
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
       "last_modified": null,
       "sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4896
     },
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/": {
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
       "last_modified": null,
-      "sha256": "7da891a3dccffd71b7d4d83252fd3bc7252f181b411795a3a39a0819495f16c1",
-      "fingerprint_version": 5,
-      "chars": 26173
+      "sha256": "bf9f576b41638c0008beb2b5f8e66e440e1d8349584345ddaf9234624d0671c5",
+      "fingerprint_version": 6,
+      "chars": 30426
     },
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/": {
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
       "last_modified": null,
-      "sha256": "391d989137f08c8b4b9ff834de5a2fc57facf3b6bd0b8a0d60251b1b2ed8129a",
-      "fingerprint_version": 5,
-      "chars": 25458
+      "sha256": "3d3c5c7a478d76e537f11e7b805cf7232f67cf7557b40ea4612222223a1c3bb9",
+      "fingerprint_version": 6,
+      "chars": 27805
     },
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/burnet-woods-trailside-nature-center/": {
       "status": 200,
@@ -734,7 +734,7 @@
       "final_url": "https://www.cvgairport.com/accessibility/",
       "last_modified": null,
       "sha256": "91a4efe8f8235f50eae7f16e0011ebe33a32f3ddb8756dd305af83227ef617f8",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3539
     },
     "https://www.cvgairport.com/accessibility/facility-access-info/": {
@@ -742,7 +742,7 @@
       "final_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
       "last_modified": null,
       "sha256": "eec27c0689fcdd491b20991d0a5405afc367b9bf68253387a2f716e1deb59427",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2703
     },
     "https://www.dinsmorefarm.org/plan-your-visit/accessibility/": {
@@ -960,9 +960,9 @@
     "https://www.junglejims.com/discover/plan-your-trip/faq": {
       "status": 200,
       "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
-      "last_modified": "Sat, 07 Nov 2026 02:52:46 GMT",
+      "last_modified": "Wed, 11 Nov 2026 18:00:08 GMT",
       "sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 11413
     },
     "https://www.kentonlibrary.org/homebound/": {
@@ -1086,7 +1086,7 @@
       "final_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
       "last_modified": null,
       "sha256": "d0f7087152f7bd280391aea16d5821970dd7d7c86eb880e64e220fdbe448687a",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 6303
     },
     "https://www.pyramidhill.org/visit": {
@@ -1518,7 +1518,7 @@
       "final_url": "https://www.cvgairport.com/accessibility/security-and-accessibility/",
       "last_modified": null,
       "sha256": "e1526c0cb2ad1cd20880dac18e7a93c7b88d58352ffd083d344ac0e27ee9404c",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 682
     },
     "https://www.cvgairport.com/accessibility/service-animals/": {
@@ -1526,7 +1526,7 @@
       "final_url": "https://www.cvgairport.com/accessibility/service-animals/",
       "last_modified": null,
       "sha256": "ab7f7336b3b36e53323a9346105d7273c0b55ae316ddcf2975cc97b18ee437b4",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1105
     },
     "https://www.cvgairport.com/accessibility/wheelchairs/": {
@@ -1534,7 +1534,7 @@
       "final_url": "https://www.cvgairport.com/accessibility/wheelchairs/",
       "last_modified": null,
       "sha256": "83ad5ecc8cc497a7cb15cab1e9a57dfdd1052e1c713ba97c45df06f1cf4f7b60",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2364
     },
     "https://www.cvgairport.com/on-the-horizon/cvg-airport-opens-first-sensory-room-for-children/": {
@@ -1542,7 +1542,7 @@
       "final_url": "https://www.cvgairport.com/on-the-horizon/cvg-airport-opens-first-sensory-room-for-children/",
       "last_modified": null,
       "sha256": "e054eb6a3590aa90fcfbac3ba4d4b347a0c57d22386fe9031852641848a88343",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 930
     },
     "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/": {
@@ -1628,9 +1628,9 @@
     "https://www.junglejims.com/discover/plan-your-trip": {
       "status": 200,
       "final_url": "https://www.junglejims.com/discover/plan-your-trip",
-      "last_modified": "Tue, 10 Nov 2026 20:21:19 GMT",
+      "last_modified": "Wed, 11 Nov 2026 16:38:35 GMT",
       "sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 8331
     },
     "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4": {
@@ -1828,6 +1828,62 @@
       "sha256": "0719ce2b1a4e020977226abaa3c65022e6979d32d749f178f74d459f9ee35745",
       "fingerprint_version": 5,
       "chars": 3899
+    },
+    "https://chpl.org/locations/pr/": {
+      "status": 200,
+      "final_url": "https://chpl.org/locations/pr/",
+      "last_modified": null,
+      "sha256": "0fab42e8dab65eae741fe51fc692227425c798d6b12d021f9df4af71990eec94",
+      "fingerprint_version": 6,
+      "chars": 3231
+    },
+    "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+      "last_modified": null,
+      "sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
+      "fingerprint_version": 6,
+      "chars": 2233
+    },
+    "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+      "last_modified": null,
+      "sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+      "fingerprint_version": 6,
+      "chars": 4721
+    },
+    "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone": {
+      "status": 200,
+      "final_url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+      "last_modified": "Thu, 12 Nov 2026 02:21:10 GMT",
+      "sha256": "cb2e7151c0c88a6976aef65dfd03441b8e3a2ad0113b98de902a7998dd88879b",
+      "fingerprint_version": 6,
+      "chars": 5592
+    },
+    "https://www.cvgairport.com/accessibility/step-by-step-directions/": {
+      "status": 200,
+      "final_url": "https://www.cvgairport.com/accessibility/step-by-step-directions/",
+      "last_modified": null,
+      "sha256": "8a267d0d73fd4072ddce6366fa89ef3b5a05bd576682c1e822e64b6a79f5fe70",
+      "fingerprint_version": 6,
+      "chars": 8750
+    },
+    "https://www.walmart.com/store/2967-ft-wright-ky": {
+      "status": 200,
+      "final_url": "https://www.walmart.com/store/2967-ft-wright-ky",
+      "last_modified": null,
+      "sha256": "afaf8901642d54dd811af0e5c0011316f0f672d8d9d92662a5c8f6d572623bd4",
+      "fingerprint_version": 6,
+      "chars": 6524
+    },
+    "https://www.cvgairport.com/accessibility/hidden-disabilities/": {
+      "status": 200,
+      "final_url": "https://www.cvgairport.com/accessibility/hidden-disabilities/",
+      "last_modified": null,
+      "sha256": "3714e6a889c4bdf75b9e944574106659723a22c10429ad6f74ab794abdffb997",
+      "fingerprint_version": 6,
+      "chars": 3409
     }
   },
   "findings": {

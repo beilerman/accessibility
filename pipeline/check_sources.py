@@ -42,7 +42,7 @@ SNAPSHOT_DIR = Path("pipeline/source-checks")
 QUOTES = Path("pipeline/evidence/quotes.json")
 USER_AGENT = "ThresholdSourceCheck/1.0 (accessibility directory source monitor)"
 # Bump when fingerprint() changes; hashes from other versions are not compared.
-FINGERPRINT_VERSION = 5
+FINGERPRINT_VERSION = 6
 # Measured 2026-11-08: script-rendered pages show <300 visible characters,
 # content pages >1,300.
 SCRIPT_FALLBACK_BELOW_CHARS = 1000
@@ -64,6 +64,14 @@ class _TextExtractor(HTMLParser):
             self._skip += 1
         if tag == "script" and not dict(attrs).get("src"):
             self._in_inline_script = True
+        # Cincinnati's Mura CMS sends some public text blocks as encoded
+        # HTML in data-source, then renders them in the browser. Without
+        # these blocks, changes to facility details would go unmonitored.
+        data = dict(attrs)
+        if not self._skip and data.get("data-object") == "text" and data.get("data-source"):
+            embedded = _TextExtractor()
+            embedded.feed(data["data-source"])
+            self.parts.extend(embedded.parts)
 
     def handle_endtag(self, tag):
         if tag in self.SKIP and self._skip:
@@ -158,6 +166,12 @@ def quote_text(raw: str) -> str:
     their copy as JSON. Typographic quotes and dashes are flattened so a
     curly apostrophe never reads as a content change.
     """
+    # Match readable passages in JSON-rendered pages too: a source may
+    # encode paragraph breaks as literal \\n rather than HTML whitespace.
+    # Keep the original representation for existing quotes, and append
+    # decoded prose without executing any page scripts.
+    if "<script" in raw.lower():
+        raw += " " + script_prose(raw)
     for _ in range(3):
         raw = re.sub(r"<[^>]+>", " ", html_lib.unescape(raw))
     for a, b in (("\u00a0", " "), ("\u2019", "'"), ("\u2018", "'"), ("\u201c", '"'), ("\u201d", '"'), ("\u2013", "-"), ("\u2014", "-")):

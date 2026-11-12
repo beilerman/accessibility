@@ -749,7 +749,7 @@
     "category": "Parks & outdoors",
     "website": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
     "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-11",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -758,7 +758,7 @@
         "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
         "id": "big-bone-lick-state-historic-site.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -772,6 +772,11 @@
             "date": "2026-11-08",
             "action": "revised",
             "note": "Rechecked against the state trail listing; added its steep-hill warning from the museum parking lot and the switch to a dirt trail."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -781,7 +786,7 @@
         "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
         "id": "big-bone-lick-state-historic-site.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -795,6 +800,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -804,7 +814,7 @@
         "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
         "id": "big-bone-lick-state-historic-site.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -818,6 +828,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -827,7 +842,7 @@
         "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
         "id": "big-bone-lick-state-historic-site.chronic.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -836,6 +851,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -845,13 +865,82 @@
         "source_url": "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm",
         "id": "big-bone-lick-state-historic-site.sensory.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Kentucky Parks rates Bison Trace Trail easy and gives its length as 0.5 mile. Its detailed route description says a 0.2-mile walk through an oak and cedar forest reaches the bison pastures, with a walk of up to 0.5 mile needed when bison are in back pastures. Parking is at the museum lot. The page describes pavement changing to gravel after 0.2 mile and explicitly says the trail is not ADA grade; this rating does not establish a suitable gradient for your mobility aid.",
+        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
+        "id": "big-bone-lick-state-historic-site.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review expanded the thin trail rating with the published parking point, pasture distances, pavement-to-gravel transition and grade warning."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum publishes daily hours of 9 a.m.–4 p.m. from mid-March to mid-November, and Thursday–Sunday hours of 10 a.m.–3 p.m. from mid-November to mid-March. The Discovery Trail opens daily from dawn to dusk. Showers, restrooms and laundry are listed in a central campground service building; their access features are not described.",
+        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
+        "id": "big-bone-lick-state-historic-site.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review added the approaching winter museum schedule, retaining separately verified trail hours and campground facilities without inferring access features."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Kentucky Parks page marks the campground swimming pool closed until further notice. Its general campground description and the National Park Service’s amenities list still mention a pool; those listings do not establish that it is open.",
+        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
+        "id": "big-bone-lick-state-historic-site.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -859,42 +948,24 @@
       },
       {
         "domain": "mobility",
-        "text": "The Bison Trace Trail is 0.5 mile and rated easy.",
+        "text": "The Gobbler’s Trace route card warns of 62 cedar stairs and a steep elevation change when ascending from the museum parking lot. It lists 0.6 mile, while the park’s summary gives 0.5 mile; confirm the current route and distance with the park.",
         "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
-        "id": "big-bone-lick-state-historic-site.mobility.3",
+        "id": "big-bone-lick-state-historic-site.mobility.4",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-08",
-            "action": "added",
-            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
-          }
-        ]
-      },
-      {
-        "domain": "cognitive",
-        "text": "From mid-March through mid-November the museum is open daily, 9 a.m. to 4 p.m.; the Discovery Trail is open daily from dawn to dusk. The campground has showers, restrooms and laundry in a central service building.",
-        "source_url": "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807",
-        "id": "big-bone-lick-state-historic-site.cognitive.1",
-        "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
-        "published_at": null,
-        "observed_at": null,
-        "review_status": "source_checked",
-        "history": [
-          {
-            "date": "2026-11-08",
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public government website reporting; no on-site audit. Paving does not establish route slope or universal access. The state page lists the campground pool as closed and prohibits lake access, fishing and hiking around the lake during a dam assessment. Check current park alerts before visiting.",
+    "limitations": "Public website information; no on-site audit. The Big Bone Creek route has a steep start from museum parking. Bison Trace changes to gravel after 0.2 mile and is described by Kentucky Parks as not ADA grade. Gobbler’s Trace has stairs, and its route card and summary give different distances. NPS restroom labels do not establish location, measurements or changing equipment. Kentucky Parks posts a campground pool closure despite general pool listings; confirm current routes and facilities before visiting.",
     "slug": "big-bone-lick-state-historic-site",
     "observed_at": null
   },
@@ -3945,7 +4016,7 @@
     "category": "Transportation",
     "website": "https://www.cvgairport.com/",
     "source_url": "https://www.cvgairport.com/accessibility/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-11",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -3954,7 +4025,7 @@
         "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3968,16 +4039,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "A family-assist restroom near Gate B13 has an adult changing table.",
+        "text": "Family-assist restrooms are near Gates A11, B11 and B13, after security. CVG lists an adult changing table in the B13 family-assist restroom; dimensions and transfer arrangements are not supplied.",
         "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3991,6 +4067,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review added the other published family-assist restroom locations and clarified that these are after security, without inferring changing-table measurements."
           }
         ]
       },
@@ -4000,7 +4081,7 @@
         "source_url": "https://www.cvgairport.com/accessibility/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4014,6 +4095,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4023,7 +4109,7 @@
         "source_url": "https://www.cvgairport.com/accessibility/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4037,6 +4123,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4046,7 +4137,7 @@
         "source_url": "https://www.cvgairport.com/accessibility/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4060,16 +4151,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Schedule free wheelchair assistance with your airline before you travel; at the airport it can also be requested free through Bags, Inc.",
+        "text": "Arrange free wheelchair assistance with your airline before travel. At the airport, Bags, Inc. offers free assistance from the first floor of the Rental Car Center; call 1-513-607-3218. CVG says an attendant can meet you at any level of the Rental Car Center within the Terminal building.",
         "source_url": "https://www.cvgairport.com/accessibility/wheelchairs/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4078,6 +4174,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review added the published airport assistance phone number, operator location and meeting arrangements."
           }
         ]
       },
@@ -4087,7 +4188,7 @@
         "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4096,6 +4197,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4105,7 +4211,7 @@
         "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4114,16 +4220,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Indoor service-animal relief areas are near Gates A18 and B13. The outdoor relief area is on the Baggage Claim level, so using it means going back through security.",
+        "text": "Indoor service-animal relief areas are near Gates A18 and B13. The outdoor area is on Baggage Claim level near Ground Transportation Center East. Departing passengers using the outdoor area must return through the security checkpoint before their flight.",
         "source_url": "https://www.cvgairport.com/accessibility/service-animals/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4132,6 +4243,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review added the outdoor area’s east-side location and limited the re-screening condition to passengers departing on a flight."
           }
         ]
       },
@@ -4141,7 +4257,7 @@
         "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4150,6 +4266,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4159,7 +4280,7 @@
         "source_url": "https://www.cvgairport.com/on-the-horizon/cvg-airport-opens-first-sensory-room-for-children/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4168,6 +4289,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4177,13 +4303,162 @@
         "source_url": "https://www.cvgairport.com/accessibility/security-and-accessibility/",
         "id": "cincinnati-northern-kentucky-international-airport-cvg.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For departures into either concourse, CVG’s directions place the elevator between the escalators when you face them from the Transportation Tunnel.",
+        "source_url": "https://www.cvgairport.com/accessibility/step-by-step-directions/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "When exiting the Transportation Tunnel into the public Terminal area, CVG’s directions put the elevator to all Terminal levels in the center; the Ticketing escalators are to the left.",
+        "source_url": "https://www.cvgairport.com/accessibility/step-by-step-directions/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CVG gives the Terminal–Concourse B distance as less than 1,500 feet, with typical travel times of four minutes by train or six minutes walking. These are airport estimates, rather than individual walking-time guarantees.",
+        "source_url": "https://www.cvgairport.com/accessibility/step-by-step-directions/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The children’s sensory-room description includes a wall that plays animal sounds or music when touched and another that lights up. It also lists soft furniture, a rocker and a small soft hide-out.",
+        "source_url": "https://www.cvgairport.com/on-the-horizon/cvg-airport-opens-first-sensory-room-for-children/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "CVG says all airport elevators have emergency call buttons, Braille signs and raised numbers.",
+        "source_url": "https://www.cvgairport.com/accessibility/facility-access-info/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "To request in-person ASL interpretation at CVG, email info@cvgairport.com. The accessibility page does not give a notice period for this service.",
+        "source_url": "https://www.cvgairport.com/accessibility/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.sensory.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Pick up a Sunflower lanyard at the information booth in Terminal Baggage Claim. CVG also lists info@cvgairport.com or 859-767-3230 to arrange collection or request that a lanyard be sent to your residence.",
+        "source_url": "https://www.cvgairport.com/accessibility/hidden-disabilities/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "CVG says a Sunflower lanyard indicates that someone may need extra assistance or time; it does not give access to expedited security screening or other benefits.",
+        "source_url": "https://www.cvgairport.com/accessibility/hidden-disabilities/",
+        "id": "cincinnati-northern-kentucky-international-airport-cvg.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -12055,8 +12330,8 @@
     "address": "5090 Observatory Circle, Cincinnati, OH 45208",
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
-    "limitations": "Public website information; no on-site audit. Whether the paved walkways, playground or restrooms are accessible, and where accessible parking is, are not stated. Confirm with Cincinnati Parks before your visit.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public website information; no on-site audit. Walkway gradients, complete step-free pavilion routes, playground access features and the location of designated parking are not stated. The page lists an April–October restroom season, while its repair notice points to a temporary restroom and Heekin Overlook without dates; confirm November availability and access features with Cincinnati Parks.",
+    "checked_at": "2026-11-11",
     "slug": "ault-park",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -12067,7 +12342,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
         "id": "ault-park.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -12076,6 +12351,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12085,7 +12365,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
         "id": "ault-park.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -12094,6 +12374,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12103,7 +12388,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
         "id": "ault-park.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -12112,6 +12397,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -12121,13 +12411,54 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
         "id": "ault-park.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Principio Playground closure notice lists a temporary restroom on site. Its access features and availability dates are not stated in the notice.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+        "id": "ault-park.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The first-come picnic shelter has no nearby restrooms, electricity or grills, according to the park page.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/ault-park/",
+        "id": "ault-park.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -13494,19 +13825,19 @@
     "address": "4 Beech Ln., Cincinnati, OH 45208",
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
-    "limitations": "Public website information; no on-site audit. Parking, restroom accessibility and trail surfaces beyond the paved path are not described. The nature center building is open mainly for programs.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. Cincinnati Parks describes paths and garden features as accessible without measurements. The page offers archive appointments but also says the building is closed except for programming; indoor entry and restroom availability are unresolved. Confirm parking-to-path connections, gradients, surfaces and any indoor visit with the park.",
+    "checked_at": "2026-11-11",
     "slug": "bettman-nature-preserve",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "The preserve has a paved, wheelchair-accessible path leading to views of the preserve, and an accessible trail that winds through about six acres of forest.",
+        "text": "Cincinnati Parks describes a paved wheelchair-accessible path with views of the preserve and a trail winding through about six acres of forest. It does not give path gradients or dimensions.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
         "id": "bettman-nature-preserve.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13515,6 +13846,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review attributed the published access description to Cincinnati Parks and retained the unknown route measurements."
           }
         ]
       },
@@ -13524,7 +13860,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
         "id": "bettman-nature-preserve.sensory.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": "2020-07-26",
         "observed_at": null,
         "review_status": "source_checked",
@@ -13533,22 +13869,50 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "The nature center building is closed to the public and opens only for programs.",
+        "text": "The nature center page says the building is closed to the public and opens for programming only. The same page separately offers library/archive visits by appointment, with volunteer availability on Tuesdays, noon–3 p.m. These statements are not reconciled; call 513-321-6070 before planning an indoor visit.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
         "id": "bettman-nature-preserve.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review preserved the source’s appointment offer alongside its building-closure statement; no general indoor access was inferred."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The park feature list includes public restrooms at the nature center, but the same page restricts public entry to the building. Restroom availability outside programs and access features remain unconfirmed; call before relying on them.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+        "id": "bettman-nature-preserve.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -13689,7 +14053,7 @@
     "website": "https://www.junglejims.com/",
     "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
     "limitations": "Public website information; no on-site audit. Accessible parking, restrooms and quiet hours are not described. Confirm with customer service before your visit.",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-11",
     "slug": "jungle-jims-fairfield",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -13700,7 +14064,7 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-fairfield.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13709,16 +14073,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "A Caroline Cart, a shopping cart with a seat for an older child or adult, is available by special request at Customer Service. Only service animals are allowed.",
+        "text": "A Caroline Cart is available by special request at Customer Service.",
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-fairfield.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13727,6 +14096,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Full review narrowed this note to the source’s equipment request procedure; removed an unexplained seat description and moved the separately published service-animal policy to its own note."
           }
         ]
       },
@@ -13736,7 +14110,7 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip",
         "id": "jungle-jims-fairfield.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13745,6 +14119,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -13754,13 +14133,54 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-fairfield.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Pets are not allowed; the store’s policy permits service animals.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-fairfield.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Fairfield description warns of a maze of departments and lists animatronics among its attractions. It does not describe quiet hours or a quiet route.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-fairfield.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -15792,6 +16212,450 @@
         "source_url": "https://www.cc-pl.org/adult-outreach-services",
         "id": "campbell-county-public-library-cold-spring-branch.chronic.1",
         "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cincinnati & Hamilton County Public Library — Price Hill Branch",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Libraries",
+    "address": "970 Purcell Avenue, Cincinnati, OH 45205",
+    "website": "https://chpl.org/locations/pr/",
+    "source_url": "https://chpl.org/locations/pr/",
+    "limitations": "Public website information; no on-site audit. The library describes the renovated branch as accessible to mobility aids, but does not specify entrance thresholds, door controls, elevator routes, parking-to-door connections or restroom features on this page. Quiet-area locations and conditions are not given. Confirm arrangements with the branch.",
+    "checked_at": "2026-11-11",
+    "slug": "price-hill-branch-library",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The library describes the branch as accessible to wheelchairs, walkers and strollers. Entrance and internal route details are not specified.",
+        "source_url": "https://chpl.org/locations/pr/",
+        "id": "price-hill-branch-library.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The branch lists designated quiet areas; their locations and noise conditions are not described.",
+        "source_url": "https://chpl.org/locations/pr/",
+        "id": "price-hill-branch-library.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Spanish signage is included in the branch’s bilingual approach.",
+        "source_url": "https://chpl.org/locations/pr/",
+        "id": "price-hill-branch-library.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The branch lists curbside service. Collection locations and procedures are not described on the branch page.",
+        "source_url": "https://chpl.org/locations/pr/",
+        "id": "price-hill-branch-library.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For visit planning at the Purcell Avenue branch, call 513-369-4490 or email pricehill@chpl.org.",
+        "source_url": "https://chpl.org/locations/pr/",
+        "id": "price-hill-branch-library.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For library-system accommodation questions, call 513-369-6968 and choose option 5, or email accessibility@chpl.org. During a visit, the library asks anyone needing assistance to notify a staff member.",
+        "source_url": "https://chpl.org/accessibility-services/",
+        "id": "price-hill-branch-library.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LeBlond Recreation Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "2335 Riverside Dr., Cincinnati, OH 45202",
+    "website": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+    "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+    "limitations": "Public website information; no on-site audit. CRC describes recreation features as accessible without publishing measurements or equipment transfer procedures here. Parking-to-door routes, entrance thresholds, door controls, restrooms and indoor circulation remain unverified. The sensory garden is not described as a quiet space. Ask the center about current equipment, program availability and membership before visiting.",
+    "checked_at": "2026-11-11",
+    "slug": "leblond-recreation-center",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "CRC lists a paved walking path along the Ohio River connecting the center to St. Rose Recreation Area. Slope, distance and access from parking are not specified.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+        "id": "leblond-recreation-center.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "CRC describes the playground and outdoor workout equipment as accessible, and lists a NEOS electronic playground component. Individual equipment access and transfer arrangements are not specified.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+        "id": "leblond-recreation-center.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The center lists a raised-bed community sensory garden. The page does not describe its noise conditions or say it is a quiet space.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+        "id": "leblond-recreation-center.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "LeBlond houses CRC’s Division of Therapeutic Recreation. The center asks visitors to call for annual membership fees.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+        "id": "leblond-recreation-center.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For visit planning at the Riverside Drive center, call 513-352-4013.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+        "id": "leblond-recreation-center.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For CRC programs, request an Accommodation and Assessment Form at registration if you need additional assistance. This is the systemwide request process, rather than a guarantee of a particular LeBlond arrangement.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "leblond-recreation-center.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "CRC’s Inclusion Team lists adaptive equipment, increased supervision, behavior supports and Boardmaker communication tools among accommodation types. Discuss the particular support needed for your program; this list does not establish which equipment is present at LeBlond.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "leblond-recreation-center.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "CRC requires a valid Center Membership for Therapeutic Recreation and center programs. Its membership benefits are valid for 12 months from purchase.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "leblond-recreation-center.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CRC notes separate charges for some programs, fitness access and pool access. Confirm the applicable charges with the center before registering.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "leblond-recreation-center.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Walmart Supercenter — Fort Wright",
+    "city": "Fort Wright",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "3450 Valley Plaza Pkwy, Fort Wright, KY 41017",
+    "website": "https://www.walmart.com/store/2967-ft-wright-ky",
+    "source_url": "https://www.walmart.com/store/2967-ft-wright-ky",
+    "limitations": "Public website information; no on-site audit. The local store lists sensory-friendly hours and grocery pickup/delivery. Cart and communication supports below are Walmart’s published U.S. policies, rather than observations at this branch. Entrance thresholds, door controls, designated parking routes, restroom features, equipment collection points and cart weight limits remain unverified. Lighting is lowered only where possible; reduced stimulation does not mean silence. Confirm arrangements with the store.",
+    "checked_at": "2026-11-11",
+    "slug": "walmart-supercenter-fort-wright",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "sensory",
+        "text": "The Fort Wright store lists sensory-friendly shopping hours every day, 8–10 a.m.",
+        "source_url": "https://www.walmart.com/store/2967-ft-wright-ky",
+        "id": "walmart-supercenter-fort-wright.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Walmart describes its U.S. sensory-hours program as using static TV images, turning off the radio and lowering lights where possible. These are program measures, rather than a guarantee of quiet throughout the store.",
+        "source_url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "id": "walmart-supercenter-fort-wright.sensory.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Walmart says all U.S. stores provide Caroline’s Carts. The cart has a large seat with a five-point harness facing the person pushing it. The policy does not specify this branch’s collection point or weight limit.",
+        "source_url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "id": "walmart-supercenter-fort-wright.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Walmart publishes free Aira navigation services for blind and low-vision customers in U.S. stores and online.",
+        "source_url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "id": "walmart-supercenter-fort-wright.sensory.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Walmart says on-demand sign-language interpretation is available in U.S. stores by scanning a Sorenson QR code at service desks.",
+        "source_url": "https://corporate.walmart.com/purpose/making-shopping-more-accessible-for-everyone",
+        "id": "walmart-supercenter-fort-wright.sensory.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Fort Wright store lists grocery pickup and delivery. The store page does not describe pickup-space access or assistance arrangements.",
+        "source_url": "https://www.walmart.com/store/2967-ft-wright-ky",
+        "id": "walmart-supercenter-fort-wright.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The store is at 3450 Valley Plaza Parkway. Call 859-341-7900 to discuss a visit and confirm available support.",
+        "source_url": "https://www.walmart.com/store/2967-ft-wright-ky",
+        "id": "walmart-supercenter-fort-wright.cognitive.1",
+        "source_type": "venue_official",
         "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,

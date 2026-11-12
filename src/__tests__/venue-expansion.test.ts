@@ -11,6 +11,29 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Price Hill library and LeBlond recreation with source-limited routes", () => {
+    expect(findPlaces({ category: "Libraries", region: "OH" }).map((p) => p.slug)).toContain("price-hill-branch-library");
+    expect(place("price-hill-branch-library").address).toBe("970 Purcell Avenue, Cincinnati, OH 45205");
+    expect(text("price-hill-branch-library")).toMatch(/designated quiet areas/);
+    expect(place("price-hill-branch-library").limitations).toMatch(/entrance thresholds/);
+    expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toContain("leblond-recreation-center");
+    expect(text("leblond-recreation-center")).toMatch(/connecting the center to St. Rose/);
+    expect(place("leblond-recreation-center").limitations).toMatch(/sensory garden is not described as a quiet space/);
+    for (const slug of ["price-hill-branch-library", "leblond-recreation-center"]) {
+      expect(place(slug).observed_at).toBeNull();
+      expect(place(slug).limitations).toMatch(/no on-site audit/);
+    }
+  });
+  it("finds Fort Wright shopping with local sensory hours and scoped chain policies", () => {
+    const slug = "walmart-supercenter-fort-wright";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("3450 Valley Plaza Pkwy, Fort Wright, KY 41017");
+    expect(text(slug)).toMatch(/every day, 8–10 a.m./);
+    expect(text(slug)).toMatch(/lowering lights where possible/);
+    expect(text(slug)).toMatch(/Sorenson QR code/);
+    expect(place(slug).limitations).toMatch(/rather than observations at this branch/);
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Cold Spring as a Kentucky library with curbside conditions and explicit building gaps", () => {
     const slug = "campbell-county-public-library-cold-spring-branch";
     expect(findPlaces({ category: "Libraries", region: "KY" }).map((p) => p.slug)).toContain(slug);
@@ -19,6 +42,14 @@ describe("November source-backed venue expansion", () => {
     expect(text(slug)).toMatch(/county residents/i);
     expect(place(slug).limitations).toMatch(/Entrance thresholds.*remain unverified/);
     expect(place(slug).observed_at).toBeNull();
+  });
+  it("preserves park route barriers and conflicting public-facility notices", () => {
+    expect(text("big-bone-lick-state-historic-site")).toMatch(/gravel after 0.2 mile/);
+    expect(text("big-bone-lick-state-historic-site")).toMatch(/62 cedar stairs/);
+    expect(text("big-bone-lick-state-historic-site")).toMatch(/closed until further notice/);
+    expect(text("big-bone-lick-state-historic-site")).toMatch(/mid-November to mid-March/);
+    expect(text("bettman-nature-preserve")).toMatch(/These statements are not reconciled/);
+    expect(place("bettman-nature-preserve").limitations).toMatch(/restroom availability are unresolved/);
   });
   it("adds eight distinct public-source guides without implying a field visit", () => {
     for (const slug of newSlugs) {
