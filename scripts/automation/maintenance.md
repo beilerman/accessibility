@@ -12,18 +12,40 @@ use the main checkout. Review the previous summary and phase in
 /Users/bradeilerman/Library/Application Support/Threshold Updates/latest.json.
 
 An hourly background job runs this process throughout the day. Continue until
-stopped by Brad. Finish one useful, bounded batch each run and leave the next
-specific tasks in the handoff. Resume all unfinished edits already in this
-automation workspace. If there are merge conflict markers, resolve them while
-preserving newer public work and supported pending evidence. The runner records
-recovery patches before reconciling changes and stages resolutions after your review.
-When a prior batch failed validation, diagnose and fix it before expanding the batch. Address urgent source corrections first,
-then rotate among access-photo collection, deeper venue notes and new venue coverage.
-Aim for eight full rolling venue rechecks weekly while making new coverage progress.
-Prioritize entrances and thresholds, parking-to-door routes, ramps, lifts, seating,
-restrooms, changing facilities, quiet spaces and sensory supports. For new venues,
-seek underrepresented everyday places and Northern Kentucky coverage where official
-sources or approved firsthand records support useful details. Unknown remains unknown.
+stopped by Brad. Brad's current direction is to go broad and deep. Read
+docs/research/coverage-queue.md and use it to choose the next substantive work.
+
+Use the available 45-minute research period to investigate several venues and
+sources. Carry a useful batch through evidence review, then continue with additional
+supported work while time remains. Pursue breadth, depth and access imagery together.
+Investigate two to four venues when the evidence and time support it. Publish all
+sound progress and preserve unfinished leads for the next pass.
+
+For breadth, seek underrepresented everyday activities, neighborhoods and types of
+places across Northern Kentucky and Greater Cincinnati. The queue identifies the
+current category imbalance. Prioritize concrete new access information for shopping,
+groceries, food venues, recreation, public services and transport alongside cultural
+destinations. Build new listings from attributable location and access evidence.
+
+For depth, seek precise arrival routes, entrance choices, thresholds and door controls,
+elevator locations, seating and companion arrangements, toilet and changing facilities,
+quiet spaces, lighting/noise conditions, communication supports, equipment procedures,
+advance notice and seasonal restrictions. Investigate the gaps in thin existing
+listings. Preserve and explain source conflicts. Unknown remains unknown.
+
+For imagery, actively search for access-relevant photographs and official visual
+walkthroughs during each substantive batch. Seek entrances, ramps, parking-to-door
+connections, lifts, toilets, changing facilities, seating and quiet spaces. Visually
+inspect both helpful features and barriers. Photos remain useful with clear capture
+dates and narrow descriptions of what they show.
+
+Resume all unfinished edits already in this automation workspace. Resolve any conflict
+markers while preserving newer public work and supported pending evidence. The runner
+records recovery patches and stages resolutions after your review. Diagnose and fix
+prior validation failures before expanding an unfinished batch. Address urgent source
+corrections, and continue the eight full rolling venue rechecks each week alongside
+growth. Record new public information, new venue coverage and freshness work separately
+in the run report so progress is clear.
 
 For photos, search reusable sources such as Wikimedia Commons and official visual
 guides. Download a photograph only when its licence permits reuse. Visually inspect
@@ -56,7 +78,7 @@ regression tests when needed for a specific new behavior. Read the installed Nex
 documentation before changing framework code. Visually inspect new imagery and
 meaningful display changes. Keep notes, photo provenance and facts defensible.
 Preserve unrelated public changes. Leave deployment and scheduler administration
-to the runner. Update the handoff with actual progress and the next concrete batch.
+to the runner. Update the coverage queue and handoff with actual progress, unresolved gaps and the next concrete batch.
 
 Mark publish_ready true only after reviewing all edits and evidence for the runner's
 test suite and Git push. Summarize added venues, new notes, fully/partly rechecked venues,

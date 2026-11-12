@@ -140,3 +140,13 @@ It resumes unfinished batches, records recovery patches when public work advance
 validates accepted changes and pushes both publication branches. Runtime status,
 logs and operation are documented in docs/CONTINUAL-UPDATES.md. Publication remains
 limited to the two daily Vercel release slots.
+
+
+## Broad and deep expansion — November 11
+
+Brad asked to go broad and deep. Each hourly research period should pursue several
+venues and sources as evidence and time allow, combining new venue coverage, deeper
+practical access detail and relevant imagery. Use docs/research/coverage-queue.md.
+Prioritize the underrepresented shopping, food, transport, everyday-service and
+recreation coverage alongside Northern Kentucky neighborhoods and existing thin
+listings. The queue records concrete starting sources, missing evidence and holds.
