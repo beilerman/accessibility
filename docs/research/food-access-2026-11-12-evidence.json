@@ -1,0 +1,103 @@
+[
+  {
+    "slug": "rhinegeist-brewery",
+    "facts": [
+      {
+        "id": "rhinegeist-brewery.mobility.1",
+        "claim": "For public-tour access arrangements, Rhinegeist asks for two weeks’ notice, the same as private tours. Strollers are not recommended. The page does not describe a continuous tour route or its physical features.",
+        "url": "https://rhinegeist.com/brewery-tours/",
+        "quote": "Strollers are not recommended. How long do tours last? A brewery tour lasts 60 minutes. Are tours accessible? Public tours are ADA accessible but require the same two week notice as private tours.",
+        "verified": true
+      },
+      {
+        "id": "rhinegeist-brewery.chronic.1",
+        "claim": "A brewery tour lasts 60 minutes. Public tours are first come, first served; sign up in person.",
+        "url": "https://rhinegeist.com/brewery-tours/",
+        "quote": "Public tours run on a first come, first served basis. Tours are $10 and include a pint. No reservation needed, just show up and sign up in person.",
+        "verified": true
+      },
+      {
+        "id": "rhinegeist-brewery.cognitive.1",
+        "claim": "Pets are not allowed because it is an active brewing facility; the page does not mention service animals.",
+        "url": "https://rhinegeist.com/brewery-tours/",
+        "quote": "Unfortunately not. We’re an active brewing facility, so pets are not allowed on the premises.",
+        "verified": true
+      },
+      {
+        "id": "rhinegeist-brewery.chronic.2",
+        "claim": "Outside food is welcome. Rooftop seating depends on the weather and is first come, first served.",
+        "url": "https://rhinegeist.com/rooftop/",
+        "quote": "You’re still welcome to bring food in, too. We also offer a catering menu for larger groups ahead of time. Reach out to [email protected] to learn more. Can I order a beer that’s in the taproom but not pouring on the rooftop? Sure thing! You’ll need to order it in the taproom, but you are welcome to bring it with you to the rooftop. Can I make a rooftop reservation? Unfortunately not. Since the rooftop is contingent on the weather, it is first-come, first-serve.",
+        "verified": true
+      },
+      {
+        "id": "rhinegeist-brewery.mobility.2",
+        "claim": "Rhinegeist’s private-event FAQ says all private event spaces have elevator access. It does not locate the elevator, explain public taproom entry or establish a continuous route to the rooftop.",
+        "url": "https://rhinegeist.com/celebrations/",
+        "quote": "All private event spaces have elevator access and are ADA compliant.",
+        "verified": true
+      },
+      {
+        "id": "rhinegeist-brewery.mobility.3",
+        "claim": "For private events, Rhinegeist describes a small public lot across the street, first come, first served, and nearby paid parking. It offers a parking map and valet as an add-on. Designated spaces and the crossing route are not described.",
+        "url": "https://rhinegeist.com/celebrations/",
+        "quote": "There’s a small public lot across the street (first come, first served) plus several paid options nearby. We can provide a parking map. Valet parking is available as an add-on.",
+        "verified": true
+      },
+      {
+        "id": "rhinegeist-brewery.chronic.3",
+        "claim": "The current taproom page offers free table reservations for groups of ten or more. Give the group size and intended visit time; this does not establish wheelchair-space layout or guarantee a specific seat.",
+        "url": "https://rhinegeist.com/taproom/",
+        "quote": "Groups of 10 or more can book a table ahead of time! Tell us your group size and when you’re coming, and we’ll get you set up. It’s free!",
+        "verified": true
+      },
+      {
+        "id": "rhinegeist-brewery.chronic.4",
+        "claim": "The rooftop’s food instructions say to collect Pizza Time orders in the taproom and bring them up to the rooftop. The published route between these areas is not described; confirm arrangements before relying on rooftop dining.",
+        "url": "https://rhinegeist.com/rooftop/",
+        "quote": "Pizza Time is open. Pick up your pizza in the taproom and bring it up to the rooftop.",
+        "verified": true
+      }
+    ],
+    "publication_status": "accepted"
+  },
+  {
+    "slug": "rhinegeist-brewery",
+    "facts": [
+      {
+        "url": "https://rhinegeist.com/brewery-tours/",
+        "quote": "A brewery tour lasts 60 minutes.",
+        "verified": true
+      }
+    ],
+    "publication_status": "accepted"
+  },
+  {
+    "slug": "madtree-oakley-taproom",
+    "facts": [
+      {
+        "url": "https://madtree.com/locations/oakley-taproom/",
+        "quote": "MadTree’s Oakley Taproom has a large, free, dedicated parking lot right on-site for our guests, complete with electric car charging stations. There are hundreds of additional free spots accessible by the Madison Rd. bridge and crosswalk.",
+        "verified": true
+      },
+      {
+        "url": "https://madtree.com/faqs/",
+        "quote": "Oakley Taproom: Generally, all seating is first come, first served in the very large taproom and beer garden. However, we happily reserve space for larger parties of 10 - 30 people.",
+        "verified": true
+      },
+      {
+        "url": "https://madtree.com/locations/oakley-taproom/",
+        "quote": "Our in-house kitchen serves a full menu featuring pizzas, sandwiches, fresh salads, and shareable snacks enjoy — including vegetarian and gluten-free items.",
+        "verified": true
+      },
+      {
+        "url": "https://madtree.com/faqs/",
+        "quote": "MadTree's Oakley Taproom is dog-friendly. All dogs must remain on the outdoor patio.",
+        "verified": true
+      }
+    ],
+    "address_quote": "Location 3301 Madison Road Cincinnati, OH 45209",
+    "address_url": "https://madtree.com/locations/oakley-taproom/",
+    "publication_status": "held_manual_review"
+  }
+]

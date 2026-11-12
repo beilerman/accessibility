@@ -11,6 +11,50 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("limits Rhinegeist elevator evidence to private events and retains tour notice", () => {
+    const slug = "rhinegeist-brewery";
+    expect(text(slug)).toMatch(/all private event spaces have elevator access/);
+    expect(place(slug).limitations).toMatch(/does not establish an uninterrupted public route/);
+    const tour = place(slug).facts.find((f) => f.id === "rhinegeist-brewery.mobility.1")!;
+    expect(tour.text).toMatch(/two weeks’ notice/);
+    expect(tour.text).not.toMatch(/ADA accessible/);
+    expect(tour.history.at(-1)?.action).toBe("revised");
+  });
+
+  it("discovers Florence order-point and grocery services without transferring full-store facilities", () => {
+    const shopping = findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug);
+    expect(shopping).toContain("ikea-florence-plan-and-order-point");
+    expect(shopping).toContain("publix-farmview-commons");
+    const ikea = place("ikea-florence-plan-and-order-point");
+    expect(ikea.address).toBe("7739 Mall Rd., Florence, KY 41042-1405");
+    expect(ikea.limitations).toMatch(/7735 Mall Road/);
+    expect(ikea.limitations).toMatch(/West Chester.*have not been transferred/);
+    expect(text(ikea.slug)).toMatch(/no stock/);
+    expect(text(ikea.slug)).toMatch(/same day/);
+    const publix = place("publix-farmview-commons");
+    expect(publix.address).toBe("8740 US Hwy 42, Florence, KY 41042");
+    expect(publix.limitations).toMatch(/8470 US 42/);
+    expect(publix.limitations).toMatch(/chain guidance rather than observations/);
+    expect(text(publix.slug)).toMatch(/drive-through pharmacy/);
+    for (const p of [ikea, publix]) {
+      expect(p.observed_at).toBeNull();
+      expect(p.limitations).toMatch(/no on-site audit/);
+    }
+  });
+
+  it("keeps Newport pickup conditions and Giles Conrad facility conflicts visible", () => {
+    const newport = "campbell-county-public-library-newport-branch";
+    expect(text(newport)).toMatch(/digital-only card does not qualify/);
+    expect(text(newport)).toMatch(/at least 72 hours/);
+    expect(text(newport)).toMatch(/call again rather than leaving voicemail/);
+    expect(place(newport).limitations).toMatch(/July 2022 photograph/);
+    const giles = "giles-conrad-park";
+    expect(text(giles)).toMatch(/portable toilets/);
+    expect(text(giles)).toMatch(/uneven ground/);
+    expect(place(giles).limitations).toMatch(/Shelter 2 has none/);
+    expect(place(giles).limitations).toMatch(/operating season at this park are unknown/);
+  });
+
   it("keeps Boone Woods' shelter-office conflict separate from the park arrival address", () => {
     const slug = "boone-woods-park";
     expect(place(slug).address).toBe("6000 Veterans Way, Burlington, KY 41005");

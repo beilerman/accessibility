@@ -1,0 +1,51 @@
+{
+  "status": "held_manual_review",
+  "reason": "Research retrieval and fresh browser-user-agent quote verification succeeded, but the source monitor receives HTTP 403 from both pages. Do not import until manual review and monitoring disposition are established.",
+  "proposed_places": [
+    {
+      "slug": "madtree-oakley-taproom",
+      "name": "MadTree Oakley Taproom",
+      "city": "Cincinnati",
+      "state": "OH",
+      "category": "Food & drink",
+      "address": "3301 Madison Road, Cincinnati, OH 45209",
+      "website": "https://madtree.com/locations/oakley-taproom/",
+      "source_url": "https://madtree.com/locations/oakley-taproom/",
+      "limitations": "Public website information; no on-site audit. These notes apply to the Oakley Taproom, not Alcove-OTR or the Summit Park locations. On-site parking and a bridge/crosswalk connection are described, but designated parking, distance, gradient, kerbs, thresholds, door controls, toilet features, table clearances and wheelchair seating remain unknown. A large patio is not evidence of a quiet area. Menus label vegetarian and gluten-free items but do not establish freedom from cross-contact. The published pet restriction does not establish a service-animal policy. No reusable location-matched access photograph has been established.",
+      "facts": [
+        [
+          "mobility",
+          "The Oakley page describes a large, free on-site parking lot and additional free spaces reached by the Madison Road bridge and crosswalk. It does not state the connection’s distance, gradient or kerb details.",
+          "https://madtree.com/locations/oakley-taproom/",
+          "venue_official",
+          null,
+          "MadTree’s Oakley Taproom has a large, free, dedicated parking lot right on-site for our guests, complete with electric car charging stations. There are hundreds of additional free spots accessible by the Madison Rd. bridge and crosswalk."
+        ],
+        [
+          "chronic",
+          "MadTree’s FAQ says Oakley taproom and beer-garden seating is generally first come, first served. Space can be reserved for larger parties of 10–30 people; this does not establish a particular table or wheelchair-space layout.",
+          "https://madtree.com/faqs/",
+          "venue_official",
+          null,
+          "Oakley Taproom: Generally, all seating is first come, first served in the very large taproom and beer garden. However, we happily reserve space for larger parties of 10 - 30 people."
+        ],
+        [
+          "chronic",
+          "The Oakley page says its in-house kitchen offers vegetarian and gluten-free menu items. These menu labels do not establish how cross-contact is handled; discuss requirements before ordering.",
+          "https://madtree.com/locations/oakley-taproom/",
+          "venue_official",
+          null,
+          "Our in-house kitchen serves a full menu featuring pizzas, sandwiches, fresh salads, and shareable snacks enjoy — including vegetarian and gluten-free items."
+        ],
+        [
+          "cognitive",
+          "The FAQ says dogs at Oakley must stay on the outdoor patio. It does not explain service-animal arrangements.",
+          "https://madtree.com/faqs/",
+          "venue_official",
+          null,
+          "MadTree's Oakley Taproom is dog-friendly. All dogs must remain on the outdoor patio."
+        ]
+      ]
+    }
+  ]
+}

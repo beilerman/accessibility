@@ -273,5 +273,25 @@
     "checkedAt": "2026-11-12",
     "limitations": "Historical photograph. Escalators do not provide wheelchair access. This frame does not locate an alternative elevator, establish its absence, show a complete route or establish equipment operation today. Lighting varies with time and weather.",
     "relatedFactIds": []
+  },
+  {
+    "id": "newport-library-entrance-2022",
+    "slug": "campbell-county-public-library-newport-branch",
+    "title": "Entrance approach and parking signs (2022)",
+    "src": "/images/access/newport-library-entrance-2022.webp",
+    "width": 1280,
+    "height": 964,
+    "alt": "A concrete walkway leads toward Newport library’s glass entrance beneath a clock tower; accessible-parking signs flank the approach, with a red return bin on the left and benches and a planted island on the right.",
+    "caption": "July 18, 2022: the entrance approach shows parking signs, the return bin, benches and the paved space beside a striped parking access aisle. Full frame retained; converted from the Commons thumbnail to WebP.",
+    "author": "AndyHemmerCincinnati",
+    "photoDate": "2022-07-18",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newport_branch_of_Campbell_County_Public_Library_foto_by_Andy_Hemmer.jpg",
+    "checkedAt": "2026-11-12",
+    "limitations": "Historical photograph. It does not establish current parking allocation or curbside-pickup spaces, a complete route from every parking space, path gradients, clear widths, threshold height, door controls or opening force. The return-bin slot’s reach and internal toilet features are not established. A vehicle is partly visible at the right edge; no identifiable people are visible.",
+    "relatedFactIds": [
+      "campbell-county-public-library-newport-branch.mobility.3"
+    ]
   }
 ]

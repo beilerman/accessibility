@@ -1,14 +1,14 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after the shopping, parks and Chapin batch.
+Updated November 12, 2026, after the Florence/Newport/Hebron and food follow-up batches.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Breadth
 
-The prepared catalog has 109 places. Its categories contain 32 arts venues,
+The prepared catalog has 111 places. Its categories contain 32 arts venues,
 28 parks, 20 museums/attractions, 14 libraries, five transport entries, five
-food/drink venues and five shopping destinations. Use this distribution to seek
+food/drink venues and seven shopping destinations. Use this distribution to seek
 more evidence for everyday activities and less represented types of places.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
@@ -134,27 +134,95 @@ Prepared for runner validation; no Git writes or deployment.
   source findings are preserved. Prepared totals: 109 places, 850 active notes,
   349 stored quotes. Runner must complete browser validation.
 
+## Completed in the November 12 Florence/Newport/Hebron and food follow-up
+
+[First-batch research](shopping-newport-hebron-2026-11-12.md) and
+[food follow-up](food-access-2026-11-12.md) record evidence, held findings and checks.
+Prepared for runner validation; no Git writes or deployment.
+
+- **New coverage:** IKEA Florence order point (nine notes) and Publix Farmview
+  Commons (five). Both have fresh current branch-address evidence, with differing
+  launch-announcement addresses preserved. The order point's same-day stock wording
+  also conflicts on its own page; collection timing must be confirmed.
+- **New public information:** fourteen notes at Newport library (eight) and Giles
+  Conrad (six), plus four at Rhinegeist. **32 new notes** overall. Pickup/card/help
+  procedures, event notice, portable toilets, shelter differences, Valley Orchards'
+  uneven ground, private-event elevators and booking steps keep their source scope.
+- **Freshness:** eight old notes at three venues fully reviewed, five confirmed and
+  three revised. Newport's two citations were canonicalized; Rhinegeist's tour note
+  now gives practical notice/stroller conditions instead of a compliance verdict.
+  Three full reviews; weekly total **19/8**. No new partial review; AMC unchanged.
+- **Imagery:** one full-frame CC BY-SA 4.0 July 18, 2022 Newport library photograph,
+  showing entrance approach, parking signs, return bin and benches, with current
+  operation/measurement limits. Both original thumbnail and final WebP inspected.
+  No new guide. Totals: fifteen photos and nine guide entries/eight documents.
+- **Evidence:** 45 accepted-source checks cover 40 public notes, two addresses and
+  three supporting passages, across fifteen freshly baselined official pages.
+  **Held:** MadTree Oakley proposed listing after source-monitor 403 despite
+  research-user-agent 200/matching quotes. Candidate and evidence are preserved;
+  do not publish without manual review. Two Rhinegeist photo candidates inspected
+  but held for prominent people or lack of a useful public-access feature.
+- **Prepared totals:** 111 places, 882 active notes and 389 stored quotes. Types,
+  lint, 56 unit tests, 42 pipeline tests and final build pass. Browser launch remains
+  denied locally; the runner owns the browser gate and publication branches.
+
 ## Next concrete batch
 
-1. **Northern Kentucky groceries:** Kroger Newport Pavilion and Meijer Florence
-   remain held for an available browser. Do not repeat blocked direct requests as
-   a recheck. Seek another official grocery branch source with local collection
-   or assistance evidence, and reusable arrival photographs.
-2. **Florence everyday shopping:** investigate the IKEA Florence Plan and Order
-   Point mentioned on the current West Chester page. Establish the branch address,
-   collection process and physical premises separately; do not transfer full-store
-   wheelchair, scooter, restaurant or baby-care-room statements to an order point.
-   The mall's current map page is https://www.florencemall.com/map.php .
-3. **Boone Woods and county office:** seek current primary evidence resolving
-   the three published office addresses and completion/operation of the planned
-   heated restroom building. The 2024 approval and 2026 newsletter do not prove
-   year-round operation. Seek matched playground/parking/doorway photographs.
-4. **Current Covington transfers:** continue post-November-7 TANK stop, bay and
-   boarding imagery and connection research. Keep reduced-fare/Plus-zone/Route 16
-   conflicts visible. For the older rolling queue, Bogart's remains a candidate;
-   Chapin and Boone Woods are now fully reviewed at the source level described here.
+1. **Current Covington transfers:** prioritize post-November-7 TANK stop/bay,
+   boarding and pavement images and connection research. Preserve fare/zone/Route
+   16 differences. Do not present the 2011 shuttle photograph or 2025 brochure as
+   evidence of current vehicles or routes.
+2. **Northern Kentucky groceries:** Meijer Florence and Kroger Newport Pavilion
+   remain manual-browser holds; avoid repeating blocked script requests. Deepen
+   Publix Farmview Commons with bay/drive-through-lane arrival, designated parking,
+   equipment procedures, toilets and reusable access images. Resolve its 8740/8470
+   US 42 difference with authoritative current location evidence.
+3. **Florence order point:** establish IKEA pickup bays, arrival check-in, loading
+   help and actual physical premises separately from full-store policies. Resolve
+   7739/7735 Mall Road and the same-page take-home-stock difference. Do not transfer
+   West Chester loan/food/baby-care facilities. Seek reusable matched arrival photos.
+4. **Food breadth and depth:** manually review held MadTree Oakley candidate and
+   the source-monitor user-agent block before import. Continue concrete food venue
+   arrival, seating and toilet research. Rhinegeist private-event elevators do not
+   establish a public entrance or rooftop route; seek the actual lift/entrance and
+   equipment procedures plus less identifiable visitor imagery.
+5. **Thin neighborhood and county facilities:** Newport library interior/door/bin
+   reach and quiet-space evidence; Giles Conrad portable-toilet features/season,
+   shelter electricity discrepancy and Valley Orchards connection distances/slopes.
+   The county office-address/restroom-completion holds at Boone Woods persist.
+   For the older rolling queue, Bogart's remains a candidate; the weekly target has
+   been exceeded while these three further venue reviews added substantive detail.
 
 ## Holds and unresolved source conflicts
+
+- **IKEA Florence:** current branch page lists 7739 Mall Road; the November 2025
+  announcement listed 7735. Introduction says no stock, FAQ says some furnishings
+  can be taken home the same day. Pickup-bay/check-in/loading and physical facilities
+  remain unknown. Generic full-store images are not this order point.
+- **Publix Farmview Commons:** current branch page says 8740 US Hwy 42, opening
+  announcement says 8470 US 42. Confirm the destination. Cart collection, toilets,
+  quiet space and actual parking-to-door/pharmacy-lane routes remain unknown.
+- **Newport library:** July 2022 photo is historical. Current curbside-bay location,
+  door controls, thresholds, bin reach, toilets and quiet spaces remain unverified.
+  District pickup and outreach policies are not a physical audit.
+- **Giles Conrad:** shelter register lists portable toilets and no electricity at
+  Shelter 2; park page says each shelter has electricity. Portable-toilet season
+  and features remain unknown; do not transfer the county's generic plumbed-restroom
+  season. The 2007-metadata aerial map says both 1.3 and over 1.6 miles; it is not a
+  current photo walkthrough or a replacement for the current 1.3-mile source note.
+- **MadTree Oakley:** unpublished candidate in `madtree-oakley-held-2026-11-12.json`.
+  Research/browser-user-agent fetches worked, source-monitor requests returned 403
+  for both branch and FAQ. Held for manual review. Alcove page combines two branches;
+  a third-floor Loft statement does not establish an elevator route. No listing added.
+- **Scheben imagery:** the earlier rate-limited December 31, 2019 Commons photo
+  by Mhuy222 now downloaded and was inspected. It shows the rear facade/marquee and
+  roadside sidewalk/kerb, with no visitor entrance or parking-to-door route. Held
+  as weak access imagery; no venue check date or old holiday closure was refreshed.
+- **Rhinegeist:** private-event elevator statement has no entrance/location or
+  rooftop connection details. Early-morning CLOSED header does not establish an
+  all-day or full-season closure. Indexed old tour page redirects to current text.
+  The 2014 reception photo has prominent identifiable visitors; the 2015 equipment
+  view lacks a useful public visitor route. Both held; no new media imported.
 
 - **Chapin:** locations and Express Access agreement list first-Saturday staffing,
   while the branch page omits it and gives different Saturday general hours. Confirm

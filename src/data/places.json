@@ -16362,8 +16362,8 @@
     "address": "7500 River Road, Hebron, KY 41048",
     "website": "https://www.boonecountyky.org/business_detail_T35_R65.php",
     "source_url": "https://www.boonecountyky.org/business_detail_T35_R65.php",
-    "limitations": "Public website information; no on-site audit. Restrooms, benches and the slope from parking to the overlooks are not described. Contact Boone County Parks.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public website information; no on-site audit. The county shelter register lists portable toilets, but their access features and operating season at this park are unknown. Bench locations, parking-to-overlook gradients, path widths and the distance or slope of the Valley Orchards connection remain unverified. The park page says both shelters have electricity, while the shelter register says Shelter 2 has none; confirm before booking. Shelter seat counts do not describe wheelchair spaces. County office addresses conflict on other current pages; use online or phone booking before an office trip.",
+    "checked_at": "2026-11-12",
     "slug": "giles-conrad-park",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -16374,7 +16374,7 @@
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R65.php",
         "id": "giles-conrad-park.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16383,6 +16383,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -16392,13 +16397,126 @@
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R202.php",
         "id": "giles-conrad-park.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The county shelter register lists portable toilets at Giles Conrad Park. It does not describe their internal layout, access features or operating season at this park.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+        "id": "giles-conrad-park.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The county shelter register lists Shelter 1 with 70 seats and electricity, and Shelter 2 with 80 seats and no electricity. Seating capacity does not establish wheelchair spaces or companion layout.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+        "id": "giles-conrad-park.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "County shelter reservations open on the first business day in March for April–October bookings, for the whole day. Fees are non-refundable; rescheduling depends on an opening. This is countywide booking guidance, not proof of a particular date’s availability.",
+        "source_url": "https://www.boonecountyky.org/services/parks/park_shelters/index.php",
+        "id": "giles-conrad-park.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park page gives 859-334-2283 for weather-related activity updates. This does not establish trail or toilet conditions.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R65.php",
+        "id": "giles-conrad-park.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For the neighboring Valley Orchards fields, the county warns that parking at Valley Orchards involves uneven ground. It identifies parking at Giles Conrad Park, 7500 River Road, with a paved path to the fields as the alternative; path distance and slope are not stated.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R202.php",
+        "id": "giles-conrad-park.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The park page says each of its two reservable shelters includes electricity and a grill. See the listing’s caution about the shelter register’s different electricity information.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R65.php",
+        "id": "giles-conrad-park.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -16517,9 +16635,9 @@
     "category": "Libraries",
     "address": "901 East 6th Street, Newport, KY 41071",
     "website": "https://www.cc-pl.org/locations",
-    "source_url": "https://www.cc-pl.org/adult-outreach",
-    "limitations": "Public website information; no on-site audit. The library's pages describe outreach services for the whole county, not the Newport building: entrances, parking, restrooms and routes are not described. Call the branch before your visit.",
-    "checked_at": "2026-11-08",
+    "source_url": "https://www.cc-pl.org/adult-outreach-services",
+    "limitations": "Public website information; no on-site audit. Outreach and event-accommodation procedures are district policies, not observations at Newport. The July 2022 photograph shows the entrance approach, parking signs and return bin historically; it does not establish current parking allocation, door controls, thresholds, gradients or bin reach. Current curbside-bay locations, interior routes, toilets and quiet spaces remain unknown. Call the branch before your visit.",
+    "checked_at": "2026-11-12",
     "slug": "campbell-county-public-library-newport-branch",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -16527,10 +16645,10 @@
       {
         "domain": "chronic",
         "text": "Campbell County residents who can't visit the library because of a temporary or permanent illness or disability can get materials delivered at home, or by mail for free.",
-        "source_url": "https://www.cc-pl.org/adult-outreach",
+        "source_url": "https://www.cc-pl.org/adult-outreach-services",
         "id": "campbell-county-public-library-newport-branch.chronic.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16539,22 +16657,176 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Fresh full review confirms the wording; updated the old redirecting outreach citation to the current official Adult Outreach Services URL. No field observation implied."
           }
         ]
       },
       {
         "domain": "sensory",
         "text": "The library helps patrons sign up for the free Kentucky Talking Book service, for anyone unable to read because of a visual or physical limitation, and the national program of braille and audio materials sent by postage-free mail.",
-        "source_url": "https://www.cc-pl.org/adult-outreach",
+        "source_url": "https://www.cc-pl.org/adult-outreach-services",
         "id": "campbell-county-public-library-newport-branch.sensory.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Fresh full review confirms the wording; updated the old redirecting outreach citation to the current official Adult Outreach Services URL. No field observation implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For curbside pickup at Newport, place a hold and wait for a phone, text, email or postal notification. The item must also show as Held in the account. Call or email the library if you need help accessing the account or placing the hold.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-newport-branch.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Use a designated curbside parking space, then call the number on its sign with your name, library card number and space number. If no one answers, call again rather than leaving voicemail. Stay in the vehicle; staff place items inside, preferably in the trunk.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-newport-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Curbside pickup requires a current physical library card; a digital-only card does not qualify.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-newport-branch.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Holds remain available for seven days after the ready notification. Someone else may collect them if they have your library card number.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-newport-branch.chronic.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "If all curbside spaces are occupied, wait elsewhere in the lot until one opens. Staff deliver only to vehicles in the designated spaces.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-newport-branch.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Items can be returned inside or to the red return bins outside the branches. The page does not give the outdoor bin’s slot height or reach measurements.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-newport-branch.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For event accommodations, the district asks for at least 72 hours’ notice by emailing access@cc-pl.org or calling extension 8 at the local branch.",
+        "source_url": "https://www.cc-pl.org/library-policies",
+        "id": "campbell-county-public-library-newport-branch.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "To arrange adult outreach, call 859-572-5035, extension 352. Home-delivery materials include regular and large-print books, magazines, DVDs, audiobooks and CDs; selection follows the reader’s interests and needs.",
+        "source_url": "https://www.cc-pl.org/adult-outreach-services",
+        "id": "campbell-county-public-library-newport-branch.chronic.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -17228,19 +17500,19 @@
     "address": "1910 Elm Street, Cincinnati, OH 45202",
     "website": "https://rhinegeist.com/",
     "source_url": "https://rhinegeist.com/brewery-tours/",
-    "limitations": "Public website information; no on-site audit. The brewery's accessibility page covers only its website. Step-free entry, elevator access to the rooftop, accessible restrooms, parking and service-animal policy are not described.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. The private-event FAQ describes elevator access, but the elevator location, public taproom step-free entrance, rooftop connections, door controls, toilet features, designated parking and crossing details remain unverified. Private-event elevator information does not establish an uninterrupted public route. The tour page asks for two weeks’ notice for access arrangements even though ordinary public tours are advertised as walk-up. The rooftop is seasonal and weather dependent; verify its live status before planning to sit there. The pet restriction does not explain service-animal arrangements. No quiet-space or measured noise information has been established.",
+    "checked_at": "2026-11-12",
     "slug": "rhinegeist-brewery",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Public brewery tours are ADA accessible but need two weeks' notice, the same as private tours. Strollers are not recommended.",
+        "text": "For public-tour access arrangements, Rhinegeist asks for two weeks’ notice, the same as private tours. Strollers are not recommended. The page does not describe a continuous tour route or its physical features.",
         "source_url": "https://rhinegeist.com/brewery-tours/",
         "id": "rhinegeist-brewery.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -17249,6 +17521,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Full source review retained the advance-notice and stroller conditions, replacing the broad compliance phrase with specific published procedures. No physical-route or compliance conclusion is established."
           }
         ]
       },
@@ -17258,7 +17535,7 @@
         "source_url": "https://rhinegeist.com/brewery-tours/",
         "id": "rhinegeist-brewery.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -17267,6 +17544,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -17276,7 +17558,7 @@
         "source_url": "https://rhinegeist.com/brewery-tours/",
         "id": "rhinegeist-brewery.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -17285,6 +17567,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -17294,13 +17581,90 @@
         "source_url": "https://rhinegeist.com/rooftop/",
         "id": "rhinegeist-brewery.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Rhinegeist’s private-event FAQ says all private event spaces have elevator access. It does not locate the elevator, explain public taproom entry or establish a continuous route to the rooftop.",
+        "source_url": "https://rhinegeist.com/celebrations/",
+        "id": "rhinegeist-brewery.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For private events, Rhinegeist describes a small public lot across the street, first come, first served, and nearby paid parking. It offers a parking map and valet as an add-on. Designated spaces and the crossing route are not described.",
+        "source_url": "https://rhinegeist.com/celebrations/",
+        "id": "rhinegeist-brewery.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The current taproom page offers free table reservations for groups of ten or more. Give the group size and intended visit time; this does not establish wheelchair-space layout or guarantee a specific seat.",
+        "source_url": "https://rhinegeist.com/taproom/",
+        "id": "rhinegeist-brewery.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The rooftop’s food instructions say to collect Pizza Time orders in the taproom and bring them up to the rooftop. The published route between these areas is not described; confirm arrangements before relying on rooftop dining.",
+        "source_url": "https://rhinegeist.com/rooftop/",
+        "id": "rhinegeist-brewery.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -18610,6 +18974,290 @@
         "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IKEA Florence Plan and order point with pick-up",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "7739 Mall Rd., Florence, KY 41042-1405",
+    "website": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+    "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+    "limitations": "Public website information; no on-site audit. The current branch page lists 7739 Mall Road; the November 2025 launch announcement listed 7735 Mall Road. Confirm the destination before travelling. The branch page also conflicts about take-home stock: its introduction says there is none, while the FAQ says some furnishings can be taken home the same day. Confirm the item and collection timing. Pickup-bay location, arrival check-in, loading assistance, designated parking, entrance thresholds and door controls, toilets, seating, quiet spaces and equipment loans remain unknown. West Chester full-store facilities and loan policies have not been transferred to this order point.",
+    "checked_at": "2026-11-12",
+    "slug": "ikea-florence-plan-and-order-point",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "IKEA Florence says customer parking is free. It locates this order point in Florence Square Shopping Center, across from Florence Mall.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Visitors may browse the showroom without a planning appointment. Appointments for planning or purchasing can be booked ahead.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The branch offers one-to-one planning consultations in person or virtually, with goods shipped to the home. This describes a planning service, not a full self-service warehouse.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Florence page advertises curbside pickup. It asks visitors to come inside for help ordering unavailable items to this location, with pickup as early as the next day; it does not explain bay location or arrival check-in.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Florence page lists Click & Collect as free for IKEA Family members and $2 for non-members, and says to ask a coworker for details.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Physical returns are not accepted at this order point. IKEA directs customers to another nearby store or its contact service.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Florence FAQ says there is no restaurant, bistro or Swedish food market at the order point.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The branch FAQ says there is no self-service warehouse for larger furniture, but says some home furnishings can be taken home the same day. This differs from the same page’s introduction saying there is no stock; confirm before making a collection trip.",
+        "source_url": "https://www.ikea.com/us/en/stores/plan-and-order-point-florence/",
+        "id": "ikea-florence-plan-and-order-point.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The November 12, 2025 launch announcement gave 7735 Mall Road as the planned address. See the listing’s caution about the current branch page’s different address.",
+        "source_url": "https://www.ikea.com/us/en/newsroom/corporate-news/ikea-florence-new-plan-and-order-point-with-pick-up-will-open-spring-2026-pubf3d36540/",
+        "id": "ikea-florence-plan-and-order-point.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": "2025-11-12",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Publix Super Market at Farmview Commons",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "8740 US Hwy 42, Florence, KY 41042",
+    "website": "https://www.publix.com/locations/2055-farmview-commons",
+    "source_url": "https://www.publix.com/locations/2055-farmview-commons",
+    "limitations": "Public website information; no on-site audit. The current store page gives 8740 US Hwy 42, but Publix’s October 7, 2026 opening announcement gives 8470 US 42. Confirm the destination before travelling. The store lists curbside pickup and drive-through pharmacy; pickup instructions are chain guidance rather than observations here. Exact pickup-bay and pharmacy-lane locations, vehicle clearance, parking-to-door routes, thresholds and door controls, mobility-cart availability and collection, toilets, seating and sensory conditions remain unknown. No reusable location-matched access photograph has been established.",
+    "checked_at": "2026-11-12",
+    "slug": "publix-farmview-commons",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Farmview Commons store page lists curbside pickup and a drive-through pharmacy. The pharmacy phone is 859-938-1053; its physical lane and clearance are not described.",
+        "source_url": "https://www.publix.com/locations/2055-farmview-commons",
+        "id": "publix-farmview-commons.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Publix’s chain pickup guidance says to order online and select the store and pickup time. Drive there during that time window or after receiving the ready notification.",
+        "source_url": "https://www.publix.com/faq/instacart",
+        "id": "publix-farmview-commons.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Publix’s chain instructions say to park in a designated curbside space and notify the store in the Publix Delivery and Curbside app or by calling the number on the sign. Give your name; an associate brings the order out and loads the car.",
+        "source_url": "https://www.publix.com/faq/instacart",
+        "id": "publix-farmview-commons.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Publix’s chain FAQ directs customers to the ordering site for item prices and the fees for delivery or curbside pickup. Check those costs before ordering.",
+        "source_url": "https://www.publix.com/faq/instacart",
+        "id": "publix-farmview-commons.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Publix’s October 7, 2026 opening announcement lists the Florence store at 8470 US 42. See the listing’s caution about the current store page’s different address.",
+        "source_url": "https://corporate.publix.com/newsroom/news-stories/10072026---publix-opens-new-store-in-florence-kentucky",
+        "id": "publix-farmview-commons.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": "2026-10-07",
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
