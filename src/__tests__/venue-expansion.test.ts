@@ -96,7 +96,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
-      "jungle-jims-fairfield", "molly-malones-covington", "rhinegeist-brewery", "smoke-justis",
+      "findlay-market", "jungle-jims-fairfield", "molly-malones-covington", "rhinegeist-brewery", "smoke-justis",
     ]);
     const art = artForCategory("Food & drink")!;
     expect(art.alt).toMatch(/^AI artwork/);

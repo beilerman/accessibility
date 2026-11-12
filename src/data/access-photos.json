@@ -175,5 +175,46 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cincinnati_Airport_2025b.jpg",
     "checkedAt": "2026-11-11"
+  },
+  {
+    "id": "findlay-market-race-street-approach",
+    "slug": "findlay-market",
+    "title": "Race Street crossing and entrance frontage",
+    "src": "/images/access/findlay-market-race-street.webp",
+    "width": 960,
+    "height": 666,
+    "alt": "Findlay Market across Race Street, with streetcar tracks, a marked crossing and a textured curb ramp in the lower right; a passing streetcar obscures part of the frontage.",
+    "caption": "The April 2017 view shows the street crossing and market frontage, with planters beside the entrance and a textured curb-ramp surface in the foreground. The streetcar is passing, not shown boarding.",
+    "author": "David Wilson",
+    "photoDate": "2017-04-22",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Findlay_Market_entrance_with_streetcar_passing_(2017).jpg",
+    "checkedAt": "2026-11-11",
+    "limitations": "Historical photograph from 2017; the current campaign lists door and seating work in progress. This view does not establish that work’s status, a complete route from a streetcar platform, door operation, crossing timings or current pavement condition.",
+    "relatedFactIds": [
+      "findlay-market.mobility.1",
+      "findlay-market.mobility.3"
+    ]
+  },
+  {
+    "id": "findlay-market-door-front-2019",
+    "slug": "findlay-market",
+    "title": "Market doors and paved approach in 2019",
+    "src": "/images/access/findlay-market-doors-2019.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Red double doors at Findlay Market face a paved forecourt with black bollards; a white freestanding barrier is partly visible in the lower right.",
+    "caption": "The March 2019 view shows closed double doors, the paved area immediately outside them and nearby bollards. No door-control button is identifiable in this view.",
+    "author": "Warren LeMay",
+    "photoDate": "2019-03-31",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(46658831375).jpg",
+    "checkedAt": "2026-11-11",
+    "limitations": "Historical photograph from 2019; the current campaign lists a door project in progress. The exact threshold height, door opening force and controls, available clear width and current route cannot be established from this image.",
+    "relatedFactIds": [
+      "findlay-market.mobility.3"
+    ]
   }
 ]

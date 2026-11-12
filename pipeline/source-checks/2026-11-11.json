@@ -180,9 +180,9 @@
     "https://florence-ky.gov/residents/florence-family-aquatic-center/": {
       "status": 200,
       "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
-      "last_modified": null,
+      "last_modified": "Thu, 12 Nov 2026 03:35:59 GMT",
       "sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 8789
     },
     "https://florenceyalls.com/pages/yalls-a-z": {
@@ -542,7 +542,7 @@
       "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
       "last_modified": null,
       "sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4168
     },
     "https://www.butlercountyrta.com/accessibility/travel-training/": {
@@ -550,7 +550,7 @@
       "final_url": "https://www.butlercountyrta.com/accessibility/travel-training/",
       "last_modified": null,
       "sha256": "c3b2b4100237acf24fc24247bf554846e94ed2241a29c3ca701229adb6184820",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2072
     },
     "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/": {
@@ -1000,10 +1000,10 @@
     "https://www.kenwoodtownecentre.com/en/visit/": {
       "status": 200,
       "final_url": "https://www.kenwoodtownecentre.com/en/visit/",
-      "last_modified": "Mon, 09 Nov 2026 02:29:46 GMT",
-      "sha256": "e571a079445d05e01f690c13d650813415aa5769d482505a334dfc7fa540bc97",
-      "fingerprint_version": 5,
-      "chars": 12154
+      "last_modified": "Thu, 12 Nov 2026 03:51:15 GMT",
+      "sha256": "c4e2f705d7d6f65cd7778d2b61cbd5a9251582c0d1eda8254db42ea831fc4e5e",
+      "fingerprint_version": 6,
+      "chars": 12152
     },
     "https://www.ludlowgaragecincinnati.com/faqs/": {
       "status": 200,
@@ -1884,6 +1884,70 @@
       "sha256": "3714e6a889c4bdf75b9e944574106659723a22c10429ad6f74ab794abdffb997",
       "fingerprint_version": 6,
       "chars": 3409
+    },
+    "https://www.butlercountyrta.com/customer-service/common-questions/": {
+      "status": 200,
+      "final_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+      "last_modified": null,
+      "sha256": "62b8cdad8a1ad6f63bf24399e9683c3d48e4b4ef7a5b80eb2f9f5bbcefc71219",
+      "fingerprint_version": 6,
+      "chars": 6044
+    },
+    "https://www.butlercountyrta.com/how-to-ride/": {
+      "status": 200,
+      "final_url": "https://www.butlercountyrta.com/how-to-ride/",
+      "last_modified": null,
+      "sha256": "76aef9d49a305b4bd37b0b620fdc9da51cf795a29ed42323585344ef13b02755",
+      "fingerprint_version": 6,
+      "chars": 4713
+    },
+    "https://www.findlayforward.org/progress": {
+      "status": 200,
+      "final_url": "https://www.findlayforward.org/progress",
+      "last_modified": null,
+      "sha256": "e1979fa282ce1ae6075bcf40e65c363de8d592fcdab157913a18dc831ea36c4d",
+      "fingerprint_version": 6,
+      "chars": 2491
+    },
+    "https://www.findlaymarket.org/": {
+      "status": 200,
+      "final_url": "https://www.findlaymarket.org/",
+      "last_modified": null,
+      "sha256": "13121b1748d6329b4aa29406b00ee08d855a08a510f736f288666859e05d1e4b",
+      "fingerprint_version": 6,
+      "chars": 4329
+    },
+    "https://www.findlaymarket.org/parking": {
+      "status": 200,
+      "final_url": "https://www.findlaymarket.org/parking",
+      "last_modified": null,
+      "sha256": "77047f6ae6b054a051b71d209b5d22bb5ae3be9f22985d9114e07cd92508b5a1",
+      "fingerprint_version": 6,
+      "chars": 3494
+    },
+    "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/": {
+      "status": 200,
+      "final_url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
+      "last_modified": null,
+      "sha256": "342cf116c7fe178c33b2ecd7890bbde53ca234bf834fc2bfb3ad9de8d0028ba3",
+      "fingerprint_version": 6,
+      "chars": 2644
+    },
+    "https://shop.findlaymarket.org/pages/how-it-works": {
+      "status": 200,
+      "final_url": "https://shop.findlaymarket.org/pages/how-it-works",
+      "last_modified": null,
+      "sha256": "c89ff92d966e62a1327be60382468ac83b32d025a926f483e1f7d40f1d7c7bf2",
+      "fingerprint_version": 6,
+      "chars": 11031
+    },
+    "https://www.findlaymarket.org/shoppingapp": {
+      "status": 200,
+      "final_url": "https://www.findlaymarket.org/shoppingapp",
+      "last_modified": null,
+      "sha256": "4faf74e9c7febdd46fd4d47ef54540d901fdad5715d84149a078e8c47014161e",
+      "fingerprint_version": 6,
+      "chars": 3106
     }
   },
   "findings": {

@@ -1,13 +1,13 @@
 # Broad and deep research queue
 
-Updated November 11, 2026, following Brad's instruction to go broad and deep.
+Updated November 11, 2026, after the late everyday-access batch.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Breadth
 
-The prepared catalog has 105 places. Its categories contain 32 arts venues,
-28 parks, 20 museums/attractions, 14 libraries, five transport entries, four
+The prepared catalog has 106 places. Its categories contain 32 arts venues,
+28 parks, 20 museums/attractions, 14 libraries, five transport entries, five
 food/drink venues and two shopping destinations. Use this distribution to seek
 more evidence for everyday activities and less represented types of places.
 
@@ -59,24 +59,72 @@ photo provenance and holds: [evening batch](broad-depth-2026-11-11.md).
   earlier unselected baselines/findings are preserved, with no claim of a whole
   catalog recheck.
 
+## Completed in the November 11 late pass
+
+Four venues investigated in successive batches. See
+[everyday-access research](everyday-access-2026-11-11.md) for sources, provenance,
+conflicts, validation and holds. Prepared for the runner; no Git writes or deployment.
+
+- **New coverage:** Findlay Market, twelve notes on arrival, project status and
+  grocery pickup/delivery. Two official pickup windows conflict (3–6 p.m. versus
+  4–7 p.m.); both are preserved with a confirmation caution.
+- **Depth:** seventeen notes at Kenwood (three), Florence Aquatic Center (four)
+  and BCRTA (ten), plus three revised old notes. Florence's confirmed 8200 Ewing
+  Boulevard address was added without borrowing a different building's ZIP code.
+- **Freshness:** all sixteen prior notes at those three old listings reviewed:
+  thirteen confirmed and three revised. Weekly full reviews now **12/8**. No new
+  partial review; AMC's six held notes and old listing date remain unchanged.
+- **Imagery:** two licensed full-frame Findlay photographs, dated 2017 and 2019,
+  show the crossing/frontage and closer door approach. One linked official Florence
+  tourism brochure has entrance-forecourt photos on page 30; it is explicitly not
+  an access-route walkthrough. Totals: eleven access images and seven guides.
+- **Evidence/validation:** 45 touched notes and two addresses matched fresh source
+  fetches; twelve cited HTML sources returned 200 with no new attention findings.
+  Types, lint, 47 unit tests, 42 pipeline tests, build and ten HTTP checks passed.
+  Chromium launch is still blocked by macOS permissions; final 87 browser tests
+  must pass on the runner. Browser connector unavailable; native Chrome timed out.
+
 ## Next concrete batch
 
-1. **Kenwood Towne Centre:** concrete parking-to-door routes, wheelchair collection,
-   elevators, family restrooms and sensory details. Seek licensed route photos and
-   official visual guides. The Shopping fallback is now present; do not substitute
-   a general mall or another branch for premises-specific evidence.
-2. **Florence Family Aquatic Center:** investigate actual pool entry, restrooms,
-   transfer procedures and access images. Preserve the 2026 seasonal operating
-   dates; do not infer that a summer pool is operating in November or that a lift
-   is present from an amenity symbol.
-3. **Butler County RTA:** BCARE booking steps, service boundaries and boarding
-   procedures, alongside facility-specific photos. This is also an older rolling
-   review candidate. Bogart’s, Chapin and Boone Woods remain older candidates;
-   continue prioritizing underrepresented everyday coverage now the weekly target
-   has been exceeded.
+1. **Northern Kentucky groceries:** investigate Kroger's Newport local store and
+   its published pickup/assistance resources. Match the exact branch and distinguish
+   chain support policies from a local entrance, equipment pickup point or route.
+   Seek reusable arrival photographs and official visual instructions; do not
+   infer local physical features from a chain policy.
+2. **Smoke Justis:** deepen the ground-floor arrival route, entrance thresholds,
+   seating and restroom evidence, preserving the upstairs stair/no-elevator barrier.
+   Seek a location-matched licensed doorway or route photo.
+3. **TANK/Covington arrival connections:** investigate practical boarding and
+   transfer routes, current equipment procedures and access imagery. Preserve the
+   unresolved two-fare source wording until directly resolved. Agency policy does
+   not establish every stop's pavement or a continuous route.
+
+The previous concrete batch is completed at the evidence level described above;
+remaining precise gaps are below. Bogart’s, Chapin and Boone Woods remain older
+rolling candidates. Continue everyday growth now the weekly target is exceeded.
 
 ## Holds and unresolved source conflicts
 
+- **Findlay:** service FAQ lists pickup windows 3–6 p.m.; the main shopping page
+  says 4–7 p.m. Confirm the selected order slot. Campaign labels doors and seating
+  in progress, public-restroom work completed; this does not establish current
+  door controls, toilet features or operation. Official Threshold360 tour remains
+  uninspected. The 2019 vertical Commons view ending 47574377201 was rate limited.
+- **Kenwood:** exact parking-to-door routes, thresholds and toilet features remain
+  unknown. Wheelchair collection office is now located in the notes. Its 2009
+  Commons context photo is already present and was not duplicated. Sephora and
+  Build-A-Bear sensory-program pages returned 403 on direct fetch; hold branch
+  participation and mall-wide quiet-hour claims for manual review.
+- **Florence Aquatic Center:** no pool-lift, assisted-transfer, water-wheelchair or
+  adult-changing evidence established. Published season is summer 2026, not a
+  November opening or a 2027 schedule. Linked brochure photos do not fill these gaps.
+- **BCRTA:** lift wording and fixed-route kneeling/ramp wording remain separately
+  attributed. Device limits are agency statements, not an independent legal finding.
+  Oxford station tour uninspected; no location-matched reusable access photograph
+  found. The 2023 app notice's 6 p.m. booking cutoff is held pending current evidence;
+  the reviewed current BCARE page still says day-before reservations and allows
+  same-day trips only as the schedule permits. Operating Amtrak service was not
+  established. Individual stop and station-route conditions remain unverified.
 - **Ault:** April–October restroom season alongside an undated repair notice
   offering a temporary restroom and Heekin Overlook. November availability unknown.
 - **Bettman:** archive appointments offered on the same page as a building closure

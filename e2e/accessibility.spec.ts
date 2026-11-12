@@ -42,6 +42,7 @@ const routes = [
   "/venues/big-bone-lick-state-historic-site",
   "/venues/burnet-woods-trailside-nature-center",
   "/venues/jungle-jims-fairfield",
+  "/venues/findlay-market",
   "/venues/great-wolf-lodge-mason",
   "/venues/fitton-center-for-creative-arts",
   "/venues/kenwood-towne-centre",

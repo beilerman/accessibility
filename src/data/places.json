@@ -5363,7 +5363,7 @@
     "category": "Parks & outdoors",
     "website": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
     "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-11",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -5372,7 +5372,7 @@
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -5386,6 +5386,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -5395,7 +5400,7 @@
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -5409,16 +5414,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Additional parking is at the north end of the Florence Government Center.",
+        "text": "The center is at the south end of the Florence Government Center complex, with additional parking at the north end. The city does not describe the parking-to-pool route or its gradients.",
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -5427,6 +5437,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Added the city’s south-end location and preserved the distinction between extra parking and an established step-free arrival route."
           }
         ]
       },
@@ -5436,7 +5451,7 @@
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.chronic.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -5445,6 +5460,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -5454,7 +5474,7 @@
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -5463,13 +5483,91 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The posted 2026 season runs May 23–August 9, then weekends through Labor Day, with listed hours of 11 a.m.–7 p.m. These are summer 2026 dates, not confirmation of November opening or a 2027 schedule.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Lockers are in the lobby. The city lists a $4 fee plus a $5 deposit returned when the key is handed back; locker heights and space for mobility equipment are not described.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The city may close the pool or individual features for staffing shortages, severe weather or contamination. It may also close or not open at air temperatures of 68°F or below.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.chronic.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Lazy River rules require entry and exit at the tube area, waiting for the lifeguard’s instruction and using the supplied tubes. The page does not explain assisted transfers or a lift at this attraction.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public city website reporting; no on-site audit. Seasonal venue: the posted 2026 operating season ends Labor Day. Verify the next opening date. No claim is made about lift access to other pools or slides.",
+    "limitations": "Public city website reporting; no on-site audit. The posted 2026 season runs through Labor Day; November opening and the next season’s dates are not established. No claim is made about lift access to other pools or slides, assisted transfers, water-wheelchair availability, parking-to-entrance continuity or adult changing equipment. A family-restroom label alone does not establish its access features.",
     "slug": "florence-family-aquatic-center",
-    "observed_at": null
+    "observed_at": null,
+    "address": "8200 Ewing Boulevard, Florence, KY"
   },
   {
     "name": "Francis RecreAcres",
@@ -14516,8 +14614,8 @@
     "address": "7875 Montgomery Road, Cincinnati, OH 45236",
     "website": "https://www.kenwoodtownecentre.com",
     "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
-    "limitations": "Public website information; no on-site audit. Accessible parking locations, whether the family restrooms suit wheelchair users, scooter loans and quiet hours are not described. Ask the Security office.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. The FAQ identifies manual-wheelchair collection at Security and says there are no electric scooters. Designated parking locations, complete parking-to-door routes, entrance thresholds, door controls, restroom access features and quiet hours remain unverified. Ask Security about current equipment availability and escort arrangements.",
+    "checked_at": "2026-11-11",
     "slug": "kenwood-towne-centre",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -14528,7 +14626,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14537,6 +14635,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14546,7 +14649,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14555,6 +14658,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14564,7 +14672,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14573,6 +14681,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14582,7 +14695,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14591,6 +14704,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14600,7 +14718,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14609,6 +14727,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14618,7 +14741,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14627,22 +14750,86 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "The mall lists the Security office (where free manual wheelchairs are picked up) at 513.793.7887 or 513.713.7400.",
+        "text": "The Security office, where manual wheelchairs are collected, is on the lower level beside the women’s and family restrooms, to the left of the food court. Call 513-793-7887 or 513-713-7400.",
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Added the published wheelchair-collection office location while retaining the Security contact numbers."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The mall says it has no electric scooters. Its equipment offer is for manual wheelchairs; ask Security about availability before travelling.",
+        "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+        "id": "kenwood-towne-centre.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The mall lists curbside pickup near entries 1, 2, 3 and 5 through Premium Parking, plus pickup at restaurants along the front. This does not describe a step-free route from those spaces.",
+        "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+        "id": "kenwood-towne-centre.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Security offers safety escorts on request. The FAQ does not describe the escort route or whether staff provide physical assistance.",
+        "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
+        "id": "kenwood-towne-centre.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -14906,8 +15093,8 @@
     "address": "6 S. 2nd Street, Hamilton, OH 45011",
     "website": "https://www.butlercountyrta.com",
     "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
-    "limitations": "Public website information; no on-site audit. The address is the agency's administrative office. Stop announcements and the accessibility of individual stations and stops are not described.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public operator information; no on-site audit. The address is the agency’s administrative office. The BCARE page calls all vehicles lift-equipped, while the FAQ describes fixed-route kneeling and ramp boarding; specific vehicle configurations remain unverified. Individual stop surfaces, kerb connections, routes between Chestnut Street Station’s waiting and boarding areas, restroom equipment and current vehicle equipment operation are not established. Published mobility-device limits are the agency’s statements; confirm arrangements and reasonable modifications directly.",
+    "checked_at": "2026-11-11",
     "slug": "butler-county-regional-transit-authority",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -14918,7 +15105,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14927,16 +15114,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "ADA paratransit serves people within 3/4 mile of fixed routes who are certified by BCRTA; approval lasts five years. One personal care attendant rides free.",
+        "text": "BCARE serves a zone within 3/4 mile of fixed routes for riders certified by BCRTA; approval lasts five years. One personal care attendant rides free. Notify the agency of accompanying attendants when scheduling if possible.",
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14945,6 +15137,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "revised",
+            "note": "Added the published request to notify the agency about accompanying personal care attendants when scheduling."
           }
         ]
       },
@@ -14954,7 +15151,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14963,6 +15160,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14972,13 +15174,198 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/travel-training/",
         "id": "butler-county-regional-transit-authority.cognitive.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-11",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The agency’s FAQ describes fixed-route buses lowering to the curb and extending ramps for wheelchairs and other mobility devices. Individual stop-to-curb connections are not described.",
+        "source_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+        "id": "butler-county-regional-transit-authority.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "BCARE publishes mobility-device limits of under 34 by 48 inches and combined weight below 800 pounds. Confirm device fit and any needed modification with the agency before arranging travel.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The FAQ says stops are announced both inside and outside the vehicle. This is the agency’s published description, not an equipment-operation check.",
+        "source_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+        "id": "butler-county-regional-transit-authority.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The agency’s boarding guide tells riders to ask the driver for help such as lowering the ramp or kneeling the bus. It asks riders to reach their stop five minutes before the scheduled arrival.",
+        "source_url": "https://www.butlercountyrta.com/how-to-ride/",
+        "id": "butler-county-regional-transit-authority.mobility.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCARE’s application process includes a form completed by the applicant and a clinical professional. Certification is required before reserving ADA rides.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Free destination travel training can teach an individual to make a specific journey and return, with instruction tailored to that person. Contact Customer Service at 513-785-5237 to ask for training.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/travel-training/",
+        "id": "butler-county-regional-transit-authority.cognitive.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "BCARE permits up to four normal-size shopping bags, secured in the cargo area. Drivers may help with bags but are not permitted to enter private residences.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For reasonable modifications, contact Customer Service at 513-785-5237, Ohio Relay at 800-750-0750, or request@butlercountyrta.com. The agency invites requests for changes or exceptions to its rules, policies and procedures.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.cognitive.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "At Chestnut Street Station, 97 W. Chestnut Street in Oxford, BCRTA lists indoor and outdoor waiting areas, covered bus transfer areas, real-time transit information and public restrooms it describes as accessible. Restroom equipment and routes between these areas are not specified.",
+        "source_url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
+        "id": "butler-county-regional-transit-authority.chronic.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "BCRTA says it does not own or control public parking at Chestnut Street Station and encourages arrival by bus. It identifies paid public and university-permit parking in Miami University’s adjacent Chestnut Fields lot; a step-free connection from the lot is not described.",
+        "source_url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
+        "id": "butler-county-regional-transit-authority.mobility.6",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -16655,6 +17042,238 @@
         "text": "The store is at 3450 Valley Plaza Parkway. Call 859-341-7900 to discuss a visit and confirm available support.",
         "source_url": "https://www.walmart.com/store/2967-ft-wright-ky",
         "id": "walmart-supercenter-fort-wright.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Findlay Market",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "1801 Race Street, Cincinnati, OH 45202",
+    "website": "https://www.findlaymarket.org/",
+    "source_url": "https://www.findlaymarket.org/parking",
+    "limitations": "Public market and official campaign information; no on-site audit. Door work and seating improvements remain listed as in progress. Entrance thresholds, door controls, parking-to-door routes, designated parking spaces and restroom access features remain unverified. Completed restroom work does not establish adult changing equipment or current availability. Individual merchants may have different layouts and entry arrangements. The shopping-service FAQ gives pickup windows of 3–6 p.m.; the market’s main shopping page says 4–7 p.m. Confirm the selected order slot. These two official descriptions are not reconciled.",
+    "checked_at": "2026-11-11",
+    "slug": "findlay-market",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The market’s parking page identifies northbound streetcar service at Station 10 on Elm Street and southbound service at Station 12 on Race Street. It does not describe the complete route from either platform to a market door.",
+        "source_url": "https://www.findlaymarket.org/parking",
+        "id": "findlay-market.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Findlay Market manages two surface parking lots, North and South. The North Lot has two pay stations north of the Farm Shed; the South Lot pay station is on the west side of Pleasant Street.",
+        "source_url": "https://www.findlaymarket.org/parking",
+        "id": "findlay-market.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Parking pay stations accept credit and debit cards and use the vehicle’s licence plate. Parking discounts validated by a merchant are applied through the Cincy EZPark app only.",
+        "source_url": "https://www.findlaymarket.org/parking",
+        "id": "findlay-market.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The market’s Findlay Forward campaign lists its market-house door project under work in progress. This is a project status, not confirmation that new door controls or a particular step-free entrance are available.",
+        "source_url": "https://www.findlayforward.org/progress",
+        "id": "findlay-market.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Findlay Forward lists public-restroom work among completed projects. The page does not identify cubicle dimensions, adult changing equipment or a current step-free route to the restrooms.",
+        "source_url": "https://www.findlayforward.org/progress",
+        "id": "findlay-market.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The campaign still lists indoor and outdoor seating work in progress. Confirm current seating and rest options with the market; a planned improvement does not establish a particular seating arrangement.",
+        "source_url": "https://www.findlayforward.org/progress",
+        "id": "findlay-market.chronic.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The market describes weekend farmers’ and outdoor markets, street performers and special events. It does not publish sound levels or designated quiet hours on this page.",
+        "source_url": "https://www.findlaymarket.org/",
+        "id": "findlay-market.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The shopping-service FAQ offers Tuesday–Friday pickup windows of 3–4, 4–5 and 5–6 p.m. It directs drivers to reserved spaces under the Farm Shed in the North lot, then to call 513-744-8010 so staff can bring the order to the vehicle.",
+        "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
+        "id": "findlay-market.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The market’s main shopping-app page instead lists Tuesday–Friday fulfillment from 4–7 p.m., with orders accepted until 5 p.m. the previous day. Confirm the time shown for your selected order before travelling.",
+        "source_url": "https://www.findlaymarket.org/shoppingapp",
+        "id": "findlay-market.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The service FAQ offers contactless delivery if requested when staff contact the customer on the order day. Customers paying with an EBT card must be present to pay and receive the order. Delivery is limited to the service’s listed postal codes.",
+        "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
+        "id": "findlay-market.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shopping FAQ warns that orders are packed in a shared space that may contain milk, eggs, wheat, soybean, fish, shellfish, tree nuts or peanuts, even when an order does not contain those items.",
+        "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
+        "id": "findlay-market.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The main shopping page says delivery and service fees are waived when an EBT card pays for at least part of an order containing SNAP-eligible products. Fees may appear in the cart before being waived at pickup or delivery.",
+        "source_url": "https://www.findlaymarket.org/shoppingapp",
+        "id": "findlay-market.cognitive.3",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-11",
         "published_at": null,
