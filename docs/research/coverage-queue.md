@@ -1,14 +1,14 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after Campbell County, Queensgate, OTR, Walmart and CVG follow-up.
+Updated November 12, 2026, after Northern Kentucky dining, Connector and museum visual-guide review.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Breadth
 
-The prepared catalog has 137 places. Its categories contain 32 arts venues,
+The prepared catalog has 140 places. Its categories contain 32 arts venues,
 31 parks/recreation complexes, 21 museums/attractions, 15 libraries, five transport
-entries, twelve food/drink venues, ten shopping destinations, four public-service
+entries, fifteen food/drink venues, ten shopping destinations, four public-service
 listings and seven recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
@@ -36,7 +36,48 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest completed batch — November 12 Campbell County, Queensgate and OTR
+## Latest prepared batch — November 12 Northern Kentucky dining and visual guides
+
+See [report, evidence and next actions](nky-dining-connector-visual-guides-2026-11-12.md)
+and its evidence, media, holds and validation receipts. The prior combined
+23-venue batch was pushed by the runner before this pass and is not pending here.
+
+- **New coverage:** New Riff & The Aquifer (ten notes), Braxton Covington (four),
+  Riverside Mainstrasse food tour (nine). Three new NKY food listings, 23 notes.
+  Elevator scope is narrow: Braxton's statement covers its private-event Loft,
+  not a proven rooftop route. Tour restaurant steps/alternatives stay explicit.
+- **Depth:** six Arboretum, five Connector, two Taft and three CAC notes. **39
+  new notes overall**, two old revisions. Arboretum opening, trail length and
+  city/ZIP conflicts retained; CAC dated-guide free admission contrasted with its
+  current $12/free-category page. Taft diaper stations do not establish adult changing.
+- **Freshness:** Arboretum, Connector and Taft fully reviewed (22 old notes);
+  CAC one old note partially reviewed, whole-venue date retained. Across 23 old
+  notes: 21 confirmed/two revised. Two same-day Arboretum reconfirmations have no
+  duplicated history. Weekly target already met; no new unique-week tally claimed.
+- **Imagery:** two licensed full frames (2019 Mainstrasse tower paving/benches,
+  CC0; 2017 Fountain Square platform/shelter, CC BY 2.0). Twenty-six candidates
+  visually inspected. Two newly linked official documents: CAC 2023–24 photo
+  narrative (20 pages), Taft 2025 guide (four pages, photos plus labeled diagrams).
+  Guide dates and unknown individual capture dates explicit; no reuse of unlicensed images.
+- **Checks:** 72 supporting checks/20 official sources; 86 unit and 61 Python
+  tests, types, lint, build, 75 final-build HTTP/content checks and fresh media
+  checks pass. 123 browser tests listed; local browser fails before navigation.
+  Runner host browser validation required before pushes. No deployment performed.
+- **Totals:** 140 venues, 1,217 active notes, 792 quotes, 38 photos, 19 guide
+  entries/15 documents. Existing records/history/media and unrelated monitor findings preserved.
+
+**Next concrete batch:** grocery arrival/collection and loan equipment in NKY;
+New Riff east-site doors/toilets, Braxton Loft elevator location/rooftop route,
+Riverside restaurant thresholds/alternatives; continue Tousey door photos,
+Government Center construction route, Pendery crossing and AJ Jolly winter toilets.
+Kroger Newport canonical store 014/00423 timed out on direct fetch; Meijer Florence
+151 returned 403. Trader Joe's address alone is insufficient access evidence.
+Five Braxton igloo drafts held after confirmation 429. CAC service-animal wording
+conflicts remain unresolved; Taft undated December 9 closure held. Seek current
+Connector doors/intercom/platform photos and Taft actual quiet-room/lift photos.
+R.C. Durr YMCA is a fresh direct-review lead, not an accepted access claim.
+
+## Earlier completed batch — November 12 Campbell County, Queensgate and OTR
 
 See [report and next actions](campbell-queensgate-washington-2026-11-12.md), plus
 its validation/media/holds receipts and the Nolia/Walmart/CVG evidence files.

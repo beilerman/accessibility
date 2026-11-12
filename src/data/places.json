@@ -5276,11 +5276,11 @@
       },
       {
         "domain": "cognitive",
-        "text": "Enter the glass doors, turn right through a second set of glass doors, and check in at the front desk. Tours for groups of people with disabilities are free.",
+        "text": "Enter the glass doors, turn right through a second set of glass doors and check in at the front desk. Group tours require two weeks’ notice; tours for groups of people with disabilities are free.",
         "source_url": "https://www.contemporaryartscenter.org/visit/accessibility",
         "id": "contemporary-arts-center.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -5289,6 +5289,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Partial review restored the two-week notice condition that the accessibility page applies to group tours; entry directions are unchanged."
           }
         ]
       },
@@ -5309,9 +5314,63 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The current admission page lists $12 general admission, with free admission for members, visitors 18 and under, and SNAP/EBT recipients. Check current eligibility and ticket arrangements.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/hours-admission",
+        "id": "contemporary-arts-center.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Bags containing medical equipment and diaper bags are permitted in the galleries; CAC asks visitors to be mindful of their surroundings.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/hours-admission",
+        "id": "contemporary-arts-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Gallery floors may close during exhibition changes. Call 513-345-8400 or check the exhibition page for what is currently on view.",
+        "source_url": "https://www.contemporaryartscenter.org/visit/hours-admission",
+        "id": "contemporary-arts-center.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Confirm scheduled accommodations with the center. Gallery access may change during exhibition installation.",
+    "limitations": "Public website information; no on-site audit. Exact parking-to-door connections, thresholds, elevator dimensions and current operation, toilet layouts and adult-changing facilities remain unverified. The linked photo narrative is a 2023–24 group-tour version, with unknown individual photo dates and dated exhibitions. Its blanket free-admission statement differs from the current admission page; use current admission notes.",
     "slug": "contemporary-arts-center",
     "evidence_type": "public_website",
     "observed_at": null
@@ -10089,7 +10148,7 @@
     "address": "316 Pike Street, Cincinnati, OH 45202",
     "website": "https://www.taftmuseum.org/",
     "source_url": "https://www.taftmuseum.org/visitor-information/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -10097,7 +10156,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10111,6 +10170,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10120,7 +10184,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10134,6 +10198,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10143,7 +10212,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10157,6 +10226,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10166,7 +10240,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10175,6 +10249,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10184,7 +10263,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10193,6 +10272,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10202,7 +10286,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10211,6 +10295,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10220,7 +10309,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10229,6 +10318,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10238,7 +10332,7 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10247,6 +10341,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10256,13 +10355,59 @@
         "source_url": "https://www.taftmuseum.org/visitor-information/",
         "id": "taft-museum-of-art.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The coatroom and lockers are on the first floor. Coats must be worn or left in the coatroom; backpacks must be carried by hand or worn on the front.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Full review added the published first-floor coatroom and locker location; retained coat and backpack conditions."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum is cashless and accepts credit cards, debit cards and other digital payment options.",
+        "source_url": "https://www.taftmuseum.org/visitor-information/",
+        "id": "taft-museum-of-art.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -10270,24 +10415,24 @@
       },
       {
         "domain": "chronic",
-        "text": "Coats cannot be carried through the galleries (wear it or use the coatroom), and backpacks must be carried by hand or worn on the front.",
+        "text": "Diaper-changing stations are in bathrooms on both the first and second floors. The page does not describe adult-changing equipment or table limits.",
         "source_url": "https://www.taftmuseum.org/visitor-information/",
-        "id": "taft-museum-of-art.chronic.3",
+        "id": "taft-museum-of-art.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Confirm individual accommodation needs with accessibility@taftmuseum.org.",
+    "limitations": "Public website information; no on-site audit. Exact parking-to-door connections, lift locations and dimensions, door controls, adult-changing provision and current equipment operation remain unverified. The linked visitor brochure’s filename says 2025 and metadata December 2024; its floor plans are diagrams, not route photographs. Diaper-changing stations do not establish adult-changing facilities. Confirm assistance and sensory arrangements with admissions.",
     "slug": "taft-museum-of-art",
     "evidence_type": "public_website",
     "observed_at": null
@@ -10692,7 +10837,7 @@
     "category": "Transportation",
     "website": "https://www.cincinnati-oh.gov/streetcar/",
     "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -10700,7 +10845,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
         "id": "the-connector-cincinnati-streetcar.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10709,6 +10854,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10718,7 +10868,7 @@
         "source_url": "https://cincinnati-oh.gov/streetcar/about-the-streetcar/faqs",
         "id": "the-connector-cincinnati-streetcar.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10727,6 +10877,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10736,7 +10891,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
         "id": "the-connector-cincinnati-streetcar.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10745,6 +10900,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10754,7 +10914,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
         "id": "the-connector-cincinnati-streetcar.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10763,6 +10923,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10772,7 +10937,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
         "id": "the-connector-cincinnati-streetcar.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10781,6 +10946,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10790,7 +10960,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
         "id": "the-connector-cincinnati-streetcar.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10799,6 +10969,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10808,7 +10983,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
         "id": "the-connector-cincinnati-streetcar.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10817,6 +10992,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10826,7 +11006,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
         "id": "the-connector-cincinnati-streetcar.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10835,6 +11015,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10844,7 +11029,7 @@
         "source_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
         "id": "the-connector-cincinnati-streetcar.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10853,11 +11038,106 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Press the red stop button as your stop approaches to tell the operator you want to exit. The city’s riding instructions identify this as the exit-request procedure.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/",
+        "id": "the-connector-cincinnati-streetcar.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The city says route maps are posted inside every streetcar and links an online route map for choosing a destination. This does not establish the approach to an individual platform.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/",
+        "id": "the-connector-cincinnati-streetcar.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Rules of the Rail direct riders to the onboard intercom to contact the operator in an emergency. Other communication formats or intercom reach are not specified.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/rules-of-the-rail/",
+        "id": "the-connector-cincinnati-streetcar.sensory.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Small personal grocery carts are permitted onboard; grocery-store carts are excluded. Riders may bring luggage they can control, and strollers do not have to be folded.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/rules-of-the-rail/",
+        "id": "the-connector-cincinnati-streetcar.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The posted rules prohibit open containers of food or drinks. The page does not describe a medical exception; ask the operator about particular needs before travel.",
+        "source_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/rules-of-the-rail/",
+        "id": "the-connector-cincinnati-streetcar.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The pages describe vehicles and boarding in general terms; individual station approaches, curb conditions and service disruptions are not covered.",
+    "limitations": "Public website information; no on-site audit. The pages describe vehicles, boarding and riding rules in general terms; individual station approaches, gradients, boarding gaps, door controls, intercom reach and service disruptions are not verified. The 2017 platform photograph is historical and does not establish current conditions or a continuous arrival route. The city’s Access fare statement is not an eligibility approval or confirmation of a particular trip; check Metro’s current application and booking requirements.",
     "slug": "the-connector-cincinnati-streetcar",
     "evidence_type": "public_website",
     "observed_at": null
@@ -18237,8 +18517,8 @@
     "address": "9190 Camp Ernst Road, Burlington, KY 41005",
     "website": "https://www.bcarboretum.org/",
     "source_url": "https://www.boonecountyky.org/business_detail_T35_R60.php",
-    "limitations": "Public website information; no on-site audit. Trail slopes, accessible parking and whether the restroom buildings are accessible are not described.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public website information; no on-site audit. The county publishes 2.35 miles of paved trails and the arboretum’s About page 2.2 miles; the distances have not been reconciled. The About page opens at 7:30 a.m., while the visit-planning page says dawn. The county uses Burlington, KY 41005 and the arboretum Union, KY 41091 for 9190 Camp Ernst Road. Confirm early entry and your navigation destination. Trail gradients, widths, parking connections, kiosk reach, restroom access features and seasonal toilet availability remain unverified. The 2024 visitor brochure is a diagram and plant information, not an access-photo walkthrough.",
+    "checked_at": "2026-11-12",
     "slug": "central-park-boone-county-arboretum",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -18272,7 +18552,7 @@
         "source_url": "https://www.bcarboretum.org/about-us",
         "id": "central-park-boone-county-arboretum.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18281,6 +18561,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18290,6 +18575,114 @@
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R60.php",
         "id": "central-park-boone-county-arboretum.chronic.1",
         "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The arboretum’s About page describes a 2.2-mile paved multi-use trail connecting its collections. This is its published distance, not a measured route or gradient assessment.",
+        "source_url": "https://www.bcarboretum.org/about-us",
+        "id": "central-park-boone-county-arboretum.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The arboretum’s About page lists daily hours of 7:30 a.m. to dusk and no admission or parking charge.",
+        "source_url": "https://www.bcarboretum.org/about-us",
+        "id": "central-park-boone-county-arboretum.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The visit-planning page describes year-round dawn-to-dusk opening, with free parking and admission and no residency requirement.",
+        "source_url": "https://bcarboretum.org/plan-your-visit",
+        "id": "central-park-boone-county-arboretum.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Four information kiosks provide brochures, maps and event information. Printed visitor guides and plant maps are available in the kiosks; the visit-planning page also links PDF and interactive maps. Kiosk reach and print formats are not specified.",
+        "source_url": "https://bcarboretum.org/plan-your-visit",
+        "id": "central-park-boone-county-arboretum.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The visit-planning page says over two miles of paved walking and bicycling trails interconnect the gardens, wildlife-viewing area, restrooms and sports facilities. It gives no slopes, widths, restroom features or seasonal opening details.",
+        "source_url": "https://bcarboretum.org/plan-your-visit",
+        "id": "central-park-boone-county-arboretum.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The arboretum publishes its contact address as 9190 Camp Ernst Road, Union, KY 41091. Confirm the destination with the arboretum if your navigation service uses a different postal label.",
+        "source_url": "https://bcarboretum.org/plan-your-visit",
+        "id": "central-park-boone-county-arboretum.cognitive.4",
+        "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
@@ -25519,6 +25912,468 @@
         "text": "If online booking does not work, email hello@noliakitchen.com; the restaurant says it responds within 48 hours. An email is not a confirmed booking.",
         "source_url": "https://noliakitchen.com/faqs",
         "id": "nolia-kitchen.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "New Riff Distilling & The Aquifer",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "24 Distillery Way, Newport, KY 41073",
+    "website": "https://newriffdistilling.com/",
+    "source_url": "https://newriffdistilling.com/contact/",
+    "limitations": "Public website information; no on-site audit. This listing covers the distillery and Aquifer at 24 Distillery Way. The separate West Newport Campus requires a booking; photographs of that campus do not depict this location. The Aquifer page publishes the front-door and elevator statements for the distillery and tasting room. Front-door and elevator statements do not establish a continuous step-free route, dimensions or current operation. Designated parking, thresholds, door controls, toilets, changing facilities, quiet spaces, hearing supports, tour seating and assistance procedures remain unverified. The published ZIP is retained as supplied by New Riff.",
+    "checked_at": "2026-11-12",
+    "slug": "new-riff-distilling",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "New Riff says there are no stairs leading to the distillery’s front door. Door controls, thresholds and the complete route from parking are not described.",
+        "source_url": "https://newriffdistilling.com/the-aquifer/",
+        "id": "new-riff-distilling.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The distillery describes a large elevator for wheelchair users and companions. It publishes no car or door dimensions here; contact the venue about particular arrangements.",
+        "source_url": "https://newriffdistilling.com/the-aquifer/",
+        "id": "new-riff-distilling.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A free parking lot is directly in front of the distillery. The FAQ does not identify designated spaces, a drop-off point or a measured parking-to-door route.",
+        "source_url": "https://newriffdistilling.com/experiences/",
+        "id": "new-riff-distilling.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The gift shop and Aquifer tasting room accept walk-ins during business hours; you do not need to take a tour to visit them.",
+        "source_url": "https://newriffdistilling.com/the-aquifer/",
+        "id": "new-riff-distilling.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Tours, tastings and classes are restricted to guests aged 21 or over. The experiences FAQ separately welcomes children in the gift shop and visitor center.",
+        "source_url": "https://newriffdistilling.com/experiences/",
+        "id": "new-riff-distilling.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Bonded Tour at 24 Distillery Way is listed as 45–60 minutes. It follows the distilling process; the page does not specify seated rest stops or an option to shorten the route.",
+        "source_url": "https://newriffdistilling.com/experiences/bonded-tour/",
+        "id": "new-riff-distilling.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Aquifer and New Riff Distilling are card-only and accept major credit and debit cards.",
+        "source_url": "https://newriffdistilling.com/the-aquifer/",
+        "id": "new-riff-distilling.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Aquifer lists Monday closure and closures on Easter Sunday, Thanksgiving Day, Christmas Eve, Christmas Day and New Year’s Day. Check its current hours before travelling.",
+        "source_url": "https://newriffdistilling.com/the-aquifer/",
+        "id": "new-riff-distilling.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Check your booking’s destination: West Newport Campus is at 1104 Lowell Street and is available only by tour, experience or appointment. It is separate from this public distillery and Aquifer listing.",
+        "source_url": "https://newriffdistilling.com/contact/",
+        "id": "new-riff-distilling.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The published cancellation policy allows a full refund up to 72 hours before the booked event. Within 72 hours, the page says no refunds or changes.",
+        "source_url": "https://newriffdistilling.com/experiences/",
+        "id": "new-riff-distilling.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Braxton Brewing Company — Covington",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "27 West 7th Street, Covington, KY 41011",
+    "website": "https://braxtonbrewing.com/",
+    "source_url": "https://braxtonbrewing.com/pages/braxton-covington",
+    "limitations": "Public website information; no on-site audit. Elevator evidence is specific to the second-floor Loft, not a confirmed rooftop route. Entrance thresholds, door controls, elevator dimensions, continuous parking connections, toilets, changing facilities, hearing supports and quiet arrangements remain unverified. Rooftop and seasonal igloo access has not been verified. Confirm the area and arrangements before travelling.",
+    "checked_at": "2026-11-12",
+    "slug": "braxton-brewing-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Braxton says an elevator serves its second-floor Loft private-event space. The FAQ does not identify the elevator entrance or establish a route to the rooftop.",
+        "source_url": "https://braxtonbrewing.com/pages/events",
+        "id": "braxton-brewing-covington.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Loft FAQ lists four paid parking lots within a block. It does not identify designated spaces or a continuous step-free route from a particular lot.",
+        "source_url": "https://braxtonbrewing.com/pages/events",
+        "id": "braxton-brewing-covington.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The main taproom is on the first floor; the Loft is a second-floor private-event space, with a rooftop bar also advertised. These are separate areas to specify when arranging a visit.",
+        "source_url": "https://braxtonbrewing.com/pages/braxton-covington",
+        "id": "braxton-brewing-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To reserve a first-floor table, email social@braxtonbrewing.com. The Covington page links a separate rooftop reservation service.",
+        "source_url": "https://braxtonbrewing.com/pages/braxton-covington",
+        "id": "braxton-brewing-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Riverside Food Tours — Mainstrasse Village",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "701 Main Street, Covington, KY 41011 (published meeting point)",
+    "website": "https://riversidefoodtours.com/",
+    "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+    "limitations": "Public operator information; no on-site audit. This listing is for the Mainstrasse Village tour, not every Riverside tour or a permanent visitor office. Confirm the meeting point and selected restaurant doors before booking. The operator warns of steps at some entrances; no continuous step-free itinerary, measured route, wheelchair space at tables, transfer assistance, toilet features, hearing supports or quiet arrangements are established. Historical neighborhood photographs are context only, not a current itinerary or construction update. A restroom or park bench mention does not establish its availability or suitability for a particular visitor.",
+    "checked_at": "2026-11-12",
+    "slug": "riverside-mainstrasse-village-food-tour",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Some restaurant entrances may have a step up. Riverside does not identify those doors or publish a step-free alternative for each stop; discuss the exact itinerary before booking.",
+        "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+        "id": "riverside-mainstrasse-village-food-tour.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The operator describes less than one mile of walking over three hours, with park benches along the neighborhood route. It does not give rest intervals, gradients or assistance procedures.",
+        "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+        "id": "riverside-mainstrasse-village-food-tour.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The tour page lists a paid parking lot behind Cedar at 417 W. 7th Street. Designated spaces and the connection to the 701 Main Street meeting point are not described.",
+        "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+        "id": "riverside-mainstrasse-village-food-tour.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The operator says all tour restaurants have public restrooms. Toilet layouts, step-free approaches and changing facilities are not specified.",
+        "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+        "id": "riverside-mainstrasse-village-food-tour.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Vegetarian dishes can be requested when booking, but Riverside does not guarantee dietary accommodations at every stop. Call or text 513-289-0035 in advance to discuss options.",
+        "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+        "id": "riverside-mainstrasse-village-food-tour.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The tour runs in hot, cold or rainy weather, with about 70% indoors according to the operator. Severe-weather cancellation or rescheduling is communicated by text or email.",
+        "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+        "id": "riverside-mainstrasse-village-food-tour.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Booking confirmation is emailed with directions and the meeting point. A printed ticket is unnecessary if you received the confirmation.",
+        "source_url": "https://riversidefoodtours.com/frequently-asked-questions",
+        "id": "riverside-mainstrasse-village-food-tour.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Riverside does not accept walk-up or cash ticket sales. Arrange the booking before arriving.",
+        "source_url": "https://riversidefoodtours.com/frequently-asked-questions",
+        "id": "riverside-mainstrasse-village-food-tour.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The tour advertises a stop at the 40-foot German clock tower. This identifies a neighborhood landmark, not a current clock or chime operating schedule.",
+        "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+        "id": "riverside-mainstrasse-village-food-tour.cognitive.3",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,

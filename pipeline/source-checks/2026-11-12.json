@@ -86,7 +86,7 @@
       "final_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
       "last_modified": null,
       "sha256": "86155e01711e5a32d221aa4dee0cb4934ed8eae7166193ed9378ec9904f729c5",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4619
     },
     "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/": {
@@ -638,7 +638,7 @@
       "final_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/accessibility/",
       "last_modified": null,
       "sha256": "7ba1058762932ddf19ae5becbaabfc7a1ec6154b5556ae335aa8fc02dbd10a10",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2224
     },
     "https://www.cincinnatiartmuseum.org/access": {
@@ -1126,7 +1126,7 @@
       "final_url": "https://www.taftmuseum.org/visitor-information/",
       "last_modified": null,
       "sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 8540
     },
     "https://www.tankbus.org/ada/": {
@@ -1318,7 +1318,7 @@
       "final_url": "https://bcarboretum.org/about-us",
       "last_modified": "Sun, 08 Nov 2026 15:43:53 GMT",
       "sha256": "7828740374579f6d3e3c123c2a313292fea3e422e7485b77dca02a4408c9c808",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 6067
     },
     "https://www.bcpl.org/locations/": {
@@ -1406,7 +1406,7 @@
       "final_url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
       "last_modified": null,
       "sha256": "86155e01711e5a32d221aa4dee0cb4934ed8eae7166193ed9378ec9904f729c5",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4619
     },
     "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/": {
@@ -1414,7 +1414,7 @@
       "final_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/people-with-disabilities/",
       "last_modified": null,
       "sha256": "a990a0119012ca7163d6d5cbdc7e5afb49e8a0aea010ca2baa3a0a353c95a019",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1876
     },
     "https://www.cincinnatiartmuseum.org/visit/accessibility-resources/": {
@@ -2989,6 +2989,102 @@
       "sha256": "c5ddfa33f96158df175c49915e03bab86bda160e8c44b8d3890f728908e9d586",
       "fingerprint_version": 6,
       "chars": 3889
+    },
+    "https://bcarboretum.org/plan-your-visit": {
+      "status": 200,
+      "final_url": "https://bcarboretum.org/plan-your-visit",
+      "last_modified": "Sun, 08 Nov 2026 20:16:38 GMT",
+      "sha256": "081c94e62b42ad663db15a574f1fac076adee70d457a17a5220f98ea9223b368",
+      "fingerprint_version": 6,
+      "chars": 3021
+    },
+    "https://braxtonbrewing.com/pages/braxton-covington": {
+      "status": 200,
+      "final_url": "https://braxtonbrewing.com/pages/braxton-covington",
+      "last_modified": null,
+      "sha256": "015528199e38abba43debcffcb56c00960447525caee1fd076f6f84e69dd1f42",
+      "fingerprint_version": 6,
+      "chars": 1800
+    },
+    "https://braxtonbrewing.com/pages/events": {
+      "status": 200,
+      "final_url": "https://braxtonbrewing.com/pages/events",
+      "last_modified": null,
+      "sha256": "b5d6cdc34d29ed6bdf905913584b2e5d5af927a7bca4a252813262de230e9345",
+      "fingerprint_version": 6,
+      "chars": 3424
+    },
+    "https://newriffdistilling.com/contact/": {
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/contact/",
+      "last_modified": null,
+      "sha256": "a285dbeca47629b9a39de5c883ea6800d52831223ef98e1cc1bd33ce503a20e9",
+      "fingerprint_version": 6,
+      "chars": 4418
+    },
+    "https://newriffdistilling.com/experiences/": {
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/experiences/",
+      "last_modified": null,
+      "sha256": "987c500e0692f13423cfbee3c69dcd847963d1262270a4bb34b03223ae9365d3",
+      "fingerprint_version": 6,
+      "chars": 6303
+    },
+    "https://newriffdistilling.com/experiences/bonded-tour/": {
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/experiences/bonded-tour/",
+      "last_modified": null,
+      "sha256": "fdd1de7303af565e38ba9731fd4d038428c8679a281ecb38b75b8f17804d69a9",
+      "fingerprint_version": 6,
+      "chars": 5394
+    },
+    "https://newriffdistilling.com/the-aquifer/": {
+      "status": 200,
+      "final_url": "https://newriffdistilling.com/the-aquifer/",
+      "last_modified": null,
+      "sha256": "da9454f35b8290bff6d75689c5dbb93cbadd6acf1af06d8c06712318331174d2",
+      "fingerprint_version": 6,
+      "chars": 10284
+    },
+    "https://riversidefoodtours.com/frequently-asked-questions": {
+      "status": 200,
+      "final_url": "https://riversidefoodtours.com/frequently-asked-questions",
+      "last_modified": null,
+      "sha256": "132f3c128d620f414610440fc507f88cbea229343c9312bd6c1296316d26e14a",
+      "fingerprint_version": 6,
+      "chars": 5941
+    },
+    "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky": {
+      "status": 200,
+      "final_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
+      "last_modified": null,
+      "sha256": "329387edf76adc12225a006379e793bf0002de0ab108ae2b01261f34e409f726",
+      "fingerprint_version": 6,
+      "chars": 10850
+    },
+    "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/rules-of-the-rail/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/be-streetcar-safe/rules-of-the-rail/",
+      "last_modified": null,
+      "sha256": "4f6297cb46dfb184b5ae91763347cc7a2c7393207917de1f241d4600519caa2b",
+      "fingerprint_version": 6,
+      "chars": 4187
+    },
+    "https://www.cincinnati-oh.gov/streetcar/how-to-ride/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/streetcar/how-to-ride/",
+      "last_modified": null,
+      "sha256": "ca63430c8d51ec6c532df9f6562071d7e75a4a07591a31e64b9d2a279efc0e8e",
+      "fingerprint_version": 6,
+      "chars": 2604
+    },
+    "https://www.contemporaryartscenter.org/visit/hours-admission": {
+      "status": 200,
+      "final_url": "https://www.contemporaryartscenter.org/visit/hours-admission",
+      "last_modified": null,
+      "sha256": "f2d027b6fb087312e710f51f42ed34db077bd9c1bed75fbd097e7b38acba0f2b",
+      "fingerprint_version": 6,
+      "chars": 8338
     }
   },
   "findings": {

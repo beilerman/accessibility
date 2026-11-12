@@ -1,0 +1,421 @@
+{
+  "checkedAt": "2026-11-12",
+  "freshChecks": [
+    {
+      "kind": "photo",
+      "id": "mainstrasse-clock-tower-paving-2019",
+      "status": 200,
+      "license": "CC0",
+      "photoDate": "2019-11-24 14:41",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59081381@N03\">Warren LeMay</a> from Chicago, IL, United States",
+      "originalWidth": 2724,
+      "originalHeight": 3632,
+      "fullFrameAspectVerified": true
+    },
+    {
+      "kind": "photo",
+      "id": "connector-fountain-square-platform-2017",
+      "status": 200,
+      "license": "CC BY 2.0",
+      "photoDate": "2017-04-22 06:58",
+      "author": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32693718@N07\">David Wilson</a> from Oak Park, Illinois, USA",
+      "originalWidth": 2816,
+      "originalHeight": 2112,
+      "fullFrameAspectVerified": true
+    },
+    {
+      "kind": "guide",
+      "id": "cac-group-photo-narrative-2023-24",
+      "url": "https://www.contemporaryartscenter.org/files/assets/socialnarrativetours2023-24.pdf",
+      "status": 200,
+      "bytes": 2385460,
+      "sha256": "4be6ea55a8133746e2cdd415f50f12bd797db372a657a454da580266adfee202",
+      "pageCount": 20
+    },
+    {
+      "kind": "guide",
+      "id": "taft-visitor-guide-2025",
+      "url": "https://www.taftmuseum.org/media/jq0dttrr/2025-visitor-guide-final-reader-view.pdf",
+      "status": 200,
+      "bytes": 5258159,
+      "sha256": "6a78891cf9be79cf423f6fbcdf84943a7825fd8f53ff51425a979ba7357973df",
+      "pageCount": 4
+    }
+  ],
+  "visualInspection": {
+    "candidateFramesInspected": 26,
+    "selectedOriginalsAndConvertedOutputsInspected": true,
+    "transformations": "Full-frame resizing and WebP conversion only",
+    "cacPagesRendered": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "cacPagesIndividuallyInspected": [
+      3,
+      5,
+      11,
+      12,
+      13,
+      18,
+      19,
+      20
+    ],
+    "cacAllPagesContactSheetInspected": true,
+    "taftPagesIndividuallyInspected": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "otherGuidesHeld": [
+      "Arboretum 2024 brochure: planting photos and map, no useful access-photo walkthrough",
+      "Streetcar safety guide: PDF metadata 2015, proposed 2016 fares and unlabeled example imagery"
+    ]
+  },
+  "photo-receipt": {
+    "id": "mainstrasse-clock-tower-paving-2019",
+    "metadata": {
+      "pageid": 188041791,
+      "ns": 6,
+      "title": "File:Julian Carroll Bell Tower.jpg",
+      "index": 1,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 3419204,
+          "width": 2724,
+          "height": 3632,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Julian_Carroll_Bell_Tower.jpg/1280px-Julian_Carroll_Bell_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 1707,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Julian_Carroll_Bell_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Julian_Carroll_Bell_Tower.jpg/1280px-Julian_Carroll_Bell_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 1707,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Julian_Carroll_Bell_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Julian_Carroll_Bell_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Julian_Carroll_Bell_Tower.jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=188041791",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2026-04-05 13:38:19",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Julian Carroll Bell Tower",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "CC-Zero|Bell towers in Kentucky|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Structures in Covington, Kentucky|Flickr images missing SDC published in",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "39.084002",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "-84.520875",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "bell tower goebbel park",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2019-11-24 14:41",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/warrenlemay/49935093888/\">Julian Carroll Chimes Bell Tower, Goebel Park, Mainstrasse Village, Covington, KY</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/59081381@N03\">Warren LeMay</a> from Chicago, IL, United States",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Zero, Public Domain Dedication",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "false",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "sha256": "f334ff7b22d04722419291e41483cee214fcfbe8c70654a0a70b2e9293e51494",
+    "inspection": "Original downloaded frame visually inspected, no identifiable incidental people observed. Paving, arch and benches visible; not a complete route. Output reinspection follows conversion.",
+    "alterations": "Full-frame resize and WebP conversion only."
+  },
+  "streetcar-photo-receipt": {
+    "id": "connector-fountain-square-platform-2017",
+    "metadata": {
+      "pageid": 68838381,
+      "ns": 6,
+      "title": "File:Cincinnati streetcar pulling into the Fountain Square stop (2017).jpg",
+      "index": 26,
+      "imagerepository": "local",
+      "imageinfo": [
+        {
+          "size": 562863,
+          "width": 2816,
+          "height": 2112,
+          "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_%282017%29.jpg/1280px-Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "thumbwidth": 1280,
+          "thumbheight": 960,
+          "responsiveUrls": {
+            "2": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+          },
+          "thumbattribs": {
+            "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_%282017%29.jpg/1280px-Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "decoding": "async",
+            "loading": "lazy",
+            "width": 1280,
+            "height": 960,
+            "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+          },
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_(2017).jpg",
+          "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=68838381",
+          "extmetadata": {
+            "DateTime": {
+              "value": "2018-05-06 11:23:08",
+              "source": "mediawiki-metadata",
+              "hidden": ""
+            },
+            "ObjectName": {
+              "value": "Cincinnati streetcar pulling into the Fountain Square stop (2017)",
+              "source": "mediawiki-metadata"
+            },
+            "CommonsMetadataExtension": {
+              "value": 1.2,
+              "source": "extension",
+              "hidden": ""
+            },
+            "Categories": {
+              "value": "Photographs by David Wilson|Files with coordinates missing SDC location of creation|2017 in Cincinnati|Flickr images reviewed by FlickreviewR 2|Connector (Cincinnati) stops|Urbos 3 in Cincinnati",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "Assessments": {
+              "value": "",
+              "source": "commons-categories",
+              "hidden": ""
+            },
+            "GPSLatitude": {
+              "value": "39.101166",
+              "source": "commons-desc-page"
+            },
+            "GPSLongitude": {
+              "value": "-84.511363",
+              "source": "commons-desc-page"
+            },
+            "GPSMapDatum": {
+              "value": "WGS-84",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "ImageDescription": {
+              "value": "Cincinnati Bell Connector: Streetcar pulling into the Fountain Square stop, on Walnut Street at 5th Street",
+              "source": "commons-desc-page"
+            },
+            "DateTimeOriginal": {
+              "value": "2017-04-22 06:58",
+              "source": "commons-desc-page"
+            },
+            "Credit": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/davidwilson1949/35471804903/\">20170422 06 Cincinnati Bell Connector @ Fountain Square</a>",
+              "source": "commons-desc-page"
+            },
+            "Artist": {
+              "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32693718@N07\">David Wilson</a> from Oak Park, Illinois, USA",
+              "source": "commons-desc-page"
+            },
+            "LicenseShortName": {
+              "value": "CC BY 2.0",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "UsageTerms": {
+              "value": "Creative Commons Attribution 2.0",
+              "source": "commons-desc-page"
+            },
+            "AttributionRequired": {
+              "value": "true",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "LicenseUrl": {
+              "value": "https://creativecommons.org/licenses/by/2.0",
+              "source": "commons-desc-page"
+            },
+            "Copyrighted": {
+              "value": "True",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "Restrictions": {
+              "value": "",
+              "source": "commons-desc-page",
+              "hidden": ""
+            },
+            "License": {
+              "value": "cc-by-2.0",
+              "source": "commons-templates",
+              "hidden": ""
+            }
+          }
+        }
+      ]
+    },
+    "sha256": "39bf8f284c9fb95e6e2296131b99fe17a82f6a3710457b16f67165abdd5074d7",
+    "inspection": "Full original frame inspected; shelter, platform paving and edge strip visible. Background passengers retained; no close portrait selected. Interior alternatives held for prominent identifiable people. Output reinspection follows conversion.",
+    "alterations": "Full-frame resize and WebP conversion only."
+  },
+  "cac-social-receipt": {
+    "url": "https://www.contemporaryartscenter.org/files/assets/socialnarrativetours2023-24.pdf",
+    "final_url": "https://www.contemporaryartscenter.org/files/assets/socialnarrativetours2023-24.pdf",
+    "status": 200,
+    "bytes": 2385460,
+    "pageCount": 20,
+    "metadata": {
+      "format": "PDF 1.7",
+      "title": "PowerPoint Presentation",
+      "author": "Jennifer Loechle",
+      "subject": "",
+      "keywords": "",
+      "creator": "Microsoft® PowerPoint® for Microsoft 365",
+      "producer": "Microsoft® PowerPoint® for Microsoft 365",
+      "creationDate": "D:20230825101143-04'00'",
+      "modDate": "D:20230825101143-04'00'",
+      "trapped": "",
+      "encryption": null
+    },
+    "renderedPages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "individuallyInspectedPages": [
+      3,
+      5,
+      11,
+      12,
+      13,
+      18,
+      19,
+      20
+    ]
+  },
+  "taft-visitor-receipt": {
+    "url": "https://www.taftmuseum.org/media/jq0dttrr/2025-visitor-guide-final-reader-view.pdf",
+    "final_url": "https://www.taftmuseum.org/media/jq0dttrr/2025-visitor-guide-final-reader-view.pdf",
+    "status": 200,
+    "bytes": 5258159,
+    "pageCount": 4,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "Adobe InDesign 19.4 (Windows)",
+      "producer": "Adobe PDF Library 17.0",
+      "creationDate": "D:20241203182007-05'00'",
+      "modDate": "D:20241205162711-05'00'",
+      "trapped": "",
+      "encryption": null
+    },
+    "renderedPages": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

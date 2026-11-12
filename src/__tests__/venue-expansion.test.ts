@@ -11,6 +11,30 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("keeps museum preparation current without extending an older photo guide's admission claim", () => {
+    const cac = place("contemporary-arts-center");
+    const group = cac.facts.find((f) => f.id === "contemporary-arts-center.cognitive.2")!;
+    expect(group.text).toMatch(/two weeks’ notice/);
+    expect(group.source_url).toBe("https://www.contemporaryartscenter.org/visit/accessibility");
+    expect(cac.facts.some((f) => f.text.includes("$12 general admission") && f.source_url.endsWith("/visit/hours-admission"))).toBe(true);
+    expect(cac.limitations).toMatch(/blanket free-admission statement differs/);
+    expect(text("taft-museum-of-art")).toMatch(/coatroom and lockers are on the first floor/);
+    expect(text("taft-museum-of-art")).toMatch(/does not describe adult-changing equipment/);
+  });
+  it("finds Newport and Covington dining while preserving distinct destinations and entrance barriers", () => {
+    const slugs = ["new-riff-distilling", "braxton-brewing-covington", "riverside-mainstrasse-village-food-tour"];
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toEqual(expect.arrayContaining(slugs));
+    expect(place(slugs[0]).address).toBe("24 Distillery Way, Newport, KY 41073");
+    expect(text(slugs[0])).toMatch(/West Newport Campus is at 1104 Lowell Street/);
+    expect(text(slugs[1])).toMatch(/second-floor Loft private-event space/);
+    expect(place(slugs[1]).limitations).toMatch(/not a confirmed rooftop route/);
+    expect(text(slugs[2])).toMatch(/Some restaurant entrances may have a step up/);
+    expect(place(slugs[2]).address).toMatch(/published meeting point/);
+    for (const slug of slugs) {
+      expect(place(slug).limitations).toContain("no on-site audit");
+      expect(place(slug).observed_at).toBeNull();
+    }
+  });
   it("adds CVG arrival preparation without promising a particular vehicle or shuttle wait", () => {
     const slug = "cincinnati-northern-kentucky-international-airport-cvg";
     expect(place(slug).checked_at).toBe("2026-11-12");
@@ -507,7 +531,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
-      "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "nolia-kitchen", "rhinegeist-brewery", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
+      "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
     ]);
     const art = artForCategory("Food & drink")!;
     expect(art.alt).toMatch(/^AI artwork/);

@@ -1,0 +1,104 @@
+{
+  "status": "Held, not public facts",
+  "braxtonIglooDrafts": [
+    [
+      "chronic",
+      "The seasonal rooftop igloos have cushioned seating and heaters, but Braxton advises warm clothing and blankets because heating is limited. Entry width, seating transfers and wheelchair space are not specified.",
+      "https://braxtonbrewing.com/products/igloobar",
+      "venue_official",
+      null,
+      "ARE THE IGLOOS HEATED? While our igloos do have a heater, we encourage guests to dress for the colder weather, as it can only heat the space so much. We also encourage guests to bring blankets for additional warmth."
+    ],
+    [
+      "sensory",
+      "The seasonal igloo description offers a dedicated Bluetooth speaker on request. It does not describe a quiet or low-noise session.",
+      "https://braxtonbrewing.com/products/igloobar",
+      "venue_official",
+      null,
+      "a dedicated Bluetooth speaker (upon request)"
+    ],
+    [
+      "cognitive",
+      "The seasonal igloo FAQ limits each igloo to eight people aged 21 or over. Confirm availability and access arrangements before booking; general rooftop family hours are a separate policy.",
+      "https://braxtonbrewing.com/products/igloobar",
+      "venue_official",
+      null,
+      "ARE THE IGLOOS KID-FRIENDLY? No. Igloos accommodate folks 21 & up. No exceptions. CAN I BOOK FOR LONGER THAN TWO AND A HALF HOURS? Yes, although you must book as two separate, back-to-back reservations."
+    ],
+    [
+      "chronic",
+      "For the seasonal igloos, Braxton warns of possible cancellation for dangerously low temperatures or a winter weather advisory and possible evacuation for lightning. Confirm the weather plan with the venue.",
+      "https://braxtonbrewing.com/products/igloobar",
+      "venue_official",
+      null,
+      "Igloos will remain open in all weather including rain, snow, and ice, unless there is potential for dangerously low temperatures and/or there is a winter weather advisory. In the event of a weather related cancellation, you will be contacted directly and given the opportunity to reschedule your igloo or cancel altogether and be refunded. It is also possible we may have to evacuate in the event of lightning."
+    ],
+    [
+      "cognitive",
+      "Send igloo questions to social@braxtonbrewing.com; the igloo page asks visitors to use email rather than calling the taproom.",
+      "https://braxtonbrewing.com/products/igloobar",
+      "venue_official",
+      null,
+      "For any additional questions, please e-mail social@braxtonbrewing.com. Please do not call the taproom telephone regarding the igloos, as you will simply be redirected to the e-mail."
+    ]
+  ],
+  "braxtonConfirmation": "https://braxtonbrewing.com/products/igloobar returned 429 on repeated confirmation; initial 200 insufficient for this pass",
+  "grocery": [
+    {
+      "url": "https://www.kroger.com/stores/grocery/ky/newport/i-471-memorial-pkwy-carothers-rd/014/00423",
+      "result": "Fresh direct fetch timed out; search result not accepted"
+    },
+    {
+      "url": "https://www.kroger.com/stores/pickup/ky/newport",
+      "result": "Fresh direct fetch timed out"
+    },
+    {
+      "url": "https://www.meijer.com/shopping/store-locator/151.html",
+      "result": "403; chain-level equipment and other-state changing facility not branch evidence"
+    },
+    {
+      "lead": "Trader Joe Crestview Hills",
+      "result": "Official branch address verified; no concrete access equipment/route detail; no listing"
+    },
+    {
+      "lead": "Crestview Hills Town Center",
+      "result": "Visit page 200, no concrete new access feature evidence"
+    }
+  ],
+  "unresolved": [
+    "CAC service-animal wording differs across official pages; no resolution inferred",
+    "Taft December 9 early closing lacks a printed year",
+    "New Riff West Campus imagery is a different destination",
+    "R.C. Durr YMCA needs fresh direct feature/equipment procedure evidence"
+  ],
+  "rcDurrRecreationLead": {
+    "url": "https://rcdurr.myy.org/",
+    "status": 200,
+    "finalUrl": "https://rcdurr.myy.org/",
+    "checkedAt": "2026-11-12",
+    "accepted": false,
+    "reason": "Lead for next substantive recreation batch: location and seasonal/visit procedures found, but no reviewed entrance, parking route, pool lift/transfer procedure or changing-facility evidence. No listing imported. Images have no established reuse licence and were not downloaded.",
+    "quotedLeads": [
+      {
+        "quote": "Slides, a zero-depth splash pool, and shaded seating. Closed for the season",
+        "found": true
+      },
+      {
+        "quote": "Peak times are weekday evenings (5–7 PM) and Saturday mornings.",
+        "found": true
+      },
+      {
+        "quote": "Bring photo ID.",
+        "found": true
+      },
+      {
+        "quote": "Pool deck closes 10 minutes before building close. Holiday hours vary.",
+        "found": true
+      }
+    ],
+    "imageLeads": [
+      "Indoor pool image DSC_2804, no established reuse licence or individual capture date",
+      "Front desk image, no established reuse licence/date; no local image download or inspection claimed"
+    ]
+  }
+}

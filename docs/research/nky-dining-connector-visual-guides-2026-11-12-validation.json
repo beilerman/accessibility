@@ -1,0 +1,379 @@
+{
+  "checkedAt": "2026-11-12",
+  "base": "ef1fe664e621fe8e37faf71a42a59c887920fcb6",
+  "stats": {
+    "newVenues": [
+      "new-riff-distilling",
+      "braxton-brewing-covington",
+      "riverside-mainstrasse-village-food-tour"
+    ],
+    "newNotes": 39,
+    "oldNotesWithNewHistory": 21,
+    "oldNotesRevised": 2,
+    "totalVenues": 140,
+    "activeNotes": 1217,
+    "quotes": 792,
+    "photos": 38,
+    "guideEntries": 19,
+    "distinctGuideDocuments": 15,
+    "supportingChecks": 72,
+    "officialSources": 20,
+    "categoryCounts": {
+      "Museums & attractions": 21,
+      "Arts & performances": 32,
+      "Parks & outdoors": 31,
+      "Libraries": 15,
+      "Transportation": 5,
+      "Food & drink": 15,
+      "Shopping": 10,
+      "Public services": 4,
+      "Recreation & fitness": 7
+    }
+  },
+  "preservation": {
+    "existingVenueOrderPreserved": true,
+    "existingFactIdsAndHistoryPrefixesPreserved": true,
+    "changedExistingVenues": [
+      "contemporary-arts-center",
+      "taft-museum-of-art",
+      "the-connector-cincinnati-streetcar",
+      "central-park-boone-county-arboretum"
+    ],
+    "revisedOldNotes": [
+      "contemporary-arts-center.cognitive.2",
+      "taft-museum-of-art.chronic.3"
+    ],
+    "oldNotesWithNewHistory": 21,
+    "existingMediaPrefixesPreserved": true,
+    "sourceMonitorEntriesPreserved": true,
+    "existingQuoteRecordsUnchanged": true,
+    "unselectedSourceMonitorFindingsUnchanged": true
+  },
+  "httpChecks": [
+    {
+      "url": "http://localhost:3227/venues/contemporary-arts-center",
+      "status": 200,
+      "namePresent": true
+    },
+    {
+      "factId": "contemporary-arts-center.cognitive.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "contemporary-arts-center.cognitive.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "contemporary-arts-center.chronic.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "contemporary-arts-center.cognitive.4",
+      "renderedTextPresent": true
+    },
+    {
+      "url": "http://localhost:3227/venues/taft-museum-of-art",
+      "status": 200,
+      "namePresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.mobility.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.sensory.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.chronic.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.mobility.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.sensory.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.chronic.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.cognitive.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.sensory.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.mobility.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.chronic.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.cognitive.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "taft-museum-of-art.chronic.4",
+      "renderedTextPresent": true
+    },
+    {
+      "url": "http://localhost:3227/venues/the-connector-cincinnati-streetcar",
+      "status": 200,
+      "namePresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.mobility.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.mobility.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.sensory.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.cognitive.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.mobility.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.mobility.4",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.sensory.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.cognitive.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.chronic.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.cognitive.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.cognitive.4",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.sensory.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.chronic.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "the-connector-cincinnati-streetcar.chronic.3",
+      "renderedTextPresent": true
+    },
+    {
+      "url": "http://localhost:3227/venues/central-park-boone-county-arboretum",
+      "status": 200,
+      "namePresent": true
+    },
+    {
+      "factId": "central-park-boone-county-arboretum.mobility.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "central-park-boone-county-arboretum.mobility.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "central-park-boone-county-arboretum.cognitive.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "central-park-boone-county-arboretum.cognitive.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "central-park-boone-county-arboretum.cognitive.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "central-park-boone-county-arboretum.mobility.4",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "central-park-boone-county-arboretum.cognitive.4",
+      "renderedTextPresent": true
+    },
+    {
+      "url": "http://localhost:3227/venues/new-riff-distilling",
+      "status": 200,
+      "namePresent": true
+    },
+    {
+      "factId": "new-riff-distilling.mobility.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.mobility.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.mobility.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.cognitive.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.cognitive.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.chronic.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.cognitive.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.cognitive.4",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.cognitive.5",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "new-riff-distilling.cognitive.6",
+      "renderedTextPresent": true
+    },
+    {
+      "url": "http://localhost:3227/venues/braxton-brewing-covington",
+      "status": 200,
+      "namePresent": true
+    },
+    {
+      "factId": "braxton-brewing-covington.mobility.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "braxton-brewing-covington.mobility.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "braxton-brewing-covington.cognitive.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "braxton-brewing-covington.cognitive.2",
+      "renderedTextPresent": true
+    },
+    {
+      "url": "http://localhost:3227/venues/riverside-mainstrasse-village-food-tour",
+      "status": 200,
+      "namePresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.mobility.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.chronic.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.mobility.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.chronic.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.chronic.3",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.chronic.4",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.cognitive.1",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.cognitive.2",
+      "renderedTextPresent": true
+    },
+    {
+      "factId": "riverside-mainstrasse-village-food-tour.cognitive.3",
+      "renderedTextPresent": true
+    },
+    {
+      "asset": "/images/access/mainstrasse-clock-tower-paving-2019.webp",
+      "status": 200,
+      "sha256": "f334ff7b22d04722419291e41483cee214fcfbe8c70654a0a70b2e9293e51494"
+    },
+    {
+      "asset": "/images/access/connector-fountain-square-platform-2017.webp",
+      "status": 200,
+      "sha256": "39bf8f284c9fb95e6e2296131b99fe17a82f6a3710457b16f67165abdd5074d7"
+    },
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/sources",
+      "status": 200
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200
+    },
+    {
+      "path": "/?category=Food%20%26%20drink",
+      "status": 200
+    },
+    {
+      "guideId": "cac-group-photo-narrative-2023-24",
+      "renderedLinkPresent": true
+    },
+    {
+      "guideId": "taft-visitor-guide-2025",
+      "renderedLinkPresent": true
+    }
+  ],
+  "checks": {
+    "types": "passed",
+    "lint": "passed",
+    "unitTests": 86,
+    "pythonTests": 61,
+    "productionBuild": "passed",
+    "browserTestsListed": 123,
+    "browserTestsPassedLocally": false,
+    "browserBlock": "Chromium macOS MachPortRendezvous permission denial 1100 before navigation; browser access host unavailable",
+    "runnerBrowserValidationRequired": true,
+    "noAgentGitWritesOrDeployment": true,
+    "supportingQuotesFreshCheck": "72 checked, 0 failed",
+    "conflictMarkers": "none",
+    "whitespace": "passed"
+  },
+  "finishedReviewUtc": "2026-11-12T22:52:32.644520+00:00"
+}
