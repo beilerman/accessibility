@@ -4,6 +4,10 @@ spec = {slug: [[domain, text, url, source_type?, quote?], ...]}
 source_type defaults to venue_official. Pass the verified verbatim quote as
 the fifth item: it is stored in pipeline/evidence/quotes.json so the source
 monitor can tell whether a later page change still supports the note.
+
+Adding depth is a partial review. The listing's checked_at advances only if
+every active note has been source-checked on this date; older, held and flagged
+notes keep the listing's earlier full-review date.
 """
 import json
 import sys
@@ -14,7 +18,9 @@ date = sys.argv[2] if len(sys.argv) > 2 else today()
 places = load_places()
 by_slug = {p["slug"]: p for p in places}
 quotes = load_quotes()
-for slug, notes in json.load(open(sys.argv[1])).items():
+with open(sys.argv[1]) as source:
+    spec = json.load(source)
+for slug, notes in spec.items():
     place = by_slug[slug]
     have = {f["text"].strip().lower() for f in place["facts"]}
     for note in notes:
@@ -26,7 +32,9 @@ for slug, notes in json.load(open(sys.argv[1])).items():
         place["facts"].append(fact)
         have.add(text.strip().lower())
         record_quote(quotes, fact["id"], url, note[4] if len(note) > 4 else None, date)
-    place["checked_at"] = date
+    active = [f for f in place["facts"] if f["review_status"] != "retired"]
+    if active and all(f["retrieved_at"] == date and f["review_status"] == "source_checked" for f in active):
+        place["checked_at"] = date
     print(slug, "+", len(notes))
 save_places(places)
 save_quotes(quotes)

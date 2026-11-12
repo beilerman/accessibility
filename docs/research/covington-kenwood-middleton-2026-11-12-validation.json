@@ -1,0 +1,79 @@
+{
+  "baseCommit": "2503d375405dcc76c5faf0d4d0282f01aca36f04",
+  "checkedAt": "2026-11-12T10:02:27.785686+00:00",
+  "newVenues": [
+    "galaxie-covington",
+    "brkthrough-cincinnati-kenwood",
+    "hofbrauhaus-newport"
+  ],
+  "newNotes": 40,
+  "fullExistingVenueRechecks": [
+    "middleton-mills-park"
+  ],
+  "partialExistingNoteRechecks": [],
+  "depthOnlyVenues": [
+    "tank-transit-authority-of-northern-kentucky"
+  ],
+  "revisedNotes": 0,
+  "newPhotos": 1,
+  "newGuides": 1,
+  "evidenceChecks": {
+    "passed": 59,
+    "failed": 0,
+    "scope": "40 new notes, 2 old notes, 3 addresses, 14 extra supporting passages; county map ZIP separately visual"
+  },
+  "sourceBaselines": {
+    "pages": 12,
+    "status": 200,
+    "newAttentionFindings": 0
+  },
+  "checks": {
+    "types": true,
+    "lint": true,
+    "unitTests": 59,
+    "pipelineTests": 45,
+    "build": true,
+    "http": {
+      "base": "http://localhost:3225",
+      "routes": [
+        "/venues/galaxie-covington",
+        "/venues/hofbrauhaus-newport",
+        "/venues/brkthrough-cincinnati-kenwood",
+        "/venues/middleton-mills-park",
+        "/venues/tank-transit-authority-of-northern-kentucky",
+        "/venues?category=Food+%26+drink&region=KY&q=Galaxie",
+        "/venues?category=Museums+%26+attractions&region=OH&q=BRKTHROUGH",
+        "/access-in-pictures",
+        "/sources",
+        "/updates",
+        "/images/access/hofbrauhaus-newport-outdoor-edge-2013.webp"
+      ],
+      "passed": true
+    },
+    "preservation": true,
+    "whitespace": true
+  },
+  "browser": {
+    "testCount": 96,
+    "targetedRoute": "hofbrauhaus-newport",
+    "passed": false,
+    "stage": "Chromium launch before navigation",
+    "blocker": "macOS MachPortRendezvousServer bootstrap_check_in Permission denied (1100)",
+    "browserHost": "unavailable",
+    "runnerGateRequired": true
+  },
+  "totals": {
+    "venues": 114,
+    "activeNotes": 922,
+    "quotes": 431,
+    "accessPhotos": 16,
+    "guideEntries": 10,
+    "distinctGuideDocuments": 9
+  },
+  "publication": {
+    "committed": false,
+    "pushed": false,
+    "deployed": false,
+    "owner": "runner"
+  }
+}

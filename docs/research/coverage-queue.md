@@ -1,13 +1,13 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after the Florence/Newport/Hebron and food follow-up batches.
+Updated November 12, 2026, after the Covington/Kenwood/Middleton and Newport food batches.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Breadth
 
-The prepared catalog has 111 places. Its categories contain 32 arts venues,
-28 parks, 20 museums/attractions, 14 libraries, five transport entries, five
+The prepared catalog has 114 places. Its categories contain 32 arts venues,
+28 parks, 21 museums/attractions, 14 libraries, five transport entries, seven
 food/drink venues and seven shopping destinations. Use this distribution to seek
 more evidence for everyday activities and less represented types of places.
 
@@ -166,34 +166,97 @@ Prepared for runner validation; no Git writes or deployment.
   lint, 56 unit tests, 42 pipeline tests and final build pass. Browser launch remains
   denied locally; the runner owns the browser gate and publication branches.
 
+## Completed in the November 12 Covington/Kenwood/Middleton and Newport food pass
+
+Five venues investigated in successive batches. [Research, evidence and holds](covington-kenwood-middleton-2026-11-12.md)
+record the full source and media review. Prepared for runner validation; no Git
+writes, deployment, messages or private correspondence.
+
+- **New coverage:** Galaxie Covington (ten notes), BRKTHROUGH Cincinnati/Kenwood
+  (ten) and Hofbräuhaus Newport (five), with three fresh branch addresses and new
+  route/category checks. Galaxie's Tuesday-hours conflict, the game rooms' **over
+  50%** scope and Hofbräuhaus's dated 2021 route wording/ZIP difference stay visible.
+- **New information:** fifteen notes across Middleton-Mills (five) and TANK (ten),
+  for **40 new notes** overall. TANK's permanently removed outbound Holman/MLK stop
+  is still listed in its timetable; both sources remain visible. Current shopping
+  stop names do not establish pavement connections. App/smart-card payment steps
+  stay separate from existing reduced-fare/Plus/Route 16 conflicts.
+- **Freshness:** Middleton's two prior notes fully confirmed, no revisions. One
+  full review; weekly **20/8**. TANK is depth only, with no old-note recheck or
+  history/date change. No new partial existing-note recheck; AMC remains untouched.
+- **Imagery:** one reusable full-frame March 16, 2013 Nyttend public-domain photo,
+  showing Hofbräuhaus's outdoor-area wall/railings and sidewalk, not its current
+  doorway. One linked official TANK article with Transit Center booth/boarding-bay
+  photos in a 20-page Fall/Winter 2017 publication. Clear historical limits; original
+  guide freshly HTTP 200 with identical bytes. Seven TANK photos inspected and held.
+  Totals: sixteen access photos, ten guide entries/nine distinct documents.
+- **Evidence:** 59 fresh matching checks, zero misses, covering forty new notes,
+  two old notes, three addresses and fourteen supporting passages. Twelve active
+  sources baselined HTTP 200 with no new attention findings. The August 2026 county
+  map ZIP was visually checked against a fresh identical PDF, separately recorded.
+- **Helper fix:** depth additions no longer advance a listing's full-review date
+  when older or flagged notes remain; three regression cases added.
+- **Prepared totals/checks:** 114 venues, 922 active notes, 431 stored quotes.
+  Types, lint, 59 unit tests, 45 pipeline tests, build and eleven final-build HTTP
+  checks pass. Browser launch still fails at macOS Mach-port permission denial;
+  96 browser tests listed. The runner must complete its browser gate before pushing.
+
 ## Next concrete batch
 
-1. **Current Covington transfers:** prioritize post-November-7 TANK stop/bay,
-   boarding and pavement images and connection research. Preserve fare/zone/Route
-   16 differences. Do not present the 2011 shuttle photograph or 2025 brochure as
-   evidence of current vehicles or routes.
-2. **Northern Kentucky groceries:** Meijer Florence and Kroger Newport Pavilion
-   remain manual-browser holds; avoid repeating blocked script requests. Deepen
-   Publix Farmview Commons with bay/drive-through-lane arrival, designated parking,
-   equipment procedures, toilets and reusable access images. Resolve its 8740/8470
-   US 42 difference with authoritative current location evidence.
-3. **Florence order point:** establish IKEA pickup bays, arrival check-in, loading
-   help and actual physical premises separately from full-store policies. Resolve
-   7739/7735 Mall Road and the same-page take-home-stock difference. Do not transfer
-   West Chester loan/food/baby-care facilities. Seek reusable matched arrival photos.
-4. **Food breadth and depth:** manually review held MadTree Oakley candidate and
-   the source-monitor user-agent block before import. Continue concrete food venue
-   arrival, seating and toilet research. Rhinegeist private-event elevators do not
-   establish a public entrance or rooftop route; seek the actual lift/entrance and
-   equipment procedures plus less identifiable visitor imagery.
-5. **Thin neighborhood and county facilities:** Newport library interior/door/bin
-   reach and quiet-space evidence; Giles Conrad portable-toilet features/season,
-   shelter electricity discrepancy and Valley Orchards connection distances/slopes.
-   The county office-address/restroom-completion holds at Boone Woods persist.
-   For the older rolling queue, Bogart's remains a candidate; the weekly target has
-   been exceeded while these three further venue reviews added substantive detail.
+1. **Covington boarding and connections:** seek current post-November-7 stop/bay,
+   pavement and deployed-ramp photographs. Preserve TANK's Holman/MLK alert versus
+   timetable difference as well as fare/zone/Route 16 conflicts. Alternative stop
+   names and the 2017 Bay A photo do not establish a continuous rolling route or
+   today's bay allocation. The linked fare-capping PDF has further equipment/account
+   procedures to verify if PDF-source monitoring is supported in a later batch.
+2. **New food depth:** Galaxie entrance selection, lot access, thresholds, toilet
+   layout, patio route, table clearances and Tuesday service need stronger evidence.
+   Hofbräuhaus's official group page advertises Bier Hall/Stube/Biergarten virtual
+   tours; inspect when browser access returns, rather than claiming them inspected.
+   Its 2013 photo and 2021 article are historical. Find premises-specific toilet
+   and arrival evidence for additional everyday food venues.
+3. **Everyday public services:** investigate the official Government Center
+   [construction notice](https://www.kentoncountyky.gov/CivicAlerts.aspx?AID=604)
+   alongside confirmed branch addresses, available services and access features.
+   August 17 update sends vehicles to the Pike Street lot entrance until expected
+   spring 2027. Do not turn a driveway notice into a pedestrian-door closure or
+   assume the forecast late-October road reopening occurred. No listing imported.
+4. **Northern Kentucky groceries:** Meijer Florence/Kroger Newport remain browser
+   holds; avoid repeating blocked scripts. Deepen Publix bays/pharmacy lane,
+   equipment, toilets and reusable arrival photos, preserving its address conflict.
+   IKEA Florence still needs actual order-point check-in/loading/door evidence.
+5. **Middleton and other thin facilities:** confirm exact winter toilet/pier hours
+   and physical layouts. The state year-round/limited-hours entry is not an
+   operating receipt; a seasonal portable-toilet bid is not delivery evidence. The
+   August 2026 map's ZIP differs from the current facility page. Seek matched pier,
+   parking-to-facility and toilet photos. Newport/Giles, Boone Woods/Chapin and the
+   older Bogart's rolling queue remain useful depth candidates.
 
 ## Holds and unresolved source conflicts
+
+- **Galaxie Covington:** FAQ's Sunday–Tuesday closure conflicts with Tuesday
+  lunch/happy-hour wording; branch page also says closed Sunday–Tuesday. No entrance
+  selection, dimensions, patio route, toilet layout or quiet room established.
+- **BRKTHROUGH Kenwood:** over 50% of rooms, not all rooms. No room-by-room access
+  guide, entrance/parking route, toilet/changing or sensory-feature evidence. House
+  policy uses “registered service animals” without explaining the term; this is not
+  Threshold's legal conclusion. No matched reusable access photograph found.
+- **Middleton-Mills:** KDFWR's Shelterhouse Pond entry lists year-round limited-hour
+  parking/pier/restrooms without exact hours or features. County map is dated August
+  2026, with ZIP 41051 versus 41015 on the current facility page. Map is not a photo
+  guide; current toilets, surfaces and continuous connections need confirmation.
+- **TANK new hold:** July 10 alert permanently removes outbound Holman/MLK and
+  names Russell/13th alternatives, while Route 5's current timetable still lists
+  Holman at Martin Luther King Jr. Confirm boarding. New 2017 guide is historical;
+  no current bay/booth/staffing/ramp claim. Seven additional bus images held.
+- **Hofbräuhaus Newport:** current home/header/footer use 200 East Third Street,
+  41071, but reservation body prints 41017. Commons historic-building description
+  uses 216 East Third Street; the sign matches the venue, but no entrance role
+  is inferred. 2013 photo and 2021 street/restaurant access article do not establish
+  today's route. Official virtual tours remain uninspected; no guide entry added.
+- **Government Center:** construction/alternative-service lead held for a new
+  venue review. Distinguish vehicle lot entrance, pedestrian route and expected
+  reopening dates. Do not reuse May voting guidance as a current instruction.
 
 - **IKEA Florence:** current branch page lists 7739 Mall Road; the November 2025
   announcement listed 7735. Introduction says no stock, FAQ says some furnishings

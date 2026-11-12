@@ -1638,7 +1638,7 @@
       "final_url": "https://www.kentoncountyky.gov/Facilities/Facility/Details/MiddletonMills-Park-4",
       "last_modified": null,
       "sha256": "a9f137e9f173ef40e949f9d7edf133120776467a38dbdb30228d82550a9d1636",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1183
     },
     "https://www.mariemontplayers.com/directions": {
@@ -2180,6 +2180,94 @@
       "sha256": "adb702d11cf5604b85dcd7bc6f2a50f3a5319932848261e701245241e7cff81c",
       "fingerprint_version": 6,
       "chars": 2759
+    },
+    "https://app.fw.ky.gov/fisheries/accesssitedetail.aspx?asid=1165": {
+      "status": 200,
+      "final_url": "https://app.fw.ky.gov/fisheries/accesssitedetail.aspx?asid=1165",
+      "last_modified": null,
+      "sha256": "1fd3f0d320cf5b949bd307caa82af5579ffd455bdb6c2a45dfdfb2ade74e8ccc",
+      "fingerprint_version": 6,
+      "chars": 847
+    },
+    "https://www.brkthrough.com/cincinnati/faqs": {
+      "status": 200,
+      "final_url": "https://www.brkthrough.com/cincinnati/faqs",
+      "last_modified": "Tue, 10 Nov 2026 09:28:13 GMT",
+      "sha256": "e00655bb064643d0d03cdb9a9be1ca55db1622968ff323240206d205112949ce",
+      "fingerprint_version": 6,
+      "chars": 8404
+    },
+    "https://www.galaxiebar.com/faq-1-1": {
+      "status": 200,
+      "final_url": "https://www.galaxiebar.com/faq-1-1",
+      "last_modified": null,
+      "sha256": "c7150fca465fd59c66adcc6d5e2ff7709484e234f87cfc1980b6ec1082191887",
+      "fingerprint_version": 6,
+      "chars": 7151
+    },
+    "https://www.tankbus.org/bus_routes/dixie-highway-florence/": {
+      "status": 200,
+      "final_url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/",
+      "last_modified": "Wed, 11 Nov 2026 17:33:38 GMT",
+      "sha256": "1898784b60e8350a77c4f60c827bec37455628dee48767a8fae9f39fbb06660e",
+      "fingerprint_version": 6,
+      "chars": 603947
+    },
+    "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/": {
+      "status": 200,
+      "final_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
+      "last_modified": "Wed, 11 Nov 2026 18:20:37 GMT",
+      "sha256": "bea270e2a0350184b769852fd2361a9153397d5fa156c9ebc95e85a4284c4454",
+      "fingerprint_version": 6,
+      "chars": 201249
+    },
+    "https://www.tankbus.org/service-alerts/": {
+      "status": 200,
+      "final_url": "https://www.tankbus.org/service-alerts/",
+      "last_modified": "Wed, 11 Nov 2026 17:13:54 GMT",
+      "sha256": "9ecdbd49366eb548784b460081ac4ab8bda38e2a178cecfb829e1a1fe0520924",
+      "fingerprint_version": 6,
+      "chars": 2509
+    },
+    "https://www.tankbus.org/tap-and-save/": {
+      "status": 200,
+      "final_url": "https://www.tankbus.org/tap-and-save/",
+      "last_modified": "Wed, 11 Nov 2026 18:37:56 GMT",
+      "sha256": "4041a40688331f103390dcec85556bd86ac111a48a7a60667e77ae2b58fcf0b5",
+      "fingerprint_version": 6,
+      "chars": 1486
+    },
+    "https://www.hofbrauhausnewport.com/": {
+      "status": 200,
+      "final_url": "https://www.hofbrauhausnewport.com/",
+      "last_modified": null,
+      "sha256": "3584025dde9bb80f3d89f19a79bae1d9be9f320a35916ff9c36646f188262e64",
+      "fingerprint_version": 6,
+      "chars": 3203
+    },
+    "https://www.hofbrauhausnewport.com/comfort-community-biergarten/": {
+      "status": 200,
+      "final_url": "https://www.hofbrauhausnewport.com/comfort-community-biergarten/",
+      "last_modified": null,
+      "sha256": "563512a6c0afc09905f7724634842a8357115761d4f0c1913626a4a6b929407f",
+      "fingerprint_version": 6,
+      "chars": 6376
+    },
+    "https://www.hofbrauhausnewport.com/experience/": {
+      "status": 200,
+      "final_url": "https://www.hofbrauhausnewport.com/experience/",
+      "last_modified": null,
+      "sha256": "358938a9f1181713e2b719c9e491bd6fa226b772d5a5ad1e213cbe1419ee954a",
+      "fingerprint_version": 6,
+      "chars": 4511
+    },
+    "https://www.hofbrauhausnewport.com/reservations/": {
+      "status": 200,
+      "final_url": "https://www.hofbrauhausnewport.com/reservations/",
+      "last_modified": null,
+      "sha256": "1ce98d0f1b7b40acef8063f22cc9d2e02f743eb9a13ab3f5df27ad0844591394",
+      "fingerprint_version": 6,
+      "chars": 1569
     }
   },
   "findings": {

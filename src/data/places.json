@@ -8898,9 +8898,189 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "TANK’s current alerts say the outbound Holman at MLK stop is permanently removed, directing Route 5 riders to Holman at Russell and/or Holman at 13th. The alert is dated July 10, 2026. Confirm the boarding stop rather than relying on the timetable’s conflicting MLK entry.",
+        "source_url": "https://www.tankbus.org/service-alerts/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.11",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Route 5’s web timetable still lists Holman at Martin Luther King Jr. in the outbound direction. This conflicts with TANK’s permanent stop-removal alert; check current boarding instructions with TANK.",
+        "source_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.13",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Route 5’s current web timetable lists Covington Transit Center, Valley Plaza at Walmart and Fort Wright Hub. These are scheduled stop names, not evidence of continuous pavement, curb ramps or a route into the store.",
+        "source_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.12",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Route 1’s current web timetable lists Carothers at Pavilion, Carothers at Newport Plaza, 3rd at Newport on the Levee and Covington Transit Center. Confirm the correct direction and departure for the journey; stop names do not establish an entrance route or crossing conditions.",
+        "source_url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.13",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TANK’s Brent Spence Corridor alert, dated May 29, 2026, warns of detours, lane shifts and possible delays over the next several years, and asks riders to allow extra travel time and follow current route alerts.",
+        "source_url": "https://www.tankbus.org/service-alerts/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.14",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TANK’s Tap & Save page lists fixed-route fare caps of $4 per day and $70 per month when paying through an EZfare account. Once the cap is reached, further rides in that period are free. Confirm the applicable fare and travel period with TANK; the published cap does not resolve the separate reduced-fare source conflict.",
+        "source_url": "https://www.tankbus.org/tap-and-save/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.15",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To use Tap & Save in the Transit app, create an EZfare account in the app settings, load funds to the wallet and present its QR code to the onboard validator.",
+        "source_url": "https://www.tankbus.org/tap-and-save/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.16",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The alternative EZfare smart card costs $5 at TANK’s sales office, 3375 Madison Pike in Fort Wright. Load funds using cash or a credit card at that office or a listed participating retailer; the page does not establish the physical access route to those payment locations.",
+        "source_url": "https://www.tankbus.org/tap-and-save/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.17",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For a smart card, the Tap & Save page directs riders to register the account and card to track fare-capping spending, then tap the card on the validator when boarding.",
+        "source_url": "https://www.tankbus.org/tap-and-save/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.18",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Tap & Save page still offers paper passes at TANK’s sales office and accepts cash aboard buses. These alternatives do not by themselves establish fare-capping eligibility.",
+        "source_url": "https://www.tankbus.org/tap-and-save/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.19",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Fixed-route bus features, RAMP door-to-door paratransit and TANK Plus curb-to-curb service have different conditions. Confirm RAMP eligibility, the specific service area and booking rules with Special Services at 859-814-2135. The fare page lists a $1 reduced fixed-route fare while the FAQ lists $0.75; the conflict is unresolved. Confirm the applicable fare before travel. The November 7 service-change notice adds a six-mile TANK Plus cap and new destinations; the separate Plus page still describes Zone 1 in Campbell County. Confirm current zone boundaries. The Link page still suggests a Newport transfer to Route 16, despite the November 7 notice saying Route 16 is replaced. Do not rely on that transfer instruction without checking current schedules. Individual stop pavement, curb connections, transfer walking or rolling routes and station restroom features remain unverified. Historical photographs do not establish current vehicles or boarding arrangements.",
+    "limitations": "Public website information; no on-site audit. Fixed-route bus features, RAMP door-to-door paratransit and TANK Plus curb-to-curb service have different conditions. Confirm RAMP eligibility, the specific service area and booking rules with Special Services at 859-814-2135. The fare page lists a $1 reduced fixed-route fare while the FAQ lists $0.75; the conflict is unresolved. Confirm the applicable fare before travel. The November 7 service-change notice adds a six-mile TANK Plus cap and new destinations; the separate Plus page still describes Zone 1 in Campbell County. Confirm current zone boundaries. The Link page still suggests a Newport transfer to Route 16, despite the November 7 notice saying Route 16 is replaced. Do not rely on that transfer instruction without checking current schedules. Individual stop pavement, curb connections, transfer walking or rolling routes and station restroom features remain unverified. Historical photographs do not establish current vehicles or boarding arrangements. The current Route 5 timetable still lists outbound Holman at Martin Luther King Jr., while the July 10, 2026 alert says that stop is permanently removed and directs riders to Russell and/or 13th. Confirm the boarding location with TANK; the named alternative stops do not establish a continuous rolling route.",
     "slug": "tank-transit-authority-of-northern-kentucky",
     "evidence_type": "public_website",
     "observed_at": null
@@ -16310,8 +16490,8 @@
     "address": "3415 Mills Road, Covington, KY 41015",
     "website": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
     "source_url": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
-    "limitations": "Public website information; no on-site audit. Accessible parking, paths between facilities and restroom accessibility are not described. Call Kenton County Parks and Recreation at 859-525-7529.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public website information; no on-site audit. The county describes the fishing pier, playground surfacing and unpaved hiking trails. Kentucky Fish & Wildlife’s separate Shelterhouse Pond entry lists paved parking, disability parking, a pier and restrooms with year-round limited-hours availability; it gives no exact opening hours or internal facility features. This is not a confirmed winter-opening schedule. Paths between parking, shelters, playgrounds and toilets, slopes, thresholds and changing equipment remain unknown. Call Kenton County Parks and Recreation at 859-525-7529 to confirm current operation. The county’s August 2026 map prints ZIP 41051, while its current facility page says 41015 for 3415 Mills Road; confirm the destination rather than relying on the ZIP alone.",
+    "checked_at": "2026-11-12",
     "slug": "middleton-mills-park",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -16322,7 +16502,7 @@
         "source_url": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
         "id": "middleton-mills-park.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16331,6 +16511,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -16340,13 +16525,108 @@
         "source_url": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
         "id": "middleton-mills-park.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Kentucky Fish & Wildlife’s Shelterhouse Pond fishing-pier entry lists paved parking. It does not describe the slope, access-aisle layout or the connection from a parking space to the pier.",
+        "source_url": "https://app.fw.ky.gov/fisheries/accesssitedetail.aspx?asid=1165",
+        "id": "middleton-mills-park.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The state fishing-pier entry lists designated disability parking and the pier as available year-round with limited hours. Confirm current availability; the entry does not give the limited hours or dimensions.",
+        "source_url": "https://app.fw.ky.gov/fisheries/accesssitedetail.aspx?asid=1165",
+        "id": "middleton-mills-park.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The state Shelterhouse Pond entry lists restrooms, including its disability-restroom category, as year-round with limited hours. It gives no internal layout, changing equipment or exact opening hours, so confirm before a winter visit.",
+        "source_url": "https://app.fw.ky.gov/fisheries/accesssitedetail.aspx?asid=1165",
+        "id": "middleton-mills-park.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For the Shelterhouse Pond pier, Kentucky Fish & Wildlife gives the approach as south of Taylor Mill on KY 16, then left onto Mills Road to the lake. This is a driving direction, not a confirmed step-free route.",
+        "source_url": "https://app.fw.ky.gov/fisheries/accesssitedetail.aspx?asid=1165",
+        "id": "middleton-mills-park.mobility.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The county lists two shelter houses and links online shelter reservations from the park page. This does not establish a particular shelter’s availability or physical access features.",
+        "source_url": "https://www.kentoncounty.org/Facilities/Facility/Details/MiddletonMills-Park-4",
+        "id": "middleton-mills-park.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -19258,6 +19538,504 @@
         "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": "2026-10-07",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Galaxie Covington",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "815 Madison Ave, Covington, KY 41011",
+    "website": "https://www.galaxiebar.com/covington",
+    "source_url": "https://www.galaxiebar.com/faq-1-1",
+    "limitations": "Public website information; no on-site audit. The venue describes a wheelchair entrance, seating, parking and restroom but does not publish entrance selection, thresholds, door controls, dimensions, transfer space or a continuous parking-to-table route. Patio routes, quiet spaces and detailed lighting or sound conditions remain unknown. The FAQ says Sunday–Tuesday are closed, but its lunch and happy-hour answers also mention Tuesday service; the branch page says Sunday–Tuesday closed. Confirm the date, kitchen service and event conditions before travel. No Louisville-branch facilities have been transferred here.",
+    "checked_at": "2026-11-12",
+    "slug": "galaxie-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Galaxie’s Covington FAQ describes a wheelchair-accessible entrance, seating and parking. It does not identify the entrance or publish route measurements; contact the location about the arrangements needed.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Covington FAQ describes a wheelchair-accessible restroom. It does not give the door width, transfer layout, grab-bar arrangement or changing facilities.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue says it has a dedicated customer parking lot, with street and public parking nearby. It warns that availability can be limited on weekends and during major events; the lot entrance and route to the door are not described.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "A shaded patio has outdoor seating. Availability depends on weather, events and operating conditions; the FAQ does not describe the route or furniture dimensions.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The venue primarily hosts electronic music, including DJs, house and EDM events. It says the atmosphere can change significantly between weekday food-and-drink service and busy weekend events; no sound levels or quiet-room provision are established.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The restaurant is primarily walk-in and does not accept standard table reservations. Ticketed events and special programs may have separate entry requirements.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Standard food-and-drink service at the front bar has no cover charge. Ticketed shows and some special events may require advance tickets or payment at the door; check the specific event.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guests under 21 are welcomed before 10 p.m., but ticketed shows, late-night programs and special events may have different age rules. Check the specific event before visiting with anyone under 21.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The menu includes vegetarian and vegan dishes. Guests with allergies or strict dietary requirements are asked to speak to the team before ordering; the kitchen is not represented as completely allergen-free.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Online food ordering is offered for pickup and delivery during applicable kitchen hours. This does not establish curbside handoff or loading assistance.",
+        "source_url": "https://www.galaxiebar.com/faq-1-1",
+        "id": "galaxie-covington.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BRKTHROUGH Cincinnati — Kenwood",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Museums & attractions",
+    "address": "7875 Montgomery Rd, Space 1169, Cincinnati, OH 45236",
+    "website": "https://www.brkthrough.com/cincinnati",
+    "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+    "limitations": "Public website information; no on-site audit. The Cincinnati FAQ says over 50% of game rooms are built to be wheelchair accessible; it does not identify which rooms, explain their physical demands or establish that every game is usable by every participant. Entrance choice, parking-to-door route, toilet and changing features, seating, quiet spaces, lighting effects, hearing supports and equipment procedures remain unknown. The posted house policy uses the unexplained phrase “registered service animals”; confirm arrangements with the venue. This wording is a venue statement, not a determination of legal requirements.",
+    "checked_at": "2026-11-12",
+    "slug": "brkthrough-cincinnati-kenwood",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Cincinnati FAQ says over 50% of the game rooms are built to be wheelchair accessible. Ask which rooms and activities match the features needed before booking; this percentage is the operator’s statement, not an independent assessment.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Teams have two to four players, and larger groups are split into smaller teams. The FAQ says guests will not be placed with people they do not know.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "At check-in, players receive RFID wristbands and start a room by tapping in when its light is green. Individual games take three to five minutes and can be replayed.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The chosen two- or three-hour reservation covers access to the challenge rooms. The venue allows guests to eat or drink before or after that slot; food and drink stay in the restaurant and lounge, outside the game rooms.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue recommends comfortable athletic clothing and closed-toe shoes, and warns that many challenge rooms are physically demanding. It does not publish a room-by-room demand or transfer guide.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Advance online booking is recommended for the preferred time, particularly on weekends and holidays; walk-ins are accepted when space permits. Every player needs a waiver, with a parent or guardian completing it for players under 18.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ allows a 15-minute arrival delay; after that, the reservation may be given to a waiting-list guest or walk-in.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Ticket cancellations at least 12 hours ahead receive a full refund; less notice receives credit for a future visit. Once play has begun, the FAQ says full and partial refunds are unavailable. Separate event-booking rules apply.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Free lockers are available. The FAQ does not describe their size, height, reach or locking controls.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Children ten and under need an adult playing the rooms with them. Ages 11–14 need an attentive adult remaining in the building; ages 15–17 may play without an adult on site once a parent or guardian completes the waiver.",
+        "source_url": "https://www.brkthrough.com/cincinnati/faqs",
+        "id": "brkthrough-cincinnati-kenwood.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hofbräuhaus Newport",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "200 E 3rd St, Newport, KY 41071",
+    "website": "https://www.hofbrauhausnewport.com/",
+    "source_url": "https://www.hofbrauhausnewport.com/reservations/",
+    "limitations": "Public website information; no on-site audit. The 2021 Biergarten article is historical and does not establish today’s entrance choice or a step-free route. Door controls, thresholds, parking-to-door connections, table clearances, toilets, changing facilities, quiet spaces and hearing supports remain unknown. The reservation page’s body prints ZIP 41017, while its header/footer and the current home page use 41071 for 200 East Third Street; confirm the destination. The March 2013 photograph shows the historical building’s outdoor edge and sidewalk, not the current visitor entrance or an uninterrupted route. Its Commons description uses the historic building address, 216 East Third Street. Other cities’ Hofbräuhaus facilities have not been transferred here.",
+    "checked_at": "2026-11-12",
+    "slug": "hofbrauhaus-newport",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "A venue article dated May 19, 2021 describes Biergarten access from both the street and the restaurant. It does not describe steps, thresholds or a continuous step-free route, and is not confirmation of the current entrance arrangement.",
+        "source_url": "https://www.hofbrauhausnewport.com/comfort-community-biergarten/",
+        "id": "hofbrauhaus-newport.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": "2021-05-19",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The reservation policy offers Sunday–Thursday table reservations for parties of up to 12. It says Friday and Saturday reservations are not taken; special or private events can restrict dates and times.",
+        "source_url": "https://www.hofbrauhausnewport.com/reservations/",
+        "id": "hofbrauhaus-newport.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For groups larger than 12, the reservation page directs guests to contact the venue at 859-491-7200. Confirm seating arrangements in advance; the policy does not establish a particular table, wheelchair space or companion layout.",
+        "source_url": "https://www.hofbrauhausnewport.com/reservations/",
+        "id": "hofbrauhaus-newport.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The venue lists its kitchen closing at 9 p.m. Sunday–Thursday and 10 p.m. Friday–Saturday, earlier than the venue’s closing times. Check service for the intended date when planning a meal or a break.",
+        "source_url": "https://www.hofbrauhausnewport.com/",
+        "id": "hofbrauhaus-newport.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The band calendar lists November 2026 performances, including Friday, November 13 from 6–9:30 p.m. and Saturday, November 14 from 3–6 p.m. and 7–10:30 p.m. These are scheduled performances, not measured sound levels or a guarantee of quiet outside those times.",
+        "source_url": "https://www.hofbrauhausnewport.com/experience/",
+        "id": "hofbrauhaus-newport.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [

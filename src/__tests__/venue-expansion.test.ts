@@ -11,6 +11,37 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Covington food and Kenwood recreation with their branch-specific limits", () => {
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain("galaxie-covington");
+    expect(findPlaces({ category: "Museums & attractions", region: "OH" }).map((p) => p.slug)).toContain("brkthrough-cincinnati-kenwood");
+    expect(place("galaxie-covington").address).toBe("815 Madison Ave, Covington, KY 41011");
+    expect(place("galaxie-covington").limitations).toMatch(/Tuesday service/);
+    expect(place("galaxie-covington").limitations).toMatch(/No Louisville-branch facilities/);
+    expect(text("brkthrough-cincinnati-kenwood")).toMatch(/over 50%/);
+    expect(place("brkthrough-cincinnati-kenwood").limitations).toMatch(/does not identify which rooms/);
+    for (const slug of ["galaxie-covington", "brkthrough-cincinnati-kenwood"]) {
+      expect(place(slug).limitations).toMatch(/no on-site audit/);
+      expect(place(slug).observed_at).toBeNull();
+    }
+  });
+
+  it("preserves TANK's removed-stop conflict and Middleton's limited-hours scope", () => {
+    expect(text("tank-transit-authority-of-northern-kentucky")).toMatch(/outbound Holman at MLK stop is permanently removed/);
+    expect(place("tank-transit-authority-of-northern-kentucky").limitations).toMatch(/timetable still lists/);
+    expect(text("middleton-mills-park")).toMatch(/year-round with limited hours/);
+    expect(place("middleton-mills-park").limitations).toMatch(/not a confirmed winter-opening schedule/);
+  });
+
+  it("finds Newport dining while keeping the older Biergarten route description dated", () => {
+    const slug = "hofbrauhaus-newport";
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("200 E 3rd St, Newport, KY 41071");
+    expect(place(slug).facts.find((f) => f.id === `${slug}.mobility.1`)?.published_at).toBe("2021-05-19");
+    expect(place(slug).limitations).toMatch(/body prints ZIP 41017/);
+    expect(place(slug).limitations).toMatch(/March 2013 photograph/);
+    expect(text(slug)).toMatch(/Friday and Saturday reservations are not taken/);
+  });
+
   it("limits Rhinegeist elevator evidence to private events and retains tour notice", () => {
     const slug = "rhinegeist-brewery";
     expect(text(slug)).toMatch(/all private event spaces have elevator access/);
@@ -202,7 +233,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
-      "findlay-market", "jungle-jims-fairfield", "molly-malones-covington", "rhinegeist-brewery", "smoke-justis",
+      "findlay-market", "galaxie-covington", "hofbrauhaus-newport", "jungle-jims-fairfield", "molly-malones-covington", "rhinegeist-brewery", "smoke-justis",
     ]);
     const art = artForCategory("Food & drink")!;
     expect(art.alt).toMatch(/^AI artwork/);
