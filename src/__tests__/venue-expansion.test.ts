@@ -11,6 +11,15 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Cold Spring as a Kentucky library with curbside conditions and explicit building gaps", () => {
+    const slug = "campbell-county-public-library-cold-spring-branch";
+    expect(findPlaces({ category: "Libraries", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("3920 Alexandria Pike, Cold Spring, KY 41076");
+    expect(text(slug)).toMatch(/digital-only card does not qualify/);
+    expect(text(slug)).toMatch(/county residents/i);
+    expect(place(slug).limitations).toMatch(/Entrance thresholds.*remain unverified/);
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("adds eight distinct public-source guides without implying a field visit", () => {
     for (const slug of newSlugs) {
       const p = place(slug);

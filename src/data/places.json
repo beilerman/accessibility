@@ -15717,5 +15717,93 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Campbell County Public Library — Cold Spring Branch",
+    "city": "Cold Spring",
+    "state": "KY",
+    "category": "Libraries",
+    "address": "3920 Alexandria Pike, Cold Spring, KY 41076",
+    "website": "https://www.cc-pl.org/locations",
+    "source_url": "https://www.cc-pl.org/curbside-pickup",
+    "limitations": "Public website information; no on-site audit. Curbside pickup is described for Cold Spring, while home delivery is a countywide library service. Entrance thresholds, door controls, parking-to-door routes, restrooms, quiet spaces and interior circulation remain unverified. Call the branch to discuss your visit.",
+    "checked_at": "2026-11-11",
+    "slug": "campbell-county-public-library-cold-spring-branch",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Cold Spring Branch is at 3920 Alexandria Pike. For visit planning, call 859-781-6166 or email csinfo@cc-pl.org.",
+        "source_url": "https://www.cc-pl.org/locations",
+        "id": "campbell-county-public-library-cold-spring-branch.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Curbside pickup is available at Cold Spring. Wait for your hold-ready notification, park in a designated curbside space and call the number on its sign with your name, library card number and parking space number. Stay in your vehicle for staff delivery.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-cold-spring-branch.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Curbside pickup requires a current physical library card; a digital-only card does not qualify. Holds are kept for seven days after notification. Someone else can collect them with your library card number.",
+        "source_url": "https://www.cc-pl.org/curbside-pickup",
+        "id": "campbell-county-public-library-cold-spring-branch.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The library system offers home delivery for Campbell County residents who cannot visit because of a temporary or permanent illness or disability. Materials can also be mailed for free. To arrange the service, call Adult Outreach at 859-572-5035, ext. 352.",
+        "source_url": "https://www.cc-pl.org/adult-outreach-services",
+        "id": "campbell-county-public-library-cold-spring-branch.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-11",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]

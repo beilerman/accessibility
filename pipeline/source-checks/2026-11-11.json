@@ -1804,6 +1804,30 @@
       "sha256": "d7373f4d8c436430a111bb66bfd4097927da0f583f3e6005829a7ed7d765b9b3",
       "fingerprint_version": 5,
       "chars": 1717
+    },
+    "https://www.cc-pl.org/adult-outreach-services": {
+      "status": 200,
+      "final_url": "https://www.cc-pl.org/adult-outreach-services",
+      "last_modified": null,
+      "sha256": "7958b99ebbad414ab934ce4a7212e86a7ee45e3d24a195b416131e2c4d9d9464",
+      "fingerprint_version": 5,
+      "chars": 3935
+    },
+    "https://www.cc-pl.org/curbside-pickup": {
+      "status": 200,
+      "final_url": "https://www.cc-pl.org/curbside-pickup",
+      "last_modified": null,
+      "sha256": "68998634ec5ae64c7cbb0b0cc7c954d4757862af96bb31b90dec64f2c18d46a5",
+      "fingerprint_version": 5,
+      "chars": 3024
+    },
+    "https://www.cc-pl.org/locations": {
+      "status": 200,
+      "final_url": "https://www.cc-pl.org/locations",
+      "last_modified": null,
+      "sha256": "0719ce2b1a4e020977226abaa3c65022e6979d32d749f178f74d459f9ee35745",
+      "fingerprint_version": 5,
+      "chars": 3899
     }
   },
   "findings": {

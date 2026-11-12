@@ -60,6 +60,7 @@ const routes = [
   "/venues/central-park-boone-county-arboretum",
   "/venues/licking-river-greenway-trails",
   "/venues/campbell-county-public-library-newport-branch",
+  "/venues/campbell-county-public-library-cold-spring-branch",
   "/venues/boone-county-public-library-chapin-memorial",
   "/about",
   "/sources",
