@@ -4671,11 +4671,11 @@
       },
       {
         "domain": "mobility",
-        "text": "There are three wheelchair spaces, two in the Lower Gallery and one in the Upper Gallery. You enter at Row D, so every Row D seat is step-free; floor seats on the lowered stage are reached by one step down.",
+        "text": "The seating page lists three wheelchair positions (two Lower Gallery, one Upper), but also says removable Upper Gallery seats can accommodate additional wheelchairs; arrange this with the Box Office at 513-381-2273. Entry from the lobby is at Row D, with no steps to Row D seats. Floor seating added on the lowered stage requires one step down.",
         "source_url": "https://www.cincyshakes.com/your-visit/seating",
         "id": "cincinnati-shakespeare-company.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4684,6 +4684,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Retain flexible Upper Gallery wheelchair capacity instead of implying a three-position maximum; preserve Row D and one-step floor-seating conditions. Partial review only."
           }
         ]
       },
@@ -4760,7 +4765,7 @@
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The page does not describe the route from the street entrance to the Lower Gallery seats or say which seats the ramp serves; confirm the route, and check each production's schedule for interpreted, audio-described and sensory-friendly dates.",
+    "limitations": "Public website information; no on-site audit. The seating page describes a Lower Gallery ramp and an Upper Gallery elevator, but does not verify the complete street-to-seat route, door controls or dimensions. Arrange the wheelchair/companion configuration for your performance with the Box Office. Check each production’s schedule for interpreted, audio-described and sensory-friendly dates.",
     "slug": "cincinnati-shakespeare-company",
     "evidence_type": "public_website",
     "observed_at": null
@@ -6143,11 +6148,11 @@
       },
       {
         "domain": "mobility",
-        "text": "All theaters are accessible; the Special Effects Theater and Planetarium have wheelchair locations and companion seats, which a theater attendant can reserve.",
+        "text": "The museum describes all its theaters as accessible and lists wheelchair locations and companion seats in the Special Effects Theater and Planetarium. Ask a theater attendant about reserving those spaces.",
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6156,16 +6161,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Attribute the operator’s accessibility description and preserve the request-for-reservation-information wording; do not promise that an attendant can reserve any requested space."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "All restrooms on the grounds are accessible, with wheelchair-accessible water fountains near the main interior restrooms. You can re-enter the exhibits at any time.",
+        "text": "The museum describes restrooms throughout its facility and grounds as accessible and locates wheelchair-accessible drinking fountains near the main interior restrooms; it does not give fixture dimensions. Its accessibility page also says visitors may reenter the exhibits at any time.",
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6174,6 +6184,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Attribute the operator’s restroom description instead of giving an independent accessibility verdict; retain separate evidence for reentry. Partial review only."
           }
         ]
       },
@@ -7507,7 +7522,7 @@
     "address": "10398 New Haven Road, Harrison, OH 45030",
     "website": "https://chpl.org/locations/ha/",
     "source_url": "https://chpl.org/locations/ha/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -7515,7 +7530,7 @@
         "source_url": "https://chpl.org/locations/ha/",
         "id": "harrison-branch-library.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7532,6 +7547,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -7543,7 +7563,7 @@
         "source_url": "https://chpl.org/locations/ha/",
         "id": "harrison-branch-library.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7562,16 +7582,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "For accessibility questions, the library system lists 513-369-6968 (option 5) and accessibility@chpl.org; during a visit, any staff member can help.",
+        "text": "For accessibility questions or additional accommodations, the library system lists 513-369-6968 (option 5) and accessibility@chpl.org. During a visit, it asks customers who need assistance to notify a staff member.",
         "source_url": "https://chpl.org/accessibility-services/",
         "id": "harrison-branch-library.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7580,6 +7605,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Describe the request route rather than implying that any staff member can provide every form of assistance."
           }
         ]
       },
@@ -7589,7 +7619,7 @@
         "source_url": "https://chpl.org/outreach/",
         "id": "harrison-branch-library.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7598,11 +7628,106 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Harrison’s branch contact is 513-369-4442 or harrison@chpl.org. Ask about the drive-through approach, curbside arrangements and the assistance you need before arriving.",
+        "source_url": "https://chpl.org/locations/ha/",
+        "id": "harrison-branch-library.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Harrison lists hours of 10 a.m.–9 p.m. Monday–Thursday and 10 a.m.–6 p.m. Friday–Saturday, with Sunday closed. Check its separate holiday calendar before travelling.",
+        "source_url": "https://chpl.org/locations/ha/",
+        "id": "harrison-branch-library.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Harrison’s posted calendar lists all-day closures November 26 and December 24–25, 2026, and January 1, 2027. It lists a 5 p.m. early closing on December 31, 2026.",
+        "source_url": "https://chpl.org/locations/ha/",
+        "id": "harrison-branch-library.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CHPL’s current welcome page says outdoor book drops at all its libraries accept returns 24 hours a day, and branch drive-through windows operate during regular service hours. It does not give Harrison’s slot height, vehicle clearance or reachable controls.",
+        "source_url": "https://chpl.org/welcome/",
+        "id": "harrison-branch-library.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "CHPL offers book-club service for its door-to-door and mail customers, with selections tailored to their needs and an emphasis on large print and audiobooks. Contact Outreach to discuss arrangements.",
+        "source_url": "https://chpl.org/outreach/",
+        "id": "harrison-branch-library.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The facility list does not specify door widths, restroom layout or sensory conditions. Contact the branch for details.",
+    "limitations": "The branch lists accessible facilities but does not describe door controls, thresholds, toilet layout, changing facilities or sensory conditions. Drive-through clearance, controls and a continuous parking-to-entrance route remain unverified. Historical reopening articles are not evidence of current pickup procedures.",
     "slug": "harrison-branch-library",
     "evidence_type": "public_website",
     "observed_at": null
@@ -8025,15 +8150,15 @@
     "address": "800 Buttermilk Pike, Crescent Springs, KY",
     "website": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
     "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
-        "text": "The city describes a recently added, fully inclusive playground designed for children of all abilities, with accessible equipment.",
+        "text": "The city describes an inclusive playground designed for children of all abilities, with accessible equipment. Its page does not date the installation or describe a complete parking-to-play route.",
         "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
         "id": "lou-hartfiel-memorial-park.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8042,6 +8167,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Remove an undated recency claim while retaining attribution and the unknown arrival-route boundary."
           }
         ]
       },
@@ -8051,7 +8181,7 @@
         "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
         "id": "lou-hartfiel-memorial-park.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8060,6 +8190,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8069,7 +8204,7 @@
         "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
         "id": "lou-hartfiel-memorial-park.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8078,6 +8213,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8087,7 +8227,7 @@
         "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
         "id": "lou-hartfiel-memorial-park.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8096,11 +8236,178 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Shelter 2 is to the left when entering from Buttermilk Pike, beside the 9/11 and Kenton County Veterans memorials and near the playground and restrooms. The city lists eight picnic tables, four grills and electricity; toilet layout, changing facilities and the complete route are not described.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "id": "lou-hartfiel-memorial-park.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The city describes Shelter 3, to the right when entering from Buttermilk Pike, as a quieter setting with ten picnic tables, four grills and electricity. This is the city’s description, not a measured sound level or a guarantee of quiet.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "id": "lou-hartfiel-memorial-park.sensory.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The park rules, revised January 29, 2026, prohibit music and amplified sound in Shelter 3. They do not establish that surrounding activity will be quiet.",
+        "source_url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "id": "lou-hartfiel-memorial-park.sensory.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Shelters 2 and 3 are available to rent April–October and closed November–March. The rental page does not say this seasonal closure applies to the park’s restrooms; confirm toilet availability separately.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "id": "lou-hartfiel-memorial-park.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Shelter 1 cannot be rented and remains available for community use on a first-come, first-served basis. A table or shelter space is not guaranteed.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "id": "lou-hartfiel-memorial-park.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Shelter reservations open at 12:01 a.m. on February 1 each year, first come, first served. Submitting the request form does not finalize a booking: a city representative must confirm availability, and full payment secures the date.",
+        "source_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "id": "lou-hartfiel-memorial-park.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The January 29, 2026 park rules set daily hours of 8 a.m.–9 p.m., with no people or vehicles permitted outside those hours. Parking is limited to designated areas; vehicles are prohibited on grass or landscaped areas.",
+        "source_url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "id": "lou-hartfiel-memorial-park.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shelter rules prohibit extension cords and power strips. If you depend on powered equipment, confirm the electrical arrangement you need; listed electricity does not establish a usable charging setup.",
+        "source_url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "id": "lou-hartfiel-memorial-park.chronic.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The January 29, 2026 shelter rules allow a full refund for cancellations at least 30 days ahead; cancellations within 30 days and inclement weather do not receive refunds. Date changes must be requested more than seven days ahead, depend on availability and carry a $10 fee.",
+        "source_url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "id": "lou-hartfiel-memorial-park.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The city page does not describe surfacing at the playground or the route from parking; confirm which trail sections are paved versus wood chip.",
+    "limitations": "The city describes an inclusive playground but does not provide a complete parking-to-play route, gradients, equipment transfer details, toilet layout or changing facilities. Shelter 2 is near restrooms; seasonal toilet availability is unverified. The November–March shelter closure is not evidence that restrooms close then. Shelter 3 is described as quieter and prohibits amplified sound, but surrounding sound levels are unknown.",
     "slug": "lou-hartfiel-memorial-park",
     "evidence_type": "public_website",
     "observed_at": null
@@ -8287,15 +8594,15 @@
     "address": "9001 Mt. Hope Road, Harrison, OH 45030",
     "website": "https://www.greatparks.org/parks/miami-whitewater-forest",
     "source_url": "https://www.greatparks.org/about/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
-        "text": "An accessible canoe/kayak launch uses a sliding transfer bench.",
+        "text": "Great Parks describes a floating canoe/kayak launch at Miami Whitewater Forest Harbor with a bench that slides over a railing system for transfer into a boat. Confirm its operation and the assistance you need before visiting.",
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "miami-whitewater-forest.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8309,6 +8616,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Attribute the equipment description and avoid treating the publisher’s unassisted-transfer claim as an individual suitability guarantee; inconsistent launch count is not repeated."
           }
         ]
       },
@@ -8318,7 +8630,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "miami-whitewater-forest.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8332,16 +8644,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Great Parks asks for two weeks' advance notice to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+        "text": "Great Parks says it will make every effort, with two weeks’ advance notice, to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD) about program access.",
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "miami-whitewater-forest.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8350,6 +8667,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Restore the make-every-effort condition; two weeks’ notice is not a guarantee of accommodation."
           }
         ]
       },
@@ -8359,7 +8681,7 @@
         "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail",
         "id": "miami-whitewater-forest.mobility.3",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8368,16 +8690,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The Shaker Trace Trail is getting a new 2-inch asphalt overlay, and sections will close temporarily during repairs and paving.",
+        "text": "The park page posts Shaker Trace Inner and Outer Loop paving for November 2–20, without a year in the alert. It describes a new 2-inch asphalt overlay and temporary section closures, with other sections kept open when possible and detour signs at intersections, crossings and access points. Check current closures before travelling.",
         "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
         "id": "miami-whitewater-forest.mobility.4",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8386,6 +8713,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Replace an open-ended works claim with the posted date range, missing-year boundary and phased-closure conditions; do not infer completion."
           }
         ]
       },
@@ -8395,7 +8727,7 @@
         "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
         "id": "miami-whitewater-forest.mobility.5",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8404,6 +8736,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8413,7 +8750,7 @@
         "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
         "id": "miami-whitewater-forest.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8422,6 +8759,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8431,7 +8773,7 @@
         "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
         "id": "miami-whitewater-forest.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8440,11 +8782,196 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Harbor page lists restrooms and a snack bar at 9001 Mt. Hope Road. It does not describe toilet layout, changing equipment or winter restroom availability; the snack bar has different hours from the boathouse.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+        "id": "miami-whitewater-forest.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Harbor hours table lists the boathouse closed on both weekdays and weekends from October 19 through December 31. The table does not state a year; confirm the current season with the Harbor at 513-367-9632 before planning equipment rental.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+        "id": "miami-whitewater-forest.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Visitor Center lists restrooms and a snack bar at 9001 Mt. Hope Road. Its page does not specify adult-changing facilities, toilet clearances or a complete step-free route.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-visitor-center",
+        "id": "miami-whitewater-forest.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Visitor Center’s 2026 schedule lists 10 a.m.–4 p.m. daily from November 1 through December 13, weather permitting, with Thanksgiving closed. Confirm dates beyond that period; the page also lists closures on Christmas Eve, Christmas Day, New Year’s Eve and New Year’s Day.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-visitor-center",
+        "id": "miami-whitewater-forest.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Shaker Trace Nursery lists parking and restrooms at 8667 New Haven Road, with the campus open daily from dawn to dusk. The page does not give toilet access features or separate restroom opening hours.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
+        "id": "miami-whitewater-forest.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For a Solo Rider cart, call the individual golf course to reserve. Great Parks also allows players to schedule a demonstration to assess whether the cart will help them play; a reservation is not a fit or transfer assessment.",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "miami-whitewater-forest.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park is open daily from dawn to dusk. Facility opening periods differ, so the park’s general hours do not establish availability of rentals, indoor toilets or the Visitor Center.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "id": "miami-whitewater-forest.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For privately owned boats, Great Parks says there is no public trailer launch ramp or trailer parking at Miami Whitewater Forest. Boats must be carried from the nearest parking area to designated launching locations; confirm any carrying or transfer assistance separately.",
+        "source_url": "https://www.greatparks.org/about/policies/privately-owned-watercraft-regulations",
+        "id": "miami-whitewater-forest.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Privately owned watercraft may be used from dawn to dusk, but not when ice is present, lake water covers the launch area or severe weather exists. These are boating restrictions, not evidence that a particular transfer system is operating.",
+        "source_url": "https://www.greatparks.org/about/policies/privately-owned-watercraft-regulations",
+        "id": "miami-whitewater-forest.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The park lists a 1.2-mile Shaker Trace Inner Loop with exercise stations and a 7.7-mile Outer Loop through prairies and wetlands. These distances do not establish slopes, rest-point spacing or a continuous step-free route; see the separate paving notice.",
+        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "id": "miami-whitewater-forest.mobility.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Confirm availability before visiting. Address source: https://www.greatparks.org/parks/miami-whitewater-forest",
+    "limitations": "Public website information; no on-site audit. Confirm entrance and parking-to-facility routes, toilet/changing arrangements, launch operation and transfer or carrying assistance. The trail-paving alert and Harbor hours table omit a year; no work-completion or current-season assumption is made. Great Parks describes two launches while naming three parks; that count is unresolved. Photographs from 2013 and the 2016 report are historical and do not confirm today’s route or equipment.",
     "slug": "miami-whitewater-forest",
     "evidence_type": "public_website",
     "observed_at": null
@@ -13388,7 +13915,7 @@
     "address": "342 Ludlow Avenue, Cincinnati, OH",
     "website": "https://www.ludlowgaragecincinnati.com/",
     "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -13396,7 +13923,7 @@
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13405,6 +13932,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -13414,7 +13946,7 @@
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13423,6 +13955,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -13432,7 +13969,7 @@
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13441,6 +13978,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -13450,7 +13992,7 @@
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13459,6 +14001,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -13468,7 +14015,7 @@
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13477,6 +14024,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -13500,16 +14052,21 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Retain source screening alternatives instead of implying that metal-detector screening is mandatory for every guest; all bags remain subject to inspection. Partial venue review only."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "At general-admission shows a few seats are often (not always) left at the very rear, first come, first served. There is no food service in the concert venue.",
+        "text": "At general-admission shows, some seats are often (not always) left at the very rear, first come, first served throughout the concert; none are assigned or guaranteed. There is no food service in the concert venue.",
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13518,6 +14075,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Replace an unsupported seat-quantity description with the source’s some seats; retain throughout-concert and no-guarantee conditions and separate food-service support."
           }
         ]
       },
@@ -13527,13 +14089,90 @@
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The box office is at the venue, 342 Ludlow Avenue, and opens at 5 p.m. on scheduled show days only. Confirm the show and west hallway entrance arrangements before travelling.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ prohibits outside food and drink in both the venue and restaurant. It does not state a medical or dietary exception; confirm any necessary arrangements before arrival.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The smoking policy prohibits tobacco, electronic cigarettes and vaping throughout the restaurant and concert venue, including seated areas and restrooms.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Permitted bags are clear bags up to 12 × 12 × 6 inches or small clutches up to 6 × 9 inches; clutches need not be clear. The FAQ says non-compliant bags must be returned to a vehicle or disposed of before entry.",
+        "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "id": "ludlow-garage.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -28402,7 +29041,7 @@
     "address": "112 E Liberty Street, Cincinnati, OH 45202",
     "website": "https://freestorefoodbank.org/liberty-street-market/",
     "source_url": "https://freestorefoodbank.org/liberty-street-market/",
-    "limitations": "Public website information; no on-site audit. These notes describe food selection, documentation, hours and transport assistance, not physical access. Entrance thresholds and door controls, parking-to-door routes, queue seating, toilets, quiet space and help carrying groceries remain unverified. Bus-pass assistance is purpose-specific and is not a door-to-door ride or guaranteed transport home from the market. Confirm current arrangements before travelling.",
+    "limitations": "Public website information; no on-site audit. These notes describe food selection, documentation, hours and transport assistance, not physical access. Entrance thresholds and door controls, parking-to-door routes, queue seating, toilets, quiet space and help carrying groceries remain unverified. Bus-pass assistance is purpose-specific and is not a door-to-door ride or guaranteed transport home from the market. Confirm current arrangements before travelling. Regular and 2026 holiday sources differ on household documents and protein in meal boxes; the holiday flyer provides a separate option for customers who cannot wait. Confirm the applicable arrangements and dietary needs.",
     "checked_at": "2026-11-12",
     "slug": "freestore-foodbank-liberty-street-market",
     "evidence_type": "public_website",
@@ -28522,6 +29161,60 @@
         "source_url": "https://freestorefoodbank.org/liberty-street-market/",
         "id": "freestore-foodbank-liberty-street-market.cognitive.4",
         "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The 2026 holiday flyer lists Liberty Street Market closed November 26–29 and reopening November 30, 2026. It gives regular weekday hours of 8 a.m.–4 p.m.; confirm holiday arrangements before travelling.",
+        "source_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+        "id": "freestore-foodbank-liberty-street-market.cognitive.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For the November 2–25, 2026 holiday shopping period, customers who do not wish to shop or cannot wait are eligible for a pre-packaged Holiday Meal Box. The flyer says arrivals after 3:30 p.m. receive a holiday box and protein, with holiday food while supplies last; confirm suitability for dietary needs.",
+        "source_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+        "id": "freestore-foodbank-liberty-street-market.chronic.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The 2026 holiday flyer asks visitors to bring photo ID and says income is determined by self-declaration. Confirm any document alternatives and the requirements for your visit.",
+        "source_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+        "id": "freestore-foodbank-liberty-street-market.cognitive.6",
+        "source_type": "operator_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
@@ -28984,6 +29677,202 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-eastgate.chronic.3",
         "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Freestore Foodbank — Bea Taylor Market",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Public services",
+    "address": "3401 Rosenthal Way, Cincinnati, OH 45204",
+    "website": "https://freestorefoodbank.org/bea-taylor-market/",
+    "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+    "limitations": "Public website information; no on-site audit. Food-assistance procedures do not establish physical access. The entrance, parking-to-door route, automatic doors, toilets/changing facilities, queue seating and help carrying groceries remain unverified. The regular page permits choice shopping until closing; the holiday notice gives a 30-minute-earlier cutoff. Confirm the applicable date and any household-document alternatives or assistance needs before travelling. The homepage says the market reopens November 28, while the linked 2026 flyer says December 1 at 10 a.m. The flyer’s English hours end at 5 p.m. Tuesday–Friday; its Spanish page ends Tuesday–Thursday at 4:30 p.m. Regular and holiday pages also differ on documents and protein in meal boxes. These differences are unresolved; do not assume one source overrides the other.",
+    "checked_at": "2026-11-12",
+    "slug": "freestore-foodbank-bea-taylor-market",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Bea Taylor Market is a choice pantry where families in need can choose food to suit their household. The page does not specify residency boundaries, visit-frequency limits or appointment requirements; confirm individual arrangements.",
+        "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The market asks visitors to bring picture ID and household verification, listing an address, birth certificate or medical card. Ask about alternatives if you cannot provide those documents.",
+        "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Regular opening hours are Tuesday–Friday, 9 a.m.–5 p.m., and Saturday, 10 a.m.–3 p.m.; Sunday and Monday are closed. Holiday arrangements may differ.",
+        "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The regular market page permits choice shopping until the posted closing time and asks late visitors to return the next business day. Confirm the applicable schedule before travelling.",
+        "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. The page reserves protein items for customers using choice shopping; it does not promise a particular box or dietary accommodation.",
+        "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "id": "freestore-foodbank-bea-taylor-market.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For market enquiries, the location page lists 513-357-4600 and 3401 Rosenthal Way. Confirm entrance, waiting and carrying-help arrangements before travelling.",
+        "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The homepage’s holiday notice says Bea Taylor Market shopping ends 30 minutes before posted closing, with Holiday Meal boxes for later arrivals. It lists closure November 26–27 and reopening Saturday, November 28 at 10 a.m. The market dates in this notice do not print a year; confirm the applicable schedule.",
+        "source_url": "https://freestorefoodbank.org/",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The linked 2026 holiday flyer lists Bea Taylor Market closed November 26–30, reopening Tuesday, December 1 at 10 a.m. Confirm this dated holiday schedule directly before travelling.",
+        "source_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.7",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For the November 3–25, 2026 holiday distribution period, the flyer says customers who do not wish to shop or cannot wait may receive a pre-packaged Holiday Meal Box. Its English page says arrivals after 4:30 p.m. Tuesday–Friday or 2:30 p.m. Saturday receive a holiday box and protein; holiday food is while supplies last. Confirm dietary suitability and availability.",
+        "source_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "id": "freestore-foodbank-bea-taylor-market.chronic.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The 2026 holiday flyer asks for photo ID and says income is self-declared. Confirm the documents needed for your visit.",
+        "source_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.8",
+        "source_type": "operator_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,

@@ -1,0 +1,248 @@
+[
+ {
+  "slug": "harrison-branch-library",
+  "facts": [
+   {
+    "id": "harrison-branch-library.mobility.1",
+    "domain": "mobility",
+    "text": "The branch's official facility list identifies accessible facilities.",
+    "url": "https://chpl.org/locations/ha/",
+    "quote": "Facilities Accessible Facilities",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "40dcfa1a5fdb99b80069afdf9a6281487c93aa8aff12dd7a25a6e8727231f713"
+   },
+   {
+    "id": "harrison-branch-library.chronic.1",
+    "domain": "chronic",
+    "text": "The branch lists both curbside service and a drive-through.",
+    "url": "https://chpl.org/locations/ha/",
+    "quote": "Curbside Service Drive-Thru",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "40dcfa1a5fdb99b80069afdf9a6281487c93aa8aff12dd7a25a6e8727231f713"
+   },
+   {
+    "id": "harrison-branch-library.cognitive.1",
+    "domain": "cognitive",
+    "text": "For accessibility questions or additional accommodations, the library system lists 513-369-6968 (option 5) and accessibility@chpl.org. During a visit, it asks customers who need assistance to notify a staff member.",
+    "url": "https://chpl.org/accessibility-services/",
+    "quote": "Please call us at 513-369-6968 (Option 5) if you require any additional accommodations.If you need any assistance during your visit to the Library, please notify any staff member. If you are unable to come to the Library or have a question about our accessibility, please call 513-369-6968 (Option 5) or email us at accessibility@chpl.org",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "310d809e19be802c6eb51429c28bfdb1350104232459c9f69e04be0463a932a3"
+   },
+   {
+    "id": "harrison-branch-library.chronic.2",
+    "domain": "chronic",
+    "text": "The library mails materials anywhere in Hamilton County to people with medical disabilities.",
+    "url": "https://chpl.org/outreach/",
+    "quote": "We mail library materials throughout Hamilton County for those with medical disabilities.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "f934316d162c14cab277dfbdcdafa0108e3b942fcf6e202b0cb409ecebf2cc8c"
+   }
+  ]
+ },
+ {
+  "slug": "lou-hartfiel-memorial-park",
+  "facts": [
+   {
+    "id": "lou-hartfiel-memorial-park.mobility.1",
+    "domain": "mobility",
+    "text": "The city describes an inclusive playground designed for children of all abilities, with accessible equipment. Its page does not date the installation or describe a complete parking-to-play route.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+    "quote": "A recent improvement to the park is the addition of a fully inclusive, ADA-compliant playground . The playground was designed to accommodate children of all abilities and includes accessible equipment and sensory features that encourage inclusive play in a safe and welcoming environment.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "389be8311f25438f8f861fb092cfd2b71b8ca2b9a079800b3c56a15566baefa9"
+   },
+   {
+    "id": "lou-hartfiel-memorial-park.sensory.1",
+    "domain": "sensory",
+    "text": "The inclusive playground includes sensory features.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+    "quote": "The playground was designed to accommodate children of all abilities and includes accessible equipment and sensory features that encourage inclusive play in a safe and welcoming environment.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "389be8311f25438f8f861fb092cfd2b71b8ca2b9a079800b3c56a15566baefa9"
+   },
+   {
+    "id": "lou-hartfiel-memorial-park.mobility.2",
+    "domain": "mobility",
+    "text": "The 1.5-mile walking and nature trail has both paved and wood chip surfaces.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+    "quote": "Additional amenities include a 1.5-mile walking and nature trail with both paved and wood chip surfaces",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "389be8311f25438f8f861fb092cfd2b71b8ca2b9a079800b3c56a15566baefa9"
+   },
+   {
+    "id": "lou-hartfiel-memorial-park.chronic.1",
+    "domain": "chronic",
+    "text": "Picnic tables and grills are located throughout the park, and three shelters are available for public use.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+    "quote": "picnic tables and grills located throughout the park. The park also includes three shelters available for public use.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "389be8311f25438f8f861fb092cfd2b71b8ca2b9a079800b3c56a15566baefa9"
+   }
+  ]
+ },
+ {
+  "slug": "harrison-branch-library",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "Harrison’s branch contact is 513-369-4442 or harrison@chpl.org. Ask about the drive-through approach, curbside arrangements and the assistance you need before arriving.",
+    "url": "https://chpl.org/locations/ha/",
+    "quote": [
+     "Phone: (513) 369-4442",
+     "Email: harrison@chpl.org"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "40dcfa1a5fdb99b80069afdf9a6281487c93aa8aff12dd7a25a6e8727231f713"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Harrison lists hours of 10 a.m.–9 p.m. Monday–Thursday and 10 a.m.–6 p.m. Friday–Saturday, with Sunday closed. Check its separate holiday calendar before travelling.",
+    "url": "https://chpl.org/locations/ha/",
+    "quote": "Monday 10:00AM - 9:00PM Tuesday 10:00AM - 9:00PM Wednesday 10:00AM - 9:00PM Thursday 10:00AM - 9:00PM Friday 10:00AM - 6:00PM Saturday 10:00AM - 6:00PM Sunday Closed",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "40dcfa1a5fdb99b80069afdf9a6281487c93aa8aff12dd7a25a6e8727231f713"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Harrison’s posted calendar lists all-day closures November 26 and December 24–25, 2026, and January 1, 2027. It lists a 5 p.m. early closing on December 31, 2026.",
+    "url": "https://chpl.org/locations/ha/",
+    "quote": "Thanksgiving Day Thursday, November 26, 2026 Closed All Day Christmas Eve Thursday, December 24, 2026 Closed All Day Christmas Day Friday, December 25, 2026 Closed All Day New Year's Eve Thursday, December 31, 2026 Closes early: 5:00pm New Year's Day Friday, January 1, 2027 Closed All Day",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "40dcfa1a5fdb99b80069afdf9a6281487c93aa8aff12dd7a25a6e8727231f713"
+   },
+   {
+    "domain": "chronic",
+    "text": "CHPL’s current welcome page says outdoor book drops at all its libraries accept returns 24 hours a day, and branch drive-through windows operate during regular service hours. It does not give Harrison’s slot height, vehicle clearance or reachable controls.",
+    "url": "https://chpl.org/welcome/",
+    "quote": [
+     "Book drops, outside all of our libraries, are available to drop off returned materials 24 hours a day.",
+     "Several branch libraries have drive-thru windows that are open during regular service hours."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "033723a46fda61817f6f28228c7aaa30cbbf64a0dc6a1dddcd9806464353849e"
+   },
+   {
+    "domain": "sensory",
+    "text": "CHPL offers book-club service for its door-to-door and mail customers, with selections tailored to their needs and an emphasis on large print and audiobooks. Contact Outreach to discuss arrangements.",
+    "url": "https://chpl.org/outreach/",
+    "quote": "Book club service is available for our door-to-door and mail customers. We tailor our selections to your needs with a focus on large print and audiobooks.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "f934316d162c14cab277dfbdcdafa0108e3b942fcf6e202b0cb409ecebf2cc8c"
+   }
+  ]
+ },
+ {
+  "slug": "lou-hartfiel-memorial-park",
+  "facts": [
+   {
+    "domain": "chronic",
+    "text": "Shelter 2 is to the left when entering from Buttermilk Pike, beside the 9/11 and Kenton County Veterans memorials and near the playground and restrooms. The city lists eight picnic tables, four grills and electricity; toilet layout, changing facilities and the complete route are not described.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+    "quote": "Shelter #2 is located to the left when entering the Park from Buttermilk Pike, adjacent to the 9/11 Memorial and the Kenton County Veterans Memorial. It is conveniently located near the playground and restrooms and includes: Eight picnic tables Four grills Electrical service",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e1fdc9992b0f26b0961bdc5d2c0b6155173eadf12b9454c9e67ff3196adc6a98"
+   },
+   {
+    "domain": "sensory",
+    "text": "The city describes Shelter 3, to the right when entering from Buttermilk Pike, as a quieter setting with ten picnic tables, four grills and electricity. This is the city’s description, not a measured sound level or a guarantee of quiet.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+    "quote": "Shelter #3 is located to the right when entering the Park from Buttermilk Pike. It offers a quieter setting and includes: Ten picnic tables Four grills Electrical service",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e1fdc9992b0f26b0961bdc5d2c0b6155173eadf12b9454c9e67ff3196adc6a98"
+   },
+   {
+    "domain": "sensory",
+    "text": "The park rules, revised January 29, 2026, prohibit music and amplified sound in Shelter 3. They do not establish that surrounding activity will be quiet.",
+    "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+    "quote": [
+     "Revised 20260129",
+     "Music and amplified sound are prohibited in Shelter #3."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "13407e577fb53ee177c07ebe7b3de2bbca707726da8c8c7b102a5644e815c2d7"
+   },
+   {
+    "domain": "chronic",
+    "text": "Shelters 2 and 3 are available to rent April–October and closed November–March. The rental page does not say this seasonal closure applies to the park’s restrooms; confirm toilet availability separately.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+    "quote": "Shelters #2 and #3 are available for rental April through October and are closed November through March.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e1fdc9992b0f26b0961bdc5d2c0b6155173eadf12b9454c9e67ff3196adc6a98"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Shelter 1 cannot be rented and remains available for community use on a first-come, first-served basis. A table or shelter space is not guaranteed.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+    "quote": "Shelter #1 is not available for rental and remains open for community use on a first-come, first-served basis.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e1fdc9992b0f26b0961bdc5d2c0b6155173eadf12b9454c9e67ff3196adc6a98"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Shelter reservations open at 12:01 a.m. on February 1 each year, first come, first served. Submitting the request form does not finalize a booking: a city representative must confirm availability, and full payment secures the date.",
+    "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+    "quote": "Reservations open at 12:01 a.m. on February 1 each year and are accepted on a first-come, first-served basis. Please complete the form below to request your preferred date. A City representative will contact you to confirm availability. Reservations are not finalized until confirmed, and full payment is required to secure the date.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e1fdc9992b0f26b0961bdc5d2c0b6155173eadf12b9454c9e67ff3196adc6a98"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The January 29, 2026 park rules set daily hours of 8 a.m.–9 p.m., with no people or vehicles permitted outside those hours. Parking is limited to designated areas; vehicles are prohibited on grass or landscaped areas.",
+    "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+    "quote": [
+     "Revised 20260129",
+     "The park is open daily from 8:00 a.m. to 9:00 p.m.",
+     "No persons or vehicles are permitted in the park outside of these hours.",
+     "Parking is allowed only in designated parking areas. Vehicles are not permitted on grass or landscaped areas."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "13407e577fb53ee177c07ebe7b3de2bbca707726da8c8c7b102a5644e815c2d7"
+   },
+   {
+    "domain": "chronic",
+    "text": "The shelter rules prohibit extension cords and power strips. If you depend on powered equipment, confirm the electrical arrangement you need; listed electricity does not establish a usable charging setup.",
+    "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+    "quote": "Extension cords and power strips are not permitted.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "13407e577fb53ee177c07ebe7b3de2bbca707726da8c8c7b102a5644e815c2d7"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The January 29, 2026 shelter rules allow a full refund for cancellations at least 30 days ahead; cancellations within 30 days and inclement weather do not receive refunds. Date changes must be requested more than seven days ahead, depend on availability and carry a $10 fee.",
+    "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+    "quote": [
+     "Revised 20260129",
+     "Cancellations made at least 30 days in advance are eligible for a full refund.",
+     "Cancellations within 30 days are non-refundable.",
+     "No refunds are issued due to inclement weather.",
+     "Date changes must be requested more than 7 days in advance, are subject to availability, and include a $10 handling fee."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "13407e577fb53ee177c07ebe7b3de2bbca707726da8c8c7b102a5644e815c2d7"
+   }
+  ]
+ }
+]

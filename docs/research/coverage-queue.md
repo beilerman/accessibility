@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after park/stadium backfill, Eastgate groceries, BB Riverboats and deep access-photo research.
+Updated November 12, 2026, after Ludlow/Miami Whitewater/Harrison/Lou Hartfiel full reviews, Bea Taylor food assistance and deep access-photo research.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,9 +9,9 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now 307 notes after five further
-full reviews and one partial review (28 old notes newly backfilled; eleven wording
-corrections/clarifications). Start with transit
+remaining legacy missing-passage backlog is now 283 notes. The latest pass adds
+four full reviews plus two partial reviews (27 old notes), repairing 24 missing
+passages with nine wording corrections/clarifications; separate from 41 new notes. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -19,9 +19,9 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 144 places. Its categories contain 32 arts venues,
+The prepared catalog has 145 places. Its categories contain 32 arts venues,
 31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
-entries, fifteen food/drink venues, eleven shopping destinations, five public-service
+entries, fifteen food/drink venues, eleven shopping destinations, six public-service
 listings and seven recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
@@ -49,7 +49,72 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest prepared batch — November 12 parks/stadiums, Eastgate and BB Riverboats
+## Latest prepared batch — November 12 Ludlow, Miami Whitewater, Harrison, Lou Hartfiel and Bea Taylor
+
+See [research report](ludlow-miami-bea-2026-11-12.md),
+[media receipt](ludlow-miami-bea-2026-11-12-media.json) and
+[validation receipt](ludlow-miami-bea-2026-11-12-validation.json).
+
+**Backfill/freshness:** four full reviews — Ludlow 8, Miami Whitewater 8,
+Harrison Library 4 and Lou Hartfiel 4. Twenty-four old notes: 18 unchanged,
+six revised; 21 passages repaired in the four full reviews. Partial urgent corrections at
+Cincinnati Shakespeare (one seating note) and Creation Museum (two attribution/
+reservation notes) bring the total to **24 backfilled, 307 → 283; nine revisions**.
+Their full dates stay November 9. Weekly minimum already
+met before this pass. Liberty Street is holiday depth only; no old-note review
+or whole-date advance claimed. No blocked source was marked verified.
+
+**Growth:** 41 new notes, including ten at new **Freestore Foodbank — Bea Taylor
+Market** (Public services). Other additions: Miami Whitewater 10, Lou Hartfiel 9,
+Harrison 5, Ludlow 4 and Liberty Street 3. Includes toilets/facility locations,
+seasonal limits, boat carrying, cart demonstration/reservation, library services,
+shelter booking/sound/electricity rules and exact holiday distribution windows.
+Bea Taylor's physical entrance, toilets, waiting/seating and carrying help remain
+unknown. Its homepage/flyer reopening, bilingual hours, protein and document
+conflicts are explicitly preserved for confirmation.
+
+**Photos:** two historical CC BY-SA 3.0 full-frame Miami Whitewater photographs
+(exercise station/paving and fishing edge), plus a linked nine-page 2016 annual
+report with a small transfer-launch photo. Original/output inspection and hashes
+recorded. **61 standalone visual candidates and 15 PDF pages inspected**, plus the
+embedded launch photo. The supplier's 22-image Lou Hartfiel gallery includes
+railed approaches, low play panels, glider and overhead route context; retain the
+original links, unknown capture date and unlicensed/prominent-people hold. Current
+Great Parks and Harrison galleries also remain original-link leads. Creation
+Museum social story: 22 working images inspected, one Portico image 404; original
+HTML guide link held for a tested display convention, no unlicensed reuse. No AI.
+
+**Accuracy fix:** quote matching now excludes HTML comments; an obsolete Visitor
+Center hours table had remained inside commented markup. Four regressions added, including encoded-comment script prose.
+No whole-catalog audit of old comments is claimed.
+
+**Totals:** 145 places; 1,358 active notes; 1,075 quoted; 283 missing passages;
+54 licensed access photos; 23 guide entries/19 distinct documents. Sixty-eight note
+checks plus address, 21 baselines, 91 unit/74 pipeline, types, lint, build and
+196 HTTP assertions pass. Browser launch was blocked before navigation; in-app
+browser host unavailable. Runner-host browser validation remains required.
+
+**Next concrete batch:** full legacy reviews of **Creation Museum** (eight remaining missing
+passages) and **Cincinnati Shakespeare Company** (nine), covering arrival, toilets,
+seating/companions, assistance limits and seasonal restrictions. Continue Tousey
+House and Proudworks depth plus grocery/food/public-service breadth. All remaining
+unquoted everyday-category records are Molly Malone's four held notes: recover a
+fresh readable source before changing their status. Prior unresolved holds persist.
+
+**Photo priorities:** Ludlow west Ace Hardware hallway and lift platform;
+Miami Whitewater current parking-to-launch route/controls and winter toilet
+entrances; Lou Hartfiel parking-to-playground/toilet route; Harrison drive-through
+controls and entrance-to-toilet route; Bea Taylor approach, waiting and toilets.
+Consider an explicitly supported original-HTML-gallery link format in a separate
+UI-tested pass; do not give galleries invented PDF page counts or reuse licences.
+
+**Time-sensitive follow-up:** Bea Taylor homepage November 28 versus 2026 flyer
+December 1 reopening, English/Spanish closing-time discrepancy; November 2–25
+Liberty and November 3–25 Bea holiday distributions; Miami Whitewater undated
+November 2–20 paving alert and boathouse table. Lou shelter winter closure does not
+prove winter restroom closure. City's playground image was HTTP 403, not inspected.
+
+## Earlier prepared batch — November 12 parks/stadiums, Eastgate and BB Riverboats
 
 See [research report](devou-smale-florence-2026-11-12.md),
 [media receipt](devou-smale-florence-2026-11-12-media.json) and

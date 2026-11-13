@@ -69,9 +69,9 @@
       "status": 200,
       "final_url": "https://chpl.org/locations/ha/",
       "last_modified": null,
-      "sha256": "ff2615ada0023a3d8ddd580a1e25149808358b375fbd284fd1a98132c7741abb",
-      "fingerprint_version": 5,
-      "chars": 2650
+      "sha256": "40dcfa1a5fdb99b80069afdf9a6281487c93aa8aff12dd7a25a6e8727231f713",
+      "fingerprint_version": 6,
+      "chars": 2699
     },
     "https://chpl.org/outreach/": {
       "status": 200,
@@ -110,7 +110,7 @@
       "final_url": "https://creationmuseum.org/accessibility/",
       "last_modified": null,
       "sha256": "d0f4f9bec466fba23fecba4eeb5a6c0109bf4ec6efd4e4c7e76f82dd13cf7cf7",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 11373
     },
     "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php": {
@@ -118,7 +118,7 @@
       "final_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
       "last_modified": null,
       "sha256": "389be8311f25438f8f861fb092cfd2b71b8ca2b9a079800b3c56a15566baefa9",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3214
     },
     "https://ensemblecincinnati.org/accessibility/": {
@@ -837,16 +837,16 @@
       "status": 200,
       "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
       "last_modified": null,
-      "sha256": "b18c009dd94f90f0f87e62b7a98304e202a2183aac98da1328f08e8bc6dc6326",
-      "fingerprint_version": 5,
-      "chars": 6437
+      "sha256": "3523b0f935a13404988549ef698be743442da5c44fed5309d7e5c8635de6bab3",
+      "fingerprint_version": 6,
+      "chars": 6286
     },
     "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor": {
       "status": 200,
       "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
       "last_modified": null,
       "sha256": "e99da80fde489a5aa77bd20fc4d6335369239b302d5aa8cce769678c407957d0",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2666
     },
     "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery": {
@@ -854,7 +854,7 @@
       "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
       "last_modified": null,
       "sha256": "1f2abadf2e59e6937a31976059332e234984ee232b3e4d7aa67939e3526d81e3",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1986
     },
     "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail": {
@@ -862,7 +862,7 @@
       "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail",
       "last_modified": null,
       "sha256": "df1ab47cb79fde9b0dc5234e04e43ff1471980f605a2faa87f068073000a9305",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 872
     },
     "https://www.greatparks.org/parks/sharon-woods": {
@@ -1502,7 +1502,7 @@
       "final_url": "https://cincyshakes.com/your-visit/seating",
       "last_modified": null,
       "sha256": "98115fa6a906c2f92c1deb48c626df237b6f3002c3d880f2dbf72880fdf57a12",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 16498
     },
     "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails": {
@@ -3175,10 +3175,87 @@
       "sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
       "fingerprint_version": 6,
       "chars": 33873
+    },
+    "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf": {
+      "status": 200,
+      "final_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+      "last_modified": "Thu, 05 Nov 2026 22:17:51 GMT",
+      "sha256": "6ad5f732458a87ccae52f6421decfae42791595696f29a8b9f88b74fde7a33bc",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 2684,
+      "pages": 2
+    },
+    "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf": {
+      "status": 200,
+      "final_url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+      "last_modified": "Thu, 05 Nov 2026 22:17:50 GMT",
+      "sha256": "729308c94b5af161f6e42144d67ff8a94c28c27c16fbfb8d4b360d302c8fb81f",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 2456,
+      "pages": 2
+    },
+    "https://freestorefoodbank.org/": {
+      "status": 200,
+      "final_url": "https://freestorefoodbank.org/",
+      "last_modified": null,
+      "sha256": "5cf6fa882b48c9f4c48129eb1f17a9f19d09e1d8cbaae533cf5de97867152930",
+      "fingerprint_version": 6,
+      "chars": 2851
+    },
+    "https://freestorefoodbank.org/bea-taylor-market/": {
+      "status": 200,
+      "final_url": "https://freestorefoodbank.org/bea-taylor-market/",
+      "last_modified": null,
+      "sha256": "9d303e8ff992281d6e3f4a904f0be5129016219447b170d7ddc4b2f86a1272a9",
+      "fingerprint_version": 6,
+      "chars": 2628
+    },
+    "https://www.greatparks.org/about/policies/privately-owned-watercraft-regulations": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/about/policies/privately-owned-watercraft-regulations",
+      "last_modified": null,
+      "sha256": "2d0d44bc322bb91778f180effb469e052c69d11f513a7240c9197393d3883c69",
+      "fingerprint_version": 6,
+      "chars": 4058
+    },
+    "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-visitor-center": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-visitor-center",
+      "last_modified": null,
+      "sha256": "f82232e9d13e5c2a433598a516a40966191f10e5e8f3e8bc8ba6bbe5f602344d",
+      "fingerprint_version": 6,
+      "chars": 1657
+    },
+    "https://chpl.org/welcome/": {
+      "status": 200,
+      "final_url": "https://chpl.org/welcome/",
+      "last_modified": null,
+      "sha256": "033723a46fda61817f6f28228c7aaa30cbbf64a0dc6a1dddcd9806464353849e",
+      "fingerprint_version": 6,
+      "chars": 5076
+    },
+    "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230": {
+      "status": 200,
+      "final_url": "https://cms5.revize.com/revize/crescentspringsky/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+      "last_modified": "Thu, 29 Jan 2026 17:13:12 GMT",
+      "sha256": "13407e577fb53ee177c07ebe7b3de2bbca707726da8c8c7b102a5644e815c2d7",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 3016,
+      "pages": 2
+    },
+    "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php": {
+      "status": 200,
+      "final_url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+      "last_modified": null,
+      "sha256": "e1fdc9992b0f26b0961bdc5d2c0b6155173eadf12b9454c9e67ff3196adc6a98",
+      "fingerprint_version": 6,
+      "chars": 2606
     }
   },
   "findings": {
-    "https://chpl.org/locations/ha/": "supported",
     "https://heritagebankcenter.com/venue-info": "supported",
     "https://renfestival.com/faq/": "supported",
     "https://tafttheatre.org/venue-info/faq": "supported",

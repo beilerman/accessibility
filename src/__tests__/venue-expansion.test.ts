@@ -11,6 +11,19 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Bea Taylor food assistance without hiding conflicting holiday reopening dates", () => {
+    const slug = "freestore-foodbank-bea-taylor-market";
+    expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("3401 Rosenthal Way, Cincinnati, OH 45204");
+    expect(text(slug)).toContain("cannot wait");
+    expect(text(slug)).toContain("while supplies last");
+    expect(place(slug).limitations).toContain("homepage says the market reopens November 28");
+    expect(place(slug).limitations).toContain("flyer says December 1");
+    expect(place(slug).limitations).toContain("remain unverified");
+    expect(place(slug).observed_at).toBeNull();
+    const holiday = place(slug).facts.find((f) => f.text.includes("closed November 26–30"))!;
+    expect(holiday.source_url).toContain("2026-BeaTaylor-distribution-flyer");
+  });
   it("finds Eastgate groceries while keeping store-specific services and unknown assistance explicit", () => {
     const slug = "jungle-jims-eastgate";
     expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);

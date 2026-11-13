@@ -1,0 +1,2619 @@
+{
+  "date": "2026-11-12",
+  "base": "64b46f6db03abfe623d0baaf44e23e8509b62d10",
+  "publicationState": "Ready for runner test suite and Git push after local evidence/edit review. Agent did not commit, push or deploy. Runner browser validation remains required.",
+  "checks": {
+    "finalEvidence": {
+      "command": "uv run --python 3.11 --with-requirements pipeline/requirements.txt python scripts/research/verify.py docs/research/ludlow-miami-bea-2026-11-12-final-evidence.json",
+      "notesPassed": 68,
+      "addressPassed": 1,
+      "failed": 0
+    },
+    "sourceBaselines": {
+      "checked": 21,
+      "needAttention": 0,
+      "snapshot": "pipeline/source-checks/2026-11-12.json"
+    },
+    "unit": {
+      "command": "npm test",
+      "passed": 91,
+      "failed": 0
+    },
+    "python": {
+      "command": "uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'",
+      "passed": 74,
+      "failed": 0,
+      "cache": "UV_CACHE_DIR=/tmp/threshold-uv-cache"
+    },
+    "types": {
+      "command": "npx tsc --noEmit",
+      "exitCode": 0
+    },
+    "lint": {
+      "command": "npm run lint",
+      "exitCode": 0
+    },
+    "build": {
+      "command": "npm run build",
+      "exitCode": 0,
+      "staticPages": 160,
+      "warnings": [
+        "Existing Atkinson Hyperlegible Next fallback-font override warning.",
+        "Node module.register deprecation warning."
+      ]
+    },
+    "browser": {
+      "command": "npx playwright test --grep 'freestore-foodbank-bea-taylor-market' --workers=1",
+      "attempted": 1,
+      "passed": 0,
+      "status": "Blocked before navigation",
+      "reason": "Chromium bootstrap_check_in MachPortRendezvousServer permission denied (1100).",
+      "fallback": "In-app browser host unavailable; no rendered layout or interaction pass claimed.",
+      "runnerRequired": true
+    },
+    "http": {
+      "baseURL": "http://localhost:3218",
+      "passed": 196,
+      "checks": [
+        {
+          "check": "/venues/cincinnati-shakespeare-company HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company name",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company limits",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.3 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/creation-museum HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "creation-museum name",
+          "passed": true
+        },
+        {
+          "check": "creation-museum limits",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.4 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/harrison-branch-library HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library name",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library limits",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.mobility.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.chronic.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.chronic.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.chronic.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.chronic.3 source",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.sensory.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library.sensory.1 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/lou-hartfiel-memorial-park HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park name",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park limits",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.mobility.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.sensory.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.sensory.1 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.mobility.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.mobility.2 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.sensory.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.sensory.2 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.sensory.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.sensory.3 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.3 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.chronic.4 source",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest name",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest limits",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.2 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.3 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.4 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.5 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.5 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.3 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.chronic.4 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.6 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.6 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.5 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.5 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.7 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.7 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.6 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.cognitive.6 source",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.8 exact note",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest.mobility.8 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/ludlow-garage HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage name",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage limits",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.mobility.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.mobility.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.mobility.2 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.sensory.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.sensory.1 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.3 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.chronic.4 source",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.5 exact note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.5 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/freestore-foodbank-liberty-street-market HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market name",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market limits",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market.cognitive.5 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market.cognitive.5 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market.chronic.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market.chronic.3 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market.cognitive.6 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market.cognitive.6 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/freestore-foodbank-bea-taylor-market HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market name",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market limits",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.3 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.4 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.chronic.1 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.5 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.5 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.6 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.6 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.7 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.7 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.chronic.2 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.8 exact note",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-bea-taylor-market.cognitive.8 source",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-exercise-station-2013 alt",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-exercise-station-2013 caption",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-exercise-station-2013 limitations",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-exercise-station-2013 licenseUrl",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-exercise-station-2013 sourceUrl",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-fishing-edge-2013 alt",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-fishing-edge-2013 caption",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-fishing-edge-2013 limitations",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-fishing-edge-2013 licenseUrl",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-fishing-edge-2013 sourceUrl",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-launch-photo-2016 title",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-launch-photo-2016 description",
+          "passed": true
+        },
+        {
+          "check": "/venues/miami-whitewater-forest miami-whitewater-launch-photo-2016 url",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-exercise-station-2013 alt",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-exercise-station-2013 caption",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-exercise-station-2013 limitations",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-exercise-station-2013 licenseUrl",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-exercise-station-2013 sourceUrl",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-fishing-edge-2013 alt",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-fishing-edge-2013 caption",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-fishing-edge-2013 limitations",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-fishing-edge-2013 licenseUrl",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-fishing-edge-2013 sourceUrl",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-launch-photo-2016 title",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-launch-photo-2016 description",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures miami-whitewater-launch-photo-2016 url",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-exercise-station-2013 asset status",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-exercise-station-2013 served bytes",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-fishing-edge-2013 asset status",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-fishing-edge-2013 served bytes",
+          "passed": true
+        },
+        {
+          "check": "/venues?category=Public%20services&region=OH&q=Bea%20Taylor HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "filtered new venue",
+          "passed": true
+        },
+        {
+          "check": "/sitemap.xml HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "new venue in sitemap",
+          "passed": true
+        }
+      ]
+    },
+    "preservation": {
+      "passed": 425,
+      "checks": [
+        {
+          "check": "all prior places retained in order",
+          "passed": true
+        },
+        {
+          "check": "american-sign-museum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "american-sign-museum untouched",
+          "passed": true
+        },
+        {
+          "check": "aronoff-center-for-the-arts permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "aronoff-center-for-the-arts untouched",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats untouched",
+          "passed": true
+        },
+        {
+          "check": "big-bone-lick-state-historic-site permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "big-bone-lick-state-historic-site untouched",
+          "passed": true
+        },
+        {
+          "check": "bogarts permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "bogarts untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-florence-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-florence-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-hebron-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-hebron-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-main-library permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-main-library untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-scheben-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-scheben-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-walton-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-walton-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-woods-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-woods-park untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-art-museum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-art-museum untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-metro-and-access-paratransit permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-metro-and-access-paratransit untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-museum-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-museum-center untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-music-hall permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-music-hall untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-nature-center-rowe-woods permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-nature-center-rowe-woods untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-observatory permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-observatory untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-playhouse-in-the-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-playhouse-in-the-park untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-zoo-botanical-garden permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-zoo-botanical-garden untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-northern-kentucky-international-airport-cvg permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-northern-kentucky-international-airport-cvg untouched",
+          "passed": true
+        },
+        {
+          "check": "contemporary-arts-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "contemporary-arts-center untouched",
+          "passed": true
+        },
+        {
+          "check": "creation-museum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "dinsmore-homestead permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "dinsmore-homestead untouched",
+          "passed": true
+        },
+        {
+          "check": "downtown-main-library permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "downtown-main-library untouched",
+          "passed": true
+        },
+        {
+          "check": "ensemble-theatre-cincinnati permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "ensemble-theatre-cincinnati untouched",
+          "passed": true
+        },
+        {
+          "check": "florence-family-aquatic-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "florence-family-aquatic-center untouched",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres untouched",
+          "passed": true
+        },
+        {
+          "check": "great-american-ball-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "great-american-ball-park untouched",
+          "passed": true
+        },
+        {
+          "check": "harrison-branch-library permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "heritage-bank-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "heritage-bank-center untouched",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-covington-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-covington-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "lou-hartfiel-memorial-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "megacorp-pavilion permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "megacorp-pavilion untouched",
+          "passed": true
+        },
+        {
+          "check": "miami-whitewater-forest permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "national-underground-railroad-freedom-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "national-underground-railroad-freedom-center untouched",
+          "passed": true
+        },
+        {
+          "check": "newport-aquarium permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "newport-aquarium untouched",
+          "passed": true
+        },
+        {
+          "check": "northern-kentucky-convention-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "northern-kentucky-convention-center untouched",
+          "passed": true
+        },
+        {
+          "check": "paycor-stadium permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "paycor-stadium untouched",
+          "passed": true
+        },
+        {
+          "check": "pyramid-hill-sculpture-park-museum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "pyramid-hill-sculpture-park-museum untouched",
+          "passed": true
+        },
+        {
+          "check": "riverbend-music-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "riverbend-music-center untouched",
+          "passed": true
+        },
+        {
+          "check": "sharon-woods permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "sharon-woods untouched",
+          "passed": true
+        },
+        {
+          "check": "tank-transit-authority-of-northern-kentucky permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "tank-transit-authority-of-northern-kentucky untouched",
+          "passed": true
+        },
+        {
+          "check": "tql-stadium permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "tql-stadium untouched",
+          "passed": true
+        },
+        {
+          "check": "taft-museum-of-art permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "taft-museum-of-art untouched",
+          "passed": true
+        },
+        {
+          "check": "taft-theatre permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "taft-theatre untouched",
+          "passed": true
+        },
+        {
+          "check": "the-carnegie permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "the-carnegie untouched",
+          "passed": true
+        },
+        {
+          "check": "the-connector-cincinnati-streetcar permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "the-connector-cincinnati-streetcar untouched",
+          "passed": true
+        },
+        {
+          "check": "truist-arena permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "truist-arena untouched",
+          "passed": true
+        },
+        {
+          "check": "vent-haven-museum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "vent-haven-museum untouched",
+          "passed": true
+        },
+        {
+          "check": "winton-woods permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "winton-woods untouched",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium untouched",
+          "passed": true
+        },
+        {
+          "check": "molly-malones-covington permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "molly-malones-covington untouched",
+          "passed": true
+        },
+        {
+          "check": "smoke-justis permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "smoke-justis untouched",
+          "passed": true
+        },
+        {
+          "check": "falcon-theatre permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "falcon-theatre untouched",
+          "passed": true
+        },
+        {
+          "check": "southgate-house-revival permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "southgate-house-revival untouched",
+          "passed": true
+        },
+        {
+          "check": "amc-newport-on-the-levee-20 permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "amc-newport-on-the-levee-20 untouched",
+          "passed": true
+        },
+        {
+          "check": "go-bananas-comedy-club permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "go-bananas-comedy-club untouched",
+          "passed": true
+        },
+        {
+          "check": "ark-encounter permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "ark-encounter untouched",
+          "passed": true
+        },
+        {
+          "check": "kings-island permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "kings-island untouched",
+          "passed": true
+        },
+        {
+          "check": "krohn-conservatory permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "krohn-conservatory untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-reds-hall-of-fame-and-museum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-reds-hall-of-fame-and-museum untouched",
+          "passed": true
+        },
+        {
+          "check": "devou-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "devou-park untouched",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-erlanger-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-erlanger-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-independence-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-independence-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park untouched",
+          "passed": true
+        },
+        {
+          "check": "eden-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "eden-park untouched",
+          "passed": true
+        },
+        {
+          "check": "ault-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "ault-park untouched",
+          "passed": true
+        },
+        {
+          "check": "washington-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "washington-park untouched",
+          "passed": true
+        },
+        {
+          "check": "fountain-square permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "fountain-square untouched",
+          "passed": true
+        },
+        {
+          "check": "memorial-hall-otr permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "memorial-hall-otr untouched",
+          "passed": true
+        },
+        {
+          "check": "andrew-j-brady-music-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "andrew-j-brady-music-center untouched",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-ballet-center-for-dance permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-ballet-center-for-dance untouched",
+          "passed": true
+        },
+        {
+          "check": "nippert-stadium permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "nippert-stadium untouched",
+          "passed": true
+        },
+        {
+          "check": "fifth-third-arena permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "fifth-third-arena untouched",
+          "passed": true
+        },
+        {
+          "check": "everybodys-treehouse-mt-airy-forest permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "everybodys-treehouse-mt-airy-forest untouched",
+          "passed": true
+        },
+        {
+          "check": "bettman-nature-preserve permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "bettman-nature-preserve untouched",
+          "passed": true
+        },
+        {
+          "check": "burnet-woods-trailside-nature-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "burnet-woods-trailside-nature-center untouched",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-fairfield permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-fairfield untouched",
+          "passed": true
+        },
+        {
+          "check": "great-wolf-lodge-mason permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "great-wolf-lodge-mason untouched",
+          "passed": true
+        },
+        {
+          "check": "fitton-center-for-creative-arts permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "fitton-center-for-creative-arts untouched",
+          "passed": true
+        },
+        {
+          "check": "kenwood-towne-centre permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "kenwood-towne-centre untouched",
+          "passed": true
+        },
+        {
+          "check": "voice-of-america-metropark permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "voice-of-america-metropark untouched",
+          "passed": true
+        },
+        {
+          "check": "heritage-village-museum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "heritage-village-museum untouched",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority untouched",
+          "passed": true
+        },
+        {
+          "check": "ohio-renaissance-festival permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "ohio-renaissance-festival untouched",
+          "passed": true
+        },
+        {
+          "check": "nku-fine-arts-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "nku-fine-arts-center untouched",
+          "passed": true
+        },
+        {
+          "check": "middleton-mills-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "middleton-mills-park untouched",
+          "passed": true
+        },
+        {
+          "check": "giles-conrad-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "giles-conrad-park untouched",
+          "passed": true
+        },
+        {
+          "check": "central-park-boone-county-arboretum permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "central-park-boone-county-arboretum untouched",
+          "passed": true
+        },
+        {
+          "check": "licking-river-greenway-trails permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "licking-river-greenway-trails untouched",
+          "passed": true
+        },
+        {
+          "check": "campbell-county-public-library-newport-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "campbell-county-public-library-newport-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-chapin-memorial permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-chapin-memorial untouched",
+          "passed": true
+        },
+        {
+          "check": "woodward-theater permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "woodward-theater untouched",
+          "passed": true
+        },
+        {
+          "check": "lindner-family-tennis-center-cincinnati-open permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "lindner-family-tennis-center-cincinnati-open untouched",
+          "passed": true
+        },
+        {
+          "check": "mariemont-players-walton-creek-theater permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "mariemont-players-walton-creek-theater untouched",
+          "passed": true
+        },
+        {
+          "check": "summit-park-blue-ash permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "summit-park-blue-ash untouched",
+          "passed": true
+        },
+        {
+          "check": "rhinegeist-brewery permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "rhinegeist-brewery untouched",
+          "passed": true
+        },
+        {
+          "check": "boone-cliffs-state-nature-preserve permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "boone-cliffs-state-nature-preserve untouched",
+          "passed": true
+        },
+        {
+          "check": "campbell-county-public-library-cold-spring-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "campbell-county-public-library-cold-spring-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "price-hill-branch-library permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "price-hill-branch-library untouched",
+          "passed": true
+        },
+        {
+          "check": "leblond-recreation-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "leblond-recreation-center untouched",
+          "passed": true
+        },
+        {
+          "check": "walmart-supercenter-fort-wright permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "walmart-supercenter-fort-wright untouched",
+          "passed": true
+        },
+        {
+          "check": "findlay-market permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "findlay-market untouched",
+          "passed": true
+        },
+        {
+          "check": "target-newport permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "target-newport untouched",
+          "passed": true
+        },
+        {
+          "check": "florence-mall permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "florence-mall untouched",
+          "passed": true
+        },
+        {
+          "check": "ikea-west-chester permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "ikea-west-chester untouched",
+          "passed": true
+        },
+        {
+          "check": "ikea-florence-plan-and-order-point permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "ikea-florence-plan-and-order-point untouched",
+          "passed": true
+        },
+        {
+          "check": "publix-farmview-commons permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "publix-farmview-commons untouched",
+          "passed": true
+        },
+        {
+          "check": "galaxie-covington permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "galaxie-covington untouched",
+          "passed": true
+        },
+        {
+          "check": "brkthrough-cincinnati-kenwood permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "brkthrough-cincinnati-kenwood untouched",
+          "passed": true
+        },
+        {
+          "check": "hofbrauhaus-newport permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "hofbrauhaus-newport untouched",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-government-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-government-center untouched",
+          "passed": true
+        },
+        {
+          "check": "uc-campus-recreation-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "uc-campus-recreation-center untouched",
+          "passed": true
+        },
+        {
+          "check": "dunham-recreation-complex permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "dunham-recreation-complex untouched",
+          "passed": true
+        },
+        {
+          "check": "symphony-hotel-bar permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "symphony-hotel-bar untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-premium-outlets permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-premium-outlets untouched",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-latonia-branch permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-latonia-branch untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-city-hall permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-city-hall untouched",
+          "passed": true
+        },
+        {
+          "check": "mt-auburn-indoor-pool permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "mt-auburn-indoor-pool untouched",
+          "passed": true
+        },
+        {
+          "check": "sams-club-florence permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "sams-club-florence untouched",
+          "passed": true
+        },
+        {
+          "check": "hamilton-county-courthouse permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "hamilton-county-courthouse untouched",
+          "passed": true
+        },
+        {
+          "check": "fresh-thyme-market-newport permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "fresh-thyme-market-newport untouched",
+          "passed": true
+        },
+        {
+          "check": "golden-lamb permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "golden-lamb untouched",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-recycling-reuse-hub permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-recycling-reuse-hub untouched",
+          "passed": true
+        },
+        {
+          "check": "price-hill-recreation-center-dempsey-pool permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "price-hill-recreation-center-dempsey-pool untouched",
+          "passed": true
+        },
+        {
+          "check": "oxford-aquatic-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "oxford-aquatic-center untouched",
+          "passed": true
+        },
+        {
+          "check": "mamas-on-main permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "mamas-on-main untouched",
+          "passed": true
+        },
+        {
+          "check": "blue-ash-recreation-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "blue-ash-recreation-center untouched",
+          "passed": true
+        },
+        {
+          "check": "sharonville-community-center-aquatic-center permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "sharonville-community-center-aquatic-center untouched",
+          "passed": true
+        },
+        {
+          "check": "tousey-house-tavern permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "tousey-house-tavern untouched",
+          "passed": true
+        },
+        {
+          "check": "aj-jolly-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "aj-jolly-park untouched",
+          "passed": true
+        },
+        {
+          "check": "pendery-park permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "pendery-park untouched",
+          "passed": true
+        },
+        {
+          "check": "moon-bridge-yoga permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "moon-bridge-yoga untouched",
+          "passed": true
+        },
+        {
+          "check": "nolia-kitchen permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "nolia-kitchen untouched",
+          "passed": true
+        },
+        {
+          "check": "new-riff-distilling permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "new-riff-distilling untouched",
+          "passed": true
+        },
+        {
+          "check": "braxton-brewing-covington permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "braxton-brewing-covington untouched",
+          "passed": true
+        },
+        {
+          "check": "riverside-mainstrasse-village-food-tour permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "riverside-mainstrasse-village-food-tour untouched",
+          "passed": true
+        },
+        {
+          "check": "freestore-foodbank-liberty-street-market permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation untouched",
+          "passed": true
+        },
+        {
+          "check": "clermont-transportation-connection-dial-a-ride permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "clermont-transportation-connection-dial-a-ride untouched",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate permanent IDs and history prefixes",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate untouched",
+          "passed": true
+        },
+        {
+          "check": "src/data/access-photos.json prior entries unchanged",
+          "passed": true
+        },
+        {
+          "check": "src/data/access-guides.json prior entries unchanged",
+          "passed": true
+        },
+        {
+          "check": "american-sign-museum full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "aronoff-center-for-the-arts full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "big-bone-lick-state-historic-site full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "bogarts full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-florence-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-hebron-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-main-library full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-scheben-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-walton-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-woods-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-art-museum full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-metro-and-access-paratransit full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-museum-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-music-hall full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-nature-center-rowe-woods full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-observatory full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-playhouse-in-the-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-zoo-botanical-garden full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-northern-kentucky-international-airport-cvg full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "contemporary-arts-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "dinsmore-homestead full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "downtown-main-library full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "ensemble-theatre-cincinnati full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "florence-family-aquatic-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "great-american-ball-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "heritage-bank-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-covington-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "megacorp-pavilion full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "national-underground-railroad-freedom-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "newport-aquarium full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "northern-kentucky-convention-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "paycor-stadium full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "pyramid-hill-sculpture-park-museum full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "riverbend-music-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "sharon-woods full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "tank-transit-authority-of-northern-kentucky full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "tql-stadium full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "taft-museum-of-art full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "taft-theatre full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "the-carnegie full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "the-connector-cincinnati-streetcar full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "truist-arena full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "vent-haven-museum full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "winton-woods full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "molly-malones-covington full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "smoke-justis full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "falcon-theatre full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "southgate-house-revival full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "amc-newport-on-the-levee-20 full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "go-bananas-comedy-club full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "ark-encounter full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "kings-island full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "krohn-conservatory full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-reds-hall-of-fame-and-museum full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "devou-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-erlanger-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-independence-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "eden-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "ault-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "washington-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "fountain-square full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "memorial-hall-otr full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "andrew-j-brady-music-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-ballet-center-for-dance full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "nippert-stadium full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "fifth-third-arena full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "everybodys-treehouse-mt-airy-forest full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "bettman-nature-preserve full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "burnet-woods-trailside-nature-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-fairfield full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "great-wolf-lodge-mason full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "fitton-center-for-creative-arts full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "kenwood-towne-centre full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "voice-of-america-metropark full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "heritage-village-museum full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "ohio-renaissance-festival full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "nku-fine-arts-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "middleton-mills-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "giles-conrad-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "central-park-boone-county-arboretum full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "licking-river-greenway-trails full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "campbell-county-public-library-newport-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-county-public-library-chapin-memorial full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "woodward-theater full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "lindner-family-tennis-center-cincinnati-open full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "mariemont-players-walton-creek-theater full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "summit-park-blue-ash full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "rhinegeist-brewery full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "boone-cliffs-state-nature-preserve full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "campbell-county-public-library-cold-spring-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "price-hill-branch-library full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "leblond-recreation-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "walmart-supercenter-fort-wright full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "findlay-market full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "target-newport full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "florence-mall full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "ikea-west-chester full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "ikea-florence-plan-and-order-point full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "publix-farmview-commons full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "galaxie-covington full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "brkthrough-cincinnati-kenwood full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "hofbrauhaus-newport full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-government-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "uc-campus-recreation-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "dunham-recreation-complex full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "symphony-hotel-bar full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-premium-outlets full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "kenton-county-public-library-latonia-branch full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-city-hall full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "mt-auburn-indoor-pool full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "sams-club-florence full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "hamilton-county-courthouse full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "fresh-thyme-market-newport full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "golden-lamb full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-recycling-reuse-hub full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "price-hill-recreation-center-dempsey-pool full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "oxford-aquatic-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "mamas-on-main full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "blue-ash-recreation-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "sharonville-community-center-aquatic-center full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "tousey-house-tavern full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "aj-jolly-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "pendery-park full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "moon-bridge-yoga full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "nolia-kitchen full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "new-riff-distilling full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "braxton-brewing-covington full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "riverside-mainstrasse-village-food-tour full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "clermont-transportation-connection-dial-a-ride full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate full review date unchanged",
+          "passed": true
+        },
+        {
+          "check": "Liberty Street depth only full date unchanged",
+          "passed": true
+        },
+        {
+          "check": "Cincinnati Shakespeare partial review full date unchanged",
+          "passed": true
+        },
+        {
+          "check": "Creation Museum partial review full date unchanged",
+          "passed": true
+        },
+        {
+          "check": "unreviewed source baselines unchanged",
+          "passed": true
+        }
+      ]
+    },
+    "guideFreshFetch": {
+      "status": 200,
+      "bytes": 1920227,
+      "sha256": "6bdb2cc52e80a2fef5fd6c3cfd8720cd5536b1bc977cc8071f51ed9756689feb",
+      "matchesInspectedFile": true
+    },
+    "diffWhitespace": {
+      "command": "git diff --check",
+      "exitCode": 0
+    },
+    "conflictMarkers": {
+      "found": 0
+    },
+    "quoteCommentRegression": {
+      "testsAdded": 4,
+      "encodedCommentProbe": "Initially reproduced false match; fixed before final evidence revalidation.",
+      "scriptExecution": false
+    },
+    "additionalPreservation": {
+      "unrelatedQuoteRecordsUnchanged": true,
+      "unreviewedFindingsAndMissingQuotesUnchanged": true
+    }
+  },
+  "reviewedFactSourceUrls": [
+    "https://chpl.org/accessibility-services/",
+    "https://chpl.org/locations/ha/",
+    "https://chpl.org/outreach/",
+    "https://chpl.org/welcome/",
+    "https://creationmuseum.org/accessibility/",
+    "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+    "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+    "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+    "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+    "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+    "https://freestorefoodbank.org/",
+    "https://freestorefoodbank.org/bea-taylor-market/",
+    "https://www.cincyshakes.com/your-visit/seating",
+    "https://www.greatparks.org/about/accessibility",
+    "https://www.greatparks.org/about/policies/privately-owned-watercraft-regulations",
+    "https://www.greatparks.org/parks/miami-whitewater-forest",
+    "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+    "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-visitor-center",
+    "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
+    "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail",
+    "https://www.ludlowgaragecincinnati.com/faqs/"
+  ],
+  "limits": [
+    "Quote matching establishes passage presence; clause/scope/date review was editorial.",
+    "Historical photos do not verify current operation, dimensions or continuous routes.",
+    "No whole-catalog source refresh or legacy comment audit claimed.",
+    "Runner must complete its test suite and atomic publication; agent-side browser launch remained blocked."
+  ],
+  "totals": {
+    "places": 145,
+    "activeNotes": 1358,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1075,
+    "missingPassages": 283,
+    "newNotes": 41,
+    "newVenues": 1,
+    "fullVenueReviews": 4,
+    "partialOldNoteVenueReviews": 2,
+    "oldNotesReviewed": 27,
+    "oldNotesRevised": 9,
+    "oldNotesUnchanged": 18,
+    "previouslyUnquotedBackfilled": 24,
+    "licensedPhotosAdded": 2,
+    "linkedGuidesAdded": 1
+  },
+  "preparedAtUtc": "2026-11-13T04:56:46.040257+00:00"
+}

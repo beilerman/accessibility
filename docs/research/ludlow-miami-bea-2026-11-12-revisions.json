@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ludlow-garage.chronic.2",
+    "text": "At general-admission shows, some seats are often (not always) left at the very rear, first come, first served throughout the concert; none are assigned or guaranteed. There is no food service in the concert venue.",
+    "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+    "quote": [
+      "We often (but not always) leave in some seats in the very rear of the venue. These are first come first serve throughout the concert. There are no assigned or guaranteed seating.",
+      "There is no food service in the venue."
+    ],
+    "reason": "Replace an unsupported seat-quantity description with the source’s some seats; retain throughout-concert and no-guarantee conditions and separate food-service support."
+  },
+  {
+    "id": "miami-whitewater-forest.mobility.1",
+    "text": "Great Parks describes a floating canoe/kayak launch at Miami Whitewater Forest Harbor with a bench that slides over a railing system for transfer into a boat. Confirm its operation and the assistance you need before visiting.",
+    "url": "https://www.greatparks.org/about/accessibility",
+    "quote": [
+      "Two accessible canoe/kayak launches, which meet requirements of the Americans with Disabilities Act (ADA), are located at Miami Whitewater Forest , Sharon Woods and Winton Woods harbors.",
+      "Each launch is a floating dock equipped with a \"Universally Accessible Transfer System\" that allows an unassisted individual with a physical disability to access a canoe or kayak. It consists of a bench that slides over onto a railing system that allows the individual to sit down into a canoe or kayak."
+    ],
+    "reason": "Attribute the equipment description and avoid treating the publisher’s unassisted-transfer claim as an individual suitability guarantee; inconsistent launch count is not repeated."
+  },
+  {
+    "id": "miami-whitewater-forest.cognitive.1",
+    "text": "Great Parks says it will make every effort, with two weeks’ advance notice, to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD) about program access.",
+    "url": "https://www.greatparks.org/about/accessibility",
+    "quote": "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs . People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD.",
+    "reason": "Restore the make-every-effort condition; two weeks’ notice is not a guarantee of accommodation."
+  },
+  {
+    "id": "miami-whitewater-forest.mobility.4",
+    "text": "The park page posts Shaker Trace Inner and Outer Loop paving for November 2–20, without a year in the alert. It describes a new 2-inch asphalt overlay and temporary section closures, with other sections kept open when possible and detour signs at intersections, crossings and access points. Check current closures before travelling.",
+    "url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+    "quote": "From November 2 - 20, contractors will be paving the Shaker Trace Trail Inner & Outer Loop at Miami Whitewater Forest. Work includes repairing deteriorated subgrade and stone base where needed and installing a new 2-inch asphalt surface overlay along the trail. Sections of the trail will be temporarily closed during repairs and paving. Work will be phased to allow other sections to remain open for visitor use whenever possible. Detour and informational signage will be placed at trail intersections, road crossings, and trail access points.",
+    "reason": "Replace an open-ended works claim with the posted date range, missing-year boundary and phased-closure conditions; do not infer completion."
+  }
+]

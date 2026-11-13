@@ -168,18 +168,29 @@ def fingerprint(html: str) -> str:
 def quote_text(raw: str) -> str:
     """Normalize a page (or a quote) for exact-substring quote matching.
 
-    Tags are dropped but script contents are kept, because some sites ship
-    their copy as JSON. Typographic quotes and dashes are flattened so a
+    HTML comments are excluded: retained drafts and old hours are not public
+    supporting evidence. Tags are dropped but script contents are kept, because
+    some sites ship their copy as JSON. Typographic quotes and dashes are flattened so a
     curly apostrophe never reads as a content change.
     """
     # Match readable passages in JSON-rendered pages too: a source may
     # encode paragraph breaks as literal \\n rather than HTML whitespace.
     # Keep the original representation for existing quotes, and append
     # decoded prose without executing any page scripts.
-    if "<script" in raw.lower():
-        raw += " " + script_prose(raw)
+    raw = re.sub(r"<!--.*?(?:-->|$)", " ", raw, flags=re.DOTALL)
+    # Decode comment delimiters before collecting script prose, too. Otherwise
+    # a script inside an encoded comment could be appended outside that comment
+    # and survive the later removal pass.
+    script_input = raw
     for _ in range(3):
-        raw = re.sub(r"<[^>]+>", " ", html_lib.unescape(raw))
+        script_input = html_lib.unescape(script_input)
+        script_input = re.sub(r"<!--.*?(?:-->|$)", " ", script_input, flags=re.DOTALL)
+    if "<script" in script_input.lower():
+        raw += " " + script_prose(script_input)
+    for _ in range(3):
+        raw = html_lib.unescape(raw)
+        raw = re.sub(r"<!--.*?(?:-->|$)", " ", raw, flags=re.DOTALL)
+        raw = re.sub(r"<[^>]+>", " ", raw)
     for a, b in (("\u00a0", " "), ("\u2019", "'"), ("\u2018", "'"), ("\u201c", '"'), ("\u201d", '"'), ("\u2013", "-"), ("\u2014", "-")):
         raw = raw.replace(a, b)
     return re.sub(r"\s+", " ", raw)

@@ -1,0 +1,652 @@
+{
+  "date": "2026-11-12",
+  "scope": "Visual inspection of source photographs, selected full originals/outputs, and rendered PDF pages; no venue visit or browser layout inspection.",
+  "counts": {
+    "standalonePhotographCandidatesInspected": 61,
+    "commons": 8,
+    "greatParksOfficial": 8,
+    "harrisonOfficial": 1,
+    "louSupplier": 22,
+    "embeddedLaunchPhotoAdditional": 1,
+    "pdfPagesInspected": 15,
+    "licensedAdded": 2,
+    "linkedPdfGuidesAdded": 1,
+    "aiGenerated": 0,
+    "creationStoryWorkingImages": 22
+  },
+  "selected": [
+    {
+      "id": "miami-whitewater-exercise-station-2013",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exercise_station_on_Shaker_Trace.jpeg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Exercise_station_on_Shaker_Trace.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quadell",
+      "license": "CC BY-SA 3.0",
+      "photoDate": "2013-05-12",
+      "originalSha256": "0f9137f81649daeee6302277db4bc90efa9d3b87635290aa6fbffc35d34a7f3e",
+      "outputSha256": "2703c5957cd5bc43954653af9117eaf5bb472d5e457311e152b2572fbcf6a194",
+      "originalInspected": true,
+      "outputInspected": true,
+      "transformation": "Full-frame resize to 1280 x 960 and WebP conversion only"
+    },
+    {
+      "id": "miami-whitewater-fishing-edge-2013",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miami_whitewater_fishing.jpeg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Miami_whitewater_fishing.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Quadell",
+      "license": "CC BY-SA 3.0",
+      "photoDate": "2013-05-12",
+      "originalSha256": "463dea1e7d5210175802139c9a3b9e60723a218dd3f0fc9c336a010bc7ef2ebe",
+      "outputSha256": "5ae2a06cb28b48c2f574c4b9cffbeb7fa60903ce9be571c138d8f738e977a017",
+      "originalInspected": true,
+      "outputInspected": true,
+      "transformation": "Full-frame resize to 1280 x 960 and WebP conversion only"
+    }
+  ],
+  "commonsCandidates": [
+    {
+      "title": "File:Exercise station on Shaker Trace.jpeg",
+      "pageId": 26053364,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exercise_station_on_Shaker_Trace.jpeg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Exercise_station_on_Shaker_Trace.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "photoDateSource": "12 May 2013 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+      "inspected": true,
+      "result": "Selected: exercise station, instruction panels and immediate paving."
+    },
+    {
+      "title": "File:Miami whitewater fishing.jpeg",
+      "pageId": 26053370,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miami_whitewater_fishing.jpeg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Miami_whitewater_fishing.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "photoDateSource": "12 May 2013 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+      "inspected": true,
+      "result": "Selected: waterside paved segment, low edging and fishing sign."
+    },
+    {
+      "title": "File:Miami Whitewater Forest 1.JPG",
+      "pageId": 2241391,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miami_Whitewater_Forest_1.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Miami_Whitewater_Forest_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "photoDateSource": "2007-06-10",
+      "inspected": true,
+      "result": "Held: forest/landscape view does not resolve an access gap."
+    },
+    {
+      "title": "File:Miami Whitewater Forest Prairie.jpg",
+      "pageId": 2241403,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miami_Whitewater_Forest_Prairie.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Miami_Whitewater_Forest_Prairie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "photoDateSource": "2007-06-10",
+      "inspected": true,
+      "result": "Held: landscape/grass view does not resolve entrance or toilet access."
+    },
+    {
+      "title": "File:Shaker Trace Trail 2.jpeg",
+      "pageId": 26053015,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaker_Trace_Trail_2.jpeg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Shaker_Trace_Trail_2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "photoDateSource": "12 May 2013 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+      "inspected": true,
+      "result": "Held: existing Shaker Trace photograph is already in the access collection."
+    },
+    {
+      "title": "File:Shaker trace trail.jpeg",
+      "pageId": 26053023,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaker_trace_trail.jpeg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Shaker_trace_trail.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 3.0",
+      "photoDateSource": "12 May 2013 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+      "inspected": true,
+      "result": "Held: trail/cyclist view; people prominent and little additional route evidence."
+    },
+    {
+      "title": "File:Ludlow Garage, Clifton, Cincinnati, OH (28226941798).jpg",
+      "pageId": 77979470,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ludlow_Garage,_Clifton,_Cincinnati,_OH_(28226941798).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ludlow_Garage%2C_Clifton%2C_Cincinnati%2C_OH_%2828226941798%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC0",
+      "photoDateSource": "2017-09-10 14:32",
+      "inspected": true,
+      "result": "Held: 2017 street facade; parked cars obscure the complete entrance approach."
+    },
+    {
+      "title": "File:Ludlow Garage.jpg",
+      "pageId": 113476233,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ludlow_Garage.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ludlow_Garage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "CC BY-SA 4.0",
+      "photoDateSource": "2021-12-18 18:48:10",
+      "inspected": true,
+      "result": "Held: night facade already used for venue context; no west hallway/lift view."
+    }
+  ],
+  "officialCandidates": [
+    {
+      "sourcePage": "mwf-harbor",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/ab4b97eb-8d26-47c0-99b6-b6991e7bb108/6bf380df-49ab-4ee8-b277-1f89e677ae10/ImageCarousel/TriThumb_MWF_Harbor_10_ImageCarousel.jpg?language=en",
+      "inspected": true,
+      "visible": "Harbor building blue door and paved approach",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    },
+    {
+      "sourcePage": "mwf-harbor",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/50ebc942-50b4-4f73-bd5a-e67902471e60/6bf380df-49ab-4ee8-b277-1f89e677ae10/ImageCarousel/TriThumb_MWF_Harbor_1_ImageCarousel.jpg?language=en",
+      "inspected": true,
+      "visible": "Water-edge seating and visitor",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    },
+    {
+      "sourcePage": "mwf-harbor",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/4e8dfbff-805e-4494-96fe-37fd1f325933/6bf380df-49ab-4ee8-b277-1f89e677ae10/ImageCarousel/TriThumb_MWF_Harbor_6_ImageCarousel.jpg?language=en",
+      "inspected": true,
+      "visible": "Railed gangway and dock",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    },
+    {
+      "sourcePage": "mwf-harbor",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/2ce824d4-55b8-4ad8-bfbf-21ceb891f186/6bf380df-49ab-4ee8-b277-1f89e677ae10/ImageCarousel/TriThumb_MWF_Harbor_8_ImageCarousel.jpg?language=en",
+      "inspected": true,
+      "visible": "Railed path beside water",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    },
+    {
+      "sourcePage": "mwf-nursery",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/0daa141c-92aa-447f-978d-3d6fe345dc33/6bf380df-49ab-4ee8-b277-1f89e677ae10/STSN_New_TB_3.avif?language=en",
+      "inspected": true,
+      "visible": "Nursery glazed entrance and paving",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    },
+    {
+      "sourcePage": "mwf-nursery",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/bdf29a7e-c11b-43f6-8c2e-e7d971f0446d/6bf380df-49ab-4ee8-b277-1f89e677ae10/ImageCarousel/202606_STN_drone-8_ImageCarousel.avif?language=en",
+      "inspected": true,
+      "visible": "Nursery garden aerial view with people",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    },
+    {
+      "sourcePage": "accessibility",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/4afceda3-5d94-4aad-b24e-13521e0fe536/6bf380df-49ab-4ee8-b277-1f89e677ae10/Promo_TextSectionImage/accessibility_1_Promo_TextSectionImage.jpg?language=en",
+      "inspected": true,
+      "visible": "Kayaks beside transfer-dock area; exact park not established from image alone",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    },
+    {
+      "sourcePage": "accessibility",
+      "imageUrl": "https://www.greatparks.org/getContentAsset/e805bc39-b80e-4fac-944d-7449fcbff669/6bf380df-49ab-4ee8-b277-1f89e677ae10/Miami-Whitewater-Shaker-Trace-Outer-Loop-Trail.avif?language=en",
+      "inspected": true,
+      "visible": "Shaker Trace bicyclists on trail",
+      "result": "Held for reuse: no explicit reuse licence established; capture date unknown. Original source page retained in research."
+    }
+  ],
+  "harrison": {
+    "sourcePage": "https://chpl.org/locations/ha/",
+    "imageUrl": "https://cincinnatilibrary.bibliocommons.com/events/uploads/images/full/d9acd9728063ac85cc92e5972646af26/HarrisonBranchLibrary-Exterior.jpg",
+    "inspected": true,
+    "visible": "Glazed sliding entrance, paved approach, picnic tables, bollards and right-side vehicle lane/drive-through window.",
+    "result": "Held: no reuse licence or capture date established; no complete arrival or indoor route shown."
+  },
+  "louSupplierGallery": {
+    "sourceUrl": "https://www.miracle-recreation.com/galleries/photos/",
+    "locationLabel": "Lou Hartfiel Memorial Park, Crescent Springs, KY",
+    "galleryId": 90143,
+    "fetchStatus": 200,
+    "captureDate": "Unknown; filenames include 2025 and upload path 2026/01, neither treated as an exact capture date.",
+    "usefulViews": {
+      "MREC_2025_KY_Lou-Hartfiel_0273.jpg": "Overhead fenced playground, shade, shelter tables and surrounding paths. Full original inspected. Does not establish full route, slopes or toilets.",
+      "MREC_2025_KY_Lou-Hartfiel_0180.jpg": "Glider platform/edge, benches and adjoining railed approach. Full original inspected; no dimensions or operating procedure inferred.",
+      "MREC_2025_KY_Lou-Hartfiel_0391.jpg": "Railed metal approach with prominent children; full original inspected, no width/slope inference.",
+      "MREC_2025_KY_Lou-Hartfiel_0109.jpg": "Low play panel beneath elevated structure.",
+      "MREC_2025_KY_Lou-Hartfiel_0221.jpg": "Bench occupied by adults and children."
+    },
+    "images": [
+      {
+        "id": 90144,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0020.jpg",
+        "width": 2000,
+        "height": 1333,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90148,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0039.jpg",
+        "width": 2000,
+        "height": 1333,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90150,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0050.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90146,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0027.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90152,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0066.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90154,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0079.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90156,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0091.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90158,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0109.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90160,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0145.jpg",
+        "width": 2000,
+        "height": 1488,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90162,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0158.jpg",
+        "width": 2000,
+        "height": 1333,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90166,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0186.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90168,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0209.jpg",
+        "width": 2000,
+        "height": 1333,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90172,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0260.jpg",
+        "width": 2000,
+        "height": 1333,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90174,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0273.jpg",
+        "width": 2000,
+        "height": 1332,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90176,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0303-2.jpg",
+        "width": 2000,
+        "height": 1548,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90178,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0353.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90180,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0391.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90182,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0445.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90164,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0180.jpg",
+        "width": 2000,
+        "height": 1333,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90184,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_1077.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90170,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_0221.jpg",
+        "width": 2000,
+        "height": 1333,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      },
+      {
+        "id": 90186,
+        "url": "https://www.miracle-recreation.com/content/uploads/2026/01/MREC_2025_KY_Lou-Hartfiel_1102.jpg",
+        "width": 1333,
+        "height": 2000,
+        "downloaded": true,
+        "inspected": true,
+        "result": "Held: supplier promotional photograph, no reuse licence or exact capture date confirmed; prominent people in many views."
+      }
+    ],
+    "result": "Preserved original gallery link and useful views for follow-up; not republished and not forced into the PDF-only guide model."
+  },
+  "followedPhotographer": {
+    "photoUrl": "https://www.flickr.com/photos/warrenlemay/28226941798/",
+    "streamUrl": "https://www.flickr.com/photos/warrenlemay/with/28226941798/",
+    "fetchStatus": 200,
+    "result": "Credited source and stream followed; no additional confirmed west hallway/lift photograph found."
+  },
+  "blocked": [
+    {
+      "url": "https://crescent-springs.ky.us/IMG_0686_Original.JPG?t=202601291132100",
+      "status": 403,
+      "inspected": false
+    },
+    {
+      "url": "https://crescent-springs.ky.us/IMG_0686_Original.JPG",
+      "status": 403,
+      "inspected": false
+    }
+  ],
+  "remainingGaps": [
+    "Ludlow west Ace Hardware hallway, lift platform and toilet approach",
+    "Miami Whitewater current parking-to-launch route, launch controls, winter toilet entry/layout",
+    "Harrison entrance-to-desk/toilet route and drive-through controls/clearance",
+    "Lou park arrival-to-playground route, toilet interior and current operating instructions",
+    "Bea Taylor entrance, waiting/seating, toilets and carrying-help arrangements"
+  ],
+  "pdfs": [
+    {
+      "file": "greatparks-2016",
+      "pages": 9,
+      "bytes": 1920227,
+      "sha256": "6bdb2cc52e80a2fef5fd6c3cfd8720cd5536b1bc977cc8071f51ed9756689feb",
+      "inspection": "Linked historical launch photograph; all pages reviewed as a rendered contact sheet, page 6 separately at larger size."
+    },
+    {
+      "file": "bea-holiday-2026",
+      "pages": 2,
+      "bytes": 630143,
+      "sha256": "6ad5f732458a87ccae52f6421decfae42791595696f29a8b9f88b74fde7a33bc",
+      "inspection": "English and Spanish holiday flyer, both pages rendered and inspected; hours conflict preserved."
+    },
+    {
+      "file": "liberty-holiday-2026",
+      "pages": 2,
+      "bytes": 803453,
+      "sha256": "729308c94b5af161f6e42144d67ff8a94c28c27c16fbfb8d4b360d302c8fb81f",
+      "inspection": "English and Spanish holiday flyer, both pages rendered and inspected."
+    },
+    {
+      "file": "lou-rules",
+      "pages": 2,
+      "bytes": 406684,
+      "sha256": "13407e577fb53ee177c07ebe7b3de2bbca707726da8c8c7b102a5644e815c2d7",
+      "inspection": "Both pages rendered and inspected; revision 20260129."
+    }
+  ],
+  "creationSocialStory": {
+    "sourceUrl": "https://creationmuseum.org/accessibility/social-story/",
+    "sourceStatus": 200,
+    "imageEntries": 23,
+    "workingInspected": 22,
+    "failed": 1,
+    "images": [
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_Parking.png",
+        "alt": "Creation Museum Parking Lot Entrance",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_WelcomeCenter.png",
+        "alt": "Welcome Center",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_Gardens.png",
+        "alt": "Garden Area",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-playground.png",
+        "alt": "Playground",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_Zoo.png",
+        "alt": "Creation Zoo",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-conservatory.png",
+        "alt": "Conservatory",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_Entrance.png",
+        "alt": "Creation Museum Entrance",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-guest-services.png",
+        "alt": "Portico/Fair Trade",
+        "downloaded": false,
+        "inspected": false,
+        "status": 404
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_Planetarium.png",
+        "alt": "Planetarium",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2605_SocialStory_SprigStone.jpg",
+        "alt": "Sprig and Stone Casual Dining",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_SpecialEffectsTheater.png",
+        "alt": "Special Effects Theater",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-starting-points.png",
+        "alt": "Starting Points",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-biblical-authority.png",
+        "alt": "Biblical Authority",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-relevance.png",
+        "alt": "Relevance Room",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-creation-walk.png",
+        "alt": "Creation Walk",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-cave-of-sorrows.png",
+        "alt": "Cave of Sorrows",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-corruption.png",
+        "alt": "Corruption Valley",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-legacy-hall.png",
+        "alt": "Legacy Hall",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-borderlands.png",
+        "alt": "Borderland",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-fearfully-wonderfully-made.png",
+        "alt": "Fearfully and Wonderfully Made",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-dino-den.png",
+        "alt": "Dino Den",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/ss-bookstore.png",
+        "alt": "Dragon Hall Bookstore",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      },
+      {
+        "src": "https://assets.creationmuseum.org/img/pages/accessibility/2509_SocialStory_Leaving.png",
+        "alt": "Leaving the Museum",
+        "downloaded": true,
+        "inspected": true,
+        "status": 200
+      }
+    ],
+    "captureDate": "Unknown; filename prefixes are not confirmed capture dates.",
+    "usefulViews": [
+      "Welcome Center front doors/planters, no full parking connection; documentary capture/retouch history unconfirmed.",
+      "Special Effects Theater rows, side aisles and illuminated steps; no wheelchair-bay dimensions or complete entrance route.",
+      "Sprig and Stone tables, queue stanchions and broad interior floor; no measured clearances.",
+      "Zoo paved area and gates, conservatory path, exhibit light/dark transitions, Legacy Hall seating and bookstore."
+    ],
+    "fullSizeAdditionalInspections": [
+      "Welcome Center",
+      "Special Effects Theater",
+      "Sprig and Stone Casual Dining"
+    ],
+    "result": "Held for reuse: no reuse licence established. Preserve original HTML social-story link for next full venue review and a tested HTML guide-link convention. No screenshot/rendering is accepted as documentary access evidence. Portico/Fair Trade image returned 404 and was not inspected."
+  },
+  "otherHeldLinks": [
+    {
+      "sourceUrl": "https://freestorefoodbank.org/bea-taylor-market/",
+      "videoUrl": "https://www.youtube.com/watch?v=wWeAGWh1YYQ",
+      "result": "Embedded official-page video discovered; watch-page fetch throttled and video not visually inspected. No walkthrough claim."
+    }
+  ]
+}

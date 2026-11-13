@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "freestore-foodbank-bea-taylor-market",
+    "name": "Freestore Foodbank — Bea Taylor Market",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Public services",
+    "address": "3401 Rosenthal Way, Cincinnati, OH 45204",
+    "website": "https://freestorefoodbank.org/bea-taylor-market/",
+    "source_url": "https://freestorefoodbank.org/bea-taylor-market/",
+    "limitations": "Public website information; no on-site audit. Food-assistance procedures do not establish physical access. The entrance, parking-to-door route, automatic doors, toilets/changing facilities, queue seating and help carrying groceries remain unverified. The regular page permits choice shopping until closing; the holiday notice gives a 30-minute-earlier cutoff. Confirm the applicable date and any household-document alternatives or assistance needs before travelling. The homepage says the market reopens November 28, while the linked 2026 flyer says December 1 at 10 a.m. The flyer’s English hours end at 5 p.m. Tuesday–Friday; its Spanish page ends Tuesday–Thursday at 4:30 p.m. Regular and holiday pages also differ on documents and protein in meal boxes. These differences are unresolved; do not assume one source overrides the other.",
+    "facts": [
+      [
+        "cognitive",
+        "Bea Taylor Market is a choice pantry where families in need can choose food to suit their household. The page does not specify residency boundaries, visit-frequency limits or appointment requirements; confirm individual arrangements.",
+        "https://freestorefoodbank.org/bea-taylor-market/",
+        "venue_official",
+        null,
+        "Bea Taylor Market by Freestore Foodbank offers a choice pantry, much like a regular grocery store, to those in need. This means that families struggling to find vital nutrition can select the items that fit the needs of their family"
+      ],
+      [
+        "cognitive",
+        "The market asks visitors to bring picture ID and household verification, listing an address, birth certificate or medical card. Ask about alternatives if you cannot provide those documents.",
+        "https://freestorefoodbank.org/bea-taylor-market/",
+        "venue_official",
+        null,
+        "WHAT TO BRING Picture ID Household Verification (Address, Birth Certificate, or Medical Card)"
+      ],
+      [
+        "cognitive",
+        "Regular opening hours are Tuesday–Friday, 9 a.m.–5 p.m., and Saturday, 10 a.m.–3 p.m.; Sunday and Monday are closed. Holiday arrangements may differ.",
+        "https://freestorefoodbank.org/bea-taylor-market/",
+        "venue_official",
+        null,
+        "HOURS OF OPERATION Monday - CLOSED Tuesday - 9:00 am - 5:00 pm Wednesday - 9:00 am - 5:00 pm Thursday - 9:00 am - 5:00 pm Friday - 9:00 am - 5:00 pm Saturday - 10:00 am - 3:00 pm Sunday - CLOSED"
+      ],
+      [
+        "cognitive",
+        "The regular market page permits choice shopping until the posted closing time and asks late visitors to return the next business day. Confirm the applicable schedule before travelling.",
+        "https://freestorefoodbank.org/bea-taylor-market/",
+        "venue_official",
+        null,
+        "Choice shopping is available until posted closing time. If you miss the time, please return the next business day."
+      ],
+      [
+        "chronic",
+        "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. The page reserves protein items for customers using choice shopping; it does not promise a particular box or dietary accommodation.",
+        "https://freestorefoodbank.org/bea-taylor-market/",
+        "venue_official",
+        null,
+        "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. Protein items are exclusive to customers utilizing the choice shopping experience."
+      ],
+      [
+        "cognitive",
+        "For market enquiries, the location page lists 513-357-4600 and 3401 Rosenthal Way. Confirm entrance, waiting and carrying-help arrangements before travelling.",
+        "https://freestorefoodbank.org/bea-taylor-market/",
+        "venue_official",
+        null,
+        "CONTACT Bea Taylor Market 3401 Rosenthal Way Cincinnati, Ohio 45204 513-357-4600"
+      ],
+      [
+        "cognitive",
+        "The homepage’s holiday notice says Bea Taylor Market shopping ends 30 minutes before posted closing, with Holiday Meal boxes for later arrivals. It lists closure November 26–27 and reopening Saturday, November 28 at 10 a.m. The market dates in this notice do not print a year; confirm the applicable schedule.",
+        "https://freestorefoodbank.org/",
+        "venue_official",
+        null,
+        "HOLIDAY FOOD DISTRIBUTION Bea Taylor Market 3401 Rosenthal Way, Cincinnati, OH 45204 Tuesday-Friday 9:00 AM - 5:00 PM Saturday 10:00 AM - 3:00 PM The market will close 30 minutes prior to the posted time. Anyone coming in after wil be given a Holiday Meal box. We will be closed Thursday November 26 - Friday November 27. We will reopen on Saturday November 28 at 10 am."
+      ],
+      [
+        "cognitive",
+        "The linked 2026 holiday flyer lists Bea Taylor Market closed November 26–30, reopening Tuesday, December 1 at 10 a.m. Confirm this dated holiday schedule directly before travelling.",
+        "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "operator_official",
+        null,
+        "We will be closed Thursday November 26 - Monday November 30. We will reopen on Tuesday December 1 at 10 am."
+      ],
+      [
+        "chronic",
+        "For the November 3–25, 2026 holiday distribution period, the flyer says customers who do not wish to shop or cannot wait may receive a pre-packaged Holiday Meal Box. Its English page says arrivals after 4:30 p.m. Tuesday–Friday or 2:30 p.m. Saturday receive a holiday box and protein; holiday food is while supplies last. Confirm dietary suitability and availability.",
+        "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "operator_official",
+        null,
+        [
+          "Starting Tuesday, November 3rd through Wednesday, November 25th our customers can shop for",
+          "Customers that do not wish to shop, or cannot wait, are eligible for a pre-packaged Holiday Meal Box, or in normal months a emergency box of food.",
+          "Anyone Shopping after 4:30 P.M. Tuesday through Friday, and after 2:30 P.M. on Saturday, will receive an Holiday Meal Box and a protein.",
+          "A TURKEY OR A PROTEIN! WHILE SUPPLIES LAST!"
+        ]
+      ],
+      [
+        "cognitive",
+        "The 2026 holiday flyer asks for photo ID and says income is self-declared. Confirm the documents needed for your visit.",
+        "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "operator_official",
+        null,
+        "Please bring Photo ID, income is determined by self-declaration."
+      ]
+    ]
+  }
+]

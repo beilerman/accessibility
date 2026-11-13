@@ -1,0 +1,606 @@
+[
+  {
+    "slug": "cincinnati-shakespeare-company",
+    "facts": [
+      {
+        "id": "cincinnati-shakespeare-company.mobility.3",
+        "domain": "mobility",
+        "text": "The seating page lists three wheelchair positions (two Lower Gallery, one Upper), but also says removable Upper Gallery seats can accommodate additional wheelchairs; arrange this with the Box Office at 513-381-2273. Entry from the lobby is at Row D, with no steps to Row D seats. Floor seating added on the lowered stage requires one step down.",
+        "url": "https://www.cincyshakes.com/your-visit/seating",
+        "quote": [
+          "There are 3 Wheelchair accessible seats- 2 in the Lower Gallery and 1 in the Upper Gallery*.",
+          "There is a ramp to enter the Lower Gallery and an elevator to reach the Upper Gallery.",
+          "There will not be any stairs required as you enter the theater from the lobby. You will enter the theater at Row D on each side so the level is flat and there are no steps required to reach any seat in Row D.",
+          "All of the seats in the Upper Gallery are loose and removable so many wheelchairs could be accommodated at one time. Reach out to our Box Office at 513-381-2273 to plan your visit.",
+          "When we lower the stage, we will be adding \"Floor Seating\". These seats are all on one level and can only be reached by going down 1 step."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "creation-museum",
+    "facts": [
+      {
+        "id": "creation-museum.mobility.4",
+        "domain": "mobility",
+        "text": "The museum describes all its theaters as accessible and lists wheelchair locations and companion seats in the Special Effects Theater and Planetarium. Ask a theater attendant about reserving those spaces.",
+        "url": "https://creationmuseum.org/accessibility/",
+        "quote": "All theaters are accessible—the Special Effects Theater and the Planetarium include wheelchair locations and companion seats. See a theater attendant for more information about reserving these spaces."
+      },
+      {
+        "id": "creation-museum.chronic.2",
+        "domain": "chronic",
+        "text": "The museum describes restrooms throughout its facility and grounds as accessible and locates wheelchair-accessible drinking fountains near the main interior restrooms; it does not give fixture dimensions. Its accessibility page also says visitors may reenter the exhibits at any time.",
+        "url": "https://creationmuseum.org/accessibility/",
+        "quote": [
+          "All restrooms throughout the facility and grounds are accessible. Wheelchair accessible water fountains are also available near the main interior restrooms.",
+          "Reentrance to the exhibits can be done at any time during your visit."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "harrison-branch-library",
+    "facts": [
+      {
+        "id": "harrison-branch-library.mobility.1",
+        "domain": "mobility",
+        "text": "The branch's official facility list identifies accessible facilities.",
+        "url": "https://chpl.org/locations/ha/",
+        "quote": "Facilities Accessible Facilities"
+      },
+      {
+        "id": "harrison-branch-library.chronic.1",
+        "domain": "chronic",
+        "text": "The branch lists both curbside service and a drive-through.",
+        "url": "https://chpl.org/locations/ha/",
+        "quote": "Curbside Service Drive-Thru"
+      },
+      {
+        "id": "harrison-branch-library.cognitive.1",
+        "domain": "cognitive",
+        "text": "For accessibility questions or additional accommodations, the library system lists 513-369-6968 (option 5) and accessibility@chpl.org. During a visit, it asks customers who need assistance to notify a staff member.",
+        "url": "https://chpl.org/accessibility-services/",
+        "quote": "Please call us at 513-369-6968 (Option 5) if you require any additional accommodations.If you need any assistance during your visit to the Library, please notify any staff member. If you are unable to come to the Library or have a question about our accessibility, please call 513-369-6968 (Option 5) or email us at accessibility@chpl.org"
+      },
+      {
+        "id": "harrison-branch-library.chronic.2",
+        "domain": "chronic",
+        "text": "The library mails materials anywhere in Hamilton County to people with medical disabilities.",
+        "url": "https://chpl.org/outreach/",
+        "quote": "We mail library materials throughout Hamilton County for those with medical disabilities."
+      },
+      {
+        "id": "harrison-branch-library.cognitive.2",
+        "domain": "cognitive",
+        "text": "Harrison’s branch contact is 513-369-4442 or harrison@chpl.org. Ask about the drive-through approach, curbside arrangements and the assistance you need before arriving.",
+        "url": "https://chpl.org/locations/ha/",
+        "quote": [
+          "Phone: (513) 369-4442",
+          "Email: harrison@chpl.org"
+        ]
+      },
+      {
+        "id": "harrison-branch-library.cognitive.3",
+        "domain": "cognitive",
+        "text": "Harrison lists hours of 10 a.m.–9 p.m. Monday–Thursday and 10 a.m.–6 p.m. Friday–Saturday, with Sunday closed. Check its separate holiday calendar before travelling.",
+        "url": "https://chpl.org/locations/ha/",
+        "quote": "Monday 10:00AM - 9:00PM Tuesday 10:00AM - 9:00PM Wednesday 10:00AM - 9:00PM Thursday 10:00AM - 9:00PM Friday 10:00AM - 6:00PM Saturday 10:00AM - 6:00PM Sunday Closed"
+      },
+      {
+        "id": "harrison-branch-library.cognitive.4",
+        "domain": "cognitive",
+        "text": "Harrison’s posted calendar lists all-day closures November 26 and December 24–25, 2026, and January 1, 2027. It lists a 5 p.m. early closing on December 31, 2026.",
+        "url": "https://chpl.org/locations/ha/",
+        "quote": "Thanksgiving Day Thursday, November 26, 2026 Closed All Day Christmas Eve Thursday, December 24, 2026 Closed All Day Christmas Day Friday, December 25, 2026 Closed All Day New Year's Eve Thursday, December 31, 2026 Closes early: 5:00pm New Year's Day Friday, January 1, 2027 Closed All Day"
+      },
+      {
+        "id": "harrison-branch-library.chronic.3",
+        "domain": "chronic",
+        "text": "CHPL’s current welcome page says outdoor book drops at all its libraries accept returns 24 hours a day, and branch drive-through windows operate during regular service hours. It does not give Harrison’s slot height, vehicle clearance or reachable controls.",
+        "url": "https://chpl.org/welcome/",
+        "quote": [
+          "Book drops, outside all of our libraries, are available to drop off returned materials 24 hours a day.",
+          "Several branch libraries have drive-thru windows that are open during regular service hours."
+        ]
+      },
+      {
+        "id": "harrison-branch-library.sensory.1",
+        "domain": "sensory",
+        "text": "CHPL offers book-club service for its door-to-door and mail customers, with selections tailored to their needs and an emphasis on large print and audiobooks. Contact Outreach to discuss arrangements.",
+        "url": "https://chpl.org/outreach/",
+        "quote": "Book club service is available for our door-to-door and mail customers. We tailor our selections to your needs with a focus on large print and audiobooks."
+      }
+    ]
+  },
+  {
+    "slug": "lou-hartfiel-memorial-park",
+    "facts": [
+      {
+        "id": "lou-hartfiel-memorial-park.mobility.1",
+        "domain": "mobility",
+        "text": "The city describes an inclusive playground designed for children of all abilities, with accessible equipment. Its page does not date the installation or describe a complete parking-to-play route.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "quote": "A recent improvement to the park is the addition of a fully inclusive, ADA-compliant playground . The playground was designed to accommodate children of all abilities and includes accessible equipment and sensory features that encourage inclusive play in a safe and welcoming environment."
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.sensory.1",
+        "domain": "sensory",
+        "text": "The inclusive playground includes sensory features.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "quote": "The playground was designed to accommodate children of all abilities and includes accessible equipment and sensory features that encourage inclusive play in a safe and welcoming environment."
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.mobility.2",
+        "domain": "mobility",
+        "text": "The 1.5-mile walking and nature trail has both paved and wood chip surfaces.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "quote": "Additional amenities include a 1.5-mile walking and nature trail with both paved and wood chip surfaces"
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.chronic.1",
+        "domain": "chronic",
+        "text": "Picnic tables and grills are located throughout the park, and three shelters are available for public use.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/index.php",
+        "quote": "picnic tables and grills located throughout the park. The park also includes three shelters available for public use."
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.chronic.2",
+        "domain": "chronic",
+        "text": "Shelter 2 is to the left when entering from Buttermilk Pike, beside the 9/11 and Kenton County Veterans memorials and near the playground and restrooms. The city lists eight picnic tables, four grills and electricity; toilet layout, changing facilities and the complete route are not described.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "quote": "Shelter #2 is located to the left when entering the Park from Buttermilk Pike, adjacent to the 9/11 Memorial and the Kenton County Veterans Memorial. It is conveniently located near the playground and restrooms and includes: Eight picnic tables Four grills Electrical service"
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.sensory.2",
+        "domain": "sensory",
+        "text": "The city describes Shelter 3, to the right when entering from Buttermilk Pike, as a quieter setting with ten picnic tables, four grills and electricity. This is the city’s description, not a measured sound level or a guarantee of quiet.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "quote": "Shelter #3 is located to the right when entering the Park from Buttermilk Pike. It offers a quieter setting and includes: Ten picnic tables Four grills Electrical service"
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.sensory.3",
+        "domain": "sensory",
+        "text": "The park rules, revised January 29, 2026, prohibit music and amplified sound in Shelter 3. They do not establish that surrounding activity will be quiet.",
+        "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "quote": [
+          "Revised 20260129",
+          "Music and amplified sound are prohibited in Shelter #3."
+        ]
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.chronic.3",
+        "domain": "chronic",
+        "text": "Shelters 2 and 3 are available to rent April–October and closed November–March. The rental page does not say this seasonal closure applies to the park’s restrooms; confirm toilet availability separately.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "quote": "Shelters #2 and #3 are available for rental April through October and are closed November through March."
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.cognitive.1",
+        "domain": "cognitive",
+        "text": "Shelter 1 cannot be rented and remains available for community use on a first-come, first-served basis. A table or shelter space is not guaranteed.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "quote": "Shelter #1 is not available for rental and remains open for community use on a first-come, first-served basis."
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.cognitive.2",
+        "domain": "cognitive",
+        "text": "Shelter reservations open at 12:01 a.m. on February 1 each year, first come, first served. Submitting the request form does not finalize a booking: a city representative must confirm availability, and full payment secures the date.",
+        "url": "https://crescent-springs.ky.us/community/lou_hartfiel_memorial_park/reserve_park_shelters.php",
+        "quote": "Reservations open at 12:01 a.m. on February 1 each year and are accepted on a first-come, first-served basis. Please complete the form below to request your preferred date. A City representative will contact you to confirm availability. Reservations are not finalized until confirmed, and full payment is required to secure the date."
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.cognitive.3",
+        "domain": "cognitive",
+        "text": "The January 29, 2026 park rules set daily hours of 8 a.m.–9 p.m., with no people or vehicles permitted outside those hours. Parking is limited to designated areas; vehicles are prohibited on grass or landscaped areas.",
+        "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "quote": [
+          "Revised 20260129",
+          "The park is open daily from 8:00 a.m. to 9:00 p.m.",
+          "No persons or vehicles are permitted in the park outside of these hours.",
+          "Parking is allowed only in designated parking areas. Vehicles are not permitted on grass or landscaped areas."
+        ]
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.chronic.4",
+        "domain": "chronic",
+        "text": "The shelter rules prohibit extension cords and power strips. If you depend on powered equipment, confirm the electrical arrangement you need; listed electricity does not establish a usable charging setup.",
+        "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "quote": "Extension cords and power strips are not permitted."
+      },
+      {
+        "id": "lou-hartfiel-memorial-park.cognitive.4",
+        "domain": "cognitive",
+        "text": "The January 29, 2026 shelter rules allow a full refund for cancellations at least 30 days ahead; cancellations within 30 days and inclement weather do not receive refunds. Date changes must be requested more than seven days ahead, depend on availability and carry a $10 fee.",
+        "url": "https://crescent-springs.ky.us/Park%20Rules%20and%20Regulations%2020260129.pdf?t=202601291230230",
+        "quote": [
+          "Revised 20260129",
+          "Cancellations made at least 30 days in advance are eligible for a full refund.",
+          "Cancellations within 30 days are non-refundable.",
+          "No refunds are issued due to inclement weather.",
+          "Date changes must be requested more than 7 days in advance, are subject to availability, and include a $10 handling fee."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "miami-whitewater-forest",
+    "facts": [
+      {
+        "id": "miami-whitewater-forest.mobility.1",
+        "domain": "mobility",
+        "text": "Great Parks describes a floating canoe/kayak launch at Miami Whitewater Forest Harbor with a bench that slides over a railing system for transfer into a boat. Confirm its operation and the assistance you need before visiting.",
+        "url": "https://www.greatparks.org/about/accessibility",
+        "quote": [
+          "Two accessible canoe/kayak launches, which meet requirements of the Americans with Disabilities Act (ADA), are located at Miami Whitewater Forest , Sharon Woods and Winton Woods harbors.",
+          "Each launch is a floating dock equipped with a \"Universally Accessible Transfer System\" that allows an unassisted individual with a physical disability to access a canoe or kayak. It consists of a bench that slides over onto a railing system that allows the individual to sit down into a canoe or kayak."
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.mobility.2",
+        "domain": "mobility",
+        "text": "The park has a Zero G-Chair swing; the golf course offers reservable Solo Rider carts.",
+        "url": "https://www.greatparks.org/about/accessibility",
+        "quote": [
+          "Visitors can now use a Zero G-Chair Swing at Winton Woods, Sharon Woods, Lake Isabella, Woodland Mound, Miami Whitewater Forest, Shawnee Lookout and Embshoff Woods.",
+          "Great Parks has eight Solo Rider golf carts available at the following golf courses: Meadow Links & Golf Academy, The Mill Course, Little Miami Golf Center, Miami Whitewater Forest Golf Course and The Vineyard Golf Course. A Solo Rider cart can be reserved by calling the individual course."
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.cognitive.1",
+        "domain": "cognitive",
+        "text": "Great Parks says it will make every effort, with two weeks’ advance notice, to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD) about program access.",
+        "url": "https://www.greatparks.org/about/accessibility",
+        "quote": "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs . People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD."
+      },
+      {
+        "id": "miami-whitewater-forest.mobility.3",
+        "domain": "mobility",
+        "text": "The 0.6-mile Tallgrass Prairie Trail is labeled Not Accessible.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/tallgrass-prairie-trail",
+        "quote": "Amenities 0.6 mile Nature Trail Easy/Moderate Not Accessible"
+      },
+      {
+        "id": "miami-whitewater-forest.mobility.4",
+        "domain": "mobility",
+        "text": "The park page posts Shaker Trace Inner and Outer Loop paving for November 2–20, without a year in the alert. It describes a new 2-inch asphalt overlay and temporary section closures, with other sections kept open when possible and detour signs at intersections, crossings and access points. Check current closures before travelling.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "quote": "From November 2 - 20, contractors will be paving the Shaker Trace Trail Inner & Outer Loop at Miami Whitewater Forest. Work includes repairing deteriorated subgrade and stone base where needed and installing a new 2-inch asphalt surface overlay along the trail. Sections of the trail will be temporarily closed during repairs and paving. Work will be phased to allow other sections to remain open for visitor use whenever possible. Detour and informational signage will be placed at trail intersections, road crossings, and trail access points."
+      },
+      {
+        "id": "miami-whitewater-forest.mobility.5",
+        "domain": "mobility",
+        "text": "The Shaker Trace Nursery campus has a paved connection to the Shaker Trace Outer Loop Trail.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
+        "quote": "The campus features a greenhouse, seed processing facility, program and event venue, seed production rows and a paved connection to the Shaker Trace Outer Loop Trail."
+      },
+      {
+        "id": "miami-whitewater-forest.cognitive.2",
+        "domain": "cognitive",
+        "text": "A Great Parks motor vehicle permit is required to drive into the park. The park phone is 513-367-4774.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "quote": [
+          "A valid Motor Vehicle Permit is required to enter the parks.",
+          "Phone: 513-367-4774"
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.chronic.1",
+        "domain": "chronic",
+        "text": "The harbor has a snack bar with outdoor seating.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+        "quote": "The Miami Whitewater Forest Harbor offers fishing and boating access, a snack bar with outdoor seating, trail access and more."
+      },
+      {
+        "id": "miami-whitewater-forest.chronic.2",
+        "domain": "chronic",
+        "text": "The Harbor page lists restrooms and a snack bar at 9001 Mt. Hope Road. It does not describe toilet layout, changing equipment or winter restroom availability; the snack bar has different hours from the boathouse.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+        "quote": [
+          "Amenities Snack Bar Restrooms Boathouse Playground",
+          "Snack bar hours differ from the boathouse.",
+          "Miami Whitewater Forest Harbor 9001 Mt. Hope Road Harrison, OH 45030"
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.cognitive.3",
+        "domain": "cognitive",
+        "text": "The Harbor hours table lists the boathouse closed on both weekdays and weekends from October 19 through December 31. The table does not state a year; confirm the current season with the Harbor at 513-367-9632 before planning equipment rental.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
+        "quote": [
+          "Oct 19 -Dec 31 Closed Closed Snack bar hours differ from the boathouse.",
+          "Phone: 513-367-9632"
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.chronic.3",
+        "domain": "chronic",
+        "text": "The Visitor Center lists restrooms and a snack bar at 9001 Mt. Hope Road. Its page does not specify adult-changing facilities, toilet clearances or a complete step-free route.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-visitor-center",
+        "quote": [
+          "Amenities Parking Playground Restrooms Snack Bar",
+          "Miami Whitewater Forest Visitor Center 9001 Mt. Hope Road Harrison, OH 45030"
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.cognitive.4",
+        "domain": "cognitive",
+        "text": "The Visitor Center’s 2026 schedule lists 10 a.m.–4 p.m. daily from November 1 through December 13, weather permitting, with Thanksgiving closed. Confirm dates beyond that period; the page also lists closures on Christmas Eve, Christmas Day, New Year’s Eve and New Year’s Day.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-visitor-center",
+        "quote": [
+          "Hours 2026 Dates",
+          "Nov. 1 - Dec. 13 Mon. - Thu.: 10 a.m. - 4 p.m. Friday: 10 a.m. - 4 p.m. Weekend/Holiday: 10 a.m. - 4 p.m. Weather Permitting",
+          "Closed: Thanksgiving, Christmas Eve, Christmas Day, New Year's Eve and New Year's Day."
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.chronic.4",
+        "domain": "chronic",
+        "text": "Shaker Trace Nursery lists parking and restrooms at 8667 New Haven Road, with the campus open daily from dawn to dusk. The page does not give toilet access features or separate restroom opening hours.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest/shaker-trace-nursery",
+        "quote": "Amenities Parking Restrooms Open daily from dawn until dusk Address Shaker Trace Nursery 8667 New Haven Road Harrison, OH 45030"
+      },
+      {
+        "id": "miami-whitewater-forest.mobility.6",
+        "domain": "mobility",
+        "text": "For a Solo Rider cart, call the individual golf course to reserve. Great Parks also allows players to schedule a demonstration to assess whether the cart will help them play; a reservation is not a fit or transfer assessment.",
+        "url": "https://www.greatparks.org/about/accessibility",
+        "quote": "A Solo Rider cart can be reserved by calling the individual course. Players may also schedule a time for a demonstration of the cart to see if it will be a benefit and enable them to play and practice the game of golf."
+      },
+      {
+        "id": "miami-whitewater-forest.cognitive.5",
+        "domain": "cognitive",
+        "text": "The park is open daily from dawn to dusk. Facility opening periods differ, so the park’s general hours do not establish availability of rentals, indoor toilets or the Visitor Center.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "quote": "Open daily from dawn until dusk"
+      },
+      {
+        "id": "miami-whitewater-forest.mobility.7",
+        "domain": "mobility",
+        "text": "For privately owned boats, Great Parks says there is no public trailer launch ramp or trailer parking at Miami Whitewater Forest. Boats must be carried from the nearest parking area to designated launching locations; confirm any carrying or transfer assistance separately.",
+        "url": "https://www.greatparks.org/about/policies/privately-owned-watercraft-regulations",
+        "quote": "Sharon Woods, Miami Whitewater Forest & Winton Woods Public launch ramps for trailered boats and trailer parking is not available or provided. Designated launching areas are only accessible by foot. Watercraft must be portaged (carried) from the nearest parking area. Launching of privately owned watercraft is permitted at designated launch locations only."
+      },
+      {
+        "id": "miami-whitewater-forest.cognitive.6",
+        "domain": "cognitive",
+        "text": "Privately owned watercraft may be used from dawn to dusk, but not when ice is present, lake water covers the launch area or severe weather exists. These are boating restrictions, not evidence that a particular transfer system is operating.",
+        "url": "https://www.greatparks.org/about/policies/privately-owned-watercraft-regulations",
+        "quote": [
+          "Privately owned watercraft are not permitted on the lake when there is ice present, lake levels rise to cover the launch area or severe weather conditions exist.",
+          "Use of privately owned watercraft is permitted from dawn to dusk."
+        ]
+      },
+      {
+        "id": "miami-whitewater-forest.mobility.8",
+        "domain": "mobility",
+        "text": "The park lists a 1.2-mile Shaker Trace Inner Loop with exercise stations and a 7.7-mile Outer Loop through prairies and wetlands. These distances do not establish slopes, rest-point spacing or a continuous step-free route; see the separate paving notice.",
+        "url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "quote": [
+          "Shaker Trace Inner Loop A section of the trail follows the Dry Fork Creek. Exercise stations are featured along the way. ‎ Length: 1.2 Miles",
+          "Shaker Trace Outer Loop Winds through prairies and wetlands, offering a scenic ride or walk through rare habitats. Spot birds, turtles, and butterflies, and pause at the wildlife shelter for a tranquil view of the wetlands. ‎ Length: 7.7 Miles"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ludlow-garage",
+    "facts": [
+      {
+        "id": "ludlow-garage.mobility.1",
+        "domain": "mobility",
+        "text": "The main east entrance has one step. The venue directs visitors needing step-free entry to the west-side restaurant entrance through the Ace Hardware hallway.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": "The main (east) entrance to the Ludlow Garage has one step. We also have an entrance on the west side of the restaurant which is in the hallway to Ace Hardware in the same building that has no steps."
+      },
+      {
+        "id": "ludlow-garage.mobility.2",
+        "domain": "mobility",
+        "text": "A lift beside the stairs connects the first-floor restaurant with the lower-level concert venue. The venue says visitors may use it themselves or ask staff for help.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": "We have a lift to get from the first floor (restaurant) to the lower level (venue) and back. The lift is located right next to the steps. It is designed for self-use but if you would like some help, we will be more than happy to lend a hand. Just ask!"
+      },
+      {
+        "id": "ludlow-garage.chronic.1",
+        "domain": "chronic",
+        "text": "The venue lists men's and women's ADA restrooms. Specific dimensions and the complete route to them have not been field checked.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": "We do have ADA restrooms for men & women."
+      },
+      {
+        "id": "ludlow-garage.cognitive.1",
+        "domain": "cognitive",
+        "text": "Wheelchair-accessible concert tickets are sold through Ticketmaster, subject to availability. Confirm the appropriate ticket and companion arrangements before purchase.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": "Wheelchair accessible tickets are available for sale on TicketMaster as they last."
+      },
+      {
+        "id": "ludlow-garage.cognitive.2",
+        "domain": "cognitive",
+        "text": "General-admission shows do not guarantee seating. The venue has no parking lot; plan your parking and route before arrival.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": [
+          "General Admission shows have no guarantee of seating.",
+          "The Ludlow Garage does not have a parking lot. Please see our website for the closest pay lots."
+        ]
+      },
+      {
+        "id": "ludlow-garage.cognitive.3",
+        "domain": "cognitive",
+        "text": "No backpacks are permitted; the published bag rules do not list a medical exception. All bags are inspected on entry. The screening FAQ allows a magnetometer, visual inspection and/or bag inspection; it does not require every guest to pass through a metal detector. Confirm arrangements for medical equipment before arrival.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": [
+          "No backpacks of any kind are permitted. Permitted Bags Clear bags that do not exceed 12\" x 12\" x 6\" . Small clutch bags that do not exceed 6\" x 9\" - these do not need to be clear. Entry Inspection All bags will be inspected upon entry. For everyone's safety, only bags that meet the above guidelines will be permitted inside the venue. Guests who arrive with non-compliant bags will be asked to return them to their vehicles or dispose of them before entering.",
+          "All guests entering the venue are subject to a metal-detector screening by way of a magnetometer, visual inspection, and/or bag inspection conducted by venue security personnel."
+        ]
+      },
+      {
+        "id": "ludlow-garage.chronic.2",
+        "domain": "chronic",
+        "text": "At general-admission shows, some seats are often (not always) left at the very rear, first come, first served throughout the concert; none are assigned or guaranteed. There is no food service in the concert venue.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": [
+          "We often (but not always) leave in some seats in the very rear of the venue. These are first come first serve throughout the concert. There are no assigned or guaranteed seating.",
+          "There is no food service in the venue."
+        ]
+      },
+      {
+        "id": "ludlow-garage.sensory.1",
+        "domain": "sensory",
+        "text": "Concerts can be loud; the venue strongly recommends hearing protection for young children.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": "Hearing protection: Concerts can be loud. We strongly recommend appropriate hearing protection for young children."
+      },
+      {
+        "id": "ludlow-garage.cognitive.4",
+        "domain": "cognitive",
+        "text": "The box office is at the venue, 342 Ludlow Avenue, and opens at 5 p.m. on scheduled show days only. Confirm the show and west hallway entrance arrangements before travelling.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": [
+          "We do have a box office located at 342 Ludlow Ave. Cincinnati, OH 45220 (at the venue).",
+          "Box Office Hours: 5:00pm every day that we have a show scheduled. The Box Office is closed all other times."
+        ]
+      },
+      {
+        "id": "ludlow-garage.chronic.3",
+        "domain": "chronic",
+        "text": "The FAQ prohibits outside food and drink in both the venue and restaurant. It does not state a medical or dietary exception; confirm any necessary arrangements before arrival.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": "Can I bring snacks? No food or beverage may be brought in from outside the venue or restaurant."
+      },
+      {
+        "id": "ludlow-garage.chronic.4",
+        "domain": "chronic",
+        "text": "The smoking policy prohibits tobacco, electronic cigarettes and vaping throughout the restaurant and concert venue, including seated areas and restrooms.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": "Smoking is not permitted in seated areas of the venue, restrooms, or anywhere in the restaurant or venue. This includes tobacco, electronic cigarettes, and vaping."
+      },
+      {
+        "id": "ludlow-garage.cognitive.5",
+        "domain": "cognitive",
+        "text": "Permitted bags are clear bags up to 12 × 12 × 6 inches or small clutches up to 6 × 9 inches; clutches need not be clear. The FAQ says non-compliant bags must be returned to a vehicle or disposed of before entry.",
+        "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+        "quote": [
+          "Clear bags that do not exceed 12\" x 12\" x 6\" . Small clutch bags that do not exceed 6\" x 9\" - these do not need to be clear.",
+          "Guests who arrive with non-compliant bags will be asked to return them to their vehicles or dispose of them before entering."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "freestore-foodbank-liberty-street-market",
+    "facts": [
+      {
+        "id": "freestore-foodbank-liberty-street-market.cognitive.5",
+        "domain": "cognitive",
+        "text": "The 2026 holiday flyer lists Liberty Street Market closed November 26–29 and reopening November 30, 2026. It gives regular weekday hours of 8 a.m.–4 p.m.; confirm holiday arrangements before travelling.",
+        "url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+        "quote": [
+          "Monday - Friday from 8:00 a.m. to 4:00 p.m.",
+          "We will be closed on Thursday, November 26th - Sunday, November 29th in observance of the holiday. We will reopen November 30, 2026."
+        ]
+      },
+      {
+        "id": "freestore-foodbank-liberty-street-market.chronic.3",
+        "domain": "chronic",
+        "text": "For the November 2–25, 2026 holiday shopping period, customers who do not wish to shop or cannot wait are eligible for a pre-packaged Holiday Meal Box. The flyer says arrivals after 3:30 p.m. receive a holiday box and protein, with holiday food while supplies last; confirm suitability for dietary needs.",
+        "url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+        "quote": [
+          "Starting Monday, November 2nd through Wednesday, November 25th our customers can shop for",
+          "Customers that do not wish to shop, or cannot wait, are eligible for a pre-packaged Holiday Meal Box.",
+          "Anyone shopping after 3:30 P.M. will receive an Holiday Meal Box and a protein.",
+          "A TURKEY OR A PROTEIN! WHILE SUPPLIES LAST!"
+        ]
+      },
+      {
+        "id": "freestore-foodbank-liberty-street-market.cognitive.6",
+        "domain": "cognitive",
+        "text": "The 2026 holiday flyer asks visitors to bring photo ID and says income is determined by self-declaration. Confirm any document alternatives and the requirements for your visit.",
+        "url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-Holiday-Ops-Flyer._lsm_november_FINAL.pdf",
+        "quote": "Please bring Photo ID, income is determined by self-declaration."
+      }
+    ]
+  },
+  {
+    "slug": "freestore-foodbank-bea-taylor-market",
+    "facts": [
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.1",
+        "domain": "cognitive",
+        "text": "Bea Taylor Market is a choice pantry where families in need can choose food to suit their household. The page does not specify residency boundaries, visit-frequency limits or appointment requirements; confirm individual arrangements.",
+        "url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "quote": "Bea Taylor Market by Freestore Foodbank offers a choice pantry, much like a regular grocery store, to those in need. This means that families struggling to find vital nutrition can select the items that fit the needs of their family"
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.2",
+        "domain": "cognitive",
+        "text": "The market asks visitors to bring picture ID and household verification, listing an address, birth certificate or medical card. Ask about alternatives if you cannot provide those documents.",
+        "url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "quote": "WHAT TO BRING Picture ID Household Verification (Address, Birth Certificate, or Medical Card)"
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.3",
+        "domain": "cognitive",
+        "text": "Regular opening hours are Tuesday–Friday, 9 a.m.–5 p.m., and Saturday, 10 a.m.–3 p.m.; Sunday and Monday are closed. Holiday arrangements may differ.",
+        "url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "quote": "HOURS OF OPERATION Monday - CLOSED Tuesday - 9:00 am - 5:00 pm Wednesday - 9:00 am - 5:00 pm Thursday - 9:00 am - 5:00 pm Friday - 9:00 am - 5:00 pm Saturday - 10:00 am - 3:00 pm Sunday - CLOSED"
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.4",
+        "domain": "cognitive",
+        "text": "The regular market page permits choice shopping until the posted closing time and asks late visitors to return the next business day. Confirm the applicable schedule before travelling.",
+        "url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "quote": "Choice shopping is available until posted closing time. If you miss the time, please return the next business day."
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.chronic.1",
+        "domain": "chronic",
+        "text": "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. The page reserves protein items for customers using choice shopping; it does not promise a particular box or dietary accommodation.",
+        "url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "quote": "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. Protein items are exclusive to customers utilizing the choice shopping experience."
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.5",
+        "domain": "cognitive",
+        "text": "For market enquiries, the location page lists 513-357-4600 and 3401 Rosenthal Way. Confirm entrance, waiting and carrying-help arrangements before travelling.",
+        "url": "https://freestorefoodbank.org/bea-taylor-market/",
+        "quote": "CONTACT Bea Taylor Market 3401 Rosenthal Way Cincinnati, Ohio 45204 513-357-4600"
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.6",
+        "domain": "cognitive",
+        "text": "The homepage’s holiday notice says Bea Taylor Market shopping ends 30 minutes before posted closing, with Holiday Meal boxes for later arrivals. It lists closure November 26–27 and reopening Saturday, November 28 at 10 a.m. The market dates in this notice do not print a year; confirm the applicable schedule.",
+        "url": "https://freestorefoodbank.org/",
+        "quote": "HOLIDAY FOOD DISTRIBUTION Bea Taylor Market 3401 Rosenthal Way, Cincinnati, OH 45204 Tuesday-Friday 9:00 AM - 5:00 PM Saturday 10:00 AM - 3:00 PM The market will close 30 minutes prior to the posted time. Anyone coming in after wil be given a Holiday Meal box. We will be closed Thursday November 26 - Friday November 27. We will reopen on Saturday November 28 at 10 am."
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.7",
+        "domain": "cognitive",
+        "text": "The linked 2026 holiday flyer lists Bea Taylor Market closed November 26–30, reopening Tuesday, December 1 at 10 a.m. Confirm this dated holiday schedule directly before travelling.",
+        "url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "quote": "We will be closed Thursday November 26 - Monday November 30. We will reopen on Tuesday December 1 at 10 am."
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.chronic.2",
+        "domain": "chronic",
+        "text": "For the November 3–25, 2026 holiday distribution period, the flyer says customers who do not wish to shop or cannot wait may receive a pre-packaged Holiday Meal Box. Its English page says arrivals after 4:30 p.m. Tuesday–Friday or 2:30 p.m. Saturday receive a holiday box and protein; holiday food is while supplies last. Confirm dietary suitability and availability.",
+        "url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "quote": [
+          "Starting Tuesday, November 3rd through Wednesday, November 25th our customers can shop for",
+          "Customers that do not wish to shop, or cannot wait, are eligible for a pre-packaged Holiday Meal Box, or in normal months a emergency box of food.",
+          "Anyone Shopping after 4:30 P.M. Tuesday through Friday, and after 2:30 P.M. on Saturday, will receive an Holiday Meal Box and a protein.",
+          "A TURKEY OR A PROTEIN! WHILE SUPPLIES LAST!"
+        ]
+      },
+      {
+        "id": "freestore-foodbank-bea-taylor-market.cognitive.8",
+        "domain": "cognitive",
+        "text": "The 2026 holiday flyer asks for photo ID and says income is self-declared. Confirm the documents needed for your visit.",
+        "url": "https://freestorefoodbank-media-bucket.storage.googleapis.com/2026-BeaTaylor-distribution-flyer-November-FINAL.pdf",
+        "quote": "Please bring Photo ID, income is determined by self-declaration."
+      }
+    ],
+    "address_quote": "Bea Taylor Market 3401 Rosenthal Way Cincinnati, Ohio 45204",
+    "address_url": "https://freestorefoodbank.org/bea-taylor-market/"
+  }
+]

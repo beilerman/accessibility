@@ -5,6 +5,7 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/freestore-foodbank-bea-taylor-market",
   "/venues/jungle-jims-eastgate",
   "/venues/clermont-transportation-connection-dial-a-ride",
   "/venues/proudworks-transportation",

@@ -246,6 +246,31 @@ class QuoteTests(unittest.TestCase):
     def test_curly_quotes_and_markup_do_not_break_a_match(self):
         self.assertIn(quote_text("The venue\u2019s ramp &amp; lift"), quote_text("<p>The venue's&nbsp;ramp\n &amp;amp; lift</p>"))
 
+    def test_commented_old_hours_cannot_support_a_quote(self):
+        page = '<p>Open until 4 p.m.</p><!-- <p>Open until 3 p.m.</p> -->'
+        self.assertIn(quote_text("Open until 4 p.m."), quote_text(page))
+        self.assertNotIn(quote_text("Open until 3 p.m."), quote_text(page))
+        encoded = '<p>Open until 4 p.m.</p><!-- &lt;p&gt;Open until 3 p.m.&lt;/p&gt; -->'
+        self.assertNotIn(quote_text("Open until 3 p.m."), quote_text(encoded))
+
+    def test_commented_script_prose_and_unclosed_comments_are_excluded(self):
+        page = '<p>Current information.</p><!-- <script>{"body":"An old entrance route is still available"}</script> -->'
+        self.assertNotIn("An old entrance route", quote_text(page))
+        self.assertNotIn("The old lift works", quote_text('<p>Current information.</p><!-- The old lift works'))
+
+    def test_encoded_comments_cannot_reintroduce_script_prose(self):
+        for start, end in (("&lt;!--", "--&gt;"), ("&amp;lt;!--", "--&amp;gt;"), ("&#60;!--", "--&#62;")):
+            page = '<p>Current information.</p>' + start + '<script>{"body":"Old lift route remains available"}</script>' + end
+            self.assertIn("Current information.", quote_text(page))
+            self.assertNotIn("Old lift route", quote_text(page))
+
+    def test_quote_moved_into_comment_is_reported_missing(self):
+        findings = {self.URL: "changed"}
+        page = self.page("<p>The venue's ramp is at the north door.</p><!-- <p>Sensory bags are available.</p> -->")
+        missing = judge_by_quotes(self.PLACES, self.QUOTES, page, findings)
+        self.assertEqual(missing, {self.URL: ["a.sensory.1"]})
+        self.assertEqual(findings[self.URL], "quote_missing")
+
     def test_changed_page_with_every_quote_intact_is_supported(self):
         findings = {self.URL: "changed"}
         page = self.page("<p>New hours!</p><p>The venue's ramp is at the north door.</p><p>Sensory bags are available.</p>")
