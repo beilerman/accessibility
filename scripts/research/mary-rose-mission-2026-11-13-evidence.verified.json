@@ -1,0 +1,48 @@
+[
+ {
+  "slug": "mary-rose-mission",
+  "address_url": "https://maryrosemission.org/contact/",
+  "address_quote": "Address: 272 Main Street, Florence, KY 41042",
+  "facts": [
+   {
+    "claim": "Mary Rose Mission advertises hot meals every day, 4–5:30 p.m., at 272 Main Street in Florence. Confirm holiday or weather changes before travelling.",
+    "url": "https://maryrosemission.org/",
+    "quote": [
+     "We are proud to serve a hot meal every day from 4:00 until 5:30!",
+     "The Mary Rose Mission owns a building at 272 Main Street in Florence"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "b36dd0655552a9e070bb20bd6113653695a32d777e032321920808c4200fa8b9"
+   },
+   {
+    "claim": "The mission’s About page describes volunteers carrying trays to tables for older guests and guests needing additional support, with a greeter at the door. This describes meal assistance; transfer help, personal care and a step-free entrance are not established.",
+    "url": "https://maryrosemission.org/about/",
+    "quote": "They will help with the children and will assist the elderly and special needs guests by carrying their trays to the tables. We have a “greeter” at the door welcoming our guests to dinner",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "01cf5d28fd7510a5c76fac487b0a295e7bb737bb2b6c836bbaaefbd83f84e3dc"
+   },
+   {
+    "claim": "The contact page lists weekday office hours as 10 a.m.–3 p.m., while its footer says 9 a.m.–3 p.m. Call 859-292-0300 before an office visit. These are office hours, separate from the evening meal service.",
+    "url": "https://maryrosemission.org/contact/",
+    "quote": [
+     "Office Hours: Mon-Fri 10:00 am – 3:00 PM",
+     "OFFICE HOURS: Mon-Fri 9:00-3:00",
+     "Phone: 859.292.0300"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "7b4705c4a4571b2b80386231e0a32fd4f43ce7e5c4cdfe58beefd0c4f7b97454"
+   },
+   {
+    "claim": "The homepage says all are welcome. It does not specify a reservation procedure, eligibility documents or a meal price; ask the mission about any dietary or other support needed before visiting.",
+    "url": "https://maryrosemission.org/",
+    "quote": "ALL ARE WELCOME!",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "b36dd0655552a9e070bb20bd6113653695a32d777e032321920808c4200fa8b9"
+   }
+  ]
+ }
+]

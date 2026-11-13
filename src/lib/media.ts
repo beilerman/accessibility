@@ -47,6 +47,7 @@ export interface AccessPhoto extends VenuePhoto {
 }
 
 export interface AccessGuide {
+  format: "pdf" | "web";
   id: string;
   slug: string;
   title: string;
@@ -55,8 +56,9 @@ export interface AccessGuide {
   url: string;
   sourceUrl: string;
   documentDate: string | null;
-  pageCount: number;
-  sizeLabel: string;
+  pageCount?: number;
+  sizeLabel?: string;
+  imageCount?: number;
   checkedAt: string;
 }
 
@@ -101,7 +103,10 @@ export const illustrations: AccessIllustration[] = generated;
 export const categoryArt: CategoryArt[] = categoryImages;
 export const aiVenueImages: AiVenueImage[] = aiVenueImageData;
 export const accessPhotos: AccessPhoto[] = accessPhotoData;
-export const accessGuides: AccessGuide[] = accessGuideData;
+export const accessGuides: AccessGuide[] = accessGuideData.map((guide) => ({
+  ...guide,
+  format: "format" in guide && guide.format === "web" ? "web" : "pdf",
+}));
 export function photoForPlace(slug: string) {
   return venuePhotos.find((photo) => photo.slug === slug);
 }

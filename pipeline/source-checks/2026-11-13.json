@@ -213,16 +213,16 @@
       "status": 200,
       "final_url": "https://gobananascomedy.com/main/",
       "last_modified": null,
-      "sha256": "1cc384592a96e1ce60dc3a39a0ac6243b8de0ffc56cd2c1a937273db5d0f7868",
-      "fingerprint_version": 5,
-      "chars": 7601
+      "sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6",
+      "fingerprint_version": 6,
+      "chars": 7508
     },
     "https://gobananascomedy.com/main/directions/": {
       "status": 200,
       "final_url": "https://gobananascomedy.com/main/directions/",
       "last_modified": null,
       "sha256": "a602e62bb24b2cb70c4eda7119962202eb4d36382319ea55392d373ccd1d7606",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 153
     },
     "https://gobearcats.com/ada-accessibility": {
@@ -350,7 +350,7 @@
       "final_url": "https://riverbend.org/plan-your-visit/directions-parking",
       "last_modified": null,
       "sha256": "06a6444b0e36e67fc21f8cc00877554272ed24aa8744b3a7eb09e23fb77ed403",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1695
     },
     "https://riverbend.org/venue-info/faq": {
@@ -358,7 +358,7 @@
       "final_url": "https://riverbend.org/venue-info/faq",
       "last_modified": null,
       "sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 12472
     },
     "https://riverbend.org/venue-information/accessibility": {
@@ -366,7 +366,7 @@
       "final_url": "https://riverbend.org/venue-information/accessibility",
       "last_modified": null,
       "sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1474
     },
     "https://tafttheatre.org/plan-your-visit/accessibility": {
@@ -502,7 +502,7 @@
       "final_url": "https://www.bengals.com/fans/fanguide",
       "last_modified": null,
       "sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 25245
     },
     "https://www.bogarts.com/accessibility": {
@@ -1034,7 +1034,7 @@
       "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
       "last_modified": null,
       "sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 19980
     },
     "https://www.mlb.com/reds/hall-of-fame/visit/accessibility": {
@@ -1334,7 +1334,7 @@
       "final_url": "https://www.bengals.com/fans/fanguide",
       "last_modified": null,
       "sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 25245
     },
     "https://www.bengals.com/stadium/parking-and-directions": {
@@ -1342,7 +1342,7 @@
       "final_url": "https://www.bengals.com/stadium/parking-and-directions",
       "last_modified": null,
       "sha256": "1e75d33a515001d9a718741573d69633adad6c299886dc37a4ed6fc6ff5771b6",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4756
     },
     "https://www.bengals.com/stadium/prohibited-items-bag-policy": {
@@ -1350,7 +1350,7 @@
       "final_url": "https://www.bengals.com/stadium/prohibited-items-bag-policy",
       "last_modified": null,
       "sha256": "842581c7e0982ce4ab3def163727d544027429ef0edbccdfc61d477fcdc40e49",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3220
     },
     "https://www.boonecountyky.org/business_detail_T35_R202.php": {
@@ -1670,7 +1670,7 @@
       "final_url": "https://www.mlb.com/reds/ballpark/information/guide",
       "last_modified": null,
       "sha256": "05c0457646772b00db4b5cb0355bcdb3a5a7c3471737285f90870f4b02e5d81f",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 105750
     },
     "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing": {
@@ -3527,6 +3527,70 @@
       "sha256": "c288b64fdada7e23e7631d4e40f070ab7777f47c7eec19008ff52f6d39bc9187",
       "fingerprint_version": 6,
       "chars": 11781
+    },
+    "https://www.brightoncenter.com/contact": {
+      "status": 200,
+      "final_url": "https://www.brightoncenter.com/contact",
+      "last_modified": "Fri, 13 Nov 2026 13:21:23 GMT",
+      "sha256": "5f865c119ff5d3a2d99ced60bc1120aa4e0612f1d97bdbfe623004face57268c",
+      "fingerprint_version": 6,
+      "chars": 3994
+    },
+    "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance": {
+      "status": 200,
+      "final_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+      "last_modified": "Fri, 13 Nov 2026 13:21:24 GMT",
+      "sha256": "13fa08665fb70f0d7c4274bedb7c45b2da7aec508039e87f7524b3e0578cb5d0",
+      "fingerprint_version": 6,
+      "chars": 5967
+    },
+    "https://maryrosemission.org/": {
+      "status": 200,
+      "final_url": "https://maryrosemission.org/",
+      "last_modified": null,
+      "sha256": "b36dd0655552a9e070bb20bd6113653695a32d777e032321920808c4200fa8b9",
+      "fingerprint_version": 6,
+      "chars": 2535
+    },
+    "https://maryrosemission.org/about/": {
+      "status": 200,
+      "final_url": "https://maryrosemission.org/about/",
+      "last_modified": null,
+      "sha256": "01cf5d28fd7510a5c76fac487b0a295e7bb737bb2b6c836bbaaefbd83f84e3dc",
+      "fingerprint_version": 6,
+      "chars": 2242
+    },
+    "https://maryrosemission.org/contact/": {
+      "status": 200,
+      "final_url": "https://maryrosemission.org/about/contact/",
+      "last_modified": null,
+      "sha256": "7b4705c4a4571b2b80386231e0a32fd4f43ce7e5c4cdfe58beefd0c4f7b97454",
+      "fingerprint_version": 6,
+      "chars": 919
+    },
+    "https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look": {
+      "status": 200,
+      "final_url": "https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look",
+      "last_modified": null,
+      "sha256": "4e0984e40596931162208ba78794dd9005539dff0208c5500938ea389c337e26",
+      "fingerprint_version": 6,
+      "chars": 9320
+    },
+    "https://www.bengals.com/news/important-parking-updates-paycor-stadium-2026": {
+      "status": 200,
+      "final_url": "https://www.bengals.com/news/important-parking-updates-paycor-stadium-2026",
+      "last_modified": null,
+      "sha256": "8c572fc8d6ff2f5ddd3cee0288038fc530e1045202483f3e1117dd213ac2cd58",
+      "fingerprint_version": 6,
+      "chars": 4492
+    },
+    "https://memi.biz/calendar": {
+      "status": 200,
+      "final_url": "https://memi.biz/calendar",
+      "last_modified": null,
+      "sha256": "833d108fa706daf1ce9a2d362938951ba2c36c1dc216c9862e29af5fce68d4f4",
+      "fingerprint_version": 6,
+      "chars": 4180
     }
   },
   "findings": {

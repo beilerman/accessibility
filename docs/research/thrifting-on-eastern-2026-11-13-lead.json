@@ -1,0 +1,38 @@
+{
+  "status": "Unfinished research lead, not a new public venue or freshness review",
+  "checked_at": "2026-11-13",
+  "name": "Thrifting on Eastern",
+  "proposed_category": "Shopping",
+  "address": "2014 Eastern Ave, Covington, KY 41014",
+  "source_url": "https://www.brightoncenter.com/programs/social_enterprises/thrifting-on-eastern",
+  "fetch": {
+    "status": 200,
+    "final_url": "https://www.brightoncenter.com/programs/social_enterprises/thrifting-on-eastern",
+    "last_modified": "Fri, 13 Nov 2026 13:31:51 GMT",
+    "sha256": "ed6b15fbfde04354623836ef8fb344abf85356b61700e9d845027b2d7ed058fa",
+    "fingerprint_version": 6,
+    "chars": 2610
+  },
+  "supporting_passages": [
+    "2014 Eastern Ave Covington, KY 41014 (859) 360-2663",
+    "Hours of Operation: Tuesday - Saturday 10:00 a.m. - 3:00 p.m."
+  ],
+  "visual_lead": {
+    "url": "https://www.brightoncenter.com/images/uploads/hero/ToE2.png",
+    "status": 200,
+    "bytes": 1993929,
+    "sha256": "060ec64457dcc1e9dda5f3ae375e7cbb64f99c77989173474489c28f91cc04d0",
+    "full_frame_visually_inspected": true,
+    "description": "Red-brick house-style storefront with store sign and number 2014 on porch post. Front steps lead to a porch; a railed ramp runs along the facade toward that porch. The lower ramp approach is beyond the right edge, and the door threshold and controls cannot be resolved.",
+    "capture_date": null,
+    "reuse_licence": "None established; official site footer All Rights Reserved. No image copied into public assets.",
+    "limits": "No measured slope or width, complete sidewalk-to-door connection, current route operation, door effort, interior aisles or toilet access established."
+  },
+  "next_actions": [
+    "Complete new-place evidence and category/route baseline work before adding a listing.",
+    "Consider linking the original program page as a one-photo visual guide, without copying its image.",
+    "Seek current official entrance, shopping-aisle, seating, toilet and assistance information.",
+    "Check the current Tuesday–Saturday hours against older Wednesday–Saturday documents; do not use historical hours as current."
+  ],
+  "retrieval_limit": "Plain urllib request returned 403; curl and the normal source helper independently returned 200 and nonempty content. No evidence status bypass."
+}

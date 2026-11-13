@@ -131,8 +131,9 @@ export function AccessMedia({ slug }: { slug?: string }) {
                   rel="noopener noreferrer"
                   className="source-link inline-flex min-h-11 items-center"
                 >
-                  Open photo guide (PDF, {guide.pageCount} pages,{" "}
-                  {guide.sizeLabel})
+                  {guide.format === "web"
+                    ? `Open photo guide (web page, ${guide.imageCount} ${guide.imageCount === 1 ? "photo" : "photos"})`
+                    : `Open photo guide (PDF, ${guide.pageCount} pages, ${guide.sizeLabel})`}
                   <span className="sr-only">
                     {" "}
                     — {guide.title} (opens in a new tab)
@@ -144,7 +145,7 @@ export function AccessMedia({ slug }: { slug?: string }) {
                   rel="noopener noreferrer"
                   className="underline inline-flex min-h-11 items-center"
                 >
-                  Publisher’s accessibility page
+                  Publisher’s source page
                   <span className="sr-only"> (opens in a new tab)</span>
                 </a>
               </article>

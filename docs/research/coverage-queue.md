@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Falcon, Fitton, Zoo and Kings Island full reviews, Be Concerned Covington, three licensed access photographs and three linked photo narratives.
+Updated November 13, 2026, after Riverbend, Great American Ball Park, Paycor and Go Bananas full reviews; Brighton Family Center and Mary Rose Mission; two licensed photos and four original visual links.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,10 +9,10 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now **156 notes**. The latest pass adds
-four full reviews (41 old notes), repairing 39 missing passages with eight
-corrections/clarifications; separate from 43 new IDs. There was no partial review.
-The preceding 148-place batch is already in this pass’s publication base. Start with transit
+remaining legacy missing-passage backlog is now **120 notes**. The latest pass adds
+four full reviews (36 old notes), repairing 36 missing passages with ten
+corrections/clarifications; separate from 35 new IDs. There was no partial review.
+The preceding 149-place batch is already in this pass’s publication base. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -20,9 +20,17 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 149 places. Its categories contain 32 arts venues,
+Concrete next shopping lead: **Thrifting on Eastern, 2014 Eastern Ave, Covington**.
+The fresh official program page supplies location/hours and an inspected storefront
+photo showing front steps and a railed ramp toward the porch. The ramp's lower
+approach is outside the frame; date, dimensions, threshold, interior and toilets
+remain unknown. No reuse licence found. Complete listing evidence/category/route
+baselines and link the original image page if suitable. See
+`thrifting-on-eastern-2026-11-13-lead.json`; this is unfinished, not a new listing.
+
+The prepared catalog has 151 places. Its categories contain 32 arts venues,
 31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
-entries, sixteen food/drink venues, eleven shopping destinations, eight public-service
+entries, sixteen food/drink venues, eleven shopping destinations, ten public-service
 listings and eight recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
@@ -50,7 +58,62 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 Falcon, Fitton, Zoo, Kings Island and Be Concerned
+## Latest pass — November 13 riverfront venues, Brighton and Mary Rose
+
+- **Evidence/freshness:** four full reviews, 36 old notes; 26 unchanged/ten revised.
+  Backfilled 36 passages (**156 → 120**). Whole-venue dates advanced only for
+  Riverbend (11), Great American Ball Park (10), Paycor (11) and Go Bananas (4).
+  No partial review. Original IDs/history, retired data and unrelated work preserved.
+- **Growth:** 35 new IDs — Riverbend 7, GABP 7, Paycor 10, new **Brighton Family
+  Center 7** and **Mary Rose Mission 4**. Newport food/resource sessions retain
+  county/age/document/appointment conditions. Florence meal assistance includes
+  tray carrying; conflicting office hours are explicit. Neither gains invented
+  physical entrance, toilet, dietary, delivery or personal-care arrangements.
+- **Corrections/depth:** arrival windows and large-bus exclusion, medical-bag
+  conditions, family-restroom locations without adult-changing claims, medical
+  emergency re-entry and event-specific doors. GABP First Aid/re-entry/gate conflicts,
+  Riverbend pickup conflict and Paycor stale shuttle promotion remain visible.
+  Paycor's general re-entry rule is qualified by its separately approved service-animal relief exit.
+  Dated Paycor parking reductions/elevator work do not imply current route availability.
+  MEMI lists planned Farmer Music Center (spring 2027, 6199 Kellogg) separately
+  from Riverbend/PNC (6295); no route/photo transfer or closure date is inferred.
+- **Media:** two CC BY-SA 4.0 full frames: GABP approach (August 2025,
+  Gatorfan252525) and Paycor stair aisles (June 2017, JonRidinger). Four original
+  web pages link 66 inspected photos: Bengals renovation 26, architect Family Zone
+  7, Riverbend/PNC section views 32, and Mary Rose door 1. Images without reuse
+  licences stay with their publishers. No AI, cropping, retouching or invented
+  dimensions/routes. Historic views and unknown capture dates remain qualified.
+- **Held:** Brighton's three-page UC report has 2023 metadata and a small
+  Yelp-sourced door photo; Club Care delivery is historical. No reusable current
+  Family Center photo found. GABP gallery does not clearly show its sensory room.
+  Go Bananas physical access remains unknown. Decorative/portrait/blurred views
+  and Commons 429s were not promoted to evidence. Heritage Village sources now 403.
+  A 2019 OFCC Riverbend sheet was visually inspected and held: three old pavilion/aerial
+  views, no current access route or reuse licence. Four additional Commons venue searches
+  found no access-view candidate for Riverbend/PNC or Brighton/Mary Rose.
+  Next-review preparation resolved and inspected two Nippert 2025 maps (seating and
+  football cart routes). These are illustrations; old prices and equipment/boarding
+  assumptions stay held. Commencement arrangements must retain their event scope.
+- **Checks/totals:** 73 final note/address checks passed, 19 active-source baselines,
+  22 total source/link checks. 96 unit and 74 pipeline tests, lint, types and build
+  passed; 166 pages. Eight HTTP pages and two image hashes verified. Browser host
+  unavailable and Chromium MachPort 1100 prevents browser/Axe/layout verification;
+  runner suite required. 151 places, 1,550 active/one retired, 1,430 quoted active,
+  120 missing, 68 photos, 37 guide entries/33 distinct URLs (29 PDFs/four web pages).
+
+Read [the report](riverfront-brighton-maryrose-2026-11-13.md) and its media, source
+and validation receipts. Applied research specs are already in the data; do not rerun.
+
+**Next concrete batch:** **Nippert Stadium (10 missing), Fifth Third Arena (7),
+Reds Hall of Fame and Museum (9)**, with an everyday NKY shopping/food/public-service
+lead. [Availability preflight](riverfront-brighton-2026-11-13-next-preflight.json)
+returned seven usable pages for those venues; it is not a content review. Heritage
+Village's two 403 sources remain held. Continue current photographs of campus
+arrival/elevators/toilets, Reds museum/tour entrances, Paycor replacement-lot and
+elevator routes, GABP sensory room/family toilets, Riverbend ADA lawn/gate/toilets,
+Go Bananas back entrance, Brighton door/toilets and Mary Rose door/table routes.
+
+## Previous pass — November 13 Falcon, Fitton, Zoo, Kings Island and Be Concerned
 
 - **Evidence/freshness:** four full reviews, 41 old notes; 33 unchanged/eight revised.
   Repaired 39 missing passages (**195 → 156**). Whole-venue dates advanced only for
@@ -1064,7 +1127,7 @@ media and final-validation receipts. No conflicts, Git writes or deployments.
   by macOS (Mach port 1100), and CUA browser host unavailable. Runner browser gate
   required before atomic branch pushes; scheduled release job owns deployment.
 
-## Next concrete batch
+## Earlier cross-venue leads (latest priorities are above)
 
 Start with the latest Falcon/Fitton/Zoo/Kings report above. Review two to four of
 Riverbend, Great American Ball Park, Paycor and Go Bananas, prioritizing arrivals,

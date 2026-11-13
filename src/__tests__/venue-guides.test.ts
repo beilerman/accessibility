@@ -21,15 +21,18 @@ describe("Reviewed concert venue guides", () => {
       );
     }
     expect(new Set(place.facts.map((f) => f.domain)).size).toBe(4);
+    const venueHost = new URL(place.website).hostname.replace(/^www\./, "");
+    const officialHosts: Record<string, string> = {
+      [venueHost]: "venue_official",
+      ...(slug === "riverbend-music-center" ? { "memi.biz": "operator_official" } : {}),
+    };
     for (const fact of place.facts) {
-      expect(fact.source_type).toBe("venue_official");
+      const sourceHost = new URL(fact.source_url).hostname.replace(/^www\./, "");
+      expect(fact.source_type).toBe(officialHosts[sourceHost]);
       expect(fact.review_status).toBe("source_checked");
       expect(fact.observed_at).toBeNull();
       expect(fact.published_at).toBeNull();
       expect(fact.retrieved_at >= "2026-11-08").toBe(true);
-      expect(new URL(fact.source_url).hostname.replace(/^www\./, "")).toBe(
-        new URL(place.website).hostname.replace(/^www\./, ""),
-      );
     }
     expect(findPlaces({ q: place.name, domain: "mobility" })).toContain(place);
   });

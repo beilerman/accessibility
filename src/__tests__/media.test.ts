@@ -12,8 +12,24 @@ import {
   accessGuides,
 } from "@/lib/media";
 import { places } from "@/lib/catalog";
+import { createElement } from "react";
+import { renderToStaticMarkup } from "react-dom/server";
+import { AccessMedia } from "@/components/catalog/AccessMedia";
 
 describe("Public image provenance", () => {
+  it("labels an original web gallery without inventing PDF pages or download size", () => {
+    const html = renderToStaticMarkup(createElement(AccessMedia, { slug: "paycor-stadium" }));
+    const doc = new DOMParser().parseFromString(html, "text/html");
+    const link = doc.querySelector('a[href="https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look"]');
+    expect(link?.textContent).toContain("Open photo guide (web page, 26 photos)");
+    expect(link?.textContent).not.toContain("PDF");
+    expect(link?.getAttribute("rel")).toContain("noopener");
+    expect(doc.body.textContent).not.toMatch(/undefined|null/);
+    const singlePhotoHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "mary-rose-mission" }));
+    expect(singlePhotoHtml).toContain("Open photo guide (web page, 1 photo)");
+    const pdfHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "cincinnati-art-museum" }));
+    expect(pdfHtml).toContain("Open photo guide (PDF, 20 pages, 2.3 MB)");
+  });
   it("keeps access photographs licensed and route references tied to the right place", () => {
     expect(new Set(accessPhotos.map((photo) => photo.id)).size).toBe(accessPhotos.length);
     expect(new Set(accessPhotos.map((photo) => photo.src)).size).toBe(accessPhotos.length);
@@ -38,7 +54,13 @@ describe("Public image provenance", () => {
       expect(places.some((place) => place.slug === guide.slug)).toBe(true);
       expect(new URL(guide.url).protocol).toBe("https:");
       expect(new URL(guide.sourceUrl).protocol).toBe("https:");
-      expect(guide.pageCount).toBeGreaterThan(0);
+      if (guide.format === "web") {
+        expect(guide.imageCount).toBeGreaterThan(0);
+        expect(guide.pageCount).toBeUndefined();
+      } else {
+        expect(guide.pageCount).toBeGreaterThan(0);
+        expect(guide.sizeLabel).toBeTruthy();
+      }
       expect(guide.publisher).toBeTruthy();
       expect(guide.description).toBeTruthy();
       expect(guide.checkedAt).toMatch(/^\d{4}-\d{2}-\d{2}$/);

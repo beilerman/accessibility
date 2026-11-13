@@ -1,0 +1,67 @@
+[
+ {
+  "slug": "go-bananas-comedy-club",
+  "facts": [
+   {
+    "claim": "Seating is first come, first served. Confirm any seating accommodation you need before buying tickets.",
+    "quote": "Seating is first come first serve.",
+    "url": "https://gobananascomedy.com/main/",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6"
+   },
+   {
+    "claim": "The official directions locate the club around the back of Market Place. The step-free route from parking to the entrance has not yet been verified.",
+    "quote": "We are tucked away around the back of Market Place in wonderful Montgomery.",
+    "url": "https://gobananascomedy.com/main/directions/",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a602e62bb24b2cb70c4eda7119962202eb4d36382319ea55392d373ccd1d7606"
+   },
+   {
+    "claim": "The official homepage publishes a new telephone number, 513-873-7233. Use the current official contact details when asking about access arrangements.",
+    "quote": "Our new number is (513) 873-7233",
+    "url": "https://gobananascomedy.com/main/",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6"
+   },
+   {
+    "claim": "The November 12–14 and November 19–21, 2026 listings give doors at 6:30 p.m. for 7:30 shows and 9:20 p.m. for 9:45 shows. These are event-specific times; check the selected show. First-come seating does not guarantee a particular seat or an accommodation.",
+    "quote": [
+     "Claire Sundbye November 12 - 14 (click for more info) Doors open at 6:30 for 7:30 shows and 9:20 for 9:45 shows. Seating is first come first serve.",
+     "Kevin Bozeman November 19 - 21 (click for more info) Doors open at 6:30 for 7:30 shows and 9:20 for 9:45 shows. Seating is first come first serve."
+    ],
+    "url": "https://gobananascomedy.com/main/",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6"
+   }
+  ]
+ },
+ {
+  "slug": "paycor-stadium",
+  "facts": [
+   {
+    "claim": "The Bengals’ June 30, 2026 construction notice says Lot 1 and Lot A have reduced game-day capacity for 2026 and the duration of the Brent Spence bridge project. Affected passholders should check their updated lot in Bengals Account Manager; members with questions can call 513-621-8383. The notice does not establish a step-free route from a replacement lot.",
+    "url": "https://www.bengals.com/news/important-parking-updates-paycor-stadium-2026",
+    "quote": [
+     "For 2026 and through the duration of the project, Lot 1 and Lot A will experience capacity reductions for Bengals gamedays.",
+     "Those with parking passes in Lot 1 or Lot A are encouraged to log in to their Bengals Account Manager to view their updated parking locations.",
+     "Members with questions are encouraged to contact their Membership Reps or call 513-621-8383."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8c572fc8d6ff2f5ddd3cee0288038fc530e1045202483f3e1117dd213ac2cd58"
+   },
+   {
+    "claim": "The July 21, 2026 renovation report described passenger-elevator modernization as ongoing. It does not identify affected elevators, outages or completion dates; check the route needed for your ticket before visiting. This is a dated construction report, not a live elevator-status notice.",
+    "url": "https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look",
+    "quote": "Essential infrastructure work is ongoing, including concrete repairs, waterproofing, and passenger elevator modernization, to help ensure the stadium remains in top condition.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "4e0984e40596931162208ba78794dd9005539dff0208c5500938ea389c337e26"
+   }
+  ]
+ }
+]

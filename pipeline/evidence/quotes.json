@@ -993,6 +993,71 @@
   "quote": "There are 4 pay parking lots within a block of the venue as well.",
   "verified_at": "2026-11-12"
  },
+ "brighton-center-family-center.chronic.1": {
+  "url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+  "quote": "Emergency Assistance Services Provided\nChoice Food Pantry\nUSDA TEFAP Commodities (Campbell County)\nUSDA CSFP Commodities (Campbell County)\nClothing vouchers\nPersonal hygiene items\nLimited financial assistance\nLimited assistance with baby items\n",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "e0697a1c52408575a9f3ca48aa5257c1cbb280fb50d499a53b4807d7c829d657",
+  "source_sha256": "13fa08665fb70f0d7c4274bedb7c45b2da7aec508039e87f7524b3e0578cb5d0",
+  "final_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance"
+ },
+ "brighton-center-family-center.cognitive.1": {
+  "url": "https://www.brightoncenter.com/contact",
+  "quote": "Family Center\n799 Ann Street\nP.O. Box 325\nNewport, KY 41072-0325\nPhone: (859) 491-8303 ext. 2300\n",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Brighton Center Administration\n741 Central Avenue\nNewport, KY 41071\nPhone: (859) 491-8303\nEmergency Assistance\n859-491-8303 ext. 2300\n"
+  ],
+  "claim_sha256": "10d999748331152410de3460f0f60d072d0f9a8a30d4cae849e255baacf75399",
+  "source_sha256": "5f865c119ff5d3a2d99ced60bc1120aa4e0612f1d97bdbfe623004face57268c",
+  "final_url": "https://www.brightoncenter.com/contact"
+ },
+ "brighton-center-family-center.cognitive.2": {
+  "url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+  "quote": "Identification and proof of household members, income, and address.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For more information please contact Service Link (859) 491-8303 ext. 2300"
+  ],
+  "claim_sha256": "4a93ae777714d25c8b829bf0f38d547605b472be6debfb3b057c9db3e41a4e8a",
+  "source_sha256": "13fa08665fb70f0d7c4274bedb7c45b2da7aec508039e87f7524b3e0578cb5d0",
+  "final_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance"
+ },
+ "brighton-center-family-center.cognitive.3": {
+  "url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+  "quote": "On Mondays from 11-4 for Campbell and Kenton County residents needing emergency food, diapers, or hygiene items.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "30846f9fadea7920170aa62cf62b4c9d85376c7c18ea4721eb0a6be7568b25df",
+  "source_sha256": "13fa08665fb70f0d7c4274bedb7c45b2da7aec508039e87f7524b3e0578cb5d0",
+  "final_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance"
+ },
+ "brighton-center-family-center.cognitive.4": {
+  "url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+  "quote": "On Tuesdays and Thursdays from 12:30 - 4:30 for customers needing resources such as housing, employment, and benefit enrollments. Customers also have the opportunity to shop for food in our emergency choice food pantry.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a1c83bef50b2304b4a7cd417c60b8e91b8d5ee6673e2924618bc3c5719657b78",
+  "source_sha256": "13fa08665fb70f0d7c4274bedb7c45b2da7aec508039e87f7524b3e0578cb5d0",
+  "final_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance"
+ },
+ "brighton-center-family-center.cognitive.5": {
+  "url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+  "quote": "On Wednesday from 11-4 for Seniors aged 55 and up from Campbell and Kenton Counties needing food assistance.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "6c74731559659b85969cd34d1a8e8cfc8115cefb9dd67d3a9ce1d4eec4da375d",
+  "source_sha256": "13fa08665fb70f0d7c4274bedb7c45b2da7aec508039e87f7524b3e0578cb5d0",
+  "final_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance"
+ },
+ "brighton-center-family-center.cognitive.6": {
+  "url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+  "quote": "If you would like to schedule an appointment for Emergency Assistance Monday through Friday 8:30 a.m. - 12:30 p.m.,  please call (859) 491-8303 ext. 2301",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For more information please contact Service Link (859) 491-8303 ext. 2300"
+  ],
+  "claim_sha256": "28995ce6c1ee02bf8ad1fc396409dd22cf6a550f1dfcbde86a2eb0e976dd06c1",
+  "source_sha256": "13fa08665fb70f0d7c4274bedb7c45b2da7aec508039e87f7524b3e0578cb5d0",
+  "final_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance"
+ },
  "brkthrough-cincinnati-kenwood.chronic.1": {
   "url": "https://www.brkthrough.com/cincinnati/faqs",
   "quote": "The 2 or 3 hour time slot you have chosen is the amount of time you have access to our challenge rooms. You are welcome to arrive prior to or stay after your reservation time to enjoy food and/or drinks if you do not want this to impede on the time you have access to the challenge rooms.",
@@ -5036,6 +5101,41 @@
   "quote": "Parking is available at Valley Orchards; be prepared to walk down uneven ground. Handicap accessible parking is available at Gile Conrad Park (7500 River Road), along with a paved walking path to the fields.",
   "verified_at": "2026-11-12"
  },
+ "go-bananas-comedy-club.cognitive.1": {
+  "url": "https://gobananascomedy.com/main/",
+  "quote": "Seating is first come first serve.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "bb9a3323b3b6b465af01ecb162c5e6e3f8469416b79afee88bde046c332dff6c",
+  "source_sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6",
+  "final_url": "https://gobananascomedy.com/main/"
+ },
+ "go-bananas-comedy-club.cognitive.2": {
+  "url": "https://gobananascomedy.com/main/directions/",
+  "quote": "We are tucked away around the back of Market Place in wonderful Montgomery.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c505d344a7a6ef5339b50411e04cb684222e57969dfed8211407187fdbfe34af",
+  "source_sha256": "a602e62bb24b2cb70c4eda7119962202eb4d36382319ea55392d373ccd1d7606",
+  "final_url": "https://gobananascomedy.com/main/directions/"
+ },
+ "go-bananas-comedy-club.cognitive.3": {
+  "url": "https://gobananascomedy.com/main/",
+  "quote": "Our new number is (513) 873-7233",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "7b686704b813ae779830a1f86cdc709dd6a970d0ca5be722dcf11e4b4cfc033a",
+  "source_sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6",
+  "final_url": "https://gobananascomedy.com/main/"
+ },
+ "go-bananas-comedy-club.cognitive.4": {
+  "url": "https://gobananascomedy.com/main/",
+  "quote": "Claire Sundbye November 12 - 14 (click for more info) Doors open at 6:30 for 7:30 shows and 9:20 for 9:45 shows. Seating is first come first serve.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Kevin Bozeman November 19 - 21 (click for more info) Doors open at 6:30 for 7:30 shows and 9:20 for 9:45 shows. Seating is first come first serve."
+  ],
+  "claim_sha256": "15344362582766b6e1aa32fee990dea23d99701d738b09840072cedc13b6b085",
+  "source_sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6",
+  "final_url": "https://gobananascomedy.com/main/"
+ },
  "golden-lamb.chronic.1": {
   "url": "https://www.goldenlamb.com/dine/restaurant-information/restaurant-information/",
   "quote": "Due to local regulations, outside food and beverages are not permitted in our dining rooms. This would include cakes or drinks.",
@@ -5070,6 +5170,170 @@
   "url": "https://www.goldenlamb.com/stay/",
   "quote": "They are located on the second, third and fourth floors of the building with no elevator.",
   "verified_at": "2026-11-12"
+ },
+ "great-american-ball-park.chronic.1": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "Great American Ball Park has accessible seating available in the seating areas. Accessible seating areas are equipped with electrical outlets for recharging purposes at no cost to the Guest.\nAccessible seating is located in the last rows of Infield Box, Field Box, Terrace Line, Terrace Outfield, Mezzanine, Outer Mezzanine and View Level Box. The top accessible row of each section does have electrical outlets available for use.\nAll ADA seating is accessible by elevators and ramps.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Restrooms/Family Restrooms\nPublic Restrooms are conveniently located throughout Great American Ball Park. All restrooms at Great American Ball Park have diaper-changing stations available and are accessible to Guests with disabilities. Below is a list of sections where public restrooms are located throughout the ballpark:\nTerrace Level\nMen's: 104, 109, 114, 116, 126, 136, 142\nWomen's: 101, 106, 108, 115, 117, 128, 134, 141\nFamily: 101, 109, 120, 127, 136\nView Level\nMen's: 404, 412, 417, 419, 425, 429, 435\nWomen's: 403, 410, 415, 417, 423, 427, 433\nFamily: 413, 437"
+  ],
+  "claim_sha256": "8f5543aa5ed3891d0673f34f33615fddd7089755efbe254b99d237fd19053f23",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.chronic.2": {
+  "url": "https://www.mlb.com/reds/ballpark/information/guide",
+  "quote": "Backpacks (defined as multi-pocketed bags that are worn on the back) are prohibited unless they are specifically designed for medical or infant care)\nBags cannot exceed the size of 16” x 16” x 8”",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Public Safety staff will provide assistance for the screening process if the need arises, such as if a medical condition prohibits a guest from going through metal detection. In those circumstances other screening accommodations will be made.",
+   "Please Note: All carry-in items will be subject to inspection upon entry or at any time while inside of the Ballpark. Bags cannot be left unattended at any time."
+  ],
+  "claim_sha256": "4886842d64676753042d2f4cdd7b99b107c8b81e6648ce3476779688fd496a97",
+  "source_sha256": "05c0457646772b00db4b5cb0355bcdb3a5a7c3471737285f90870f4b02e5d81f",
+  "final_url": "https://www.mlb.com/reds/ballpark/information/guide"
+ },
+ "great-american-ball-park.chronic.3": {
+  "url": "https://www.mlb.com/reds/ballpark/information/guide",
+  "quote": "Guests can use the re-entry system by reporting to the designated gate at the Gapper’s Alley, to have their ticket scanned. Guests are subject to metal detection screening upon re-entry and there will be no carry-in items permitted through the re-entry gate. If a Guest uses any other gate, other than the designated gate for re-entry to exit they will not be able to partake in the re-entry service.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "There is a designated smoking area, outside of Gapper’s Alley (Gate B) behind Section 119, that is available for those that wish to smoke. Guests inside of the ballpark can use the re-entry gate at the Gapper’s Alley gates to gain access to the smoking area. Guests are subject to metal detection and carry-in item screening upon re-entry and all other entry policies remain in place. If a guest uses any other gate to exit, other than the designated gate for re-entry, they will not be able to partake in the re-entry service."
+  ],
+  "claim_sha256": "6998d79c8695f0bf7a82a7e2e90b86bc0894a8d367476907ef91c0876b2e9d19",
+  "source_sha256": "05c0457646772b00db4b5cb0355bcdb3a5a7c3471737285f90870f4b02e5d81f",
+  "final_url": "https://www.mlb.com/reds/ballpark/information/guide"
+ },
+ "great-american-ball-park.chronic.4": {
+  "url": "https://www.mlb.com/reds/ballpark/information/guide",
+  "quote": "All restrooms at Great American Ball Park have diaper-changing stations available and are accessible to Guests with disabilities. Social distancing measures have been instituted, including closing off every other sink and for the men, every other urinal. Below is a list of sections where public restrooms are located throughout the ballpark:",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ccbaa902876c510dceede4f318e93deaf2588a0c815d2259ac59e786f1dcd7b1",
+  "source_sha256": "05c0457646772b00db4b5cb0355bcdb3a5a7c3471737285f90870f4b02e5d81f",
+  "final_url": "https://www.mlb.com/reds/ballpark/information/guide"
+ },
+ "great-american-ball-park.chronic.5": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "TriHealth First Aid Stations are staffed with trained medical personnel affiliated with TriHealth's Bethesda North and Good Samaritan Hospital.\nGuests will find the Great American Ball Park First Aid Stations in the following locations:\nTerrace Level near Sections 125-126.\nOn the Terrace Level near Sections 109-110.\nView Level near Section 411.\nMedical personnel are on duty for all games and large events (i.e. concerts). Should medical assistance be needed, ask any member of the Great American Ball Park staff for immediate assistance or in less serious situations the location of the nearest First Aid Room.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Guests in need of a wheelchair transport can make their request to the nearest Reds Public Safety Employee, either of the two TriHealth Fan Accommodation Stations located at Sections 119 and 420 near Gapper's Alley, or at any of the TriHealth First Aid Stations located near Sections 109, 127 or 409. A Game Day Team member will escort you to your seat and can pick you up when you are ready to leave. Wheelchairs are not available for personal use during the event."
+  ],
+  "claim_sha256": "325bfdc9330ae68d0565ed9d5611062a0897a2697c1f69da61f13a7fd1d6389c",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.chronic.6": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "Water fountains are available throughout the Great American Ball Park for public use. Water fountains are found near the below sections:\nTerrace Level:\nSection 104/105\nSection 110/111 (includes bottle filling station)\nSection 120/121\nSection 127/128\nSection 135/136 (includes bottle filling station)\nSection 141/142\nSection 144/145\nView Level:\nSection 411\nSection 415\nSection 419\nSection 427\nSection 428\nSection 433\nSection 435 (includes bottle filling station)",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ff9e7c0e360d5759393517547c966412c4e396463c6547492af745ce49df434e",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.cognitive.1": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "In the event that you have an issue while at Great American Ball Park and need to reach the Public Safety staff, you can text \"REDS\" and your issue to 69050.\nPublic Safety will reply, and staff will be dispatched to your area if the situation demands a response.\nMessage and data rates may apply.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "645d686eb30a350f8be3c5aa73aae0d1eefc7638780e24393516fbdc0cea8158",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.cognitive.2": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "In accordance with state and federal law, service dogs and miniature horses assisting guests with disabilities are permitted inside Great American Ball Park. Other animals, including comfort animals, are not permitted in Great American Ball Park.\nService dogs must be harnessed, tethered, or leashed, unless those devices interfere with the service dog's work or the Guests disability prevents these devices from being used. In that case, the Guest must maintain control of the dog through voice, signal, or other effective controls.\nThe grassy berms outside the Re-Entry Gate by Gate A has been designated as the animal relief area.\nReds Staff may ask for your ticket location. While service dogs are permitted, some members of the public are unaware of this. Reds staff will note where you are sitting to prevent other Guests from interfering with the work of the service dog.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "00428d53b008d529868165ec46f15330e8dcac6d0e5ab7e868745a9586c1a082",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.mobility.1": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "The accessible pickup/drop-off zone is located on Joe Nuxhall Way, between Mehring Way and Freedom Way, along the west side of Great American Ball Park. There is a second accessible pick/drop off zone located at the corner of Broadway and Mehring Way on the Southeast corner of the ballpark. Cars, vans and small buses displaying a valid accessible placard or valid accessible license plate will be permitted to enter the pickup/drop-off zone beginning one half (1/2) hour before gates open to approximately one (1) hour after the conclusion of the game. Large school buses and large charter/tour buses are prohibited from entering this zone. Guests traveling to the ballpark in a large school bus or large charter/tour bus should contact the Group Sales department at\n(513) 765-7600\nfor information on bus pickup and drop-off locations.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "16493013776c48d78118f4c285ff9007cc27916a4aaaf76f1c8a6105afb3934b",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.mobility.2": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "Accessible seating is located in the last rows of Infield Box, Field Box, Terrace Line, Terrace Outfield, Mezzanine, Outer Mezzanine and View Level Box. The top accessible row of each section does have electrical outlets available for use.\nAll ADA seating is accessible by elevators and ramps.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The majority of Great American Ball Park Entrances are on accessible routes. Gates A, B, C, and H are at street level, while Gates D and E are on the Suite Level. Gate D is accessible to Suite Holders only and can be accessed by ramp, elevator, or escalator. Gate E is accessible to all Guests by ramp, elevator, or escalator."
+  ],
+  "claim_sha256": "20d0416e18b6b6b54f896ddbdf7537571032c91a7c85df6119e3a5d1058f98c4",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.mobility.3": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "Guests in need of a wheelchair transport can make their request to the nearest Reds Public Safety Employee, either of the two TriHealth Fan Accommodation Stations located at Sections 119 and 420 near Gapper's Alley, or at any of the TriHealth First Aid Stations located near Sections 109, 127 or 409. A Game Day Team member will escort you to your seat and can pick you up when you are ready to leave. Wheelchairs are not available for personal use during the event.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3ede70de42036e32a9836aaef9896371cb7ada5d55e895c5fcd4a976def56839",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.mobility.4": {
+  "url": "https://www.mlb.com/reds/ballpark/information/guide",
+  "quote": "Elevators can be found behind Sections 101, 110, 121, 127 and 135.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Accessible parking is available in the East section of the Central Riverfront Garage (formerly called the Great American Ball Park Parking Garage) for $27 and in the East Garage for $16. While the number of accessible parking spaces is more than adequate, guests are still encouraged to arrive at the scheduled gate opening time to make it more convenient to the accessible parking spaces. These areas are pay-upon-entry and will be Credit Card ONLY. Parking will be sold on a first come, first served basis, based on availability. The Great American Ball Park parking lots open 5 hours before game time."
+  ],
+  "claim_sha256": "5dde6735639e2af1a6f5563dd1fa40d3131c4ec7468e8856f49ef781e66da6a5",
+  "source_sha256": "05c0457646772b00db4b5cb0355bcdb3a5a7c3471737285f90870f4b02e5d81f",
+  "final_url": "https://www.mlb.com/reds/ballpark/information/guide"
+ },
+ "great-american-ball-park.mobility.5": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "A limited pickup/drop off zone is located at the corner of Johnny Bench Way and Mehring Way, on the southeast corner of the ballpark. Guests may enter the building through the Elevator Entrance on that corner.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "10defa2906b00194b8c05eb47280237289743c5b2a0a418b5049c3ede786c77c",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.mobility.6": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "The majority of Great American Ball Park Entrances are on accessible routes. Gates A, B, C, and H are at street level, while Gates D and E are on the Suite Level. Gate D is accessible to Suite Holders only and can be accessed by ramp, elevator, or escalator. Gate E is accessible to all Guests by ramp, elevator, or escalator.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "56efc4f79a80b0a27a32bd4109ca641379ce6ba7595d2069c42cf9b21d8c8d8e",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.sensory.1": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "Guests can request the use of Assisted Listening Devices (ALD) at any TriHealth Fan Accommodation Station located behind Sections 119 or 420.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Cincinnati Reds provide two dedicated captioning boards to provide a readily accessible experience for patrons of Great American Ball Park who are deaf, hard of hearing or late deafened. The dimensions of the dedicated left-field captioning board are 3.1 feet x 22 feet with a font size of one foot per each of its two lines of text. In order to provide captioning to patrons seated in the outfield sections of the ballpark, the Reds have also added a dedicated captioning board along the first-base line of the ballpark. The dimensions of the first base captioning board are 3.1 feet x 17 feet with a font size that is also one foot per each of its two lines of text. In addition to in-bowl captioning, the Reds will caption the game broadcasts in all club areas of the ballpark through closed captioning on televisions dispersed throughout the club areas."
+  ],
+  "claim_sha256": "53d988b9f01af2bcf616b0310d17184bbd78590fe2d583a2ff94517f6ff64031",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
+ },
+ "great-american-ball-park.sensory.2": {
+  "url": "https://www.mlb.com/reds/ballpark/information/guide",
+  "quote": "Fans needing assistance at Reds games can download the Aira Explorer app to access visual interpreting, or the Aira ASL app for American Sign Language interpreting.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "As part of the TriHealth Family Zone, fans will have access to a sensory room, a therapeutic space with a variety of equipment that provides individuals with special needs a safe location with personalized sensory input and is staffed by TriHealth Medical Personnel."
+  ],
+  "claim_sha256": "04af2e32863c1fe07179b5e07c8717ea5726d29f8fe8ca359f7ddf7b08a4a589",
+  "source_sha256": "05c0457646772b00db4b5cb0355bcdb3a5a7c3471737285f90870f4b02e5d81f",
+  "final_url": "https://www.mlb.com/reds/ballpark/information/guide"
+ },
+ "great-american-ball-park.sensory.3": {
+  "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+  "quote": "Braille and tactile signs are located throughout the facility.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "In addition to in-bowl captioning, the Reds will caption the game broadcasts in all club areas of the ballpark through closed captioning on televisions dispersed throughout the club areas."
+  ],
+  "claim_sha256": "81830606424f7d50faa82a5ca114e1e3a596b4ef08f2fea6a26cb6c8f1b18fb2",
+  "source_sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+  "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide"
  },
  "great-wolf-lodge-mason.chronic.1": {
   "url": "https://www.greatwolf.com/mason/faq",
@@ -6509,6 +6773,45 @@
   "quote": "You may also choose their cute outside dining tables that are located on the sidewalk out front.",
   "verified_at": "2026-11-12"
  },
+ "mary-rose-mission.cognitive.1": {
+  "url": "https://maryrosemission.org/",
+  "quote": "We are proud to serve a hot meal every day from 4:00 until 5:30!",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Mary Rose Mission owns a building at 272 Main Street in Florence"
+  ],
+  "claim_sha256": "db26ba39c98aeb120542eda36a7540376dc7d813536f5cd05753b2b783e618fd",
+  "source_sha256": "b36dd0655552a9e070bb20bd6113653695a32d777e032321920808c4200fa8b9",
+  "final_url": "https://maryrosemission.org/"
+ },
+ "mary-rose-mission.cognitive.2": {
+  "url": "https://maryrosemission.org/contact/",
+  "quote": "Office Hours: Mon-Fri 10:00 am – 3:00 PM",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "OFFICE HOURS: Mon-Fri 9:00-3:00",
+   "Phone: 859.292.0300"
+  ],
+  "claim_sha256": "b533a8dc23fa9a59991a9d1b46ee4c7998f51a44456f830f6c62404e84713dd2",
+  "source_sha256": "7b4705c4a4571b2b80386231e0a32fd4f43ce7e5c4cdfe58beefd0c4f7b97454",
+  "final_url": "https://maryrosemission.org/about/contact/"
+ },
+ "mary-rose-mission.cognitive.3": {
+  "url": "https://maryrosemission.org/",
+  "quote": "ALL ARE WELCOME!",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3a0d75348a19b5994677ae515b6a109205046b86064ccf44e3cea42c64dca8ed",
+  "source_sha256": "b36dd0655552a9e070bb20bd6113653695a32d777e032321920808c4200fa8b9",
+  "final_url": "https://maryrosemission.org/"
+ },
+ "mary-rose-mission.mobility.1": {
+  "url": "https://maryrosemission.org/about/",
+  "quote": "They will help with the children and will assist the elderly and special needs guests by carrying their trays to the tables. We have a “greeter” at the door welcoming our guests to dinner",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "7ad2c6a6b02c37df60d9e2ee8e9b64e51fc2c2aa9e43cd608a18cd1e787284c9",
+  "source_sha256": "01cf5d28fd7510a5c76fac487b0a295e7bb737bb2b6c836bbaaefbd83f84e3dc",
+  "final_url": "https://maryrosemission.org/about/"
+ },
  "mayerson-jcc.chronic.1": {
   "url": "https://mayersonjcc.org/programs/inclusion-programs/",
   "quote": "We have a family locker room that allow space to assist with changing ( please note we do not currently have adult changing tables ) or showering as needed.",
@@ -7560,6 +7863,195 @@
   "quote": "Bluetooth speakers or other similar music devices are not permitted.",
   "verified_at": "2026-11-12"
  },
+ "paycor-stadium.chronic.1": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "Guests leaving the stadium before or during events will not be allowed back into the stadium. Medical emergencies are the only exceptions.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For any medical emergency while inside Paycor Stadium, notify any Paycor Stadium Team Member, who will contact medical assistance. If patrons know in advance that they may need to exit Paycor Stadium for a medical emergency, they may register at the Kettering Health First Aid Station located on the plaza level in the north endzone closest to Northeast Gate.",
+   "To relieve the animal, the handler should contact a stadium gate manager to obtain permission prior to exiting the stadium to ensure they will be granted re-entry."
+  ],
+  "claim_sha256": "debca6705c3711c168d8c9c9e4d844ae41d1b86cb1ee8eca12d1c0b0dd1a16aa",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.chronic.2": {
+  "url": "https://www.bengals.com/stadium/prohibited-items-bag-policy",
+  "quote": "An exception will be made for medically necessary items after proper inspection at the gate. Diapers and wipes can be carried in a clear bag, however, non-clear diaper bags are",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "92aa5b78040f827eb793c798a593fae2199afee81c381a530d40fbefa5ad7007",
+  "source_sha256": "842581c7e0982ce4ab3def163727d544027429ef0edbccdfc61d477fcdc40e49",
+  "final_url": "https://www.bengals.com/stadium/prohibited-items-bag-policy"
+ },
+ "paycor-stadium.chronic.3": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "Sealed bottled water is permitted, but food is prohibited (only exception is for medical/dietary conditions)",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "86ff183ca70bb02e642c11c1b2dbc4da02ca5b9078db77d454f01c801c96fc5b",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.chronic.4": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "Family restrooms are located throughout the stadium at the following locations:\nEast Sideline - Sections 134\nWest Sideline - Sections 104\nPlaza - Sections 102, 118, 132, 148 and 150\nNorth Club - Section 224\nEast Canopy - Sections 337 and 343\nWest Canopy - Sections 306 and 314\nEast Club Lounge\nWest Club Lounge",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "09ded5b6a2a7a8f9634f40559e86021d2876f36b50a756f007ccfafc38b0750a",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.chronic.5": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "First Aid stations are located throughout the stadium at the following locations:\nEast Sideline - Section 136\nWest Sideline - Section 116\nNorth Plaza - Section 129\nEast Canopy - Section 334\nWest Canopy - Section 316",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For any medical emergency while inside Paycor Stadium, notify any Paycor Stadium Team Member, who will contact medical assistance. If patrons know in advance that they may need to exit Paycor Stadium for a medical emergency, they may register at the Kettering Health First Aid Station located on the plaza level in the north endzone closest to Northeast Gate."
+  ],
+  "claim_sha256": "23a90381976dc31681958bda9d5252ad122097bbcf013950dda4d0a686ebb6fd",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.chronic.6": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "Nursing mothers who would like to bring in pumping equipment can do so by approaching the ticket gate and notifying our security personnel. Security will screen your bag and tag it so that it can be permitted to enter.\nOnce inside the stadium, if you would like to nurse or pump, please find your way to one of our dedicated nursing stations located at section 114 or 144 or any one of our Kettering Health First Aid stations where they can provide you with a clean, private space with electricity (if needed).",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "e6e0f3f2215ea779e9d916e07b43ef8be069507b381f24da836762b4c4216185",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.chronic.7": {
+  "url": "https://www.bengals.com/stadium/prohibited-items-bag-policy",
+  "quote": "All coolers (unless medically required)",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Segways or motorized scooters (mobility devices are allowed)"
+  ],
+  "claim_sha256": "e9f8a6cf1f05cebe5770d7176740cd71a67ebce540659337aacc289ec5a5c812",
+  "source_sha256": "842581c7e0982ce4ab3def163727d544027429ef0edbccdfc61d477fcdc40e49",
+  "final_url": "https://www.bengals.com/stadium/prohibited-items-bag-policy"
+ },
+ "paycor-stadium.cognitive.1": {
+  "url": "https://www.bengals.com/news/fan-guide",
+  "quote": "Due to traffic congestion on Central Avenue, the road will be closed until 30 minutes after the event. Pick up of guests after the event may begin once Central Avenue is reopened.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d5981c438b0f8834344d02b5d19a9841380c84092bc61ba75f28e76099a5b8b8",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.cognitive.2": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "In accordance with Federal ADA Guidelines, certified service animals assisting guests with disabilities are permitted inside Paycor Stadium. Emotional support animals and comfort animals are not permitted in Paycor Stadium. Under the ADA, service animals must be harnessed, leashed, or tethered, unless the individual's disability prevents using these devices or these devices interfere with the service animal's safe, effective performance of tasks. In that case, the individual must maintain control of the animal through voice, signal, or other effective controls. The handler is responsible for the service animal at all times, including any necessary clean up. To relieve the animal, the handler should contact a stadium gate manager to obtain permission prior to exiting the stadium to ensure they will be granted re-entry.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "cc5e4a619ead77c34a428e2368ccc310ad9e72ecd54498fa6b2c9646b4635d2d",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.cognitive.3": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "Fans wishing to report poor behavior or other concerns during Bengals games at Paycor Stadium may do so by sending the text message \"HELP\" to 69050 with your problem and location. Patrons who fail to comply with the Fan Code of Conduct may be ejected and have their season tickets revoked. More serious offenses could lead to arrest.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "67ceb39b85827387435babe58147bf645fda66ef04572158c550eba68dd42d60",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.cognitive.4": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "We are currently in the process of continuing to make improvements to Paycor Stadium to ensure it provides a best-in-class experience for fans. Due to 2026 construction projects, stadium tours are currently not available.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "eedbea32150cb2582f3412d15d660b64a81e653a4ed6296ec2089fb7690270bd",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.mobility.1": {
+  "url": "https://www.bengals.com/news/fan-guide",
+  "quote": "Accessible (ADA) seating is available throughout Paycor Stadium, on all three levels. Guests who require ADA seating should contact the Bengals ticket office at 513-621-8383 to purchase those seats in advance. Seats are offered on a first come, first served basis.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "1ea84c586001015ea587a784450d359e7fa6d4f3227ba2cf6f7a28b85c65ea9d",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.mobility.2": {
+  "url": "https://www.bengals.com/news/fan-guide",
+  "quote": "Prior to the game, ADA guests can be dropped off at the curb cut-out along Central Ave. between West Pete Rose Way and Mehring Way providing direct access to West Gate. ADA guests can also be dropped-off or picked-up at the corner of Race St. and Freedom Way, just outside E + O Kitchen, providing direct access to East Gate.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "319cdb7470fbac333ad6ac980cf0aec0c1d36ca36fc261b6889666d3ac92f663",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.mobility.3": {
+  "url": "https://www.bengals.com/news/fan-guide",
+  "quote": "Elevators are reserved for use by guests with mobility needs (along with one companion) as well as suite holders and club seat patrons. Elevators are located on the East and West sides of Paycor Stadium.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "95c5debb0550f9d78aa7b4e10022f4e1b71844ef2297531fd1b97c6552adcdd0",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.mobility.4": {
+  "url": "https://www.bengals.com/news/fan-guide",
+  "quote": "There are seven entry gates. All entrances are accessible for guests with disabilities.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a82ec065fcb2e0fe9408c6ac9f75181d8e082f06edf4f33763412ad825a06f07",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.mobility.5": {
+  "url": "https://www.bengals.com/stadium/parking-and-directions",
+  "quote": "Accessible Parking: Every lot provides handicap parking spaces for season ticket holders with passes for the lot.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "9a896019ef97cbe8cf5035eb6a53188d52a68696c41c1ea27c5dbf1f5fe67932",
+  "source_sha256": "1e75d33a515001d9a718741573d69633adad6c299886dc37a4ed6fc6ff5771b6",
+  "final_url": "https://www.bengals.com/stadium/parking-and-directions"
+ },
+ "paycor-stadium.mobility.6": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "Paycor Stadium has over 1,000 handicap seating areas available. If you have special seating needs, please contact the Bengals ticket office at 513-621-8383. The ticket office is open Monday-Friday from 9 a.m.-5 p.m. On game day, handicap seating can be arranged by visiting the North Ticket office (located between the altafiber Northwest Gate and Northeast Gate on the north end of the stadium).",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Accessible (ADA) seating is available throughout Paycor Stadium, on all three levels. Guests who require ADA seating should contact the Bengals ticket office at 513-621-8383 to purchase those seats in advance. Seats are offered on a first come, first served basis."
+  ],
+  "claim_sha256": "893c4f978c7709c5e42ff2d78c4d9d5b3a35ed60b13c624065596f46041feed8",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
+ "paycor-stadium.mobility.7": {
+  "url": "https://www.bengals.com/stadium/parking-and-directions",
+  "quote": "Rideshare\nDrop Off and Pick Up:\n2nd Street between Vine and Walnut (map above)",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "60d7f998082660eaca0e8255f9be726845f3f6ac4f76a354524019e6f16c3de5",
+  "source_sha256": "1e75d33a515001d9a718741573d69633adad6c299886dc37a4ed6fc6ff5771b6",
+  "final_url": "https://www.bengals.com/stadium/parking-and-directions"
+ },
+ "paycor-stadium.mobility.8": {
+  "url": "https://www.bengals.com/news/important-parking-updates-paycor-stadium-2026",
+  "quote": "For 2026 and through the duration of the project, Lot 1 and Lot A will experience capacity reductions for Bengals gamedays.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Those with parking passes in Lot 1 or Lot A are encouraged to log in to their Bengals Account Manager to view their updated parking locations.",
+   "Members with questions are encouraged to contact their Membership Reps or call 513-621-8383.",
+   "Jun 30, 2026 at 10:59 AM"
+  ],
+  "claim_sha256": "6c6ef0a812ccc19674405646b2c84559247f6cabc0c02283dfda6930887a28db",
+  "source_sha256": "8c572fc8d6ff2f5ddd3cee0288038fc530e1045202483f3e1117dd213ac2cd58",
+  "final_url": "https://www.bengals.com/news/important-parking-updates-paycor-stadium-2026"
+ },
+ "paycor-stadium.mobility.9": {
+  "url": "https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look",
+  "quote": "Essential infrastructure work is ongoing, including concrete repairs, waterproofing, and passenger elevator modernization, to help ensure the stadium remains in top condition.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Jul 21, 2026 at 08:59 AM"
+  ],
+  "claim_sha256": "9259832192ee315d58192db9721a0243f21a61aa8ebeb5a18340156558701b2f",
+  "source_sha256": "4e0984e40596931162208ba78794dd9005539dff0208c5500938ea389c337e26",
+  "final_url": "https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look"
+ },
+ "paycor-stadium.sensory.1": {
+  "url": "https://www.bengals.com/fans/fanguide",
+  "quote": "The Jungle is celebrated for its energy and noise, which are important to the home field atmosphere and broader live sporting event experience. Guests should be aware that standing, cheering, and expressive reactions are common during gameplay, which may temporarily impact sightlines for some guests. This applies for fans of both teams.\nBy attending an event, ticket holders acknowledge and accept that:\nStanding is a normal and expected part of the live game experience\nClear views may vary depending on game action and crowd behavior\nSituations in which standing is permitted include but are not limited to:\nBig plays – interceptions, defensive stops on 3rd and 4th downs, sacks, general things that excite fans during games\nAny points scored – touchdown, field goal\nPre-snap for defensive snaps\nOtherwise, the majority rules. Fans are asked to be considerate of others nearby, who may have a limited ability to stand and view the game.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "452420c7e4c9d596dfa2c4c551f7d288fd34a8401739d5f46abed73b2e60d255",
+  "source_sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+  "final_url": "https://www.bengals.com/fans/fanguide"
+ },
  "pendery-park.chronic.1": {
   "url": "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/shelters/",
   "quote": "Pendery Shelter 1 Located at the back of Pendery Park on the left. Largest shelter in the park. 12 Wooden Picnic Tables, Port-a-Let Basketball Court, Playground, Corn-Hole, Ballfields all within walking distance Capacity: 72 seated",
@@ -7837,6 +8329,163 @@
   "url": "https://rhinegeist.com/celebrations/",
   "quote": "There’s a small public lot across the street (first come, first served) plus several paid options nearby. We can provide a parking map. Valet parking is available as an add-on.",
   "verified_at": "2026-11-12"
+ },
+ "riverbend-music-center.chronic.1": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "There is no re-entry for all events at Riverbend Music Center & PNC Pavilion.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Possible exceptions include:\nMedically necessary bags and diaper bags accompanied by the guest using them. All bags will be searched."
+  ],
+  "claim_sha256": "e5810fbf2b297c8455b136dfa324beb7717475b0dadd48f4f36de438b5042262",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.chronic.2": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "All events are rain or shine, and no refunds or exchanges will be issued in the event of rain. In the event of severe weather during a concert, alerts and instructions will be given via the venue social media pages.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "bcd7554ec2a1a3e6397fa94138f12cc4a1cd485eeb527570e317be208f7f4b76",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.chronic.3": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "First Aid is located on the East end of the property (closest to Belterra Park). To view the location of First Aid, please view our",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "fb0468f32a221bd4bfdd0aa5fdb33d7ce25dafcbcc73648d19b6ae5c22a000da",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.chronic.4": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "Patrons are allowed 4 (unfrozen) factory sealed non-alcoholic beverages in plastic bottles for events. Alternatively, patrons can bring in soft, empty, squeezable plastic water bottles. Cups and bottles can be filled up at the ICON Property Water Filling Stations located on the concourse. Please note, the concert you are attending may require you to pour your water bottles into cups. Please refer to your specific event page on the day of show for pour policies. Canned beverages are prohibited.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c06f5eeae795e5c37b3b12826a6f52becefbac5aa172c28d9afdf3b5c0a27608",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.chronic.5": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "Service animals covered under ADA Regulations are allowed in the Riverbend Music Center and PNC Pavilion. Pets & other animals are prohibited from all events.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "60a949e1903a5c6c36c5024d1c56d78ef8c0e9a292041d3151f88f8dbb2c5560",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.cognitive.1": {
+  "url": "https://riverbend.org/plan-your-visit/directions-parking",
+  "quote": "Parking is included in the price of each ticket and is available for all ticketholders of Riverbend Music Center and PNC Pavilion events. Parking is available in surrounding lots by entering Gate 1, Gate 2 and Gate 4.\nParking lots open 2 hours before Door Time unless otherwise specified.\nPlease check the event page of your event for more information.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ed68ad7006205258cebae70f3f21e3d0d684b1c2b169e71bf08a65b80d790e60",
+  "source_sha256": "06a6444b0e36e67fc21f8cc00877554272ed24aa8744b3a7eb09e23fb77ed403",
+  "final_url": "https://riverbend.org/plan-your-visit/directions-parking"
+ },
+ "riverbend-music-center.cognitive.2": {
+  "url": "https://riverbend.org/venue-information/accessibility",
+  "quote": "If you are in need of further assistance, please call 513.232.5882",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "43869421a0bfbaa2fd3e90a03d24bc54d58aaf14b1756f6cc765ffd283b2f9f4",
+  "source_sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
+  "final_url": "https://riverbend.org/venue-information/accessibility"
+ },
+ "riverbend-music-center.cognitive.3": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "The Riverbend Music Center and PNC Pavilion box office is closed for the season. Please check back for updates.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Riverbend Music Center & PNC Pavilion Box Office is located next to the main gate entrance."
+  ],
+  "claim_sha256": "6afc53c13f121ec19423766ce8fee945ff0966c3af8c154a4f2ebaf2c3c0624c",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.cognitive.4": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "You may line up outside the Riverbend Music Center & PNC Pavilion Main Gate entrance up to one hour before door time.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "975282f37d541fd1af500320a0b616b6074fe01d61d2b91743ea48c846c2104a",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.cognitive.5": {
+  "url": "https://memi.biz/calendar",
+  "quote": "6199 Kellogg Avenue, Cincinnati, OH 45230 Set to open in Spring 2027, The Farmer Music Center",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "6295 Kellogg Avenue, Cincinnati, OH 45230 For over 40 years, Riverbend Music Center",
+   "6295 Kellogg Avenue, Cincinnati, OH 45230 PNC Pavilion"
+  ],
+  "claim_sha256": "ed4425e8b605d9360162e0f495caf116cafd2b9c53faa0c61816c1d3c0edb7b5",
+  "source_sha256": "833d108fa706daf1ce9a2d362938951ba2c36c1dc216c9862e29af5fce68d4f4",
+  "final_url": "https://memi.biz/calendar"
+ },
+ "riverbend-music-center.mobility.1": {
+  "url": "https://riverbend.org/venue-information/accessibility",
+  "quote": "Patrons MUST SPECIFY if they need ADA, hearing impaired, or visually impaired seating at the time of ticket purchase. A ticket will be sold in the designated ADA section on a best available basis. These seats allow for one to three companions. ADA tickets can be purchased at\nTicketmaster.com\nor at the venue box office during operating hours.\nIf you require ADA assistance, but did not purchase an ADA ticket, please visit the Customer Service booth by the main gate to get reseated.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "52d4f29196dba1bba8c605b769b2a5823e9479a1dbf5f33c713f725cbf3ef00b",
+  "source_sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
+  "final_url": "https://riverbend.org/venue-information/accessibility"
+ },
+ "riverbend-music-center.mobility.2": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "These seats allow for up to 3 companions if purchased in advance, or 1 companion if re-seated on site. ADA tickets can be purchased at",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b8b9c317211e67ac45eb89ea874a32d6ab31e145b000f0aaff37c5abd6ebd34d",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.mobility.3": {
+  "url": "https://riverbend.org/plan-your-visit/directions-parking",
+  "quote": "Accessible parking is available in all lots. Parking attendants at each gate will direct patrons to the appropriate locations. Patrons looking for the closest accessible parking spaces should enter Gate 2.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "7fb29dc709719a8553224d1b834b9f2caa01d17d2489de991f1ec82770affc65",
+  "source_sha256": "06a6444b0e36e67fc21f8cc00877554272ed24aa8744b3a7eb09e23fb77ed403",
+  "final_url": "https://riverbend.org/plan-your-visit/directions-parking"
+ },
+ "riverbend-music-center.mobility.4": {
+  "url": "https://riverbend.org/venue-info/faq",
+  "quote": "Drivers should use the pull off lane on Kellogg Avenue in front of Gate 2 to drop patrons off. If there is a lot of pedestrian or vehicle traffic, drivers will be brought into Gate 2 to drop off patrons and then sent out of Gate 1 via a connecting road next to Lake Como. Patrons can be picked up in Lot 9 after the concert is over. To view the location of Lot 9,\nclick here\n.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "All patrons utilizing Uber, Lyft, or any other ridesharing service must wait in the Rideshare Lane in the parking lot in Lot 9 across from Gate 2 (corner of Kellogg Avenue and Sutton Road). To view a map of the Rideshare lane,\nclick here\n.\nIf you are picking up a patron, please utilize the pull off lane at Gate 2 and direct the patron you are picking up to meet you there."
+  ],
+  "claim_sha256": "cfcb0a2abfa484ec15cfd73fba26cc604753637da7bae81ec21a3608a450893a",
+  "source_sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+  "final_url": "https://riverbend.org/venue-info/faq"
+ },
+ "riverbend-music-center.mobility.5": {
+  "url": "https://riverbend.org/venue-information/accessibility",
+  "quote": "Chairs in the ADA areas have the following measurements: 33 ½ inches tall, 18 in wide and 17 from front to back of the seat.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8ed89dd7fd04486a3831d8e883b158973cfd87b95c5b112f5696159e5f5cc89f",
+  "source_sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
+  "final_url": "https://riverbend.org/venue-information/accessibility"
+ },
+ "riverbend-music-center.mobility.6": {
+  "url": "https://riverbend.org/venue-information/accessibility",
+  "quote": "By purchasing tickets for the ADA section, you confirm that you or a member of your party requires reserved seating due to mobility or standing difficulties. To ensure that all guests enjoy an optimal viewing experience, you may be requested to remain seated in the ADA section throughout the event.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "65cbdd1898b133b359758b39366012e0579ce9fee1cf71ea9e973b2960fec018",
+  "source_sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
+  "final_url": "https://riverbend.org/venue-information/accessibility"
+ },
+ "riverbend-music-center.sensory.1": {
+  "url": "https://riverbend.org/venue-information/accessibility",
+  "quote": "Patrons MUST SPECIFY if they need ADA, hearing impaired, or visually impaired seating at the time of ticket purchase. A ticket will be sold in the designated ADA section on a best available basis. These seats allow for one to three companions. ADA tickets can be purchased at\nTicketmaster.com\nor at the venue box office during operating hours.\nIf you require ADA assistance, but did not purchase an ADA ticket, please visit the Customer Service booth by the main gate to get reseated.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "00074d9f7b6be5de8c0ca990fabc3babd276a696d23776102c5932af1ea45b79",
+  "source_sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
+  "final_url": "https://riverbend.org/venue-information/accessibility"
+ },
+ "riverbend-music-center.sensory.2": {
+  "url": "https://riverbend.org/venue-information/accessibility",
+  "quote": "Riverbend Music Center and PNC Pavilion offer sign language interpretation upon request. Requests for sign language interpreting services must be received no later than 3 weeks before the event, and are subject to the availability of an interpreter. Please email info@riverbend.org to request an interpreter.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f17de3bcaf53ba6558053a2f8f97ebd26a6f629c574a95c6a8c5a4d72c498c92",
+  "source_sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
+  "final_url": "https://riverbend.org/venue-information/accessibility"
  },
  "riverside-mainstrasse-village-food-tour.chronic.1": {
   "url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",

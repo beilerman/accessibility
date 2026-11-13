@@ -1,0 +1,161 @@
+{
+  "availability_only": true,
+  "venues_not_rechecked": true,
+  "sources": [
+    {
+      "slug": "nippert-stadium",
+      "url": "https://gobearcats.com/ada-accessibility",
+      "status": 200,
+      "final_url": "https://gobearcats.com/ada-accessibility",
+      "last_modified": null,
+      "sha256": "3602bf8b4bc25178651315cd8aa46d0f441b2c043531b50477c4a7cdeb16c8c1",
+      "fingerprint_version": 6,
+      "chars": 1635
+    },
+    {
+      "slug": "nippert-stadium",
+      "url": "https://gobearcats.com/nippert-gameday-guide",
+      "status": 200,
+      "final_url": "https://gobearcats.com/nippert-gameday-guide",
+      "last_modified": null,
+      "sha256": "9f4c1927f6997ad58650d6bfa2e14eaa1033c3451454ec0c6fb90ae6f8acb042",
+      "fingerprint_version": 6,
+      "chars": 22746
+    },
+    {
+      "slug": "fifth-third-arena",
+      "url": "https://gobearcats.com/basketball-gameday-guide",
+      "status": 200,
+      "final_url": "https://gobearcats.com/basketball-gameday-guide",
+      "last_modified": null,
+      "sha256": "e73496390034b837426e0e0ec9c7c742895e317cf701430ea6c2c706c6fee21e",
+      "fingerprint_version": 6,
+      "chars": 17696
+    },
+    {
+      "slug": "heritage-village-museum",
+      "url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+      "status": 403,
+      "error": "Forbidden"
+    },
+    {
+      "slug": "heritage-village-museum",
+      "url": "https://heritagevillagecincinnati.org/frequently-asked-questions/",
+      "status": 403,
+      "error": "Forbidden"
+    },
+    {
+      "slug": "cincinnati-reds-hall-of-fame-and-museum",
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+      "last_modified": null,
+      "sha256": "d6d2d33dbb759e72551aae317033e568c41be9153cc61d25fe79805a3b710544",
+      "fingerprint_version": 6,
+      "chars": 662
+    },
+    {
+      "slug": "cincinnati-reds-hall-of-fame-and-museum",
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
+      "last_modified": null,
+      "sha256": "fbf2f4818ddef6afbd037db9e3aaac091c94f327949e369c5f8ac27df7bd215e",
+      "fingerprint_version": 6,
+      "chars": 2477
+    },
+    {
+      "slug": "cincinnati-reds-hall-of-fame-and-museum",
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing",
+      "last_modified": null,
+      "sha256": "0b8243a1ee77db2a047f425d3a02fe12af01dbb3745c0fc251d35e86348c2faf",
+      "fingerprint_version": 6,
+      "chars": 2149
+    },
+    {
+      "slug": "cincinnati-reds-hall-of-fame-and-museum",
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/tours",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/tours",
+      "last_modified": null,
+      "sha256": "12762fcb7fc70a96f67aa8627c11f113538e542582a819f5b745077a1367f8f1",
+      "fingerprint_version": 6,
+      "chars": 3838
+    }
+  ],
+  "map_followthrough": [
+    {
+      "name": "uc-ada-map",
+      "url": "https://storage.googleapis.com/gobearcats-com-prod/2025/07/29/HoYVcNkWOrMVrh9QtRNzFcOlM57ZzMF2x4IBizJr.pdf",
+      "pages": 1,
+      "bytes": 1789303,
+      "sha256": "f77479107e73344a88ad0ac351a3d723d98b6f6ae6e16952b04e5eb525a525cd",
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "FB25_Pricing_ALL_v2",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "Adobe Illustrator 29.6 (Macintosh)",
+        "producer": "Adobe PDF library 17.00",
+        "creationDate": "D:20250629110313-04'00'",
+        "modDate": "D:20250629110313-04'00'",
+        "trapped": "",
+        "encryption": null
+      },
+      "status": 200,
+      "checked_at": "2026-11-13",
+      "all_pages_visually_inspected": true,
+      "kind": "illustrated map, not photograph",
+      "decision": "Held for next full Nippert review; not added as a photographic guide or used to refresh any note.",
+      "source_link": "https://cpaw.me/fbpmada",
+      "landing_url": "https://gobearcats.com/documents/87c2cfb1-126f-41d5-b524-3c9dd30d03d9.pdf",
+      "version": "2025 printed on map; June 29, 2025 creation metadata",
+      "limits": "Seating symbols and 2025 ticket prices. Do not present old prices as current or infer dimensions and continuous routes."
+    },
+    {
+      "name": "uc-shuttle-map",
+      "url": "https://storage.googleapis.com/gobearcats-com-prod/2025/07/29/fSZmnvKMNmIohGhOrbJYwHfqVUUo09kQkx78IJdQ.pdf",
+      "pages": 1,
+      "bytes": 278438,
+      "sha256": "3afeb46339598137ec3ec7cf2d9f4eaf6e5e4cb4b3d609e3f29ded63772c6477",
+      "metadata": {
+        "format": "PDF 1.7",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "Adobe InDesign 20.4 (Macintosh)",
+        "producer": "Adobe PDF Library 17.0",
+        "creationDate": "D:20250722141851-04'00'",
+        "modDate": "D:20250722141851-04'00'",
+        "trapped": "",
+        "encryption": null
+      },
+      "status": 200,
+      "checked_at": "2026-11-13",
+      "all_pages_visually_inspected": true,
+      "kind": "illustrated map, not photograph",
+      "decision": "Held for next full Nippert review; not added as a photographic guide or used to refresh any note.",
+      "source_link": "https://cpaw.me/fbmgc",
+      "landing_url": "https://gobearcats.com/documents/8f903d29-1664-4a85-9e81-2cc2742650a2.pdf",
+      "version": "Nippert-2025 in linked document title; July 22, 2025 creation metadata",
+      "limits": "Football gameday map with three colored cart routes. Does not specify lift/ramp boarding, wheelchair carriage, transfer assistance, operating times or current construction diversions."
+    }
+  ],
+  "map_retrieval_note": "Shortlinks returned HTML document landing pages with .pdf suffixes; the actual PDF URLs were obtained from their object elements, fetched and rendered. Only the two actual one-page PDFs count as reviewed pages.",
+  "additional_scope_leads": [
+    {
+      "url": "https://www.uc.edu/campus-life/commencement/guests.html",
+      "status": "Search-discovered, requires normal fresh source gate before note use",
+      "scope": "Commencement-specific entrance and shuttle arrangements; do not generalize to football or basketball."
+    },
+    {
+      "url": "https://www.wgu.edu/content/dam/wgu-65-assets/web-sites/alumni/documents/2024-cincinnati-guidebook.pdf",
+      "status": "Search-discovered historical lead only; not fetched/rendered in this pass",
+      "scope": "2024 WGU commencement, including sensory-room reference. Do not present as current general Fifth Third Arena provision."
+    }
+  ]
+}

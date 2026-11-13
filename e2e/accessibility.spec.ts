@@ -5,6 +5,10 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/mary-rose-mission",
+  "/venues/brighton-center-family-center",
+  "/venues/paycor-stadium",
+  "/venues/great-american-ball-park",
   "/venues/cain-the-market",
   "/venues/be-concerned-covington",
   "/venues/mayerson-jcc",
@@ -228,6 +232,9 @@ test("access photographs and venue photo guides are reachable on mobile", async 
   await expect(gallery.getByRole("link", { name: /Open photo guide/ })).toHaveAttribute("href", /social-narrative-getting-around-2025\.pdf$/);
   await gallery.getByRole("link", { name: "Read the published route information" }).click();
   await expect(page.locator('[id="cincinnati-art-museum.mobility.2"]')).toBeInViewport();
+  await page.goto("/venues/paycor-stadium");
+  await expect(page.getByRole("link", { name: /Open photo guide \(web page, 26 photos\)/ })).toHaveAttribute("href", "https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look");
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await page.goto("/access-in-pictures");
   await expect(page.locator(".access-photo")).toHaveCount(accessPhotos.length);
   await expect(page.getByRole("link", { name: /Open photo guide/ })).toHaveCount(accessGuides.length);

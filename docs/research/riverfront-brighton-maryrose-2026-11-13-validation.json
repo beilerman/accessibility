@@ -1,0 +1,211 @@
+{
+  "prepared_at_utc": "2026-11-13T13:34:41.264956+00:00",
+  "base_commit": "7edd560cb0f3f78dd52a7fa1aad5c5ec4d7b93f7",
+  "publication_state": "Prepared for runner validation and atomic Git publication; not deployed by agent.",
+  "counts": {
+    "old_reviewed": 36,
+    "unchanged_rechecked": 26,
+    "evidence_backfills": 36,
+    "revised": 10,
+    "new_notes": 35,
+    "full_rechecks": 4,
+    "partial_rechecks": 0,
+    "new_places": 2,
+    "new_licensed_photos": 2,
+    "new_original_visual_pages": 4
+  },
+  "reviews": [
+    {
+      "slug": "great-american-ball-park",
+      "old_reviewed": 10,
+      "revised": 5,
+      "unchanged": 5,
+      "backfilled": 10,
+      "new_notes": 7,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "paycor-stadium",
+      "old_reviewed": 11,
+      "revised": 3,
+      "unchanged": 8,
+      "backfilled": 11,
+      "new_notes": 10,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "riverbend-music-center",
+      "old_reviewed": 11,
+      "revised": 1,
+      "unchanged": 10,
+      "backfilled": 11,
+      "new_notes": 7,
+      "previous_checked_at": "2026-11-08",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "go-bananas-comedy-club",
+      "old_reviewed": 4,
+      "revised": 1,
+      "unchanged": 3,
+      "backfilled": 4,
+      "new_notes": 0,
+      "previous_checked_at": "2026-11-08",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "totals": {
+    "places": 151,
+    "active_notes": 1550,
+    "quoted_active": 1430,
+    "missing_passages": 120,
+    "new_notes": 35,
+    "backfilled": 36,
+    "revised": 10,
+    "access_photos": 68,
+    "guide_entries": 37,
+    "distinct_guide_documents": 33,
+    "retired_notes": 1
+  },
+  "preservation": {
+    "all_existing_ids_and_history_prefixes": true,
+    "retired_notes": true,
+    "unrelated_places": true,
+    "all_preexisting_quote_records": true,
+    "all_preexisting_media_entries": true,
+    "unselected_source_snapshot_entries": true
+  },
+  "validation": {
+    "fresh_evidence_checks": 73,
+    "fresh_evidence_failures": 0,
+    "selected_source_baselines": 19,
+    "selected_sources_needing_attention": 0,
+    "total_selected_source_and_visual_links": 22,
+    "unit_tests": 96,
+    "unit_result": "pass",
+    "pipeline_tests": 74,
+    "pipeline_result": "pass",
+    "lint": "pass",
+    "typescript": "pass",
+    "build": "pass",
+    "generated_pages": 166,
+    "browser_tests_listed": 139,
+    "browser": "Blocked before page load: Chromium MachPort permission 1100; CUA browser host unavailable. No browser/Axe/responsive-layout pass. Runner host suite required.",
+    "failures_fixed": [
+      "Pipeline test ran before five new source baselines completed; rerun passed after normal baseline refresh.",
+      "Concert-venue provenance test assumed only venue-hosted sources; exact memi.biz/operator_official mapping added, with other provenance restrictions retained.",
+      "Final unittest discovery invocation used nonexistent pipeline/tests; corrected to -s pipeline, all 74 passed."
+    ],
+    "diff_check": "pass",
+    "linked_photo_views_visually_inspected": 66,
+    "held_pdf_pages_visually_inspected": 6,
+    "unfinished_shopping_photo_leads": 1,
+    "final_paycor_reentry_exception_http": true,
+    "all_changed_json_parse": true,
+    "conflict_markers": "none",
+    "changed_tracked_files": 13,
+    "new_files": 29
+  },
+  "http_checks": [
+    {
+      "route": "/",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 178325
+    },
+    {
+      "route": "/venues/brighton-center-family-center",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 78540,
+      "all_fact_anchors_present": true
+    },
+    {
+      "route": "/venues/mary-rose-mission",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 70585,
+      "all_fact_anchors_present": true
+    },
+    {
+      "route": "/venues/riverbend-music-center",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 143324,
+      "all_fact_anchors_present": true
+    },
+    {
+      "route": "/venues/great-american-ball-park",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 139324,
+      "all_fact_anchors_present": true
+    },
+    {
+      "route": "/venues/paycor-stadium",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 147768,
+      "all_fact_anchors_present": true
+    },
+    {
+      "route": "/venues/go-bananas-comedy-club",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 69549,
+      "all_fact_anchors_present": true
+    },
+    {
+      "route": "/access-in-pictures",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 474815
+    },
+    {
+      "route": "/images/access/gabp-crosley-terrace-approach-2025.webp",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 398404,
+      "sha256": "8827d8bf11c1c1964b4834255814877859c51e2fb41df3e764db7135ce3bb579"
+    },
+    {
+      "route": "/images/access/paycor-stair-aisles-2017.webp",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 395848,
+      "sha256": "dcd061b1511f892994cde042d1ce44baf43e9399283620b40c8ead665b2f8e50"
+    }
+  ],
+  "file_sha256": {
+    "src/data/places.json": "245b8126bde5ad133d997eff35fa3657437217e800b2221ebdd634fbcd771c8b",
+    "pipeline/evidence/quotes.json": "e6e135d2397e5b9dd245ceef84a53b6503304d7f057b8079d76846e193af40fd",
+    "src/data/access-photos.json": "6d16ada2d73967dfd7c766458f2fd420ab42031ff70a424adccba5491c655085",
+    "src/data/access-guides.json": "a9c4fe6cdc0e956d7c0cb1cbea900d1a576f2a9412b0305418b0bfb500521be0",
+    "pipeline/source-checks/2026-11-13.json": "05736d1c3fc06fd184953fd4791830a14de97cb19cfe8942873eaf930b58e589",
+    "src/lib/media.ts": "c587226b076c2a7cc50b92bfe270e6f228d42a5ef36f0c27f57d86e3e53c9df7",
+    "src/components/catalog/AccessMedia.tsx": "6553eb01aad3343f7624cf94808450bed201c34c8f54d992542607f57176f88e",
+    "src/__tests__/media.test.ts": "4227f812f91c0a2790d903c23c041fee766e6e94a930362c876b5a4d870be312",
+    "src/__tests__/venue-expansion.test.ts": "f1aaebe7a7103f73725d7016f86af0619db3905b44cda80f0d35409fb33eebeb",
+    "src/__tests__/venue-guides.test.ts": "11df228bdae3bcb1c4967311a4037e64a01df729f089b1ac6d90bb0c97800a69",
+    "e2e/accessibility.spec.ts": "7a66a55e850de91b1a3c4f813a553ef348256f930b5fb73bf331be5825b8a45f"
+  },
+  "scope": {
+    "git_writes": false,
+    "deployments": false,
+    "private_correspondence": false,
+    "database_changes": false,
+    "scheduler_changes": false,
+    "new_ai_images": 0
+  },
+  "documentation_sha256": {
+    "docs/HANDOFF-2026-11-10.md": "32f46efe919f382152aa6a2a288c80c916396d39d98a954efaa6774e1c71066d",
+    "docs/research/coverage-queue.md": "3cc1ae2733bd4eaf2f18ba172e82c539dbe935d6c7e3fdb3f955443d7603d30d",
+    "docs/research/riverfront-brighton-maryrose-2026-11-13.md": "cad9fd36bfc874bec2016bef1fa20357bf153de42f59463701c3872124de3e89",
+    "docs/research/riverfront-brighton-maryrose-2026-11-13-media.json": "8b4a22f83a3c6417a1bdbce4dad048ad0929e1223e1bcfda6534481740b90e69",
+    "docs/research/riverfront-brighton-maryrose-2026-11-13-sources.json": "f9f796236ec09dffc1eabab7dc51575925229d2c31a7597b5c45a21ba2fd878c",
+    "docs/research/thrifting-on-eastern-2026-11-13-lead.json": "30d5a616099eead81e5f0d3e2c8b5d8ac037ecf1a0b1a36eee34b0fe005914ac",
+    "docs/research/riverfront-brighton-2026-11-13-next-preflight.json": "bd8e71d669ba3fecc0c3495a4d4321419c1f417ea5a236154ee344d1def69be2"
+  }
+}

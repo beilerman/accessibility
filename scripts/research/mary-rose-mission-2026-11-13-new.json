@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "mary-rose-mission",
+    "name": "Mary Rose Mission",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Public services",
+    "address": "272 Main Street, Florence, KY 41042",
+    "website": "https://maryrosemission.org/",
+    "source_url": "https://maryrosemission.org/contact/",
+    "limitations": "Public website information; no on-site audit. The published tray-carrying service does not establish door access, parking/drop-off routes, wheelchair circulation, table clearance, toilets or adult-changing equipment. The site gives conflicting office opening times; evening meal hours agree across the pages reviewed. Dietary accommodations, takeaway/delivery arrangements, service-animal policy and communication supports remain unverified. Historic newsletters and photographs are not evidence of current arrangements.",
+    "facts": [
+      [
+        "cognitive",
+        "Mary Rose Mission advertises hot meals every day, 4–5:30 p.m., at 272 Main Street in Florence. Confirm holiday or weather changes before travelling.",
+        "https://maryrosemission.org/",
+        "venue_official",
+        null,
+        [
+          "We are proud to serve a hot meal every day from 4:00 until 5:30!",
+          "The Mary Rose Mission owns a building at 272 Main Street in Florence"
+        ]
+      ],
+      [
+        "mobility",
+        "The mission’s About page describes volunteers carrying trays to tables for older guests and guests needing additional support, with a greeter at the door. This describes meal assistance; transfer help, personal care and a step-free entrance are not established.",
+        "https://maryrosemission.org/about/",
+        "venue_official",
+        null,
+        "They will help with the children and will assist the elderly and special needs guests by carrying their trays to the tables. We have a “greeter” at the door welcoming our guests to dinner"
+      ],
+      [
+        "cognitive",
+        "The contact page lists weekday office hours as 10 a.m.–3 p.m., while its footer says 9 a.m.–3 p.m. Call 859-292-0300 before an office visit. These are office hours, separate from the evening meal service.",
+        "https://maryrosemission.org/contact/",
+        "venue_official",
+        null,
+        [
+          "Office Hours: Mon-Fri 10:00 am – 3:00 PM",
+          "OFFICE HOURS: Mon-Fri 9:00-3:00",
+          "Phone: 859.292.0300"
+        ]
+      ],
+      [
+        "cognitive",
+        "The homepage says all are welcome. It does not specify a reservation procedure, eligibility documents or a meal price; ask the mission about any dietary or other support needed before visiting.",
+        "https://maryrosemission.org/",
+        "venue_official",
+        null,
+        "ALL ARE WELCOME!"
+      ]
+    ]
+  }
+]

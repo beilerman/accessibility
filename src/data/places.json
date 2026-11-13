@@ -8498,15 +8498,15 @@
     "address": "100 Joe Nuxhall Way, Cincinnati, OH",
     "website": "https://www.mlb.com/reds/ballpark",
     "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
-        "text": "Accessible pickup/drop-off zones are on Joe Nuxhall Way (west side) and at Broadway and Mehring Way (southeast corner), open to vehicles with a valid accessible placard or plate from 30 minutes before gates open.",
+        "text": "The Reds list placard/plate pickup and drop-off zones on Joe Nuxhall Way between Mehring and Freedom Ways, and at Broadway and Mehring Way. Cars, vans and small buses may enter from 30 minutes before gates open until about one hour after the game. Large school and charter/tour buses must arrange another location with Group Sales (513-765-7600).",
         "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
         "id": "great-american-ball-park.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8515,6 +8515,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Added the end time and vehicle-size exclusions to the existing arrival note."
           }
         ]
       },
@@ -8524,7 +8529,7 @@
         "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
         "id": "great-american-ball-park.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8533,6 +8538,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8542,7 +8552,7 @@
         "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
         "id": "great-american-ball-park.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8551,16 +8561,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Accessible seating areas include electrical outlets for recharging at no cost, and the guide lists family restroom locations by section.",
+        "text": "The Reds say accessible seating areas have electrical outlets for free recharging, specifying the top accessible row of each section. Family restrooms are listed near Terrace sections 101, 109, 120, 127 and 136, and View sections 413 and 437. The guide does not establish adult-changing equipment.",
         "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
         "id": "great-american-ball-park.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8569,6 +8584,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Expanded the previously nonspecific family-restroom locations and retained the charging-row detail; no adult-changing claim."
           }
         ]
       },
@@ -8578,7 +8598,7 @@
         "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
         "id": "great-american-ball-park.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8587,6 +8607,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8596,7 +8621,7 @@
         "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
         "id": "great-american-ball-park.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8605,6 +8630,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8614,7 +8644,7 @@
         "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
         "id": "great-american-ball-park.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8623,16 +8653,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Backpacks are prohibited unless designed for medical or infant care. If a medical condition prevents metal-detector screening, other screening is arranged.",
+        "text": "The Reds prohibit backpacks unless specifically designed for medical or infant care; bags must fit within 16 × 16 × 8 inches and are inspected. Public Safety arranges another screening method when a medical condition prevents metal-detector screening.",
         "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
         "id": "great-american-ball-park.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8641,16 +8676,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Added the bag-size and inspection conditions; retained the medical-screening exception."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Re-entry works only through the designated gate at Gapper's Alley, where your ticket is scanned.",
+        "text": "For Reds games, re-entry requires using the designated Gapper’s Alley gate and having the ticket scanned. The re-entry paragraph requires metal detection and says no carry-in items may return through that gate; the separate smoking paragraph mentions carry-in screening instead. Confirm essential-item arrangements before leaving.",
         "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
         "id": "great-american-ball-park.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8659,29 +8699,165 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Preserved the re-entry carry-in restriction and the contradictory smoking-section wording."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "All restrooms have diaper-changing stations and are accessible to guests with disabilities.",
+        "text": "The Reds describe all ballpark restrooms as accessible to guests with disabilities and say they have diaper-changing stations. This is the publisher’s description; doorway, stall, transfer-space and adult-changing details are not established.",
         "source_url": "https://www.mlb.com/reds/ballpark/information/guide",
         "id": "great-american-ball-park.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attributed the general accessibility statement and separated diaper changing from unverified adult-changing provision."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The access guide identifies an elevator entrance at Johnny Bench Way and Mehring Way beside a limited pickup/drop-off area. It does not give the dimensions or full route from the curb.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Gate D is reserved for suite holders and is reached by ramp, elevator or escalator. Gate E is open to all guests; both are on the Suite Level.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The access guide lists Braille and tactile signs throughout the ballpark, and closed-captioned game broadcasts on televisions in all club areas. It does not identify a particular seat with a guaranteed view of captions.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For an issue needing Public Safety during a visit, the guide says to text REDS and the issue to 69050. Staff reply and are dispatched when needed; message and data charges may apply.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The guide’s First Aid section lists rooms near Terrace sections 109–110 and 125–126 and View section 411, staffed during games and large events. Its wheelchair section instead names 109, 127 and 409. Ask staff for the current nearest room rather than relying on the conflicting section numbers.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Reds list bottle-filling stations near sections 110/111, 135/136 and 435. These locations do not establish reach height or equipment operation.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Reds identify grassy berms outside the re-entry gate by Gate A as a service-animal relief area. Their policy permits service dogs and miniature horses and excludes comfort animals. For dogs, it requires a harness, leash or tether unless the disability or task prevents this, when another effective control is required. Confirm the exit and return procedure with staff.",
+        "source_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+        "id": "great-american-ball-park.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The guide lists different accessible-parking prices in different sections; confirm current parking and seating arrangements with the Reds (513-765-7000).",
+    "limitations": "Public website information; no on-site audit. The Reds guide applies to baseball games; other events may differ. Parking prices, First Aid section numbers and re-entry carry-in instructions differ within the official guides. Confirm those arrangements with staff (513-765-7000), including the gate for a service-animal relief trip. Entrance thresholds, door controls, transfer space, adult-changing equipment and the complete route to a specific seat remain unverified.",
     "slug": "great-american-ball-park",
     "evidence_type": "public_website",
     "observed_at": null
@@ -11256,7 +11432,7 @@
     "category": "Arts & performances",
     "website": "https://www.bengals.com/stadium",
     "source_url": "https://www.bengals.com/news/fan-guide",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -11264,7 +11440,7 @@
         "source_url": "https://www.bengals.com/news/fan-guide",
         "id": "paycor-stadium.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11273,16 +11449,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Before the game, ADA guests can be dropped off at the curb cut-out on Central Ave. near West Gate or at Race St. and Freedom Way near East Gate.",
+        "text": "Before a game, the Bengals direct ADA drop-offs to the Central Avenue curb cut-out between West Pete Rose Way and Mehring Way for West Gate. Race Street and Freedom Way, outside E + O Kitchen, is another drop-off/pickup point for East Gate. The complete curb-to-seat route has not been verified.",
         "source_url": "https://www.bengals.com/news/fan-guide",
         "id": "paycor-stadium.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11291,6 +11472,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Specified the actual curb segment and the second meeting point."
           }
         ]
       },
@@ -11300,7 +11486,7 @@
         "source_url": "https://www.bengals.com/news/fan-guide",
         "id": "paycor-stadium.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11309,6 +11495,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11318,7 +11509,7 @@
         "source_url": "https://www.bengals.com/news/fan-guide",
         "id": "paycor-stadium.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11327,6 +11518,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11336,7 +11532,7 @@
         "source_url": "https://www.bengals.com/news/fan-guide",
         "id": "paycor-stadium.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11345,16 +11541,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "There is no re-entry except for medical emergencies. If you know you may need to leave for a medical reason, register in advance at the Kettering Health First Aid Station (plaza level, north end zone, near the Northeast Gate).",
+        "text": "The general re-entry rule names medical emergencies as its only exception, while a separate service-animal policy permits relief exits with a gate manager’s advance permission. Patrons anticipating a medical-emergency exit may register at the Kettering Health First Aid Station on the north-end-zone plaza near Northeast Gate. Confirm arrangements with staff before exiting.",
         "source_url": "https://www.bengals.com/fans/fanguide",
         "id": "paycor-stadium.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11363,6 +11564,16 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Kept advance registration limited to a medical emergency, rather than any medical reason."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Reconciled the general medical-emergency-only re-entry rule with the separate approved service-animal relief exception on the same page."
           }
         ]
       },
@@ -11372,7 +11583,7 @@
         "source_url": "https://www.bengals.com/stadium/prohibited-items-bag-policy",
         "id": "paycor-stadium.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11381,6 +11592,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11390,7 +11606,7 @@
         "source_url": "https://www.bengals.com/fans/fanguide",
         "id": "paycor-stadium.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11399,6 +11615,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11408,7 +11629,7 @@
         "source_url": "https://www.bengals.com/fans/fanguide",
         "id": "paycor-stadium.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11417,16 +11638,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Family restrooms are located throughout the stadium; the fan guide lists their section numbers.",
+        "text": "The Bengals list family restrooms at sections 104 and 134; plaza sections 102, 118, 132, 148 and 150; North Club 224; East Canopy 337 and 343; West Canopy 306 and 314; and both club lounges. The guide does not establish adult-changing tables or the route from a particular ticketed area.",
         "source_url": "https://www.bengals.com/fans/fanguide",
         "id": "paycor-stadium.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11435,6 +11661,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replaced a generic reference with the published locations while retaining equipment and ticket-area limits."
           }
         ]
       },
@@ -11444,7 +11675,7 @@
         "source_url": "https://www.bengals.com/stadium/parking-and-directions",
         "id": "paycor-stadium.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11453,11 +11684,196 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For game-day seating requests, the guide directs visitors to the North Ticket Office between Northwest and Northeast Gates. Advance ADA-seat purchases remain first come, first served; a same-day change is not guaranteed.",
+        "source_url": "https://www.bengals.com/fans/fanguide",
+        "id": "paycor-stadium.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "First Aid stations are listed at East Sideline 136, West Sideline 116, North Plaza 129, East Canopy 334 and West Canopy 316. For an emergency, notify a stadium team member.",
+        "source_url": "https://www.bengals.com/fans/fanguide",
+        "id": "paycor-stadium.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For pumping equipment, notify security at the ticket gate so the bag can be screened and tagged. Nursing/pumping spaces are at sections 114 and 144; Kettering Health First Aid stations can also provide a private space with electricity if needed.",
+        "source_url": "https://www.bengals.com/fans/fanguide",
+        "id": "paycor-stadium.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Bengals warn that cheering, noise and standing are normal during games and may temporarily block sightlines. Their standing policy asks fans to consider people who cannot stand; it does not guarantee an unobstructed seated view.",
+        "source_url": "https://www.bengals.com/fans/fanguide",
+        "id": "paycor-stadium.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For problems during Bengals games, text HELP to 69050 with the problem and location, as directed by the fan guide.",
+        "source_url": "https://www.bengals.com/fans/fanguide",
+        "id": "paycor-stadium.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The fan guide checked November 13, 2026 says stadium tours are unavailable because of 2026 construction projects. It does not give a reopening date.",
+        "source_url": "https://www.bengals.com/fans/fanguide",
+        "id": "paycor-stadium.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The prohibited-items page makes an exception for medically required coolers and allows mobility devices despite its prohibition on Segways or motorized scooters. It does not specify device dimensions or a storage/charging procedure.",
+        "source_url": "https://www.bengals.com/stadium/prohibited-items-bag-policy",
+        "id": "paycor-stadium.chronic.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The parking page lists rideshare pickup and drop-off on Second Street between Vine and Walnut. This is a separate meeting point from the ADA drop-off locations; the route between it and the gates is not verified.",
+        "source_url": "https://www.bengals.com/stadium/parking-and-directions",
+        "id": "paycor-stadium.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Bengals’ June 30, 2026 construction notice says Lot 1 and Lot A have reduced game-day capacity for 2026 and the duration of the Brent Spence bridge project. Affected passholders should check their updated lot in Bengals Account Manager; members with questions can call 513-621-8383. The notice does not establish a step-free route from a replacement lot.",
+        "source_url": "https://www.bengals.com/news/important-parking-updates-paycor-stadium-2026",
+        "id": "paycor-stadium.mobility.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2026-06-30",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The July 21, 2026 renovation report described passenger-elevator modernization as ongoing. It does not identify affected elevators, outages or completion dates; check the route needed for your ticket before visiting. This is a dated construction report, not a live elevator-status notice.",
+        "source_url": "https://www.bengals.com/news/2026-paycor-stadium-renovations-first-look",
+        "id": "paycor-stadium.mobility.9",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2026-07-21",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. This is the Bengals' game-day fan guide; concerts and other events may differ. ADA seats are first come, first served, so buy early through the Bengals ticket office (513-621-8383) and confirm the route from your gate to your seat.",
+    "limitations": "Public website information; no on-site audit. This is the Bengals' game-day fan guide; concerts and other events may differ. ADA seats are first come, first served, so buy early through the Bengals ticket office (513-621-8383) and confirm the route from your gate to your seat. Family-restroom labels do not establish adult-changing equipment. Current sensory-kit availability, quiet rooms, wheelchair escorts, device charging and entrance thresholds remain unverified. The parking page still advertises the Southbank Shuttle; consult TANK’s current service information before planning that connection. Historical photos predate the 2026 renovations.",
     "slug": "paycor-stadium",
     "evidence_type": "public_website",
     "observed_at": null
@@ -11672,7 +12088,7 @@
     "address": "6295 Kellogg Avenue, Cincinnati, OH 45230",
     "website": "https://riverbend.org/",
     "source_url": "https://riverbend.org/venue-information/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -11680,7 +12096,7 @@
         "source_url": "https://riverbend.org/venue-information/accessibility",
         "id": "riverbend-music-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11689,6 +12105,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11698,7 +12119,7 @@
         "source_url": "https://riverbend.org/venue-info/faq",
         "id": "riverbend-music-center.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11707,6 +12128,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11716,7 +12142,7 @@
         "source_url": "https://riverbend.org/plan-your-visit/directions-parking",
         "id": "riverbend-music-center.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11725,6 +12151,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11734,7 +12165,7 @@
         "source_url": "https://riverbend.org/venue-info/faq",
         "id": "riverbend-music-center.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11743,6 +12174,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11752,7 +12188,7 @@
         "source_url": "https://riverbend.org/venue-information/accessibility",
         "id": "riverbend-music-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11761,6 +12197,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11770,7 +12211,7 @@
         "source_url": "https://riverbend.org/venue-information/accessibility",
         "id": "riverbend-music-center.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11779,6 +12220,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11788,7 +12234,7 @@
         "source_url": "https://riverbend.org/plan-your-visit/directions-parking",
         "id": "riverbend-music-center.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11797,6 +12243,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11806,7 +12257,7 @@
         "source_url": "https://riverbend.org/venue-information/accessibility",
         "id": "riverbend-music-center.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11815,16 +12266,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Re-entry is not permitted. The FAQ allows possible exceptions for medically necessary bags, subject to inspection; confirm arrangements for essential items before arriving.",
+        "text": "Re-entry is not permitted. The FAQ lists medically necessary bags as a possible exception to its bag policy when accompanied by the guest using them; all bags are searched. Confirm arrangements for essential items before arriving.",
         "source_url": "https://riverbend.org/venue-info/faq",
         "id": "riverbend-music-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11833,6 +12289,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official venue guidance and independently checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retained the accompanying-user condition for the possible medical-bag exception."
           }
         ]
       },
@@ -11842,7 +12303,7 @@
         "source_url": "https://riverbend.org/venue-info/faq",
         "id": "riverbend-music-center.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11851,6 +12312,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11860,7 +12326,7 @@
         "source_url": "https://riverbend.org/venue-information/accessibility",
         "id": "riverbend-music-center.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11869,6 +12335,137 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue says an ADA-section purchase confirms that someone in the party needs reserved seating because of mobility or standing difficulties. Visitors may be asked to remain seated there during the event.",
+        "source_url": "https://riverbend.org/venue-information/accessibility",
+        "id": "riverbend-music-center.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "First Aid is at the east end of the property, closest to Belterra Park.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ permits four unfrozen, factory-sealed non-alcoholic drinks in plastic bottles, or soft empty squeezable plastic water bottles. Water-filling stations are on the concourse. Some shows require drinks to be poured into cups; check the event page on the day.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The box office is beside the main gate. The page checked November 13, 2026 says it is closed for the season; check for reopening information before travelling there to buy tickets.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ allows lining up outside the main gate no more than one hour before door time. This is a queue-timing rule, not a promise of seats or shelter while waiting.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ permits service animals covered by ADA regulations and prohibits pets and other animals. The reviewed page does not identify a relief area or an assistance procedure.",
+        "source_url": "https://riverbend.org/venue-info/faq",
+        "id": "riverbend-music-center.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Check the venue name on a 2027 ticket: MEMI lists The Farmer Music Center at 6199 Kellogg Avenue with a planned spring 2027 opening, separately from Riverbend Music Center and PNC Pavilion at 6295 Kellogg Avenue. Riverbend’s entrance, seat-view and parking details should not be assumed to describe the new venue.",
+        "source_url": "https://memi.biz/calendar",
+        "id": "riverbend-music-center.cognitive.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -16764,7 +17361,7 @@
     "address": "8410 Market Place Lane, Cincinnati, OH 45242",
     "website": "https://gobananascomedy.com/main/",
     "source_url": "https://gobananascomedy.com/main/",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "cognitive",
@@ -16772,7 +17369,7 @@
         "source_url": "https://gobananascomedy.com/main/",
         "id": "go-bananas-comedy-club.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16781,6 +17378,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -16790,7 +17392,7 @@
         "source_url": "https://gobananascomedy.com/main/directions/",
         "id": "go-bananas-comedy-club.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16799,6 +17401,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -16808,7 +17415,7 @@
         "source_url": "https://gobananascomedy.com/main/",
         "id": "go-bananas-comedy-club.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16817,16 +17424,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Show listings say doors open at 6:30 for 7:30 shows and 9:20 for 9:45 shows; arriving early helps if you need a particular seat.",
+        "text": "The November 12–14 and November 19–21, 2026 listings give doors at 6:30 p.m. for 7:30 shows and 9:20 p.m. for 9:45 shows. These are event-specific times; check the selected show. First-come seating does not guarantee a particular seat or an accommodation.",
         "source_url": "https://gobananascomedy.com/main/",
         "id": "go-bananas-comedy-club.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16835,6 +17447,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Scoped door times to the dated listings actually reviewed; removed the implication that early arrival secures a needed seat."
           }
         ]
       }
@@ -33458,6 +34075,236 @@
         "text": "Be Concerned says the former United Ministries building in Erlanger is no longer operating. It now describes monthly mobile pantries in Erlanger, Elsmere, Walton and Silver Grove; confirm the current site and date before travelling.",
         "source_url": "https://beconcerned.org/about-us/",
         "id": "be-concerned-covington.cognitive.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brighton Center — Family Center",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Public services",
+    "address": "799 Ann Street, Newport, KY",
+    "website": "https://www.brightoncenter.com/",
+    "source_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+    "limitations": "Public website information; no on-site audit. The Family Center address is distinct from the administration office. Current entrance steps or thresholds, door controls, parking/drop-off route, seating, toilets and changing facilities remain unverified. Ask about any physical access, communication, dietary or carrying assistance before visiting. Some public agency directories show different walk-in hours; this listing follows the current operator page, and visitors should confirm their session. The operator’s historical poverty and income examples are not treated as current eligibility limits.",
+    "checked_at": "2026-11-13",
+    "slug": "brighton-center-family-center",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Family Center is at 799 Ann Street in Newport. Emergency Assistance uses 859-491-8303 extension 2300; the administration office on Central Avenue is a separate location.",
+        "source_url": "https://www.brightoncenter.com/contact",
+        "id": "brighton-center-family-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Bring identification and proof of household members, income and address for Emergency Assistance. The page does not specify which document types are accepted; call Service Link at 859-491-8303 extension 2300 to check.",
+        "source_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+        "id": "brighton-center-family-center.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The current Emergency Assistance page lists Monday 11–4 for Campbell and Kenton County residents seeking emergency food, diapers or hygiene items. Confirm hours before travelling, especially around holidays.",
+        "source_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+        "id": "brighton-center-family-center.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Tuesday and Thursday hours are listed as 12:30–4:30 for help with housing, employment and benefit enrollment; customers can also shop in the emergency choice food pantry during those sessions.",
+        "source_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+        "id": "brighton-center-family-center.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Wednesday food assistance is listed from 11–4 for people aged 55 or older from Campbell and Kenton Counties. This is the Wednesday session’s eligibility, not a claim that all pantry service is age-restricted.",
+        "source_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+        "id": "brighton-center-family-center.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Morning Emergency Assistance appointments are offered Monday–Friday, 8:30 a.m.–12:30 p.m. Call 859-491-8303 extension 2301 to schedule; the general Service Link number uses extension 2300.",
+        "source_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+        "id": "brighton-center-family-center.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Emergency Assistance service list includes a choice food pantry, personal hygiene items and limited help with baby items. Stock, dietary suitability, delivery, proxy shopping and carrying assistance are not established by the reviewed page.",
+        "source_url": "https://www.brightoncenter.com/programs/emergency_services/emergency-assistance",
+        "id": "brighton-center-family-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mary Rose Mission",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Public services",
+    "address": "272 Main Street, Florence, KY 41042",
+    "website": "https://maryrosemission.org/",
+    "source_url": "https://maryrosemission.org/contact/",
+    "limitations": "Public website information; no on-site audit. The published tray-carrying service does not establish door access, parking/drop-off routes, wheelchair circulation, table clearance, toilets or adult-changing equipment. The site gives conflicting office opening times; evening meal hours agree across the pages reviewed. Dietary accommodations, takeaway/delivery arrangements, service-animal policy and communication supports remain unverified. Historic newsletters and photographs are not evidence of current arrangements.",
+    "checked_at": "2026-11-13",
+    "slug": "mary-rose-mission",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Mary Rose Mission advertises hot meals every day, 4–5:30 p.m., at 272 Main Street in Florence. Confirm holiday or weather changes before travelling.",
+        "source_url": "https://maryrosemission.org/",
+        "id": "mary-rose-mission.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The mission’s About page describes volunteers carrying trays to tables for older guests and guests needing additional support, with a greeter at the door. This describes meal assistance; transfer help, personal care and a step-free entrance are not established.",
+        "source_url": "https://maryrosemission.org/about/",
+        "id": "mary-rose-mission.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The contact page lists weekday office hours as 10 a.m.–3 p.m., while its footer says 9 a.m.–3 p.m. Call 859-292-0300 before an office visit. These are office hours, separate from the evening meal service.",
+        "source_url": "https://maryrosemission.org/contact/",
+        "id": "mary-rose-mission.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The homepage says all are welcome. It does not specify a reservation procedure, eligibility documents or a meal price; ask the mission about any dietary or other support needed before visiting.",
+        "source_url": "https://maryrosemission.org/",
+        "id": "mary-rose-mission.cognitive.3",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,
