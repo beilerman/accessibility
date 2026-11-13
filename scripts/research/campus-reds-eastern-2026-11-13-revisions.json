@@ -1,0 +1,55 @@
+{
+  "nippert-stadium.mobility.2": {
+    "text": "UC lists Woodside Garage parking at $25, by credit/debit card only, with a state-issued disability pass required and a shuttle to a drop-off near Nippert. This accessibility page does not describe Eden Garage; separate football-guide notes below cover its bus service.",
+    "quote": [
+      "Parking for patrons needing accessible parking is available in Woodside Garage for a rate of $25 (credit/debit card only).",
+      "A state-issued handicap pass is required.",
+      "A shuttle from Woodside Garage to a drop off point near the stadium will be provided."
+    ],
+    "reason": "Removed the Eden Garage claim from a source that only describes Woodside; retained source-specific payment and placard conditions."
+  },
+  "nippert-stadium.chronic.1": {
+    "text": "UC describes all Nippert restrooms as ADA accessible and equipped with baby-changing stations. This is the publisher’s description; adult-changing equipment, stall dimensions and current conditions are not established.",
+    "quote": "Restrooms are available throughout Nippert Stadium. All restrooms are equipped with baby changing stations and are ADA accessible.",
+    "reason": "Attributed the general accessibility description and separated baby changing from unverified adult-changing equipment."
+  },
+  "nippert-stadium.sensory.1": {
+    "text": "UC’s football guide lists open captions on prerecorded main-board videos and live captions on smartphones during games. Students, employees and visitors who are d/Deaf or hard of hearing can request ASL interpreters for UC events through its online ASL/CART form.",
+    "quote": [
+      "UC offers captioning at multiple live sporting events and venues including football, men's and women's basketball, and volleyball; open captions on all pre-corded videos on the main video board; and the opportunity to access live captioning on smart phones (which can be accessed at Nippert Streamtext link during games).",
+      "Additionally, any student, employee or visitor who is d/Deaf or hard of hearing can request ASL Interpreters for any UC event, including athletics events, using our online request form: ASL/CART request . Visitors who need other access or disability-related accommodations can email our accessibility office at AccessResources@uc.edu and we will work together with campus partners to coordinate access."
+    ],
+    "reason": "The cited gameday page supports prerecorded main-board and phone captions, but the live ribbon-board claim belongs to the separate accessibility page; split that claim into its own note."
+  },
+  "fifth-third-arena.mobility.1": {
+    "text": "The basketball guide lists Campus Green and Woodside garages, University Garage Level 1 for men’s basketball, and Corry Garage for women’s basketball for disability parking with a state-issued pass. It calls this “cash parking,” but also says campus is cashless and men’s parking takes credit cards. Confirm payment and garage arrangements with the ticket office (513-556-2283).",
+    "quote": [
+      "Patrons with disabilities should contact the UC Athletics Ticket Office to ensure their needs may be attended to effectively. Cash parking for patrons needing accessible parking is available in Campus Green Garage, Woodside Garage, and University Garage Level 1 (men's basketball only) and Corry Garage (women's basketball only). A state-issued handicap pass is required. For more information, call (513) 556-2283.",
+      "$10 credit card parking begins 4 hours before game time",
+      "Note: All of campus, including Fifth Third Arena, is entirely cashless."
+    ],
+    "reason": "Preserved the conflicting cash-parking and cashless/card wording rather than presenting cash acceptance as settled."
+  },
+  "fifth-third-arena.cognitive.1": {
+    "text": "UC asks fans with disabilities to contact the Athletics Ticket Office (513-556-2283) about their needs. Other disability-related accommodations can be requested at AccessResources@uc.edu, where the accessibility office coordinates with campus partners.",
+    "quote": [
+      "Patrons with disabilities should contact the UC Athletics Ticket Office to ensure their needs may be attended to effectively. Cash parking for patrons needing accessible parking is available in Campus Green Garage, Woodside Garage, and University Garage Level 1 (men's basketball only) and Corry Garage (women's basketball only). A state-issued handicap pass is required. For more information, call (513) 556-2283.",
+      "Additionally, any student, employee or visitor who is d/Deaf or hard of hearing can request ASL Interpreters for any UC event, including athletics events, using our online request form: ASL/CART request. Visitors who need other access or disability-related accommodations can email our accessibility office at AccessResources@uc.edu and we will work together with campus partners to coordinate access."
+    ],
+    "reason": "Removed an advance-notice requirement that the source does not state, while retaining both contact routes."
+  },
+  "cincinnati-reds-hall-of-fame-and-museum.cognitive.2": {
+    "text": "For October–March, the museum lists Tuesday–Sunday hours of 10 a.m.–5 p.m., with closure on Mondays, Sundays of Bengals home games and major holidays. Its separate baseball-season schedule differs; confirm the date before traveling.",
+    "quote": "October – March\nTuesday – Sunday: 10:00 a.m. – 5:00 p.m.\nClosed on Mondays, the Sundays of Cincinnati Bengals home games, and on major holidays.\nMonday, March 23 - Wednesday, September 30\nNon-Game Days\n10 a.m. – 5 p.m.\nGame Days\nWeekday Games\n6:40 or 7:10 p.m. games: 10 a.m. – 8 p.m.\nAfternoon games: 10 a.m. until two hours after the game ends\nWeekend Games (Saturday & Sunday)\n6:40 or 7:10 p.m. games: 10 a.m. – 8 p.m.\nAfternoon games: 10 a.m. until two hours after the game ends\nMember Early Entry\nSaturday game days: Members may enter beginning at 9 a.m.\nHours are subject to change.",
+    "reason": "The Monday/Bengals/holiday closure text sits under October–March, not a year-round closure rule. Retained the seasonal scope."
+  },
+  "cincinnati-reds-hall-of-fame-and-museum.chronic.2": {
+    "text": "For ballpark tours, backpacks are prohibited except for medical or infant-care purposes; permitted bags must be no larger than 16 × 16 × 8 inches. The Hall of Fame cannot store bags, strollers or other personal possessions for guests.",
+    "quote": [
+      "BACKPACKS ARE NOT PERMITTED (excluding for medical and infant care purposes). Backpacks are defined as multi-pocketed bags that are worn on the back.",
+      "All of the above must not exceed the size of 16”x16”x8”.",
+      "ALL OTHER BAGS ARE PROHIBITED. THE REDS HALL OF FAME CANNOT STORE BAGS, STROLLERS OR PERSONAL POSSESSIONS OF ANY KIND FOR GUESTS."
+    ],
+    "reason": "Added the size condition and full storage limitation to the tour policy."
+  }
+}

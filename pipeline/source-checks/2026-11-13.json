@@ -230,7 +230,7 @@
       "final_url": "https://gobearcats.com/ada-accessibility",
       "last_modified": null,
       "sha256": "3602bf8b4bc25178651315cd8aa46d0f441b2c043531b50477c4a7cdeb16c8c1",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1635
     },
     "https://gobearcats.com/basketball-gameday-guide": {
@@ -238,7 +238,7 @@
       "final_url": "https://gobearcats.com/basketball-gameday-guide",
       "last_modified": null,
       "sha256": "e73496390034b837426e0e0ec9c7c742895e317cf701430ea6c2c706c6fee21e",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 17696
     },
     "https://gobearcats.com/nippert-gameday-guide": {
@@ -246,7 +246,7 @@
       "final_url": "https://gobearcats.com/nippert-gameday-guide",
       "last_modified": null,
       "sha256": "9f4c1927f6997ad58650d6bfa2e14eaa1033c3451454ec0c6fb90ae6f8acb042",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 22746
     },
     "https://heritagebankcenter.com/venue-info": {
@@ -1042,7 +1042,7 @@
       "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
       "last_modified": null,
       "sha256": "d6d2d33dbb759e72551aae317033e568c41be9153cc61d25fe79805a3b710544",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 662
     },
     "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking": {
@@ -1050,7 +1050,7 @@
       "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
       "last_modified": null,
       "sha256": "fbf2f4818ddef6afbd037db9e3aaac091c94f327949e369c5f8ac27df7bd215e",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2477
     },
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": {
@@ -1678,20 +1678,24 @@
       "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing",
       "last_modified": null,
       "sha256": "0b8243a1ee77db2a047f425d3a02fe12af01dbb3745c0fc251d35e86348c2faf",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2149
     },
     "https://www.mlb.com/reds/hall-of-fame/visit/tours": {
       "status": 200,
       "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/tours",
       "last_modified": null,
-      "sha256": "12762fcb7fc70a96f67aa8627c11f113538e542582a819f5b745077a1367f8f1",
-      "fingerprint_version": 5,
-      "chars": 3838
+      "sha256": "2dd56a345c4df377960603cf7b6dbbfa3a2a475dba7eac3b3af33c1913715cd2",
+      "fingerprint_version": 6,
+      "chars": 4091
     },
     "https://www.nku.edu/artsci/sota/news-events/policies/index.html": {
-      "status": null,
-      "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+      "status": 200,
+      "final_url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+      "last_modified": null,
+      "sha256": "d83ea3628676765fddca96a291e4b1752c3649aab852de988ef70a7dd49f7d7d",
+      "fingerprint_version": 6,
+      "chars": 7091
     },
     "https://www.nkycc.com/faq/": {
       "status": 200,
@@ -2320,7 +2324,7 @@
     "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html": {
       "status": 200,
       "final_url": "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html",
-      "last_modified": "Thu, 12 Nov 2026 07:47:00 GMT",
+      "last_modified": "Fri, 13 Nov 2026 13:47:54 GMT",
       "sha256": "f44409b2bfa4baab0c3141a064d53ae4f5f9bef0a742712035a3ddd338f3e678",
       "fingerprint_version": 6,
       "chars": 4479
@@ -3591,6 +3595,70 @@
       "sha256": "833d108fa706daf1ce9a2d362938951ba2c36c1dc216c9862e29af5fce68d4f4",
       "fingerprint_version": 6,
       "chars": 4180
+    },
+    "https://covunity.org/": {
+      "status": 200,
+      "final_url": "https://covunity.org/",
+      "last_modified": null,
+      "sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+      "fingerprint_version": 6,
+      "chars": 24653
+    },
+    "https://www.brightoncenter.com/programs/social_enterprises/thrifting-on-eastern": {
+      "status": 200,
+      "final_url": "https://www.brightoncenter.com/programs/social_enterprises/thrifting-on-eastern",
+      "last_modified": "Fri, 13 Nov 2026 15:02:16 GMT",
+      "sha256": "ed6b15fbfde04354623836ef8fb344abf85356b61700e9d845027b2d7ed058fa",
+      "fingerprint_version": 6,
+      "chars": 2610
+    },
+    "https://www.mlb.com/reds/ballpark/tours": {
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/ballpark/tours",
+      "last_modified": null,
+      "sha256": "ff05c0832814ff5cb5c3560daffae21f39e829a922754f92aa897e6b37d16beb",
+      "fingerprint_version": 6,
+      "chars": 6703
+    },
+    "https://www.nku.edu/artsci/sota/news-events/parking-directions/index.html": {
+      "status": 200,
+      "final_url": "https://www.nku.edu/artsci/sota/news-events/parking-directions/index.html",
+      "last_modified": null,
+      "sha256": "b2ba565a8d26f43ff624fc59a65d63521a5292053bb9e532cb62dcbf65c61df0",
+      "fingerprint_version": 6,
+      "chars": 5095
+    },
+    "https://www.uc.edu/about/policies-new/service-emotional-support-animals.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/about/policies-new/service-emotional-support-animals.html",
+      "last_modified": "Fri, 13 Nov 2026 14:43:26 GMT",
+      "sha256": "13c119bb8023fa31fea735c9fe0f35cf765d827c90a180ce7330dd406d670812",
+      "fingerprint_version": 6,
+      "chars": 18489
+    },
+    "https://www.uc.edu/campus-life/commencement/guests.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/commencement/guests.html",
+      "last_modified": "Fri, 13 Nov 2026 09:47:39 GMT",
+      "sha256": "5881a55ab8de5d3c5d4de501a82066fe579565ff4272c3c769f9903cc4f0ef9c",
+      "fingerprint_version": 6,
+      "chars": 3635
+    },
+    "https://www.nku.edu/artsci/sota/resources/fine-arts-renovation/index.html": {
+      "status": 200,
+      "final_url": "https://www.nku.edu/artsci/sota/resources/fine-arts-renovation/index.html",
+      "last_modified": null,
+      "sha256": "d3d0ffca43fa67cf94fd11f1b3c9a761af23343a6a8e5121efe3652c9162754a",
+      "fingerprint_version": 6,
+      "chars": 3914
+    },
+    "https://www.nku.edu/parking/visit/": {
+      "status": 200,
+      "final_url": "https://www.nku.edu/parking/visit/",
+      "last_modified": null,
+      "sha256": "58f2d7c0d8eb19a84b2282e6fb0b4b9ff09b8c9f8f47a88d77a551731d7f36c4",
+      "fingerprint_version": 6,
+      "chars": 3588
     }
   },
   "findings": {
@@ -3606,7 +3674,8 @@
     "https://www.target.com/sl/newport/2483": "supported",
     "https://www.bogarts.com/visit": "supported",
     "https://www.walmart.com/store/2967-ft-wright-ky": "supported",
-    "https://www.kentonlibrary.org/locations/105/": "supported"
+    "https://www.kentonlibrary.org/locations/105/": "supported",
+    "https://www.mlb.com/reds/hall-of-fame/visit/accessibility": "supported"
   },
   "missing_quotes": {}
 }

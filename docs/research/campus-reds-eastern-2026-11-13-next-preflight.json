@@ -1,0 +1,133 @@
+{
+  "checked_at_utc": "2026-11-13T15:05:10.448996+00:00",
+  "scope": "Availability preflight only. No note/freshness changes or whole-venue recheck credit.",
+  "venues": [
+    {
+      "slug": "ensemble-theatre-cincinnati",
+      "active_notes": 8,
+      "missing_quote_ids": [
+        "ensemble-theatre-cincinnati.chronic.1",
+        "ensemble-theatre-cincinnati.mobility.3",
+        "ensemble-theatre-cincinnati.sensory.3"
+      ],
+      "sources": [
+        "https://ensemblecincinnati.org/accessibility/",
+        "https://ensemblecincinnati.org/visit/accessibility/"
+      ]
+    },
+    {
+      "slug": "the-carnegie",
+      "active_notes": 7,
+      "missing_quote_ids": [
+        "the-carnegie.mobility.1",
+        "the-carnegie.mobility.2",
+        "the-carnegie.sensory.1",
+        "the-carnegie.sensory.2",
+        "the-carnegie.mobility.5"
+      ],
+      "sources": [
+        "https://thecarnegie.com/about/architecture/",
+        "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "https://thecarnegie.com/direction-and-parking/"
+      ]
+    },
+    {
+      "slug": "memorial-hall-otr",
+      "active_notes": 5,
+      "missing_quote_ids": [
+        "memorial-hall-otr.mobility.1",
+        "memorial-hall-otr.mobility.2",
+        "memorial-hall-otr.cognitive.1",
+        "memorial-hall-otr.cognitive.2",
+        "memorial-hall-otr.mobility.3"
+      ],
+      "sources": [
+        "https://washingtonpark.org/parking/",
+        "https://www.memorialhallotr.com/about-memo/",
+        "https://www.memorialhallotr.com/plan-your-visit/"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ensemblecincinnati.org/accessibility/",
+      "status": 200,
+      "final_url": "https://ensemblecincinnati.org/visit/accessibility/",
+      "last_modified": null,
+      "sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+      "fingerprint_version": 6,
+      "chars": 6935
+    },
+    {
+      "url": "https://ensemblecincinnati.org/visit/accessibility/",
+      "status": 200,
+      "final_url": "https://ensemblecincinnati.org/visit/accessibility/",
+      "last_modified": null,
+      "sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+      "fingerprint_version": 6,
+      "chars": 6935
+    },
+    {
+      "url": "https://thecarnegie.com/about/architecture/",
+      "status": 200,
+      "final_url": "https://thecarnegie.com/about/architecture/",
+      "last_modified": "Fri, 13 Nov 2026 10:05:10 GMT",
+      "sha256": "1152d289c69a3ab0db3338396ba99bde1369a0d179de30ed9916c9414622dd51",
+      "fingerprint_version": 6,
+      "chars": 2669
+    },
+    {
+      "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+      "status": 200,
+      "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+      "last_modified": "Fri, 13 Nov 2026 11:50:18 GMT",
+      "sha256": "ce7e39b7465d2739fb2b67f9f1d8887d5e4517129a18bf3b6e1c3ed954aba7a6",
+      "fingerprint_version": 6,
+      "chars": 2929
+    },
+    {
+      "url": "https://thecarnegie.com/direction-and-parking/",
+      "status": 200,
+      "final_url": "https://thecarnegie.com/direction-and-parking/",
+      "last_modified": "Fri, 13 Nov 2026 14:19:49 GMT",
+      "sha256": "f34e4214a11279bb051b0fec756ab9b827928c45a23c0302f55fa1cd35c3b9e4",
+      "fingerprint_version": 6,
+      "chars": 2863
+    },
+    {
+      "url": "https://washingtonpark.org/parking/",
+      "status": 200,
+      "final_url": "https://washingtonpark.org/parking/",
+      "last_modified": null,
+      "sha256": "c2838f39ac478c378a4db5f46e17ba32941a7079815ab28fc527dc1a781afcf1",
+      "fingerprint_version": 6,
+      "chars": 4247
+    },
+    {
+      "url": "https://www.memorialhallotr.com/about-memo/",
+      "status": 200,
+      "final_url": "https://www.memorialhallotr.com/about-memo/",
+      "last_modified": null,
+      "sha256": "68df7ad812de5340d87150a46d5c2013b06a78399aa34b882bbfd29a990d67b9",
+      "fingerprint_version": 6,
+      "chars": 1593
+    },
+    {
+      "url": "https://www.memorialhallotr.com/plan-your-visit/",
+      "status": 200,
+      "final_url": "https://www.memorialhallotr.com/plan-your-visit/",
+      "last_modified": null,
+      "sha256": "69cefdf3ea23829524cec2d1cdf2200f3d46d0d556bcc6e63b9b5c32ca2c2b62",
+      "fingerprint_version": 6,
+      "chars": 1912
+    }
+  ],
+  "everyday_lead": {
+    "name": "COVUnity Fridge \u2014 Banklick Street",
+    "url": "https://covunity.org/",
+    "location": "1214 Banklick St, Covington, KY 41011",
+    "status": "Not added. Official page and separately labeled photograph inspected; full listing/address/evidence/category/route checks remain.",
+    "image": "https://covunity.org/fridge-banklick.webp",
+    "limits": "Night exterior shows a closed refrigerator and paving; no inferred door effort, shelf reach, continuous approach or available stock. No reuse licence found."
+  }
+}

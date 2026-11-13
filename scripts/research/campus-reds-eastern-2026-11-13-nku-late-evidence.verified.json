@@ -1,0 +1,41 @@
+[
+ {
+  "slug": "nku-fine-arts-center",
+  "facts": [
+   {
+    "domain": "mobility",
+    "text": "NKU’s general visitor policy requires both a valid state-issued disability placard and a Parking Services permit for its designated disability spaces. It directs visitors to the Nunn Drive office Monday–Thursday 8 a.m.–4:30 p.m. or Friday 8 a.m.–4 p.m., with summer hours subject to change. Special-event arrangements are coordinated with Parking Services; confirm the SOTA event’s permit and after-hours procedure at 859-572-5505.",
+    "url": "https://www.nku.edu/parking/visit/",
+    "quote": [
+     "Handicap spaces are available to visitors with ADA needs. These spaces require a valid state issued handicap placard and a permit issued by Parking Services. Please stop by the Parking Services on Nunn Drive between the hours of 8:00 a.m. and 4:30 p.m. to obtain a permit Monday-Thursday or 8:00 a.m. and 4:00 p.m. on Friday (summer hours may vary).",
+     "All requests to accommodate visitors for special events need to be coordinated with Parking Services, via the submission of a special parking request form which is located on our website. If you have specific visitor parking questions please call us at (859) 572-5505."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "58f2d7c0d8eb19a84b2282e6fb0b4b9ff09b8c9f8f47a88d77a551731d7f36c4"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The general visitor-parking page names Arena, University and Kenton garages and tells drivers to pull a ticket even when entry gates are raised. It lists Visa, MasterCard and Discover, a $12 lost-ticket day rate, and possible departmental validation. Confirm the event’s garage and validation arrangements before returning to the vehicle.",
+    "url": "https://www.nku.edu/parking/visit/",
+    "quote": "Visitor parking is located in the Arena Garage, University Garage, and Kenton Garages (Interactive Campus Map) . Always pull a ticket as you enter the garage, even if the gates are up. If you do not pull a ticket you must press the lost ticket button and pay the maximum day rate of $12.00 . Garages accept Visa, MasterCard, and Discover . If you cannot provide proper payment at exit you will receive a $24.00 non-payment of garage fees citation. Some departments validate parking, be sure to check with department prior to heading back to vehicle.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "58f2d7c0d8eb19a84b2282e6fb0b4b9ff09b8c9f8f47a88d77a551731d7f36c4"
+   },
+   {
+    "domain": "cognitive",
+    "text": "NKU’s undated Fine Arts renovation page describes changes to the Stauss lobby, patron box office, Corbett seating, dressing rooms and restrooms, while still using “nearing completion” language. It is not a current completion or outage notice. Confirm the entrance, seating and facility arrangements for the specific event; the older or undated photographs may show earlier layouts.",
+    "url": "https://www.nku.edu/artsci/sota/resources/fine-arts-renovation/index.html",
+    "quote": [
+     "We are nearing completion of a transformative $14.8 million+ renovation to the University’s Fine Arts Center, an investment in the future of performing arts education and community engagement. This revitalization includes major upgrades to the iconic Corbett Theatre and the creation of vibrant, modern teaching studios for theatre and dance.",
+     "A reimagined, welcoming lobby for the Stauss Black Box Theatre\nA new, accessible patron box office\nUpgraded finishes and comfortable seating in the Corbett Theatre",
+     "Renovated Theatre Spaces\nDressing Rooms and Restrooms\n313 new seats in the refreshed Corbett Theatre\nStauss Theatre Lobby\nBox Office"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d3d0ffca43fa67cf94fd11f1b3c9a761af23343a6a8e5121efe3652c9162754a"
+   }
+  ]
+ }
+]

@@ -1,0 +1,248 @@
+{
+  "checked_at_utc": "2026-11-13T15:03:41.237804+00:00",
+  "sources": [
+    {
+      "url": "https://covunity.org/",
+      "status": 200,
+      "final_url": "https://covunity.org/",
+      "last_modified": null,
+      "sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+      "fingerprint_version": 6,
+      "chars": 24653
+    },
+    {
+      "url": "https://gobearcats.com/ada-accessibility",
+      "status": 200,
+      "final_url": "https://gobearcats.com/ada-accessibility",
+      "last_modified": null,
+      "sha256": "3602bf8b4bc25178651315cd8aa46d0f441b2c043531b50477c4a7cdeb16c8c1",
+      "fingerprint_version": 6,
+      "chars": 1635
+    },
+    {
+      "url": "https://gobearcats.com/basketball-gameday-guide",
+      "status": 200,
+      "final_url": "https://gobearcats.com/basketball-gameday-guide",
+      "last_modified": null,
+      "sha256": "e73496390034b837426e0e0ec9c7c742895e317cf701430ea6c2c706c6fee21e",
+      "fingerprint_version": 6,
+      "chars": 17696
+    },
+    {
+      "url": "https://gobearcats.com/nippert-gameday-guide",
+      "status": 200,
+      "final_url": "https://gobearcats.com/nippert-gameday-guide",
+      "last_modified": null,
+      "sha256": "9f4c1927f6997ad58650d6bfa2e14eaa1033c3451454ec0c6fb90ae6f8acb042",
+      "fingerprint_version": 6,
+      "chars": 22746
+    },
+    {
+      "url": "https://moodynolan.com/projects/fifth-third-arena-renovation/",
+      "status": 200,
+      "final_url": "https://moodynolan.com/projects/fifth-third-arena-renovation/",
+      "last_modified": "Fri, 13 Nov 2026 14:56:31 GMT",
+      "sha256": "568c3f30addfbbfcf4423ac58e0d5e153ae61edfe9ed60cf20ae20a80a252e2b",
+      "fingerprint_version": 6,
+      "chars": 4575
+    },
+    {
+      "url": "https://msasport.com/projects/northern-kentucky-university-central-plaza/",
+      "status": 200,
+      "final_url": "https://msasport.com/projects/northern-kentucky-university-central-plaza",
+      "last_modified": null,
+      "sha256": "a656e7b6f59cd30abe8320a957cab1901852ae5b413757bb0a774e67657a8ffb",
+      "fingerprint_version": 6,
+      "chars": 1631
+    },
+    {
+      "url": "https://nelsonworldwide.com/project/cincinnati-reds-hall-of-fame-museum/",
+      "status": 200,
+      "final_url": "https://nelsonworldwide.com/project/cincinnati-reds-hall-of-fame-museum/",
+      "last_modified": "Fri, 13 Nov 2026 14:59:21 GMT",
+      "sha256": "4851dcf0783c561508426e2ef87535b999a9cfea4b804805ff82a3d69abaa9e3",
+      "fingerprint_version": 6,
+      "chars": 2095
+    },
+    {
+      "url": "https://www.brightoncenter.com/programs/social_enterprises/thrifting-on-eastern",
+      "status": 200,
+      "final_url": "https://www.brightoncenter.com/programs/social_enterprises/thrifting-on-eastern",
+      "last_modified": "Fri, 13 Nov 2026 15:03:38 GMT",
+      "sha256": "ed6b15fbfde04354623836ef8fb344abf85356b61700e9d845027b2d7ed058fa",
+      "fingerprint_version": 6,
+      "chars": 2610
+    },
+    {
+      "url": "https://www.mlb.com/reds/ballpark/tours",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/ballpark/tours",
+      "last_modified": null,
+      "sha256": "ff05c0832814ff5cb5c3560daffae21f39e829a922754f92aa897e6b37d16beb",
+      "fingerprint_version": 6,
+      "chars": 6703
+    },
+    {
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/accessibility",
+      "last_modified": null,
+      "sha256": "d6d2d33dbb759e72551aae317033e568c41be9153cc61d25fe79805a3b710544",
+      "fingerprint_version": 6,
+      "chars": 662
+    },
+    {
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/directions-and-parking",
+      "last_modified": null,
+      "sha256": "fbf2f4818ddef6afbd037db9e3aaac091c94f327949e369c5f8ac27df7bd215e",
+      "fingerprint_version": 6,
+      "chars": 2477
+    },
+    {
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/exhibits",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/exhibits",
+      "last_modified": null,
+      "sha256": "6dee762b4bad39d3153d7b549aa71efa829134d616329d00ce22db73e90ca991",
+      "fingerprint_version": 6,
+      "chars": 579
+    },
+    {
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/hours-and-pricing",
+      "last_modified": null,
+      "sha256": "0b8243a1ee77db2a047f425d3a02fe12af01dbb3745c0fc251d35e86348c2faf",
+      "fingerprint_version": 6,
+      "chars": 2149
+    },
+    {
+      "url": "https://www.mlb.com/reds/hall-of-fame/visit/tours",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/hall-of-fame/visit/tours",
+      "last_modified": null,
+      "sha256": "2dd56a345c4df377960603cf7b6dbbfa3a2a475dba7eac3b3af33c1913715cd2",
+      "fingerprint_version": 6,
+      "chars": 4091
+    },
+    {
+      "url": "https://www.nku.edu/artsci/sota/music/about/facilities/index.html",
+      "status": 200,
+      "final_url": "https://www.nku.edu/artsci/sota/music/about/facilities/index.html",
+      "last_modified": null,
+      "sha256": "5fd70683f27247d11a7ea37dfdd0700a97003a1060857968c6355391637c6afa",
+      "fingerprint_version": 6,
+      "chars": 6065
+    },
+    {
+      "url": "https://www.nku.edu/artsci/sota/news-events/parking-directions/index.html",
+      "status": 200,
+      "final_url": "https://www.nku.edu/artsci/sota/news-events/parking-directions/index.html",
+      "last_modified": null,
+      "sha256": "b2ba565a8d26f43ff624fc59a65d63521a5292053bb9e532cb62dcbf65c61df0",
+      "fingerprint_version": 6,
+      "chars": 5095
+    },
+    {
+      "url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+      "status": 200,
+      "final_url": "https://www.nku.edu/artsci/sota/news-events/policies/index.html",
+      "last_modified": null,
+      "sha256": "d83ea3628676765fddca96a291e4b1752c3649aab852de988ef70a7dd49f7d7d",
+      "fingerprint_version": 6,
+      "chars": 7091
+    },
+    {
+      "url": "https://www.nku.edu/artsci/sota/resources/fine-arts-renovation/index.html",
+      "status": 200,
+      "final_url": "https://www.nku.edu/artsci/sota/resources/fine-arts-renovation/index.html",
+      "last_modified": null,
+      "sha256": "d3d0ffca43fa67cf94fd11f1b3c9a761af23343a6a8e5121efe3652c9162754a",
+      "fingerprint_version": 6,
+      "chars": 3914
+    },
+    {
+      "url": "https://www.nku.edu/campus-planning/building/academic/arts/",
+      "status": 200,
+      "final_url": "https://www.nku.edu/campus-planning/building/academic/arts/",
+      "last_modified": null,
+      "sha256": "34943a8e8886e88f472edb982b72014822a07ae725f8beac1daea89887beacff",
+      "fingerprint_version": 6,
+      "chars": 1740
+    },
+    {
+      "url": "https://www.nku.edu/parking/visit/",
+      "status": 200,
+      "final_url": "https://www.nku.edu/parking/visit/",
+      "last_modified": null,
+      "sha256": "58f2d7c0d8eb19a84b2282e6fb0b4b9ff09b8c9f8f47a88d77a551731d7f36c4",
+      "fingerprint_version": 6,
+      "chars": 3588
+    },
+    {
+      "url": "https://www.sightlinecommercial.com/projects/university-of-cincinnati-fifth-third/",
+      "status": 200,
+      "final_url": "https://www.sightlinecommercial.com/projects/university-of-cincinnati-fifth-third/",
+      "last_modified": null,
+      "sha256": "88ca3e5a68062edd758c7529b6b58d9fa9bed0155c8e7080ba72ad9c0a180a27",
+      "fingerprint_version": 6,
+      "chars": 1040
+    },
+    {
+      "url": "https://www.sightlinecommercial.com/wp-content/uploads/2026/01/University-of-Cincinnati-Fifth-Third-Arena-Case-Study.pdf",
+      "status": 200,
+      "final_url": "https://www.sightlinecommercial.com/wp-content/uploads/2026/01/University-of-Cincinnati-Fifth-Third-Arena-Case-Study.pdf",
+      "last_modified": "Mon, 02 Mar 2026 09:24:11 GMT",
+      "sha256": "a14c4c98aeee0dfcd840f8afa8af23c5d0883ba51e0bc7d5c963d45025cd9dbb",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 1805,
+      "pages": 1
+    },
+    {
+      "url": "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html",
+      "status": 200,
+      "final_url": "https://www.uc.edu/about/ethics-compliance-community/about/resources/restrooms.html",
+      "last_modified": "Fri, 13 Nov 2026 13:47:54 GMT",
+      "sha256": "f44409b2bfa4baab0c3141a064d53ae4f5f9bef0a742712035a3ddd338f3e678",
+      "fingerprint_version": 6,
+      "chars": 4479
+    },
+    {
+      "url": "https://www.uc.edu/about/policies-new/service-emotional-support-animals.html",
+      "status": 200,
+      "final_url": "https://www.uc.edu/about/policies-new/service-emotional-support-animals.html",
+      "last_modified": "Fri, 13 Nov 2026 14:43:26 GMT",
+      "sha256": "13c119bb8023fa31fea735c9fe0f35cf765d827c90a180ce7330dd406d670812",
+      "fingerprint_version": 6,
+      "chars": 18489
+    },
+    {
+      "url": "https://www.uc.edu/campus-life/commencement/guests.html",
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/commencement/guests.html",
+      "last_modified": "Fri, 13 Nov 2026 09:47:39 GMT",
+      "sha256": "5881a55ab8de5d3c5d4de501a82066fe579565ff4272c3c769f9903cc4f0ef9c",
+      "fingerprint_version": 6,
+      "chars": 3635
+    }
+  ],
+  "additional_documented_source_conflicts": [
+    {
+      "subject": "Nippert stadium versus linked university service-animal definition",
+      "checked_at": "2026-11-13",
+      "source_1": {
+        "url": "https://gobearcats.com/nippert-gameday-guide",
+        "quote": "A service animal is a dog that is individually trained to perform work or tasks for a person with a disability."
+      },
+      "source_2": {
+        "url": "https://www.uc.edu/about/policies-new/service-emotional-support-animals.html",
+        "policy_effective_date": "2025-04-02",
+        "quote": "An animal individually trained to do work or perform tasks for the benefit of an individual with a disability including a physical, sensory, psychiatric, intellectual, or other mental disability. The work or tasks performed must be directly related to the individual’s disability (e.g., a dog which alerts a deaf or hard-of-hearing person to sounds; a miniature horse which guides a visually impaired person; a monkey which collects or retrieves items for a person whose mobility is impaired)."
+      },
+      "treatment": "Public venue limitation preserves the difference and asks visitors to confirm event-specific arrangements. Neither text is presented as an independent legal conclusion. Both pages were freshly fetched in this pass; no source_checked flag was manually created or bypassed."
+    }
+  ]
+}

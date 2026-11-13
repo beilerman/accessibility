@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Riverbend, Great American Ball Park, Paycor and Go Bananas full reviews; Brighton Family Center and Mary Rose Mission; two licensed photos and four original visual links.
+Updated November 13, 2026, after Nippert, Fifth Third Arena, Reds Museum and NKU Fine Arts full reviews; Thrifting on Eastern and COVUnity Redden Gardens; three licensed photos and eight original visual links.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,10 +9,10 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now **120 notes**. The latest pass adds
-four full reviews (36 old notes), repairing 36 missing passages with ten
-corrections/clarifications; separate from 35 new IDs. There was no partial review.
-The preceding 149-place batch is already in this pass’s publication base. Start with transit
+remaining legacy missing-passage backlog is now **90 notes**. The latest pass adds
+four full reviews (30 old notes), repairing 30 missing passages with nine
+corrections/clarifications; separate from 46 new IDs. There was no partial review.
+The preceding 151-place batch is already in this pass’s publication base. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -20,19 +20,21 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-Concrete next shopping lead: **Thrifting on Eastern, 2014 Eastern Ave, Covington**.
-The fresh official program page supplies location/hours and an inspected storefront
-photo showing front steps and a railed ramp toward the porch. The ramp's lower
-approach is outside the frame; date, dimensions, threshold, interior and toilets
-remain unknown. No reuse licence found. Complete listing evidence/category/route
-baselines and link the original image page if suitable. See
-`thrifting-on-eastern-2026-11-13-lead.json`; this is unfinished, not a new listing.
+**Thrifting on Eastern is now added**, with three verified notes and an original
+storefront photo link. Its ramp lower approach, doorway, aisles, toilets and carrying
+assistance remain unresolved. Do not re-import the older lead file.
 
-The prepared catalog has 151 places. Its categories contain 32 arts venues,
-31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
-entries, sixteen food/drink venues, eleven shopping destinations, ten public-service
-listings and eight recreation/fitness listings. Continue seeking concrete access
-information for everyday activities and less represented neighborhoods/types.
+Concrete next everyday lead: **COVUnity Fridge — Banklick Street, 1214 Banklick St,
+Covington, KY 41011**. The operator distinguishes it from the newly added Redden
+Gardens fridge. The separately labeled night photograph shows a closed fridge
+and paving, but no complete approach, door force or shelf reach. Finish independent
+location/claim evidence, category/route tests and source baseline before adding.
+See `campus-reds-eastern-2026-11-13-next-preflight.json`.
+
+The prepared catalog has 153 places: 32 arts venues, 31 parks/outdoors, 21 museums/
+attractions, 15 libraries, seven transport, sixteen food/drink, twelve shopping,
+eleven public-service and eight recreation/fitness listings. Continue seeking
+concrete access information for everyday activities and less represented neighborhoods.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
 shopping and groceries, food venues, transport and arrival connections, public
@@ -58,7 +60,57 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 riverfront venues, Brighton and Mary Rose
+## Latest pass — November 13 campus venues, Reds Museum and everyday Covington
+
+- **Evidence/freshness:** four full reviews: Nippert 10, Fifth Third Arena 7,
+  Reds Hall of Fame and Museum 9, NKU Fine Arts 4. **30 old notes; 21 unchanged,
+  nine revised; 30 missing passages repaired (120 → 90).** No partial review.
+  Only these four existing whole-venue dates advanced. Weekly rolling reviews continue.
+- **Growth:** **46 new IDs** — Nippert 11, arena 11, Reds Museum 4, NKU 11,
+  new **Thrifting on Eastern 3** and **COVUnity Redden Gardens 6**. New everyday
+  shopping and free self-serve food/resource coverage in Covington. No invented
+  ramp continuity, door controls, toilets, adult changing, stocks or personal assistance.
+- **Corrections/depth:** retain Woodside pass plus placard conditions, Eden bus
+  drop-off and seven/four-hour start conflict, event-specific commencement doors/
+  carts/parking, baby-versus-adult changing distinctions, single-occupancy room
+  limits, museum October–March closures and separate standard/VIP tour demands.
+  NKU now has signed Corbett accessible entrance and distinct upper entrance,
+  elevators to box office/galleries, Stauss directions, event parking exceptions,
+  visitor permits and qualified renovation status. Preserve arena cash/card,
+  section 108/109 nursing-room and NKU garage-name differences.
+- **Photos/guides:** three full-frame licensed photographs: Nippert west seating
+  (2019, CC0), Nippert cross-aisle (2008, public domain), NKU bridge (2008,
+  CC BY-SA 3.0). Historical labels and route limitations remain explicit. Eight
+  linked originals: arena supplier PDF and architect gallery; Brighton storefront;
+  COVUnity Redden photos; two NKU pages; Reds designer and official exhibit galleries.
+  **107 photo inspections across linked collections**, with repeated Reds images
+  explicitly not counted as unique. PDF page rendered/inspected; no AI or retouching.
+- **Held:** arena construction photos, concession plan and bar rendering; NKU
+  MSA plaza renderings/partial context; current campus toilet/elevator photographs;
+  museum garage-elevator/restroom views; thrift lower ramp/inside; Redden kiosk
+  dimensions and stock. Apyanac uploads and NKU Commons category were followed;
+  Greenstrat's first 50 uploads were a partial album review. Four relevant pages
+  in Brighton’s 2021/2022 publications were inspected and held: no better lower-ramp
+  view or current carrying-assistance evidence. Heritage Village's
+  earlier 403s remain unresolved. Banklick is a separate unfinished listing lead.
+- **Checks/totals:** 78 note/address checks, 17 active-source baselines and 25
+  source/visual URL checks. 97 unit and 74 pipeline tests, lint/types/build pass;
+  168 generated pages. Eight final-build HTTP pages/venue anchors and three image
+  hashes pass. The 141-test browser suite remains blocked locally by MachPort 1100
+  and unavailable CUA host; runner suite required. **153 places, 1,596 active/one
+  retired, 1,506 quoted active, 90 missing, 71 photos, 45 guide entries/41 URLs
+  (30 PDFs/11 web pages)**. Old IDs/history and unrelated content preserved.
+
+Read `campus-reds-eastern-2026-11-13.md` and its media/source/validation receipts.
+All same-prefix specs under `scripts/research/` are applied; do not reapply.
+
+**Next concrete batch:** **The Carnegie (five missing), Ensemble Theatre (three),
+Memorial Hall OTR (five)** plus an everyday venue such as **COVUnity Banklick**.
+Eight source URLs passed availability preflight only; no freshness credit. Seek
+current entrance/elevator/toilet photos, seating/companion procedures and assistance
+limits, then another shopping, grocery, food, recreation or transport lead.
+
+## Previous pass — November 13 riverfront venues, Brighton and Mary Rose
 
 - **Evidence/freshness:** four full reviews, 36 old notes; 26 unchanged/ten revised.
   Backfilled 36 passages (**156 → 120**). Whole-venue dates advanced only for

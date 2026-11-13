@@ -5,6 +5,8 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/thrifting-on-eastern",
+  "/venues/covunity-fridge-redden-gardens",
   "/venues/mary-rose-mission",
   "/venues/brighton-center-family-center",
   "/venues/paycor-stadium",

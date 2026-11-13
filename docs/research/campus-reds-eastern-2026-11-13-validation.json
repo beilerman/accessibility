@@ -1,0 +1,218 @@
+{
+  "prepared_at_utc": "2026-11-13T15:14:12.756377+00:00",
+  "base_commit": "67cb4ca8dfdaeac2eeccc06993413e05ea4dc5c5",
+  "publication_state": "Prepared for runner validation and atomic Git publication; no agent Git writes or deployment.",
+  "counts": {
+    "old_reviewed": 30,
+    "unchanged_rechecked": 21,
+    "evidence_backfills": 30,
+    "revised": 9,
+    "new_notes": 46,
+    "full_rechecks": 4,
+    "partial_rechecks": 0,
+    "new_places": 2,
+    "new_licensed_photos": 3,
+    "new_original_visual_pages": 8
+  },
+  "reviews": [
+    {
+      "slug": "cincinnati-reds-hall-of-fame-and-museum",
+      "old_reviewed": 9,
+      "unchanged": 7,
+      "revised": 2,
+      "backfilled": 9,
+      "new_notes": 4,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "nippert-stadium",
+      "old_reviewed": 10,
+      "unchanged": 7,
+      "revised": 3,
+      "backfilled": 10,
+      "new_notes": 11,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "fifth-third-arena",
+      "old_reviewed": 7,
+      "unchanged": 5,
+      "revised": 2,
+      "backfilled": 7,
+      "new_notes": 11,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "nku-fine-arts-center",
+      "old_reviewed": 4,
+      "unchanged": 2,
+      "revised": 2,
+      "backfilled": 4,
+      "new_notes": 11,
+      "previous_checked_at": "2026-11-08",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "new_venues": [
+    {
+      "slug": "thrifting-on-eastern",
+      "category": "Shopping",
+      "notes": 3
+    },
+    {
+      "slug": "covunity-fridge-redden-gardens",
+      "category": "Public services",
+      "notes": 6
+    }
+  ],
+  "totals": {
+    "places": 153,
+    "active_notes": 1596,
+    "retired_notes": 1,
+    "quoted_active": 1506,
+    "missing_passages": 90,
+    "access_photos": 71,
+    "guide_entries": 45,
+    "distinct_guide_urls": 41,
+    "distinct_pdf_urls": 30,
+    "distinct_web_urls": 11,
+    "categories": {
+      "Museums & attractions": 21,
+      "Arts & performances": 32,
+      "Parks & outdoors": 31,
+      "Libraries": 15,
+      "Transportation": 7,
+      "Food & drink": 16,
+      "Shopping": 12,
+      "Public services": 11,
+      "Recreation & fitness": 8
+    }
+  },
+  "preservation": {
+    "all_existing_ids_and_history_prefixes": true,
+    "retired_notes": true,
+    "unrelated_places": true,
+    "all_preexisting_quote_records": true,
+    "all_preexisting_media_entries": true,
+    "unselected_source_snapshot_entries": true
+  },
+  "validation": {
+    "fresh_evidence_checks": 78,
+    "fresh_evidence_failures": 0,
+    "selected_source_baselines": 17,
+    "selected_sources_needing_attention": 0,
+    "total_selected_source_and_visual_links": 25,
+    "unit_tests": 97,
+    "unit_result": "pass",
+    "pipeline_tests": 74,
+    "pipeline_result": "pass",
+    "lint": "pass",
+    "typescript": "pass",
+    "build": "pass",
+    "generated_pages": 168,
+    "browser_tests_listed": 141,
+    "browser": "Blocked before page load: Chromium MachPort permission 1100; CUA browser host unavailable. No browser/Axe/responsive-layout pass claimed. Runner must run suite.",
+    "diff_check": "pass",
+    "new_licensed_originals_and_conversions_visually_inspected": 3,
+    "linked_visual_collection_photo_inspections": 107,
+    "photo_count_note": "Inspections per linked collection: 7+9+1+3+7+1+9+70. Some museum photographs repeat across publisher pages; not 107 unique photographs.",
+    "pdf_pages_rendered_and_inspected": 5,
+    "conflict_marker_scan": "pass; no markers in changed content or reports",
+    "changed_and_new_json_files_parsed": 28,
+    "final_note_evidence_correspondence": 76,
+    "pdf_inspection_scope": "One published Sightline page and four held Brighton historical pages; not full reviews of the two historical Brighton PDFs.",
+    "head_unchanged": true,
+    "final_nippert_definition_conflict_in_built_html": true,
+    "build_warnings": [
+      "Next build could not find fallback font override values for Atkinson Hyperlegible Next; build succeeded.",
+      "Node module.register deprecation and Vite native-config compatibility notices; no test/build failures."
+    ],
+    "fresh_evidence_file_sha256": "0b7b0a0fdbadccdbb1657a64b1b562195216c56d037afaf5b8b70de3a31d9ee3"
+  },
+  "http_checks": [
+    {
+      "route": "/",
+      "status": 200,
+      "bytes": 178325
+    },
+    {
+      "route": "/venues",
+      "status": 200,
+      "bytes": 1133975
+    },
+    {
+      "route": "/venues/cincinnati-reds-hall-of-fame-and-museum",
+      "status": 200,
+      "bytes": 114615,
+      "all_fact_anchors_present": true,
+      "all_new_visual_links_present": true,
+      "all_new_photo_paths_present": true
+    },
+    {
+      "route": "/venues/nippert-stadium",
+      "status": 200,
+      "bytes": 146170,
+      "all_fact_anchors_present": true,
+      "all_new_visual_links_present": true,
+      "all_new_photo_paths_present": true
+    },
+    {
+      "route": "/venues/fifth-third-arena",
+      "status": 200,
+      "bytes": 133292,
+      "all_fact_anchors_present": true,
+      "all_new_visual_links_present": true,
+      "all_new_photo_paths_present": true
+    },
+    {
+      "route": "/venues/nku-fine-arts-center",
+      "status": 200,
+      "bytes": 127203,
+      "all_fact_anchors_present": true,
+      "all_new_visual_links_present": true,
+      "all_new_photo_paths_present": true
+    },
+    {
+      "route": "/venues/thrifting-on-eastern",
+      "status": 200,
+      "bytes": 67046,
+      "all_fact_anchors_present": true,
+      "all_new_visual_links_present": true,
+      "all_new_photo_paths_present": true
+    },
+    {
+      "route": "/venues/covunity-fridge-redden-gardens",
+      "status": 200,
+      "bytes": 78994,
+      "all_fact_anchors_present": true,
+      "all_new_visual_links_present": true,
+      "all_new_photo_paths_present": true
+    },
+    {
+      "route": "/images/access/nippert-west-seating-2019.webp",
+      "status": 200,
+      "bytes": 561526,
+      "sha256": "c8281659751c5ed1ad0a04087d7559b5d3ee36e003566d8097a694384652dd26",
+      "matches_local_bytes": true
+    },
+    {
+      "route": "/images/access/nippert-cross-aisle-2008.webp",
+      "status": 200,
+      "bytes": 425734,
+      "sha256": "6610cdae8721a58a73ec2ad86c21f6891cb6bc12a43154f4affe343e2cba9c46",
+      "matches_local_bytes": true
+    },
+    {
+      "route": "/images/access/nku-loch-norse-bridge-2008.webp",
+      "status": 200,
+      "bytes": 178786,
+      "sha256": "918daee8afd47540d92f86d0cb43db44b3273e9ba3bb0233ea1e7bae3acab7d9",
+      "matches_local_bytes": true
+    }
+  ],
+  "review_completed_at_utc": "2026-11-13T15:16:36.430932+00:00",
+  "publish_ready_for_runner_validation": true
+}

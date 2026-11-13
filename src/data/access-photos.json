@@ -1347,5 +1347,65 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paul_Brown_Stadium_interior_2017.jpg",
     "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "nippert-west-seating-2019",
+    "slug": "nippert-stadium",
+    "title": "West-side seat rows and stair aisles — 2019",
+    "alt": "Nippert’s red bench rows and upper chairback seats are divided by stair aisles with handrails, below the multi-level west pavilion.",
+    "caption": "The May 23, 2019 view shows red bench rows, stair aisles with handrails, chairback rows and the multi-level pavilion. It was photographed during the period when FC Cincinnati used Nippert. Full frame retained; resized and converted to WebP.",
+    "author": "Iliketotakevideosoftrains",
+    "photoDate": "2019-05-23",
+    "limitations": "Historical seating view. It does not identify a wheelchair bay, companion allocation, entrance, lift or continuous step-free route. Seat configurations, barriers and event arrangements may have changed.",
+    "relatedFactIds": [
+      "nippert-stadium.mobility.1"
+    ],
+    "src": "/images/access/nippert-west-seating-2019.webp",
+    "width": 1600,
+    "height": 1200,
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CincinnatiFCstadium.jpg",
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "nippert-cross-aisle-2008",
+    "slug": "nippert-stadium",
+    "title": "Cross-aisle railings and stair openings — 2008",
+    "alt": "A concrete cross-aisle at Nippert has red metal railings, gaps leading to descending stairs and bench seating above and below.",
+    "caption": "The June 27, 2008 camera date identifies this historical view of concrete circulation space, red railings and stair openings beside bench seating. Full frame retained; converted to WebP.",
+    "author": "Greenstrat",
+    "photoDate": "2008-06-27",
+    "limitations": "This predates Nippert’s 2015 renovation. The photograph does not establish today’s seating layout, route dimensions, surface condition, wheelchair seating or a continuous entrance-to-seat route. Do not treat the foreground as a verified ramp.",
+    "relatedFactIds": [
+      "nippert-stadium.mobility.1"
+    ],
+    "src": "/images/access/nippert-cross-aisle-2008.webp",
+    "width": 1600,
+    "height": 1200,
+    "license": "Public domain (author release)",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:NippertStadium2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NippertStadium2.jpg",
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "nku-loch-norse-bridge-2008",
+    "slug": "nku-fine-arts-center",
+    "title": "Loch Norse bridge and railings — 2008",
+    "alt": "A plank bridge with black railings crosses Loch Norse toward a paved lakeside path, with NKU’s Fine Arts Center behind it.",
+    "caption": "The source dates this full-frame view May 31, 2008. It shows the bridge decking, side railings, shadows from overhead beams and part of the lakeside path beside the Fine Arts Center. Converted to WebP without cropping or retouching.",
+    "author": "Samvscat at English Wikipedia",
+    "photoDate": "2008-05-31",
+    "limitations": "Historical outdoor-route context only. This does not identify the current designated accessible entrance or establish a continuous route from parking to the building. Deck condition, gaps, width, slope, thresholds and present-day operation are unverified; do not infer that the bridge is required for arrival.",
+    "relatedFactIds": [
+      "nku-fine-arts-center.mobility.4"
+    ],
+    "src": "/images/access/nku-loch-norse-bridge-2008.webp",
+    "width": 1000,
+    "height": 646,
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:NKU-lake-3.jpg",
+    "checkedAt": "2026-11-13"
   }
 ]
