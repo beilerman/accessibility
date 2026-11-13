@@ -1,0 +1,852 @@
+{
+  "date": "2026-11-13",
+  "base": "ea30d7ab9ea106160e791850b04d610f6946858f",
+  "publicationState": "Prepared for runner validation and Git push. No agent commit, push or deployment. Runner-host browser validation remains required.",
+  "counts": {
+    "places": 146,
+    "activeNotes": 1393,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1136,
+    "missingPassages": 257,
+    "licensedPhotos": 56,
+    "linkedGuideEntries": 25,
+    "distinctGuideDocuments": 21,
+    "newVenues": 1,
+    "newNotes": 35,
+    "fullReviews": 4,
+    "partialReviews": 0,
+    "oldNotesReviewed": 34,
+    "oldNotesUnchanged": 29,
+    "oldNotesRevised": 5,
+    "previouslyMissingPassagesBackfilled": 26,
+    "licensedPhotosAdded": 2,
+    "linkedGuidesAdded": 2
+  },
+  "checks": {
+    "finalEvidence": {
+      "command": "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python scripts/research/verify.py docs/research/creation-shakespeare-second-sight-2026-11-13-final-evidence.json",
+      "notesPassed": 69,
+      "addressPassed": 1,
+      "failed": 0
+    },
+    "sourceBaselines": {
+      "checked": 16,
+      "needAttention": 0,
+      "snapshot": "pipeline/source-checks/2026-11-13.json"
+    },
+    "unit": {
+      "command": "npm test",
+      "passed": 92,
+      "failed": 0
+    },
+    "pipeline": {
+      "command": "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'",
+      "passed": 74,
+      "failed": 0
+    },
+    "types": {
+      "command": "npx tsc --noEmit",
+      "exitCode": 0
+    },
+    "lint": {
+      "command": "npm run lint",
+      "exitCode": 0
+    },
+    "build": {
+      "command": "npm run build",
+      "exitCode": 0,
+      "staticPages": 161,
+      "warnings": [
+        "Existing Atkinson Hyperlegible Next fallback-font override warning.",
+        "Node module.register deprecation warning."
+      ]
+    },
+    "browser": {
+      "command": "npx playwright test --grep 'second-sight-spirits' --workers=1",
+      "attempted": 1,
+      "passed": 0,
+      "status": "Blocked before navigation",
+      "reason": "Chromium bootstrap_check_in MachPortRendezvousServer permission denied (1100).",
+      "fallback": "In-app browser host unavailable. No layout, interaction or automated browser accessibility pass claimed.",
+      "runnerRequired": true
+    },
+    "http": {
+      "baseURL": "http://localhost:3218",
+      "passed": 177,
+      "failed": 0,
+      "checks": [
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater name",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater limits",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.mobility.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.sensory.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.sensory.1 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.sensory.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.sensory.2 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.mobility.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.mobility.2 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.chronic.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.sensory.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.sensory.3 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.5 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.5 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.mobility.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.mobility.3 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.6 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.6 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.7 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.7 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.chronic.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.8 exact text",
+          "passed": true
+        },
+        {
+          "check": "childrens-theatre-of-cincinnati-emery-theater.cognitive.8 source",
+          "passed": true
+        },
+        {
+          "check": "emery-mary-poppins-social-narrative-2026 link",
+          "passed": true
+        },
+        {
+          "check": "emery-mary-poppins-social-narrative-2026 description",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company name",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company limits",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.2 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.1 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.2 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.3 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.4 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.chronic.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.3 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.5 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.5 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.6 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.6 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.4 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.chronic.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.5 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.sensory.5 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.7 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.mobility.7 source",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.chronic.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "cincinnati-shakespeare-company.chronic.3 source",
+          "passed": true
+        },
+        {
+          "check": "shakespeare-sensory-pre-visit-2026 link",
+          "passed": true
+        },
+        {
+          "check": "shakespeare-sensory-pre-visit-2026 description",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation name",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation limits",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.mobility.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "proudworks-transportation.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "creation-museum name",
+          "passed": true
+        },
+        {
+          "check": "creation-museum limits",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.2 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.1 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.3 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.4 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.2 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.5 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.5 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.6 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.6 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.3 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.7 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.7 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.3 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.8 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.mobility.8 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.4 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.5 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.5 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.6 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.6 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.7 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.sensory.7 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.3 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.3 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.4 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.5 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.cognitive.5 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.4 exact text",
+          "passed": true
+        },
+        {
+          "check": "creation-museum.chronic.4 source",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-entrance-doors-2015 caption",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-entrance-doors-2015 limitations",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-entrance-doors-2015 author",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-entrance-doors-2015 alt",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-entrance-doors-2015 source link",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-entrance-doors-2015 asset hash",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-exhibit-bench-2015 caption",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-exhibit-bench-2015 limitations",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-exhibit-bench-2015 author",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-exhibit-bench-2015 alt",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-exhibit-bench-2015 source link",
+          "passed": true
+        },
+        {
+          "check": "creation-museum-exhibit-bench-2015 asset hash",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits name",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits limits",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.mobility.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.mobility.1 source",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.cognitive.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.cognitive.1 source",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.cognitive.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.cognitive.2 source",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.chronic.1 exact text",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.chronic.1 source",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.chronic.2 exact text",
+          "passed": true
+        },
+        {
+          "check": "second-sight-spirits.chronic.2 source",
+          "passed": true
+        },
+        {
+          "check": "/venues HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/venues new listing link",
+          "passed": true
+        },
+        {
+          "check": "/venues?category=Food%20%26%20drink&region=KY HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/venues?category=Food%20%26%20drink&region=KY new listing link",
+          "passed": true
+        },
+        {
+          "check": "/venues?q=Second+Sight HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/venues?q=Second+Sight new listing link",
+          "passed": true
+        },
+        {
+          "check": "Second Sight search results count",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures HTTP 200",
+          "passed": true
+        }
+      ]
+    },
+    "preservation": {
+      "passed": 1252,
+      "failed": 0,
+      "groups": {
+        "unchangedUntargetedPlaces": 141,
+        "reviewedVenueOldIdSetsRetained": 4,
+        "oldFactHistoryPrefixesPreserved": 34,
+        "fullDatesSupportedByEveryActiveNote": 4,
+        "priorPhotoAndGuideEntriesUnchanged": 2,
+        "untargetedQuoteRecordsUnchanged": 1067
+      },
+      "method": "Read-only git show HEAD compared with final JSON values. Every original place and note ID retained; prior history prefixes retained; unrelated place/quote objects and earlier media entries equal the base."
+    },
+    "gitDiffCheck": {
+      "exitCode": 0
+    },
+    "conflictMarkerScan": {
+      "matches": 0
+    },
+    "finalArtifactReview": {
+      "jsonReadable": true,
+      "reportAndQueueLocalLinksExist": true,
+      "finalDataHashesMatchReceipt": true,
+      "mediaMetadataAndAllNewImagesReviewed": true
+    }
+  },
+  "resolvedCheckIssues": [
+    "Default uv cache path was sandbox-restricted; used UV_CACHE_DIR=/tmp/threshold-uv-cache, never an in-checkout Python environment.",
+    "A transient Creation accessibility fetch failed final verification; retry and final expanded check passed. Gate not bypassed.",
+    "Initial HTTP harness included nonexistent /plan and used search instead of q. Harness corrected to actual routes/query names. Search returns two valid matches across venue names and note text, including Second Sight and Art Museum; an exact-name-only count assumption was removed. No application defect was inferred.",
+    "Restarted own local verification server through its tool session after final build; final HTTP results use updated generated pages."
+  ],
+  "reviewedFiles": [
+    {
+      "path": "src/data/places.json",
+      "sha256": "4b30da5eb30ca19ace920e40e0afe32fdfe8f5b983da44fa2ded1cb4dcd5f502"
+    },
+    {
+      "path": "pipeline/evidence/quotes.json",
+      "sha256": "d42abcac124afbed048c393c74a6a453759238642e40299ddb5a201e8b3d8e2b"
+    },
+    {
+      "path": "src/data/access-photos.json",
+      "sha256": "8f0e6e5fd67e2769105d65a3c48514d5e3205094572d6bedc838ef01b01fef26"
+    },
+    {
+      "path": "src/data/access-guides.json",
+      "sha256": "f05e9fee5f71546c19a778b698a4b781cbdf0cadfc5a5a5f151fb10e1a04f478"
+    },
+    {
+      "path": "e2e/accessibility.spec.ts",
+      "sha256": "c2daaf3ce25ed7371ff0be7b0d906c5b5f42eb649c660e1bdf15776fa1ce9930"
+    },
+    {
+      "path": "src/__tests__/venue-expansion.test.ts",
+      "sha256": "87f49a5c52c521ff2de9a38c01e18ed088c7ea8809e51e8f51e60084562a219a"
+    }
+  ],
+  "recoveryFollowup": {
+    "status": "Historical receipt; final-data hashes precede the continuation.",
+    "hostResult": "131 browser passes, one stale expected date failure.",
+    "repair": "Date expectation now derives from the specific source note.",
+    "currentReceipt": "music-observatory-ballet-jcc-2026-11-13-validation.json"
+  }
+}

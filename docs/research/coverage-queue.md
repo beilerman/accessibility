@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after Ludlow/Miami Whitewater/Harrison/Lou Hartfiel full reviews, Bea Taylor food assistance and deep access-photo research.
+Updated November 13, 2026, after host-test repair, Ballet/Observatory/Playhouse full reviews, a partial Music Hall review, Mayerson JCC and deep access-photo research.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,9 +9,10 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now 283 notes. The latest pass adds
-four full reviews plus two partial reviews (27 old notes), repairing 24 missing
-passages with nine wording corrections/clarifications; separate from 41 new notes. Start with transit
+remaining legacy missing-passage backlog is now 226 notes. The latest continuation adds
+three full reviews and one partial review (31 old notes), repairing 31 missing passages
+with seven corrections/clarifications; separate from 37 new notes. Combined with the
+recovered batch: seven full reviews, one partial, 57 backfilled and 72 new notes. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -19,10 +20,10 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 145 places. Its categories contain 32 arts venues,
+The prepared catalog has 147 places. Its categories contain 32 arts venues,
 31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
-entries, fifteen food/drink venues, eleven shopping destinations, six public-service
-listings and seven recreation/fitness listings. Continue seeking concrete access
+entries, sixteen food/drink venues, eleven shopping destinations, six public-service
+listings and eight recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
@@ -49,7 +50,124 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest prepared batch — November 12 Ludlow, Miami Whitewater, Harrison, Lou Hartfiel and Bea Taylor
+## Latest continuation — November 13 Ballet, Observatory, Playhouse, Music Hall and Mayerson JCC
+
+See [research report](music-observatory-ballet-jcc-2026-11-13.md),
+[media receipt](music-observatory-ballet-jcc-2026-11-13-media.json) and
+[validation receipt](music-observatory-ballet-jcc-2026-11-13-validation.json).
+
+**Recovered host failure:** the date/history browser test expected November 8 after
+the Creation note had correctly advanced to November 13. Its expectation now uses
+that note's actual date; source/history/accessibility checks remain. The host had
+131 passes and one stale assertion failure. Local Chromium's separate MachPort
+launch denial remains a sandbox limit, not the host diagnosis. Runner browser tests
+are still required. All recovered edits were reviewed and preserved; no markers found.
+
+**Backfill/freshness:** Ballet seven, Observatory nine and Playhouse eight old notes
+fully reviewed; Music Hall seven of ten partially reviewed. Twenty-four unchanged,
+seven revised and 31 missing passages repaired (**257 → 226**). Music Hall's whole
+review date remains November 9. Its three Symphony-dependent notes stay held because
+both accessibility URLs return redirect shells without extractable evidence.
+
+**Growth:** 37 new IDs — Ballet five, Observatory three, Playhouse six, Music Hall
+seven and **Mayerson JCC sixteen**. JCC adds neighborhood recreation, locker/changing
+limits, sensory/communication support, program assistance and senior-transport
+coverage. The Observatory bus note partly relocates an older clause to its proper
+source; new-ID growth is not all novel information. No JCC adult changing table is
+claimed, and family-locker/elevator continuity and pool entry equipment remain unknown.
+
+**Media:** five licensed full frames — Music Hall Box Office doorway and stepped
+frontage (2019), Observatory viewing platform, Mitchel ramp and interior stepped
+doorway (2020). Four linked guides — JCC locker rooms, private swimming and theatre;
+Ballet's historical October 2021 youth-program narrative. Inspected 108 previews
+including overlapping album/Commons views, six full originals and 64 PDF pages,
+including 25 recovered pages. Four additional Music Hall interior previews remained
+rate-limited. The Ballet guide's old mask rule and lift statement are not current
+policy or operating evidence. Camp-swim and old Playhouse PDFs were inspected and held.
+
+**Combined pending batch:** two new venues, 72 new notes, seven full/one partial
+review, 65 old notes (53 unchanged/twelve revised), 57 backfills, seven licensed
+photos and six guides. Totals: **147 places, 1,430 active/one retired note, 1,204
+quoted active, 226 missing, 61 photos, 29 guide entries/25 documents**. Current final
+evidence covers 139 note/address checks across the two batches; 35 source baselines.
+No Git writes, push, deployment, previews or administration by the agent.
+
+**Next concrete batch:** **Sharon Woods (eight missing passages), Fountain Square
+(seven) and Great Wolf Lodge Mason (eight)**, paired with an everyday grocery or
+public-service lead. A [read-only preflight](music-observatory-ballet-jcc-2026-11-13-next-preflight.json)
+reached all eleven source URLs for those three targets (200/nonempty text); clause
+review remains undone and no freshness credit is counted. Molly's four blocked
+notes remain manual holds. Preserve the
+recovered Clifton/Know/Kroger/Augusta leads and unresolved Proudworks booking,
+assistance and equipment details. Prior weekly full-review minimum already met.
+
+Late source retry: Clifton homepage 403, indexed contact 404, Kroger Delhi timeout;
+Augusta event page readable but still private-event scoped. See the
+[held refresh](music-observatory-ballet-jcc-2026-11-13-held-refresh.json).
+
+**Photo priorities:** current Music Hall elevator/restroom/quiet-space views;
+Mitchel side-door threshold, toilet and parking connection; post-2023 Playhouse
+Rouse routes; Ballet current shower/quiet-room/lift procedures; JCC elevator-to-family
+locker route, pool transfer/lift and senior-vehicle boarding. Photographer albums
+for Latonia, Botany Hills, old Covington station, federal courthouse and The Standard
+are recorded in the media receipt as leads, not yet verified listings or licences.
+
+## Recovered batch — November 13 Creation Museum, Shakespeare, Emery and Second Sight
+
+See [research report](creation-shakespeare-second-sight-2026-11-13.md),
+[media receipt](creation-shakespeare-second-sight-2026-11-13-media.json) and
+[validation receipt](creation-shakespeare-second-sight-2026-11-13-validation.json).
+
+**Backfill/freshness:** Creation Museum 10, Cincinnati Shakespeare 10 and
+Children's Theatre at the Emery 9 and Proudworks transportation 5 old notes fully reviewed. Twenty-nine unchanged,
+five revised, 26 missing passages repaired (**283 → 257**). Whole dates November 13;
+no other existing venue date changed. No partial review counted; weekly minimum
+already met before this pass. Retain every independently changeable clause.
+
+**Growth:** 35 new notes: Creation 14, Shakespeare 9, Emery 7, and five at new
+**Second Sight Spirits** (Food & drink, Ludlow). Covers arrival, stairwell break
+exit, zoo surface, captions, kit return, adult-changing inquiry, winter closures,
+seating/companions, elevator/restroom approaches, sensory-performance restrictions,
+school booking, dated restroom fixtures and screening. Second Sight's one-floor
+operator statement does not establish its street-to-door route or toilet access.
+
+**Photos:** two licensed full-frame 2015 Creation photographs (entrance doors and
+exhibit bench); two linked official photo narratives (Shakespeare 18 pages/May 2026
+metadata, Emery seven pages/October 2026 metadata). Fifty-two Commons candidate
+previews, four selected Commons originals, nine Second Sight and ten Proudworks official-page views, and 50 PDF pages
+inspected. Historical images do not verify current routes. Findlay readable plate,
+Creation rear-deck people and unlicensed Second Sight gallery held. Original HTML
+gallery support remains a separate UI-tested follow-up. No AI added.
+
+**Totals:** 146 places; 1,393 active/one retired note; 1,136 quoted; 257 missing;
+56 licensed photos; 25 guide entries/21 documents. Final evidence: 70 note/address
+checks, 16 baselines. Browser launch remains blocked before navigation in this
+sandbox, and the in-app host is unavailable; runner browser tests remain required.
+
+**Next concrete batch:** recover **Cincinnati Ballet** evidence (three source pages
+403) or fully review **Music Hall** and **Cincinnati Observatory/Playhouse**. Pair
+with grocery/public-service/neighborhood recreation evidence. Proudworks
+received five unchanged-note freshness checks (already reviewed November 12),
+without resolving booking/assistance gaps. Tousey still lacks toilet/arrival evidence. Proudworks boarding/lift-rail and bus-door step views are retained
+as unlicensed original-link leads; they do not establish capacity or assistance. Clifton Market 403, Kroger Delhi timeout, Know Theatre 403 and
+Molly's four earlier blocked notes remain held. Augusta Distillery is a promising
+new listing lead, but its lift wording is truncated and its no-step entrance claim
+is private-event scoped; do not fill missing answers or generalize it.
+
+**Photo priorities:** current Creation Welcome Center, parking-to-door route,
+bridges and changing facilities; Emery entrance thresholds, elevator and changing
+facilities; Shakespeare current elevator and Upper Gallery side-section route;
+Second Sight entrance, toilets and seating clearances. Continue Ludlow west Ace
+Hardware/lift, Miami Whitewater launch, Lou Hartfiel play/toilet route, Harrison
+drive-through and Bea Taylor waiting/arrival imagery from the prior batch.
+
+**Conflicts:** Creation five-bridge versus gardens-page count; 2017 maintenance is
+historical; tactile Mon–Sat wording versus winter Sun–Tue closure. Emery FAQ
+first-Saturday and Monday/Thursday ASL inconsistencies require exact-show checking.
+Its October 2026 narrative is not a future-show policy. Prior Bea Taylor reopening,
+bilingual hours and holiday-service conflicts remain unresolved.
+
+## Earlier prepared batch — November 12 Ludlow, Miami Whitewater, Harrison, Lou Hartfiel and Bea Taylor
 
 See [research report](ludlow-miami-bea-2026-11-12.md),
 [media receipt](ludlow-miami-bea-2026-11-12-media.json) and

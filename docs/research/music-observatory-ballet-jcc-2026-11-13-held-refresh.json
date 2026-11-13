@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.cliftonmarket.com/contact",
+    "fetch": {
+      "status": 404,
+      "error": "Not Found"
+    },
+    "excerpt": ""
+  },
+  {
+    "url": "https://cliftonmarket.com/",
+    "fetch": {
+      "status": 403,
+      "error": "Forbidden"
+    },
+    "excerpt": ""
+  },
+  {
+    "url": "https://www.kroger.com/stores/grocery/oh/cincinnati/delhi/014/00944",
+    "fetch": {
+      "status": null,
+      "error": "TimeoutError: The read operation timed out"
+    },
+    "excerpt": ""
+  },
+  {
+    "url": "https://augustakydistillery.com/pages/events",
+    "fetch": {
+      "status": 200,
+      "final_url": "https://augustakydistillery.com/pages/events",
+      "last_modified": null,
+      "sha256": "26060272b8b694234e76c92bf7b18a88898e0560178ec44b4763ca2f0c164e9b",
+      "fingerprint_version": 6,
+      "chars": 4918
+    },
+    "excerpt": "ARE YOU HANDICAPPED ACCESSIBLE? Yes! The building is accessible with no steps at the entrance. .faq-bullet p{ color:#fff!important; } .faq-bullet li{ margin-bottom:25px; } .product-single__meta{ padding-top:0!important; } Interested in booking an event at Augusta Distillery? Reach out below. First Name Last Name Email Reason Event Inquiries Message Signup for newsletter Send window.unicornToolzInit = function(ut){ ut.onSuccess(function(data){ $('#contact').html(' Message Sent! You\\'ll hear from "
+  }
+]

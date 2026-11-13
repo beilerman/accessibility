@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-13",
+  "purpose": "Read-only source availability preflight for next batch; not a clause review, evidence backfill or venue freshness event. No public note or checked_at changed.",
+  "results": [
+    {
+      "slug": "sharon-woods",
+      "url": "https://www.greatparks.org/about/accessibility",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/about/accessibility",
+        "last_modified": null,
+        "sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+        "fingerprint_version": 6,
+        "chars": 3029,
+        "extractableCharacterCount": 8635,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "sharon-woods",
+      "url": "https://www.greatparks.org/parks/sharon-woods",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/sharon-woods",
+        "last_modified": null,
+        "sha256": "1a9800e0cb50be2c28274e1d4567a698f45a7849fe2e209bce1098ac90af2fdb",
+        "fingerprint_version": 6,
+        "chars": 6319,
+        "extractableCharacterCount": 11923,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "sharon-woods",
+      "url": "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail",
+        "last_modified": null,
+        "sha256": "0f4325dd14617db0f197d1f61df6a37d809bc8869b7be22b5d1574c5bb4216b9",
+        "fingerprint_version": 6,
+        "chars": 677,
+        "extractableCharacterCount": 6308,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "sharon-woods",
+      "url": "https://www.greatparks.org/parks/sharon-woods/island-grove-trail",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/sharon-woods/island-grove-trail",
+        "last_modified": null,
+        "sha256": "100b28242821b7d5a8356f414535407d9dbd015c6d9db32563dab8f7eb537b5e",
+        "fingerprint_version": 6,
+        "chars": 660,
+        "extractableCharacterCount": 6289,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "sharon-woods",
+      "url": "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail",
+        "last_modified": null,
+        "sha256": "e03735ea709774e7a11cc7db10afd1dd5fc7268f993aa65a96b85bb2b103f8ee",
+        "fingerprint_version": 6,
+        "chars": 625,
+        "extractableCharacterCount": 6246,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "sharon-woods",
+      "url": "https://www.greatparks.org/parks/sharon-woods/sharon-woods-harbor",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatparks.org/parks/sharon-woods/sharon-woods-harbor",
+        "last_modified": null,
+        "sha256": "68d75cc90501185e0740bb584048c3f56b6012489e75cbc86a69acd8de0ce621",
+        "fingerprint_version": 6,
+        "chars": 3040,
+        "extractableCharacterCount": 8671,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "fountain-square",
+      "url": "https://myfountainsquare.com/amenities/",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://myfountainsquare.com/amenities/",
+        "last_modified": null,
+        "sha256": "f765e483a4ae5c9e5248439703cf42e9466b1eb0bf252e18229c0baf5b0bf500",
+        "fingerprint_version": 6,
+        "chars": 4515,
+        "extractableCharacterCount": 38190,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "fountain-square",
+      "url": "https://myfountainsquare.com/parking/",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://myfountainsquare.com/parking/",
+        "last_modified": null,
+        "sha256": "3479b9e25b53b96e19403e50a207b890d667ab93a658ec199cb745b3c50b69cd",
+        "fingerprint_version": 6,
+        "chars": 3268,
+        "extractableCharacterCount": 44001,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "fountain-square",
+      "url": "https://myfountainsquare.com/square-rules/",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://myfountainsquare.com/square-rules/",
+        "last_modified": null,
+        "sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450",
+        "fingerprint_version": 6,
+        "chars": 5336,
+        "extractableCharacterCount": 39074,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "great-wolf-lodge-mason",
+      "url": "https://www.greatwolf.com/mason/accessibility",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatwolf.com/mason/accessibility",
+        "last_modified": "Thu, 12 Nov 2026 22:34:20 GMT",
+        "sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f",
+        "fingerprint_version": 6,
+        "chars": 5739,
+        "extractableCharacterCount": 371058,
+        "nonemptyExtractedText": true
+      }
+    },
+    {
+      "slug": "great-wolf-lodge-mason",
+      "url": "https://www.greatwolf.com/mason/faq",
+      "fetch": {
+        "status": 200,
+        "final_url": "https://www.greatwolf.com/mason/faq",
+        "last_modified": "Thu, 12 Nov 2026 22:06:17 GMT",
+        "sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea",
+        "fingerprint_version": 6,
+        "chars": 67512,
+        "extractableCharacterCount": 447742,
+        "nonemptyExtractedText": true
+      }
+    }
+  ]
+}

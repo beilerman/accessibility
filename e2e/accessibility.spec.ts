@@ -5,6 +5,8 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/mayerson-jcc",
+  "/venues/second-sight-spirits",
   "/venues/freestore-foodbank-bea-taylor-market",
   "/venues/jungle-jims-eastgate",
   "/venues/clermont-transportation-connection-dial-a-ride",
@@ -447,8 +449,13 @@ test("each access note shows its own source type, check date and history", async
 }) => {
   await page.goto("/venues/creation-museum");
   const note = page.locator("#creation-museum\\.sensory\\.1");
+  const sourceNote = places
+    .find((place) => place.slug === "creation-museum")!
+    .facts.find((fact) => fact.id === "creation-museum.sensory.1")!;
   await expect(note).toContainText("photosensitive epilepsy");
-  await expect(note).toContainText("Venue’s official website · Checked Nov 8, 2026");
+  await expect(note).toContainText(
+    "Venue’s official website · Checked " + dateLabel(sourceNote.retrieved_at),
+  );
   const history = note.locator("details.fact-history");
   await expect(history.locator("ol")).toBeHidden();
   await history.locator("summary").click();

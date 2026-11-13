@@ -1,0 +1,139 @@
+{
+  "creation-museum": [
+    [
+      "mobility",
+      "The museum lists designated accessible spaces in its main parking lot and asks visitors who need help finding an available space to alert the person directing traffic.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      "We have many accessible parking spaces available in our main parking lot. If you need assistance finding an available space, alert the individual directing traffic."
+    ],
+    [
+      "chronic",
+      "For adult changing-table information, the museum directs visitors to Guest Services inside the museum. This page does not identify a table location, transfer equipment, dimensions or availability.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      "For more information on adult changing tables, please talk to a team member at the Guest Services desk inside the Creation Museum."
+    ],
+    [
+      "mobility",
+      "The zoo’s center interactive pen has a sand surface. The museum says the other pens can be viewed from paved trails; this does not establish entry to every pen.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      "With the exception of the center interactive pen (which has a sand surface), all of the zoo’s pens are fully viewable via paved trails."
+    ],
+    [
+      "sensory",
+      "To borrow the complimentary sensory kits, earmuffs or earplugs, visitors give their name and phone number to the museum team. Reservations are not needed, and items are returned to Guest Services before departure.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      [
+        "For guests with sensory sensitivities, complimentary sensory kits, as well as noise-reducing earmuffs and earplugs, are available and can be accessed at the Welcome Center upon arrival and the Guest Services desk inside the Main Hall of the museum.",
+        "Simply provide the museum team with your name and phone number to utilize these options during your visit. All items can be returned to the Guest Services Desk before your departure.",
+        "(Note: Reservation of these options is not necessary.)"
+      ]
+    ],
+    [
+      "mobility",
+      "The break exit at the start of the Corruption exhibits, just after Garden of Eden, is a stairwell back to the first level. The accessibility page does not identify a step-free break route at that point; ask staff before relying on this exit.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      "Take a break at any time from the exhibits via an emergency exit (a stairwell back to the first level) located on the right where the Corruption exhibits begin and just after the Garden of Eden ends."
+    ],
+    [
+      "cognitive",
+      "A two-way door beside the Lucy hologram in Starting Points bypasses the Biblical Authority room. A separate bypass on the right in the Christ, Cross and Consummation area avoids Legacy Hall crowds and leads to Borderlands.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      [
+        "This option is a two-way door located directly beside the Lucy hologram in the Starting Points room.",
+        "There are also shortcuts throughout the main exhibits, including one early on to bypass the Biblical Authority room if it is congested.",
+        "Additionally, there is a bypass on the right in the Christ, Cross, and Consummation area to avoid the Legacy Hall auditorium crowds. This bypass will take you to the next exhibit called Borderlands"
+      ]
+    ],
+    [
+      "sensory",
+      "The museum says restroom and elevator signs include Braille.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      "Restrooms and elevators are marked in Braille to assist with finding your way in the museum."
+    ],
+    [
+      "sensory",
+      "Closed captioning for The Last Adam is available on request, and captioning devices are available at the 4D Theater. Ask staff about the device and show arrangements.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      "Closed captioning is also available upon request for The Last Adam show, and there are closed captioning devices available at the 4D Theater as well."
+    ],
+    [
+      "sensory",
+      "The entrance theater can be crowded and loud; its roughly one-minute video may be skipped or revisited. Starting Points has several videos playing around the room, which the museum describes as substantial audio stimulation.",
+      "https://creationmuseum.org/accessibility/",
+      "venue_official",
+      [
+        "Immediately upon entrance to the main exhibits, there is a theater that can be crowded and includes loud audio. The video that plays is about one minute long and can be skipped or simply returned to later.",
+        "Starting Points is the next room, and various video displays play on the walls. Please note that there is substantial audio stimulation in this room from the different videos playing around you."
+      ]
+    ]
+  ],
+  "cincinnati-shakespeare-company": [
+    [
+      "mobility",
+      "In the Upper Gallery, the center three sections do not require stairs, but the two side sections have a step down. Arrange the exact seat location with the Box Office rather than assuming every Upper Gallery seat is on the elevator level.",
+      "https://www.cincyshakes.com/your-visit/seating",
+      "venue_official",
+      "In the Upper Galley, the center 3 sections also do not require stairs. The side 2 sections have a step down to reach them."
+    ],
+    [
+      "mobility",
+      "The seating page gives seat widths of 21–23 inches and directs visitors to its floor-plan schematic for individual seat numbers, widths and stairs. These are publisher specifications, not Threshold measurements.",
+      "https://www.cincyshakes.com/your-visit/seating",
+      "venue_official",
+      "The seats range from 21\" to 23\" inches wide. For a detailed schematic map of the seats and widths (including seat numbers and stairs) see the \"Floor Plan\" tab above."
+    ],
+    [
+      "sensory",
+      "For the advertised sensory-friendly performances, house lights remain at 50% and the venue states a sound cap of 90 decibels. These are performance adjustments, not a guarantee of quiet or suitability for a particular visitor.",
+      "https://www.cincyshakes.com/on-stage/sensory",
+      "venue_official",
+      [
+        "House lights will remain dimmed at 50% during performance.",
+        "Sound will be capped at 90 decibels."
+      ]
+    ],
+    [
+      "chronic",
+      "The sensory-friendly performance page promises two break areas, on the first and second levels, plus headphones and fidgets during the show. Confirm the arrangements for your performance; this page does not describe an everyday staffed quiet room.",
+      "https://www.cincyshakes.com/on-stage/sensory",
+      "venue_official",
+      [
+        "Two break areas will be provided, on the first and second levels.",
+        "Headphones and fidgets will be provided during the show."
+      ]
+    ],
+    [
+      "cognitive",
+      "For sensory-friendly performances, the venue says attendance is limited to half its standard capacity and the front two rows are intentionally left unavailable.",
+      "https://www.cincyshakes.com/on-stage/sensory",
+      "venue_official",
+      "The house will be monitored and limited to half-capacity of our standard performances. The front two rows closest to the stage will also be intentionally blocked off."
+    ],
+    [
+      "sensory",
+      "The sensory-friendly page says closed captioning and audio description can be arranged with advance requests. It does not state a request deadline; confirm the service for the chosen performance.",
+      "https://www.cincyshakes.com/on-stage/sensory",
+      "venue_official",
+      "Closed captioning and audio descriptions can be made available upon advanced request."
+    ],
+    [
+      "cognitive",
+      "The parking page describes the Towne Center option at 1251 Central Parkway as a surface lot paid entirely by phone, using a text message or posted code. It says there is no attended or in-person payment option there; policies and availability may change.",
+      "https://www.cincyshakes.com/your-visit/parking",
+      "venue_official",
+      [
+        "Situated at 1251 Central Parkway, Cincinnati, OH 45202, this surface lot is a convenient alternative with ample spaces.",
+        "Payment here is handled entirely via mobile phone—you’ll need to text or scan the posted codes, as this lot does not offer attended or in person payment options.",
+        "Policies, rates, and availability are subject to change without notice."
+      ]
+    ]
+  ]
+}

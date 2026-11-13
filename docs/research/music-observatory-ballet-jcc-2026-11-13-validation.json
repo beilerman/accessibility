@@ -1,0 +1,316 @@
+{
+  "date": "2026-11-13",
+  "base": "ea30d7ab9ea106160e791850b04d610f6946858f",
+  "publicationState": "Prepared for runner validation and atomic Git push. No agent Git writes, push, preview or deployment. Host browser suite remains required.",
+  "countsCombinedPending": {
+    "places": 147,
+    "activeNotes": 1430,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1204,
+    "missingPassages": 226,
+    "licensedPhotos": 61,
+    "linkedGuideEntries": 29,
+    "distinctGuideDocuments": 25,
+    "newVenues": 2,
+    "newNotes": 72,
+    "newPhotos": 7,
+    "newGuides": 6,
+    "fullReviews": 7,
+    "partialReviews": 1,
+    "oldNotesReviewed": 65,
+    "oldNotesUnchanged": 53,
+    "oldNotesRevised": 12,
+    "previouslyMissingPassagesBackfilled": 57
+  },
+  "countsThisContinuation": {
+    "newVenues": 1,
+    "newNotes": 37,
+    "fullReviews": 3,
+    "partialReviews": 1,
+    "oldNotesReviewed": 31,
+    "oldNotesUnchanged": 24,
+    "oldNotesRevised": 7,
+    "previouslyMissingPassagesBackfilled": 31,
+    "licensedPhotosAdded": 5,
+    "linkedGuidesAdded": 4
+  },
+  "countsRecovered": {
+    "newVenues": 1,
+    "newNotes": 35,
+    "fullReviews": 4,
+    "partialReviews": 0,
+    "oldNotesReviewed": 34,
+    "oldNotesUnchanged": 29,
+    "oldNotesRevised": 5,
+    "previouslyMissingPassagesBackfilled": 26,
+    "licensedPhotosAdded": 2,
+    "linkedGuidesAdded": 2
+  },
+  "hostFailure": {
+    "previousPassed": 131,
+    "previousFailed": 1,
+    "test": "each access note shows its own source type, check date and history",
+    "cause": "Hard-coded November 8 check date became stale after the supported November 13 recheck.",
+    "repair": "Expected date now comes from creation-museum.sensory.1 retrieved_at using the existing dateLabel formatter; source, warning, history and Axe checks remain.",
+    "sandboxFailureIsSeparate": true
+  },
+  "checks": {
+    "finalEvidence": {
+      "recoveredNotes": 69,
+      "recoveredAddress": 1,
+      "continuationNotes": 68,
+      "continuationAddress": 1,
+      "passed": 139,
+      "failed": 0,
+      "method": "Fresh scripts/research/verify.py fetches plus editorial comparison of every clause and stored claim digest."
+    },
+    "sourceBaselines": {
+      "recovered": 16,
+      "continuation": 19,
+      "distinctUrls": 35,
+      "needAttention": 0,
+      "snapshot": "pipeline/source-checks/2026-11-13.json"
+    },
+    "unit": {
+      "command": "npm test",
+      "passed": 93,
+      "failed": 0
+    },
+    "pipeline": {
+      "command": "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'",
+      "passed": 74,
+      "failed": 0,
+      "earlierTransientFailure": "One baseline completeness test ran before source monitoring finished; after all new baselines were written the final suite passed."
+    },
+    "lint": {
+      "command": "npm run lint",
+      "exitCode": 0
+    },
+    "types": {
+      "command": "npx tsc --noEmit",
+      "exitCode": 0
+    },
+    "build": {
+      "command": "npm run build",
+      "exitCode": 0,
+      "staticPages": 162,
+      "warnings": [
+        "Existing Atkinson Hyperlegible Next fallback-font override warning.",
+        "Node module.register deprecation warning."
+      ]
+    },
+    "browser": {
+      "status": "Focused local attempt blocked before navigation",
+      "reason": "Chromium macOS bootstrap_check_in MachPortRendezvousServer Permission denied (1100).",
+      "passed": 0,
+      "runnerRequired": true,
+      "testsEnumerated": 133,
+      "enumerationIsNotExecution": true,
+      "notes": "No local browser interaction, responsive layout or Axe pass claimed. Current HTTP assertions are separate."
+    },
+    "http": {
+      "baseURL": "http://localhost:3225",
+      "passed": 795,
+      "failed": 0,
+      "coverage": [
+        "All 137 reviewed/new note texts, IDs, source links, November 13 metadata and history elements across ten venue pages.",
+        "All seven new image asset hashes, alt text, source links and limits on venue pages and access-in-pictures.",
+        "All six newly linked guides on venue pages and access-in-pictures.",
+        "New venue sitemap paths and category-filter content.",
+        "Creation correction and Sharon withdrawn wording remain in updates."
+      ],
+      "method": "Fresh local production-server HTTP responses parsed without executing browser JavaScript."
+    },
+    "preservation": {
+      "passed": 5788,
+      "failed": 0,
+      "groups": {
+        "originalPlacesRetained": 145,
+        "untargetedPlacesUnchanged": 137,
+        "originalFactIdsRetained": 1359,
+        "oldHistoryPrefixesRetained": 1359,
+        "untargetedFactsUnchanged": 1294,
+        "untargetedQuoteRecordsUnchanged": 1067,
+        "evidenceTextsMatchFinalFacts": 137,
+        "storedClaimHashesMatchFinalFacts": 137,
+        "fullDatesSupportedByEveryActiveNote": 7,
+        "partialMusicHallDateRetained": 1,
+        "baseMediaManifestsUnchanged": 2,
+        "recoveredPlacesOutsideNewReviewTargetsUnchanged": 142,
+        "allNoteIdsUnique": 1
+      },
+      "method": "Read-only git show HEAD compared with final JSON, plus start-of-continuation snapshots. No original place/note IDs deleted; earlier histories and unrelated objects retained."
+    },
+    "media": {
+      "allNewOriginalsAndOutputsReviewed": true,
+      "recoveredOutputsReviewed": true,
+      "allLinkedGuidePagesReviewed": true,
+      "licensedPhotographsUnalteredExceptFullFrameResizeConversion": true
+    },
+    "gitDiffCheck": {
+      "exitCode": 0
+    },
+    "conflictMarkers": {
+      "found": 0
+    },
+    "sourceMonitorIssues": {
+      "open": 0,
+      "method": "Read-only gh issue list for open Source monitor issues."
+    },
+    "finalArtifactReview": {
+      "jsonReadable": true,
+      "reportAndQueueLinksExist": true,
+      "finalReviewedDataHashesMatch": true,
+      "allChangedFilesReviewed": 52,
+      "localValidationServersStopped": true
+    },
+    "nextBatchPreflight": {
+      "urlsReached": 11,
+      "status200": 11,
+      "countsAsVenueRecheck": false,
+      "countsAsBackfill": false
+    }
+  },
+  "held": [
+    "Music Hall mobility.3, sensory.2 and sensory.3: official Symphony accessibility URLs return unextractable redirect shells.",
+    "Four extra Music Hall interior thumbnails returned 429; no inspection or publication claimed.",
+    "Older Playhouse 2024 guide and current 2026 web event use different strobe wording; current note says reduction, not absence.",
+    "Ballet 2021 youth narrative is historical; mask policy and lift operation not revalidated.",
+    "Mayerson pool transfer/lift, step-free locker approach and senior vehicle capacity/booking notice remain unresolved.",
+    "Prior Clifton Market, Know Theatre, Kroger Delhi, Molly and Augusta leads remain held as recorded in recovered report."
+  ],
+  "reviewedFiles": [
+    {
+      "path": "src/data/places.json",
+      "sha256": "d035d29afe0f3408caf662933139f570e29d070baa717ca078a70e4795e81579"
+    },
+    {
+      "path": "pipeline/evidence/quotes.json",
+      "sha256": "ce5411c58ebd3f66fb60a2e1eabafcdc612dba73779e97df89e8ee45b42a3fc2"
+    },
+    {
+      "path": "src/data/access-photos.json",
+      "sha256": "0888c955bc1233d0ddcb8a1a5307908ebd476d4843171b421c217a0692805aef"
+    },
+    {
+      "path": "src/data/access-guides.json",
+      "sha256": "1ceb43c75ee0329c1cdae36379af96e6efe1b9be3cb7018846cc0956deacdd59"
+    },
+    {
+      "path": "pipeline/source-checks/2026-11-13.json",
+      "sha256": "8a736ff1f6539ef4439338641d639c97c4e24a21bbb00fa09dcbcd4a159d2260"
+    },
+    {
+      "path": "e2e/accessibility.spec.ts",
+      "sha256": "3135c1a393a76cc59388644a75e78992662c2f1c845d099ae895166613908c90"
+    },
+    {
+      "path": "src/__tests__/venue-expansion.test.ts",
+      "sha256": "4e165279b01c5db60c2956d347287bf762f13dacd522c396a6a284683164568a"
+    },
+    {
+      "path": "public/images/access/creation-museum-entrance-doors-2015.webp",
+      "sha256": "8ff83f88016b3bbc32802776dae9ebac66e5b37854f7ef106d609ccd51f9af03"
+    },
+    {
+      "path": "public/images/access/creation-museum-exhibit-bench-2015.webp",
+      "sha256": "26de17e4ee21e42c3b2fabb48d68735eb41d6338f05eeacf51e592661c829d0a"
+    },
+    {
+      "path": "public/images/access/music-hall-box-office-entrance-2019.webp",
+      "sha256": "fbfffb605f729a4d43bd28e5898bdf36a053ca5ca8cdfaa0fefa34be14a11aae"
+    },
+    {
+      "path": "public/images/access/music-hall-stepped-doors-2019.webp",
+      "sha256": "fd5ac7217392e8ec2e74deed8d0f66071da6258763635b42b753ecf23e572308"
+    },
+    {
+      "path": "public/images/access/observatory-stepped-viewing-platform-2020.webp",
+      "sha256": "e788ae74db0a8553b3a37ed6622bc2c9975290933d68cb49e0f6d21ead8b36bf"
+    },
+    {
+      "path": "public/images/access/observatory-mitchel-ramp-2020.webp",
+      "sha256": "7d47ab2d694ef2efd6a3fddb788d0be54d3c3bb238e1540052f030a6bab2e4e6"
+    },
+    {
+      "path": "public/images/access/observatory-mitchel-interior-steps-2020.webp",
+      "sha256": "00c3310bcd6c319948ac8c356283362ebc5acff83e557f181e36cdfa3db50fb9"
+    },
+    {
+      "path": "docs/research/creation-shakespeare-second-sight-2026-11-13-final-evidence.json",
+      "sha256": "c885446082d0767cdb24c1181cb92eb1ede4fbff0ae5aed967c5e24de8dc7064"
+    },
+    {
+      "path": "docs/research/creation-shakespeare-second-sight-2026-11-13-final-evidence.verified.json",
+      "sha256": "eeae2f9647df62246211595d6da56010017a69da2c1fcbfb9e9617bd68365a6d"
+    },
+    {
+      "path": "docs/research/creation-shakespeare-second-sight-2026-11-13-media.json",
+      "sha256": "e90d7b0328e792ba34f223a3531aed80fe192bd6ec00c3a16ce5e12f23e05c19"
+    },
+    {
+      "path": "docs/research/music-observatory-ballet-jcc-2026-11-13-final-evidence.json",
+      "sha256": "c099ec5bc2a05a7d9bb6ede5596a3b6025325f58c54f6e22ffcfa75c622292f6"
+    },
+    {
+      "path": "docs/research/music-observatory-ballet-jcc-2026-11-13-final-evidence.verified.json",
+      "sha256": "eac6bf2e65b4d9c80471f57f5b239e7392abae7d89d8bdebbf943e9f0223a6d1"
+    },
+    {
+      "path": "docs/research/music-observatory-ballet-jcc-2026-11-13-media.json",
+      "sha256": "c1e3791be1937956345492bf73640eef7e6e2aac02f8c59c5a8425eee95b3723"
+    },
+    {
+      "path": "scripts/research/music-observatory-ballet-2026-11-13-recheck.json",
+      "sha256": "099099f1fca54a7e378d166d7c10701b1c01b780564308601f663e685825d545"
+    },
+    {
+      "path": "scripts/research/music-observatory-ballet-2026-11-13-more-depth.json",
+      "sha256": "c1524590f42b00c4d919ab77cd408731ce1a5341861b0220710291e3051434ec"
+    },
+    {
+      "path": "scripts/research/music-observatory-ballet-2026-11-13-revisions.json",
+      "sha256": "587a9bb968fc507d5710c9bcc053d54d8940ed77cb04403bc70792b5af84198d"
+    },
+    {
+      "path": "scripts/research/music-observatory-ballet-2026-11-13-urls.txt",
+      "sha256": "5ce72e17a9ac06320d5133212eded13c00323548718059b8e6e45237cc1bba17"
+    },
+    {
+      "path": "scripts/research/music-observatory-ballet-2026-11-13-depth.json",
+      "sha256": "9003df9e882fbf3e7adb0f5e9be48d4bb03837565a90f870951f50125a3bf303"
+    },
+    {
+      "path": "scripts/research/mayerson-jcc-2026-11-13-depth.json",
+      "sha256": "56d684b604e96e5f1be818cae0c91aacd3789263079c407577b3d35c99559ccf"
+    },
+    {
+      "path": "scripts/research/mayerson-jcc-2026-11-13-new.json",
+      "sha256": "44925a30235d3b318c6931047ff271591ebcf8d274c5ec0b9e3f9fee8adad0ba"
+    },
+    {
+      "path": "scripts/research/mayerson-jcc-2026-11-13-evidence.verified.json",
+      "sha256": "351cc2a5d54ae87f3756ffb498018d2a957c22b0f026153a13b03a0dfdd58c48"
+    },
+    {
+      "path": "scripts/research/mayerson-jcc-2026-11-13-transport.json",
+      "sha256": "85a7379ce39e3a45fa704a3e8c26f28c38a89e7b3e5c3312475c5d2f3df5a72b"
+    },
+    {
+      "path": "scripts/research/mayerson-jcc-2026-11-13-evidence.json",
+      "sha256": "b2553a618b9bf252426cb9a71b1bb0e5306c9d9410a715022d901fe6e2f69239"
+    },
+    {
+      "path": "scripts/research/mayerson-jcc-2026-11-13-senior.json",
+      "sha256": "be9aac1648bf47b4a8a96307fa647d18487372775111d33fff8778055ebac248"
+    },
+    {
+      "path": "docs/research/music-observatory-ballet-jcc-2026-11-13-held-refresh.json",
+      "sha256": "72c4dfb5ed4bd35b5bd323a4dc838c186d055142c529380d6a79066421ba02cc"
+    },
+    {
+      "path": "docs/research/music-observatory-ballet-jcc-2026-11-13-next-preflight.json",
+      "sha256": "6c47f55a1ce7a2eefa65b24609b5bfa577ca48a9f70f5a320720a0e6769d9c39"
+    }
+  ]
+}

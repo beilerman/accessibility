@@ -11,6 +11,27 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Mayerson recreation while preserving changing and personal-care limits", () => {
+    const slug = "mayerson-jcc";
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("8485 Ridge Road, Cincinnati, OH 45236");
+    expect(text(slug)).toContain("does not currently have adult changing tables");
+    expect(text(slug)).toContain("do not assume personal care is supplied");
+    expect(text(slug)).toContain("cannot guarantee every accommodation request");
+    expect(place(slug).limitations).toContain("no on-site audit");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Ludlow's distillery while keeping its floor description separate from unverified arrival and facilities", () => {
+    const slug = "second-sight-spirits";
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("301 Elm Street, Ludlow, KY");
+    expect(text(slug)).toContain("one floor without steps");
+    expect(text(slug)).toContain("Thursday tours without lounge coffee or cocktail service");
+    expect(text(slug)).toContain("not a guaranteed place");
+    expect(place(slug).limitations).toContain("not an observed continuous route from parking");
+    expect(place(slug).limitations).toContain("no service-animal exclusion is inferred");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Bea Taylor food assistance without hiding conflicting holiday reopening dates", () => {
     const slug = "freestore-foodbank-bea-taylor-market";
     expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain(slug);
@@ -590,7 +611,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
-      "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
+      "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "second-sight-spirits", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
     ]);
     const art = artForCategory("Food & drink")!;
     expect(art.alt).toMatch(/^AI artwork/);

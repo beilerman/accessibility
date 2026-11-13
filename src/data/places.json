@@ -3647,7 +3647,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3661,6 +3661,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3670,7 +3675,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3684,6 +3689,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3693,7 +3703,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3707,6 +3717,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3716,7 +3731,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3730,6 +3745,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3757,7 +3777,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3766,6 +3786,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3775,7 +3800,7 @@
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
         "id": "cincinnati-music-hall.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3784,6 +3809,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3825,17 +3855,148 @@
       },
       {
         "domain": "chronic",
-        "text": "Bags are limited to 18 x 18 x 8 inches, with exceptions for medical necessity; tell a staff member. Guests with a pacemaker or metal implant can ask to be screened another way.",
+        "text": "Bags are limited to 18 × 18 × 8 inches. Staff may make exceptions for medical necessity; notify a staff member. Visitors with concerns about screening with a pacemaker or metal implant may request another screening method.",
         "source_url": "https://www.cincinnatiarts.org/plan-your-visit/safety-procedures",
         "id": "cincinnati-music-hall.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Keep the source’s discretionary medical-bag exception and avoid making a medical safety claim about screening."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The drop-off lane is on Elm Street near the Box Office and wheelchair entrance at 1241 Elm Street. Music Hall does not own or manage the listed parking facilities, so confirm availability and rates with the operator.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1",
+        "id": "cincinnati-music-hall.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For Springer Hall performances, staff can provide access to an area for nursing. Ask a staff member for its location and entry; this page does not describe equipment or a dedicated room available for every event.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Music Hall’s access page asks visitors bringing a service animal to notify their ticketing representative when buying tickets and says animals should remain leashed or harnessed. Confirm any seating arrangements with the venue.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+        "id": "cincinnati-music-hall.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Music Hall entry generally begins one to one-and-a-half hours before an event, depending on the performance’s policy. Anyone who leaves the building must repeat safety screening to re-enter.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/safety-procedures",
+        "id": "cincinnati-music-hall.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The tours FAQ says no bathroom breaks are scheduled and recommends arriving 15 minutes early. Outdoor-tour guests are directed to Washington Park’s Race Street restroom because indoor Music Hall restrooms are not available for that tour.",
+        "source_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/",
+        "id": "cincinnati-music-hall.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Indoor Music Hall tours offer brief opportunities to sit; tell the organizer when booking if minimal stairs would be a problem. Outdoor tours have no sitting opportunities and expect participants to remain on their feet without assistance. The FAQ also says tour paths accommodate walkers and wheelchairs; confirm your route and support needs.",
+        "source_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/",
+        "id": "cincinnati-music-hall.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The tours FAQ describes indoor tours year-round and outdoor tours May–October. It recommends advance tickets because spaces are limited; same-day purchase depends on space. Reservations must be paid for in advance. Confirm the current tour calendar before travelling.",
+        "source_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/",
+        "id": "cincinnati-music-hall.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -4219,7 +4380,7 @@
     "address": "3489 Observatory Place, Cincinnati, Ohio 45208",
     "website": "https://www.cincinnatiobservatory.org/",
     "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -4227,7 +4388,7 @@
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4236,6 +4397,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4245,7 +4411,7 @@
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4254,16 +4420,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The 1873 Herget building is temporarily closed; its telescope dome room is reached only by 27 stairs, and its lift may not suit motorized wheelchairs or wheelchairs with leg rests extended.",
+        "text": "The 1873 Herget building is temporarily closed for expansion. The same access page describes its dome as reached by 27 stairs and its existing lift as potentially unsuitable for motorized wheelchairs or extended leg rests. Those descriptions do not establish post-renovation access or current visitor entry.",
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4272,6 +4443,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Keep closure prominent and distinguish existing-building descriptions from future renovated facilities."
           }
         ]
       },
@@ -4281,7 +4457,7 @@
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4290,6 +4466,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4299,7 +4480,7 @@
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4308,6 +4489,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4317,7 +4503,7 @@
         "source_url": "https://www.cincinnatiobservatory.org/visit/faqs/",
         "id": "cincinnati-observatory.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4326,16 +4512,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The main public areas are fairly level, with blacktop or brick paths. From the #11 bus it is a short but uphill 0.3-mile walk.",
+        "text": "The Observatory describes its main public areas as relatively level, with blacktop or brick paths and walkways. This does not establish a step-free route into the telescope rooms.",
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4344,16 +4535,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "The bus-route clause belongs to a different official page; retain only the grounds claim here and publish the arrival information separately with its own source."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "There is an ADA-compliant outdoor drinking fountain and two benches; the 1904 building has two accessible restrooms.",
+        "text": "The Observatory lists an outdoor drinking fountain and two benches, and describes two restrooms in the 1904 Mitchel building as accessible. It does not provide restroom dimensions or adult-changing details.",
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4362,6 +4558,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attribute the facility description and remove Threshold’s own ADA-compliance assertion; retain the two-restroom and rest-point details."
           }
         ]
       },
@@ -4371,13 +4572,72 @@
         "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
         "id": "cincinnati-observatory.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Mitchel building’s front entrance has five steps with handrails. The published alternative is the side ramp to the main floor; reaching the dome and eyepiece involves additional steps.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/visitors-with-additional-needs/",
+        "id": "cincinnati-observatory.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The directions page places on-site events in the smaller Mitchel building, on the right when entering the circle. It describes an uphill 0.3-mile walk from Metro Route 11, with the closest stop at Erie Avenue and St. Johns Avenue. Confirm current service and the walking route with Metro and the Observatory.",
+        "source_url": "https://www.cincinnatiobservatory.org/visit/directions/",
+        "id": "cincinnati-observatory.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The renovation page says the Herget building, Clark telescope and museum spaces are unavailable during work that began in July 2026, while Mitchel building programming continues. New restroom facilities are a project objective, not evidence of completed facilities or a reopening date.",
+        "source_url": "https://www.cincinnatiobservatory.org/currentexhibit/renovation-updates/renovation-updates",
+        "id": "cincinnati-observatory.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -4397,15 +4657,15 @@
     "address": "962 Mt. Adams Circle, Cincinnati, OH 45202",
     "website": "https://cincyplay.com/",
     "source_url": "https://cincyplay.com/visit/accessibility",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
-        "text": "Wheelchair seating is available in both theaters; the Rouse Theatre also offers transfer seats. Request these when reserving tickets.",
+        "text": "Wheelchair seating is offered in both theaters, and the Rouse Theatre also has transfer seats. These places are subject to availability and should be requested when reserving tickets.",
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4419,6 +4679,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restore the explicit availability condition for wheelchair and transfer seats."
           }
         ]
       },
@@ -4428,7 +4693,7 @@
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4442,6 +4707,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4451,7 +4721,7 @@
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4465,6 +4735,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4474,7 +4749,7 @@
         "source_url": "https://cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4488,6 +4763,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4497,7 +4777,7 @@
         "source_url": "https://www.cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4506,16 +4786,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Accessible parking is limited and must be reserved and paid for in advance.",
+        "text": "Accessible parking is in the Playhouse garage, is limited, and must be reserved and paid for in advance. Vehicles using these spaces must display a valid disability placard.",
         "source_url": "https://www.cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4524,6 +4809,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retain the garage location and the required disability placard, alongside advance booking and payment."
           }
         ]
       },
@@ -4533,7 +4823,7 @@
         "source_url": "https://www.cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4542,6 +4832,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4551,13 +4846,126 @@
         "source_url": "https://www.cincyplay.com/visit/accessibility",
         "id": "cincinnati-playhouse-in-the-park.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Rouse Theatre doors are on the first lobby level. The elevator serves the balcony and front orchestra rows, and also reaches the Rosenthal Shelterhouse Theatre on the second floor. Arrange a specific seat and route when booking.",
+        "source_url": "https://cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For hearing-enhancement receivers, the Playhouse directs visitors to the house manager. Both theaters have hearing loops for T-coil or Telecoil hearing aids and cochlear implants; confirm how to collect and use any receiver you need.",
+        "source_url": "https://cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Audio description is free on the listed performance dates. Trained volunteers describe visual action through the hearing-enhancement system, avoiding dialogue; show and actor information is also shared before the performance and at intermission.",
+        "source_url": "https://cincyplay.com/visit/accessibility",
+        "id": "cincinnati-playhouse-in-the-park.sensory.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For the advertised relaxed performance of A Christmas Carol on November 28, 2026, the Playhouse describes reduced loud sound and strobe/strong-light effects, dimmed house lights, standing/movement areas, permitted exit and re-entry, and a lobby quiet space. Reduced effects do not mean no flashing lights.",
+        "source_url": "https://cincyplay.com/visit/accessibility/relaxed-performances",
+        "id": "cincinnati-playhouse-in-the-park.sensory.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For that November 28, 2026 relaxed A Christmas Carol performance, online orders are limited to six tickets; larger orders must be made by phone to arrange socially distanced seating. The page excludes children under five and gives a running time of one hour 50 minutes including a 20-minute interval; confirm details for your visit.",
+        "source_url": "https://cincyplay.com/visit/accessibility/relaxed-performances",
+        "id": "cincinnati-playhouse-in-the-park.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The relaxed-performance page says an Audience Guide is provided digitally to ticket holders seven days before the performance. Ask for the guide for your selected show.",
+        "source_url": "https://cincyplay.com/visit/accessibility/relaxed-performances",
+        "id": "cincinnati-playhouse-in-the-park.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -4577,7 +4985,7 @@
     "address": "1195 Elm Street, Cincinnati, OH 45202",
     "website": "https://www.cincyshakes.com/",
     "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -4585,7 +4993,7 @@
         "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
         "id": "cincinnati-shakespeare-company.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4594,6 +5002,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4603,7 +5016,7 @@
         "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
         "id": "cincinnati-shakespeare-company.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4612,6 +5025,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4621,7 +5039,7 @@
         "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
         "id": "cincinnati-shakespeare-company.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4630,6 +5048,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4639,7 +5062,7 @@
         "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
         "id": "cincinnati-shakespeare-company.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4648,6 +5071,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4657,7 +5085,7 @@
         "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
         "id": "cincinnati-shakespeare-company.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4666,6 +5094,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4675,7 +5108,7 @@
         "source_url": "https://www.cincyshakes.com/your-visit/seating",
         "id": "cincinnati-shakespeare-company.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4689,6 +5122,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Retain flexible Upper Gallery wheelchair capacity instead of implying a three-position maximum; preserve Row D and one-step floor-seating conditions. Partial review only."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4698,7 +5136,7 @@
         "source_url": "https://www.cincyshakes.com/on-stage/sensory",
         "id": "cincinnati-shakespeare-company.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4707,6 +5145,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4716,7 +5159,7 @@
         "source_url": "https://www.cincyshakes.com/your-visit/accessibility",
         "id": "cincinnati-shakespeare-company.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4725,6 +5168,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4734,7 +5182,7 @@
         "source_url": "https://www.cincyshakes.com/on-stage/sensory",
         "id": "cincinnati-shakespeare-company.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -4743,6 +5191,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4752,13 +5205,180 @@
         "source_url": "https://www.cincyshakes.com/your-visit/parking",
         "id": "cincinnati-shakespeare-company.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "In the Upper Gallery, the center three sections do not require stairs, but the two side sections have a step down. Arrange the exact seat location with the Box Office rather than assuming every Upper Gallery seat is on the elevator level.",
+        "source_url": "https://www.cincyshakes.com/your-visit/seating",
+        "id": "cincinnati-shakespeare-company.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The seating page gives seat widths of 21–23 inches and directs visitors to its floor-plan schematic for individual seat numbers, widths and stairs. These are publisher specifications, not Threshold measurements.",
+        "source_url": "https://www.cincyshakes.com/your-visit/seating",
+        "id": "cincinnati-shakespeare-company.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For the advertised sensory-friendly performances, house lights remain at 50% and the venue states a sound cap of 90 decibels. These are performance adjustments, not a guarantee of quiet or suitability for a particular visitor.",
+        "source_url": "https://www.cincyshakes.com/on-stage/sensory",
+        "id": "cincinnati-shakespeare-company.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The sensory-friendly performance page promises two break areas, on the first and second levels, plus headphones and fidgets during the show. Confirm the arrangements for your performance; this page does not describe an everyday staffed quiet room.",
+        "source_url": "https://www.cincyshakes.com/on-stage/sensory",
+        "id": "cincinnati-shakespeare-company.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For sensory-friendly performances, the venue says attendance is limited to half its standard capacity and the front two rows are intentionally left unavailable.",
+        "source_url": "https://www.cincyshakes.com/on-stage/sensory",
+        "id": "cincinnati-shakespeare-company.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The sensory-friendly page says closed captioning and audio description can be arranged with advance requests. It does not state a request deadline; confirm the service for the chosen performance.",
+        "source_url": "https://www.cincyshakes.com/on-stage/sensory",
+        "id": "cincinnati-shakespeare-company.sensory.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The parking page describes the Towne Center option at 1251 Central Parkway as a surface lot paid entirely by phone, using a text message or posted code. It says there is no attended or in-person payment option there; policies and availability may change.",
+        "source_url": "https://www.cincyshakes.com/your-visit/parking",
+        "id": "cincinnati-shakespeare-company.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The sensory pre-visit narrative places the elevator to the second floor down the hallway to the right of the Box Office. Confirm the current route and elevator operation with the venue.",
+        "source_url": "https://cincyshakes.com/assets/images/csc_sensory-performance_pre-visit-tour-narrative.pdf",
+        "id": "cincinnati-shakespeare-company.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The sensory pre-visit narrative places first-floor restrooms along the hallway to the right of the Box Office: men’s at the second door on the left and women’s at the third. Its photos show the approaches, not cubicle dimensions or adult-changing equipment; confirm current arrangements.",
+        "source_url": "https://cincyshakes.com/assets/images/csc_sensory-performance_pre-visit-tour-narrative.pdf",
+        "id": "cincinnati-shakespeare-company.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -6010,7 +6630,7 @@
     "address": "2800 Bullittsburg Church Road, Petersburg, KY 41080",
     "website": "https://creationmuseum.org/",
     "source_url": "https://creationmuseum.org/accessibility/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -6019,7 +6639,7 @@
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6033,16 +6653,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The museum identifies Dino Den as an exception to wheelchair exhibit access. Wheelchair and electric mobility rentals are first come, first served.",
+        "text": "The museum identifies Dino Den as an exception to wheelchair exhibit access. Guest Services offers wheelchairs first come, first served; the page describes electric mobility vehicles as limited in number.",
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6056,6 +6681,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Do not extend the explicit first-come wheelchair wording to the separately described limited ECV supply."
           }
         ]
       },
@@ -6065,7 +6695,7 @@
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6079,6 +6709,11 @@
             "date": "2026-11-08",
             "action": "revised",
             "note": "Rechecked against the source; added its strobe/photosensitive-epilepsy warning and the flashing lights in the Corruption exhibit."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6088,7 +6723,7 @@
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6102,6 +6737,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6111,7 +6751,7 @@
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6125,16 +6765,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Manual wheelchairs and a limited number of ECVs ($45) are rented from Guest Services on arrival.",
+        "text": "Guest Services offers manual wheelchair rentals for $15 and a limited number of ECVs for $45 on arrival. Rental fees are non-refundable. Confirm equipment availability before relying on a rental.",
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6143,6 +6788,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Add the manual-wheelchair fee and non-refundable rental condition; retain limited ECV availability."
           }
         ]
       },
@@ -6152,7 +6802,7 @@
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6166,6 +6816,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Attribute the operator’s accessibility description and preserve the request-for-reservation-information wording; do not promise that an attendant can reserve any requested space."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6175,7 +6830,7 @@
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6189,6 +6844,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Attribute the operator’s restroom description instead of giving an independent accessibility verdict; retain separate evidence for reentry. Partial review only."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6198,13 +6858,82 @@
         "source_url": "https://creationmuseum.org/accessibility/",
         "id": "creation-museum.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The accessibility page describes a paved, mile-long Botanical Gardens trail with five bridges and a boardwalk, and directs visitors to its accessibility map for bridge access. This description does not establish that every bridge is step-free.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attribute the trail/bridge count and preserve the instruction to check bridge access; a separate Botanical Gardens page gives a different count. No universal bridge-access conclusion."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The museum lists designated accessible spaces in its main parking lot and asks visitors who need help finding an available space to alert the person directing traffic.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For adult changing-table information, the museum directs visitors to Guest Services inside the museum. This page does not identify a table location, transfer equipment, dimensions or availability.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -6212,24 +6941,222 @@
       },
       {
         "domain": "mobility",
-        "text": "The Botanical Gardens have a paved, mile-long nature trail with five bridges and a boardwalk.",
+        "text": "The zoo’s center interactive pen has a sand surface. The museum says the other pens can be viewed from paved trails; this does not establish entry to every pen.",
         "source_url": "https://creationmuseum.org/accessibility/",
-        "id": "creation-museum.mobility.5",
+        "id": "creation-museum.mobility.7",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "To borrow the complimentary sensory kits, earmuffs or earplugs, visitors give their name and phone number to the museum team. Reservations are not needed, and items are returned to Guest Services before departure.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The break exit at the start of the Corruption exhibits, just after Garden of Eden, is a stairwell back to the first level. The accessibility page does not identify a step-free break route at that point; ask staff before relying on this exit.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.mobility.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A two-way door beside the Lucy hologram in Starting Points bypasses the Biblical Authority room. A separate bypass on the right in the Christ, Cross and Consummation area avoids Legacy Hall crowds and leads to Borderlands.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The museum says restroom and elevator signs include Braille.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Closed captioning for The Last Adam is available on request, and captioning devices are available at the 4D Theater. Ask staff about the device and show arrangements.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.sensory.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The entrance theater can be crowded and loud; its roughly one-minute video may be skipped or revisited. Starting Points has several videos playing around the room, which the museum describes as substantial audio stimulation.",
+        "source_url": "https://creationmuseum.org/accessibility/",
+        "id": "creation-museum.sensory.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The tactile-experience request page welcomes guests with low vision, blindness or autism, together with their immediate family or assistant. It asks for requests at least two weeks before the visit and lists sessions Monday–Saturday at 2 p.m.; confirm availability against seasonal museum opening days.",
+        "source_url": "https://creationmuseum.org/forms/tactile-experience-request/",
+        "id": "creation-museum.sensory.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The published October 25, 2026–January 2, 2027 schedule opens Monday–Saturday, 10 a.m.–5 p.m., and closes Sundays, Thanksgiving Day (November 26) and Christmas Eve/Day (December 24–25). Holiday evening programs have separate dates and hours.",
+        "source_url": "https://creationmuseum.org/hours/",
+        "id": "creation-museum.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For January 3–March 6, 2027, the posted museum schedule is Wednesday–Saturday, 10 a.m.–5 p.m., with Sunday–Tuesday closures. Confirm operating days before booking travel or an accommodation.",
+        "source_url": "https://creationmuseum.org/hours/",
+        "id": "creation-museum.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Parking booths open 30 minutes before the museum. The hours page states that last admission is one hour before closing and that all times are Eastern; operating hours may change.",
+        "source_url": "https://creationmuseum.org/hours/",
+        "id": "creation-museum.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The museum’s service-animal policy asks visitors accompanied by an animal to contact public safety or another staff member on arrival. Except for emergencies or public-safety necessity, staff cannot take control of service animals; guests remain responsible for control and cleanup.",
+        "source_url": "https://creationmuseum.org/rules/service-animals/",
+        "id": "creation-museum.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website reporting; no on-site audit. Rental availability does not establish access to every attraction. Food options are not an allergen-free guarantee; consult staff.",
+    "limitations": "Public website reporting; no on-site audit. Rental availability does not establish access to every attraction. The accessibility page describes five garden bridges, while the Botanical Gardens page describes an arched bridge, a boardwalk and seven other bridges; the count and exact current route remain unresolved. The 2017 bridge article’s boardwalk-maintenance notice is historical, not a confirmed current closure. The tactile-request page lists Monday–Saturday sessions, but the hours page closes Sunday–Tuesday in January 3–March 6, 2027; confirm the requested date. Adult-changing location, transfer equipment and availability are unconfirmed. Food options are not an allergen-free guarantee; consult staff.",
     "slug": "creation-museum",
     "observed_at": null
   },
@@ -17975,8 +18902,8 @@
     "address": "1112 Walnut Street, Cincinnati, OH 45202",
     "website": "https://thechildrenstheatre.com/",
     "source_url": "https://thechildrenstheatre.com/accessibility/",
-    "limitations": "Public website information; no on-site audit. The accessible entrance, restrooms and parking or drop-off are not described. Performances at the Showtime Stage on Red Bank Road are not signed or audio described. Confirm with the box office.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. The accessible entrance, toilet measurements, adult-changing facilities and step-free parking or drop-off connection remain unverified. The October 2026 show guide supplies dated restroom-location and fixture information, not a current facilities audit. The FAQ gives first-public-Saturday ASL guidance and conflicting Monday/Thursday school-performance wording; the accessibility page lists specific signed dates and Thursday school performances. Confirm the exact show and arrangements with the Box Office. Performances at the separate Showtime Stage on Red Bank Road are not signed or audio described according to the accessibility page.",
+    "checked_at": "2026-11-13",
     "slug": "childrens-theatre-of-cincinnati-emery-theater",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -17987,7 +18914,7 @@
         "source_url": "https://thechildrenstheatre.com/accessibility/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -17996,6 +18923,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18005,7 +18937,7 @@
         "source_url": "https://thechildrenstheatre.com/accessibility/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18014,16 +18946,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "Assistive listening devices are available from the box office at every performance at the Emery, and a limited number of sensory bags with sunglasses, fidgets and headphones can be requested there.",
+        "text": "Assistive listening devices can be requested from the Box Office at every TCT performance at the Emery. Limited sensory bags with sunglasses, fidgets and headphones are available there on request at MainStage performances.",
         "source_url": "https://thechildrenstheatre.com/accessibility/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18032,6 +18969,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retain TCT-performance scope for listening devices and MainStage scope for sensory bags; do not imply all independent Emery events."
           }
         ]
       },
@@ -18041,7 +18983,7 @@
         "source_url": "https://thechildrenstheatre.com/accessibility/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18050,6 +18992,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18059,7 +19006,7 @@
         "source_url": "https://thechildrenstheatre.com/accessibility/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18068,16 +19015,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "A Character Guide, a guide to attending the show and a downloadable Social Narrative are posted a week before each production.",
+        "text": "In its sensory-friendly performance guidance, TCT says a Character Guide, Guide to Attending the Show at Home and downloadable Social Narrative in Word format are available a week before each production. Confirm the resources for the selected show.",
         "source_url": "https://thechildrenstheatre.com/accessibility/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18086,6 +19038,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Preserve the sensory-friendly section scope, the at-home guide title and Word-format narrative; do not imply a general venue photo guide."
           }
         ]
       },
@@ -18095,7 +19052,7 @@
         "source_url": "https://thechildrenstheatre.com/faq/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18104,6 +19061,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18113,7 +19075,7 @@
         "source_url": "https://thechildrenstheatre.com/faq/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18122,6 +19084,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18131,13 +19098,144 @@
         "source_url": "https://thechildrenstheatre.com/faq/",
         "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ places the Calming Room at the back of the right side of the first-floor Orchestra section. Visitors may watch some of the performance there before returning to their seats.",
+        "source_url": "https://thechildrenstheatre.com/faq/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Sensory-friendly performances are intended for people with developmental disabilities who may benefit, their classmates and families. TCT says these are not for the general public; all seats require reservation and wheelchair seating is very limited.",
+        "source_url": "https://thechildrenstheatre.com/accessibility/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For school visits, accessible seating must be requested on the order form and reserved in writing. TCT tries to seat caregivers or age-appropriate students together, but groups with multiple access needs may be split among nearby accessible positions; a request does not guarantee Orchestra seating for the whole group.",
+        "source_url": "https://thechildrenstheatre.com/faq/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TCT operates the Emery Box Office beginning one hour before each MainStage performance. The separate Red Bank Road Box Office has different hours; confirm the location before visiting for ticket help.",
+        "source_url": "https://thechildrenstheatre.com/faq/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ says weather-related cancellation decisions are made at least two hours before showtime and posted on the website homepage and the theatre’s Facebook and Instagram pages. Check before travelling in hazardous weather.",
+        "source_url": "https://thechildrenstheatre.com/faq/",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The October 2026 Mary Poppins social narrative places lobby restrooms on the left at the large purple wall. It describes automatic flushing and hand dryers or paper towels. Confirm current fixtures and the route; the guide does not give cubicle dimensions or adult-changing equipment.",
+        "source_url": "https://thechildrenstheatre.com/wp-content/uploads/2026/10/MainStage-Social-Narrative-Mary-Poppins.pdf",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The October 2026 Mary Poppins guide warns that visitors may pass through metal detectors. It describes volunteers with nametags at each door who can answer questions and help visitors find their way. Screening alternatives or assistance procedures are not specified.",
+        "source_url": "https://thechildrenstheatre.com/wp-content/uploads/2026/10/MainStage-Social-Narrative-Mary-Poppins.pdf",
+        "id": "childrens-theatre-of-cincinnati-emery-theater.cognitive.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -18154,7 +19252,7 @@
     "website": "https://cballet.org/",
     "source_url": "https://cballet.org/accessibility/",
     "limitations": "Public website information; no on-site audit. This listing covers the ballet's Margaret and Michael Valentine Center for Dance; many mainstage performances are at other theaters with their own access arrangements. Service animals and assistive listening at this building are not described.",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "slug": "cincinnati-ballet-center-for-dance",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -18165,7 +19263,7 @@
         "source_url": "https://cballet.org/accessibility/",
         "id": "cincinnati-ballet-center-for-dance.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18174,6 +19272,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18183,7 +19286,7 @@
         "source_url": "https://cballet.org/accessibility/",
         "id": "cincinnati-ballet-center-for-dance.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18192,16 +19295,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Designated accessible parking is on the west (I-71) side near the ground-floor entrance.",
+        "text": "The Ballet places designated accessible parking on the west (I-71) side near an entrance to the Center for Dance.",
         "source_url": "https://cballet.org/accessibility/",
         "id": "cincinnati-ballet-center-for-dance.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18210,6 +19318,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Remove the ground-floor interpretation of the source’s ambiguous “ground for entrance” wording; retain its explicit west-side location."
           }
         ]
       },
@@ -18219,7 +19332,7 @@
         "source_url": "https://cballet.org/accessibility/",
         "id": "cincinnati-ballet-center-for-dance.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18228,6 +19341,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18237,7 +19355,7 @@
         "source_url": "https://cballet.org/accessibility/",
         "id": "cincinnati-ballet-center-for-dance.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18246,6 +19364,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18255,7 +19378,7 @@
         "source_url": "https://cballet.org/cbmoves-for-parkinsons/",
         "id": "cincinnati-ballet-center-for-dance.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18264,6 +19387,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18273,13 +19401,108 @@
         "source_url": "https://cballet.org/sensory-friendly/",
         "id": "cincinnati-ballet-center-for-dance.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Ballet identifies an Everybody Restroom on the first floor with a shower stall it describes as accessible. It does not specify an adult changing table or transfer equipment.",
+        "source_url": "https://cballet.org/accessibility/",
+        "id": "cincinnati-ballet-center-for-dance.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For CB Moves for Parkinson’s, visitors signing up in person are asked to arrive 15 minutes early for check-in and waivers. The online schedule links to Mindbody for reservations, payment and schedule or capacity changes.",
+        "source_url": "https://cballet.org/cbmoves-for-parkinsons/",
+        "id": "cincinnati-ballet-center-for-dance.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CB Moves for Parkinson’s costs $10 per class and includes a companion participant at no additional charge. Confirm the current class schedule and space before travelling.",
+        "source_url": "https://cballet.org/cbmoves-for-parkinsons/",
+        "id": "cincinnati-ballet-center-for-dance.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "CB Moves for Parkinson’s participants may dance seated, use a chair or barre for balance, modify steps and take breaks. Standing and unaided movement across the floor are not required; this is class participation guidance, not a promise of transfer or personal-care assistance.",
+        "source_url": "https://cballet.org/cbmoves-for-parkinsons/",
+        "id": "cincinnati-ballet-center-for-dance.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For the Ballet’s sensory-friendly performances, house lights remain at half brightness, volunteers are stationed in the audience, lobby and outside, and quiet areas are designated in the lobby. Confirm the performance location; this is not an everyday quiet-room promise at the Center for Dance.",
+        "source_url": "https://cballet.org/sensory-friendly/",
+        "id": "cincinnati-ballet-center-for-dance.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -29238,7 +30461,7 @@
     "website": "https://www.proudworks.org/transportation/",
     "source_url": "https://www.proudworks.org/transportation/",
     "limitations": "Public website information; no on-site audit. The listed address is the provider’s contact address, not a confirmed boarding point. Medicaid-card and approved-destination conditions are published; funding and service arrangements must be confirmed. The services overview specifically describes Medicaid Waiver consumers in six counties; the transportation page gives broader wording and says other options may be available. Confirm the applicable program and coverage. Booking lead time, fares, vehicle/lift dimensions, wheelchair securement, transfer or door assistance, companions, service animals and accessible office facilities remain unverified.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-13",
     "slug": "proudworks-transportation",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -29249,7 +30472,7 @@
         "source_url": "https://www.proudworks.org/transportation/",
         "id": "proudworks-transportation.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -29258,6 +30481,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -29267,7 +30495,7 @@
         "source_url": "https://www.proudworks.org/transportation/",
         "id": "proudworks-transportation.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -29276,6 +30504,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -29285,7 +30518,7 @@
         "source_url": "https://www.proudworks.org/services/",
         "id": "proudworks-transportation.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -29294,6 +30527,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -29303,7 +30541,7 @@
         "source_url": "https://www.proudworks.org/transportation/",
         "id": "proudworks-transportation.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -29312,6 +30550,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -29321,7 +30564,7 @@
         "source_url": "https://www.proudworks.org/contact/",
         "id": "proudworks-transportation.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -29330,6 +30573,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       }
@@ -29880,6 +31128,416 @@
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Second Sight Spirits",
+    "city": "Ludlow",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "301 Elm Street, Ludlow, KY",
+    "website": "https://www.secondsightspirits.com/",
+    "source_url": "https://www.secondsightspirits.com/faqs",
+    "limitations": "Public website information; no on-site audit. The one-floor/no-steps statement is the operator’s description of the distillery, not an observed continuous route from parking. Entrance thresholds, door controls, designated parking, toilet/changing facilities, seating clearances, quiet spaces, communication supports and assistance remain unverified. The FAQ says the venue is not dog friendly but does not explain service-animal arrangements; no service-animal exclusion is inferred. Confirm the date, tour or lounge service and required arrangements before travelling.",
+    "checked_at": "2026-11-13",
+    "slug": "second-sight-spirits",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The distillery’s FAQ describes the whole distillery as one floor without steps. It does not describe the street-to-door connection, doorway controls or restroom layout.",
+        "source_url": "https://www.secondsightspirits.com/faqs",
+        "id": "second-sight-spirits.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Reservations are recommended for tours and tastings because tours can fill. The venue says it will try to fit in callers or walk-ins; this is not a guaranteed place.",
+        "source_url": "https://www.secondsightspirits.com/faqs",
+        "id": "second-sight-spirits.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ describes Thursday tours without lounge coffee or cocktail service, and Friday–Sunday tours and bar service. Confirm your selected date and booking; the Thursday visit is not described as a full lounge visit.",
+        "source_url": "https://www.secondsightspirits.com/faqs",
+        "id": "second-sight-spirits.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Visitors may bring their own food. The FAQ says there is no restaurant, while noting that treats from local companies are brought in; confirm what is available and any ingredient needs directly.",
+        "source_url": "https://www.secondsightspirits.com/faqs",
+        "id": "second-sight-spirits.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ offers a tasting for visitors who do not have time for a full tour and says guests may wait in the lounge when staff are busy. It does not specify a tasting duration, wait time or seating configuration.",
+        "source_url": "https://www.secondsightspirits.com/faqs",
+        "id": "second-sight-spirits.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mayerson JCC",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "8485 Ridge Road, Cincinnati, OH 45236",
+    "website": "https://mayersonjcc.org/",
+    "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+    "limitations": "Public website information; no on-site audit. Program registration, fees and eligibility vary; a facility listing is not a promise of unrestricted entry. Entrance thresholds, parking-to-door connections, elevator and pool-lift dimensions, transfer equipment, personal-care provision and current equipment operation remain unverified. The JCC explicitly reports no adult changing tables. Confirm the specific program, venue and requested accommodations; off-site arrangements depend on the host facility. Photo narratives are dated preparation guides, not a current inspection.",
+    "checked_at": "2026-11-13",
+    "slug": "mayerson-jcc",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The JCC lists accessible parking, push-button door openers at the entrance and first-floor bathrooms, and elevator access to all floors. It does not give parking-space locations, door widths or a measured continuous route.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The family locker room provides space for assistance with changing or showering. The JCC explicitly says it does not currently have adult changing tables; confirm any transfer or personal-care arrangements before visiting.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Sensory kits with noise-reducing headphones, fidgets and other sensory items can be requested at the Welcome Desk. The FAQ says members and guests may borrow sensory bags from the front desk; availability is not quantified.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The J Cafe offers Braille menus on request. A 3D-printed QR code at the register links to a plain-text online menu.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To request an event accommodation, contact the program staff listed on its JLive registration or website page. If contact information is missing or the question is more detailed, the inclusion team can help; its published phone is 513-644-0713.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Examples of accommodations that visitors can discuss include ASL interpreting, captioning, sensory bags, reserved seating and social narratives or advance event agendas. These are request options, not a guarantee that each service is available for every program.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For off-site programs, the JCC works within the host venue’s policies and capabilities and says it cannot guarantee every accommodation request. Check the registration page and contact the listed program staff about the specific location.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Fitness & Friends and Adapted Basketball descriptions expect participants to engage independently or with their own personal-care assistant. Adapted Total Body Workout similarly expects independent participation or help from the participant’s own direct-support professional; do not assume personal care is supplied.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The inclusion page links visual preparation guides for the JCC locker rooms, private swim lessons, theater visits and selected programs. Use the guide for the actual program and check its date; off-site guides describe other venues.",
+        "source_url": "https://mayersonjcc.org/programs/inclusion-programs/",
+        "id": "mayerson-jcc.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The locker-room photo narrative describes touching a blue JCC fob to the black reader beside the door. If the door will not open, it directs visitors to the Welcome Desk for help. Confirm the entry arrangements for your membership or guest visit.",
+        "source_url": "https://mayersonjcc.org/wp-content/uploads/2026/05/Locker-room-JCC-Social-Narrative.pdf",
+        "id": "mayerson-jcc.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "In the locker-room narrative’s stair-based approach, the family locker room is first on the left, the men’s is second, and the women’s is at the end of the hall. The guide does not map an elevator approach; ask staff for the route that avoids stairs.",
+        "source_url": "https://mayersonjcc.org/wp-content/uploads/2026/05/Locker-room-JCC-Social-Narrative.pdf",
+        "id": "mayerson-jcc.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The private swim-lesson narrative warns that the pool can be loud with other users, including talking, yelling, laughter and lifeguard whistles. It says visitors may ask for a break in a quiet place; it does not identify a permanently quiet poolside room.",
+        "source_url": "https://mayersonjcc.org/wp-content/uploads/2026/05/Swim-Lessons-Social-Narrative-1.pdf",
+        "id": "mayerson-jcc.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Some vehicles in the JCC’s senior-transport fleet have wheelchair lifts; the operator asks riders to specify that need. Confirm the assigned vehicle, equipment limits and any boarding or personal assistance before booking.",
+        "source_url": "https://mayersonjcc.org/programs/transportation/",
+        "id": "mayerson-jcc.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The JCC describes weekday home pickup and return for seniors attending its activities, wellness programs, trips and lunches. This is a senior-program service, not a general public route; confirm eligibility, fares and booking notice.",
+        "source_url": "https://mayersonjcc.org/programs/transportation/",
+        "id": "mayerson-jcc.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The listed senior-transport areas are Amberley Village, Blue Ash, Deer Park, Golf Manor, Hyde Park, Kennedy Heights, Kenwood, Loveland, Mason, Montgomery, Pleasant Ridge, Reading, Roselawn, Silverton and Wyoming. Call 513-792-5667 to ask about pickup or an unlisted area; service beyond the list is not promised.",
+        "source_url": "https://mayersonjcc.org/programs/transportation/",
+        "id": "mayerson-jcc.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The 60 & Better Center page identifies adults aged 60 and older as eligible for transportation and other senior services and describes pickup for members. It lists annual center dues of $50 per individual or $90 per household couple. These are center membership dues, not a quoted trip fare; confirm transport enrollment and charges.",
+        "source_url": "https://mayersonjcc.org/60-and-better/",
+        "id": "mayerson-jcc.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }

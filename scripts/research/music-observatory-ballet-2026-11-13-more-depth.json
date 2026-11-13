@@ -1,0 +1,55 @@
+{
+  "cincinnati-observatory": [
+    [
+      "mobility",
+      "The directions page places on-site events in the smaller Mitchel building, on the right when entering the circle. It describes an uphill 0.3-mile walk from Metro Route 11, with the closest stop at Erie Avenue and St. Johns Avenue. Confirm current service and the walking route with Metro and the Observatory.",
+      "https://www.cincinnatiobservatory.org/visit/directions/",
+      "venue_official",
+      [
+        "Onsite events will take place in the smaller building (Mitchel) on your right when you enter the circle.",
+        "Although we are not directly along a Cincinnati Metro route, you can find us a short, uphill .3 mile walk off the #11 bus. The bus runs 24/7 and the closest stop to the Observatory is Erie Ave. and St. Johns Ave."
+      ]
+    ],
+    [
+      "cognitive",
+      "The renovation page says the Herget building, Clark telescope and museum spaces are unavailable during work that began in July 2026, while Mitchel building programming continues. New restroom facilities are a project objective, not evidence of completed facilities or a reopening date.",
+      "https://www.cincinnatiobservatory.org/currentexhibit/renovation-updates/renovation-updates",
+      "venue_official",
+      [
+        "Beginning July 2026, the Cincinnati Observatory is entering A New Phase, a comprehensive campaign that includes a renovation of our Herget building!",
+        "Installation of ADA compliant restroom facilities",
+        "While the Herget building, Clark telescope and museum spaces will be unavailable as the work is completed, we can't wait to share the incredible end result. Our Mitchel building will remain open, as will access to our Mitchel telescope, the oldest public telescope still available for viewing in this hemisphere!"
+      ]
+    ]
+  ],
+  "cincinnati-playhouse-in-the-park": [
+    [
+      "sensory",
+      "For the advertised relaxed performance of A Christmas Carol on November 28, 2026, the Playhouse describes reduced loud sound and strobe/strong-light effects, dimmed house lights, standing/movement areas, permitted exit and re-entry, and a lobby quiet space. Reduced effects do not mean no flashing lights.",
+      "https://cincyplay.com/visit/accessibility/relaxed-performances",
+      "venue_official",
+      [
+        "Minor adjustments to sensory elements of the production, such as lowering loud sounds and the reduction of strobe lights/strong lighting effects. House lights on but dimmed throughout the performance. Limited and socially distanced seating options and designated areas within the theatre for standing and moving around. Guests are welcome to exit and re-enter the theatre and to talk and express themselves vocally anytime during the performance. Designated quiet space in the lobby.",
+        "Saturday, Nov. 28, 2026, 12 p.m."
+      ]
+    ],
+    [
+      "cognitive",
+      "For that November 28, 2026 relaxed A Christmas Carol performance, online orders are limited to six tickets; larger orders must be made by phone to arrange socially distanced seating. The page excludes children under five and gives a running time of one hour 50 minutes including a 20-minute interval; confirm details for your visit.",
+      "https://cincyplay.com/visit/accessibility/relaxed-performances",
+      "venue_official",
+      [
+        "Children under 5 are not admitted due to the full-length nature of the performance, which runs 1 hour and 50 minutes, including a 20-minute intermission.",
+        "Online, you can purchase up to six tickets. Tickets can also be purchased by calling our Box Office at 513-421-3888. Orders for more than six tickets must be made by phone to ensure socially distanced seating.",
+        "Saturday, Nov. 28, 2026, 12 p.m."
+      ]
+    ],
+    [
+      "cognitive",
+      "The relaxed-performance page says an Audience Guide is provided digitally to ticket holders seven days before the performance. Ask for the guide for your selected show.",
+      "https://cincyplay.com/visit/accessibility/relaxed-performances",
+      "venue_official",
+      "An Audience Guide will be provided in advance and distributed digitally to all ticket holders seven days prior to the performance."
+    ]
+  ]
+}

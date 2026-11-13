@@ -1,0 +1,29 @@
+[
+  {
+    "id": "creation-museum.mobility.2",
+    "text": "The museum identifies Dino Den as an exception to wheelchair exhibit access. Guest Services offers wheelchairs first come, first served; the page describes electric mobility vehicles as limited in number.",
+    "quote": [
+      "Virtually every exhibit (except the \"Dino Den\") is wheelchair accessible.",
+      "You may bring your own, or Guest Services offers both strollers and wheelchairs for the convenience of all visitors on a first-come, first-served basis.",
+      "A limited number of Electric Convenience Vehicles (ECVs) are available for a $45 fee."
+    ],
+    "reason": "Do not extend the explicit first-come wheelchair wording to the separately described limited ECV supply."
+  },
+  {
+    "id": "creation-museum.mobility.3",
+    "text": "Guest Services offers manual wheelchair rentals for $15 and a limited number of ECVs for $45 on arrival. Rental fees are non-refundable. Confirm equipment availability before relying on a rental.",
+    "quote": [
+      "Manual wheelchairs are available for a $15 fee.",
+      "A limited number of Electric Convenience Vehicles (ECVs) are available for a $45 fee. ECVs are available from Guest Services on arrival at the Creation Museum.",
+      "Rental fees are non-refundable.",
+      "Guest Services offers both strollers and wheelchairs for the convenience of all visitors on a first-come, first-served basis."
+    ],
+    "reason": "Add the manual-wheelchair fee and non-refundable rental condition; retain limited ECV availability."
+  },
+  {
+    "id": "creation-museum.mobility.5",
+    "text": "The accessibility page describes a paved, mile-long Botanical Gardens trail with five bridges and a boardwalk, and directs visitors to its accessibility map for bridge access. This description does not establish that every bridge is step-free.",
+    "quote": "The Botanical Gardens feature a paved nature trail that is a mile in length including five bridges and a boardwalk. Please reference the Accessibility Map for more information on bridge accessibility.",
+    "reason": "Attribute the trail/bridge count and preserve the instruction to check bridge access; a separate Botanical Gardens page gives a different count. No universal bridge-access conclusion."
+  }
+]

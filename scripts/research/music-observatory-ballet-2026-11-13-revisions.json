@@ -1,0 +1,55 @@
+[
+  {
+    "id": "cincinnati-ballet-center-for-dance.mobility.3",
+    "text": "The Ballet places designated accessible parking on the west (I-71) side near an entrance to the Center for Dance.",
+    "reason": "Remove the ground-floor interpretation of the source’s ambiguous “ground for entrance” wording; retain its explicit west-side location.",
+    "quote": "Designated accessible parking is available on the west side (I-71 side) near the ground for entrance to the Center for Dance."
+  },
+  {
+    "id": "cincinnati-observatory.mobility.3",
+    "text": "The 1873 Herget building is temporarily closed for expansion. The same access page describes its dome as reached by 27 stairs and its existing lift as potentially unsuitable for motorized wheelchairs or extended leg rests. Those descriptions do not establish post-renovation access or current visitor entry.",
+    "reason": "Keep closure prominent and distinguish existing-building descriptions from future renovated facilities.",
+    "quote": [
+      "This building is temporarily closed as we bring you an exciting expansion of our exhibt space and more accessible facilities.",
+      "The lift may not be suitable for wheelchairs with leg rests extended or motorized wheelchairs.",
+      "The Telescope Dome Room is only accessible by stairs. A total of 27 stairs with 3 landings and one handrail."
+    ]
+  },
+  {
+    "id": "cincinnati-observatory.mobility.5",
+    "text": "The Observatory describes its main public areas as relatively level, with blacktop or brick paths and walkways. This does not establish a step-free route into the telescope rooms.",
+    "reason": "The bus-route clause belongs to a different official page; retain only the grounds claim here and publish the arrival information separately with its own source.",
+    "quote": "The main public areas are relatively level and have blacktop or brick paths and walkways."
+  },
+  {
+    "id": "cincinnati-observatory.chronic.1",
+    "text": "The Observatory lists an outdoor drinking fountain and two benches, and describes two restrooms in the 1904 Mitchel building as accessible. It does not provide restroom dimensions or adult-changing details.",
+    "reason": "Attribute the facility description and remove Threshold’s own ADA-compliance assertion; retain the two-restroom and rest-point details.",
+    "quote": [
+      "There is an ADA compliant outdoor drinking fountain and two benches for seating.",
+      "The 1904 observatory houses our main classroom, original 1845 telescope, and two accessible restrooms."
+    ]
+  },
+  {
+    "id": "cincinnati-playhouse-in-the-park.mobility.1",
+    "text": "Wheelchair seating is offered in both theaters, and the Rouse Theatre also has transfer seats. These places are subject to availability and should be requested when reserving tickets.",
+    "reason": "Restore the explicit availability condition for wheelchair and transfer seats.",
+    "quote": "The Playhouse is fully equipped to accommodate patrons with mobility impairments in both theatres. In addition, transfer seats are available in Moe and Jack's Place - The Rouse Theatre. Accessible seating for wheelchairs and transfer seats are subject to availability and should be requested at the time of ticket reservation."
+  },
+  {
+    "id": "cincinnati-playhouse-in-the-park.mobility.3",
+    "text": "Accessible parking is in the Playhouse garage, is limited, and must be reserved and paid for in advance. Vehicles using these spaces must display a valid disability placard.",
+    "reason": "Retain the garage location and the required disability placard, alongside advance booking and payment.",
+    "quote": "Parking for those with disabilities is located in the Playhouse parking garage. Parking for persons with disabilities is limited and must be reserved and paid for in advance. All vehicles using these spaces must display a valid disability placard."
+  },
+  {
+    "id": "cincinnati-music-hall.chronic.3",
+    "text": "Bags are limited to 18 × 18 × 8 inches. Staff may make exceptions for medical necessity; notify a staff member. Visitors with concerns about screening with a pacemaker or metal implant may request another screening method.",
+    "reason": "Keep the source’s discretionary medical-bag exception and avoid making a medical safety claim about screening.",
+    "quote": [
+      "For your safety and expedited entry into the Aronoff Center or Music Hall, bag sizes are restricted to 18\" x 18\" x 8\" . Bags exceeding this designated size will not be permitted inside the building. Exceptions can be made if you have a medical necessity. If so, notify a staff member who can assist you.",
+      "Is it safe for me to walk through the metal detectors if I have a pacemaker or a metal medical implant?",
+      "If you have any concerns, please speak with a staff member at Music Hall or the Aronoff Center, and we will be happy to screen you using another method."
+    ]
+  }
+]
