@@ -312,32 +312,110 @@
  "bb-riverboats.chronic.1": {
   "url": "https://www.bbriverboats.com/faq",
   "quote": "Smoking is permitted on designated outdoor decks only. Smoking is not allowed inside any interior cabin areas aboard the boats.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "4a99747dd4f8f55b778e3634e70921219bd672123cf93ca9393ba875239b6a06",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
+ },
+ "bb-riverboats.chronic.2": {
+  "url": "https://www.bbriverboats.com/about",
+  "quote": "Featuring elegant Victorian-inspired details, climate-controlled decks, and expansive open-air viewing areas, the Belle combines classic riverboat atmosphere with modern comfort.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Featuring spacious climate-controlled dining decks, full-service bars, a dance floor, and open-air viewing areas, the River Queen offers a relaxed and memorable atmosphere"
+  ],
+  "claim_sha256": "d839f2ebffbdd6aaa123badebd05c9842e56d1d7e29e4db0b66ac5fd9b6eefb1",
+  "source_sha256": "741b3aefc64c9308ec8eb077aa19ca89d08157ca118648cbad07deafa6ea3f7c",
+  "final_url": "https://www.bbriverboats.com/about"
+ },
+ "bb-riverboats.chronic.3": {
+  "url": "https://www.bbriverboats.com/dining-cruises",
+  "quote": "Our culinary team proudly offers gluten-free, vegetarian, and vegan options",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Simply let us know about any dietary needs when making your reservation"
+  ],
+  "claim_sha256": "b76ea82fce0924d1b29797d21c2fadebc4c4684d85c150dbb4109deab7273d45",
+  "source_sha256": "c6be1a5f027258fe2a7c3207a2f0061d6d4ee50a8a61666fde3f7617df3fe8ce",
+  "final_url": "https://www.bbriverboats.com/dining-cruises"
+ },
+ "bb-riverboats.chronic.4": {
+  "url": "https://www.bbriverboats.com/faq",
+  "quote": "Reservations may be transferred to a new cruise date or experience with at least 48 hours’ notice prior to departure. Any difference in cruise value will be issued as a gift certificate. Monetary refunds are only available when Ticket Assurance is purchased at the time of booking.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Ticket Assurance allows guests to receive a full refund of the ticket price up until cruise departure for any reason. Ticket Assurance costs 10% of the pre-tax ticket price and must be purchased at the time of reservation. It cannot be added after the reservation has been finalized."
+  ],
+  "claim_sha256": "714d432a8c21620d49cc9e307d546ac916684635d7d8a61fc927460bdfa6fc4c",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
  },
  "bb-riverboats.cognitive.1": {
   "url": "https://www.bbriverboats.com/faq",
   "quote": "Most cruises offer a full hour for boarding, while select cruise experiences may have shorter 30-minute boarding windows.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Unfortunately, cruises are unable to wait for late arrivals.",
+   "BB Riverboats is a cashless operation. Credit and debit cards are the only forms of payment accepted aboard our cruises and at our facilities."
+  ],
+  "claim_sha256": "031d4519e391db70cbb9c2ee2af2eb3042e3a39c80dc66940ac33cec2c2d95eb",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
  },
  "bb-riverboats.cognitive.2": {
   "url": "https://www.bbriverboats.com/faq",
   "quote": "BB Riverboats cruises operate rain or shine. In the event of severe weather or unsafe river conditions, the captain will determine whether cruising is possible.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "141b9e2f31b74f4446207d675c9cfe03086200a06ff0dda0cf7656f7a1504edc",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
+ },
+ "bb-riverboats.cognitive.3": {
+  "url": "https://www.bbriverboats.com/faq",
+  "quote": "BB Riverboats offices are open Monday through Friday from 9:00 a.m. to 5:00 p.m. year-round.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "During the regular cruise season from May through September, office hours extend to 7:00 p.m. and operate seven days a week.",
+   "Whenever a public cruise is sailing, our office will be open to assist guests."
+  ],
+  "claim_sha256": "6ae6880b2e4095defd2da2e740493f118e4f006a3eb15e1a720e82144df82735",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
  },
  "bb-riverboats.mobility.1": {
   "url": "https://www.bbriverboats.com/faq",
   "quote": "Boarding ramps and main decks are wheelchair accessible. The Belle of Cincinnati features an elevator providing access to the first three decks, while the fourth deck is stair-access only.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "37f84f131c9abafd3671e0b979504a5ffa6719f775ea80cb94a136082a99b3a8",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
  },
  "bb-riverboats.mobility.2": {
   "url": "https://www.bbriverboats.com/faq",
   "quote": "The main deck of The River Queen is also handicapped accessible.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "68f12999541790da36bbf6e8df3240d080342aca5624386f167cbf02ffd5abc3",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
  },
  "bb-riverboats.mobility.3": {
   "url": "https://www.bbriverboats.com/faq",
   "quote": "Complimentary parking is available in front of the dock on Riverboat Row on a first-come, first-served basis.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "claim_sha256": "4075910438b3bbf56fb01c0e88803fd9810653ac555dba919fec796926b932bf",
+  "source_sha256": "2cee6ee81cd18b7638ddbf6ff63c0616662e98a1d819924cc5e83133dbffe468",
+  "final_url": "https://www.bbriverboats.com/faq"
+ },
+ "bb-riverboats.sensory.1": {
+  "url": "https://www.bbriverboats.com/dining-cruises",
+  "quote": "guests can relax, dine, enjoy live music and entertainment",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "All dining cruise tickets include your meal, live entertainment, and breathtaking views of the Ohio River."
+  ],
+  "claim_sha256": "efed959537a88b94d3a0001591d31afbd804610432325d8e169acbfa6b9fff3a",
+  "source_sha256": "c6be1a5f027258fe2a7c3207a2f0061d6d4ee50a8a61666fde3f7617df3fe8ce",
+  "final_url": "https://www.bbriverboats.com/dining-cruises"
  },
  "bettman-nature-preserve.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
@@ -919,6 +997,18 @@
   "quote": "Butler County Regional Transit Authority operates a state-of-the-art multimodal transportation center at 97 W. Chestnut Street, on the former site of Talawanda High School. This central hub connects routes across Oxford, linking riders to Miami University, Hamilton and destinations throughout the region. The facility also supports transit operations with indoor vehicle storage, fueling, washing and maintenance. Officially named the Chestnut Street Multimodal Station and Shared Service Facility, it's built to keep Butler County moving. Take a Virtual Tour Facility Features Indoor and Outdoor Passenger Waiting Areas Accessible Public Restrooms Real-Time Transit Information Covered Bus Transfer Areas",
   "verified_at": "2026-11-11"
  },
+ "butler-county-regional-transit-authority.chronic.3": {
+  "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+  "quote": "Eating or drinking is not permitted on board any vehicles.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Reasonable modifications include changes, exceptions, or adjustments to our rules, policies, practices, and procedures",
+   "Reasonable Modification Requests can be made by contacting Customer Service at 513.785.5237"
+  ],
+  "claim_sha256": "c1aea0496a61bf48bdc5bf7414dc4312ba10537e11ae7dc75f78403cc89e228c",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
+ },
  "butler-county-regional-transit-authority.cognitive.1": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "ADA requires that reservations be made the day before a trip. BCRTA/MTS does allow same-day trips as the schedule allows.",
@@ -943,6 +1033,14 @@
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "Reasonable modifications include changes, exceptions, or adjustments to our rules, policies, practices, and procedures to provide everyone with the opportunity to use all RTA services. c. Reasonable Modification Requests can be made by contacting Customer Service at 513.785.5237, Ohio Relay at 800-750-0750, or by email at request@butlercountyrta.com",
   "verified_at": "2026-11-11"
+ },
+ "butler-county-regional-transit-authority.cognitive.6": {
+  "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+  "quote": "During the application review process individuals will be offered 3 consecutive days of rides while they are waiting for the application to be processed. This is a one-time ride offer that is available to all of the public.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "76f2030ffd8fa21ecd1d32e24051811695ed58ba3f92669b47b696294b0b000e",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.mobility.1": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
@@ -973,6 +1071,14 @@
   "url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
   "quote": "BCRTA does not own or control public parking facilities at the Chestnut Street Station. Visitors are encouraged to use the bus system to access the station or attend events. Public and university-permitted parking is available for a fee adjacent to the Station in Miami University's Chestnut Fields lot. For information on parking fees and payment methods, please visit ⁠ Miami University's parking information page",
   "verified_at": "2026-11-11"
+ },
+ "butler-county-regional-transit-authority.mobility.7": {
+  "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+  "quote": "All mobility devices must be secured.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "735bbb8ae44a1b4faa87c00fa4bc1e038ba2401ee47b54aabbdbb30cd40ca9f2",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.sensory.1": {
   "url": "https://www.butlercountyrta.com/customer-service/common-questions/",
@@ -2135,6 +2241,146 @@
   "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
   "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
  },
+ "devou-park.chronic.1": {
+  "url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+  "quote": "The nearest restroom facilities for Overlook users are at Volpenhein Pavilion.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "307abd46193c7148900be9923dc02d1b8f549386dbc53d244986e379f5c392b4",
+  "source_sha256": "641d3b65609a5e9a17860b962fe02f7065863e10bcd9f9d9bb17fcccd95dd0fa",
+  "final_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook"
+ },
+ "devou-park.chronic.2": {
+  "url": "https://www.exploredevoupark.org/welcome",
+  "quote": "Located inside the Devou Golf & Event Center , where Park Drive meets Golfview Drive, our Welcome Center provides park maps , restrooms and a team of friendly staff members who are ready to answer questions and offer recommendations about exploring the park.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "For assistance while navigating the park, our Park Rangers are also available to help. You’ll find them patrolling the grounds or you can reach them directly at 859-801-3592 ."
+  ],
+  "claim_sha256": "22a3a6403d9ec44645f41a18fc9342a284a8c4024c9b2ed8f4367ccad3e815a6",
+  "source_sha256": "ed6f2434e18c4ac08eeed7591a5e27f4d560ffbcda48ec94435ac4dab0c72bf9",
+  "final_url": "https://www.exploredevoupark.org/welcome"
+ },
+ "devou-park.chronic.3": {
+  "url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+  "quote": "Reserving the Overlook does not grant parties access to Drees Pavilion facilities, including but not limited to, Drees Pavilion Gazebo, restrooms, or parking lot.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The nearest restroom facilities for Overlook users are at Volpenhein Pavilion."
+  ],
+  "claim_sha256": "65bc5109f1b3d9ac38d0b5c90c6005bad7f352c647587df0cced15e935d2c514",
+  "source_sha256": "641d3b65609a5e9a17860b962fe02f7065863e10bcd9f9d9bb17fcccd95dd0fa",
+  "final_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook"
+ },
+ "devou-park.chronic.4": {
+  "url": "https://www.exploredevoupark.org/picnic-shelters",
+  "quote": "Volpenhein Pavilion - Capacity: 80 - Offstreet Parking - Restrooms - Grill - Electricity outlet - Pet waste station - Bike rack - Drinking fountain",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Breaden Shelter - Capacity: 80 - Restrooms - Grill - Electricity outlet - Bike rack - Drinking fountain"
+  ],
+  "claim_sha256": "c475e1ec25bd86fd45bb1120b529fd3ba2eac4fe4931b78131c8c15fa3ca896d",
+  "source_sha256": "3b8090f6856df5bdb45b72278398f82a1485e11a7258a4f413067a6089b83875",
+  "final_url": "https://www.exploredevoupark.org/picnic-shelters"
+ },
+ "devou-park.cognitive.1": {
+  "url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+  "quote": "PARKS ARE OPEN FROM DAWN TO DUSK ONLY",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "For assistance reserving the Overlook please contact recreation@covingtonky.gov or call (859) 292-2151."
+  ],
+  "claim_sha256": "ba4370dc91a8142b97e3ab7539e282c041ef69b723826d220da8865702dff690",
+  "source_sha256": "641d3b65609a5e9a17860b962fe02f7065863e10bcd9f9d9bb17fcccd95dd0fa",
+  "final_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook"
+ },
+ "devou-park.cognitive.2": {
+  "url": "https://www.exploredevoupark.org/parking",
+  "quote": "Enter via Parkway Avenue to access the lots at Gus Sheehan Park and Prisoners Lake",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Enter via Devou Drive to access the lots at Drees Pavilion , Memorial Overlook and Volpenhein Pavilion"
+  ],
+  "claim_sha256": "d4db4089fd736e2bc56f5a56194b16d24bd7a2e2225d91e89218a9095fb758d6",
+  "source_sha256": "725a878d507cf8d95f30cd4ceb190c49d2514cb6b2ccfedcf4e48b5134aa8f71",
+  "final_url": "https://www.exploredevoupark.org/parking"
+ },
+ "devou-park.cognitive.3": {
+  "url": "https://www.exploredevoupark.org/trails",
+  "quote": "The Devou Park Trails Facebook page and the Cincinnati Off-road Alliance website page lists trail conditions for Devou Park natural surface trails.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Yellow means the trails might be slick in a few places",
+   "Red means the trails are closed to all users - hikers, runners, and bikers."
+  ],
+  "claim_sha256": "63d05d18fd6f10abd1275681f7e4a4dcd3253a25a11b2ce982ba464596dbde00",
+  "source_sha256": "00dbba78806b8581c7b1cfcc18111fe8f30183a4a98919fa264a6e9ef1fde835",
+  "final_url": "https://www.exploredevoupark.org/trails"
+ },
+ "devou-park.cognitive.4": {
+  "url": "https://www.exploredevoupark.org/natureplay",
+  "quote": "NaturePlay@BCM is open seven days a week, from dawn until dusk, and is free to use.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Parking is free and can be found in the Behringer-Crawford Museum parking lot."
+  ],
+  "claim_sha256": "6f30fbc192f81e43c8cfccabd7c49b2c35337550760e8a9e2ffa3d2ddd437169",
+  "source_sha256": "e8e5539eb779b5ce81437da02f0b1dc56873369920f9c896c7dd34b8f3d5c752",
+  "final_url": "https://www.exploredevoupark.org/natureplay"
+ },
+ "devou-park.mobility.1": {
+  "url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+  "quote": "Overlook Features: ADA Compliant Benches Offstreet Parking Picnic Table(s)",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f54de480099bab15d5ba2d04fd06a570b9e5b9063c1c13b231f0c9813bd63784",
+  "source_sha256": "641d3b65609a5e9a17860b962fe02f7065863e10bcd9f9d9bb17fcccd95dd0fa",
+  "final_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook"
+ },
+ "devou-park.mobility.2": {
+  "url": "https://www.exploredevoupark.org/trails",
+  "quote": "The Devou Park natural surface trails are closed to all users - hikers, runners, and bikers - during and immediately following heavy rains.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Fortunately, even if the natural surface trails are closed, there are numerous paved paths available throughout Devou Park and surrounding neighborhoods."
+  ],
+  "claim_sha256": "27b27aca284dc1f82c0e56cdaf3f18a338c3d52ed2c21e033ae66559bf06bf04",
+  "source_sha256": "00dbba78806b8581c7b1cfcc18111fe8f30183a4a98919fa264a6e9ef1fde835",
+  "final_url": "https://www.exploredevoupark.org/trails"
+ },
+ "devou-park.mobility.3": {
+  "url": "https://www.exploredevoupark.org/picnic-shelters",
+  "quote": "All our covered picnic shelters are ADA accessible.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "fbe20ffae3deba572e71c483bb39f49213687e023c2a5cd46d4706ac2284656a",
+  "source_sha256": "3b8090f6856df5bdb45b72278398f82a1485e11a7258a4f413067a6089b83875",
+  "final_url": "https://www.exploredevoupark.org/picnic-shelters"
+ },
+ "devou-park.mobility.4": {
+  "url": "https://www.exploredevoupark.org/natureplay",
+  "quote": "All pathways and major play features are ADA accessible.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f5b5ce4707d02c9eae95ead13b9c88756de868ca55191f320a8f7ec8df86899c",
+  "source_sha256": "e8e5539eb779b5ce81437da02f0b1dc56873369920f9c896c7dd34b8f3d5c752",
+  "final_url": "https://www.exploredevoupark.org/natureplay"
+ },
+ "devou-park.mobility.5": {
+  "url": "https://www.exploredevoupark.org/trails",
+  "quote": "During winter months, the Freeze/Thaw - Blue Rule applies, which means only use the trails while they are frozen - which is usually in the early morning before the sun thaws the ground or temperatures rise above freezing.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "c9c621d120dc21908f459e8dfbd4c28e2d31f8728c16a57e7ad807463db4c1ba",
+  "source_sha256": "00dbba78806b8581c7b1cfcc18111fe8f30183a4a98919fa264a6e9ef1fde835",
+  "final_url": "https://www.exploredevoupark.org/trails"
+ },
+ "devou-park.mobility.6": {
+  "url": "https://www.exploredevoupark.org/parking",
+  "quote": "Parking is free in any of our parking lots",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Enter via Montague Road to access the lots at our Welcome Center, Behringer-Crawford Museum , Breaden Shelter and Stone Shelter ."
+  ],
+  "claim_sha256": "9b051c5542933521184f339b6bb3704bccf9aa02ade61bb260af097e8d1bf96c",
+  "source_sha256": "725a878d507cf8d95f30cd4ceb190c49d2514cb6b2ccfedcf4e48b5134aa8f71",
+  "final_url": "https://www.exploredevoupark.org/parking"
+ },
  "dinsmore-homestead.chronic.1": {
   "url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
   "quote": "There are easily accessible picnic tables located all over the lawn and under the shade trees.",
@@ -2461,6 +2707,190 @@
   "url": "https://www.florencemall.com/event/florence-santa-cares",
   "quote": "We love spreading Christmas cheer during Santa Cares events, allowing guests of all ages and abilities to visit Santa in a sensory-friendly environment. One reservation per family. Reserve now → Event Info Date Sunday, December 6, 2026 Time 8:30 AM - 9:30 AM",
   "verified_at": "2026-11-12"
+ },
+ "florence-yalls-thomas-more-stadium.chronic.1": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "Medically necessary items and diapers may be brought into the stadium",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "All bags are subject to inspection."
+  ],
+  "claim_sha256": "6b9614339d6d0c1acc43d11061e8b4ae3aa8fd5bb76116eb53fb18f7ea9c2afc",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.chronic.2": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "Changing tables are available in family restrooms.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "531a11e0d19a8dd47d01e73b564cc3879620040c31c0e5063757cedfca10205f",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.chronic.3": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "No outside food or beverages are permitted.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "First Aid is located on the 3rd base concourse.",
+   "Medically necessary items and diapers may be brought into the stadium"
+  ],
+  "claim_sha256": "6fce1583004329d4be1985fdae5bde86a6a2aec3a5664a74af73c3df1b68cca2",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.chronic.4": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "If a game is rained out or deemed unsafe due to extreme heat, tickets may be exchanged for any future game. No refunds.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "General parking is FREE in all lots except the VIP Lot."
+  ],
+  "claim_sha256": "8ab9db427226fe3772caa3ac6d7bc2cd97eec84ff9080a5fbcc77af8973a5695",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.chronic.5": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "Nursing room is located in the First Aid Room.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "First Aid is located on the 3rd base concourse."
+  ],
+  "claim_sha256": "123d65299f74563414d6052e8aed153a0141f29314f39c0195b24a2926891f3a",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.chronic.6": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "Can I bring an Umbrella? Yes, but the Y'alls reserve the right to close umbrella at any time based on safety and weather concerns",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "20f3c81e835086801e9f4bd35704c60c5b83fcfb162da4272b73582cec22c352",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.cognitive.1": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "Bags must be clear unless they are smaller than 4.5\" x 6.5\".",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Medically necessary items and diapers may be brought into the stadium, and a bag will be provided if needed"
+  ],
+  "claim_sha256": "606ca7ba2dff7fe1856b79e4c8e50e2fe3009de130b235d90da04b1bcce20dc7",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.cognitive.2": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "Buy in person at the Pella Ticket Window",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Buy by phone at (859) 594-4487",
+   "Will Call: Pick up tickets at the Pella Ticket Window at the front of the stadium."
+  ],
+  "claim_sha256": "3f6748105d6aee3cd51129a0fb1cfdf5281dde904fb8469da3a6a5e0cd859366",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.mobility.1": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "Accessible seating is available behind Sections 107 & 109.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "d0fb02a2fcbc3fe420eac2fb9740efedebc0625cf19598745891058aa419674b",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "florence-yalls-thomas-more-stadium.mobility.2": {
+  "url": "https://florenceyalls.com/pages/yalls-a-z",
+  "quote": "ADA parking is available along the first base line on the back side of the stadium",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "13ceef483e87fead436da84173bb90b74f8a3b774a0148095051feef03e5c6d7",
+  "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
+  "final_url": "https://florenceyalls.com/pages/yalls-a-z"
+ },
+ "francis-recreacres.chronic.1": {
+  "url": "https://www.greatparks.org/parks/francis-recreacres",
+  "quote": "Amenities Parking Playground Restrooms Soccer",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "931b0b02a2e00ccb3ec134b64e412eb7450b84d6c0f39c3ade12b1bddbb0cfae",
+  "source_sha256": "47ef0d63fef6871cf5bd4988efd73b0c5888cee7639098b344cc4fcde8ec0bb3",
+  "final_url": "https://www.greatparks.org/parks/francis-recreacres"
+ },
+ "francis-recreacres.chronic.2": {
+  "url": "https://www.greatparks.org/about/accessibility",
+  "quote": "Universally accessible playgrounds are located at: Francis RecreAcres",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Shade structures for a more enjoyable play experience"
+  ],
+  "claim_sha256": "7fc8387749718899004ad6e0f6f80e516520aab7fb653ad0cdab64f4798bdaba",
+  "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+  "final_url": "https://www.greatparks.org/about/accessibility"
+ },
+ "francis-recreacres.cognitive.1": {
+  "url": "https://www.greatparks.org/about/accessibility",
+  "quote": "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD."
+  ],
+  "claim_sha256": "0555541cdeb6ff21ef8cf9de44db66bfbb5dc4f0d716857ede3fe60d4c2d5d1d",
+  "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+  "final_url": "https://www.greatparks.org/about/accessibility"
+ },
+ "francis-recreacres.cognitive.2": {
+  "url": "https://www.greatparks.org/parks/francis-recreacres",
+  "quote": "A valid Motor Vehicle Permit is required to enter the parks.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "8a87002410876e73611252dd48eb2a2f26d98c3dac08bba972c328036c7a5587",
+  "source_sha256": "47ef0d63fef6871cf5bd4988efd73b0c5888cee7639098b344cc4fcde8ec0bb3",
+  "final_url": "https://www.greatparks.org/parks/francis-recreacres"
+ },
+ "francis-recreacres.cognitive.3": {
+  "url": "https://www.greatparks.org/parks/francis-recreacres",
+  "quote": "Open daily from dawn until dusk",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "23ac3f7f430824927df52f2de7a53bba30cc785150ae0c856254d7187f9cc9b1",
+  "source_sha256": "47ef0d63fef6871cf5bd4988efd73b0c5888cee7639098b344cc4fcde8ec0bb3",
+  "final_url": "https://www.greatparks.org/parks/francis-recreacres"
+ },
+ "francis-recreacres.cognitive.4": {
+  "url": "https://www.greatparks.org/parks/francis-recreacres",
+  "quote": "Phone: Soccer Field Cancellation 513-728-3551, ext. 386",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "94a9c19136f2e4abeba015d12d957ff27e8cd830a314bbefe4e935c0ec9babdd",
+  "source_sha256": "47ef0d63fef6871cf5bd4988efd73b0c5888cee7639098b344cc4fcde8ec0bb3",
+  "final_url": "https://www.greatparks.org/parks/francis-recreacres"
+ },
+ "francis-recreacres.mobility.1": {
+  "url": "https://www.greatparks.org/about/accessibility",
+  "quote": "Universally accessible playgrounds are located at: Francis RecreAcres",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "A rubber safety surface that allows access to all areas of the playground Multiple wide ramps for access with mobility devices"
+  ],
+  "claim_sha256": "e02dba5c4364bc924b2e3fe56d2c9fd5ef084d9f9edf15d7ded6ccd9457f696a",
+  "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+  "final_url": "https://www.greatparks.org/about/accessibility"
+ },
+ "francis-recreacres.mobility.2": {
+  "url": "https://www.greatparks.org/parks/francis-recreacres",
+  "quote": "This easy loop passes soccer fields and a universally accessible playground, making it a great neighborhood route with convenient parking. ‎ Length: 1.0 Miles ‎ Type: Shared-Use ‎ Level: Easy",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "619a9bfb13ec98c63adf00d8f4a44bf7d30214da1c31122d06864066641ae70d",
+  "source_sha256": "47ef0d63fef6871cf5bd4988efd73b0c5888cee7639098b344cc4fcde8ec0bb3",
+  "final_url": "https://www.greatparks.org/parks/francis-recreacres"
+ },
+ "francis-recreacres.sensory.1": {
+  "url": "https://www.greatparks.org/about/accessibility",
+  "quote": "Universally accessible playgrounds are located at: Francis RecreAcres",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "An array of bright colors to increase visual stimulation and playable musical instruments to increase auditory function"
+  ],
+  "claim_sha256": "7eedd71324daadb32092a9ba235bb490527d217ede54b31f0e4fba2c27259d59",
+  "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+  "final_url": "https://www.greatparks.org/about/accessibility"
  },
  "freestore-foodbank-liberty-street-market.chronic.1": {
   "url": "https://freestorefoodbank.org/liberty-street-market/",
@@ -2916,6 +3346,92 @@
   "quote": "For in-store pick-up: Follow signs to the Click & Collect Order Pick-Up area to the left of the store. Park in one of the designated Click & Collect spots check-in. Enter through the store exit. Turn left and proceed to the order pick-up desk.",
   "verified_at": "2026-11-12"
  },
+ "jungle-jims-eastgate.chronic.1": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+  "quote": "We are not offering online ordering, pick up, or delivery for our regular in-store merchandise at this time.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "We currently have limited online ordering for event tickets, party trays, Cooking School certificates, and gift cards.",
+   "Party trays are only available for in-store pickup at the Fairfield location."
+  ],
+  "claim_sha256": "5f4e127921733982934621eb5f683859c419215953eb0d2452968ff0207e2163",
+  "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq"
+ },
+ "jungle-jims-eastgate.chronic.2": {
+  "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+  "quote": "Tours can be tailored to meet special requirements, interests, and to fit groups of 8 or more (smaller groups can often be paired with others).",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Comfortable shoes are suggested, as a good deal of walking is involved.",
+   "Store Tours last approximately one hour"
+  ],
+  "claim_sha256": "022a28da5a79a89b16ad0a054dff9932892244d51fc664fc001238f2283fa930",
+  "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9",
+  "final_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours"
+ },
+ "jungle-jims-eastgate.chronic.3": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+  "quote": "No pets – service animals only.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "8ba5d4a2aba9e408d0b0b80c20896eea4f53a5977e1c1251c69588648265cf13",
+  "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq"
+ },
+ "jungle-jims-eastgate.cognitive.1": {
+  "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+  "quote": "Advance reservations required for all tours.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Tours are available Monday-Friday only.",
+   "Limited tour availability during holidays and the month of December.",
+   "Tour dates and times are subject to availability.",
+   "Eastgate Reservations tours-eg@junglejims.com 513-674-6033"
+  ],
+  "claim_sha256": "d99c5f084f4f2b85d55a843d736cab776f391c83aea5b94e21f22c53544333f0",
+  "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9",
+  "final_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours"
+ },
+ "jungle-jims-eastgate.mobility.1": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+  "quote": "Motorized shopping carts and traditional wheelchairs are available at the main entrances at both locations.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "1c6266845bf77bfcfd181eae4952402641b5ddd9b5561d8dce2eaa5752968912",
+  "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq"
+ },
+ "jungle-jims-eastgate.mobility.2": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+  "quote": "A Caroline Cart is available by special request at Customer Service.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "9ac7be7f6259e090b931036f52594f3a2958539bea9b2b4df7bc2c35f7d40f8c",
+  "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq"
+ },
+ "jungle-jims-eastgate.mobility.3": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip",
+  "quote": "4450 Eastgate South Drive Cincinnati, OH 45245 513-674-6000 Free parking in store lot",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "75113807d9f1b70c608abe34b3aa148f6c613026b342a92f1fdc581cebe462cb",
+  "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip"
+ },
+ "jungle-jims-eastgate.sensory.1": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip",
+  "quote": "Established in 2012, our Eastgate location enjoys wider aisles, brighter lighting, and an easier to shop layout. It's bursting with fun displays like the high-flying Hot Sauce Drone and killer departments like the Candy Castle and one of Ohio's largest liquor stores.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "3895b86697618fc1e4a2d42ed138af84a4c7249370861bcb249dccdff9a6442e",
+  "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip"
+ },
+ "jungle-jims-eastgate.sensory.2": {
+  "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+  "quote": "Tour Guide w/ microphone.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "725cbbd0556539ebcca87d3dd06d2e2a4a1e4bcb2c0e35407f7ba209cb846fbc",
+  "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9",
+  "final_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours"
+ },
  "jungle-jims-fairfield.chronic.1": {
   "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
   "quote": "A Caroline Cart is available by special request at Customer Service.",
@@ -3297,6 +3813,21 @@
   "url": "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making",
   "quote": "Most of that stretch includes parallel trails – about 0.75 miles of paved trail atop the levee and about 1.5 miles of a gravel “nature trail” that cuts through a narrow stretch of woods along the river’s edge.",
   "verified_at": "2026-11-12"
+ },
+ "ludlow-garage.cognitive.3": {
+  "url": "https://www.ludlowgaragecincinnati.com/faqs/",
+  "quote": "No backpacks of any kind are permitted.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Clear bags that do not exceed 12” x 12” x 6” . Small clutch bags that do not exceed 6” x 9” — these do not need to be clear.",
+   "All bags will be inspected upon entry.",
+   "For everyone’s safety, only bags that meet the above guidelines will be permitted inside the venue.",
+   "Guests who arrive with non-compliant bags will be asked to return them to their vehicles or dispose of them before entering.",
+   "All guests entering the venue are subject to a metal-detector screening by way of a magnetometer, visual inspection, and/or bag inspection conducted by venue security personnel."
+  ],
+  "claim_sha256": "93439cab6a128c87200fcc8c5ca89c8b8369f4d7c5ecc40e3df8b4aabb6174d5",
+  "source_sha256": "cad07eba8f84fa02a5845fd49a31d1f09adc42d323eff6f1697326e593167607",
+  "final_url": "https://www.ludlowgaragecincinnati.com/faqs/"
  },
  "mamas-on-main.cognitive.1": {
   "url": "https://www.mamasonmain.com/contact",
@@ -4286,6 +4817,81 @@
   "url": "https://www.sharonville.org/243/Community-Center",
   "quote": "Indoor Track - 1/12 mile banked running/walking track",
   "verified_at": "2026-11-12"
+ },
+ "smale-riverfront-park.chronic.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+  "quote": "Smale Riverfront Park Pichler Fountain Restrooms near the Carol Ann’s Carousel: open 8 a.m. - 9 p.m.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f9c526798d315277bb9fd1900517b95434610a2a818b13f584ef8ac38fde97bb",
+  "source_sha256": "6099b88fcb710234c69e0da61fdb4b19d284aba4820a2535afa9e27e749aa9b1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/"
+ },
+ "smale-riverfront-park.chronic.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+  "quote": "Smale Riverfront Park Pichler Fountain Restrooms near the Carol Ann’s Carousel: open 8 a.m. - 9 p.m.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Smale Riverfront Park Portland Loo: open 8 a.m. - 9 p.m.",
+   "Smale Riverfront Park Roebling Bridge Restrooms: open 8 a.m. - 9 p.m.",
+   "Smale Riverfront Park Walnut Street Restrooms: open 8 a.m. - 9 p.m."
+  ],
+  "claim_sha256": "a47287a1bfb81c5d11f93edff64ea9d3fe8935f1964cc117138319fd5158d63e",
+  "source_sha256": "6099b88fcb710234c69e0da61fdb4b19d284aba4820a2535afa9e27e749aa9b1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/"
+ },
+ "smale-riverfront-park.cognitive.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+  "quote": "Open 6:00 AM to 11:00 PM After 9 PM minors (17 and younger) must be accompanied by a parent or guardian.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "b0083d4e4c772aa546e2bfba203eba1fba77b489dbf385d5ebdb653016555a2f",
+  "source_sha256": "6099b88fcb710234c69e0da61fdb4b19d284aba4820a2535afa9e27e749aa9b1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/"
+ },
+ "smale-riverfront-park.cognitive.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+  "quote": "providing reasonable accommodations for individuals with disabilities upon request. To request an accommodation fill out a Reasonable Accommodation Request Form linked here.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "For questions call us at 513-357-2604."
+  ],
+  "claim_sha256": "e615a097f5ea39133f206a2b1018be3db55fa6029f191ab2bdd761611f9b14cd",
+  "source_sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/"
+ },
+ "smale-riverfront-park.mobility.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+  "quote": "Jul 26, 2020",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The park is served by several elevators and accessible routes to and along the river. The Anderson Pavilion and Carol Ann’s Carousel features are also accessible."
+  ],
+  "claim_sha256": "0382ff9194ee163b74ea71800c7a4c0e736c4852e4c7429bb10d405826278b5c",
+  "source_sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/"
+ },
+ "smale-riverfront-park.mobility.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+  "quote": "Jul 26, 2020",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "New accessible playgrounds were recently constructed at Smale Riverfront Park"
+  ],
+  "claim_sha256": "4223aed41b7b07b73fb703dd0cf3afe6f0474420e6e55116c9c4c41974a93a1c",
+  "source_sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/"
+ },
+ "smale-riverfront-park.sensory.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+  "quote": "Smale Riverfront Park Main Street - | open 10 a.m. - 9 p.m. | May 1 to Labor Day",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Smale Riverfront Park Walnut Street | open 10 a.m. - 9 p.m. | May 1 to Labor Day",
+   "Smale Riverfront Park Pichler | open 10 a.m. - 9 p.m. | May 1 to Labor Day",
+   "Smale Riverfront Park Water Play | open 10 a.m. - 9 p.m. | May 1 to Labor Day"
+  ],
+  "claim_sha256": "ff7cbc3139fae3bcc7d4f286d89da8b25101c1e8865a3ab3ae16c16da3f3c616",
+  "source_sha256": "6099b88fcb710234c69e0da61fdb4b19d284aba4820a2535afa9e27e749aa9b1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/"
  },
  "smoke-justis.chronic.1": {
   "url": "https://parties.smokejustis.com/",

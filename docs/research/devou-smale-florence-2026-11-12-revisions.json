@@ -1,0 +1,66 @@
+{
+  "devou-park.mobility.1": {
+    "text": "The city lists “ADA Compliant” among the Overlook’s features without specifying the route, surfaces or facilities covered.",
+    "quote": "Overlook Features: ADA Compliant Benches Offstreet Parking Picnic Table(s)",
+    "reason": "Narrowed the claim to the Overlook; the cited page does not establish Volpenhein’s separate feature list."
+  },
+  "devou-park.chronic.1": {
+    "text": "For Overlook users, the city identifies Volpenhein Pavilion as the nearest restroom location. It does not describe the restroom equipment or route.",
+    "quote": "The nearest restroom facilities for Overlook users are at Volpenhein Pavilion.",
+    "reason": "Removed the separate Volpenhein feature-list assertion, which is not present on this cited page."
+  },
+  "devou-park.mobility.4": {
+    "text": "The park’s NaturePlay@BCM page describes all pathways and major play features as ADA accessible. It does not give route measurements or equipment details.",
+    "quote": "All pathways and major play features are ADA accessible.",
+    "reason": "Attributed the published accessibility description rather than presenting it as an independent finding."
+  },
+  "florence-yalls-thomas-more-stadium.chronic.3": {
+    "text": "The fan guide prohibits outside food and drinks and separately permits medically necessary items without explaining how medically needed food or drink is handled. Confirm that arrangement directly. First Aid is on the third-base concourse.",
+    "quote": [
+      "No outside food or beverages are permitted.",
+      "First Aid is located on the 3rd base concourse.",
+      "Medically necessary items and diapers may be brought into the stadium"
+    ],
+    "reason": "Made the interaction between the food prohibition and medical-items permission explicit; did not infer either an exemption or a refusal."
+  },
+  "florence-yalls-thomas-more-stadium.chronic.4": {
+    "text": "If a game is rained out or deemed unsafe because of extreme heat, tickets may be exchanged for a future game; the guide says there are no refunds. General parking is free except in the VIP lot.",
+    "quote": [
+      "If a game is rained out or deemed unsafe due to extreme heat, tickets may be exchanged for any future game. No refunds.",
+      "General parking is FREE in all lots except the VIP Lot."
+    ],
+    "reason": "Restored the no-refund condition and made clear that tickets, not games, are exchanged."
+  },
+  "smale-riverfront-park.mobility.1": {
+    "text": "In its July 26, 2020 article, Cincinnati Parks described several elevators and accessible routes to and along the river. It separately described Anderson Pavilion and Carol Ann’s Carousel as accessible. This historical description does not confirm current elevator operation.",
+    "quote": [
+      "Jul 26, 2020",
+      "The park is served by several elevators and accessible routes to and along the river. The Anderson Pavilion and Carol Ann’s Carousel features are also accessible."
+    ],
+    "reason": "Brought the source’s historical date into the note itself; current operation remains unverified."
+  },
+  "smale-riverfront-park.mobility.2": {
+    "text": "Cincinnati Parks’ July 26, 2020 article lists Smale among the parks where accessible playgrounds had recently been built. It does not identify current play-equipment features or condition.",
+    "quote": [
+      "Jul 26, 2020",
+      "New accessible playgrounds were recently constructed at Smale Riverfront Park"
+    ],
+    "reason": "Explicitly dated the historical playground statement."
+  },
+  "florence-yalls-thomas-more-stadium.chronic.1": {
+    "text": "The fan guide permits medically necessary items and says all bags are subject to inspection. Ask stadium staff about the current bag-check procedure before arrival if needed.",
+    "quote": [
+      "Medically necessary items and diapers may be brought into the stadium",
+      "All bags are subject to inspection."
+    ],
+    "reason": "Kept the inspection condition scoped to bags, as stated by the source, rather than all medical items."
+  },
+  "devou-park.cognitive.1": {
+    "text": "The city’s Overlook page says parks are open from dawn until dusk. For help reserving the Overlook, contact recreation@covingtonky.gov or (859) 292-2151.",
+    "quote": [
+      "PARKS ARE OPEN FROM DAWN TO DUSK ONLY",
+      "For assistance reserving the Overlook please contact recreation@covingtonky.gov or call (859) 292-2151."
+    ],
+    "reason": "Kept the opening-time wording at the source’s dawn-to-dusk scope, without adding a separate daily guarantee."
+  }
+}

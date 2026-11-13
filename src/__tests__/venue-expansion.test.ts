@@ -11,6 +11,18 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Eastgate groceries while keeping store-specific services and unknown assistance explicit", () => {
+    const slug = "jungle-jims-eastgate";
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("4450 Eastgate South Drive, Cincinnati, OH 45245");
+    expect(text(slug)).toContain("main entrances of both stores");
+    expect(text(slug)).toContain("Caroline Cart");
+    expect(text(slug)).toContain("party trays are for in-store pickup at Fairfield, not Eastgate");
+    expect(text(slug)).toContain("limited availability during holidays and December");
+    expect(place(slug).limitations).toContain("no on-site audit");
+    expect(place(slug).limitations).toContain("transfer or carrying assistance");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Clermont Dial-A-Ride without merging ADA eligibility or promising personal assistance", () => {
     const slug = "clermont-transportation-connection-dial-a-ride";
     expect(findPlaces({ category: "Transportation", region: "OH" }).map((p) => p.slug)).toContain(slug);
@@ -576,6 +588,9 @@ describe("November source-backed venue expansion", () => {
     expect(imax).toHaveLength(2);
     expect(imax.every((f) => f.source_type === "partner_official")).toBe(true);
     expect(place("go-bananas-comedy-club").facts[0].source_url).toBe("https://gobananascomedy.com/main/");
-    expect(text("florence-yalls-thomas-more-stadium")).toContain("Medically necessary items");
+    const medicalItems = place("florence-yalls-thomas-more-stadium").facts.find((f) => f.id === "florence-yalls-thomas-more-stadium.chronic.1")!;
+    expect(medicalItems.source_url).toBe("https://florenceyalls.com/pages/yalls-a-z");
+    expect(medicalItems.text).toContain("permits medically necessary items");
+    expect(medicalItems.text).toContain("all bags are subject to inspection");
   });
 });

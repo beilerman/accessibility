@@ -545,7 +545,7 @@
     "address": "101 Riverboat Row, Newport, KY 41071",
     "website": "https://www.bbriverboats.com/",
     "source_url": "https://www.bbriverboats.com/faq",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -554,7 +554,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -571,6 +571,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -582,7 +587,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -599,6 +604,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -610,7 +620,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -629,6 +639,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -638,7 +653,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -650,6 +665,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -661,7 +681,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -675,6 +695,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -684,7 +709,7 @@
         "source_url": "https://www.bbriverboats.com/about",
         "id": "bb-riverboats.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -693,6 +718,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -702,7 +732,7 @@
         "source_url": "https://www.bbriverboats.com/dining-cruises",
         "id": "bb-riverboats.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -711,6 +741,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -720,7 +755,7 @@
         "source_url": "https://www.bbriverboats.com/faq",
         "id": "bb-riverboats.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -734,11 +769,70 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Office hours are listed as Monday–Friday, 9 a.m.–5 p.m., year-round. From May through September, the office operates seven days a week until 7 p.m.; the FAQ also says it opens whenever a public cruise sails. These are office hours, not a sailing timetable.",
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ allows reservation transfers with at least 48 hours’ notice; a difference in cruise value is issued as a gift certificate. It says monetary refunds require Ticket Assurance, which costs 10% of the pre-tax ticket price, must be bought when reserving and permits a refund of the ticket price up to departure. Confirm the policy for your booking type before reserving.",
+        "source_url": "https://www.bbriverboats.com/faq",
+        "id": "bb-riverboats.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The dining-cruise page describes live music and entertainment and includes live entertainment with dining tickets. It does not specify sound levels, assistive-listening equipment or a quiet seating area; discuss those needs for the particular sailing.",
+        "source_url": "https://www.bbriverboats.com/dining-cruises",
+        "id": "bb-riverboats.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website reporting; no on-site audit. Confirm the assigned vessel and deck before booking; access differs between boats.",
+    "limitations": "Public website reporting; no on-site audit. Confirm the assigned vessel and deck before booking; access differs between boats. Parking-to-dock and gangway gradients, thresholds, elevator dimensions, assistance or transfer limits, toilet/changing facilities and quiet spaces remain unverified. Confirm food requirements directly; the dietary-option description does not establish allergen cross-contact controls. The current FAQ says the operation is cashless, while the dining page and dated private-event brochure use cash bar wording; confirm payment arrangements for the booking.",
     "slug": "bb-riverboats",
     "observed_at": null
   },
@@ -7004,7 +7098,7 @@
     "address": "11982 Conrey Road, Cincinnati, OH 45249",
     "website": "https://www.greatparks.org/parks/francis-recreacres",
     "source_url": "https://www.greatparks.org/about/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -7012,7 +7106,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "francis-recreacres.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7026,6 +7120,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -7035,7 +7134,7 @@
         "source_url": "https://www.greatparks.org/parks/francis-recreacres",
         "id": "francis-recreacres.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7049,16 +7148,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Great Parks asks for two weeks' advance notice to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+        "text": "Great Parks says it will make every effort, with two weeks’ advance notice, to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD); the wording is not a guarantee that every request can be met.",
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "francis-recreacres.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7067,6 +7171,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Retained the published effort-based qualification rather than suggesting every accommodation is assured."
           }
         ]
       },
@@ -7076,7 +7185,7 @@
         "source_url": "https://www.greatparks.org/parks/francis-recreacres",
         "id": "francis-recreacres.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7085,6 +7194,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -7094,13 +7208,90 @@
         "source_url": "https://www.greatparks.org/parks/francis-recreacres",
         "id": "francis-recreacres.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Great Parks describes bright colors and playable musical instruments among the features of its accessible playgrounds, including Francis RecreAcres. Noise and lighting levels are not measured.",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "francis-recreacres.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Great Parks lists shade structures among the features of its accessible playgrounds, including Francis RecreAcres. It does not specify the amount of shade, nearby seating or year-round coverage.",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "francis-recreacres.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park is listed as open daily from dawn until dusk. Restroom operating hours and winter availability are not specified.",
+        "source_url": "https://www.greatparks.org/parks/francis-recreacres",
+        "id": "francis-recreacres.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For soccer-field cancellations, the park lists 513-728-3551, extension 386. This contact is for field status, not confirmation of playground or restroom conditions.",
+        "source_url": "https://www.greatparks.org/parks/francis-recreacres",
+        "id": "francis-recreacres.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -13291,11 +13482,11 @@
       },
       {
         "domain": "cognitive",
-        "text": "No backpacks are permitted; the bag rules list no medical exception. Entry includes metal-detector and bag screening.",
+        "text": "No backpacks are permitted; the published bag rules do not list a medical exception. All bags are inspected on entry. The screening FAQ allows a magnetometer, visual inspection and/or bag inspection; it does not require every guest to pass through a metal detector. Confirm arrangements for medical equipment before arrival.",
         "source_url": "https://www.ludlowgaragecincinnati.com/faqs/",
         "id": "ludlow-garage.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13304,6 +13495,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Retain source screening alternatives instead of implying that metal-detector screening is mandatory for every guest; all bags remain subject to inspection. Partial venue review only."
           }
         ]
       },
@@ -13357,7 +13553,7 @@
     "address": "7950 Freedom Way, Florence, KY",
     "website": "https://florenceyalls.com/",
     "source_url": "https://florenceyalls.com/pages/yalls-a-z",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -13365,7 +13561,7 @@
         "source_url": "https://florenceyalls.com/pages/yalls-a-z",
         "id": "florence-yalls-thomas-more-stadium.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13374,6 +13570,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -13383,7 +13584,7 @@
         "source_url": "https://florenceyalls.com/pages/yalls-a-z",
         "id": "florence-yalls-thomas-more-stadium.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13392,16 +13593,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Medically necessary items are permitted subject to inspection. Ask stadium staff about the current bag-check procedure before arrival if needed.",
+        "text": "The fan guide permits medically necessary items and says all bags are subject to inspection. Ask stadium staff about the current bag-check procedure before arrival if needed.",
         "source_url": "https://florenceyalls.com/pages/yalls-a-z",
         "id": "florence-yalls-thomas-more-stadium.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13410,6 +13616,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Kept the inspection condition scoped to bags, as stated by the source, rather than all medical items."
           }
         ]
       },
@@ -13419,7 +13630,7 @@
         "source_url": "https://florenceyalls.com/pages/yalls-a-z",
         "id": "florence-yalls-thomas-more-stadium.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13428,16 +13639,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Outside food and drinks are prohibited, with no medical exception listed. First Aid is on the third-base concourse.",
+        "text": "The fan guide prohibits outside food and drinks and separately permits medically necessary items without explaining how medically needed food or drink is handled. Confirm that arrangement directly. First Aid is on the third-base concourse.",
         "source_url": "https://florenceyalls.com/pages/yalls-a-z",
         "id": "florence-yalls-thomas-more-stadium.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13446,6 +13662,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Made the interaction between the food prohibition and medical-items permission explicit; did not infer either an exemption or a refusal."
           }
         ]
       },
@@ -13455,7 +13676,7 @@
         "source_url": "https://florenceyalls.com/pages/yalls-a-z",
         "id": "florence-yalls-thomas-more-stadium.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -13464,22 +13685,86 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Games called for extreme heat can be exchanged for a future game. General parking is free in all lots except the VIP lot.",
+        "text": "If a game is rained out or deemed unsafe because of extreme heat, tickets may be exchanged for a future game; the guide says there are no refunds. General parking is free except in the VIP lot.",
         "source_url": "https://florenceyalls.com/pages/yalls-a-z",
         "id": "florence-yalls-thomas-more-stadium.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Restored the no-refund condition and made clear that tickets, not games, are exchanged."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The nursing room is in the First Aid Room on the third-base concourse. The guide does not describe room access, equipment or privacy arrangements.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Tickets can be bought at the Pella Ticket Window or by calling 859-594-4487. Will Call collection is at that window at the front of the stadium. Confirm accessible seating and any companion places when booking.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Umbrellas are permitted, but stadium staff may require them to be closed because of weather or safety concerns. An umbrella is not guaranteed shade throughout a visit.",
+        "source_url": "https://florenceyalls.com/pages/yalls-a-z",
+        "id": "florence-yalls-thomas-more-stadium.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -15201,19 +15486,19 @@
     "address": "1201 Park Drive, Covington, KY 41011",
     "website": "https://www.exploredevoupark.org/",
     "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/devou-park",
-    "limitations": "Public website information; no on-site audit. The city does not say what ADA Compliant covers at each shelter, or describe paved-trail grades, accessible parking or restroom accessibility. Confirm with Covington Parks & Recreation before your visit.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. The city does not define the Overlook’s ADA Compliant label; the park separately describes its covered shelters and NaturePlay as accessible. Paved-trail grades, designated parking connections, restroom access features and winter toilet availability remain unverified. Confirm with Covington Parks & Recreation before your visit.",
+    "checked_at": "2026-11-12",
     "slug": "devou-park",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "The city lists ADA Compliant among the features of the Overlook and Volpenhein shelters, without saying what it covers.",
+        "text": "The city lists “ADA Compliant” among the Overlook’s features without specifying the route, surfaces or facilities covered.",
         "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
         "id": "devou-park.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15222,16 +15507,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Narrowed the claim to the Overlook; the cited page does not establish Volpenhein’s separate feature list."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "For Overlook shelter users, the city says the nearest restrooms are at Volpenhein Pavilion, which lists restrooms among its features. Their accessibility is not stated.",
+        "text": "For Overlook users, the city identifies Volpenhein Pavilion as the nearest restroom location. It does not describe the restroom equipment or route.",
         "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
         "id": "devou-park.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15240,6 +15530,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Removed the separate Volpenhein feature-list assertion, which is not present on this cited page."
           }
         ]
       },
@@ -15249,7 +15544,7 @@
         "source_url": "https://www.exploredevoupark.org/trails",
         "id": "devou-park.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15258,16 +15553,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "The park, including the Overlook, is open daily from dawn until dark. For help reserving the Overlook, contact recreation@covingtonky.gov or (859) 292-2151.",
+        "text": "The city’s Overlook page says parks are open from dawn until dusk. For help reserving the Overlook, contact recreation@covingtonky.gov or (859) 292-2151.",
         "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
         "id": "devou-park.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15276,6 +15576,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Kept the opening-time wording at the source’s dawn-to-dusk scope, without adding a separate daily guarantee."
           }
         ]
       },
@@ -15285,7 +15590,7 @@
         "source_url": "https://www.exploredevoupark.org/welcome",
         "id": "devou-park.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15294,6 +15599,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15303,7 +15613,7 @@
         "source_url": "https://www.exploredevoupark.org/picnic-shelters",
         "id": "devou-park.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15312,16 +15622,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "At NaturePlay@BCM, all pathways and major play features are ADA accessible.",
+        "text": "The park’s NaturePlay@BCM page describes all pathways and major play features as ADA accessible. It does not give route measurements or equipment details.",
         "source_url": "https://www.exploredevoupark.org/natureplay",
         "id": "devou-park.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15330,6 +15645,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Attributed the published accessibility description rather than presenting it as an independent finding."
           }
         ]
       },
@@ -15339,13 +15659,126 @@
         "source_url": "https://www.exploredevoupark.org/parking",
         "id": "devou-park.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Reserving the Overlook does not include use of Drees Pavilion’s gazebo, restrooms or parking lot. The city directs Overlook users to Volpenhein Pavilion for the nearest restrooms.",
+        "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+        "id": "devou-park.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For natural-surface trails, the park’s winter freeze/thaw rule permits use only while the ground is frozen, usually early in the morning. This is a trail-protection rule, not confirmation that icy surfaces are safe for a particular visitor.",
+        "source_url": "https://www.exploredevoupark.org/trails",
+        "id": "devou-park.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park directs visitors to the Devou Park Trails Facebook page and Cincinnati Off-road Alliance site for natural-trail conditions. Red means closed to all users; yellow warns of slick patches. Check conditions before using a natural-surface trail.",
+        "source_url": "https://www.exploredevoupark.org/trails",
+        "id": "devou-park.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The parking page directs drivers via Montague Road to the Welcome Center, Behringer-Crawford Museum, Breaden Shelter and Stone Shelter lots. Parking is free; routes from individual spaces to facilities are not described.",
+        "source_url": "https://www.exploredevoupark.org/parking",
+        "id": "devou-park.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "NaturePlay@BCM is free and open daily from dawn until dusk. Its page directs visitors to free parking in the Behringer-Crawford Museum lot; it does not describe the full parking-to-play route.",
+        "source_url": "https://www.exploredevoupark.org/natureplay",
+        "id": "devou-park.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shelter page lists restrooms and drinking fountains at both Volpenhein Pavilion and Breaden Shelter. It does not state toilet-opening seasons, changing equipment or drinking-fountain reach.",
+        "source_url": "https://www.exploredevoupark.org/picnic-shelters",
+        "id": "devou-park.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -15788,18 +16221,18 @@
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
     "limitations": "Public website information; no on-site audit. The accessibility details come from a July 2020 Cincinnati Parks article; elevator status, accessible parking and drop-off, and whether the restrooms are accessible are not stated. Confirm with Cincinnati Parks before your visit.",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "slug": "smale-riverfront-park",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Cincinnati Parks says the park is served by several elevators and accessible routes to and along the river, and that the Anderson Pavilion and Carol Ann's Carousel are also accessible.",
+        "text": "In its July 26, 2020 article, Cincinnati Parks described several elevators and accessible routes to and along the river. It separately described Anderson Pavilion and Carol Ann’s Carousel as accessible. This historical description does not confirm current elevator operation.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
         "id": "smale-riverfront-park.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": "2020-07-26",
         "observed_at": null,
         "review_status": "source_checked",
@@ -15808,16 +16241,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Brought the source’s historical date into the note itself; current operation remains unverified."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Cincinnati Parks lists Smale Riverfront Park among the parks where new accessible playgrounds were built.",
+        "text": "Cincinnati Parks’ July 26, 2020 article lists Smale among the parks where accessible playgrounds had recently been built. It does not identify current play-equipment features or condition.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
         "id": "smale-riverfront-park.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": "2020-07-26",
         "observed_at": null,
         "review_status": "source_checked",
@@ -15826,6 +16264,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Explicitly dated the historical playground statement."
           }
         ]
       },
@@ -15835,7 +16278,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
         "id": "smale-riverfront-park.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15844,6 +16287,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15853,7 +16301,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
         "id": "smale-riverfront-park.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15862,6 +16310,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15871,13 +16324,54 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
         "id": "smale-riverfront-park.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The park page lists Pichler Fountain restrooms near Carol Ann’s Carousel, the Portland Loo, Roebling Bridge restrooms and Walnut Street restrooms, each with posted hours of 8 a.m.–9 p.m. It does not specify winter closures, adult-changing equipment or toilet access features; confirm availability for your visit.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+        "id": "smale-riverfront-park.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Main Street, Walnut Street, Pichler and Water Play spraygrounds are listed for 10 a.m.–9 p.m., May 1 through Labor Day. This seasonal schedule does not indicate November operation.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+        "id": "smale-riverfront-park.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -19271,6 +19765,60 @@
         "history": [
           {
             "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCARE says applicants waiting for processing are offered three consecutive days of rides as a one-time offer available to the public. Confirm the dates and booking arrangements; this does not establish continuing certification.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "BCARE’s rider guidelines require all mobility devices to be secured. The page does not describe who performs transfers or the securement procedure; discuss your equipment and assistance needs before travel.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "BCARE’s guidelines prohibit eating and drinking onboard and invite reasonable-modification requests. Contact Customer Service at 513-785-5237 to discuss a needed exception before travel; no exception is guaranteed by the page.",
+        "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+        "id": "butler-county-regional-transit-authority.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -28257,6 +28805,184 @@
         "text": "Cancel at least two hours before a booked ride to avoid a no-show. CTC says to call about an extreme situation so it can review the case individually; this Dial-A-Ride policy explicitly does not apply to its separate ADA paratransit service.",
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy",
         "id": "clermont-transportation-connection-dial-a-ride.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jungle Jim’s International Market — Eastgate",
+    "city": "Cincinnati (Eastgate)",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "4450 Eastgate South Drive, Cincinnati, OH 45245",
+    "website": "https://www.junglejims.com/",
+    "source_url": "https://www.junglejims.com/discover/plan-your-trip",
+    "limitations": "Public website information; no on-site audit. Equipment and service-animal information comes from the chain-wide FAQ; other location-specific descriptions here concern Eastgate. Confirm designated parking, the entrance and door controls, cart availability and fit, transfer or carrying assistance, rest points, restroom and changing facilities, and quiet spaces. Aisle and lighting descriptions are the operator’s, not measurements or a suitability judgment. Fairfield’s party-tray pickup and attractions must not be assumed at Eastgate.",
+    "checked_at": "2026-11-12",
+    "slug": "jungle-jims-eastgate",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Jungle Jim’s says motorized shopping carts and traditional wheelchairs are available at the main entrances of both stores, including Eastgate. It does not publish availability guarantees, fit limits or a reservation procedure.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-eastgate.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A Caroline Cart can be requested at Customer Service. The FAQ does not describe its collection route, fit limits or transfer assistance.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-eastgate.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Eastgate store is at 4450 Eastgate South Drive, Cincinnati, OH 45245, with free parking in the store lot. Designated-space locations and the parking-to-door route are not described.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip",
+        "id": "jungle-jims-eastgate.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The operator describes Eastgate as having wider aisles and brighter lighting, with themed displays including the Hot Sauce Drone and Candy Castle. These are the operator’s descriptions, not measured clearances or lighting levels.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip",
+        "id": "jungle-jims-eastgate.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ says regular in-store merchandise cannot currently be ordered online for pickup or delivery. Limited online offers are separate; party trays are for in-store pickup at Fairfield, not Eastgate.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-eastgate.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guided store tours require advance reservations, run Monday–Friday subject to availability, and have limited availability during holidays and December. For Eastgate tours, contact 513-674-6033 or tours-eg@junglejims.com.",
+        "source_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+        "id": "jungle-jims-eastgate.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Store Safari Tours last about an hour and involve substantial walking. The operator says tours can be tailored to special requirements for groups of eight or more; smaller groups can often be paired with others. Confirm rest opportunities and equipment needs when reserving.",
+        "source_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+        "id": "jungle-jims-eastgate.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The guided Store Safari Tour includes a guide using a microphone. The page does not describe assistive-listening equipment, captioning or a quiet-tour option.",
+        "source_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+        "id": "jungle-jims-eastgate.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The chain’s pet policy allows service animals and excludes pets.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+        "id": "jungle-jims-eastgate.chronic.3",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,

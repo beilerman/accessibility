@@ -1,0 +1,145 @@
+{
+  "devou-park": [
+    [
+      "chronic",
+      "Reserving the Overlook does not include use of Drees Pavilion’s gazebo, restrooms or parking lot. The city directs Overlook users to Volpenhein Pavilion for the nearest restrooms.",
+      "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/parks-playgrounds/shelters/overlook",
+      "public_agency",
+      [
+        "Reserving the Overlook does not grant parties access to Drees Pavilion facilities, including but not limited to, Drees Pavilion Gazebo, restrooms, or parking lot.",
+        "The nearest restroom facilities for Overlook users are at Volpenhein Pavilion."
+      ]
+    ],
+    [
+      "mobility",
+      "For natural-surface trails, the park’s winter freeze/thaw rule permits use only while the ground is frozen, usually early in the morning. This is a trail-protection rule, not confirmation that icy surfaces are safe for a particular visitor.",
+      "https://www.exploredevoupark.org/trails",
+      "venue_official",
+      "During winter months, the Freeze/Thaw - Blue Rule applies, which means only use the trails while they are frozen - which is usually in the early morning before the sun thaws the ground or temperatures rise above freezing."
+    ],
+    [
+      "cognitive",
+      "The park directs visitors to the Devou Park Trails Facebook page and Cincinnati Off-road Alliance site for natural-trail conditions. Red means closed to all users; yellow warns of slick patches. Check conditions before using a natural-surface trail.",
+      "https://www.exploredevoupark.org/trails",
+      "venue_official",
+      [
+        "The Devou Park Trails Facebook page and the Cincinnati Off-road Alliance website page lists trail conditions for Devou Park natural surface trails.",
+        "Yellow means the trails might be slick in a few places",
+        "Red means the trails are closed to all users - hikers, runners, and bikers."
+      ]
+    ],
+    [
+      "mobility",
+      "The parking page directs drivers via Montague Road to the Welcome Center, Behringer-Crawford Museum, Breaden Shelter and Stone Shelter lots. Parking is free; routes from individual spaces to facilities are not described.",
+      "https://www.exploredevoupark.org/parking",
+      "venue_official",
+      [
+        "Parking is free in any of our parking lots",
+        "Enter via Montague Road to access the lots at our Welcome Center, Behringer-Crawford Museum , Breaden Shelter and Stone Shelter ."
+      ]
+    ],
+    [
+      "cognitive",
+      "NaturePlay@BCM is free and open daily from dawn until dusk. Its page directs visitors to free parking in the Behringer-Crawford Museum lot; it does not describe the full parking-to-play route.",
+      "https://www.exploredevoupark.org/natureplay",
+      "venue_official",
+      [
+        "NaturePlay@BCM is open seven days a week, from dawn until dusk, and is free to use.",
+        "Parking is free and can be found in the Behringer-Crawford Museum parking lot."
+      ]
+    ],
+    [
+      "chronic",
+      "The shelter page lists restrooms and drinking fountains at both Volpenhein Pavilion and Breaden Shelter. It does not state toilet-opening seasons, changing equipment or drinking-fountain reach.",
+      "https://www.exploredevoupark.org/picnic-shelters",
+      "venue_official",
+      [
+        "Volpenhein Pavilion - Capacity: 80 - Offstreet Parking - Restrooms - Grill - Electricity outlet - Pet waste station - Bike rack - Drinking fountain",
+        "Breaden Shelter - Capacity: 80 - Restrooms - Grill - Electricity outlet - Bike rack - Drinking fountain"
+      ]
+    ]
+  ],
+  "florence-yalls-thomas-more-stadium": [
+    [
+      "chronic",
+      "The nursing room is in the First Aid Room on the third-base concourse. The guide does not describe room access, equipment or privacy arrangements.",
+      "https://florenceyalls.com/pages/yalls-a-z",
+      "venue_official",
+      [
+        "Nursing room is located in the First Aid Room.",
+        "First Aid is located on the 3rd base concourse."
+      ]
+    ],
+    [
+      "cognitive",
+      "Tickets can be bought at the Pella Ticket Window or by calling 859-594-4487. Will Call collection is at that window at the front of the stadium. Confirm accessible seating and any companion places when booking.",
+      "https://florenceyalls.com/pages/yalls-a-z",
+      "venue_official",
+      [
+        "Buy in person at the Pella Ticket Window",
+        "Buy by phone at (859) 594-4487",
+        "Will Call: Pick up tickets at the Pella Ticket Window at the front of the stadium."
+      ]
+    ],
+    [
+      "chronic",
+      "Umbrellas are permitted, but stadium staff may require them to be closed because of weather or safety concerns. An umbrella is not guaranteed shade throughout a visit.",
+      "https://florenceyalls.com/pages/yalls-a-z",
+      "venue_official",
+      "Can I bring an Umbrella? Yes, but the Y'alls reserve the right to close umbrella at any time based on safety and weather concerns"
+    ]
+  ],
+  "smale-riverfront-park": [
+    [
+      "chronic",
+      "The park page lists Pichler Fountain restrooms near Carol Ann’s Carousel, the Portland Loo, Roebling Bridge restrooms and Walnut Street restrooms, each with posted hours of 8 a.m.–9 p.m. It does not specify winter closures, adult-changing equipment or toilet access features; confirm availability for your visit.",
+      "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+      "public_agency",
+      [
+        "Smale Riverfront Park Pichler Fountain Restrooms near the Carol Ann’s Carousel: open 8 a.m. - 9 p.m.",
+        "Smale Riverfront Park Portland Loo: open 8 a.m. - 9 p.m.",
+        "Smale Riverfront Park Roebling Bridge Restrooms: open 8 a.m. - 9 p.m.",
+        "Smale Riverfront Park Walnut Street Restrooms: open 8 a.m. - 9 p.m."
+      ]
+    ],
+    [
+      "sensory",
+      "The Main Street, Walnut Street, Pichler and Water Play spraygrounds are listed for 10 a.m.–9 p.m., May 1 through Labor Day. This seasonal schedule does not indicate November operation.",
+      "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/smale-riverfront-park/",
+      "public_agency",
+      [
+        "Smale Riverfront Park Main Street - | open 10 a.m. - 9 p.m. | May 1 to Labor Day",
+        "Smale Riverfront Park Walnut Street | open 10 a.m. - 9 p.m. | May 1 to Labor Day",
+        "Smale Riverfront Park Pichler | open 10 a.m. - 9 p.m. | May 1 to Labor Day",
+        "Smale Riverfront Park Water Play | open 10 a.m. - 9 p.m. | May 1 to Labor Day"
+      ]
+    ]
+  ],
+  "butler-county-regional-transit-authority": [
+    [
+      "cognitive",
+      "BCARE says applicants waiting for processing are offered three consecutive days of rides as a one-time offer available to the public. Confirm the dates and booking arrangements; this does not establish continuing certification.",
+      "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+      "venue_official",
+      "During the application review process individuals will be offered 3 consecutive days of rides while they are waiting for the application to be processed. This is a one-time ride offer that is available to all of the public."
+    ],
+    [
+      "mobility",
+      "BCARE’s rider guidelines require all mobility devices to be secured. The page does not describe who performs transfers or the securement procedure; discuss your equipment and assistance needs before travel.",
+      "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+      "venue_official",
+      "All mobility devices must be secured."
+    ],
+    [
+      "chronic",
+      "BCARE’s guidelines prohibit eating and drinking onboard and invite reasonable-modification requests. Contact Customer Service at 513-785-5237 to discuss a needed exception before travel; no exception is guaranteed by the page.",
+      "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
+      "venue_official",
+      [
+        "Eating or drinking is not permitted on board any vehicles.",
+        "Reasonable modifications include changes, exceptions, or adjustments to our rules, policies, practices, and procedures",
+        "Reasonable Modification Requests can be made by contacting Customer Service at 513.785.5237"
+      ]
+    ]
+  ]
+}

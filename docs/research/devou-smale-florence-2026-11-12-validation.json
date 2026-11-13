@@ -1,0 +1,954 @@
+{
+  "date": "2026-11-12",
+  "base": "a845ccb9b19a809f0f4d646cc3d9343a2c451486",
+  "publicationState": "Prepared locally for runner validation and Git push; not committed, pushed or deployed by agent.",
+  "checks": {
+    "quotes": {
+      "command": "uv run --python 3.11 --with-requirements pipeline/requirements.txt python scripts/research/verify.py docs/research/devou-smale-florence-2026-11-12-final-evidence.json",
+      "passed": 64,
+      "failed": 0,
+      "separateAddressChecksPassed": 1
+    },
+    "sourceBaselines": {
+      "command": "uv run --python 3.11 --with-requirements pipeline/requirements.txt python pipeline/check_sources.py --only output/research-20261112-devou-final/rechecked-urls.txt",
+      "checked": 20,
+      "needAttention": 0,
+      "snapshot": "pipeline/source-checks/2026-11-12.json"
+    },
+    "unit": {
+      "command": "npm test",
+      "passed": 90,
+      "failed": 0
+    },
+    "python": {
+      "command": "uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py' -v",
+      "passed": 70,
+      "failed": 0,
+      "cache": "UV_CACHE_DIR=/private/tmp/threshold-uv-cache"
+    },
+    "lint": {
+      "command": "npm run lint",
+      "exitCode": 0
+    },
+    "types": {
+      "command": "npx tsc --noEmit",
+      "exitCode": 0,
+      "order": "After final build generated route types"
+    },
+    "productionBuild": {
+      "command": "npm run build",
+      "exitCode": 0,
+      "staticPages": 159,
+      "warning": "Atkinson Hyperlegible Next fallback-font override values unavailable; build succeeds."
+    },
+    "http": {
+      "baseURL": "http://localhost:3218",
+      "assertions": 205,
+      "passed": 205,
+      "coverage": "Final production-build HTTP HTML and asset responses only; no browser rendering, interaction or visual layout claim.",
+      "checks": [
+        {
+          "check": "/venues/bb-riverboats HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats venue name",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats limitations",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.mobility.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.mobility.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.mobility.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.mobility.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.mobility.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.mobility.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.cognitive.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.cognitive.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.cognitive.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.cognitive.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.cognitive.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.cognitive.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.4 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.chronic.4 source URL",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.sensory.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "bb-riverboats.sensory.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "/venues/francis-recreacres HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres venue name",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres limitations",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.mobility.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.mobility.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.mobility.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.mobility.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.chronic.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.chronic.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.sensory.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.sensory.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.chronic.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.chronic.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.4 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "francis-recreacres.cognitive.4 source URL",
+          "passed": true
+        },
+        {
+          "check": "/venues/florence-yalls-thomas-more-stadium HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium venue name",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium limitations",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.mobility.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.mobility.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.mobility.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.mobility.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.cognitive.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.cognitive.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.4 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.4 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.5 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.5 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.cognitive.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.cognitive.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.6 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "florence-yalls-thomas-more-stadium.chronic.6 source URL",
+          "passed": true
+        },
+        {
+          "check": "/venues/devou-park HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "devou-park venue name",
+          "passed": true
+        },
+        {
+          "check": "devou-park limitations",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.4 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.4 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.5 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.5 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.6 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.mobility.6 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.4 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.cognitive.4 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.4 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "devou-park.chronic.4 source URL",
+          "passed": true
+        },
+        {
+          "check": "/venues/smale-riverfront-park HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park venue name",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park limitations",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.mobility.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.mobility.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.mobility.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.mobility.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.chronic.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.chronic.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.cognitive.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.cognitive.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.cognitive.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.cognitive.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.chronic.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.chronic.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.sensory.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "smale-riverfront-park.sensory.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "/venues/butler-county-regional-transit-authority HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority venue name",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority limitations",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority.cognitive.6 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority.cognitive.6 source URL",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority.mobility.7 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority.mobility.7 source URL",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority.chronic.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "butler-county-regional-transit-authority.chronic.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "/venues/jungle-jims-eastgate HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate venue name",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate limitations",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.mobility.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.mobility.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.mobility.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.mobility.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.mobility.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.mobility.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.sensory.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.sensory.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.chronic.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.chronic.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.cognitive.1 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.cognitive.1 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.chronic.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.chronic.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.sensory.2 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.sensory.2 source URL",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.chronic.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "jungle-jims-eastgate.chronic.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "/venues/ludlow-garage HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage venue name",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage limitations",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.3 exact rendered note",
+          "passed": true
+        },
+        {
+          "check": "ludlow-garage.cognitive.3 source URL",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 title",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 alt",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 author",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 license",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 limitations",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 source link",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 capture date",
+          "passed": true
+        },
+        {
+          "check": "/images/access/devou-welcome-center-door-curb-2023.webp HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "devou-welcome-center-door-curb-2023 asset hash",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 title",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 alt",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 author",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 license",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 limitations",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 source link",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 capture date",
+          "passed": true
+        },
+        {
+          "check": "/images/access/devou-overlook-paving-steps-2024.webp HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "devou-overlook-paving-steps-2024 asset hash",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 title",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 alt",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 author",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 license",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 limitations",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 source link",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 capture date",
+          "passed": true
+        },
+        {
+          "check": "/images/access/devou-concert-bowl-sloping-lawn-2023.webp HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "devou-concert-bowl-sloping-lawn-2023 asset hash",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 title",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 alt",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 author",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 license",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 limitations",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 source link",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 capture date",
+          "passed": true
+        },
+        {
+          "check": "/images/access/devou-stone-bench-ground-2023.webp HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "devou-stone-bench-ground-2023 asset hash",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 title",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 alt",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 author",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 license",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 limitations",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 source link",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 capture date",
+          "passed": true
+        },
+        {
+          "check": "/images/access/smale-fountain-railed-approach-2012.webp HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "smale-fountain-railed-approach-2012 asset hash",
+          "passed": true
+        },
+        {
+          "check": "/venues?category=Shopping&region=OH HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "Eastgate shopping filter discovery",
+          "passed": true
+        },
+        {
+          "check": "/sitemap.xml HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "Eastgate sitemap",
+          "passed": true
+        },
+        {
+          "check": "/ HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/updates HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/sources HTTP 200",
+          "passed": true
+        },
+        {
+          "check": "/access-in-pictures HTTP 200",
+          "passed": true
+        }
+      ]
+    },
+    "browser": {
+      "command": "npx playwright test --grep 'jungle-jims-eastgate' --workers=1",
+      "status": "blocked_before_navigation",
+      "cause": "Chromium Mach-port permission denied (1100)",
+      "testsAttempted": 1,
+      "testsPassed": 0,
+      "suiteTestsListed": 130,
+      "cua": "Browser host unavailable; no browser surfaces available.",
+      "requiredNext": "Runner-host browser suite including the new Eastgate route; no local visual-page or interaction pass claimed."
+    }
+  },
+  "preservation": {
+    "base": "a845ccb9b19a809f0f4d646cc3d9343a2c451486",
+    "changedExistingVenues": [
+      "bb-riverboats",
+      "francis-recreacres",
+      "ludlow-garage",
+      "florence-yalls-thomas-more-stadium",
+      "devou-park",
+      "smale-riverfront-park",
+      "butler-county-regional-transit-authority"
+    ],
+    "addedVenues": [
+      "jungle-jims-eastgate"
+    ],
+    "addedNotes": 30,
+    "reviewedOldNotes": 34,
+    "oldTextRevisions": 11,
+    "backfilledOldNotes": 28,
+    "fullRechecks": {
+      "florence-yalls-thomas-more-stadium": 7,
+      "smale-riverfront-park": 5,
+      "bb-riverboats": 8,
+      "devou-park": 8,
+      "francis-recreacres": 5
+    },
+    "partialRechecks": {
+      "ludlow-garage": 1
+    },
+    "depthOnly": [
+      "butler-county-regional-transit-authority"
+    ],
+    "preserved": "Original place/fact order, IDs, history prefixes, source URLs/types, published/observed dates, prior quote text and URLs (six BB records re-dated and one supplemented), retired note, existing photos/guides and unselected source baselines preserved.",
+    "totals": {
+      "places": 144,
+      "activeNotes": 1317,
+      "retiredNotes": 1,
+      "quotedActiveNotes": 1010,
+      "missingPassages": 307,
+      "photos": 52,
+      "guideEntries": 22,
+      "distinctGuideDocuments": 18,
+      "categories": {
+        "Museums & attractions": 21,
+        "Arts & performances": 32,
+        "Parks & outdoors": 31,
+        "Libraries": 15,
+        "Transportation": 7,
+        "Food & drink": 15,
+        "Shopping": 11,
+        "Public services": 5,
+        "Recreation & fitness": 7
+      }
+    }
+  },
+  "resolvedValidationIssues": [
+    "Replaced a case-sensitive old wording assertion with source and bag-inspection scope checks.",
+    "Scratch provenance import used numeric object ordering; corrected to exact Commons titles and verified all five original hashes via their correct URLs.",
+    "Corrected scratch preservation parser to use snapshot.sources; unselected entries preserved.",
+    "Corrected scratch HTTP route from nonexistent /plan to observed /access-in-pictures.",
+    "Ludlow quoted bag-size passage initially mismatched whitespace before punctuation after inline-HTML extraction; corrected to source wording and fresh verification passed before save."
+  ],
+  "prohibitedActionsPerformed": [],
+  "finalReview": {
+    "diffCheck": "passed",
+    "conflictMarkers": "none",
+    "photoCandidatesInspected": 42,
+    "pdfPagesInspected": 21,
+    "ludlowScope": "Only cognitive.3 corrected/backfilled; seven other notes and whole checked_at unchanged.",
+    "catalogEvidenceConsistency": "All 64 final claims exactly match saved note text/source and freshly verified passages; all five public photo metadata records and output hashes match inspected provenance receipts.",
+    "productionServer": "Stopped after final HTTP checks."
+  }
+}

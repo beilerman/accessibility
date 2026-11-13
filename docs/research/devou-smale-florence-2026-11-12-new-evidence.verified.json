@@ -1,0 +1,104 @@
+[
+ {
+  "slug": "jungle-jims-eastgate",
+  "address_url": "https://www.junglejims.com/discover/plan-your-trip",
+  "address_quote": "4450 Eastgate South Drive Cincinnati, OH 45245",
+  "facts": [
+   {
+    "domain": "mobility",
+    "text": "Jungle Jim’s says motorized shopping carts and traditional wheelchairs are available at the main entrances of both stores, including Eastgate. It does not publish availability guarantees, fit limits or a reservation procedure.",
+    "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+    "quote": "Motorized shopping carts and traditional wheelchairs are available at the main entrances at both locations.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2"
+   },
+   {
+    "domain": "mobility",
+    "text": "A Caroline Cart can be requested at Customer Service. The FAQ does not describe its collection route, fit limits or transfer assistance.",
+    "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+    "quote": "A Caroline Cart is available by special request at Customer Service.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2"
+   },
+   {
+    "domain": "mobility",
+    "text": "The Eastgate store is at 4450 Eastgate South Drive, Cincinnati, OH 45245, with free parking in the store lot. Designated-space locations and the parking-to-door route are not described.",
+    "url": "https://www.junglejims.com/discover/plan-your-trip",
+    "quote": "4450 Eastgate South Drive Cincinnati, OH 45245 513-674-6000 Free parking in store lot",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765"
+   },
+   {
+    "domain": "sensory",
+    "text": "The operator describes Eastgate as having wider aisles and brighter lighting than its original store, with themed displays including the Hot Sauce Drone and Candy Castle. These are the operator’s descriptions, not measured clearances or lighting levels.",
+    "url": "https://www.junglejims.com/discover/plan-your-trip",
+    "quote": "Established in 2012, our Eastgate location enjoys wider aisles, brighter lighting, and an easier to shop layout. It's bursting with fun displays like the high-flying Hot Sauce Drone and killer departments like the Candy Castle and one of Ohio's largest liquor stores.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765"
+   },
+   {
+    "domain": "chronic",
+    "text": "The FAQ says regular in-store merchandise cannot currently be ordered online for pickup or delivery. Limited online offers are separate; party trays are for in-store pickup at Fairfield, not Eastgate.",
+    "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+    "quote": [
+     "We are not offering online ordering, pick up, or delivery for our regular in-store merchandise at this time.",
+     "We currently have limited online ordering for event tickets, party trays, Cooking School certificates, and gift cards.",
+     "Party trays are only available for in-store pickup at the Fairfield location."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Guided store tours require advance reservations, run Monday–Friday subject to availability, and have limited availability during holidays and December. For Eastgate tours, contact 513-674-6033 or tours-eg@junglejims.com.",
+    "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+    "quote": [
+     "Advance reservations required for all tours.",
+     "Tours are available Monday-Friday only.",
+     "Limited tour availability during holidays and the month of December.",
+     "Tour dates and times are subject to availability.",
+     "Eastgate Reservations tours-eg@junglejims.com 513-674-6033"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9"
+   },
+   {
+    "domain": "chronic",
+    "text": "Store Safari Tours last about an hour and involve substantial walking. The operator says tours can be tailored to special requirements for groups of eight or more; smaller groups can often be paired with others. Confirm rest opportunities and equipment needs when reserving.",
+    "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+    "quote": [
+     "Tours can be tailored to meet special requirements, interests, and to fit groups of 8 or more (smaller groups can often be paired with others).",
+     "Comfortable shoes are suggested, as a good deal of walking is involved.",
+     "Store Tours last approximately one hour"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9"
+   },
+   {
+    "domain": "sensory",
+    "text": "The guided Store Safari Tour includes a guide using a microphone. The page does not describe assistive-listening equipment, captioning or a quiet-tour option.",
+    "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
+    "quote": "Tour Guide w/ microphone.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9"
+   },
+   {
+    "domain": "chronic",
+    "text": "The chain’s pet policy allows service animals and excludes pets.",
+    "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
+    "quote": "No pets – service animals only.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2"
+   }
+  ]
+ }
+]

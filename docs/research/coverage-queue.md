@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after NKY/TQL backfill, Clermont transport and deep access-photo research.
+Updated November 12, 2026, after park/stadium backfill, Eastgate groceries, BB Riverboats and deep access-photo research.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,8 +9,9 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now 335 notes after three further
-full reviews (27 old notes newly backfilled; six wording corrections). Start with transit
+remaining legacy missing-passage backlog is now 307 notes after five further
+full reviews and one partial review (28 old notes newly backfilled; eleven wording
+corrections/clarifications). Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -18,9 +19,9 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 143 places. Its categories contain 32 arts venues,
+The prepared catalog has 144 places. Its categories contain 32 arts venues,
 31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
-entries, fifteen food/drink venues, ten shopping destinations, five public-service
+entries, fifteen food/drink venues, eleven shopping destinations, five public-service
 listings and seven recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
@@ -48,7 +49,67 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest prepared batch — November 12 NKY arrival, stadium and Clermont transport
+## Latest prepared batch — November 12 parks/stadiums, Eastgate and BB Riverboats
+
+See [research report](devou-smale-florence-2026-11-12.md),
+[media receipt](devou-smale-florence-2026-11-12-media.json) and
+[validation receipt](devou-smale-florence-2026-11-12-validation.json).
+
+**Backfill/freshness:** Devou 8, Florence Y’alls 7, Smale 5, Francis RecreAcres 5,
+then BB Riverboats 8 after the first useful batch was reviewed. Five full reviews,
+33 old notes: 23 unchanged, ten revised. One additional Ludlow Garage screening
+note was corrected/backfilled in a partial review, keeping its whole date November 9.
+Total: 34 old notes, eleven revised, 28 missing passages repaired. Backlog
+**335 → 307**. BB's boarding note also gained missing secondary-clause support.
+The weekly minimum was already met. BCRTA is depth only (whole date unchanged);
+Molly’s four notes remain blocked/unquoted, not counted as fresh review.
+
+**Growth:** 30 new notes, including nine at new **Jungle Jim’s Eastgate** (Shopping),
+plus Devou 6, Florence 3, Smale 2, Francis 4, BCRTA 3 and BB 3. Practical additions
+cover shelter toilet locations, reservation exclusions, winter trail rules, nursing,
+Will Call, sprayground seasons, sensory/shade descriptions, securement and booking
+conditions. Eastgate equipment/tour information does not transfer Fairfield-only
+pickup or attractions to the new listing.
+
+**Photos:** five licensed full-frame additions — Devou doors/curb, overlook steps
+and paving, sloping concert bowl, stone bench/rough ground; Smale railed fountain
+approach/stairs (2012). All selected originals/outputs inspected and hashes matched.
+Official Devou trail gallery and two shelter photo archives followed beyond a
+building exterior, but held for missing reuse terms. Five further City Hall
+views inspected and held as decorative or redundant partial views. Total photo
+candidates inspected: 42; PDF pages: 21. No AI; no new linked guide.
+See media receipt for exact candidate counts and held official/Commons views.
+
+**Totals:** 144 places; 1,317 active notes; 1,010 quoted active; 307 missing passages;
+52 licensed photos; 22 guide entries/18 documents. 64 final note checks plus address,
+20 baselines, 90 unit/70 pipeline, types, lint, build and 205 HTTP assertions pass.
+Browser test attempted but blocked before navigation; 130 listed is not a pass.
+Runner-host browser validation remains required.
+
+**Next concrete batch:** fully review **Ludlow Garage** (seven remaining missing passages)
+and **Miami Whitewater Forest** (eight), prioritizing arrival/elevator/toilet,
+seasonal access and assistance limits. Recover **Molly Malone’s Covington** only
+when a fresh source can be read; all three pages returned 403 this cycle. Continue
+**Tousey House** first-floor entrance/toilet and **Proudworks** booking/eligibility/
+vehicle assistance. Historical BAWAC 2025 directory text is not a current procedure.
+
+**Photo targets:** Eastgate main entrances/Customer Service/cart collection and
+toilets; Devou Volpenhein/Breaden parking approaches, toilets and NaturePlay routes;
+Florence first-base accessible parking to entrance/seats and family toilets;
+current Smale elevators; BB current boarding gangway, elevator and toilets.
+Earlier Dinsmore rear-ramp, NKYCC Madison ramp/buttons, TQL companion-seat/family
+restroom and Target Newport cart/entrance leads remain open.
+
+**New holds:** Eastgate map fetches 200 but has blank text and conflicting version
+clues; no verified map-derived claims. Francis map is schematic and its bus-stop
+legend does not establish transit service. Florence Commons photo has July/August
+capture conflict and prominent people. NaturePlay ZIP returned a scan warning,
+not inspected photos. BB brochure has private-event terms/illustrations rather
+than a useful access walkthrough; “cash bar” does not necessarily mean cash tender.
+MRBL's current reservation source is blocked; no new listing from historical
+entrance descriptions. All preceding unresolved holds remain open.
+
+## Earlier prepared batch — November 12 NKY arrival, stadium and Clermont transport
 
 See [research report](nky-arrival-stadium-2026-11-12.md), including evidence,
 media and validation receipts. **Backfill:** Dinsmore 7, NKYCC 6, TQL 14 — three
