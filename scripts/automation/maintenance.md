@@ -54,6 +54,11 @@ connections, lifts, toilets, changing facilities, seating and quiet spaces. Visu
 inspect both helpful features and barriers. Photos remain useful with clear capture
 dates and narrow descriptions of what they show.
 
+Brad renewed the deep-photo priority on November 12. Give photo research substantial
+time in each cycle: inspect several candidate views, follow Commons categories and
+photographer albums, search official social narratives/visual guides, and record
+specific useful views and remaining gaps. Do not stop at a decorative exterior.
+
 Resume all unfinished edits already in this automation workspace. Resolve any conflict
 markers while preserving newer public work and supported pending evidence. The runner
 records recovery patches and stages resolutions after your review. Diagnose and fix
@@ -63,11 +68,20 @@ growth. Record new public information, new venue coverage and freshness work sep
 in the run report so progress is clear.
 
 For photos, search reusable sources such as Wikimedia Commons and official visual
-guides. Download a photograph only when its licence permits reuse. Visually inspect
+guides. Republish a photograph only when its licence permits reuse. Visually inspect
 every candidate to confirm the location and the feature actually visible. Retain the
 full frame, truthful alt text, source, author, licence, photo date if known, check date,
 and specific limits. Publish licensed photographs through src/data/access-photos.json
-and public/images/access/. Do not alter ground-level features or generate access imagery.
+and public/images/access/. Keep documentary photographs unaltered apart from faithful
+full-frame resizing/format conversion. Brad permits AI recreations of copyrighted
+reference photos for illustration. Such work must be clearly labeled AI-generated,
+retain its reference link/date and known differences, and remain separate from the
+licensed access-photo evidence collection. Use the existing AI venue/context or
+generic illustration conventions. An AI recreation cannot verify a doorway, ramp,
+toilet, dimension, continuous route or current condition; never fabricate, repair or
+remove a barrier to make a venue seem accessible. Prefer useful real photos and
+original linked walkthroughs when available. Do not imply that changing a photo with
+AI establishes permission, a licence or factual accuracy.
 For official photo guides whose images have no reuse licence, inspect the guide and
 add its original link through src/data/access-guides.json, with page count, size,
 known version/date and an accurate description. Verify links with a fresh fetch.

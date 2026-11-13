@@ -901,3 +901,17 @@ licence. Continue looking for Northern Kentucky examples.
 
 Each run updates this queue and the handoff with completed work, held leads and
 the next concrete batch. The queue can change as stronger sources are found.
+
+### November 12 deep-photo pass and next views
+
+Three licensed March 2023 Dinsmore photos now show steps, a partial railed approach
+and gravel/grass/roots. See [report](deep-access-photos-2026-11-12.md). Seek current
+rear-ramp landing/door, office alternative entrance, parking connection and toilet
+photos; these three do not establish the whole route. Inspect CVG's official
+step-by-step web directions and TANK's 2024 FAQ vehicle photograph for useful
+original links; neither was imported in this pass. NKYCC's gallery fetched as a
+shell: find actual Madison Avenue ramp/push buttons/elevator images.
+
+Brad allows AI recreations of copyrighted references for clearly labeled
+illustration. DECISIONS §13 governs separation from real access evidence. Record
+references and known differences; never infer route facts or erase a barrier.

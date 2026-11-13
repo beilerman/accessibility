@@ -91,3 +91,18 @@ The monitor checks every retained passage and does not classify edited note text
 as supported by an older binding. Legacy evidence remains readable while it is
 backfilled. Editors must still judge entailment, location, date and conditions;
 neither the text binding nor an exact match establishes truth in the field.
+
+## 13. Keep AI recreations distinct from documentary access photos
+
+November 12: Brad expressly permits AI recreations based on copyrighted reference
+photographs for illustration. This authorizes illustration work without another
+preference check; it does not turn a generated image into evidence of the actual
+venue. Keep its AI label, reference link/date, observed differences and limitations.
+Use the separate AI venue-context or generic illustration collections; do not put
+generated images in `access-photos.json` or describe them as licensed photographs.
+Do not infer routes, dimensions, equipment or current conditions from a recreation.
+Never invent an access feature or remove a visible barrier to improve the apparent
+accessibility of a place. Continue searching for real, reusable photos and linking
+original official guides with photographs that cannot be republished. This updates
+the older blanket instruction against generating access-related imagery while
+retaining the distinction between illustrations and source evidence.
