@@ -1,0 +1,481 @@
+[
+ {
+  "slug": "sharon-woods",
+  "facts": [
+   {
+    "id": "sharon-woods.mobility.1",
+    "text": "Great Parks lists an accessible playground and a Zero G-Chair swing.",
+    "url": "https://www.greatparks.org/about/accessibility",
+    "quote": [
+     "Universally accessible playgrounds are located at: Francis RecreAcres Sharon Woods Winton Woods - Harper Meadows",
+     "Visitors can now use a Zero G-Chair Swing at Winton Woods, Sharon Woods, Lake Isabella, Woodland Mound, Miami Whitewater Forest, Shawnee Lookout and Embshoff Woods."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34"
+   },
+   {
+    "id": "sharon-woods.cognitive.2",
+    "text": "Great Parks says Sharon Lake is being lowered from October 27 for harbor work and will stay lowered until spring 2027. Boat access is restricted while the water is down, and the harbor snack bar is closed during the project.",
+    "url": "https://www.greatparks.org/parks/sharon-woods",
+    "quote": [
+     "Contractors will start lowering Sharon Lake on Tuesday, October 27. The lake will remain lowered until Spring 2027.",
+     "Boat access to the lake will be restricted while the water is down.",
+     "The Snack Bar at Sharon Woods Harbor will be closed during the Harbor Revitalization project ."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1a9800e0cb50be2c28274e1d4567a698f45a7849fe2e209bce1098ac90af2fdb"
+   },
+   {
+    "id": "sharon-woods.mobility.3",
+    "text": "The 0.6-mile Island Grove Trail is rated easy but labeled Not Accessible.",
+    "url": "https://www.greatparks.org/parks/sharon-woods/island-grove-trail",
+    "quote": [
+     "0.6 Miles Easy Shared-Use Trail Not Accessible"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "100b28242821b7d5a8356f414535407d9dbd015c6d9db32563dab8f7eb537b5e"
+   },
+   {
+    "id": "sharon-woods.mobility.4",
+    "text": "The 0.7-mile Lone Oak Trail is rated easy but labeled Not Accessible.",
+    "url": "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail",
+    "quote": [
+     "0.7 Miles Easy Shared-Use Trail Not Accessible"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e03735ea709774e7a11cc7db10afd1dd5fc7268f993aa65a96b85bb2b103f8ee"
+   },
+   {
+    "id": "sharon-woods.mobility.5",
+    "text": "The 1.3-mile Buckeye Falls Trail is rated easy/moderate and labeled Not Accessible.",
+    "url": "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail",
+    "quote": [
+     "1.3 Mile Easy/Moderate Shared-Use Trail Not Accessible"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0f4325dd14617db0f197d1f61df6a37d809bc8869b7be22b5d1574c5bb4216b9"
+   },
+   {
+    "id": "sharon-woods.cognitive.1",
+    "text": "Great Parks says it will make every effort to provide reasonable accommodations for special events and educational programs with two weeks' advance notice. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+    "url": "https://www.greatparks.org/about/accessibility",
+    "quote": [
+     "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs .",
+     "People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34"
+   },
+   {
+    "id": "sharon-woods.chronic.1",
+    "text": "Great Parks lists the harbor parking, restrooms, boathouse and playground as closed from October 2026 through completion of the harbor project.",
+    "url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+    "quote": [
+     "The following are closed from October 2026 through the project's completion: Harbor area (parking, restrooms, boathouse and playground)"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dd89dfc71248279073edc4ccb13fe4e51f3d87313c8f2c32a10cb0a93fb37ecd"
+   },
+   {
+    "id": "sharon-woods.cognitive.3",
+    "text": "The park phone is 513-563-4513.",
+    "url": "https://www.greatparks.org/parks/sharon-woods",
+    "quote": [
+     "Phone: 513-563-4513"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1a9800e0cb50be2c28274e1d4567a698f45a7849fe2e209bce1098ac90af2fdb"
+   },
+   {
+    "domain": "mobility",
+    "text": "During harbor construction, Great Parks directs visitors to the U.S. 42/Lebanon Road entrance, which remains open and connects to Buckeye Falls Drive.",
+    "url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+    "quote": "The Sharon Woods entrance from U.S. 42/Lebanon Road will remain open, and guests can use this entrance to connect to Buckeye Falls Drive, which leads all the way to Sharon Woods Golf Course.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dd89dfc71248279073edc4ccb13fe4e51f3d87313c8f2c32a10cb0a93fb37ecd"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The project page gives conflicting dates for the East Kemper Road entrance: its closure list says October 2026–May 2027, but its FAQ says until the harbor reopens. Confirm the entrance before travel; the harbor reopening is tentatively spring 2028.",
+    "url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+    "quote": [
+     "Entry drive from Kemper Road (Highbanks): October 2026-May 2027",
+     "Construction work will require Great Parks to close the Sharon Woods entrance from East Kemper Road until the harbor reopens.",
+     "Spring 2028 Harbor area reopens Timeline is an estimate based on the current project status and is subject to change."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dd89dfc71248279073edc4ccb13fe4e51f3d87313c8f2c32a10cb0a93fb37ecd"
+   },
+   {
+    "domain": "mobility",
+    "text": "The harbor project closes about 0.3 miles of Sharon Lake Trail from October 2026 through project completion, and about 0.1 miles of Buckeye Falls Trail near the harbor until the project finishes.",
+    "url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+    "quote": [
+     "Because the Sharon Lake Trail passes through the harbor, reconstruction of the harbor requires Great Parks to close a small section of the trail (approximately 0.3 miles) from October 2026 through the project's completion.",
+     "A short section of Buckeye Falls Trail (approximately 0.1 miles) near the harbor will also be closed until the project is finished."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dd89dfc71248279073edc4ccb13fe4e51f3d87313c8f2c32a10cb0a93fb37ecd"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The harbor-project FAQ says boating is not permitted until summer 2027, when the temporary boathouse at Lakeside Lodge on the east side of Sharon Lake is due to reopen. This is a planned reopening, not confirmation that boats are available now.",
+    "url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+    "quote": [
+     "Boating will not be permitted until summer 2027. Great Parks will reopen the temporary boathouse at Sharon Woods' Lakeside Lodge on the east side of Sharon Lake in summer 2027."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "dd89dfc71248279073edc4ccb13fe4e51f3d87313c8f2c32a10cb0a93fb37ecd"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Great Parks requires a valid Motor Vehicle Permit for vehicle entry to its parks and conservation areas; its stated exceptions are Otto Armleder Memorial Park and Fernbank Park.",
+    "url": "https://www.greatparks.org/about/policies/entrance-to-parks-and-facilities",
+    "quote": [
+     "A valid Motor Vehicle Permit (MVP) is required for vehicle entry at Great Parks’ parks and conservation areas across Hamilton County.",
+     "Otto Armleder Memorial Park and Fernbank Park are co-managed by Great Parks, the Cincinnati Park Board, and the Cincinnati Recreation Commission and do not require a Motor Vehicle Permit."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "2bb990e5bd3a39b2246e0c793b5e8beb8789ea2f86aa7ada21bef2dbebed45f3"
+   },
+   {
+    "domain": "chronic",
+    "text": "Sharon Center lists restrooms and parking. Its posted September 8–December 31, 2026 hours are daily 10 a.m.–5 p.m., with closures for Thanksgiving, Christmas Eve, Christmas, New Year’s Eve and New Year’s Day. Restroom layout and changing equipment are not described.",
+    "url": "https://www.greatparks.org/parks/sharon-woods/sharon-center",
+    "quote": [
+     "Amenities Parking Playground Restrooms",
+     "2026 Hours",
+     "Sept. 8-Dec. 31 Daily 10 a.m.–5 p.m.",
+     "Closed Thanksgiving, Christmas Eve, Christmas, New Year's Eve & New Year's Day"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6410dedcf7a4e74c2f0d03c9efae60dca4935ea9e71531e872ba77d81fb0fbf3"
+   }
+  ]
+ },
+ {
+  "slug": "fountain-square",
+  "facts": [
+   {
+    "id": "fountain-square.mobility.1",
+    "text": "The garage under the square has elevators on the Plaza level and Level 1, with pay stations beside them.",
+    "url": "https://myfountainsquare.com/parking/",
+    "quote": [
+     "The Fountain Square North Garage, located directly beneath the Square, features 600 spaces spread across four underground levels.",
+     "Pay stations are located next to the elevators on the Plaza level and Level 1 of the Garage."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3479b9e25b53b96e19403e50a207b890d667ab93a658ec199cb745b3c50b69cd"
+   },
+   {
+    "id": "fountain-square.chronic.1",
+    "text": "Public restrooms are on the west ramp leading up from Vine Street toward the garage entrance, open 6 a.m. to 11 p.m. but closing at 4 p.m. when no evening event is scheduled. Their accessibility is not stated. Movable umbrellas provide shade on the plaza.",
+    "url": "https://myfountainsquare.com/amenities/",
+    "quote": [
+     "Public restrooms are located on the west ramp leading up from Vine Street toward the parking garage portal.",
+     "They are open to the public from 6am to 11pm every day. In the instance that no evening event is programmed on the Square, restrooms will close at 4pm.",
+     "28 umbrellas – compliments of Strauss Troy – keep the plaza cool and comfortable when the sun is overhead. The umbrellas are mobile so you can put them right where you want them!"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "f765e483a4ae5c9e5248439703cf42e9466b1eb0bf252e18229c0baf5b0bf500"
+   },
+   {
+    "id": "fountain-square.cognitive.1",
+    "text": "The square is closed from 3 a.m. to 6 a.m. except for reaching the garage or nearby buildings. Downtown Ambassadors answer questions and give directions at (513) 623-3429.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": [
+     "Fountain Square is closed from 3:00 AM to 6:00 AM except for the purpose of entering and exiting the garage or adjacent buildings.",
+     "Call the Ambassador Hotline at (513) 623-3429 if you have questions or concerns, need directions or a map to a Downtown destination."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450"
+   },
+   {
+    "id": "fountain-square.chronic.3",
+    "text": "Restroom attendants are on duty during larger events; if the restrooms are closed during posted hours, Ambassadors can explain why or open them when possible.",
+    "url": "https://myfountainsquare.com/amenities/",
+    "quote": [
+     "Restroom Attendants are also on duty inside the bathrooms during larger events.",
+     "Should one find the restroom closed during the hours it should be open, available Ambassadors would be happy to explain why, or open it up when possible."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "f765e483a4ae5c9e5248439703cf42e9466b1eb0bf252e18229c0baf5b0bf500"
+   },
+   {
+    "id": "fountain-square.chronic.2",
+    "text": "For medically necessary equipment charging, ask at the Fountain Square concession stand. The rules say outlets may be available in some circumstances, primarily during events, and staff will try to accommodate requests; a power source is not guaranteed.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": [
+     "In certain circumstances, primarily when events are actively taking place, the electrical outlets in certain locations in Fountain Square can be made available to park patrons for medically necessary devices.",
+     "If you must charge your medically necessary equipment, 3CDC staff members will work to accommodate you to the best of our ability during your visit to Fountain Square.",
+     "To access a power source for your medically necessary equipment, visit the Fountain Square Concession Stand and ask as staff member for proper accommodations."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450"
+   },
+   {
+    "id": "fountain-square.chronic.4",
+    "text": "If no event is taking place or the concession stand is closed, seek a 3CDC operations staff member about charging medically necessary equipment. Staff will try to accommodate the request.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": [
+     "Note that if no events are taking place during your visit and/or the Fountain Square Concession Stand is closed, you should seek out a 3CDC operations staff member, and staff will try to accommodate your request."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450"
+   },
+   {
+    "id": "fountain-square.chronic.5",
+    "text": "Winterhaus permits outside food and non-alcoholic drinks if at least one person in the group buys an item there. Its rules request a 30-minute seated limit for individuals who do not buy anything, and a one-hour seat limit for all guests.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": [
+     "Patrons are welcome to bring outside food and non-alcoholic beverages, but at least one member of any group utilizing the space must purchase at least one item from Winterhaus.",
+     "Individuals who do not purchase an item from the Winterhaus are respectfully asked to limit their time in seated spaces to no more than 30 minutes to accommodate other patrons.",
+     "To ensure this space is accessible and enjoyable for all intended guests, please limit use of seats provided to 1-hour."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450"
+   },
+   {
+    "domain": "mobility",
+    "text": "Fountain Square North Garage vehicle ramps enter from northbound Vine Street between Fifth and Sixth Streets and southbound Walnut Street between Sixth and Fifth. This is the garage beneath the square; Fountain Square South is a different garage.",
+    "url": "https://myfountainsquare.com/parking/",
+    "quote": [
+     "The Fountain Square North Garage, located directly beneath the Square, features 600 spaces spread across four underground levels.",
+     "the garage's two entrance/exit ramps are located on northbound Vine Street between Fifth & Sixth Streets, and on southbound Walnut Street between Sixth & Fifth Streets.",
+     "There are other garages near Fountain Square with similar names, including the Fountain Square South Garage, which 3CDC does not manage."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3479b9e25b53b96e19403e50a207b890d667ab93a658ec199cb745b3c50b69cd"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Take the garage ticket with you and pay at a pay station before returning to your car. Stations beside the elevators on Plaza level and Level 1 accept cash or credit card; feed the paid ticket into the exit machine.",
+    "url": "https://myfountainsquare.com/parking/",
+    "quote": [
+     "Take your ticket with you!",
+     "As you walk back to your car, stop at one of the pay station machines to pay your parking fee using cash or credit card.",
+     "Pay stations are located next to the elevators on the Plaza level and Level 1 of the Garage.",
+     "As you drive out, simply feed your paid ticket into the machine, and the arm will raise."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3479b9e25b53b96e19403e50a207b890d667ab93a658ec199cb745b3c50b69cd"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Winterhaus requires adults to show ID at the entrance; minors must be accompanied by an adult.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": [
+     "Minors unaccompanied by an adult are not permitted. Adults are required to show ID at the entrance."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450"
+   },
+   {
+    "domain": "chronic",
+    "text": "The Winterhaus page describes a heated, glass-enclosed tent and advertises a November–March season. Confirm operating hours before relying on it as a warm rest stop.",
+    "url": "https://myfountainsquare.com/winterhaus/",
+    "quote": [
+     "Open from November - March, Winterhaus is a hub for festive fun!",
+     "Winterhaus is a heated, glass-enclosed, 65ft x 65ft tented retreat in the heart of Downtown Cincinnati.",
+     "Full and partial space rental opportunities are available for holiday parties, corporate events, birthdays and more."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "eced4b42df9ed76c3840a98ec05bf72010bbaa78861e624bcdb8a1f2c7beaa1b"
+   }
+  ]
+ },
+ {
+  "slug": "great-wolf-lodge-mason",
+  "facts": [
+   {
+    "id": "great-wolf-lodge-mason.mobility.1",
+    "text": "The lodge lists an accessible front entrance, designated accessible parking on site, and accessible common-area restrooms and water fountains.",
+    "url": "https://www.greatwolf.com/mason/accessibility",
+    "quote": [
+     "Accessible front entrance",
+     "Onsite designated accessible parking",
+     "Accessible common area restrooms and water fountains"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f"
+   },
+   {
+    "id": "great-wolf-lodge-mason.mobility.3",
+    "text": "Wheelchairs can be borrowed temporarily from Guest Services, first come, first served.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": [
+     "Temporary use of wheelchairs are available through Guest Services on a first come, first serve basis."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "id": "great-wolf-lodge-mason.sensory.1",
+    "text": "Closed captioning or transcripts are available for certain attractions with audio, including MagiQuest, and equipment to help with hearing is available on request.",
+    "url": "https://www.greatwolf.com/mason/accessibility",
+    "quote": [
+     "Closed captioning and/or transcripts available for certain attractions featuring audible entertainment, including our interactive live-action game MagiQuest",
+     "Equipment available upon request to assist with audibility needs"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f"
+   },
+   {
+    "id": "great-wolf-lodge-mason.cognitive.1",
+    "text": "A downloadable sensory guide, developed with IBCCES, covers each slide, pool, ride, attraction, show and activity.",
+    "url": "https://www.greatwolf.com/mason/accessibility",
+    "quote": [
+     "As part of this partnership, IBCCES helped us develop a sensory guide for each slide, pool, ride, attraction, show and activity found at Great Wolf Lodge.",
+     "We hope this downloadable guide provides a valuable and convenient tool for sensory-sensitive guests as they plan their visit to our resort."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f"
+   },
+   {
+    "id": "great-wolf-lodge-mason.mobility.4",
+    "text": "Accessible pathways run from the front desk to guest rooms, with accessible elevators and common-area corridors at least 36 inches wide.",
+    "url": "https://www.greatwolf.com/mason/accessibility",
+    "quote": [
+     "Accessible pathways from front desk to guestrooms, including accessible elevators to other floors of the hotel and common area corridors of 36” width or wider"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f"
+   },
+   {
+    "id": "great-wolf-lodge-mason.mobility.2",
+    "text": "The accessibility page lists pool areas with some combination of sloped zero-depth entries, transport systems or pool lifts, plus a limited number of free waterproof wheelchairs at specific locations. It does not identify the equipment at each Mason pool.",
+    "url": "https://www.greatwolf.com/mason/accessibility",
+    "quote": [
+     "Pool areas with some combination of sloped zero-depth entries, transport systems or pool lifts for accessibility",
+     "A limited number of waterproof wheelchairs are available for use at no charge at specific locations"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f"
+   },
+   {
+    "id": "great-wolf-lodge-mason.mobility.5",
+    "text": "In its FAQ answer about scooters, Segways and hoverboards, Great Wolf asks guests operating a mobility device for medical purposes to provide medical documentation on arrival. Confirm how the lodge applies this published request to your device before travelling.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": [
+     "Can I use drones, scooters, Segways or Hoverboards inside the lodge?",
+     "If you operate a mobility device for medical purposes please provide medical documentation upon arrival."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "id": "great-wolf-lodge-mason.chronic.1",
+    "text": "The FAQ permits service animals except in water-park pools and attractions. Outside food and drink are generally excluded from the water park; personalized desserts may be approved in advance if made in a licensed, nut-free facility with a purchase receipt. Allergen-free alternatives can be discussed ahead of time. Pool chairs are first come, first served.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": [
+     "Service animals as defined by the ADA are allowed in all areas of the resort. For the health and safety of our guests, service animals are not allowed in the pools and attractions of the water park.",
+     "There is no outside food or drink allowed in the water park, including glass containers and personal coolers.",
+     "Birthday cakes, cupcakes, or other personalized desserts may be allowed in the water park with prior approval from the lodge. They must be prepared in a licensed, nut-free facility and accompanied by a purchase receipt.",
+     "We would be happy to discuss allergen-free alternatives in advance.",
+     "Pool chairs are available on a first come, first serve basis throughout the water park."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "domain": "mobility",
+    "text": "The Mason FAQ says waterslides and elevated attractions are not wheelchair accessible.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": "Waterslides and our elevated attractions are not wheelchair accessible.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "domain": "mobility",
+    "text": "Accessible suites are marked with an accessibility icon during booking. The FAQ lists 800-605-9653 for guests who prefer to reserve by phone.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": "Accessible suites are labeled as such and marked by an accessible icon within the booking process. If you would prefer to make a reservation over the phone, please call 800.605.9653.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "domain": "chronic",
+    "text": "The water park has showers, changing areas and lockers. The FAQ does not describe transfer space, accessible changing benches or adult changing tables.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": "There are lockers, showers, and changing areas available for your use in the water park.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Electronic lockers in the locker-room area can be rented for a fee in standard, large and jumbo sizes. The FAQ asks guests to keep anything larger than a standard suitcase in their room or vehicle.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": "There are electronic lockers available to rent for a nominal fee in our locker room area. They come in a choice of three sizes: Standard, large and jumbo. Any items or luggage larger than a standard size suitcase should be kept in your room or vehicle.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "domain": "sensory",
+    "text": "The lodge posts quiet hours from 11 p.m. to 7 a.m.; this is a policy, not a guarantee of a quiet room or environment.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": "11:00 p.m. -7:00 a.m. are the quiet hours for the lodge.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "domain": "chronic",
+    "text": "For dietary planning, the FAQ asks guests to contact the lodge and speak with a Food and Beverage Management team member about their needs and dining options.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": [
+     "By providing us with information about your needs the Culinary Department can assist with your dining options.",
+     "Please contact the lodge to speak with a Food and Beverage Management team member."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The accessibility page permits service animals except in or near pools. Confirm permitted waiting and circulation areas with the lodge.",
+    "url": "https://www.greatwolf.com/mason/accessibility",
+    "quote": "Specifically, our facilities permit service animals (other than in or near pools)",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f"
+   }
+  ]
+ }
+]

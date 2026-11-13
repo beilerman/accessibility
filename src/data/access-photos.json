@@ -1215,5 +1215,43 @@
     "height": 1280,
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:O._M._Mitchel_Building,_Cincinnati_Observatory,_Hyde_Park,_Cincinnati,_OH_(49656471501).jpg",
     "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "sharon-woods-gorge-surface-2010",
+    "slug": "sharon-woods",
+    "title": "Gorge Trail surface and wooded edges (2010)",
+    "alt": "A granular path curves through woods, with a tree close to the right edge, scattered twigs on the tread and vegetation on both sides.",
+    "caption": "This July 2010 Gorge Trail view shows one section of granular surface and its wooded edges. Full frame retained; resized and converted to WebP.",
+    "author": "console0",
+    "photoDate": "2010-07-11",
+    "limitations": "Historical view, not a current route inspection. Width, gradient, surface firmness, the complete route and current closures cannot be established. This photograph does not describe the park’s other trails.",
+    "relatedFactIds": [
+      "sharon-woods.mobility.8"
+    ],
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sharon_Woods_Gorge_Trail_-_panoramio.jpg",
+    "checkedAt": "2026-11-13",
+    "src": "/images/access/sharon-woods-gorge-surface-2010.webp",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "id": "fountain-square-plaza-steps-2007",
+    "slug": "fountain-square",
+    "title": "Plaza steps, paving and seating (2007)",
+    "alt": "An elevated view of Fountain Square shows wide steps with metal handrails in the foreground, paved plaza areas and groups of tables and chairs around the fountain.",
+    "caption": "Photographed from the Westin on June 8, 2007, this view shows plaza steps, paving and movable seating, with construction visible beyond the square. Full frame retained; resized and converted to WebP.",
+    "author": "MamaGeek",
+    "photoDate": "2007-06-08",
+    "limitations": "Historical overview with small, distant incidental visitors. It does not establish today’s seating layout, an alternative step-free route, garage elevator operation, door controls or stair measurements. The capture date comes from the photographer’s description; June 14 is the original upload date.",
+    "relatedFactIds": [],
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FountainSquare.jpg",
+    "checkedAt": "2026-11-13",
+    "src": "/images/access/fountain-square-plaza-steps-2007.webp",
+    "width": 1280,
+    "height": 913
   }
 ]

@@ -1,0 +1,166 @@
+[
+ {
+  "slug": "cain-the-market",
+  "address_quote": "4230 Hamilton Avenue Cincinnati , OH 45223",
+  "address_url": "https://volunteer.uc.edu/agency/detail/?agency_id=46246",
+  "facts": [
+   {
+    "id": "cain-the-market.mobility.1",
+    "domain": "mobility",
+    "text": "CAIN says the lobby is reached only by stairs and asks visitors who need to avoid them to tell staff on arrival so they can take them around to the pantry. It describes the pantry as usable with a mobility aid; the alternate door and route dimensions are not specified.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "The lobby is only accessible by stairs, however the pantry is completely accessible by mobility aid device. Let us know upon arrival if you need to skip the stairs and we will take you around."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.chronic.1",
+    "domain": "chronic",
+    "text": "The Market page says there are restrooms usable with a mobility aid. It does not describe their layout, transfer space or changing equipment.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "There are restrooms that are accessible by mobility aid device as well."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.cognitive.1",
+    "domain": "cognitive",
+    "text": "The Market serves all ZIP codes and does not ask visitors to bring documents. Guests are asked to fill out information about themselves and their household.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "We serve ALL zip codes !",
+     "You do not need to bring any documentation when you visit. We will ask you to fill out some information about yourself and anyone you consider a part of your household."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.cognitive.2",
+    "domain": "cognitive",
+    "text": "On Mondays, sign-in opens at 4:30 p.m. and shopping runs 5–7 p.m. On Tuesdays and Thursdays, sign-in opens at 9:30 a.m. and shopping runs 10 a.m.–1 p.m. The line closes at capacity or 15 minutes before the Market closes.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "Mondays: line opens at 4:30 pm, Market opens from 5 pm – 7 pm",
+     "Tuesdays and Thursdays: line opens at 9:30 am, Market opens from 10 am – 1 pm",
+     "The line closes when we’ve reached capacity or 15 minutes before the Market closes."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.cognitive.3",
+    "domain": "cognitive",
+    "text": "Guests can join the line by text, website, app or in person once sign-in opens. For text sign-in, send one first name and one last name to 513-548-1024; only one person can be signed up per text.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "When the line opens, guests can sign in using text, online, an app or in person.",
+     "You can not sign in any earlier than the times posted above.",
+     "Text your name to 513-548-1024.",
+     "The system will only take up to one first and one last name.",
+     "You can only sign up one person at a time via text."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.cognitive.4",
+    "domain": "cognitive",
+    "text": "Staff can sign guests in person if they have no phone or other device. CAIN recommends arriving about 10 minutes before sign-in opens; the separate capacity cutoff still applies.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "If you do not have access to a cell phone or other device we are happy to sign you in in-person!",
+     "We recommend you arrive about 10 minutes before the line opens if you would like to ensure your place in line that day.",
+     "The line closes when we’ve reached capacity or 15 minutes before the Market closes."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.cognitive.5",
+    "domain": "cognitive",
+    "text": "The online sign-in page lets guests choose a language, but CAIN warns that closing the page prevents checking your place in line. App users can find CAIN in WaitWell after setting up their name and phone number.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "Find our page here , choose your language, and complete the form. Be aware if you close the page you will not be able to check on your place in line.",
+     "Find the ‘WaitWell’ app in your device’s app store, set up your name and phone number, and find us by searching ‘CAIN’."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.chronic.2",
+    "domain": "chronic",
+    "text": "A neighbor, family member, friend or client who cannot attend may have someone shop for them. The Market lets shoppers choose items from the shelves; CAIN recommends knowing the other person’s preferences before visiting.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "You are welcome to shop for a neighbor, family member, friend or client if they cannot make it to the market themselves.",
+     "We are a CHOICE pantry – which means you will be able to pick out items as you would in a grocery store. If you are shopping for someone else, it is helpful to know what their preferences are before coming to make shopping quick and easy."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.chronic.3",
+    "domain": "chronic",
+    "text": "Bring bags for groceries. CAIN can provide boxes and donated bags when available; carrying or loading assistance is not specified.",
+    "url": "https://caincincy.org/themarket/",
+    "quote": [
+     "Please bring your own bags. We can provide boxes and donated bags as they are available."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac"
+   },
+   {
+    "id": "cain-the-market.mobility.2",
+    "domain": "mobility",
+    "text": "At the adjacent Annette’s House, CAIN identifies a ramp at the back. This is a separate building from the Market; its page does not establish the parking-to-ramp route, door controls or ramp dimensions.",
+    "url": "https://caincincy.org/annettes-house/",
+    "quote": [
+     "Annette’s House is accessible with a ramp in the back",
+     "purchasing the house next door to its main Northside building."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "63b4f7c1afdcfc03c3a11fa681c1f952a92ab59a59887fd8f7d4e53bfeb39143"
+   },
+   {
+    "id": "cain-the-market.chronic.4",
+    "domain": "chronic",
+    "text": "CAIN lists two single-use bathrooms at Annette’s House and describes one as ADA compliant. This is the publisher’s description; no measurements or adult changing equipment are given.",
+    "url": "https://caincincy.org/annettes-house/",
+    "quote": [
+     "there are 2 single-use bathrooms, one of which is ADA compliant."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "63b4f7c1afdcfc03c3a11fa681c1f952a92ab59a59887fd8f7d4e53bfeb39143"
+   },
+   {
+    "id": "cain-the-market.chronic.5",
+    "domain": "chronic",
+    "text": "The Free Fridge is on the south side of Annette’s House at 4234 Hamilton Avenue. CAIN describes 24-hour access to donated food, with a refrigerator/freezer, microwave, hot and cold water tap and small pantry; this does not guarantee stock or an accessible route.",
+    "url": "https://caincincy.org/other-food-services/",
+    "quote": [
+     "The Free Fridge offers 24/7 access to free food donated by the community to be access at any time of need.",
+     "The fridge can be found on the southern side of Annette’s House (4234 Hamilton Ave), eqipped with a combination refrigerator/freezer, microwave, hot and cold water tap, and a small pantry."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e5843e584b3ff3e12cc337392d9d2881d78eda665ab6928525b3cd5014b7cbb1"
+   }
+  ]
+ }
+]

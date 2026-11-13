@@ -9346,7 +9346,7 @@
     "category": "Arts & performances",
     "website": "https://promowestlive.com/cincinnati/megacorp-pavilion",
     "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -9355,7 +9355,7 @@
         "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
         "id": "megacorp-pavilion.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9369,6 +9369,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -9378,7 +9383,7 @@
         "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
         "id": "megacorp-pavilion.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9392,6 +9397,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -9401,7 +9411,7 @@
         "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
         "id": "megacorp-pavilion.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9415,16 +9425,21 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Indoor ADA viewing is on the upper bar level house right of the sound booth and in Level 2 sections H and L; outdoor ADA viewing is house right in the area marked ADA and section F. For access questions, call 859-900-2294.",
+        "text": "Indoor ADA viewing is on the upper bar level, house right of the position the source labels FOH, and in Level 2 sections H and L. Outdoor ADA viewing is in the house-right area marked ADA and section F. For access questions, call 859-900-2294.",
         "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
         "id": "megacorp-pavilion.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9433,6 +9448,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Preserve the source’s FOH location label rather than infer a sound-booth location; retain separate support for the phone number."
           }
         ]
       },
@@ -9442,7 +9462,7 @@
         "source_url": "https://promowestlive.com/cincinnati/faq",
         "id": "megacorp-pavilion.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9451,6 +9471,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -9460,7 +9485,7 @@
         "source_url": "https://promowestlive.com/cincinnati/faq",
         "id": "megacorp-pavilion.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9469,6 +9494,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -9478,7 +9508,7 @@
         "source_url": "https://promowestlive.com/cincinnati/faq",
         "id": "megacorp-pavilion.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9487,6 +9517,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -9496,7 +9531,7 @@
         "source_url": "https://promowestlive.com/cincinnati/faq",
         "id": "megacorp-pavilion.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9505,13 +9540,163 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For specific access arrangements, the venue asks guests to contact it reasonably in advance so it can make every effort to accommodate requests; this is not a guarantee of a particular arrangement.",
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+        "id": "megacorp-pavilion.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Send sign-language interpreter requests to Jemoore@promowestlive.com. The venue asks for at least two weeks before the concert and says it will do its best with later requests.",
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+        "id": "megacorp-pavilion.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For access inquiries, the venue lists Feedback@promowestlive.com; guests may also look for a venue representative on arrival.",
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
+        "id": "megacorp-pavilion.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The box office is cashless and accepts major credit cards, Apple Pay and Google Pay.",
+        "source_url": "https://promowestlive.com/cincinnati/faq",
+        "id": "megacorp-pavilion.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The ticket time is the door-opening time. Live music usually starts about an hour later, but this can change; the venue says bands decide set times.",
+        "source_url": "https://promowestlive.com/cincinnati/faq",
+        "id": "megacorp-pavilion.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The published bag policy allows clear plastic, vinyl or PVC totes up to 14 by 14 inches and small bags up to 5 by 8 by 1 inches; backpacks are not permitted. The page does not describe an exception for medical supplies, so confirm your arrangements before arrival.",
+        "source_url": "https://promowestlive.com/cincinnati/faq",
+        "id": "megacorp-pavilion.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For box-office visits, the venue identifies a 15-minute parking zone on 3rd Street just outside the garage, with an elevator or steps up one floor. This is box-office arrival advice, not confirmation of event parking or the complete wheelchair route.",
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/directions-parking",
+        "id": "megacorp-pavilion.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The directions page lists box-office hours Tuesday–Friday 11 a.m.–3 p.m., and 3 p.m. opening on Saturday or Sunday event days; other weekends are closed. Major holidays are excluded, so confirm before a special trip.",
+        "source_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/directions-parking",
+        "id": "megacorp-pavilion.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website reporting; no on-site audit. Contact the venue in advance about the specific indoor or outdoor event layout.",
+    "limitations": "Public website reporting; no on-site audit. Confirm the specific indoor or outdoor layout, companion seating, parking-to-door route, elevator operation and assistance limits. Accessible-stall descriptions do not establish adult changing facilities or toilet dimensions. Quiet spaces, sensory equipment and medical-food/bag exceptions are not described. General-admission arrival help is not a guarantee of a particular seat or view. Address source: https://promowestlive.com/cincinnati/megacorp-pavilion/directions-parking",
     "slug": "megacorp-pavilion",
-    "observed_at": null
+    "observed_at": null,
+    "address": "101 W 4th Street, Newport, KY 41071"
   },
   {
     "name": "Miami Whitewater Forest",
@@ -9627,11 +9812,11 @@
       },
       {
         "domain": "mobility",
-        "text": "The park page posts Shaker Trace Inner and Outer Loop paving for November 2–20, without a year in the alert. It describes a new 2-inch asphalt overlay and temporary section closures, with other sections kept open when possible and detour signs at intersections, crossings and access points. Check current closures before travelling.",
-        "source_url": "https://www.greatparks.org/parks/miami-whitewater-forest",
+        "text": "Great Parks’ dated alert places Shaker Trace Inner and Outer Loop paving on November 2–20, 2026. It describes base repairs where needed and a new 2-inch asphalt overlay, with temporary section closures, other sections kept open when possible and detour signs at intersections, road crossings and access points. Confirm current closures; the notice does not establish that work is finished.",
+        "source_url": "https://www.greatparks.org/alerts-and-closures",
         "id": "miami-whitewater-forest.mobility.4",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9645,6 +9830,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Replace an open-ended works claim with the posted date range, missing-year boundary and phased-closure conditions; do not infer completion."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Use the dated official alerts page to establish the 2026 year while preserving phasing and no-completion assumptions. Partial review only."
           }
         ]
       },
@@ -9896,9 +10086,27 @@
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A separate Great Parks alert, dated November 11, 2026–February 12, 2027, warns of possible intermittent Shaker Trace Loop closures for the golf-course irrigation project. Crews are to be on site for safety; this notice is separate from the November paving work.",
+        "source_url": "https://www.greatparks.org/alerts-and-closures",
+        "id": "miami-whitewater-forest.mobility.9",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Confirm entrance and parking-to-facility routes, toilet/changing arrangements, launch operation and transfer or carrying assistance. The trail-paving alert and Harbor hours table omit a year; no work-completion or current-season assumption is made. Great Parks describes two launches while naming three parks; that count is unresolved. Photographs from 2013 and the 2016 report are historical and do not confirm today’s route or equipment.",
+    "limitations": "Public website information; no on-site audit. Confirm entrance and parking-to-facility routes, toilet/changing arrangements, launch operation and transfer or carrying assistance. The dated alerts page places trail paving in November 2026 and warns of additional intermittent trail closures through February 12, 2027. The Harbor hours table omits a year; no work-completion or current-season assumption is made. Great Parks describes two launches while naming three parks; that count is unresolved. Photographs from 2013 and the 2016 report are historical and do not confirm today’s route or equipment.",
     "slug": "miami-whitewater-forest",
     "evidence_type": "public_website",
     "observed_at": null
@@ -11433,7 +11641,7 @@
     "address": "11450 Lebanon Road, Sharonville, OH 45241",
     "website": "https://www.greatparks.org/parks/sharon-woods",
     "source_url": "https://www.greatparks.org/about/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -11441,7 +11649,7 @@
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "sharon-woods.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11455,6 +11663,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11483,11 +11696,11 @@
       },
       {
         "domain": "cognitive",
-        "text": "Great Parks asks for two weeks' advance notice to provide reasonable accommodations for special events and educational programs. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+        "text": "Great Parks says it will make every effort to provide reasonable accommodations for special events and educational programs with two weeks' advance notice. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
         "source_url": "https://www.greatparks.org/about/accessibility",
         "id": "sharon-woods.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11496,6 +11709,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restored the source's effort condition; advance notice is not a guarantee of an accommodation."
           }
         ]
       },
@@ -11505,7 +11723,7 @@
         "source_url": "https://www.greatparks.org/parks/sharon-woods",
         "id": "sharon-woods.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11514,6 +11732,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11523,7 +11746,7 @@
         "source_url": "https://www.greatparks.org/parks/sharon-woods/island-grove-trail",
         "id": "sharon-woods.mobility.3",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11532,6 +11755,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11541,7 +11769,7 @@
         "source_url": "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail",
         "id": "sharon-woods.mobility.4",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11550,6 +11778,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11559,7 +11792,7 @@
         "source_url": "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail",
         "id": "sharon-woods.mobility.5",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11568,22 +11801,73 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "The harbor area has ample shaded seating.",
-        "source_url": "https://www.greatparks.org/parks/sharon-woods/sharon-woods-harbor",
+        "text": "Great Parks lists the harbor parking, restrooms, boathouse and playground as closed from October 2026 through completion of the harbor project.",
+        "source_url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
         "id": "sharon-woods.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replaced an unqualified shaded-seating amenity with the current construction closure; the general harbor page still describes seating but does not establish availability during works."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park phone is 513-563-4513.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods",
+        "id": "sharon-woods.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Moved the vehicle-permit clause to a separate note citing the policy page that states the requirement; the park page only links to that policy."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "During harbor construction, Great Parks directs visitors to the U.S. 42/Lebanon Road entrance, which remains open and connects to Buckeye Falls Drive.",
+        "source_url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+        "id": "sharon-woods.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -11591,24 +11875,114 @@
       },
       {
         "domain": "cognitive",
-        "text": "A Great Parks motor vehicle permit is required to drive into the park. The park phone is 513-563-4513.",
-        "source_url": "https://www.greatparks.org/parks/sharon-woods",
-        "id": "sharon-woods.cognitive.3",
-        "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "text": "The project page gives conflicting dates for the East Kemper Road entrance: its closure list says October 2026–May 2027, but its FAQ says until the harbor reopens. Confirm the entrance before travel; the harbor reopening is tentatively spring 2028.",
+        "source_url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+        "id": "sharon-woods.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-08",
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The harbor project closes about 0.3 miles of Sharon Lake Trail from October 2026 through project completion, and about 0.1 miles of Buckeye Falls Trail near the harbor until the project finishes.",
+        "source_url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+        "id": "sharon-woods.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The harbor-project FAQ says boating is not permitted until summer 2027, when the temporary boathouse at Lakeside Lodge on the east side of Sharon Lake is due to reopen. This is a planned reopening, not confirmation that boats are available now.",
+        "source_url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+        "id": "sharon-woods.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks requires a valid Motor Vehicle Permit for vehicle entry to its parks and conservation areas; its stated exceptions are Otto Armleder Memorial Park and Fernbank Park.",
+        "source_url": "https://www.greatparks.org/about/policies/entrance-to-parks-and-facilities",
+        "id": "sharon-woods.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Sharon Center lists restrooms and parking. Its posted September 8–December 31, 2026 hours are daily 10 a.m.–5 p.m., with closures for Thanksgiving, Christmas Eve, Christmas, New Year’s Eve and New Year’s Day. Restroom layout and changing equipment are not described.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods/sharon-center",
+        "id": "sharon-woods.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Gorge Trail page lists a 0.6-mile nature trail rated Easy/Moderate, with parking and restrooms, open from dawn to dusk. It does not describe gradients, surface firmness, restroom layout or changing equipment; the rating is not a wheelchair-access statement.",
+        "source_url": "https://www.greatparks.org/parks/sharon-woods/gorge-trail",
+        "id": "sharon-woods.mobility.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Harbor construction affects amenities; check closures. Address and construction source: https://www.greatparks.org/parks/sharon-woods",
+    "limitations": "Public website information; no on-site audit. Harbor construction closes parking, restrooms, boathouse, playground and trail sections. The project page conflicts internally on the East Kemper entrance reopening (May 2027 versus harbor reopening, tentatively spring 2028), and its reduced-water-level wording differs from the park alert’s spring 2027 wording. Boating is separately planned to resume in summer 2027; confirm current routes and operations. General playground and swing descriptions do not identify which facilities remain usable during construction. Trail labels do not provide gradients, widths or a continuous step-free route. Toilet layouts and changing equipment remain unknown. The main park page labels Gorge Trail Moderate, while its individual trail page says Easy/Moderate; neither rating supplies measured access information.",
     "slug": "sharon-woods",
     "evidence_type": "public_website",
     "observed_at": null
@@ -18422,7 +18796,7 @@
     "website": "https://myfountainsquare.com/",
     "source_url": "https://myfountainsquare.com/amenities/",
     "limitations": "Public website information; no on-site audit. A step-free route onto the plaza, accessible garage spaces, and whether the restrooms are accessible are not stated. Confirm before your visit.",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "slug": "fountain-square",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -18433,7 +18807,7 @@
         "source_url": "https://myfountainsquare.com/parking/",
         "id": "fountain-square.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18442,6 +18816,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18451,7 +18830,7 @@
         "source_url": "https://myfountainsquare.com/amenities/",
         "id": "fountain-square.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18460,16 +18839,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "To charge medically necessary equipment, ask staff at the Fountain Square concession stand.",
+        "text": "For medically necessary equipment charging, ask at the Fountain Square concession stand. The rules say outlets may be available in some circumstances, primarily during events, and staff will try to accommodate requests; a power source is not guaranteed.",
         "source_url": "https://myfountainsquare.com/square-rules/",
         "id": "fountain-square.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18478,6 +18862,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retained the conditions and best-effort wording instead of presenting charging as an unconditional service."
           }
         ]
       },
@@ -18487,7 +18876,7 @@
         "source_url": "https://myfountainsquare.com/square-rules/",
         "id": "fountain-square.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18496,6 +18885,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18505,7 +18899,7 @@
         "source_url": "https://myfountainsquare.com/amenities/",
         "id": "fountain-square.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18514,16 +18908,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "If no event is on or the concession stand is closed, ask a 3CDC operations staff member for help charging medical equipment.",
+        "text": "If no event is taking place or the concession stand is closed, seek a 3CDC operations staff member about charging medically necessary equipment. Staff will try to accommodate the request.",
         "source_url": "https://myfountainsquare.com/square-rules/",
         "id": "fountain-square.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18532,22 +18931,104 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restored the explicit attempt condition for charging assistance outside event/concession hours."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Winterhaus is a heated, glass-enclosed tent on the square. Outside food and non-alcoholic drinks are allowed if someone in your group buys an item, and seat use is limited to one hour.",
+        "text": "Winterhaus permits outside food and non-alcoholic drinks if at least one person in the group buys an item there. Its rules request a 30-minute seated limit for individuals who do not buy anything, and a one-hour seat limit for all guests.",
         "source_url": "https://myfountainsquare.com/square-rules/",
         "id": "fountain-square.chronic.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restored the separate non-purchaser seating limit and moved heated-tent description to its supporting Winterhaus page."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Fountain Square North Garage vehicle ramps enter from northbound Vine Street between Fifth and Sixth Streets and southbound Walnut Street between Sixth and Fifth. This is the garage beneath the square; Fountain Square South is a different garage.",
+        "source_url": "https://myfountainsquare.com/parking/",
+        "id": "fountain-square.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Take the garage ticket with you and pay at a pay station before returning to your car. Stations beside the elevators on Plaza level and Level 1 accept cash or credit card; feed the paid ticket into the exit machine.",
+        "source_url": "https://myfountainsquare.com/parking/",
+        "id": "fountain-square.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Winterhaus requires adults to show ID at the entrance; minors must be accompanied by an adult.",
+        "source_url": "https://myfountainsquare.com/square-rules/",
+        "id": "fountain-square.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Winterhaus page describes a heated, glass-enclosed tent and advertises a November–March season. Confirm operating hours before relying on it as a warm rest stop.",
+        "source_url": "https://myfountainsquare.com/winterhaus/",
+        "id": "fountain-square.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -20555,8 +21036,8 @@
     "address": "2501 Great Wolf Dr, Mason, OH 45040",
     "website": "https://www.greatwolf.com/mason",
     "source_url": "https://www.greatwolf.com/mason/accessibility",
-    "limitations": "Public website information; no on-site audit. Where the waterproof wheelchairs are kept, which audibility equipment is offered, and the accessibility of slide queues and lockers are not described. Confirm with Guest Services before your visit.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. Waterproof-wheelchair collection points, equipment at each pool, transfer assistance, lift capacity, accessible locker/changing layouts and adult changing tables are not described. The accessibility page excludes service animals in or near pools, while the FAQ excludes pools and attractions; confirm waiting and circulation areas. The FAQ’s medical-documentation request appears in its scooters/Segways/hoverboards answer; confirm how it applies to your device. Accessible-suite booking phone and general accessibility contact phone differ on the site. Confirm arrangements with the lodge before booking.",
+    "checked_at": "2026-11-13",
     "slug": "great-wolf-lodge-mason",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -20567,7 +21048,7 @@
         "source_url": "https://www.greatwolf.com/mason/accessibility",
         "id": "great-wolf-lodge-mason.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20576,16 +21057,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Pool areas have some combination of sloped zero-depth entries, transport systems or pool lifts, and a limited number of waterproof wheelchairs are free to use at specific locations. Waterslides and elevated attractions are not wheelchair accessible.",
+        "text": "The accessibility page lists pool areas with some combination of sloped zero-depth entries, transport systems or pool lifts, plus a limited number of free waterproof wheelchairs at specific locations. It does not identify the equipment at each Mason pool.",
         "source_url": "https://www.greatwolf.com/mason/accessibility",
         "id": "great-wolf-lodge-mason.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20594,6 +21080,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Moved the waterslide/elevated-attraction exclusion to a new note citing the FAQ that actually states it; retained the limited pool-entry scope."
           }
         ]
       },
@@ -20603,7 +21094,7 @@
         "source_url": "https://www.greatwolf.com/mason/faq",
         "id": "great-wolf-lodge-mason.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20612,6 +21103,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -20621,7 +21117,7 @@
         "source_url": "https://www.greatwolf.com/mason/accessibility",
         "id": "great-wolf-lodge-mason.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20630,6 +21126,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -20639,7 +21140,7 @@
         "source_url": "https://www.greatwolf.com/mason/accessibility",
         "id": "great-wolf-lodge-mason.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20648,6 +21149,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -20657,13 +21163,82 @@
         "source_url": "https://www.greatwolf.com/mason/accessibility",
         "id": "great-wolf-lodge-mason.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "In its FAQ answer about scooters, Segways and hoverboards, Great Wolf asks guests operating a mobility device for medical purposes to provide medical documentation on arrival. Confirm how the lodge applies this published request to your device before travelling.",
+        "source_url": "https://www.greatwolf.com/mason/faq",
+        "id": "great-wolf-lodge-mason.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Kept the published request explicitly attributed and in the context of its device-policy FAQ, rather than turning it into a general eligibility rule."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ permits service animals except in water-park pools and attractions. Outside food and drink are generally excluded from the water park; personalized desserts may be approved in advance if made in a licensed, nut-free facility with a purchase receipt. Allergen-free alternatives can be discussed ahead of time. Pool chairs are first come, first served.",
+        "source_url": "https://www.greatwolf.com/mason/faq",
+        "id": "great-wolf-lodge-mason.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retained separate evidence for each clause and restored the stated conditional dessert exception to the food restriction."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Mason FAQ says waterslides and elevated attractions are not wheelchair accessible.",
+        "source_url": "https://www.greatwolf.com/mason/faq",
+        "id": "great-wolf-lodge-mason.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -20671,17 +21246,17 @@
       },
       {
         "domain": "mobility",
-        "text": "Guests who use a mobility device for medical purposes are asked to provide medical documentation on arrival.",
+        "text": "Accessible suites are marked with an accessibility icon during booking. The FAQ lists 800-605-9653 for guests who prefer to reserve by phone.",
         "source_url": "https://www.greatwolf.com/mason/faq",
-        "id": "great-wolf-lodge-mason.mobility.5",
+        "id": "great-wolf-lodge-mason.mobility.7",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -20689,17 +21264,89 @@
       },
       {
         "domain": "chronic",
-        "text": "Service animals are allowed everywhere except the water park's pools and attractions. No outside food or drink is allowed in the water park; allergen-free alternatives can be discussed in advance. Pool chairs are first come, first served.",
+        "text": "The water park has showers, changing areas and lockers. The FAQ does not describe transfer space, accessible changing benches or adult changing tables.",
         "source_url": "https://www.greatwolf.com/mason/faq",
-        "id": "great-wolf-lodge-mason.chronic.1",
+        "id": "great-wolf-lodge-mason.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Electronic lockers in the locker-room area can be rented for a fee in standard, large and jumbo sizes. The FAQ asks guests to keep anything larger than a standard suitcase in their room or vehicle.",
+        "source_url": "https://www.greatwolf.com/mason/faq",
+        "id": "great-wolf-lodge-mason.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The lodge posts quiet hours from 11 p.m. to 7 a.m.; this is a policy, not a guarantee of a quiet room or environment.",
+        "source_url": "https://www.greatwolf.com/mason/faq",
+        "id": "great-wolf-lodge-mason.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For dietary planning, the FAQ asks guests to contact the lodge and speak with a Food and Beverage Management team member about their needs and dining options.",
+        "source_url": "https://www.greatwolf.com/mason/faq",
+        "id": "great-wolf-lodge-mason.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The accessibility page permits service animals except in or near pools. Confirm permitted waiting and circulation areas with the lodge.",
+        "source_url": "https://www.greatwolf.com/mason/accessibility",
+        "id": "great-wolf-lodge-mason.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -31530,6 +32177,292 @@
         "text": "The 60 & Better Center page identifies adults aged 60 and older as eligible for transportation and other senior services and describes pickup for members. It lists annual center dues of $50 per individual or $90 per household couple. These are center membership dues, not a quoted trip fare; confirm transport enrollment and charges.",
         "source_url": "https://mayersonjcc.org/60-and-better/",
         "id": "mayerson-jcc.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CAIN — The Market",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Public services",
+    "address": "4230 Hamilton Avenue, Cincinnati, OH 45223",
+    "website": "https://caincincy.org/",
+    "source_url": "https://caincincy.org/themarket/",
+    "limitations": "Public website information; no on-site audit. The Market lobby has stairs and staff describe an alternate route, but the specific door, thresholds, slopes, parking connection, door controls and assistance beyond taking visitors around remain unverified. Annette’s House is the adjacent building at 4234 Hamilton Avenue; its rear ramp and bathrooms are not evidence of the Market route. Neither page establishes adult changing equipment, lifting or transfer help. Market hours are from CAIN; the university partner address listing has different Tuesday/Thursday hours, so do not use those partner hours. The Market holiday list still includes winter break dated December 2025–January 2026; upcoming winter closure dates require confirmation. Address source: https://volunteer.uc.edu/agency/detail/?agency_id=46246",
+    "checked_at": "2026-11-13",
+    "slug": "cain-the-market",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "CAIN says the lobby is reached only by stairs and asks visitors who need to avoid them to tell staff on arrival so they can take them around to the pantry. It describes the pantry as usable with a mobility aid; the alternate door and route dimensions are not specified.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Market page says there are restrooms usable with a mobility aid. It does not describe their layout, transfer space or changing equipment.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Market serves all ZIP codes and does not ask visitors to bring documents. Guests are asked to fill out information about themselves and their household.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "On Mondays, sign-in opens at 4:30 p.m. and shopping runs 5–7 p.m. On Tuesdays and Thursdays, sign-in opens at 9:30 a.m. and shopping runs 10 a.m.–1 p.m. The line closes at capacity or 15 minutes before the Market closes.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Guests can join the line by text, website, app or in person once sign-in opens. For text sign-in, send one first name and one last name to 513-548-1024; only one person can be signed up per text.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Staff can sign guests in person if they have no phone or other device. CAIN recommends arriving about 10 minutes before sign-in opens; the separate capacity cutoff still applies.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The online sign-in page lets guests choose a language, but CAIN warns that closing the page prevents checking your place in line. App users can find CAIN in WaitWell after setting up their name and phone number.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "A neighbor, family member, friend or client who cannot attend may have someone shop for them. The Market lets shoppers choose items from the shelves; CAIN recommends knowing the other person’s preferences before visiting.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Bring bags for groceries. CAIN can provide boxes and donated bags when available; carrying or loading assistance is not specified.",
+        "source_url": "https://caincincy.org/themarket/",
+        "id": "cain-the-market.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "At the adjacent Annette’s House, CAIN identifies a ramp at the back. This is a separate building from the Market; its page does not establish the parking-to-ramp route, door controls or ramp dimensions.",
+        "source_url": "https://caincincy.org/annettes-house/",
+        "id": "cain-the-market.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CAIN lists two single-use bathrooms at Annette’s House and describes one as ADA compliant. This is the publisher’s description; no measurements or adult changing equipment are given.",
+        "source_url": "https://caincincy.org/annettes-house/",
+        "id": "cain-the-market.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Free Fridge is on the south side of Annette’s House at 4234 Hamilton Avenue. CAIN describes 24-hour access to donated food, with a refrigerator/freezer, microwave, hot and cold water tap and small pantry; this does not guarantee stock or an accessible route.",
+        "source_url": "https://caincincy.org/other-food-services/",
+        "id": "cain-the-market.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CAIN’s Monday community meal starts at 3:30 p.m., with sit-down and takeaway options. Meals are limited in quantity and first come, first served; no paperwork, documents or registration are needed.",
+        "source_url": "https://caincincy.org/other-food-services/",
+        "id": "cain-the-market.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Thursday Peace Potluck runs 6–8 p.m., either inside Annette’s House at 4234 Hamilton Avenue or in its front parking lot. CAIN describes the space as wheelchair accessible, but gives no route measurements or entrance details; confirm which location is being used.",
+        "source_url": "https://caincincy.org/other-food-services/",
+        "id": "cain-the-market.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "During pantry hours, people experiencing homelessness may request a snack pack. CAIN describes these as quick-meal bags that usually contain shelf-stable, no-cook, individually sized items; contents vary.",
+        "source_url": "https://caincincy.org/other-food-services/",
+        "id": "cain-the-market.chronic.7",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,

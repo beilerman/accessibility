@@ -11,6 +11,17 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Northside food assistance while preserving the stair barrier and separate building routes", () => {
+    const slug = "cain-the-market";
+    expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("4230 Hamilton Avenue, Cincinnati, OH 45223");
+    expect(text(slug)).toContain("lobby is reached only by stairs");
+    expect(text(slug)).toContain("Staff can sign guests in person");
+    expect(text(slug)).toContain("line closes at capacity");
+    expect(place(slug).limitations).toContain("not evidence of the Market route");
+    expect(place(slug).limitations).toContain("no on-site audit");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Mayerson recreation while preserving changing and personal-care limits", () => {
     const slug = "mayerson-jcc";
     expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain(slug);

@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-13",
+  "base": "a3ae05b33895f76c52144b093ae948de5f2da4a8",
+  "publicationState": "Prepared for runner validation and atomic Git push; no agent Git writes, push, preview or deployment. Full host browser suite remains required.",
+  "recovery": "Workspace began clean at the publication base. Previous runner summary recorded successful push and no pending edits; no conflict markers or prior validation failure to repair.",
+  "countsThisPass": {
+    "places": 148,
+    "activeNotes": 1472,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1277,
+    "missingPassages": 195,
+    "licensedPhotos": 63,
+    "linkedGuides": 30,
+    "distinctGuideDocuments": 26,
+    "newVenues": 1,
+    "newNotes": 42,
+    "oldNotesReviewed": 32,
+    "oldNotesRevised": 11,
+    "oldNotesUnchanged": 21,
+    "previouslyMissingPassagesBackfilled": 31,
+    "fullReviews": 4,
+    "partialReviews": 1,
+    "licensedPhotosAdded": 2,
+    "linkedGuidesAdded": 1,
+    "existingPlaceAddressesBackfilled": 1
+  },
+  "newNotesByVenue": {
+    "great-wolf-lodge-mason": 7,
+    "cain-the-market": 15,
+    "megacorp-pavilion": 8,
+    "miami-whitewater-forest": 1,
+    "fountain-square": 4,
+    "sharon-woods": 7
+  },
+  "categories": {
+    "Museums & attractions": 21,
+    "Arts & performances": 32,
+    "Parks & outdoors": 31,
+    "Libraries": 15,
+    "Transportation": 7,
+    "Food & drink": 16,
+    "Shopping": 11,
+    "Public services": 7,
+    "Recreation & fitness": 8
+  },
+  "checks": {
+    "finalEvidence": {
+      "notes": 74,
+      "addresses": 2,
+      "passed": 76,
+      "failed": 0,
+      "method": "Fresh verify.py fetches and editorial clause/condition review; new/revised/rechecked notes were also gated by record_quote before save."
+    },
+    "sourceBaselines": {
+      "selectedUrls": 22,
+      "needAttention": 0,
+      "unselectedRecordsPreserved": true
+    },
+    "unit": {
+      "command": "npm test",
+      "passed": 94,
+      "failed": 0
+    },
+    "pipeline": {
+      "command": "UV_CACHE_DIR=/private/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'",
+      "passed": 74,
+      "failed": 0,
+      "earlierFailure": "Initial completeness assertion ran before new source baselines were ready; final suite passed after baselines completed."
+    },
+    "lint": {
+      "command": "npm run lint",
+      "exitCode": 0
+    },
+    "types": {
+      "command": "npx tsc --noEmit",
+      "exitCode": 0
+    },
+    "build": {
+      "command": "npm run build",
+      "exitCode": 0,
+      "staticPages": 163,
+      "warnings": [
+        "Existing Atkinson Hyperlegible Next fallback-font override warning.",
+        "Node module.register deprecation warning."
+      ]
+    },
+    "browser": {
+      "command": "CI=1 npx playwright test e2e/accessibility.spec.ts --grep 'cain-the-market'",
+      "status": "Blocked before page assertions",
+      "passed": 0,
+      "launchFailures": 1,
+      "reason": "Chromium MachPortRendezvousServer bootstrap_check_in permission denied (1100).",
+      "computerUseFallback": "Browser access host unavailable.",
+      "runnerRequirement": "Run the complete host Playwright/Axe suite before publication; this local receipt does not claim browser or rendered layout validation."
+    },
+    "http": {
+      "results": [
+        {
+          "route": "/venues/cain-the-market",
+          "status": 200,
+          "checks": {
+            "lobby is reached only by stairs": true,
+            "4230 Hamilton": true
+          }
+        },
+        {
+          "route": "/venues/sharon-woods",
+          "status": 200,
+          "checks": {
+            "Gorge Trail surface and wooded edges": true,
+            "U.S. 42/Lebanon": true
+          }
+        },
+        {
+          "route": "/venues/fountain-square",
+          "status": 200,
+          "checks": {
+            "Plaza steps, paving and seating": true,
+            "Winterhaus": true
+          }
+        },
+        {
+          "route": "/venues/great-wolf-lodge-mason",
+          "status": 200,
+          "checks": {
+            "Mason sensory guide and attraction photographs": true,
+            "PDF, 27 pages, 15.4 MB": true
+          }
+        },
+        {
+          "route": "/venues/megacorp-pavilion",
+          "status": 200,
+          "checks": {
+            "15-minute parking zone": true,
+            "Major holidays are excluded": true
+          }
+        },
+        {
+          "route": "/venues/miami-whitewater-forest",
+          "status": 200,
+          "checks": {
+            "February 12, 2027": true
+          }
+        },
+        {
+          "asset": "fountain-square-plaza-steps-2007",
+          "status": 200,
+          "sha256": "304303a24fcaecb05f88ddf1ef6199146d06d441433ed5a49140173f030438a9",
+          "bytes": 282346
+        },
+        {
+          "asset": "sharon-woods-gorge-surface-2010",
+          "status": 200,
+          "sha256": "171566193378e6be40049efd36e251b22bad5e4ecfc27f073396b92cd54cfe58",
+          "bytes": 459806
+        },
+        {
+          "route": "/venues/megacorp-pavilion",
+          "status": 200,
+          "checks": {
+            "new street address in rebuilt HTML": true
+          }
+        },
+        {
+          "route": "/venues/cain-the-market",
+          "status": 200,
+          "checks": {
+            "Monday community meal starts at 3:30": true,
+            "Meals are limited in quantity": true,
+            "Thursday Peace Potluck": true,
+            "During pantry hours": true
+          }
+        },
+        {
+          "route": "/venues/sharon-woods",
+          "status": 200,
+          "checks": {
+            "main park page labels Gorge Trail Moderate": true,
+            "Easy/Moderate": true
+          }
+        }
+      ],
+      "scope": "Six local built venue routes and two exact image byte/hash checks; not browser or visual layout verification."
+    },
+    "imagery": {
+      "previewOccurrences": 97,
+      "fullOriginalsInspected": 5,
+      "finalPhotosInspected": 2,
+      "pdfPagesInspected": 27,
+      "transformation": "Full-frame resize/WebP conversion only."
+    },
+    "preservation": "All original IDs, all prior history prefixes, retired note, unselected source baselines and unrelated venues preserved; changed-claim digests agree.",
+    "gitDiffCheck": "Passed",
+    "jsonInputs": "Changed JSON files parsed and CAIN six-column importer input validated.",
+    "conflictMarkers": "None in changed files",
+    "additionalConflictEvidence": "Two freshly gated official passages retain the differing Gorge Trail ratings; separate from 74 note/two address verify.py checks.",
+    "nextPreflight": "12 URLs returned 200/nonempty text. Availability only; no claim/freshness credit.",
+    "sourceHashAgreement": "All 74 current reviewed/new note quote source hashes match their selected source baselines."
+  },
+  "revisedIds": [
+    "megacorp-pavilion.mobility.3",
+    "miami-whitewater-forest.mobility.4",
+    "sharon-woods.cognitive.1",
+    "sharon-woods.chronic.1",
+    "sharon-woods.cognitive.3",
+    "fountain-square.chronic.2",
+    "fountain-square.chronic.4",
+    "fountain-square.chronic.5",
+    "great-wolf-lodge-mason.mobility.2",
+    "great-wolf-lodge-mason.mobility.5",
+    "great-wolf-lodge-mason.chronic.1"
+  ],
+  "backfilledIds": [
+    "megacorp-pavilion.mobility.1",
+    "megacorp-pavilion.mobility.2",
+    "megacorp-pavilion.sensory.1",
+    "megacorp-pavilion.mobility.3",
+    "megacorp-pavilion.mobility.4",
+    "megacorp-pavilion.cognitive.1",
+    "megacorp-pavilion.chronic.1",
+    "megacorp-pavilion.chronic.2",
+    "sharon-woods.mobility.1",
+    "sharon-woods.cognitive.1",
+    "sharon-woods.cognitive.2",
+    "sharon-woods.mobility.3",
+    "sharon-woods.mobility.4",
+    "sharon-woods.mobility.5",
+    "sharon-woods.chronic.1",
+    "sharon-woods.cognitive.3",
+    "fountain-square.mobility.1",
+    "fountain-square.chronic.1",
+    "fountain-square.chronic.2",
+    "fountain-square.cognitive.1",
+    "fountain-square.chronic.3",
+    "fountain-square.chronic.4",
+    "fountain-square.chronic.5",
+    "great-wolf-lodge-mason.mobility.1",
+    "great-wolf-lodge-mason.mobility.2",
+    "great-wolf-lodge-mason.mobility.3",
+    "great-wolf-lodge-mason.sensory.1",
+    "great-wolf-lodge-mason.cognitive.1",
+    "great-wolf-lodge-mason.mobility.4",
+    "great-wolf-lodge-mason.mobility.5",
+    "great-wolf-lodge-mason.chronic.1"
+  ],
+  "held": [
+    "SVDP Northern Kentucky official food/hygiene, equipment and locations sources: 403; no notes imported.",
+    "Great Wolf 15.4 MB PDF exceeds helper evidence limit; independently fetched and visually inspected for original-link guide only, no policy notes from the rejected PDF.",
+    "Sharon project reopening/water-level conflicts retained; April 31 table entry not repeated.",
+    "CAIN upcoming holiday dates and exact alternate entrance unresolved; source images unlicensed and often include identifiable guests.",
+    "Fountain Square 2026 plant-obscured originals and older crowded/rate-limited views held.",
+    "MegaCorp virtual tour awaits working browser.",
+    "Standard Covington photo candidates licensed individually but current access evidence insufficient for a listing; Latonia fire-station example is All rights reserved."
+  ],
+  "artifactSha256": {
+    "src/data/places.json": "0342592e5979174e039efceb99cc1d11249e8e85c6220bd229489759736ca58d",
+    "pipeline/evidence/quotes.json": "02695f69e157126b0d5ea5c5c6500aab787d1b1feb5661d7bf62a56a0d07fe94",
+    "src/data/access-photos.json": "1be3f2f77e999f7d170607e8da2bad6af59974b96bd73930d6a061c1f7cff9eb",
+    "src/data/access-guides.json": "0c9850c8bee765ff4b4947156cebf409a257212318463205e3a05944b72b6aba"
+  }
+}

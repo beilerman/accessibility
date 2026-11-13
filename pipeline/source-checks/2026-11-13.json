@@ -276,25 +276,25 @@
     "https://myfountainsquare.com/amenities/": {
       "status": 200,
       "final_url": "https://myfountainsquare.com/amenities/",
-      "last_modified": null,
+      "last_modified": "Fri, 13 Nov 2026 09:25:27 GMT",
       "sha256": "f765e483a4ae5c9e5248439703cf42e9466b1eb0bf252e18229c0baf5b0bf500",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4515
     },
     "https://myfountainsquare.com/parking/": {
       "status": 200,
       "final_url": "https://myfountainsquare.com/parking/",
-      "last_modified": "Mon, 09 Nov 2026 02:01:50 GMT",
+      "last_modified": "Fri, 13 Nov 2026 09:25:26 GMT",
       "sha256": "3479b9e25b53b96e19403e50a207b890d667ab93a658ec199cb745b3c50b69cd",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3268
     },
     "https://myfountainsquare.com/square-rules/": {
       "status": 200,
       "final_url": "https://myfountainsquare.com/square-rules/",
-      "last_modified": null,
+      "last_modified": "Fri, 13 Nov 2026 09:25:27 GMT",
       "sha256": "825b9473a71f0bc79e2e0a664226f3a729cfc59d4a1c5a4b4027dc1325f4f450",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 5336
     },
     "https://parks.ky.gov/explore/big-bone-lick-state-historic-site-7807": {
@@ -318,7 +318,7 @@
       "final_url": "https://promowestlive.com/cincinnati/faq",
       "last_modified": null,
       "sha256": "5217cb9961d37950a34d33264c92e66e92c1959552e580549815e67a2804dd8b",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 5736
     },
     "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility": {
@@ -326,7 +326,7 @@
       "final_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility",
       "last_modified": null,
       "sha256": "a99651cbd54a1614cb12eeef75f35c4acebfc399c93dc9fa3972fd5e3e0cd66b",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2446
     },
     "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/": {
@@ -870,7 +870,7 @@
       "final_url": "https://www.greatparks.org/parks/sharon-woods",
       "last_modified": null,
       "sha256": "1a9800e0cb50be2c28274e1d4567a698f45a7849fe2e209bce1098ac90af2fdb",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 6319
     },
     "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail": {
@@ -878,7 +878,7 @@
       "final_url": "https://www.greatparks.org/parks/sharon-woods/buckeye-falls-trail",
       "last_modified": null,
       "sha256": "0f4325dd14617db0f197d1f61df6a37d809bc8869b7be22b5d1574c5bb4216b9",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 677
     },
     "https://www.greatparks.org/parks/sharon-woods/island-grove-trail": {
@@ -886,7 +886,7 @@
       "final_url": "https://www.greatparks.org/parks/sharon-woods/island-grove-trail",
       "last_modified": null,
       "sha256": "100b28242821b7d5a8356f414535407d9dbd015c6d9db32563dab8f7eb537b5e",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 660
     },
     "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail": {
@@ -894,7 +894,7 @@
       "final_url": "https://www.greatparks.org/parks/sharon-woods/lone-oak-trail",
       "last_modified": null,
       "sha256": "e03735ea709774e7a11cc7db10afd1dd5fc7268f993aa65a96b85bb2b103f8ee",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 625
     },
     "https://www.greatparks.org/parks/sharon-woods/sharon-woods-harbor": {
@@ -940,17 +940,17 @@
     "https://www.greatwolf.com/mason/accessibility": {
       "status": 200,
       "final_url": "https://www.greatwolf.com/mason/accessibility",
-      "last_modified": "Fri, 06 Nov 2026 20:48:38 GMT",
+      "last_modified": "Thu, 12 Nov 2026 21:29:06 GMT",
       "sha256": "bece82bd03ba8c3d75b518db7df58c3a87cf88f611d7a3d83d5b0e007a5b083f",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 5739
     },
     "https://www.greatwolf.com/mason/faq": {
       "status": 200,
       "final_url": "https://www.greatwolf.com/mason/faq",
-      "last_modified": "Fri, 06 Nov 2026 20:52:04 GMT",
+      "last_modified": "Thu, 12 Nov 2026 23:09:44 GMT",
       "sha256": "d6469283f05c35a52d3fe41dfe6087935d2e54b18e6e566062d1c45971646bea",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 67512
     },
     "https://www.imax.com/theatre/amc-newport-levee-20-imax": {
@@ -3389,6 +3389,86 @@
       "sha256": "1145b66886be7d7c12ff1d39769a2c530288e9d6a2a6ccef38def8264e54b24b",
       "fingerprint_version": 6,
       "chars": 2917
+    },
+    "https://caincincy.org/annettes-house/": {
+      "status": 200,
+      "final_url": "https://caincincy.org/annettes-house/",
+      "last_modified": null,
+      "sha256": "63b4f7c1afdcfc03c3a11fa681c1f952a92ab59a59887fd8f7d4e53bfeb39143",
+      "fingerprint_version": 6,
+      "chars": 1503
+    },
+    "https://caincincy.org/other-food-services/": {
+      "status": 200,
+      "final_url": "https://caincincy.org/other-food-services/",
+      "last_modified": null,
+      "sha256": "e5843e584b3ff3e12cc337392d9d2881d78eda665ab6928525b3cd5014b7cbb1",
+      "fingerprint_version": 6,
+      "chars": 2308
+    },
+    "https://caincincy.org/themarket/": {
+      "status": 200,
+      "final_url": "https://caincincy.org/themarket/",
+      "last_modified": null,
+      "sha256": "822ed39b015e6930445822f7ef9467a84ecc8ecaf96370227a91bd1ff3b2d2ac",
+      "fingerprint_version": 6,
+      "chars": 2625
+    },
+    "https://myfountainsquare.com/winterhaus/": {
+      "status": 200,
+      "final_url": "https://myfountainsquare.com/winterhaus/",
+      "last_modified": "Fri, 13 Nov 2026 09:27:00 GMT",
+      "sha256": "eced4b42df9ed76c3840a98ec05bf72010bbaa78861e624bcdb8a1f2c7beaa1b",
+      "fingerprint_version": 6,
+      "chars": 2775
+    },
+    "https://www.greatparks.org/about/policies/entrance-to-parks-and-facilities": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/about/policies/entrance-to-parks-and-facilities",
+      "last_modified": null,
+      "sha256": "2bb990e5bd3a39b2246e0c793b5e8beb8789ea2f86aa7ada21bef2dbebed45f3",
+      "fingerprint_version": 6,
+      "chars": 788
+    },
+    "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+      "last_modified": null,
+      "sha256": "dd89dfc71248279073edc4ccb13fe4e51f3d87313c8f2c32a10cb0a93fb37ecd",
+      "fingerprint_version": 6,
+      "chars": 6686
+    },
+    "https://www.greatparks.org/alerts-and-closures": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/alerts-and-closures",
+      "last_modified": null,
+      "sha256": "cb7c695b3a1bab14a4f5384eed5b04acbadcde4f8905c0831aab4a9cd0deb767",
+      "fingerprint_version": 6,
+      "chars": 5017
+    },
+    "https://www.greatparks.org/parks/sharon-woods/sharon-center": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/sharon-woods/sharon-center",
+      "last_modified": null,
+      "sha256": "6410dedcf7a4e74c2f0d03c9efae60dca4935ea9e71531e872ba77d81fb0fbf3",
+      "fingerprint_version": 6,
+      "chars": 1820
+    },
+    "https://promowestlive.com/cincinnati/megacorp-pavilion/directions-parking": {
+      "status": 200,
+      "final_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/directions-parking",
+      "last_modified": null,
+      "sha256": "a79e95c9f60293cc090c22c8d785d8cb99049f685e4105a53a302e2adcb16dfc",
+      "fingerprint_version": 6,
+      "chars": 1315
+    },
+    "https://www.greatparks.org/parks/sharon-woods/gorge-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/sharon-woods/gorge-trail",
+      "last_modified": null,
+      "sha256": "1ad592011d445eb32992459af106c869c6556f4e2e408a322773cd95054b20c4",
+      "fingerprint_version": 6,
+      "chars": 866
     }
   },
   "findings": {

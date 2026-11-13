@@ -1,0 +1,79 @@
+{
+  "sharon-woods.cognitive.1": {
+    "text": "Great Parks says it will make every effort to provide reasonable accommodations for special events and educational programs with two weeks' advance notice. Contact Guest Relations at 513-521-7275 (Voice/TDD).",
+    "url": "https://www.greatparks.org/about/accessibility",
+    "quote": [
+      "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs .",
+      "People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD."
+    ],
+    "reason": "Restored the source's effort condition; advance notice is not a guarantee of an accommodation."
+  },
+  "sharon-woods.chronic.1": {
+    "text": "Great Parks lists the harbor parking, restrooms, boathouse and playground as closed from October 2026 through completion of the harbor project.",
+    "url": "https://www.greatparks.org/about/projects/sharon-woods-harbor-revitalization",
+    "quote": "The following are closed from October 2026 through the project's completion: Harbor area (parking, restrooms, boathouse and playground)",
+    "reason": "Replaced an unqualified shaded-seating amenity with the current construction closure; the general harbor page still describes seating but does not establish availability during works."
+  },
+  "sharon-woods.cognitive.3": {
+    "text": "The park phone is 513-563-4513.",
+    "url": "https://www.greatparks.org/parks/sharon-woods",
+    "quote": "Phone: 513-563-4513",
+    "reason": "Moved the vehicle-permit clause to a separate note citing the policy page that states the requirement; the park page only links to that policy."
+  },
+  "fountain-square.chronic.2": {
+    "text": "For medically necessary equipment charging, ask at the Fountain Square concession stand. The rules say outlets may be available in some circumstances, primarily during events, and staff will try to accommodate requests; a power source is not guaranteed.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": [
+      "In certain circumstances, primarily when events are actively taking place, the electrical outlets in certain locations in Fountain Square can be made available to park patrons for medically necessary devices.",
+      "If you must charge your medically necessary equipment, 3CDC staff members will work to accommodate you to the best of our ability during your visit to Fountain Square.",
+      "To access a power source for your medically necessary equipment, visit the Fountain Square Concession Stand and ask as staff member for proper accommodations."
+    ],
+    "reason": "Retained the conditions and best-effort wording instead of presenting charging as an unconditional service."
+  },
+  "fountain-square.chronic.4": {
+    "text": "If no event is taking place or the concession stand is closed, seek a 3CDC operations staff member about charging medically necessary equipment. Staff will try to accommodate the request.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": "Note that if no events are taking place during your visit and/or the Fountain Square Concession Stand is closed, you should seek out a 3CDC operations staff member, and staff will try to accommodate your request.",
+    "reason": "Restored the explicit attempt condition for charging assistance outside event/concession hours."
+  },
+  "fountain-square.chronic.5": {
+    "text": "Winterhaus permits outside food and non-alcoholic drinks if at least one person in the group buys an item there. Its rules request a 30-minute seated limit for individuals who do not buy anything, and a one-hour seat limit for all guests.",
+    "url": "https://myfountainsquare.com/square-rules/",
+    "quote": [
+      "Patrons are welcome to bring outside food and non-alcoholic beverages, but at least one member of any group utilizing the space must purchase at least one item from Winterhaus.",
+      "Individuals who do not purchase an item from the Winterhaus are respectfully asked to limit their time in seated spaces to no more than 30 minutes to accommodate other patrons.",
+      "To ensure this space is accessible and enjoyable for all intended guests, please limit use of seats provided to 1-hour."
+    ],
+    "reason": "Restored the separate non-purchaser seating limit and moved heated-tent description to its supporting Winterhaus page."
+  },
+  "great-wolf-lodge-mason.mobility.2": {
+    "text": "The accessibility page lists pool areas with some combination of sloped zero-depth entries, transport systems or pool lifts, plus a limited number of free waterproof wheelchairs at specific locations. It does not identify the equipment at each Mason pool.",
+    "url": "https://www.greatwolf.com/mason/accessibility",
+    "quote": [
+      "Pool areas with some combination of sloped zero-depth entries, transport systems or pool lifts for accessibility",
+      "A limited number of waterproof wheelchairs are available for use at no charge at specific locations"
+    ],
+    "reason": "Moved the waterslide/elevated-attraction exclusion to a new note citing the FAQ that actually states it; retained the limited pool-entry scope."
+  },
+  "great-wolf-lodge-mason.mobility.5": {
+    "text": "In its FAQ answer about scooters, Segways and hoverboards, Great Wolf asks guests operating a mobility device for medical purposes to provide medical documentation on arrival. Confirm how the lodge applies this published request to your device before travelling.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": [
+      "Can I use drones, scooters, Segways or Hoverboards inside the lodge?",
+      "If you operate a mobility device for medical purposes please provide medical documentation upon arrival."
+    ],
+    "reason": "Kept the published request explicitly attributed and in the context of its device-policy FAQ, rather than turning it into a general eligibility rule."
+  },
+  "great-wolf-lodge-mason.chronic.1": {
+    "text": "The FAQ permits service animals except in water-park pools and attractions. Outside food and drink are generally excluded from the water park; personalized desserts may be approved in advance if made in a licensed, nut-free facility with a purchase receipt. Allergen-free alternatives can be discussed ahead of time. Pool chairs are first come, first served.",
+    "url": "https://www.greatwolf.com/mason/faq",
+    "quote": [
+      "Service animals as defined by the ADA are allowed in all areas of the resort. For the health and safety of our guests, service animals are not allowed in the pools and attractions of the water park.",
+      "There is no outside food or drink allowed in the water park, including glass containers and personal coolers.",
+      "Birthday cakes, cupcakes, or other personalized desserts may be allowed in the water park with prior approval from the lodge. They must be prepared in a licensed, nut-free facility and accompanied by a purchase receipt.",
+      "We would be happy to discuss allergen-free alternatives in advance.",
+      "Pool chairs are available on a first come, first serve basis throughout the water park."
+    ],
+    "reason": "Retained separate evidence for each clause and restored the stated conditional dessert exception to the food restriction."
+  }
+}

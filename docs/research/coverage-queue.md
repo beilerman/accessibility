@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after host-test repair, Ballet/Observatory/Playhouse full reviews, a partial Music Hall review, Mayerson JCC and deep access-photo research.
+Updated November 13, 2026, after Sharon Woods, Fountain Square, Great Wolf Mason and MegaCorp full reviews, a partial Miami Whitewater alert update, CAIN and deep access-photo research.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,10 +9,10 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now 226 notes. The latest continuation adds
-three full reviews and one partial review (31 old notes), repairing 31 missing passages
-with seven corrections/clarifications; separate from 37 new notes. Combined with the
-recovered batch: seven full reviews, one partial, 57 backfilled and 72 new notes. Start with transit
+remaining legacy missing-passage backlog is now **195 notes**. The latest pass adds
+four full reviews and one partial alert review (32 old notes), repairing 31 missing
+passages with eleven corrections/clarifications; separate from 42 new IDs.
+The preceding 147-place batch is already in this pass’s publication base. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -20,9 +20,9 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 147 places. Its categories contain 32 arts venues,
+The prepared catalog has 148 places. Its categories contain 32 arts venues,
 31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
-entries, sixteen food/drink venues, eleven shopping destinations, six public-service
+entries, sixteen food/drink venues, eleven shopping destinations, seven public-service
 listings and eight recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
@@ -50,7 +50,75 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest continuation — November 13 Ballet, Observatory, Playhouse, Music Hall and Mayerson JCC
+## Latest pass — November 13 Sharon Woods, Fountain Square, Great Wolf Mason, MegaCorp and CAIN
+
+Read the [report](sharon-fountain-wolf-cain-2026-11-13.md),
+[media receipt](sharon-fountain-wolf-cain-2026-11-13-media.json) and
+[validation receipt](sharon-fountain-wolf-cain-2026-11-13-validation.json).
+
+**Recovery:** clean start at `a3ae05b33895f76c52144b093ae948de5f2da4a8`;
+previous runner push succeeded. No pending edits, markers or prior failure remained.
+
+**Backfill/freshness:** four full reviews — Sharon 8, Fountain 7, Wolf 8 and
+MegaCorp 8 old notes. One partial Miami Whitewater trail-alert correction; whole
+review date stays November 12. **32 old notes: 21 unchanged/11 revised; 31 missing
+passages repaired, 226 → 195.** Prior weekly full-review minimum already met.
+
+**Public information:** 42 new IDs — Sharon 7, Fountain 4, Wolf 7, MegaCorp 8,
+Miami Whitewater 1 and **CAIN — The Market 15**, plus MegaCorp's missing street
+address. Two IDs solely relocate prior clauses to their proper source. CAIN adds
+Northside food assistance: stairs-only lobby and staff-arranged alternative,
+timed/capacity-limited sign-in, no-document eligibility, proxy shopping and the
+separate Annette's House ramp/bathrooms. Neither the alternate Market doorway nor
+an adult changing table is established. CAIN's old winter holiday dates are not
+reused for the coming season. Three late notes cover Monday sit-down/takeaway
+quantity limits, Thursday potluck locations and pantry-hour snack-pack requests.
+
+**Corrections/limits:** Sharon harbor amenities closed during construction;
+East Kemper and water-level date conflicts retained. Gorge Trail also has differing
+Moderate versus Easy/Moderate labels on the main and individual pages. Fountain medical-power help
+is conditional; Winterhaus purchase/seating rules preserved. Wolf pool equipment
+is not mapped to individual pools; device-documentation and dessert conditions
+are retained. MegaCorp's FOH label is not expanded to an inferred sound booth;
+box-office holiday exclusions and 3rd Street arrival are explicit. Miami Whitewater
+has a separate irrigation closure notice through February 12, 2027.
+
+**Photos/guides:** two licensed historical full frames — Sharon Gorge Trail
+surface (2010) and Fountain plaza steps/paving/seating (2007) — and one linked
+27-page Mason sensory guide (January 2025 metadata, 15.4 MB). The PDF exceeded the
+helper's evidence size limit; it was independently fetched/rendered for the guide
+link only, with no source_checked policy note from that rejected document.
+Inspected 97 preview occurrences, five full originals and 27 PDF pages. Individual
+file licences matter: The Standard examples are CC BY-SA 2.0; the inspected Latonia
+Fire Station 8 example is All rights reserved. Do not infer one licence from the
+photographer's other work.
+
+**Prepared totals:** 148 places; 1,472 active/one retired; 1,277 quoted active;
+195 missing; 63 photos; 30 guide entries/26 documents. Final evidence checks cover
+74 notes and two addresses; 22 selected source baselines. Unit/pipeline,
+lint/types/build and HTTP/image checks pass. Chromium is blocked by macOS MachPort
+permission denied (1100), and the separate browser host is unavailable. Runner
+must run the complete host browser/Axe suite before push. No Git writes or deployment.
+
+**Next concrete batch:** Falcon Theatre (7 missing passages), Fitton Center (8),
+then Kings Island or Cincinnati Zoo (12 each) if a full review fits. Pair with an
+everyday NKY service/grocery lead. SVDP NKY Erlanger pantry/equipment pages are
+fresh 403 and remain unverified; [food/hygiene](https://www.svdpnky.org/help-with-food-hygiene/)
+and [equipment](https://www.svdpnky.org/medical-equipment/) snippets are not evidence.
+The Standard Covington official homepage has an address but insufficient access
+information; inspect the alternative entrance/toilets before creating a listing.
+The [next-review availability preflight](sharon-fountain-wolf-cain-2026-11-13-next-preflight.json)
+reached all twelve source URLs with 200/nonempty text. No claim review or freshness
+credit is counted from that preflight.
+
+**Next photo views:** Sharon's current detours/open toilets; Fountain west-ramp
+restroom and garage elevator landings; Mason pool-entry equipment and changing;
+CAIN's alternative Market doorway and Annette's rear ramp; MegaCorp's
+[officially linked virtual tour](https://visitingmedia.com/tt8/?ttid=megacorp-pavilion).
+The tour awaits a working browser. Original HTML-gallery/tour display is still a
+separate UI-tested follow-up; do not disguise HTML as a PDF guide.
+
+## Previous continuation — November 13 Ballet, Observatory, Playhouse, Music Hall and Mayerson JCC
 
 See [research report](music-observatory-ballet-jcc-2026-11-13.md),
 [media receipt](music-observatory-ballet-jcc-2026-11-13-media.json) and

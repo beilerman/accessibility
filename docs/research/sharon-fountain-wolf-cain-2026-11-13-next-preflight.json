@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-13",
+  "scope": "Read-only availability preflight for next full reviews; no notes or venue freshness dates changed. Presence of text does not establish support for any claim.",
+  "venues": [
+    {
+      "slug": "cincinnati-zoo-botanical-garden",
+      "missingPassages": 12
+    },
+    {
+      "slug": "falcon-theatre",
+      "missingPassages": 7
+    },
+    {
+      "slug": "kings-island",
+      "missingPassages": 12
+    },
+    {
+      "slug": "fitton-center-for-creative-arts",
+      "missingPassages": 8
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+      "status": 200,
+      "finalUrl": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
+      "sha256": "9ea30831fe2465b2935d9567266fd9d8e743160353839f8d3c3c7c0df6acbc54",
+      "extractable": true,
+      "characters": 26073,
+      "error": null
+    },
+    {
+      "url": "https://falcontheater.net/contact-us/",
+      "status": 200,
+      "finalUrl": "https://falcontheater.net/contact-us/",
+      "sha256": "b774f56dac107a1071e120b717d8cf08c905a90369ab4801885e99c2debd34ab",
+      "extractable": true,
+      "characters": 503,
+      "error": null
+    },
+    {
+      "url": "https://falcontheater.net/contact-us/directions-to-falcon/",
+      "status": 200,
+      "finalUrl": "https://falcontheater.net/contact-us/directions-to-falcon/",
+      "sha256": "aa6268579d7c8a565d539bf374aeedad2340ecf4df40f2b3a912f291b19d31c7",
+      "extractable": true,
+      "characters": 595,
+      "error": null
+    },
+    {
+      "url": "https://falcontheater.net/health-safety/",
+      "status": 200,
+      "finalUrl": "https://falcontheater.net/health-safety/",
+      "sha256": "a62f1cbde56cf471a9db0695b0605e704888de10253f53c541399d1e7b8c93c8",
+      "extractable": true,
+      "characters": 2221,
+      "error": null
+    },
+    {
+      "url": "https://falcontheater.net/tickets-information/",
+      "status": 200,
+      "finalUrl": "https://falcontheater.net/tickets-information/",
+      "sha256": "391563f42b1cd1f584757afd62b7b378e1fb779d06b77fc02198db8bc54b94fe",
+      "extractable": true,
+      "characters": 2222,
+      "error": null
+    },
+    {
+      "url": "https://falcontheater.net/tickets-information/ticket-policies/",
+      "status": 200,
+      "finalUrl": "https://falcontheater.net/tickets-information/ticket-policies/",
+      "sha256": "11adcf3a9be167ff3fdcdf6786ca2c4131d5c33bb0c131418568c6533cd3cb16",
+      "extractable": true,
+      "characters": 2552,
+      "error": null
+    },
+    {
+      "url": "https://falcontheater.net/visit/",
+      "status": 200,
+      "finalUrl": "https://falcontheater.net/visit/",
+      "sha256": "56f4cafdc5a9cb9efefbca974a33d78fd674bef1b3b3c7a00fb1c71b4a36119d",
+      "extractable": true,
+      "characters": 580,
+      "error": null
+    },
+    {
+      "url": "https://www.fittoncenter.org/accessibility",
+      "status": 200,
+      "finalUrl": "https://www.fittoncenter.org/accessibility",
+      "sha256": "3a271e1164f7cf219d5131b4c98343720894417712ba6334986714ea42f68bf7",
+      "extractable": true,
+      "characters": 1677,
+      "error": null
+    },
+    {
+      "url": "https://www.fittoncenter.org/faqs",
+      "status": 200,
+      "finalUrl": "https://www.fittoncenter.org/faqs",
+      "sha256": "01b0b5a6f952942025d1dc23e505f3696a73ce02771c64fce807b053d04c3e14",
+      "extractable": true,
+      "characters": 3267,
+      "error": null
+    },
+    {
+      "url": "https://www.sixflags.com/kingsisland/accessibility",
+      "status": 200,
+      "finalUrl": "https://www.sixflags.com/kingsisland/accessibility",
+      "sha256": "5c63c3239c7d211ad075f6f068cb241a8a48c836ed7c05e0a9d3fc738f4023be",
+      "extractable": true,
+      "characters": 1101,
+      "error": null
+    },
+    {
+      "url": "https://www.sixflags.com/kingsisland/frequently-asked-questions",
+      "status": 200,
+      "finalUrl": "https://www.sixflags.com/kingsisland/frequently-asked-questions",
+      "sha256": "d1307826abc01fad4609de49422926dcba07da80b32c720c376c0a0bcef8d57f",
+      "extractable": true,
+      "characters": 3377,
+      "error": null
+    },
+    {
+      "url": "https://www.sixflags.com/kingsisland/parking",
+      "status": 200,
+      "finalUrl": "https://www.sixflags.com/kingsisland/parking",
+      "sha256": "3bd1b17bb180bc18644ac47b11438964ef56b97f9a4b899103aab5570d95d757",
+      "extractable": true,
+      "characters": 1586,
+      "error": null
+    }
+  ]
+}
