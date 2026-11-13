@@ -94,7 +94,7 @@
       "final_url": "https://cincinnatizoo.org/plan-your-adventure/zoo-access-for-all/",
       "last_modified": null,
       "sha256": "9ea30831fe2465b2935d9567266fd9d8e743160353839f8d3c3c7c0df6acbc54",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 26073
     },
     "https://cincyplay.com/visit/accessibility": {
@@ -133,16 +133,16 @@
       "status": 200,
       "final_url": "https://falcontheater.net/contact-us/",
       "last_modified": null,
-      "sha256": "951921385bf7f33c03747487012993e5348118edd7fe88a33ab4f3c67f847d48",
-      "fingerprint_version": 5,
-      "chars": 501
+      "sha256": "1227a8583e743493a89f4e4c609f7307e7d70fc70fc328d301695ddf9cd5e49f",
+      "fingerprint_version": 6,
+      "chars": 496
     },
     "https://falcontheater.net/contact-us/directions-to-falcon/": {
       "status": 200,
       "final_url": "https://falcontheater.net/contact-us/directions-to-falcon/",
       "last_modified": null,
       "sha256": "aa6268579d7c8a565d539bf374aeedad2340ecf4df40f2b3a912f291b19d31c7",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 595
     },
     "https://falcontheater.net/health-safety/": {
@@ -150,7 +150,7 @@
       "final_url": "https://falcontheater.net/health-safety/",
       "last_modified": null,
       "sha256": "a62f1cbde56cf471a9db0695b0605e704888de10253f53c541399d1e7b8c93c8",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2221
     },
     "https://falcontheater.net/tickets-information/": {
@@ -158,7 +158,7 @@
       "final_url": "https://falcontheater.net/tickets-information/",
       "last_modified": null,
       "sha256": "391563f42b1cd1f584757afd62b7b378e1fb779d06b77fc02198db8bc54b94fe",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2222
     },
     "https://falcontheater.net/tickets-information/ticket-policies/": {
@@ -166,7 +166,7 @@
       "final_url": "https://falcontheater.net/tickets-information/ticket-policies/",
       "last_modified": null,
       "sha256": "11adcf3a9be167ff3fdcdf6786ca2c4131d5c33bb0c131418568c6533cd3cb16",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2552
     },
     "https://falcontheater.net/visit/": {
@@ -174,7 +174,7 @@
       "final_url": "https://falcontheater.net/visit/",
       "last_modified": null,
       "sha256": "56f4cafdc5a9cb9efefbca974a33d78fd674bef1b3b3c7a00fb1c71b4a36119d",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 580
     },
     "https://florence-ky.gov/residents/florence-family-aquatic-center/": {
@@ -798,7 +798,7 @@
       "final_url": "https://www.fittoncenter.org/accessibility",
       "last_modified": null,
       "sha256": "3a271e1164f7cf219d5131b4c98343720894417712ba6334986714ea42f68bf7",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1677
     },
     "https://www.go-metro.com/access": {
@@ -1102,7 +1102,7 @@
       "final_url": "https://www.sixflags.com/kingsisland/accessibility",
       "last_modified": null,
       "sha256": "5c63c3239c7d211ad075f6f068cb241a8a48c836ed7c05e0a9d3fc738f4023be",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1101
     },
     "https://www.sixflags.com/kingsisland/rentals": {
@@ -1110,7 +1110,7 @@
       "final_url": "https://www.sixflags.com/kingsisland/rentals",
       "last_modified": null,
       "sha256": "a88009eaebb440b6a6da9dd1e5a70a4fdca9a66deeee150103528aaf649a098f",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1575
     },
     "https://www.southgatehouse.com/about/": {
@@ -1590,7 +1590,7 @@
       "final_url": "https://www.fittoncenter.org/faqs",
       "last_modified": null,
       "sha256": "01b0b5a6f952942025d1dc23e505f3696a73ce02771c64fce807b053d04c3e14",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3267
     },
     "https://www.go-metro.com/access-paratransit/": {
@@ -1706,7 +1706,7 @@
       "final_url": "https://www.sixflags.com/kingsisland/frequently-asked-questions",
       "last_modified": null,
       "sha256": "d1307826abc01fad4609de49422926dcba07da80b32c720c376c0a0bcef8d57f",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3377
     },
     "https://www.sixflags.com/kingsisland/parking": {
@@ -1714,7 +1714,7 @@
       "final_url": "https://www.sixflags.com/kingsisland/parking",
       "last_modified": null,
       "sha256": "3bd1b17bb180bc18644ac47b11438964ef56b97f9a4b899103aab5570d95d757",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1586
     },
     "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php": {
@@ -3469,6 +3469,64 @@
       "sha256": "1ad592011d445eb32992459af106c869c6556f4e2e408a322773cd95054b20c4",
       "fingerprint_version": 6,
       "chars": 866
+    },
+    "https://beconcerned.org/about-us/": {
+      "status": 200,
+      "final_url": "https://beconcerned.org/about-us/",
+      "last_modified": "Fri, 06 Nov 2026 08:56:37 GMT",
+      "sha256": "268ca7af52fd0295bf5f5aa20c0cdda3c246ed1b57cdeb9460d3b373f1e08f70",
+      "fingerprint_version": 6,
+      "chars": 3521
+    },
+    "https://beconcerned.org/contact-us/": {
+      "status": 200,
+      "final_url": "https://beconcerned.org/contact-us/",
+      "last_modified": "Fri, 06 Nov 2026 07:24:11 GMT",
+      "sha256": "fb5245c5cdccf62c1573536b4f61af215f2623f73e81426d83a4812b9b05a85a",
+      "fingerprint_version": 6,
+      "chars": 587
+    },
+    "https://beconcerned.org/faqs/": {
+      "status": 200,
+      "final_url": "https://beconcerned.org/faqs/",
+      "last_modified": "Fri, 06 Nov 2026 13:32:16 GMT",
+      "sha256": "fed7612af8740c7d2d490e32cf79156673c018d5b87834df9434f4d26b72bbb9",
+      "fingerprint_version": 6,
+      "chars": 3261
+    },
+    "https://beconcerned.org/food-programs/": {
+      "status": 200,
+      "final_url": "https://beconcerned.org/food-programs/",
+      "last_modified": "Fri, 06 Nov 2026 11:59:11 GMT",
+      "sha256": "408ec683088931e4a34ba09f7430e0328802f38f57a0a039c239ed2fda5f4367",
+      "fingerprint_version": 6,
+      "chars": 1471
+    },
+    "https://beconcerned.org/get-help/": {
+      "status": 200,
+      "final_url": "https://beconcerned.org/get-help/",
+      "last_modified": "Fri, 06 Nov 2026 14:42:39 GMT",
+      "sha256": "66c2a43e46d650d299f03c08870090f8c70844b6343a1ad430aa4ed293284b74",
+      "fingerprint_version": 6,
+      "chars": 2006
+    },
+    "https://media.qrtiger.com/files/2026/04/web-pdf---ki-26-0003-guest-accessibility-guide.pdf": {
+      "status": 200,
+      "final_url": "https://media.qrtiger.com/files/2026/04/web-pdf---ki-26-0003-guest-accessibility-guide.pdf",
+      "last_modified": "Tue, 21 Apr 2026 22:50:25 GMT",
+      "sha256": "532d5ff7bc82d2265b37875dbae3718d99c8c42edad494f962067a88f556c388",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 139046,
+      "pages": 68
+    },
+    "https://www.fittoncenter.org/camp-procedures-and-protocols": {
+      "status": 200,
+      "final_url": "https://www.fittoncenter.org/camp-procedures-and-protocols",
+      "last_modified": null,
+      "sha256": "c288b64fdada7e23e7631d4e40f070ab7777f47c7eec19008ff52f6d39bc9187",
+      "fingerprint_version": 6,
+      "chars": 11781
     }
   },
   "findings": {
@@ -3479,7 +3537,6 @@
     "https://www.americansignmuseum.org/visit": "supported",
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": "unstable",
     "https://www.kentonlibrary.org/locations/5/": "supported",
-    "https://www.sixflags.com/kingsisland/rentals": "supported",
     "https://www.southgatehouse.com/about/": "supported",
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked",
     "https://www.target.com/sl/newport/2483": "supported",

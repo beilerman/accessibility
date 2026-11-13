@@ -1,0 +1,63 @@
+{
+  "falcon-theatre.cognitive.3": {
+    "text": "Once a show opens, its webpage links the complete program for reading before or after attending. A lobby QR code also links the full program; abbreviated printed programs are available at performances.",
+    "reason": "Retained the once-the-show-opens condition and distinguished full online programs from abbreviated printed copies.",
+    "quote": [
+      "Programs: Abbreviated physical programs are available for performances. Patrons can also scan a QR Code, displayed in the Lobby, to view the complete program online (a link to the program is also available on each show’s website page, once’s the show opens, so patrons can read the program before or after the production)."
+    ]
+  },
+  "falcon-theatre.cognitive.4": {
+    "text": "The ticket-policy page asks reserved-ticket holders to claim tickets at least 10 minutes before showtime and prepaid online-ticket holders by showtime; unclaimed tickets may be released. Latecomers may be denied admission depending on the production. Weather or illness cancellations are posted on the website and box-office line.",
+    "reason": "Preserved the separate reserved and prepaid-online deadlines and the unclaimed-ticket condition.",
+    "quote": [
+      "All reserved tickets must be claimed at least 10 minutes prior to show time and pre-paid tickets (online sales) must be claimed by show time. Falcon reserves the right to release any unclaimed tickets.",
+      "Latecomers may be denied admission depending upon the demands or structure or a particular production.",
+      "If a performance needs to be cancelled due to inclement weather, illness or other unforeseen events we will notify public information sources. We will also post cancellation information on our Website and our Box Office phone line. Please call our box office for ticket exchanges/refunds."
+    ]
+  },
+  "fitton-center-for-creative-arts.mobility.3": {
+    "text": "Fitton lists height-adjustable tables in the basement studio and studio 104. It says room layouts in the Carruthers Signature Ballroom, Rotary Vista Room and Riverview Terrace can be arranged to accommodate mobility devices.",
+    "reason": "Limited adjustable-table coverage to the two named studios and attributed the flexible-layout statement.",
+    "quote": [
+      "Height-adjustable tables in basement studio and studio 104",
+      "Flexible room setup in the Carruthers Signature Ballroom and Rotary Vista Room– as well as on the Riverview Terrace – to accommodate all mobility devices"
+    ]
+  },
+  "fitton-center-for-creative-arts.mobility.4": {
+    "text": "Fitton’s event-rental FAQ lists a free 99-space parking lot for event guests and warns that it may be shared when multiple events take place. It also lists surrounding lots and street parking, without describing their access features.",
+    "reason": "Added the parking capacity and retained the event-rental scope rather than implying exclusive parking.",
+    "quote": [
+      "The Fitton Center has a parking lot with 99 spaces. It is free and available for use for you and your guests. Sometimes we have multiple events taking place and the parking lot is shared. There are other lots surrounding the Fitton Center as well as street parking."
+    ]
+  },
+  "cincinnati-zoo-botanical-garden.chronic.3": {
+    "text": "When a visitor requires a caregiver’s assistance, one caregiver can receive a free ticket by identifying themselves at the ticketing windows. The visitor and any additional caregivers need paid admission.",
+    "reason": "Added the collection point, self-identification step and separate admission requirements.",
+    "quote": [
+      "If a caregiver is required to assist a visitor during their Zoo visit, one caregiver can receive a FREE admission ticket. The caregiver needs to identify that they are a caregiver at the ticketing windows to receive free admission. The visitor requiring a caregiver, and any additional caregivers, will need to purchase an admission ticket to enter the Zoo."
+    ]
+  },
+  "kings-island.cognitive.2": {
+    "text": "Guests seeking accommodations for mobility restrictions or cognitive impairments are encouraged to register for an IBCCES Accessibility Card online or through its app. The park describes an application and documentation upload before the digital card is available.",
+    "reason": "Preserved the encouraged rather than mandatory wording and added the application/documentation step.",
+    "quote": [
+      "Guests with mobility restrictions or cognitive impairments who request reasonable accommodations are encouraged to obtain the IBCCES Accessibility Card (IAC) by registering at",
+      "or via the Accessibility Card mobile App. Once a Guest has filled out the online application and uploaded necessary documentation into a secure online portal, they will be able to access their digital Accessibility Card."
+    ]
+  },
+  "kings-island.mobility.3": {
+    "text": "The park prohibits leg prostheses on Banshee, Delirium, Diamondback, Invertigo and Orion. It says guests with certain amputations may be eligible for a separate supplemental harness on Orion, Diamondback and Banshee if remaining arm and leg remnants can be secured; Guest Services determines eligibility.",
+    "reason": "Retained the specific harness fit condition and Guest Services eligibility step.",
+    "quote": [
+      "Guests with leg prostheses are not permitted to ride Banshee, Delirium, Diamondback, Invertigo, or Orion.",
+      "Guests with certain amputations may be able to ride Orion, Diamondback, and Banshee with the use of a separate supplemental restraint harness, provided the Guest has remaining leg and arm remnants to be secured by the harness. Guests should check with Guest Services to determine if they are eligible to ride using the supplemental restraint harness."
+    ]
+  },
+  "kings-island.chronic.3": {
+    "text": "For same-day re-entry, request a re-entry ticket at the Front Gate or Soak City exit; passholders may use their season-pass card. The FAQ says there is no re-entry after 6 p.m. on Halloween Haunt nights for either ticket holders or passholders. Keep the parking receipt if leaving and returning to the lot.",
+    "reason": "Restored the event-specific re-entry restriction, passholder procedure and parking-receipt requirement.",
+    "quote": [
+      "If you wish to leave the park and return on the same day, please request a re-entry ticket at the Front Gate or Soak City exit. If you wish to leave the parking lot and re-enter, present your parking receipt to the attendant when you return. Passholders can re-enter by using their season pass card. Please be advised there is no re-entry after 6:00 PM during Halloween Haunt nights for both ticket holders and Passholders."
+    ]
+  }
+}

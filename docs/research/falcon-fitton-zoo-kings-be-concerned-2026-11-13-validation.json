@@ -1,0 +1,177 @@
+{
+  "prepared_at_utc": "2026-11-13T11:45:20.094305+00:00",
+  "base_commit": "f1bbf00417c90be0ecafd76da6c9503752f09866",
+  "publication_state": "Prepared for runner validation and atomic Git publication; not deployed by agent.",
+  "counts": {
+    "old_reviewed": 41,
+    "unchanged_rechecked": 33,
+    "evidence_backfills": 39,
+    "revised": 8,
+    "new_notes": 43,
+    "full_rechecks": 4,
+    "new_places": 1
+  },
+  "reviews": [
+    {
+      "slug": "cincinnati-zoo-botanical-garden",
+      "old_reviewed": 13,
+      "revised": 1,
+      "unchanged": 12,
+      "backfilled": 12,
+      "new_notes": 10,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "falcon-theatre",
+      "old_reviewed": 7,
+      "revised": 2,
+      "unchanged": 5,
+      "backfilled": 7,
+      "new_notes": 3,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "kings-island",
+      "old_reviewed": 13,
+      "revised": 3,
+      "unchanged": 10,
+      "backfilled": 12,
+      "new_notes": 16,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    },
+    {
+      "slug": "fitton-center-for-creative-arts",
+      "old_reviewed": 8,
+      "revised": 2,
+      "unchanged": 6,
+      "backfilled": 8,
+      "new_notes": 2,
+      "previous_checked_at": "2026-11-09",
+      "checked_at": "2026-11-13"
+    }
+  ],
+  "totals": {
+    "places": 149,
+    "active_notes": 1515,
+    "retired_notes": 1,
+    "quoted_active": 1359,
+    "missing_passages": 156,
+    "access_photos": 66,
+    "guide_entries": 33,
+    "distinct_guide_documents": 29
+  },
+  "preservation": {
+    "all_existing_ids_and_history_prefixes": true,
+    "retired_notes": true,
+    "unrelated_places_and_quotes": true,
+    "unrelated_media_entries": true,
+    "existing_guide_corrections": [
+      "cincinnati-zoo-arrival"
+    ],
+    "unselected_source_snapshot_entries": true
+  },
+  "validation": {
+    "fresh_evidence_checks": 85,
+    "fresh_evidence_failures": 0,
+    "selected_source_baselines": 20,
+    "selected_sources_needing_attention": 0,
+    "unit_tests": 95,
+    "unit_result": "pass",
+    "pipeline_tests": 74,
+    "pipeline_result": "pass",
+    "lint": "pass",
+    "typescript": "pass",
+    "build": "pass",
+    "generated_pages": 164,
+    "browser": "Blocked before page load: macOS Chromium MachPort permission 1100. Two targeted tests selected, first launch failed and second not run. Separate CUA browser host unavailable. Full host browser/Axe verification remains required.",
+    "initial_failure_fixed": "KY Public services test expected only Government Center; updated expected list for Be Concerned.",
+    "diff_check": "pass",
+    "existing_guide_corrections": 1,
+    "pdf_pages_visually_reviewed": 125,
+    "corrected_arrival_guide_visible_in_built_html": true
+  },
+  "http_checks": [
+    {
+      "route": "/",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 178321
+    },
+    {
+      "route": "/venues/be-concerned-covington",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 96918
+    },
+    {
+      "route": "/venues/falcon-theatre",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 96571
+    },
+    {
+      "route": "/venues/fitton-center-for-creative-arts",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 91390
+    },
+    {
+      "route": "/venues/kings-island",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 189709
+    },
+    {
+      "route": "/venues/cincinnati-zoo-botanical-garden",
+      "status": 200,
+      "expected_text_present": true,
+      "bytes": 172383
+    },
+    {
+      "route": "/images/access/zoo-reptile-house-steps-2010.webp",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 289638,
+      "sha256": "179b76da6b2867c024da0ee6518aa6d7b56e5fed96ab2f2750238b20adb403a4"
+    },
+    {
+      "route": "/images/access/kings-island-banshee-night-effects-2017.webp",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 138236,
+      "sha256": "88ce872d20dbb92cc2409d70af3cd22c2b6801d31d2de779b4e88ddf7c56937e"
+    },
+    {
+      "route": "/images/access/kings-island-diamondback-queue-2026.webp",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 321298,
+      "sha256": "ca97573dabb5efcff17078d52bf2a62109d375fde44398df9f9db2a0dd6e8040"
+    }
+  ],
+  "file_sha256": {
+    "src/data/places.json": "53d42c95439a22aaad2030f2665d274e96dc64d0381385ab3cd9ac4cee271b15",
+    "pipeline/evidence/quotes.json": "f57cfeb4f9ce37c68240f5e110b8d159a3bb4eebf63223b7093bab8fa7b4269d",
+    "src/data/access-photos.json": "56c393342f915bde1317752f0014ddd2ada5a133b9302c24f02c5e35341a215d",
+    "src/data/access-guides.json": "c2891c4a2235006b1c4025672ab2b1fb99bd45ec8f70828545e5e9a66799fa93",
+    "pipeline/source-checks/2026-11-13.json": "16f28ddc14a3955f5c5bae5f367dc40d2ce4519e43a356ced387474c383d4fde",
+    "e2e/accessibility.spec.ts": "5d6bb2f870b9dff07999ebe21e3a215a5a667acf9f87e3879aae4fadc34dc2c7",
+    "src/__tests__/venue-expansion.test.ts": "c83c3e36103b3387678fe9b23629aa757535d9b478662d46e1f40b7176c3ac88"
+  },
+  "scope": {
+    "git_writes": false,
+    "deployments": false,
+    "private_correspondence": false,
+    "database_changes": false,
+    "new_ai_images": 0
+  },
+  "documentation_sha256": {
+    "docs/HANDOFF-2026-11-10.md": "af7aeb57045c0f040203273dc3673fa29816cf375a09f3c98850fa0e85864699",
+    "docs/research/coverage-queue.md": "5ae394d6c0da71fb24bb5f4d03f5780b2477e307b5627f5b8744f7f65050409e",
+    "docs/research/falcon-fitton-zoo-kings-be-concerned-2026-11-13.md": "c7ac117783d4213e5ef9058f871b9f46d9dfa9ebb4d1ef99ab022a90466265e4",
+    "docs/research/falcon-fitton-zoo-kings-be-concerned-2026-11-13-media.json": "5ce1714667025d01ee499430d82307a8a49d83ef2a33349b537d2db8f63fea2d"
+  }
+}

@@ -6,6 +6,7 @@ import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
   "/venues/cain-the-market",
+  "/venues/be-concerned-covington",
   "/venues/mayerson-jcc",
   "/venues/second-sight-spirits",
   "/venues/freestore-foodbank-bea-taylor-market",

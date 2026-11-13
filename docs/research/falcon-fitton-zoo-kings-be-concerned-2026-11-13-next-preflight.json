@@ -1,0 +1,127 @@
+{
+  "purpose": "Availability only; no note clause review or freshness credit.",
+  "checked_at": "2026-11-13",
+  "sources": [
+    {
+      "url": "https://gobananascomedy.com/main/",
+      "status": 200,
+      "final_url": "https://gobananascomedy.com/main/",
+      "last_modified": null,
+      "sha256": "50202a62e114e1d5dad5b0c6bf70d638450021a07c0c7b3183ac0748f7e23ff6",
+      "fingerprint_version": 6,
+      "chars": 7508,
+      "extracted_characters": 123941,
+      "available": true
+    },
+    {
+      "url": "https://gobananascomedy.com/main/directions/",
+      "status": 200,
+      "final_url": "https://gobananascomedy.com/main/directions/",
+      "last_modified": null,
+      "sha256": "a602e62bb24b2cb70c4eda7119962202eb4d36382319ea55392d373ccd1d7606",
+      "fingerprint_version": 6,
+      "chars": 153,
+      "extracted_characters": 114241,
+      "available": true
+    },
+    {
+      "url": "https://riverbend.org/plan-your-visit/directions-parking",
+      "status": 200,
+      "final_url": "https://riverbend.org/plan-your-visit/directions-parking",
+      "last_modified": null,
+      "sha256": "06a6444b0e36e67fc21f8cc00877554272ed24aa8744b3a7eb09e23fb77ed403",
+      "fingerprint_version": 6,
+      "chars": 1695,
+      "extracted_characters": 5309,
+      "available": true
+    },
+    {
+      "url": "https://riverbend.org/venue-info/faq",
+      "status": 200,
+      "final_url": "https://riverbend.org/venue-info/faq",
+      "last_modified": null,
+      "sha256": "6e323ce4b75a4540522c3c383b60bd7f56c449ef4ea6074c0c975220e4ff95f3",
+      "fingerprint_version": 6,
+      "chars": 12472,
+      "extracted_characters": 16115,
+      "available": true
+    },
+    {
+      "url": "https://riverbend.org/venue-information/accessibility",
+      "status": 200,
+      "final_url": "https://riverbend.org/venue-information/accessibility",
+      "last_modified": null,
+      "sha256": "25689d4f0d1c9ebed031b0cbcb234d1031569c0fa2301cb3bd542e46195fb514",
+      "fingerprint_version": 6,
+      "chars": 1474,
+      "extracted_characters": 4950,
+      "available": true
+    },
+    {
+      "url": "https://www.bengals.com/fans/fanguide",
+      "status": 200,
+      "final_url": "https://www.bengals.com/fans/fanguide",
+      "last_modified": null,
+      "sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+      "fingerprint_version": 6,
+      "chars": 25245,
+      "extracted_characters": 134144,
+      "available": true
+    },
+    {
+      "url": "https://www.bengals.com/news/fan-guide",
+      "status": 200,
+      "final_url": "https://www.bengals.com/fans/fanguide",
+      "last_modified": null,
+      "sha256": "4d6a113ec089cb842c0c870137f588625898b0d5e395811ff98e58a449bd64bd",
+      "fingerprint_version": 6,
+      "chars": 25245,
+      "extracted_characters": 134144,
+      "available": true
+    },
+    {
+      "url": "https://www.bengals.com/stadium/parking-and-directions",
+      "status": 200,
+      "final_url": "https://www.bengals.com/stadium/parking-and-directions",
+      "last_modified": null,
+      "sha256": "1e75d33a515001d9a718741573d69633adad6c299886dc37a4ed6fc6ff5771b6",
+      "fingerprint_version": 6,
+      "chars": 4756,
+      "extracted_characters": 85163,
+      "available": true
+    },
+    {
+      "url": "https://www.bengals.com/stadium/prohibited-items-bag-policy",
+      "status": 200,
+      "final_url": "https://www.bengals.com/stadium/prohibited-items-bag-policy",
+      "last_modified": null,
+      "sha256": "842581c7e0982ce4ab3def163727d544027429ef0edbccdfc61d477fcdc40e49",
+      "fingerprint_version": 6,
+      "chars": 3220,
+      "extracted_characters": 83642,
+      "available": true
+    },
+    {
+      "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
+      "last_modified": null,
+      "sha256": "68cb19a49ec5922bd4ffef29625ffc3331d32c3255c8e741cd0d2ca0dc36514c",
+      "fingerprint_version": 6,
+      "chars": 19980,
+      "extracted_characters": 861603,
+      "available": true
+    },
+    {
+      "url": "https://www.mlb.com/reds/ballpark/information/guide",
+      "status": 200,
+      "final_url": "https://www.mlb.com/reds/ballpark/information/guide",
+      "last_modified": null,
+      "sha256": "05c0457646772b00db4b5cb0355bcdb3a5a7c3471737285f90870f4b02e5d81f",
+      "fingerprint_version": 6,
+      "chars": 105750,
+      "extracted_characters": 1086081,
+      "available": true
+    }
+  ]
+}

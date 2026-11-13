@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Sharon Woods, Fountain Square, Great Wolf Mason and MegaCorp full reviews, a partial Miami Whitewater alert update, CAIN and deep access-photo research.
+Updated November 13, 2026, after Falcon, Fitton, Zoo and Kings Island full reviews, Be Concerned Covington, three licensed access photographs and three linked photo narratives.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,10 +9,10 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now **195 notes**. The latest pass adds
-four full reviews and one partial alert review (32 old notes), repairing 31 missing
-passages with eleven corrections/clarifications; separate from 42 new IDs.
-The preceding 147-place batch is already in this pass’s publication base. Start with transit
+remaining legacy missing-passage backlog is now **156 notes**. The latest pass adds
+four full reviews (41 old notes), repairing 39 missing passages with eight
+corrections/clarifications; separate from 43 new IDs. There was no partial review.
+The preceding 148-place batch is already in this pass’s publication base. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -20,9 +20,9 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 148 places. Its categories contain 32 arts venues,
+The prepared catalog has 149 places. Its categories contain 32 arts venues,
 31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
-entries, sixteen food/drink venues, eleven shopping destinations, seven public-service
+entries, sixteen food/drink venues, eleven shopping destinations, eight public-service
 listings and eight recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
@@ -50,7 +50,84 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 Sharon Woods, Fountain Square, Great Wolf Mason, MegaCorp and CAIN
+## Latest pass — November 13 Falcon, Fitton, Zoo, Kings Island and Be Concerned
+
+- **Evidence/freshness:** four full reviews, 41 old notes; 33 unchanged/eight revised.
+  Repaired 39 missing passages (**195 → 156**). Whole-venue dates advanced only for
+  Falcon, Fitton, Zoo and Kings Island. Existing IDs, history and unrelated work
+  remain intact. Weekly minimum had already been met; four more full reviews added.
+- **New information:** 43 new IDs — Falcon 3, Fitton 2, Zoo 10, Kings Island 16 and
+  new **Be Concerned Covington 12**. Be Concerned broadens NKY food assistance:
+  homebound delivery is conditional, registration hours conflict, former Erlanger
+  premises are closed, and current door/toilet/carrying arrangements remain unknown.
+- **Corrections:** Falcon show-opening/program and ticket deadlines; Fitton specific
+  adjustable-table rooms and event parking scope; Zoo caregiver collection/payment;
+  Kings IAC, harness eligibility and Haunt re-entry. New depth includes adult
+  changing, cart/device limits, rentals-to-parking boundaries, staff transfer and
+  service-animal care limits. Source conflicts remain explicit.
+- **Photos:** three licensed full frames: Zoo Reptile House entrance steps (2010,
+  Greg Hume, CC BY-SA 3.0); Banshee lighting/fog (2017, Informed Traveler, CC BY-SA
+  4.0); Diamondback entrance/part-queue (July 2026, DD Lover, CC0). None establishes
+  today's continuous route or current operation. Three new original Zoo narratives:
+  calming room 22 pages, Roo Valley 14, giraffe feeding 18. All pages inspected;
+  historical room layout, photo dates and dimensional gaps remain explicit.
+  The already-linked 32-page Zoo arrival guide was also fully inspected and
+  qualified for mixed photos/illustrations and an unspecified AI-content flag;
+  restroom/changing and quiet-space references expanded. No new guide count.
+- **Held photo leads:** 811 Monmouth is not Falcon at 636. Falcon's useful official
+  doorway image has no reuse licence; Fitton exact Commons match not found.
+  Be Concerned images inspected were portrait/food, not access features. Zoo's
+  2025 Festival of Lights guide has unspecified AI-content metadata and historical
+  event information; Welcome Center poster has 2018 metadata and future-2019
+  language. Neither was imported. Original Commons 429s were preserved; only
+  successfully fetched, inspected publisher full-frame versions were selected.
+- **Totals:** 149 places, 1,515 active/one retired note, 1,359 quoted active,
+  156 missing passages, 66 access photos, 33 guide entries/29 documents.
+- **Validation:** final 84-note/one-address evidence check and 20 source baselines;
+  final suite results in the receipt. Browser launch is blocked by macOS MachPort
+  error 1100 and the separate browser host is unavailable. Host suite still needed.
+  No agent Git writes or deployment; runner publishes and releases.
+
+Read [the report](falcon-fitton-zoo-kings-be-concerned-2026-11-13.md), its media and
+validation receipts and final evidence files. Applied specs must not be rerun.
+Next full reviews: **Riverbend (11 missing), Great American Ball Park (10), Paycor
+(11)**; **Go Bananas (4)** as a smaller alternative. Eleven source URLs returned
+200/nonempty content in availability-only preflight; no freshness credit was taken.
+Pair with NKY everyday services/groceries; blocked SVDP remains held.
+
+Specific imagery/depth follow-through:
+
+- Falcon: [official doorway](https://falcontheater.net/wp-content/uploads/BuildingPix1.png)
+  has a 2017–2018 poster and raised tiled frontage; photo date and reuse permission
+  unknown. A final eleven-view Monmouth pass still found no confirmed Falcon
+  frontage; two tiled-entry views need business/address identification and four
+  remaining downloads failed. Seek current threshold, door controls, theatre
+  seating route and toilets.
+- Fitton: [historic sign post](https://www.fittoncenter.org/post/historic-sign-shines)
+  and [sculpture garden post](https://www.fittoncenter.org/post/center-of-sculpture)
+  were followed through: all seven images inspected. The first shows a studio
+  door beside glazed entry doors with an overhead mechanism; the second shows
+  East Plaza stairs/handrails and paving. No reuse licence, threshold measurement
+  or alternative route established. Seek parking-button-door, lift landings, toilets
+  and actual studio arrangements. Do not infer a route from the contractor's old
+  entrance-conversion account.
+- Zoo: current Reptile House alternate entrance, adult-changing layouts and both
+  calming rooms. New historical photo does not establish today's only entrance.
+  The linked narratives give useful specific views without measurements.
+  The official access page also lists tactile objects and warns that some require
+  stepping off the path; goat/tortoise touch areas are seasonal. Carry those scope
+  conditions into any future tactile-route notes and seek approach photographs.
+- Kings Island: platform lifts, transfer-device setup, rental return/parking help,
+  adult-changing rooms and water-lift procedure. Follow the original
+  [DD Lover photo stream](https://www.flickr.com/photos/162414450@N02/with/55444971514/)
+  and ride categories; check every individual licence. Roof/sign-only Racer and
+  people-dominated Orion views remain held.
+- Be Concerned: Covington arrival/entrance, toilets, seating and carrying/loading
+  help; resolve morning/afternoon registration conflict and mobile-pantry exact
+  dates/sites. Historical Erlanger and pandemic drive-through sources are not
+  evidence of current Covington access.
+
+## Previous pass — November 13 Sharon Woods, Fountain Square, Great Wolf Mason, MegaCorp and CAIN
 
 Read the [report](sharon-fountain-wolf-cain-2026-11-13.md),
 [media receipt](sharon-fountain-wolf-cain-2026-11-13-media.json) and
@@ -989,7 +1066,14 @@ media and final-validation receipts. No conflicts, Git writes or deployments.
 
 ## Next concrete batch
 
-Latest priorities from the continued pass:
+Start with the latest Falcon/Fitton/Zoo/Kings report above. Review two to four of
+Riverbend, Great American Ball Park, Paycor and Go Bananas, prioritizing arrivals,
+toilets/changing, companion/transfer help and seasonal restrictions. Pair with a
+supported everyday NKY service/grocery lead and investigate useful photo views.
+The eleven-source preflight is availability only; read every claim before updating
+freshness. Keep current Falcon/Fitton/Be Concerned doors and toilets as photo gaps.
+
+Earlier unresolved priorities from the continued pass:
 
 - **Winton Woods:** current parking-to-launch approach, bench/rail operation,
   assistance/reservations, water and season limits. Inspect current Harbor Loop

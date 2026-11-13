@@ -11,6 +11,17 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Covington food assistance while preserving registration conflicts and delivery limits", () => {
+    const slug = "be-concerned-covington";
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("1100 Pike Street, Covington, KY 41011");
+    expect(text(slug)).toContain("delivery is not guaranteed");
+    expect(text(slug)).toContain("former United Ministries building in Erlanger is no longer operating");
+    expect(place(slug).limitations).toContain("Registration hours conflict");
+    expect(place(slug).limitations).toContain("carrying/loading assistance remain unverified");
+    expect(place(slug).limitations).toContain("no on-site audit");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Northside food assistance while preserving the stair barrier and separate building routes", () => {
     const slug = "cain-the-market";
     expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain(slug);
@@ -382,7 +393,7 @@ describe("November source-backed venue expansion", () => {
     expect(text("burnet-woods-trailside-nature-center")).toMatch(/same page says Saturday open hours/);
   });
   it("discovers public services and recreation while preserving construction and seasonal limits", () => {
-    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center"]);
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington"]);
     expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("uc-campus-recreation-center");
     expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toContain("dunham-recreation-complex");
     expect(place("kenton-county-government-center").address).toBe("1840 Simon Kenton Way, Covington, KY 41011");
