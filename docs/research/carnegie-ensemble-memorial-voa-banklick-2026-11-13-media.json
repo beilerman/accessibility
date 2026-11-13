@@ -1,0 +1,221 @@
+{
+  "checked_at": "2026-11-13T16:43:43.691511+00:00",
+  "licensed_photos": [
+    {
+      "id": "the-carnegie-auditorium-steps-2020",
+      "path": "public/images/access/the-carnegie-auditorium-steps-2020.webp",
+      "dimensions": [
+        1280,
+        1053
+      ],
+      "sha256": "e217cc10f80610ac68dd939207eb11e9ca8df57e454156c98921897e82732863",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Carnegie,_Eastside,_Covington,_KY_-_49739302763.jpg",
+      "author": "w_lemay",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "photo_date": "2020-03-08",
+      "checked_at": "2026-11-13",
+      "source_page_status": 200,
+      "original_and_final_visually_inspected": true,
+      "transform": "Faithful full-frame resize to 1280 pixels wide and WebP conversion; no crop, retouching or AI."
+    },
+    {
+      "id": "the-carnegie-frontage-doors-2020",
+      "path": "public/images/access/the-carnegie-frontage-doors-2020.webp",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "sha256": "af555e62347a94d484aef5dc03ede5c26b4c2e48305bdb8a98adec8e04e3e9b8",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_Carnegie,_Eastside,_Covington,_KY_-_49739845846.jpg",
+      "author": "w_lemay",
+      "license": "CC0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "photo_date": "2020-03-08",
+      "checked_at": "2026-11-13",
+      "source_page_status": 200,
+      "original_and_final_visually_inspected": true,
+      "transform": "Faithful full-frame resize to 1280 pixels wide and WebP conversion; no crop, retouching or AI."
+    }
+  ],
+  "linked_guides": [
+    {
+      "id": "ensemble-social-narrative-2026",
+      "url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+      "checked_at": "2026-11-13T16:43:43.536835+00:00",
+      "status": 200,
+      "final_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+      "sha256": "397dc75e17db1bdac4d15c0c5b0000f37e6af8ab23367577fa2ff8d588b839b8",
+      "error": null,
+      "page_count": 17,
+      "image_count": null,
+      "result": "passed"
+    },
+    {
+      "id": "memorial-hall-original-photo-tour",
+      "url": "https://www.memorialhallotr.com/virtual-tour/",
+      "checked_at": "2026-11-13T16:43:43.525594+00:00",
+      "status": 200,
+      "final_url": "https://www.memorialhallotr.com/virtual-tour/",
+      "sha256": "82a2a29538a24837f225b631d81fc054f65dbadc1734c3938a4216726cabdf73",
+      "error": null,
+      "page_count": null,
+      "image_count": 20,
+      "result": "passed"
+    },
+    {
+      "id": "covunity-banklick-fridge-photo",
+      "url": "https://covunity.org/",
+      "checked_at": "2026-11-13T16:43:43.065929+00:00",
+      "status": 200,
+      "final_url": "https://covunity.org/",
+      "sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+      "error": null,
+      "page_count": null,
+      "image_count": 1,
+      "result": "passed"
+    },
+    {
+      "id": "voa-grit-equipment-guide-2026",
+      "url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+      "checked_at": "2026-11-13T16:43:43.513292+00:00",
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+      "sha256": "9922fc9dba792b1cd513acfeaa0bd90e2e83f2ab1f851e422bd495d6b7210292",
+      "error": null,
+      "page_count": 4,
+      "image_count": null,
+      "result": "passed"
+    },
+    {
+      "id": "voa-lake-adaptive-launch-photo",
+      "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+      "checked_at": "2026-11-13T16:43:43.670111+00:00",
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+      "sha256": "1ae77db02a2bafed2cb814b492580008e5aa571367d6f5a338c1f8f1530d6ef9",
+      "error": null,
+      "page_count": null,
+      "image_count": 1,
+      "result": "passed"
+    },
+    {
+      "id": "florence-aquatic-center-official-photos",
+      "url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+      "checked_at": "2026-11-13T16:43:43.597375+00:00",
+      "status": 200,
+      "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+      "sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b",
+      "error": null,
+      "page_count": null,
+      "image_count": 4,
+      "result": "passed"
+    }
+  ],
+  "inspection_collections": [
+    {
+      "source": "Commons Category:The Carnegie (Covington, Kentucky)",
+      "inspected_views": 16,
+      "result": "Two useful CC0 photos selected; remaining views duplicate facades, decorative details or only partial education-center approach. Ten file-description pages fetched 200, six initially returned 429; no unverified-license photo published. Thumbnail throttling prevented six small previews; their originals fetched 200 and were visually inspected."
+    },
+    {
+      "source": "w_lemay Flickr source photo and album index pages 1–2",
+      "result": "Source photo and two album-index pages returned 200. Partial album-index follow-through found no further location-specific route view; not a complete photostream review."
+    },
+    {
+      "source": "Commons Category:Hamilton County Memorial Building",
+      "inspected_views": 3,
+      "result": "Side/upper facade and front-door stairs; no useful north-side patron-elevator view selected."
+    },
+    {
+      "source": "Memorial Hall official virtual tour",
+      "inspected_views": 20,
+      "result": "Twenty distinct images after gallery deduplication; linked original only. North-side elevator entrance and toilets not shown."
+    },
+    {
+      "source": "3CDC Memorial Hall project before/after gallery",
+      "inspected_views": 20,
+      "result": "Twelve after/eight before gallery entries inspected, with repeated scenes. Historical seating, stairs and partial side courtyard; no clearly identified patron-elevator route. Not added as redundant or historical route evidence."
+    },
+    {
+      "source": "Ensemble social narrative",
+      "inspected_pdf_pages": 17,
+      "result": "All pages rendered and inspected; linked original. Lobby, elevator, lift, restroom doors, seat rows and quiet mezzanine are useful; dimensions and current operation unverified."
+    },
+    {
+      "source": "GBBN Ensemble project page",
+      "inspected_views": 6,
+      "result": "Four photographs and two architectural renderings/sections. People-heavy lobby/bar views and historic streetscape; no better toilet/lift route than official narrative. No rendering treated as a photograph."
+    },
+    {
+      "source": "COVUnity Banklick photo",
+      "inspected_views": 1,
+      "result": "Closed fridge/freezer shelter, raised lower wood edge and paving; original link only, no stock or full-route inference."
+    },
+    {
+      "source": "MetroParks accessibility, VOA main and lake pages",
+      "inspected_views": 22,
+      "result": "Six system-access images, fifteen VOA main-page views and one lake launch photograph. Several system images are other/unidentified parks. Only the clearly identified lake launch page was added as a visual guide; no unidentified route assigned to VOA."
+    },
+    {
+      "source": "MetroParks GRIT equipment PDF",
+      "inspected_pdf_pages": 4,
+      "result": "All pages rendered/inspected. Product illustrations on pages 1–2 are equipment context, not venue-route evidence. Original PDF link only."
+    },
+    {
+      "source": "Florence city aquatic-center page",
+      "inspected_views": 4,
+      "result": "Empty forecourt with gates/queue chains; empty deck and slide stairs; busy overhead view; swim lesson. Original link only, no current-operation or assistance inference."
+    },
+    {
+      "source": "Florence 2026 calendar PDF",
+      "inspected_pdf_pages": 1,
+      "result": "Rendered and inspected; dated season ended September 7 and facility address is 8200 Ewing. No stale calendar displayed as a current opening."
+    },
+    {
+      "source": "https://thecarnegie.com/wp-content/uploads/The-Carnegie_Rental-Guide-and-PoliciesMay2018.pdf",
+      "status": 200,
+      "document_pages": 17,
+      "inspected_pdf_pages": 5,
+      "inspected_page_numbers": [
+        1,
+        2,
+        3,
+        6,
+        14
+      ],
+      "result": "Historical May 2018 rental guide. Inspected gallery/education-center/theatre photographs, distinct Lincoln-Grant venue, old parking map and seat diagram. No current door, toilet, air-conditioning, drop-off or rental-policy claim imported. Small education-center view does not show the full ramp. Remaining twelve pages were not visually reviewed; no guide entry added."
+    },
+    {
+      "source": "https://www.yourmetroparks.net/docs/default-source/park-map/park-maps-2024/voice-of-america-metropark-map.pdf",
+      "status": 200,
+      "document_pages": 1,
+      "inspected_pdf_pages": 1,
+      "document_date": "December 3, 2024 printed footer and PDF metadata",
+      "result": "Rendered map inspected. Shows park entrance, parking/restroom legend, trail table and a construction area; includes a new cross-country start/finish marked Coming 2025. Fresh research helper returned 200 with no extractable text, so no source_checked note was written. Held as historical orientation, not current trail/construction status; not a photograph."
+    }
+  ],
+  "held": [
+    {
+      "url": "https://boardsafedocks.com/adaptive-launch/metroparks-ada-compliant-kayak-launch/",
+      "status": null,
+      "reason": "Fresh source helper and independent HTML request timed out. Search snippet only; no note or guide published."
+    },
+    {
+      "url": "https://www.gbbn.com/work/ensemble-theater-cincinnati-etc/",
+      "status": 200,
+      "reason": "Inspected visuals did not add a better route than the official narrative; two are renderings/sections."
+    },
+    {
+      "url": "https://www.yourmetroparks.net/docs/default-source/park-map/park-maps-2024/voice-of-america-metropark-map.pdf",
+      "status": 200,
+      "reason": "No text extracted by existing source helper; historical 2024 map with Coming 2025 project label. No claim gate bypassed."
+    },
+    {
+      "url": "https://thecarnegie.com/wp-content/uploads/The-Carnegie_Rental-Guide-and-PoliciesMay2018.pdf",
+      "status": 200,
+      "reason": "May 2018 rental guide; five selected pages inspected. No current parking, drop-off, toilet or cooling claim imported."
+    }
+  ],
+  "counts_note": "Inspection counts are per collection and include repeated historical gallery scenes where noted; they are not a unique-photo total. PDF pages are counted separately."
+}

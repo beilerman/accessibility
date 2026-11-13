@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Nippert, Fifth Third Arena, Reds Museum and NKU Fine Arts full reviews; Thrifting on Eastern and COVUnity Redden Gardens; three licensed photos and eight original visual links.
+Updated November 13, 2026, after Carnegie, Ensemble, Memorial Hall and VOA full reviews; Florence partial depth; COVUnity Banklick; two licensed photos and six original visual/equipment links.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,10 +9,11 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now **90 notes**. The latest pass adds
-four full reviews (30 old notes), repairing 30 missing passages with nine
-corrections/clarifications; separate from 46 new IDs. There was no partial review.
-The preceding 151-place batch is already in this pass’s publication base. Start with transit
+remaining legacy missing-passage backlog is now **73 notes**. The latest pass adds
+four full reviews (24 old notes) and one partial review at Florence (one old note),
+repairing 17 missing passages. There are six corrections/clarifications, separate
+from 34 new IDs. Florence’s whole-venue date stays November 11. The preceding
+153-place batch is already in this pass’s publication base. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -24,16 +25,20 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 storefront photo link. Its ramp lower approach, doorway, aisles, toilets and carrying
 assistance remain unresolved. Do not re-import the older lead file.
 
-Concrete next everyday lead: **COVUnity Fridge — Banklick Street, 1214 Banklick St,
-Covington, KY 41011**. The operator distinguishes it from the newly added Redden
-Gardens fridge. The separately labeled night photograph shows a closed fridge
-and paving, but no complete approach, door force or shelf reach. Finish independent
-location/claim evidence, category/route tests and source baseline before adding.
-See `campus-reds-eastern-2026-11-13-next-preflight.json`.
+**COVUnity Fridge — Banklick Street is now added**, with five notes, independent
+location evidence, category/route tests and a linked original night photo. The
+fridge interior, door force, shelf reach and continuous approach remain unknown.
 
-The prepared catalog has 153 places: 32 arts venues, 31 parks/outdoors, 21 museums/
+Concrete next everyday lead: **Kroger Latonia, 4303 Winston Avenue, Covington**.
+Fresh store/location fetches timed out; the generic pickup FAQ was readable but
+cannot establish local services alone. Preserve the lead without importing search
+snippets. The terms request disconnected and the gift-card blog returned 503.
+No current Caroline’s Cart inventory is established by old 2014/2017 news. See
+`carnegie-ensemble-memorial-voa-banklick-2026-11-13-kroger-preflight.json`.
+
+The prepared catalog has 154 places: 32 arts venues, 31 parks/outdoors, 21 museums/
 attractions, 15 libraries, seven transport, sixteen food/drink, twelve shopping,
-eleven public-service and eight recreation/fitness listings. Continue seeking
+twelve public-service and eight recreation/fitness listings. Continue seeking
 concrete access information for everyday activities and less represented neighborhoods.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
@@ -60,7 +65,57 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 campus venues, Reds Museum and everyday Covington
+## Latest pass — November 13 Carnegie, Ensemble, Memorial, VOA and Banklick
+
+- **Evidence/freshness:** four full reviews: Carnegie 7, Ensemble 8, Memorial 5,
+  VOA 4 old notes. Florence adds one partial old-note revision; its November 11
+  whole-venue date is unchanged. **25 old notes: 19 unchanged/six revised; 17
+  missing passages repaired (90 → 73)**. Existing IDs/history are preserved.
+- **Growth:** **34 new IDs** — Carnegie 2, Ensemble 9, Memorial 3, VOA 13,
+  Florence 2 and new **COVUnity Banklick 5**. Banklick is separate from Redden
+  Gardens; no staff, inventory, reach or physical-route promise is invented.
+- **Corrections/depth:** Carnegie’s across-Scott lot is unavailable; Ensemble’s
+  further companion seats retain their adjacency limit, listening devices retain
+  T-switch compatibility, and restroom descriptions remain attributed. Memorial’s
+  garage source describes elevator shafts, and its production/patron lifts are
+  distinct. VOA pickup hours, equipment limits, deposits, assistance and seasonal
+  rental closure are explicit; its 2024 trail notice is not current closure proof.
+  Florence adds in-person pass sales and qualified Phase 1 procurement, plus the
+  parent/young-child shared-tube exception. No new Florence venue was created.
+- **Imagery:** two March 8, 2020 Carnegie CC0 full frames by w_lemay, showing
+  actual stairs and adjacent glass doors/benches. Six original links: Ensemble
+  17-page narrative; Memorial 20-photo tour; Banklick night photo; four-page VOA
+  GRIT equipment guide; VOA launch photo; four Florence facility photos. Multiple
+  Commons/photographer/architect galleries were followed; 28 PDF pages inspected
+  (including five selected pages of an old rental guide). The media receipt distinguishes repeated scenes, other parks,
+  product illustrations, renderings, historical views and current-route unknowns.
+- **Held:** Carnegie current alternative entrance/toilets; Memorial patron lift
+  entrance/toilets; Ensemble adult changing; VOA toilets/transfers/return details;
+  Florence renovation impacts; Banklick approach/reach. BoardSafe timed out; an
+  older MetroParks guide returned 404. Unlicensed originals stay linked only.
+- **Checks/totals:** 60 final note/address checks; 22 active-source baselines;
+  six guide links 200. 97 unit/74 pipeline tests, lint/types/build pass (169 pages).
+  Nine final-build HTTP routes/guide anchors and two image hashes pass. A fresh
+  browser attempt is blocked by MachPort 1100; CUA browser host is unavailable.
+  Runner’s 142-test browser suite remains required. **154 places; 1,630 active/
+  one retired; 1,557 quoted active; 73 missing; 73 photos; 51 guide entries/46 URLs
+  (32 PDF/14 web)**. No agent Git publication or deployment.
+
+Read `carnegie-ensemble-memorial-voa-banklick-2026-11-13.md` and its delta, media,
+HTTP, source and validation receipts. Core Carnegie/Ensemble/Memorial/Banklick,
+VOA depth/arrival and Florence partial specs are **already applied; do not reapply**.
+
+**Next concrete batch:** **Summit Park (five missing), Woodward Theater (five),
+Lindner Family Tennis Center/Cincinnati Open (four)** plus the held everyday
+Kroger Latonia lead. Nine source URLs passed availability-only preflight; no
+claim review or freshness credit. Molly Malone’s three source URLs returned
+403; preserve its four-note evidence backlog for manual review, and keep the
+older Heritage Village blocks unresolved. Seek tower/elevator operation, toilets/
+changing, seasonal event conditions, entrances and useful route photographs.
+
+Next-photo receipt: `carnegie-ensemble-memorial-voa-banklick-2026-11-13-next-photos.json`. Four further views inspected: two decorative Woodward banners, one obstructed 2019 Woodward approach and a distant 2020 Summit panorama. None added publicly. Follow remaining Woodward Commons angles; Summit tower-page image returned 403.
+
+## Previous pass — November 13 campus venues, Reds Museum and everyday Covington
 
 - **Evidence/freshness:** four full reviews: Nippert 10, Fifth Third Arena 7,
   Reds Hall of Fame and Museum 9, NKU Fine Arts 4. **30 old notes; 21 unchanged,

@@ -1407,5 +1407,45 @@
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:NKU-lake-3.jpg",
     "checkedAt": "2026-11-13"
+  },
+  {
+    "slug": "the-carnegie",
+    "author": "w_lemay",
+    "photoDate": "2020-03-08",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "checkedAt": "2026-11-13",
+    "width": 1280,
+    "id": "the-carnegie-auditorium-steps-2020",
+    "title": "Auditorium doorway and stair barrier (2020)",
+    "alt": "Stone steps with side and center metal handrails rise from the sidewalk to double doors beneath the Auditorium inscription and The Carnegie sign.",
+    "caption": "A March 2020 photograph shows the auditorium-side stair entrance and handrails. Full frame retained; resized and converted to WebP.",
+    "limitations": "This historical view does not show an alternative route, elevator, door controls or the connection from designated parking. It does not establish current entry arrangements, dimensions or operation.",
+    "relatedFactIds": [
+      "the-carnegie.mobility.1"
+    ],
+    "src": "/images/access/the-carnegie-auditorium-steps-2020.webp",
+    "height": 1053,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Carnegie,_Eastside,_Covington,_KY_-_49739302763.jpg"
+  },
+  {
+    "slug": "the-carnegie",
+    "author": "w_lemay",
+    "photoDate": "2020-03-08",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "checkedAt": "2026-11-13",
+    "width": 1280,
+    "id": "the-carnegie-frontage-doors-2020",
+    "title": "Front steps, adjacent glass doors and benches (2020)",
+    "alt": "The Carnegie’s old library facade has a broad stair approach; to the right, benches stand beside glass entrance doors in the adjoining building.",
+    "caption": "This March 2020 view distinguishes the front library steps from the adjoining glass-door entrance and shows two benches beside the paved forecourt. Full frame retained; resized and converted to WebP.",
+    "limitations": "The lower approach, exact thresholds, door controls and interior connections cannot be confirmed. The photograph does not identify an uninterrupted step-free route, prove which door is used today or verify the Education Center ramp.",
+    "relatedFactIds": [
+      "the-carnegie.mobility.1"
+    ],
+    "src": "/images/access/the-carnegie-frontage-doors-2020.webp",
+    "height": 960,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Carnegie,_Eastside,_Covington,_KY_-_49739845846.jpg"
   }
 ]

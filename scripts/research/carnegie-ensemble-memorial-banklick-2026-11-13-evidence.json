@@ -1,0 +1,338 @@
+[
+  {
+    "slug": "ensemble-theatre-cincinnati",
+    "facts": [
+      {
+        "id": "ensemble-theatre-cincinnati.mobility.1",
+        "claim": "Automatic doors lead from the street into the main entrance; an elevator runs between floors and to upper-row accessible seating, and a wheelchair lift covers the 4 stairs before the third-floor theatre entrance.",
+        "url": "https://ensemblecincinnati.org/accessibility/",
+        "quote": [
+          "Automatic doors from street into the theatre’s main entrance",
+          "Our elevator provides access between floors as well as to upper row accessible seating via the third-floor lobby entrance. Due to our historic buildings’ uneven floor heights, there are 4 stairs immediately before entering the theatre via the third-floor lobby; a wheelchair lift provides access to this height difference for patrons using mobility devices."
+        ]
+      },
+      {
+        "id": "ensemble-theatre-cincinnati.mobility.2",
+        "claim": "Ensemble guarantees one companion seat immediately beside each wheelchair location in the same row, plus two additional companion seats adjacent or as close as possible. Limited first-come, first-served disability parking is in front of the main entrance at 1127 Vine Street.",
+        "url": "https://ensemblecincinnati.org/accessibility/",
+        "quote": [
+          "We guarantee one companion seat per wheelchair location that is immediately adjacent and in the same row, along with two additional companion seats also adjacent or as close as possible.",
+          "Limited first-come, first-served accessible parking is located in front of the theatre’s main entrance at 1127 Vine Street."
+        ]
+      },
+      {
+        "id": "ensemble-theatre-cincinnati.sensory.1",
+        "claim": "Free assistive-listening headphones, earbuds and induction neck loops are first-come, first-served at the Box Office and can be reserved when buying tickets. The neck loops are for hearing aids and cochlear implants with a T-switch; Ensemble says devices are disinfected between uses.",
+        "url": "https://ensemblecincinnati.org/accessibility/",
+        "quote": "Headphones, earbuds, and induction neck loops (for patrons who use hearing aids and cochlear implants with a T-switch) are offered free of charge and are first-come, first-served. Devices are available at the Box Office and may also be reserved in advance during ticket purchasing. All devices are disinfected between uses."
+      },
+      {
+        "id": "ensemble-theatre-cincinnati.sensory.2",
+        "claim": "Large-print and braille programs are provided for every production, and one audio-described performance is offered for each regular-season production.",
+        "url": "https://ensemblecincinnati.org/accessibility/",
+        "quote": [
+          "We provide large-print and braille programs for every production along with audio-described performances on select dates throughout the season.",
+          "One audio-described performance is offered for each regular-season production; these are indicated on our filterable event listings page."
+        ]
+      },
+      {
+        "id": "ensemble-theatre-cincinnati.cognitive.1",
+        "claim": "Relaxed performances use lower sound and light levels, reduce strobe lighting and allow talking and moving around; pre-visit guides and social narratives are available.",
+        "url": "https://ensemblecincinnati.org/accessibility/",
+        "quote": [
+          "Relaxed performances feature accommodations including lower sound levels, lower light levels, reduction of strobe lighting, freedom to talk and move around during the show, and more.",
+          "Patrons attending relaxed performances can access pre-visit guides, social narratives, and other resources to prepare for their trip."
+        ]
+      },
+      {
+        "id": "ensemble-theatre-cincinnati.chronic.1",
+        "claim": "During performances, Ensemble lists three lockable all-gender restrooms on Levels 2 and 3, describing two as universal and ADA-accessible. This is the venue’s description, not a verified dimension or adult-changing provision.",
+        "url": "https://ensemblecincinnati.org/visit/accessibility/",
+        "quote": "During performances, three restrooms—two of which are universal, ADA-accessible—that lock and provide privacy are available to patrons of any gender identity and expression on Levels 2 and 3."
+      },
+      {
+        "id": "ensemble-theatre-cincinnati.mobility.3",
+        "claim": "More parking for people with disabilities is at the 12th and Vine surface lot and the Gateway Garage. The box office has a wheelchair-level ticket counter.",
+        "url": "https://ensemblecincinnati.org/visit/accessibility/",
+        "quote": [
+          "Additional parking for those with disabilities available at 12th and Vine surface lot and the Gateway Garage.",
+          "Wheelchair-level ticket counter at box office"
+        ]
+      },
+      {
+        "id": "ensemble-theatre-cincinnati.sensory.3",
+        "claim": "Fidgets, noise-canceling headphones, sunglasses and snacks are available in the lobby anytime. ASL-interpreted performances are on select dates, and the box office can be reached by dialing 711 (Ohio Relay).",
+        "url": "https://ensemblecincinnati.org/visit/accessibility/",
+        "quote": [
+          "Additionally, fidgets, noise-canceling headphones, sunglasses, and snacks are available in the lobby anytime.",
+          "We offer assistive listening devices for all performances as well as ASL-interpreted performances on select dates throughout the season.",
+          "You may also dial 711 to connect to our box office via Ohio Relay services"
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "Ensemble locates restrooms it describes as accessible in the first-floor lobby, second-floor corridor and third-floor lobby. Of the two all-gender toilets in the Level 2 corridor, it identifies the one nearest the rehearsal-hall entrance as ADA-accessible; the Level 3 all-gender toilet is in that lobby.",
+        "url": "https://ensemblecincinnati.org/visit/accessibility/",
+        "quote": [
+          "Accessible restrooms are located in the first-floor lobby, as well as the second-floor corridor and third-floor lobby.",
+          "Two all-gender restrooms are located in Level 2 corridor; the one nearest to the rehearsal hall entrance is also ADA-accessible.",
+          "One all-gender, ADA-accessible restroom is located on the third-floor lobby."
+        ]
+      },
+      {
+        "domain": "sensory",
+        "claim": "Large-print programs can be downloaded as PDFs from show pages before a performance or collected at the Box Office on the day. Braille programs are available from the Box Office on the performance day.",
+        "url": "https://ensemblecincinnati.org/visit/accessibility/",
+        "quote": [
+          "Large-print programs Available to download in a PDF format on show pages prior to a performance and available day of the performance at the Box Office.",
+          "Braille programs Available day of the performance from the Box Office."
+        ]
+      },
+      {
+        "domain": "sensory",
+        "claim": "At relaxed performances, Ensemble keeps low-level house lights on, reduces startling/loud sound and strobe or audience-directed lighting, allows standing and movement, and permits leaving and re-entering as often as needed. It also lists designated quiet areas in the facility.",
+        "url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+        "quote": "Relaxed performance modifications include: lower sound level for startling or loud sounds low-level house lights remain on throughout the performance reduction of strobe lighting or lighting focused on the audience relaxed attitude regarding noise and movement in the audience space throughout the theater for standing and movement freedom to leave and reenter the auditorium as often as needed designated quiet areas within the theater facility"
+      },
+      {
+        "domain": "cognitive",
+        "claim": "For relaxed performances, additional accommodations may be requested by calling the Box Office at least 48 hours ahead. The relaxed-show page lists fidgets, noise-dampening headphones, sensory cushions and sunglasses at the Box Office; a request is not confirmation of a particular arrangement.",
+        "url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+        "quote": "Fidgets, noise-dampening headphones, sensory cushions, and sunglasses are available at the box office. Patrons may request additional accommodations by calling the box office at least 48 hours ahead of the relaxed performance."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The published Cinderella relaxed performances are December 5, 2026 at 2 p.m. and December 6, 2026 at 7 p.m.; the page lists $15 per person including a $3 fee. These are date-specific listings, not confirmation of remaining seats.",
+        "url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+        "quote": [
+          "Join us for one of our relaxed performances of Cinderella",
+          "Tickets are $15 per person (includes $3 ticket fee).",
+          "Sat, Dec 5, 2026 at 2:00 pm Sun, Dec 6, 2026 at 7:00 pm"
+        ]
+      },
+      {
+        "domain": "mobility",
+        "claim": "The official social narrative places the elevator in the first-floor hallway and says it goes to the third floor. Its third-floor theatre entrance has a lift beside it; confirm lift operation and assistance before choosing upper-row seating.",
+        "url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+        "quote": [
+          "Also in the hallway on the first floor, there is an elevator. I can ride the elevator up to the third floor.",
+          "There is a chair lift on the third floor, next to the entrance to the theatre."
+        ]
+      },
+      {
+        "domain": "sensory",
+        "claim": "The social narrative directs visitors needing quiet time to the lobby outside the theatre and, for greater quiet, to the mezzanine, reached by the elevator’s M button. It describes chairs there; this is guidance, not a guarantee of silence or a private room.",
+        "url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+        "quote": [
+          "If I need quiet time, I can go to the lobby outside of the theatre. If I need absolute quiet time, I can go to the mezzanine.",
+          "The mezzanine will have chairs to sit on or I can walk around the lobby. If I use the elevator to get to the mezzanine, I will hit the ”M” button."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "The social narrative shows waiting space in the lobby and describes chairs and tables to sit at before the play. It says food and drinks bought at the bar can be taken into the theatre.",
+        "url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+        "quote": "There are chairs and tables I can sit at to wait. The bar will also be open for me to buy snacks or drinks while I wait. I can bring these items into the theatre when it is time for the play."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "Ensemble says the lobby opens one hour before showtime and theatre doors about half an hour before. Late seating is at the House Manager’s discretion between scenes; admission may be denied because of the production or when more than 15 minutes late.",
+        "url": "https://ensemblecincinnati.org/visit/faqs/",
+        "quote": [
+          "Our lobby opens one hour prior to showtime; the doors to the theater, approximately a half-hour before showtime.",
+          "Latecomers to a show will be seated at the House Manager’s discretion at an appropriate time between scenes. You may be denied admission dependent on demands or structure of a particular production, or if you are over 15 minutes late."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "the-carnegie",
+    "facts": [
+      {
+        "id": "the-carnegie.mobility.1",
+        "claim": "The venue lists adjacent accessible parking, elevators between building levels and a ramp to the Eva G. Farris Education Center.",
+        "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "quote": "The Carnegie is a handicap accessible venue, including handicap parking spots adjacent to the building, elevators to each level of the building, and a wheelchair ramp to the Eva G. Farris Education Center."
+      },
+      {
+        "id": "the-carnegie.mobility.2",
+        "claim": "The Otto M. Budig Theatre mezzanine cannot be reached by ramp or elevator.",
+        "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "quote": "Please note, the mezzanine level of the Otto M. Budig Theatre is not accessible via ramp or elevator."
+      },
+      {
+        "id": "the-carnegie.sensory.1",
+        "claim": "Captioning and ASL interpretation are offered at selected performances; contact the box office for dates and availability.",
+        "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "quote": "For select performances, The Carnegie is proud to offer fully accessible performances for the deaf and hard of hearing, featuring closed captioning and American Sign Language interpreters. For specific dates and availability, please contact The Carnegie Box Office at 859.957.1940."
+      },
+      {
+        "id": "the-carnegie.mobility.3",
+        "claim": "Unmetered street parking is on all four sides of the building, and The Carnegie's own lot, behind the building at Robbins and Greenup, is always open to patrons. Valet parking is not offered unless stated.",
+        "url": "https://thecarnegie.com/direction-and-parking/",
+        "quote": [
+          "In addition to un-metered street parking on all four sides of our building, there are several surface lots available.",
+          "The Carnegie Parking Lot Located directly behind The Carnegie on the corner of Robbins and Greenup. Always open to patrons.",
+          "Unless otherwise specified, The Carnegie does not offer valet parking."
+        ]
+      },
+      {
+        "id": "the-carnegie.sensory.2",
+        "claim": "Captioning has been offered at major theatrical performances since 2006.",
+        "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "quote": "Captioning has been offered for major theatrical performances at The Carnegie since 2006, thanks to the support of volunteers."
+      },
+      {
+        "id": "the-carnegie.mobility.4",
+        "claim": "The Carnegie says the lot directly across Scott Boulevard, shared by Dollar Tree and Senior Services of Northern Kentucky, is not available to its patrons. It strongly asks patrons not to park there.",
+        "url": "https://thecarnegie.com/direction-and-parking/",
+        "quote": "Patrons are strongly encouraged NOT to park in the lot directly across Scott Boulevard from the building. Shared by The Dollar Tree and Senior Services of Northern Kentucky, this lot is not available to Carnegie patrons."
+      },
+      {
+        "id": "the-carnegie.mobility.5",
+        "claim": "In the original library building, the two floors are connected by winding staircases.",
+        "url": "https://thecarnegie.com/about/architecture/",
+        "quote": "Inside the original library building, two floors are connected by ornately carved dual winding staircases."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The Carnegie lists gallery hours Thursday–Saturday, noon–5 p.m., and box-office hours Tuesday–Friday, noon–5 p.m. The box-office number for performance access arrangements is 859-957-1940.",
+        "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "quote": [
+          "Gallery Hours Thursday – Saturday Noon – 5 p.m. Box Office Hours Tuesday – Friday Noon – 5 p.m.",
+          "For specific dates and availability, please contact The Carnegie Box Office at 859.957.1940."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "Tickets are final sale. Exchanges depend on availability, carry a 10% fee on the exchanged tickets’ total cost, and must be requested at least 24 hours before the performance.",
+        "url": "https://thecarnegie.com/box-office/",
+        "quote": [
+          "All tickets are final sale. Exchanges are offered when available. Exchanges will incur a 10% fee on the total cost of exchanged tickets.",
+          "Exchanges must be requested no later than 24 hours before a performance."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "memorial-hall-otr",
+    "facts": [
+      {
+        "id": "memorial-hall-otr.mobility.1",
+        "claim": "Memorial Hall says its basement, first and second floors are fully accessible by a patron elevator on the north side of the building (the right side when facing the front entrance), entered at street level.",
+        "url": "https://www.memorialhallotr.com/about-memo/",
+        "quote": "The basement, first and second floors of Memorial Hall are fully accessible via the patron elevator on the north side of the building (the right side of the building when facing the front entrance), which may be entered on the street level."
+      },
+      {
+        "id": "memorial-hall-otr.mobility.2",
+        "claim": "The Anderson Theater has a number of wheelchair- and scooter-accessible seating locations; for details on accessible seating, call the box office at (513) 977-8838.",
+        "url": "https://www.memorialhallotr.com/about-memo/",
+        "quote": "In addition, the Annie W. and Elizabeth M. Anderson Theater is equipped with a number of wheelchair/scooter-accessible seating locations. For additional information on accessible seating, please contact the Box Office at (513) 977.8838."
+      },
+      {
+        "id": "memorial-hall-otr.cognitive.1",
+        "claim": "The box office takes calls Tuesday to Friday, 1 to 6 p.m. The most convenient parking is the Washington Park Garage directly across the street; other nearby garages and lots are listed on the visit page.",
+        "url": "https://www.memorialhallotr.com/plan-your-visit/",
+        "quote": [
+          "Hours: Tue through Fri 1 PM – 6 PM",
+          "The most convenient parking option is directly across the street at the Washington Park Garage.",
+          "Additional parking is available at: Mercer Garage: 5 Mercer St. Elm Street Lots: 1119 Elm Street"
+        ]
+      },
+      {
+        "id": "memorial-hall-otr.cognitive.2",
+        "claim": "Connector streetcar stops nearby include 14th & Elm, Washington Park, and 12th & Vine.",
+        "url": "https://www.memorialhallotr.com/plan-your-visit/",
+        "quote": "THE CONNECTOR STREETCAR STOPS 8 14th & Elm 14 Washington Park 7 12th & Vine"
+      },
+      {
+        "id": "memorial-hall-otr.mobility.3",
+        "claim": "Washington Park’s garage page locates glass elevator shafts at the northeast corner, northwest corner and across from the Music Hall entrance. Pay stations are in the three elevator lobbies. Current operation and a continuous route to Memorial Hall are not established by that description.",
+        "url": "https://washingtonpark.org/parking/",
+        "quote": [
+          "Washington Park's wide open parking decks are illuminated by natural sunlight during the day with three broad stairwells and glass elevator shafts located on the northeast corner, northwest corner, and across from the Music Hall entrance.",
+          "Automated pay stations allow you to pay for parking in any of the three elevator lobbies before returning to your vehicle."
+        ]
+      },
+      {
+        "domain": "mobility",
+        "claim": "Memorial Hall describes a separate production elevator serving the stage from the basement, Grant Street and first floor. This is distinct from the north-side patron elevator; public use, staffing and operating arrangements for the production lift need confirmation.",
+        "url": "https://www.memorialhallotr.com/about-memo/",
+        "quote": [
+          "The stage is also accessible via the Hall's new production elevator, accessible from the basement, Grant Street, and the first floor.",
+          "The basement, first and second floors of Memorial Hall are fully accessible via the patron elevator on the north side of the building (the right side of the building when facing the front entrance), which may be entered on the street level."
+        ]
+      },
+      {
+        "domain": "mobility",
+        "claim": "Washington Park Garage lists vehicle entrances/exits on Race Street at 13th Street and on Elm Street across from Music Hall. Its pay-on-foot instructions say to take the parking ticket and pay by cash or credit card in an elevator lobby before returning to the vehicle.",
+        "url": "https://washingtonpark.org/parking/",
+        "quote": [
+          "Two vehicular entrances/exits are located on Race Street at 13th Street, and on Elm Street across from Music Hall.",
+          "Take your ticket with you! As you walk back to your car, stop at one of the pay station machines to pay your parking fee using cash or credit card. Pay stations allow you to pay for parking in any of the three elevator lobbies before returning to your vehicle."
+        ]
+      },
+      {
+        "domain": "mobility",
+        "claim": "The garage’s valet-assist parking program is listed for Monday–Friday, 7 a.m.–4 p.m.: enter normally and go to the second-level attendant. Regular parking rates apply without an extra valet-assist fee. This parking service does not establish passenger-transfer help or an escort to Memorial Hall.",
+        "url": "https://washingtonpark.org/parking/",
+        "quote": [
+          "The program will be in effect Monday-Friday from 7am-4pm",
+          "Parkers should enter the garage in the normal fashion and proceed to the second level to see the on-duty attendant. Regular parking rates apply, and there is no additional fee for the valet-assist services."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "covunity-fridge-banklick-street",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "claim": "COVUnity lists its second fridge at 1214 Banklick Street in Covington. It describes both locations as free, self-serve and open 24 hours every day of the year, with no staff present.",
+        "url": "https://covunity.org/",
+        "quote": [
+          "Banklick Street Our second location, with refrigerated and frozen food too. 1214 Banklick St Covington, KY 41011",
+          "Two free spots in Covington, open day and night. Anyone can donate or take. Swing by whenever it suits you. There is no staff present and no schedule to keep because it is self-serve. Open 24/7 · every day of the year"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "Anyone may take food without signing in or explaining their need. COVUnity states there is no sign-up, cost or questions asked; assisted collection and delivery are not established.",
+        "url": "https://covunity.org/",
+        "quote": [
+          "No sign-up No cost No questions asked",
+          "Hungry, stretched thin, or just passing by? Help yourself. It's free and open to everyone, and nobody's going to ask you to sign in or explain why you're there."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "The Banklick listing specifies refrigerated and frozen food. The microwave, hot/cold water station and wellness kiosk described for Redden Gardens are not established at this second location.",
+        "url": "https://covunity.org/",
+        "quote": [
+          "Banklick Street Our second location, with refrigerated and frozen food too.",
+          "Redden Gardens The main fridge, with refrigerated and frozen food, a microwave, and a hot & cold water station.",
+          "The Northern Kentucky Health Department installed a free, judgment-free wellness kiosk immediately to the left of the main fridge at Redden Gardens."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "COVUnity asks visitors to wipe spills, discard food past its prime and shut the fridge tightly. Its donation guidance excludes opened or expired food and unlabeled prepared or home-cooked food, and accepts labeled meals from commercial kitchens. Suitability of individual items is not verified.",
+        "url": "https://covunity.org/",
+        "quote": [
+          "Wipe up spills, toss anything past its prime, and shut the door tight.",
+          "Labeled meals from a commercial kitchen",
+          "Opened or expired food",
+          "Unlabeled prepared or home-cooked food"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "COVUnity describes its food support as supplemental to established social services and directs people who need recurring help to those services. The site is not a live inventory or a promise of food availability.",
+        "url": "https://covunity.org/",
+        "quote": "We recognize we are not solving hunger alone. We rely on established social services to help meet ongoing need, and we are supplemental to these resources. If you are in need of recurring help, please reach out to these services."
+      }
+    ],
+    "address_url": "https://covunity.org/",
+    "address_quote": "Banklick Street Our second location, with refrigerated and frozen food too. 1214 Banklick St Covington, KY 41011"
+  }
+]

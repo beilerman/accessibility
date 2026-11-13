@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "florence-family-aquatic-center",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "Memberships and day passes are sold in person at the center during normal business hours. The page gives 859-282-4130 for questions or assistance Monday–Friday, 9 a.m.–5 p.m.; this is not confirmation of a personal attendant or transfer assistance.",
+    "url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+    "quote": [
+     "Memberships and day passes available in-person at the Aquatic Center only during normal business hours.",
+     "For questions or assistance call (859) 282-4130 between 9am-5pm M-F"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The city’s bid register lists “Florence Aquatic Center Renovations – Phase 1.” A procurement listing does not establish construction progress, changed access features or a reopening date; confirm future arrangements with the city.",
+    "url": "https://florence-ky.gov/publication-of-bid-solicitations-enacted-ordinances/",
+    "quote": "Florence Aquatic Center Renovations - Phase 1",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c23ea1641811e13c213299d6f1b3790274ee4e12f31ff4dd29fba0f92b2cc634"
+   },
+   {
+    "domain": "mobility",
+    "text": "Lazy-river rules require the supplied tubes, entry and exit at the tube area, and waiting for the lifeguard’s instruction. Parents with young children may share a tube; otherwise only one rider is permitted. The rules do not establish transfer equipment or staff transfer help.",
+    "url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+    "quote": [
+     "Enter and exit from tube area only.",
+     "Must wait for instruction from lifeguard before starting.",
+     "Riders must use tubes provided. Two sizes are available",
+     "Parents with young children may ride in tubes together. Otherwise only one rider per tube; no doubles, trains or chains."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b"
+   }
+  ]
+ }
+]

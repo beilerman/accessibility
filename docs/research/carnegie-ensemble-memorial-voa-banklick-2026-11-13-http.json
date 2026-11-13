@@ -1,0 +1,83 @@
+{
+  "base_url": "http://localhost:3217",
+  "pages": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 178649
+    },
+    {
+      "path": "/venues",
+      "status": 200,
+      "bytes": 1140360
+    },
+    {
+      "path": "/access-in-pictures",
+      "status": 200,
+      "bytes": 549792
+    },
+    {
+      "path": "/venues/the-carnegie",
+      "status": 200,
+      "bytes": 97787,
+      "guide_links": []
+    },
+    {
+      "path": "/venues/ensemble-theatre-cincinnati",
+      "status": 200,
+      "bytes": 127985,
+      "guide_links": [
+        "ensemble-social-narrative-2026"
+      ]
+    },
+    {
+      "path": "/venues/memorial-hall-otr",
+      "status": 200,
+      "bytes": 95184,
+      "guide_links": [
+        "memorial-hall-original-photo-tour"
+      ]
+    },
+    {
+      "path": "/venues/voice-of-america-metropark",
+      "status": 200,
+      "bytes": 130188,
+      "guide_links": [
+        "voa-grit-equipment-guide-2026",
+        "voa-lake-adaptive-launch-photo"
+      ]
+    },
+    {
+      "path": "/venues/florence-family-aquatic-center",
+      "status": 200,
+      "bytes": 106627,
+      "guide_links": [
+        "florence-aquatic-center-visitor-guide",
+        "florence-aquatic-center-official-photos"
+      ]
+    },
+    {
+      "path": "/venues/covunity-fridge-banklick-street",
+      "status": 200,
+      "bytes": 74712,
+      "guide_links": [
+        "covunity-banklick-fridge-photo"
+      ]
+    }
+  ],
+  "images": [
+    {
+      "path": "/images/access/the-carnegie-auditorium-steps-2020.webp",
+      "status": 200,
+      "sha256": "e217cc10f80610ac68dd939207eb11e9ca8df57e454156c98921897e82732863",
+      "matches_local": true
+    },
+    {
+      "path": "/images/access/the-carnegie-frontage-doors-2020.webp",
+      "status": 200,
+      "sha256": "af555e62347a94d484aef5dc03ede5c26b4c2e48305bdb8a98adec8e04e3e9b8",
+      "matches_local": true
+    }
+  ],
+  "scope": "HTTP/static HTML and asset bytes only; browser layout/interaction and axe checks blocked by host permissions."
+}

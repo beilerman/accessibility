@@ -3726,6 +3726,61 @@
   "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
   "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
  },
+ "covunity-fridge-banklick-street.chronic.1": {
+  "url": "https://covunity.org/",
+  "quote": "Banklick Street Our second location, with refrigerated and frozen food too.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Redden Gardens The main fridge, with refrigerated and frozen food, a microwave, and a hot & cold water station.",
+   "The Northern Kentucky Health Department installed a free, judgment-free wellness kiosk immediately to the left of the main fridge at Redden Gardens."
+  ],
+  "claim_sha256": "a3b0f7140afc72aca5b1918f7c7b1e278fcf807446d77ae9db9f67c9c2f74e08",
+  "source_sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+  "final_url": "https://covunity.org/"
+ },
+ "covunity-fridge-banklick-street.chronic.2": {
+  "url": "https://covunity.org/",
+  "quote": "Wipe up spills, toss anything past its prime, and shut the door tight.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Labeled meals from a commercial kitchen",
+   "Opened or expired food",
+   "Unlabeled prepared or home-cooked food"
+  ],
+  "claim_sha256": "035409530545caee6fa3d55df857fcc0abb349f30864b0541cc56c90f01e18a0",
+  "source_sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+  "final_url": "https://covunity.org/"
+ },
+ "covunity-fridge-banklick-street.cognitive.1": {
+  "url": "https://covunity.org/",
+  "quote": "Banklick Street Our second location, with refrigerated and frozen food too. 1214 Banklick St Covington, KY 41011",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Two free spots in Covington, open day and night. Anyone can donate or take. Swing by whenever it suits you. There is no staff present and no schedule to keep because it is self-serve. Open 24/7 · every day of the year"
+  ],
+  "claim_sha256": "baa1fa8e20c5eaf92de675380166621ec918ff2800a038e46cf9e44978b0510a",
+  "source_sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+  "final_url": "https://covunity.org/"
+ },
+ "covunity-fridge-banklick-street.cognitive.2": {
+  "url": "https://covunity.org/",
+  "quote": "No sign-up No cost No questions asked",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Hungry, stretched thin, or just passing by? Help yourself. It's free and open to everyone, and nobody's going to ask you to sign in or explain why you're there."
+  ],
+  "claim_sha256": "6d690005cc1b5ebe14ace4a9f715ce3dad088fbd2f2420e48e3339d0e9efd471",
+  "source_sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+  "final_url": "https://covunity.org/"
+ },
+ "covunity-fridge-banklick-street.cognitive.3": {
+  "url": "https://covunity.org/",
+  "quote": "We recognize we are not solving hunger alone. We rely on established social services to help meet ongoing need, and we are supplemental to these resources. If you are in need of recurring help, please reach out to these services.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "1f9b19d1e904942eb5e8ed0bb9c4175be44ceda2a384af6581448061b90b3c5b",
+  "source_sha256": "77e7b8e28f93caee56a5a140d0e8118397ee8758337101704f5453a92521e2af",
+  "final_url": "https://covunity.org/"
+ },
  "covunity-fridge-redden-gardens.chronic.1": {
   "url": "https://covunity.org/",
   "quote": "The main fridge, with refrigerated and frozen food, a microwave, and a hot & cold water station.",
@@ -4355,30 +4410,180 @@
   "quote": "Types of Accommodations Changes in Rules and/or Policies Assistance with ADLs (activities of daily living) Architectural Changes Adaptive Equipment Increased Supervision Behavior Supports Specialized Training for Staff Boardmaker Tools for Communication",
   "verified_at": "2026-11-12"
  },
+ "ensemble-theatre-cincinnati.chronic.1": {
+  "url": "https://ensemblecincinnati.org/visit/accessibility/",
+  "quote": "During performances, three restrooms—two of which are universal, ADA-accessible—that lock and provide privacy are available to patrons of any gender identity and expression on Levels 2 and 3.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d3dccce92ed7ad7bffb956fee899c53c27e07ed8d5176c3a3f6d2121b679b653",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.chronic.2": {
+  "url": "https://ensemblecincinnati.org/visit/accessibility/",
+  "quote": "Accessible restrooms are located in the first-floor lobby, as well as the second-floor corridor and third-floor lobby.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Two all-gender restrooms are located in Level 2 corridor; the one nearest to the rehearsal hall entrance is also ADA-accessible.",
+   "One all-gender, ADA-accessible restroom is located on the third-floor lobby."
+  ],
+  "claim_sha256": "5776a5c669ab5dfe710cec42081b4e3e0272ff053330adbc6d38156db302655f",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.chronic.3": {
+  "url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+  "quote": "There are chairs and tables I can sit at to wait. The bar will also be open for me to buy snacks or drinks while I wait. I can bring these items into the theatre when it is time for the play.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "5b3552f579a8fd6b57cfe008227ede3ed3883693dc082d0b2c05b66058bdad44",
+  "source_sha256": "397dc75e17db1bdac4d15c0c5b0000f37e6af8ab23367577fa2ff8d588b839b8",
+  "final_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf"
+ },
  "ensemble-theatre-cincinnati.cognitive.1": {
   "url": "https://ensemblecincinnati.org/accessibility/",
   "quote": "Relaxed performances feature accommodations including lower sound levels, lower light levels, reduction of strobe lighting, freedom to talk and move around during the show, and more.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Patrons attending relaxed performances can access pre-visit guides, social narratives, and other resources to prepare for their trip."
+  ],
+  "claim_sha256": "f54b164d65c66c97382284a70a91e5d2e38a16488cc57ef27a2e2901d413e790",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.cognitive.2": {
+  "url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+  "quote": "Fidgets, noise-dampening headphones, sensory cushions, and sunglasses are available at the box office. Patrons may request additional accommodations by calling the box office at least 48 hours ahead of the relaxed performance.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "1123faa45b6a23823c3b0e7dabe932d6f7c17ede132e3ffdaaa8c9c6ca38c413",
+  "source_sha256": "d71a3dac424527c578cb88b72148eda363e952734a207de86f0ca096c6bbb387",
+  "final_url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/"
+ },
+ "ensemble-theatre-cincinnati.cognitive.3": {
+  "url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+  "quote": "Join us for one of our relaxed performances of Cinderella",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Tickets are $15 per person (includes $3 ticket fee).",
+   "Sat, Dec 5, 2026 at 2:00 pm Sun, Dec 6, 2026 at 7:00 pm"
+  ],
+  "claim_sha256": "9a29d1ef860d0441f7350c4a06ab8e23ca05387db5ea59457e9d2717bcba2ea7",
+  "source_sha256": "d71a3dac424527c578cb88b72148eda363e952734a207de86f0ca096c6bbb387",
+  "final_url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/"
+ },
+ "ensemble-theatre-cincinnati.cognitive.4": {
+  "url": "https://ensemblecincinnati.org/visit/faqs/",
+  "quote": "Our lobby opens one hour prior to showtime; the doors to the theater, approximately a half-hour before showtime.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Latecomers to a show will be seated at the House Manager’s discretion at an appropriate time between scenes. You may be denied admission dependent on demands or structure of a particular production, or if you are over 15 minutes late."
+  ],
+  "claim_sha256": "ef99385487a5bd9648d2b5f3d69af2c078f20b3e29d17f8c46b0fe95acac01e7",
+  "source_sha256": "9faaa86c28b8df970d9ac5cafef5966aa979a392b2519b99df4fb03bf5ae78fa",
+  "final_url": "https://ensemblecincinnati.org/visit/faqs/"
  },
  "ensemble-theatre-cincinnati.mobility.1": {
   "url": "https://ensemblecincinnati.org/accessibility/",
-  "quote": "Due to our historic buildings’ uneven floor heights, there are 4 stairs immediately before entering the theatre via the third-floor lobby; a wheelchair lift provides access to this height difference for patrons using mobility devices.",
-  "verified_at": "2026-11-10"
+  "quote": "Automatic doors from street into the theatre’s main entrance",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Our elevator provides access between floors as well as to upper row accessible seating via the third-floor lobby entrance. Due to our historic buildings’ uneven floor heights, there are 4 stairs immediately before entering the theatre via the third-floor lobby; a wheelchair lift provides access to this height difference for patrons using mobility devices."
+  ],
+  "claim_sha256": "712da59bed0e45c54d0f48b8aa3b80af4ebfc8b4cd2c816f03a102b3aa52a2ec",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
  },
  "ensemble-theatre-cincinnati.mobility.2": {
   "url": "https://ensemblecincinnati.org/accessibility/",
   "quote": "We guarantee one companion seat per wheelchair location that is immediately adjacent and in the same row, along with two additional companion seats also adjacent or as close as possible.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Limited first-come, first-served accessible parking is located in front of the theatre’s main entrance at 1127 Vine Street."
+  ],
+  "claim_sha256": "9b121b730b40bc1cea3d4c86a944ecd983c280a8028823e114430fad251a6119",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.mobility.3": {
+  "url": "https://ensemblecincinnati.org/visit/accessibility/",
+  "quote": "Additional parking for those with disabilities available at 12th and Vine surface lot and the Gateway Garage.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Wheelchair-level ticket counter at box office"
+  ],
+  "claim_sha256": "747ec5508caeb3e6ac0961b5d0079c14c7567c5bb57b01f9ab577bead552120c",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.mobility.4": {
+  "url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+  "quote": "Also in the hallway on the first floor, there is an elevator. I can ride the elevator up to the third floor.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "There is a chair lift on the third floor, next to the entrance to the theatre."
+  ],
+  "claim_sha256": "67a79daa1f97ca75c75d033f6a85b537739ba9f87a0ea0efb6c32bc92e9e5889",
+  "source_sha256": "397dc75e17db1bdac4d15c0c5b0000f37e6af8ab23367577fa2ff8d588b839b8",
+  "final_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf"
  },
  "ensemble-theatre-cincinnati.sensory.1": {
   "url": "https://ensemblecincinnati.org/accessibility/",
-  "quote": "Headphones, earbuds, and induction neck loops (for patrons who use hearing aids and cochlear implants with a T-switch) are offered free of charge and are first-come, first-served.",
-  "verified_at": "2026-11-10"
+  "quote": "Headphones, earbuds, and induction neck loops (for patrons who use hearing aids and cochlear implants with a T-switch) are offered free of charge and are first-come, first-served. Devices are available at the Box Office and may also be reserved in advance during ticket purchasing. All devices are disinfected between uses.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "39d319fd40675967c3a7a796e3dd9883d0ebdddd67498261828b4ee7f353fe7c",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
  },
  "ensemble-theatre-cincinnati.sensory.2": {
   "url": "https://ensemblecincinnati.org/accessibility/",
   "quote": "We provide large-print and braille programs for every production along with audio-described performances on select dates throughout the season.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "One audio-described performance is offered for each regular-season production; these are indicated on our filterable event listings page."
+  ],
+  "claim_sha256": "0ea30defc832926a8deb556f1bf24e721321d6aa4c97376322c03880559167b5",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.sensory.3": {
+  "url": "https://ensemblecincinnati.org/visit/accessibility/",
+  "quote": "Additionally, fidgets, noise-canceling headphones, sunglasses, and snacks are available in the lobby anytime.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "We offer assistive listening devices for all performances as well as ASL-interpreted performances on select dates throughout the season.",
+   "You may also dial 711 to connect to our box office via Ohio Relay services"
+  ],
+  "claim_sha256": "c317b9cebff3ed7ec8f631a3ce65a5b4df2c0d38408d7d15359d68f23875d8d1",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.sensory.4": {
+  "url": "https://ensemblecincinnati.org/visit/accessibility/",
+  "quote": "Large-print programs Available to download in a PDF format on show pages prior to a performance and available day of the performance at the Box Office.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Braille programs Available day of the performance from the Box Office."
+  ],
+  "claim_sha256": "0bc2e07a58ce9b6d4a187f4065517eae1769c0c779472c2f250cbb835d881dc2",
+  "source_sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
+  "final_url": "https://ensemblecincinnati.org/visit/accessibility/"
+ },
+ "ensemble-theatre-cincinnati.sensory.5": {
+  "url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+  "quote": "Relaxed performance modifications include: lower sound level for startling or loud sounds low-level house lights remain on throughout the performance reduction of strobe lighting or lighting focused on the audience relaxed attitude regarding noise and movement in the audience space throughout the theater for standing and movement freedom to leave and reenter the auditorium as often as needed designated quiet areas within the theater facility",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b49b54acac99b0361fbeb178572c7676ab73fa67f09664ac160b6c5200b09a6e",
+  "source_sha256": "d71a3dac424527c578cb88b72148eda363e952734a207de86f0ca096c6bbb387",
+  "final_url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/"
+ },
+ "ensemble-theatre-cincinnati.sensory.6": {
+  "url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+  "quote": "If I need quiet time, I can go to the lobby outside of the theatre. If I need absolute quiet time, I can go to the mezzanine.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The mezzanine will have chairs to sit on or I can walk around the lobby. If I use the elevator to get to the mezzanine, I will hit the ”M” button."
+  ],
+  "claim_sha256": "a191d40bc55c828b00a2269301c7a03ad91d28f406797d664b42c213b648ba83",
+  "source_sha256": "397dc75e17db1bdac4d15c0c5b0000f37e6af8ab23367577fa2ff8d588b839b8",
+  "final_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf"
  },
  "falcon-theatre.chronic.1": {
   "url": "https://falcontheater.net/tickets-information/ticket-policies/",
@@ -4839,6 +5044,25 @@
   "quote": "Beginning May 23rd, 2026 through August 9th, 2026 and weekends through Labor Day hours of operation will be daily 11:00 a.m.-7:00 p.m.",
   "verified_at": "2026-11-11"
  },
+ "florence-family-aquatic-center.cognitive.3": {
+  "url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+  "quote": "Memberships and day passes available in-person at the Aquatic Center only during normal business hours.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For questions or assistance call (859) 282-4130 between 9am-5pm M-F"
+  ],
+  "claim_sha256": "294b08269e78eb312c4c8ffb1ea3beddc927278459310269e5f8b1f39dcefd7a",
+  "source_sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b",
+  "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/"
+ },
+ "florence-family-aquatic-center.cognitive.4": {
+  "url": "https://florence-ky.gov/publication-of-bid-solicitations-enacted-ordinances/",
+  "quote": "Florence Aquatic Center Renovations - Phase 1",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "96db72b57d42496a0c88d687509dacca994cb0cf5e671c06a32b9270ccb375bf",
+  "source_sha256": "c23ea1641811e13c213299d6f1b3790274ee4e12f31ff4dd29fba0f92b2cc634",
+  "final_url": "https://florence-ky.gov/publication-of-bid-solicitations-enacted-ordinances/"
+ },
  "florence-family-aquatic-center.mobility.1": {
   "url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
   "quote": "This premier facility contains a lazy river, competition pool, zero depth pool that is accessible, two spray grounds, a spiral and a speed slides, sunbathing areas, shelters, funbrellas, bathhouse (including family restrooms) and concessions area. A paved path surrounds the outside of the facility.",
@@ -4851,8 +5075,16 @@
  },
  "florence-family-aquatic-center.mobility.3": {
   "url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
-  "quote": "Enter and exit from tube area only. Must wait for instruction from lifeguard before starting. Riders must use tubes provided. Two sizes are available",
-  "verified_at": "2026-11-11"
+  "quote": "Enter and exit from tube area only.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Must wait for instruction from lifeguard before starting.",
+   "Riders must use tubes provided. Two sizes are available",
+   "Parents with young children may ride in tubes together. Otherwise only one rider per tube; no doubles, trains or chains."
+  ],
+  "claim_sha256": "8d73133956721767618930b60fb7e5c6ba8c19fd25e54e9f4e71c76e205a2ef7",
+  "source_sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b",
+  "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/"
  },
  "florence-mall.cognitive.1": {
   "url": "https://www.florencemall.com/contact",
@@ -7506,6 +7738,86 @@
   "claim_sha256": "0f10b5b7dcdf4d7c34dc6fdccaf09fa3b650905860ece0eda1d2991a0411fc13",
   "source_sha256": "a99651cbd54a1614cb12eeef75f35c4acebfc399c93dc9fa3972fd5e3e0cd66b",
   "final_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility"
+ },
+ "memorial-hall-otr.cognitive.1": {
+  "url": "https://www.memorialhallotr.com/plan-your-visit/",
+  "quote": "Hours: Tue through Fri 1 PM – 6 PM",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The most convenient parking option is directly across the street at the Washington Park Garage.",
+   "Additional parking is available at: Mercer Garage: 5 Mercer St. Elm Street Lots: 1119 Elm Street"
+  ],
+  "claim_sha256": "5c3f1ee2520aec520365d7b95f679cc5822455831175b83d5363495056e0c1e5",
+  "source_sha256": "69cefdf3ea23829524cec2d1cdf2200f3d46d0d556bcc6e63b9b5c32ca2c2b62",
+  "final_url": "https://www.memorialhallotr.com/plan-your-visit/"
+ },
+ "memorial-hall-otr.cognitive.2": {
+  "url": "https://www.memorialhallotr.com/plan-your-visit/",
+  "quote": "THE CONNECTOR STREETCAR STOPS 8 14th & Elm 14 Washington Park 7 12th & Vine",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "5c2a2bbbcb51f348564a60a3f1ab47c0fc67a09e42f483dd9ae8df765cbda013",
+  "source_sha256": "69cefdf3ea23829524cec2d1cdf2200f3d46d0d556bcc6e63b9b5c32ca2c2b62",
+  "final_url": "https://www.memorialhallotr.com/plan-your-visit/"
+ },
+ "memorial-hall-otr.mobility.1": {
+  "url": "https://www.memorialhallotr.com/about-memo/",
+  "quote": "The basement, first and second floors of Memorial Hall are fully accessible via the patron elevator on the north side of the building (the right side of the building when facing the front entrance), which may be entered on the street level.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "eddfe6353fef325ef6c349463bdb2617b3228a96d7c147a2a58d126da3e2084b",
+  "source_sha256": "68df7ad812de5340d87150a46d5c2013b06a78399aa34b882bbfd29a990d67b9",
+  "final_url": "https://www.memorialhallotr.com/about-memo/"
+ },
+ "memorial-hall-otr.mobility.2": {
+  "url": "https://www.memorialhallotr.com/about-memo/",
+  "quote": "In addition, the Annie W. and Elizabeth M. Anderson Theater is equipped with a number of wheelchair/scooter-accessible seating locations. For additional information on accessible seating, please contact the Box Office at (513) 977.8838.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "16817efadf1619108450ccf6ccc4da4dfa356bf26e9bfa692aeae50ad6e3536b",
+  "source_sha256": "68df7ad812de5340d87150a46d5c2013b06a78399aa34b882bbfd29a990d67b9",
+  "final_url": "https://www.memorialhallotr.com/about-memo/"
+ },
+ "memorial-hall-otr.mobility.3": {
+  "url": "https://washingtonpark.org/parking/",
+  "quote": "Washington Park's wide open parking decks are illuminated by natural sunlight during the day with three broad stairwells and glass elevator shafts located on the northeast corner, northwest corner, and across from the Music Hall entrance.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Automated pay stations allow you to pay for parking in any of the three elevator lobbies before returning to your vehicle."
+  ],
+  "claim_sha256": "d9c213d5a9ecb0682a116677b7df9c7f8197bc5d371d04ea1861794787e29163",
+  "source_sha256": "c2838f39ac478c378a4db5f46e17ba32941a7079815ab28fc527dc1a781afcf1",
+  "final_url": "https://washingtonpark.org/parking/"
+ },
+ "memorial-hall-otr.mobility.4": {
+  "url": "https://www.memorialhallotr.com/about-memo/",
+  "quote": "The stage is also accessible via the Hall's new production elevator, accessible from the basement, Grant Street, and the first floor.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The basement, first and second floors of Memorial Hall are fully accessible via the patron elevator on the north side of the building (the right side of the building when facing the front entrance), which may be entered on the street level."
+  ],
+  "claim_sha256": "6517fd5477cdd6419b12ab03be6cac2aa52535369f6449fa988cf72130a4e915",
+  "source_sha256": "68df7ad812de5340d87150a46d5c2013b06a78399aa34b882bbfd29a990d67b9",
+  "final_url": "https://www.memorialhallotr.com/about-memo/"
+ },
+ "memorial-hall-otr.mobility.5": {
+  "url": "https://washingtonpark.org/parking/",
+  "quote": "Two vehicular entrances/exits are located on Race Street at 13th Street, and on Elm Street across from Music Hall.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Take your ticket with you! As you walk back to your car, stop at one of the pay station machines to pay your parking fee using cash or credit card. Pay stations allow you to pay for parking in any of the three elevator lobbies before returning to your vehicle."
+  ],
+  "claim_sha256": "116f083ea862c7d01340baf3f27469f9d0db2a9a12bfce2b9d473fe13f7e88a9",
+  "source_sha256": "c2838f39ac478c378a4db5f46e17ba32941a7079815ab28fc527dc1a781afcf1",
+  "final_url": "https://washingtonpark.org/parking/"
+ },
+ "memorial-hall-otr.mobility.6": {
+  "url": "https://washingtonpark.org/parking/",
+  "quote": "The program will be in effect Monday-Friday from 7am-4pm",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Parkers should enter the garage in the normal fashion and proceed to the second level to see the on-duty attendant. Regular parking rates apply, and there is no additional fee for the valet-assist services."
+  ],
+  "claim_sha256": "9b72206555488ceb4d4684134ab5170dcb333b8053a24149836345eaadc23f54",
+  "source_sha256": "c2838f39ac478c378a4db5f46e17ba32941a7079815ab28fc527dc1a781afcf1",
+  "final_url": "https://washingtonpark.org/parking/"
  },
  "miami-whitewater-forest.chronic.1": {
   "url": "https://www.greatparks.org/parks/miami-whitewater-forest/miami-whitewater-forest-harbor",
@@ -10210,15 +10522,87 @@
   "quote": "Is there a limit to how long someone can use Aira at Target? Aira can be used for as long as needed while shopping at Target.",
   "verified_at": "2026-11-12"
  },
+ "the-carnegie.chronic.1": {
+  "url": "https://thecarnegie.com/box-office/",
+  "quote": "All tickets are final sale. Exchanges are offered when available. Exchanges will incur a 10% fee on the total cost of exchanged tickets.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Exchanges must be requested no later than 24 hours before a performance."
+  ],
+  "claim_sha256": "08f182ed145040c73034c794ccce1fa81c8906d63d8f80b36d0cf79aef720cc4",
+  "source_sha256": "958e5a0d81c2fdaab5001413543585ffc0513215bbf22ce37629613e20f90efe",
+  "final_url": "https://thecarnegie.com/box-office/"
+ },
+ "the-carnegie.cognitive.1": {
+  "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+  "quote": "Gallery Hours Thursday – Saturday Noon – 5 p.m. Box Office Hours Tuesday – Friday Noon – 5 p.m.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For specific dates and availability, please contact The Carnegie Box Office at 859.957.1940."
+  ],
+  "claim_sha256": "f07aa8fca73a7eb2dd38a8694d92c05100b06974de15363fea180bb1ced4b7e2",
+  "source_sha256": "ce7e39b7465d2739fb2b67f9f1d8887d5e4517129a18bf3b6e1c3ed954aba7a6",
+  "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
+ },
+ "the-carnegie.mobility.1": {
+  "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+  "quote": "The Carnegie is a handicap accessible venue, including handicap parking spots adjacent to the building, elevators to each level of the building, and a wheelchair ramp to the Eva G. Farris Education Center.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "192159de57e26c3ac0348ba0e374e02015b406356acb1683d5ca92ef008e3b84",
+  "source_sha256": "ce7e39b7465d2739fb2b67f9f1d8887d5e4517129a18bf3b6e1c3ed954aba7a6",
+  "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
+ },
+ "the-carnegie.mobility.2": {
+  "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+  "quote": "Please note, the mezzanine level of the Otto M. Budig Theatre is not accessible via ramp or elevator.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "4f19afecea182ef094ac66d2f6b9af1954b0880b6d56b310c163b1a7eb3293a5",
+  "source_sha256": "ce7e39b7465d2739fb2b67f9f1d8887d5e4517129a18bf3b6e1c3ed954aba7a6",
+  "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
+ },
  "the-carnegie.mobility.3": {
   "url": "https://thecarnegie.com/direction-and-parking/",
   "quote": "In addition to un-metered street parking on all four sides of our building, there are several surface lots available.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Carnegie Parking Lot Located directly behind The Carnegie on the corner of Robbins and Greenup. Always open to patrons.",
+   "Unless otherwise specified, The Carnegie does not offer valet parking."
+  ],
+  "claim_sha256": "f84471ab9b0d1dcdabe8b9ddf92e9a1cc20fa63df1d1aa4eef5590bb438d3473",
+  "source_sha256": "f34e4214a11279bb051b0fec756ab9b827928c45a23c0302f55fa1cd35c3b9e4",
+  "final_url": "https://thecarnegie.com/direction-and-parking/"
  },
  "the-carnegie.mobility.4": {
   "url": "https://thecarnegie.com/direction-and-parking/",
-  "quote": "Patrons are strongly encouraged NOT to park in the lot directly across Scott Boulevard from the building.",
-  "verified_at": "2026-11-10"
+  "quote": "Patrons are strongly encouraged NOT to park in the lot directly across Scott Boulevard from the building. Shared by The Dollar Tree and Senior Services of Northern Kentucky, this lot is not available to Carnegie patrons.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "45eff6beeb11865d81d55b31e8bf58c1dbe713b42581c224290a59e2238dadff",
+  "source_sha256": "f34e4214a11279bb051b0fec756ab9b827928c45a23c0302f55fa1cd35c3b9e4",
+  "final_url": "https://thecarnegie.com/direction-and-parking/"
+ },
+ "the-carnegie.mobility.5": {
+  "url": "https://thecarnegie.com/about/architecture/",
+  "quote": "Inside the original library building, two floors are connected by ornately carved dual winding staircases.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f6ee39dd926cc319ef77dc1c5f6c78e258570967855820dfc2196e3d2e9c8806",
+  "source_sha256": "1152d289c69a3ab0db3338396ba99bde1369a0d179de30ed9916c9414622dd51",
+  "final_url": "https://thecarnegie.com/about/architecture/"
+ },
+ "the-carnegie.sensory.1": {
+  "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+  "quote": "For select performances, The Carnegie is proud to offer fully accessible performances for the deaf and hard of hearing, featuring closed captioning and American Sign Language interpreters. For specific dates and availability, please contact The Carnegie Box Office at 859.957.1940.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "71bf599fa39b293554fbe94512ecc994adca410e033a59ab7957a39ded3be99b",
+  "source_sha256": "ce7e39b7465d2739fb2b67f9f1d8887d5e4517129a18bf3b6e1c3ed954aba7a6",
+  "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
+ },
+ "the-carnegie.sensory.2": {
+  "url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+  "quote": "Captioning has been offered for major theatrical performances at The Carnegie since 2006, thanks to the support of volunteers.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0556dc837358fc4aa0e1659dabb9d86e6d7164f890ecd32e25fd5b3ae9005270",
+  "source_sha256": "ce7e39b7465d2739fb2b67f9f1d8887d5e4517129a18bf3b6e1c3ed954aba7a6",
+  "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/"
  },
  "the-connector-cincinnati-streetcar.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/streetcar/about-the-streetcar/faqs/",
@@ -10749,6 +11133,204 @@
   "claim_sha256": "f08008206dbe8dc00384bd7e1e574f15a880d0d590eceea4d51faefb1dc0af52",
   "source_sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27",
   "final_url": "https://www.venthaven.org/schedule-a-tour"
+ },
+ "voice-of-america-metropark.chronic.1": {
+  "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+  "quote": "Flush Toilets Grills Meeting Room Outdoor Shelter (Reservable) Picnic Tables Playground Port-o-lets/Latrines Water",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "bf13a3f64604b79a907cce0a465ced9e572e423d0695566fcd38e4b63dc1747e",
+  "source_sha256": "7cb9c04b41db2f766f2ad4c26e60026fb6ffa25688e3dfe4f7be9ffb1e8a4390",
+  "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark"
+ },
+ "voice-of-america-metropark.chronic.2": {
+  "url": "https://www.yourmetroparks.net/about/accessibility",
+  "quote": "Service animals trained to perform a specific task or tasks for a person with disabilities are welcome at all MetroParks facilities and outdoor spaces.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "We encourage individuals to bring any necessary personal assistance devices or support persons to ensure their enjoyment of our parks, programs, and facilities."
+  ],
+  "claim_sha256": "5f2b79f7e6081c04bc17288aed8aae94a78239c61be81d910be5043fd713a910",
+  "source_sha256": "3790a2280d7377d85b229938217b8fb9cd1d0441cae0849fe72b0bdcd5a3c639",
+  "final_url": "https://www.yourmetroparks.net/about/accessibility"
+ },
+ "voice-of-america-metropark.cognitive.1": {
+  "url": "https://www.yourmetroparks.net/about/accessibility",
+  "quote": "please contact our Accessibility Coordinator",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "He can be reached by e-mail at",
+   "swingate@yourmetroparks.net",
+   "by phone at (513) 867-5835"
+  ],
+  "claim_sha256": "3219b7227334df5cc078e5d86e097d0688717f72a6fd0d492d15d1e6d3138e83",
+  "source_sha256": "3790a2280d7377d85b229938217b8fb9cd1d0441cae0849fe72b0bdcd5a3c639",
+  "final_url": "https://www.yourmetroparks.net/about/accessibility"
+ },
+ "voice-of-america-metropark.cognitive.2": {
+  "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+  "quote": "Open Daily 8:00 a.m. until Dusk",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Voice of America MetroPark Welcome Center Monday-Friday 8:30 a.m. - 5:00 p.m. Saturdays - Sundays Closed"
+  ],
+  "claim_sha256": "7de884cac111aac61888831a4283c16082cce6703de9eed0ce15b8f5c0c3cae3",
+  "source_sha256": "7cb9c04b41db2f766f2ad4c26e60026fb6ffa25688e3dfe4f7be9ffb1e8a4390",
+  "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark"
+ },
+ "voice-of-america-metropark.cognitive.3": {
+  "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+  "quote": "Rent.Fun! kayaks and paddleboard rentals are closed for the season. Please check back in Spring 2027 for more information on reopening dates.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f8446431e0b5ffbf28ecafa6eeaa3f78882f8be5b2544daa7fd45992ade5b6f8",
+  "source_sha256": "1ae77db02a2bafed2cb814b492580008e5aa571367d6f5a338c1f8f1530d6ef9",
+  "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake"
+ },
+ "voice-of-america-metropark.cognitive.4": {
+  "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+  "quote": "Download the Rent.Fun app and create an account",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Unlock your boat by scanning the QR code on the boat's locker",
+   "Remove your equipment- inspect your boat, paddle and life jacket for any damage",
+   "Wear your US Coast Guard-approved life jacket at all times",
+   "Return and lock your equipment to the same locker unit and select \"End Rental\" in the app",
+   "You must be 18 years or older to use Rent.Fun equipment",
+   "One person/watercraft maximum"
+  ],
+  "claim_sha256": "c7873c281e9bdb8d188f4915c92d0c39b3f3b29f2bfed39fc6989c7bfc04ccf3",
+  "source_sha256": "1ae77db02a2bafed2cb814b492580008e5aa571367d6f5a338c1f8f1530d6ef9",
+  "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake"
+ },
+ "voice-of-america-metropark.cognitive.5": {
+  "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/chill-hill-sledding-hill",
+  "quote": "This fantastic venue is available for sledding from 8 a.m. to Dusk daily (weather & snow permitting). Bring your snow gear, sled and have a blast!",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "In one of the areas near the lake, there is also an observation deck overlooking the grasslands and lake."
+  ],
+  "claim_sha256": "a9d5ef3c8ac58ed1b40073567444b58dbe975796e0348e3542c89112607c671b",
+  "source_sha256": "04070527de3871ed14ee275ab91de8b504423c5ad73999500e22ee17bc3248b4",
+  "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/chill-hill-sledding-hill"
+ },
+ "voice-of-america-metropark.mobility.1": {
+  "url": "https://www.yourmetroparks.net/about/accessibility",
+  "quote": "One adult-sized chair and one child-sized chair are available for public use.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The pick-up and drop-off location for both chairs is the Voice of America MetroPark Welcome Center.",
+   "Users are welcome to take the GRIT chairs to any park; they do not need to stay at Voice of America MetroPark or in the MetroParks system.",
+   "A refundable $75 deposit is required at the time of reservation."
+  ],
+  "claim_sha256": "a325f431c938d57ce79723f802d40a38f3dc817a491736fdf21febc05fa8c741",
+  "source_sha256": "3790a2280d7377d85b229938217b8fb9cd1d0441cae0849fe72b0bdcd5a3c639",
+  "final_url": "https://www.yourmetroparks.net/about/accessibility"
+ },
+ "voice-of-america-metropark.mobility.10": {
+  "url": "https://www.yourmetroparks.net/recreation/paddling",
+  "quote": "Parking is available near the VOA Lodge, with a paved pathway down to the launch.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f3ff76e9b70176b1fa332f0c1e050fee34a72213f29cdcdd3b2e90ab4ef6cc1c",
+  "source_sha256": "ec61cc098015f305206618b49b46cf53e99bd1688e96c814948e7f66f73ad451",
+  "final_url": "https://www.yourmetroparks.net/recreation/paddling"
+ },
+ "voice-of-america-metropark.mobility.2": {
+  "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+  "quote": "nine miles of combined paved and natural trails",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Voice of America MetroPark received a Wheel the World Destination designation in 2025!"
+  ],
+  "claim_sha256": "005f24fadfc77ee13c1617f00a7f04ee71fc9d86f074c859c4338f27db646c05",
+  "source_sha256": "7cb9c04b41db2f766f2ad4c26e60026fb6ffa25688e3dfe4f7be9ffb1e8a4390",
+  "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark"
+ },
+ "voice-of-america-metropark.mobility.3": {
+  "url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+  "quote": "GRIT Chair reservations are available on a first-come, first-served basis",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Reservations can be made online at YourMetroParks.net or by contacting the MetroParks Administrative Office Monday-Friday from 8:30 AM–4:30 PM at (513) 867-5835",
+   "Equipment must be picked up at the Voice of America MetroPark Welcome Center (7850 VOA Park Drive, West Chester Township) Monday-Friday, 8:30 AM-4:30 PM",
+   "Weekend reservations must be picked up on Friday"
+  ],
+  "claim_sha256": "43c8e80c85c6423b1faf77717513ea951cf321ada0abb4c7bc14d724ae0b7e97",
+  "source_sha256": "9922fc9dba792b1cd513acfeaa0bd90e2e83f2ab1f851e422bd495d6b7210292",
+  "final_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3"
+ },
+ "voice-of-america-metropark.mobility.4": {
+  "url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+  "quote": "While GRIT Chair reservations are free, a $75 deposit per chair is required at the time of booking",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Deposits will be refunded within 5-7 business days following the reservation",
+   "Contact MetroParks’ Visitor Services team at (513) 867-5835 or by email at info@yourmetroparks.net."
+  ],
+  "claim_sha256": "66b282fd9316e2ad05caa0d0f4934f0bb7e1a12c9ac946077a0c852336b5b478",
+  "source_sha256": "9922fc9dba792b1cd513acfeaa0bd90e2e83f2ab1f851e422bd495d6b7210292",
+  "final_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3"
+ },
+ "voice-of-america-metropark.mobility.5": {
+  "url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+  "quote": "About Our GRIT Spartan Chair:",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "This non-motorized chair is designed to be used on pavement, grass, dirt, and primitive hiking trails",
+   "Seat width: 20”",
+   "Weight limit: 300 lbs.",
+   "Height limit: 4’10”- 6’8”",
+   "The chair can be self-propelled with hand levers or controlled by someone pushing the chair from behind",
+   "The footrest can be adjusted or removed entirely"
+  ],
+  "claim_sha256": "b079364d42276e14713edc8ee9a1f7ea103e66bc020773a6b20a74ef06414254",
+  "source_sha256": "9922fc9dba792b1cd513acfeaa0bd90e2e83f2ab1f851e422bd495d6b7210292",
+  "final_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3"
+ },
+ "voice-of-america-metropark.mobility.6": {
+  "url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+  "quote": "About Our GRIT Junior Chair:",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Seat width: 12”",
+   "Weight limit: 200 lbs.",
+   "The chair can be self-propelled with hand levers or controlled by someone pushing the chair from behind",
+   "The footrest can be adjusted or removed entirely"
+  ],
+  "claim_sha256": "e5596d50c5dc29ec2a9cbeeefc634494f304fffd7ffd834114f76c5f95a78bc5",
+  "source_sha256": "9922fc9dba792b1cd513acfeaa0bd90e2e83f2ab1f851e422bd495d6b7210292",
+  "final_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3"
+ },
+ "voice-of-america-metropark.mobility.7": {
+  "url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+  "quote": "A lap belt is provided, but users must have adequate head and trunk control/endurance to sit upright in the chair",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The chair does not come with anterior or lateral trunk supports, armrests, or a headrest",
+   "Users must have enough safety awareness and body control to keep fingers and hands out of the chair’s gear system",
+   "Users must provide their own helmet"
+  ],
+  "claim_sha256": "9592f564f36b25d3ab7ed92b3e3c7611f53688ac05d04737324935e262c146db",
+  "source_sha256": "9922fc9dba792b1cd513acfeaa0bd90e2e83f2ab1f851e422bd495d6b7210292",
+  "final_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3"
+ },
+ "voice-of-america-metropark.mobility.8": {
+  "url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+  "quote": "There is no charge to launch hand-carried watercraft at the VOA Lake.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "MetroParks opened an adaptive kayak launch in 2021 whic is FREE to use.",
+   "The adaptive kayak launch utilizes a series of ramps, handrails and platforms to assist those with varying mobility needs to launch canoes, kayaks and other hand-powered watercraft into VOA Lake."
+  ],
+  "claim_sha256": "c07eb1a59ada9aef656342d59a194c7496f13aff17a37a24b73783897c6b6cfc",
+  "source_sha256": "1ae77db02a2bafed2cb814b492580008e5aa571367d6f5a338c1f8f1530d6ef9",
+  "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake"
+ },
+ "voice-of-america-metropark.mobility.9": {
+  "url": "https://www.yourmetroparks.net/news-alerts",
+  "quote": "Voice of America MetroPark Cross Country Trail Closures Nov 12, 2024, 11:08 AM Portions of the Voice of America MetroPark Cross Country Trails will be closed for trail rerouting work. Trail closures will be marked with signs and barricades.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "be5412dd908db82569ec05f6d34ae8a472410de4d156a89b7516469cbbe0a67d",
+  "source_sha256": "b74d8cfec1e9e362bf0e241ae3f5b4a2891e40926d66c5a0b7d55bbc36dcf930",
+  "final_url": "https://www.yourmetroparks.net/news-alerts"
  },
  "walmart-supercenter-fort-wright.cognitive.1": {
   "url": "https://www.walmart.com/store/2967-ft-wright-ky",

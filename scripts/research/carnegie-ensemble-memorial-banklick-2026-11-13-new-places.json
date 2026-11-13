@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "covunity-fridge-banklick-street",
+    "name": "COVUnity Fridge — Banklick Street",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Public services",
+    "address": "1214 Banklick St, Covington, KY 41011",
+    "website": "https://covunity.org/",
+    "source_url": "https://covunity.org/",
+    "limitations": "Public operator website information and one linked nighttime photograph; no on-site audit. This is the Banklick Street fridge, separate from Redden Gardens. It is self-serve with no staff present. Door force, shelf reach, threshold/paving dimensions, continuous sidewalk-to-fridge access, parking/drop-off, seating and toilets/changing facilities remain unverified. The photograph does not show the fridge interior or establish current stock or equipment operation; capture date is unknown. Redden Gardens amenities must not be assumed at Banklick.",
+    "facts": [
+      [
+        "cognitive",
+        "COVUnity lists its second fridge at 1214 Banklick Street in Covington. It describes both locations as free, self-serve and open 24 hours every day of the year, with no staff present.",
+        "https://covunity.org/",
+        "venue_official",
+        null,
+        [
+          "Banklick Street Our second location, with refrigerated and frozen food too. 1214 Banklick St Covington, KY 41011",
+          "Two free spots in Covington, open day and night. Anyone can donate or take. Swing by whenever it suits you. There is no staff present and no schedule to keep because it is self-serve. Open 24/7 · every day of the year"
+        ]
+      ],
+      [
+        "cognitive",
+        "Anyone may take food without signing in or explaining their need. COVUnity states there is no sign-up, cost or questions asked; assisted collection and delivery are not established.",
+        "https://covunity.org/",
+        "venue_official",
+        null,
+        [
+          "No sign-up No cost No questions asked",
+          "Hungry, stretched thin, or just passing by? Help yourself. It's free and open to everyone, and nobody's going to ask you to sign in or explain why you're there."
+        ]
+      ],
+      [
+        "chronic",
+        "The Banklick listing specifies refrigerated and frozen food. The microwave, hot/cold water station and wellness kiosk described for Redden Gardens are not established at this second location.",
+        "https://covunity.org/",
+        "venue_official",
+        null,
+        [
+          "Banklick Street Our second location, with refrigerated and frozen food too.",
+          "Redden Gardens The main fridge, with refrigerated and frozen food, a microwave, and a hot & cold water station.",
+          "The Northern Kentucky Health Department installed a free, judgment-free wellness kiosk immediately to the left of the main fridge at Redden Gardens."
+        ]
+      ],
+      [
+        "chronic",
+        "COVUnity asks visitors to wipe spills, discard food past its prime and shut the fridge tightly. Its donation guidance excludes opened or expired food and unlabeled prepared or home-cooked food, and accepts labeled meals from commercial kitchens. Suitability of individual items is not verified.",
+        "https://covunity.org/",
+        "venue_official",
+        null,
+        [
+          "Wipe up spills, toss anything past its prime, and shut the door tight.",
+          "Labeled meals from a commercial kitchen",
+          "Opened or expired food",
+          "Unlabeled prepared or home-cooked food"
+        ]
+      ],
+      [
+        "cognitive",
+        "COVUnity describes its food support as supplemental to established social services and directs people who need recurring help to those services. The site is not a live inventory or a promise of food availability.",
+        "https://covunity.org/",
+        "venue_official",
+        null,
+        "We recognize we are not solving hunger alone. We rely on established social services to help meet ongoing need, and we are supplemental to these resources. If you are in need of recurring help, please reach out to these services."
+      ]
+    ]
+  }
+]

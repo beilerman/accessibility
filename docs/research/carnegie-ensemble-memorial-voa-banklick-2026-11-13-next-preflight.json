@@ -1,0 +1,120 @@
+{
+  "checked_at": "2026-11-13",
+  "venue_slugs": [
+    "molly-malones-covington",
+    "summit-park-blue-ash",
+    "woodward-theater",
+    "lindner-family-tennis-center-cincinnati-open"
+  ],
+  "scope": "Availability only; no claims rechecked, no quote backfill and no venue dates advanced.",
+  "sources": [
+    {
+      "url": "https://mollymalonesirishpub.com/covington/",
+      "status": 403,
+      "final_url": null,
+      "sha256": null,
+      "chars": null,
+      "error": "Forbidden",
+      "result": "held"
+    },
+    {
+      "url": "https://mollymalonesirishpub.com/covington/contact/",
+      "status": 403,
+      "final_url": null,
+      "sha256": null,
+      "chars": null,
+      "error": "Forbidden",
+      "result": "held"
+    },
+    {
+      "url": "https://mollymalonesirishpub.com/covington/private-party-menu/",
+      "status": 403,
+      "final_url": null,
+      "sha256": null,
+      "chars": null,
+      "error": "Forbidden",
+      "result": "held"
+    },
+    {
+      "url": "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
+      "sha256": "90fd54253fb88f9b5f18573612473f9c71c3c3eaa27fb4898b06a463b75b1438",
+      "chars": 1743,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
+      "sha256": "99554ed480a26333348d4eea3f91b25b36ff23d1159b1c1911e350658a043da6",
+      "chars": 1053,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://www.summitparkblueash.com/residents/playground.php",
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/residents/playground.php",
+      "sha256": "4aeab2d3f045c417442b9c617114561293d28b1de16d40936be0a330f94ad42d",
+      "chars": 1632,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://www.summitparkblueash.com/residents/the_observation_tower.php",
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/residents/the_observation_tower.php",
+      "sha256": "548728700366757d25c3b40fdc6024faab79cc7c003aad716fabbea6e38a40a4",
+      "chars": 2256,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://www.summitparkblueash.com/residents/walking_trails.php",
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/residents/walking_trails.php",
+      "sha256": "0f7dec13b07a10468125b579291e6412fb457733248a8560f3748f05002f02ab",
+      "chars": 1014,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://www.woodwardtheater.com/parking-info",
+      "status": 200,
+      "final_url": "https://www.woodwardtheater.com/parking-info",
+      "sha256": "bb277e0dca6256dba7e14832208c7f6d874f8d51fdb06c1bb863a0aa3defb26d",
+      "chars": 1304,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://www.woodwardtheater.com/plan-your-visit",
+      "status": 200,
+      "final_url": "https://www.woodwardtheater.com/plan-your-visit",
+      "sha256": "d7373f4d8c436430a111bb66bfd4097927da0f583f3e6005829a7ed7d765b9b3",
+      "chars": 1717,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://cincinnatiopen.com/visit/faqs/",
+      "status": 200,
+      "final_url": "https://cincinnatiopen.com/visit/faqs/",
+      "sha256": "18aa53b95ab455752cd5d074fdc4326615940fff802a2d9ebfe7f3bc6cf5281b",
+      "chars": 14906,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    },
+    {
+      "url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+      "status": 200,
+      "final_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+      "sha256": "001c7eaf0bab3d5ec7dcbd38d2f7c348052fb3b56389d71fa192cc0c11f40ec0",
+      "chars": 3535,
+      "error": null,
+      "result": "available_for_next_clause_review"
+    }
+  ]
+}

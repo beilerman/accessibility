@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-11-13T17:01:13.508742+00:00",
+  "scope": "Next-pass photo research only. No catalog notes, freshness dates, photo entries or guide entries were added from this follow-through.",
+  "sources": [
+    {
+      "url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
+      "status": 200,
+      "sha256": "99554ed480a26333348d4eea3f91b25b36ff23d1159b1c1911e350658a043da6"
+    },
+    {
+      "url": "https://www.summitparkblueash.com/residents/the_observation_tower.php",
+      "status": 200,
+      "sha256": "548728700366757d25c3b40fdc6024faab79cc7c003aad716fabbea6e38a40a4"
+    },
+    {
+      "url": "https://www.woodwardtheater.com/ada-info",
+      "status": 200,
+      "sha256": "1c4d687f7f1854bba4d40c9d8e0fa4f54f6e9d779467c6a5d088a07a12911433"
+    },
+    {
+      "url": "https://www.woodwardtheater.com/",
+      "status": 200,
+      "sha256": "30d4f09ed2860a4da3954757cdb2b269803e1a63b3c5fc9c94f2c8520b3c7b66"
+    }
+  ],
+  "inspected_views": [
+    {
+      "url": "https://www.woodwardtheater.com/sites/default/files/styles/featured_image/public/images/woodward-sign.jpg?itok=Ok6722hf",
+      "source": "https://www.woodwardtheater.com/ada-info",
+      "visible": "Upper facade and venue name only; no doors, street approach or toilets.",
+      "disposition": "Held as decorative; no reuse licence established."
+    },
+    {
+      "url": "https://www.woodwardtheater.com/sites/default/files/styles/featured_image/public/images/woodward-header2.jpg?itok=1GIQDJ9f",
+      "source": "https://www.woodwardtheater.com/",
+      "visible": "Close-up of marquee trim and lights; no access route.",
+      "disposition": "Held as decorative; no reuse licence established."
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Woodward_Theater,_Over-the-Rhine,_Cincinnati,_OH_(32410428507).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_Woodward_Theater%2C_Over-the-Rhine%2C_Cincinnati%2C_OH_%2832410428507%29.jpg",
+      "author": "Warren LeMay",
+      "license": "CC0 1.0",
+      "photo_date": "2019-03-10",
+      "visible": "Main doors, sidewalk and crosswalk/tactile curb area, but cars obscure the approach and a driver is visible. Door controls and exact threshold are not established.",
+      "sha256": "2b15553ffd145e4b937ecba022529610642660ffde66c1c2bfdfbc1eb4442f40",
+      "disposition": "Held for next venue batch; inspect remaining category angles for an unobstructed view without incidental people."
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Summit_Park_in_Blue_Ash_Ohio.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Summit_Park_in_Blue_Ash_Ohio.jpg",
+      "author": "Blue Ash Communications",
+      "license": "CC BY-SA 4.0",
+      "photo_date": "2020-08-19",
+      "visible": "Elevated view of Great Lawn, bordering paved paths, shelters and parking. Too distant to identify toilets, thresholds, elevator access or route gradients.",
+      "sha256": "391e2f8106dc55e5b4430c423dc4cbf346084b09aad553d051f9efba2aedcd6c",
+      "disposition": "Held as broad historical context; prioritize closer arrival, elevator and restroom views."
+    }
+  ],
+  "held_fetches": [
+    {
+      "url": "https://www.summitparkblueash.com/Tower%20from%20pond%202%20-%20Copy%20%282%29.JPG",
+      "result": "403 after redirect; not visually inspected."
+    }
+  ],
+  "next_steps": [
+    "Woodward Commons category has 10 top-level files and a 198-file 2016 town-hall subcategory. Only one top-level file visually inspected in this follow-through; two file-description pages read. Verify each selected original and licence before publication.",
+    "Summit family-restroom page returned 200 but image inventory contains logo/social icons only; seek an original facility tour.",
+    "Woodward ADA page freshly available at /ada-info; next full review must retain seating-on-request capacity limits and distinguish Cincinnati from similarly named Ohio and Oklahoma venues."
+  ],
+  "discovery_links": [
+    "https://commons.wikimedia.org/wiki/Category:Woodward_Theater",
+    "https://www.woodwardtheater.com/sites/default/files/WoodwardWeddingVenueInformation.pdf",
+    "https://www.skydb.net/file/829014791/the-tower-at-summit-park-blue-ash/"
+  ],
+  "discovery_links_scope": "Leads only; wedding PDF and SKYDB elevator photo not fetched or visually inspected in this pass."
+}

@@ -7887,7 +7887,7 @@
     "address": "1127 Vine Street, Cincinnati, OH 45202-7226",
     "website": "https://ensemblecincinnati.org/",
     "source_url": "https://ensemblecincinnati.org/accessibility/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -7895,7 +7895,7 @@
         "source_url": "https://ensemblecincinnati.org/accessibility/",
         "id": "ensemble-theatre-cincinnati.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7907,6 +7907,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -7914,11 +7919,11 @@
       },
       {
         "domain": "mobility",
-        "text": "Each wheelchair location has a guaranteed adjacent same-row companion seat, and limited first-come, first-served accessible parking is in front of the main entrance.",
+        "text": "Ensemble guarantees one companion seat immediately beside each wheelchair location in the same row, plus two additional companion seats adjacent or as close as possible. Limited first-come, first-served disability parking is in front of the main entrance at 1127 Vine Street.",
         "source_url": "https://ensemblecincinnati.org/accessibility/",
         "id": "ensemble-theatre-cincinnati.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7932,16 +7937,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Added the two further companion seats while preserving that their adjacency is not guaranteed."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "Free headphones, earbuds and induction neck loops are first-come, first-served at the Box Office and can be reserved when buying tickets.",
+        "text": "Free assistive-listening headphones, earbuds and induction neck loops are first-come, first-served at the Box Office and can be reserved when buying tickets. The neck loops are for hearing aids and cochlear implants with a T-switch; Ensemble says devices are disinfected between uses.",
         "source_url": "https://ensemblecincinnati.org/accessibility/",
         "id": "ensemble-theatre-cincinnati.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7955,6 +7965,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retained the equipment compatibility condition and publisher’s cleaning statement."
           }
         ]
       },
@@ -7964,7 +7979,7 @@
         "source_url": "https://ensemblecincinnati.org/accessibility/",
         "id": "ensemble-theatre-cincinnati.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7976,6 +7991,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -7987,7 +8007,7 @@
         "source_url": "https://ensemblecincinnati.org/accessibility/",
         "id": "ensemble-theatre-cincinnati.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8001,16 +8021,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "During performances, three lockable all-gender restrooms are on Levels 2 and 3; two are universal ADA-accessible restrooms.",
+        "text": "During performances, Ensemble lists three lockable all-gender restrooms on Levels 2 and 3, describing two as universal and ADA-accessible. This is the venue’s description, not a verified dimension or adult-changing provision.",
         "source_url": "https://ensemblecincinnati.org/visit/accessibility/",
         "id": "ensemble-theatre-cincinnati.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8019,6 +8044,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attributed the ADA terminology and avoided implying measured facilities or adult-changing equipment."
           }
         ]
       },
@@ -8028,7 +8058,7 @@
         "source_url": "https://ensemblecincinnati.org/visit/accessibility/",
         "id": "ensemble-theatre-cincinnati.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8037,6 +8067,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8046,7 +8081,7 @@
         "source_url": "https://ensemblecincinnati.org/visit/accessibility/",
         "id": "ensemble-theatre-cincinnati.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8055,11 +8090,178 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Ensemble locates restrooms it describes as accessible in the first-floor lobby, second-floor corridor and third-floor lobby. Of the two all-gender toilets in the Level 2 corridor, it identifies the one nearest the rehearsal-hall entrance as ADA-accessible; the Level 3 all-gender toilet is in that lobby.",
+        "source_url": "https://ensemblecincinnati.org/visit/accessibility/",
+        "id": "ensemble-theatre-cincinnati.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Large-print programs can be downloaded as PDFs from show pages before a performance or collected at the Box Office on the day. Braille programs are available from the Box Office on the performance day.",
+        "source_url": "https://ensemblecincinnati.org/visit/accessibility/",
+        "id": "ensemble-theatre-cincinnati.sensory.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "At relaxed performances, Ensemble keeps low-level house lights on, reduces startling/loud sound and strobe or audience-directed lighting, allows standing and movement, and permits leaving and re-entering as often as needed. It also lists designated quiet areas in the facility.",
+        "source_url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+        "id": "ensemble-theatre-cincinnati.sensory.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For relaxed performances, additional accommodations may be requested by calling the Box Office at least 48 hours ahead. The relaxed-show page lists fidgets, noise-dampening headphones, sensory cushions and sunglasses at the Box Office; a request is not confirmation of a particular arrangement.",
+        "source_url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+        "id": "ensemble-theatre-cincinnati.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The published Cinderella relaxed performances are December 5, 2026 at 2 p.m. and December 6, 2026 at 7 p.m.; the page lists $15 per person including a $3 fee. These are date-specific listings, not confirmation of remaining seats.",
+        "source_url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+        "id": "ensemble-theatre-cincinnati.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The official social narrative places the elevator in the first-floor hallway and says it goes to the third floor. Its third-floor theatre entrance has a lift beside it; confirm lift operation and assistance before choosing upper-row seating.",
+        "source_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+        "id": "ensemble-theatre-cincinnati.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The social narrative directs visitors needing quiet time to the lobby outside the theatre and, for greater quiet, to the mezzanine, reached by the elevator’s M button. It describes chairs there; this is guidance, not a guarantee of silence or a private room.",
+        "source_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+        "id": "ensemble-theatre-cincinnati.sensory.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The social narrative shows waiting space in the lobby and describes chairs and tables to sit at before the play. It says food and drinks bought at the bar can be taken into the theatre.",
+        "source_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+        "id": "ensemble-theatre-cincinnati.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Ensemble says the lobby opens one hour before showtime and theatre doors about half an hour before. Late seating is at the House Manager’s discretion between scenes; admission may be denied because of the production or when more than 15 minutes late.",
+        "source_url": "https://ensemblecincinnati.org/visit/faqs/",
+        "id": "ensemble-theatre-cincinnati.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Upper-row accessible seating depends on the elevator and a wheelchair lift at the third-floor entrance; confirm both are working, and check the event listings for ASL, audio-described and relaxed performance dates.",
+    "limitations": "Public website information; no on-site audit. Upper-row seating depends on the elevator and third-floor wheelchair lift; confirm both operate and any assistance needed. Restroom locations are described, but dimensions, transfer layouts and adult changing equipment are unverified. Check event-specific ASL, audio-described and relaxed dates; a quiet-area description is not a silence guarantee. The social narrative says 180 seats while the current FAQ says 182.",
     "slug": "ensemble-theatre-cincinnati",
     "evidence_type": "public_website",
     "observed_at": null
@@ -8255,11 +8457,11 @@
       },
       {
         "domain": "mobility",
-        "text": "Lazy River rules require entry and exit at the tube area, waiting for the lifeguard’s instruction and using the supplied tubes. The page does not explain assisted transfers or a lift at this attraction.",
+        "text": "Lazy-river rules require the supplied tubes, entry and exit at the tube area, and waiting for the lifeguard’s instruction. Parents with young children may share a tube; otherwise only one rider is permitted. The rules do not establish transfer equipment or staff transfer help.",
         "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
         "id": "florence-family-aquatic-center.mobility.3",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8268,11 +8470,52 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Added the parent/young-child shared-tube exception while preserving the absence of transfer equipment/help evidence."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Memberships and day passes are sold in person at the center during normal business hours. The page gives 859-282-4130 for questions or assistance Monday–Friday, 9 a.m.–5 p.m.; this is not confirmation of a personal attendant or transfer assistance.",
+        "source_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
+        "id": "florence-family-aquatic-center.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The city’s bid register lists “Florence Aquatic Center Renovations – Phase 1.” A procurement listing does not establish construction progress, changed access features or a reopening date; confirm future arrangements with the city.",
+        "source_url": "https://florence-ky.gov/publication-of-bid-solicitations-enacted-ordinances/",
+        "id": "florence-family-aquatic-center.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public city website reporting; no on-site audit. The posted 2026 season runs through Labor Day; November opening and the next season’s dates are not established. No claim is made about lift access to other pools or slides, assisted transfers, water-wheelchair availability, parking-to-entrance continuity or adult changing equipment. A family-restroom label alone does not establish its access features.",
+    "limitations": "Public city website reporting; no on-site audit. The posted 2026 season runs through Labor Day; November opening and the next season’s dates are not established. No claim is made about lift access to other pools or slides, assisted transfers, water-wheelchair availability, parking-to-entrance continuity or adult changing equipment. A family-restroom label alone does not establish its access features. The city lists a Phase 1 renovation procurement; completion and access impacts remain unverified. Linked photographs have unknown capture dates and do not establish current conditions.",
     "slug": "florence-family-aquatic-center",
     "observed_at": null,
     "address": "8200 Ewing Boulevard, Florence, KY"
@@ -14805,7 +15048,7 @@
     "address": "1028 Scott Boulevard, Covington, KY 41011",
     "website": "https://thecarnegie.com/",
     "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -14814,7 +15057,7 @@
         "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
         "id": "the-carnegie.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14828,6 +15071,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14837,7 +15085,7 @@
         "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
         "id": "the-carnegie.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14851,6 +15099,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14860,7 +15113,7 @@
         "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
         "id": "the-carnegie.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14874,6 +15127,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14883,7 +15141,7 @@
         "source_url": "https://thecarnegie.com/direction-and-parking/",
         "id": "the-carnegie.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14897,6 +15155,11 @@
             "date": "2026-11-10",
             "action": "revised",
             "note": "Removed the word 'free': the source says the street parking is un-metered but does not call it free."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14906,7 +15169,7 @@
         "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
         "id": "the-carnegie.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14915,16 +15178,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Patrons are strongly encouraged not to park in the lot directly across Scott Boulevard.",
+        "text": "The Carnegie says the lot directly across Scott Boulevard, shared by Dollar Tree and Senior Services of Northern Kentucky, is not available to its patrons. It strongly asks patrons not to park there.",
         "source_url": "https://thecarnegie.com/direction-and-parking/",
         "id": "the-carnegie.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14938,6 +15206,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Made the source’s explicit parking exclusion visible, rather than only its recommendation."
           }
         ]
       },
@@ -14947,7 +15220,7 @@
         "source_url": "https://thecarnegie.com/about/architecture/",
         "id": "the-carnegie.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14956,11 +15229,52 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Carnegie lists gallery hours Thursday–Saturday, noon–5 p.m., and box-office hours Tuesday–Friday, noon–5 p.m. The box-office number for performance access arrangements is 859-957-1940.",
+        "source_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
+        "id": "the-carnegie.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Tickets are final sale. Exchanges depend on availability, carry a 10% fee on the exchanged tickets’ total cost, and must be requested at least 24 hours before the performance.",
+        "source_url": "https://thecarnegie.com/box-office/",
+        "id": "the-carnegie.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website reporting; no on-site audit. Performance accommodations depend on the event; mezzanine seating has a stated barrier.",
+    "limitations": "Public website reporting; no on-site audit. Performance accommodations depend on the event; the mezzanine has a stated stair barrier. The education-center ramp and elevators are described, but precise alternative entrances, door controls, restroom layouts and adult changing equipment remain unverified. The two access photographs date from March 2020 and do not establish a continuous current route.",
     "slug": "the-carnegie",
     "observed_at": null
   },
@@ -20465,8 +20779,8 @@
     "address": "1225 Elm Street, Cincinnati, OH 45202",
     "website": "https://www.memorialhallotr.com/",
     "source_url": "https://www.memorialhallotr.com/about-memo/",
-    "checked_at": "2026-11-09",
-    "limitations": "Public website information plus a firsthand Threshold review; no formal on-site audit. The front entrance has steps; use the marked accessible door on the right side. Accessible restrooms, the route from the garage, and seat locations for your event are not described; confirm with the box office.",
+    "checked_at": "2026-11-13",
+    "limitations": "Public website information plus a firsthand Threshold review; no formal on-site audit. The front entrance has steps; the venue identifies a street-level patron elevator on the north/right side. The separate production elevator is not a verified public alternative. Restroom layouts, adult changing equipment, the continuous garage-to-door route and event-specific wheelchair/companion seat locations remain unverified. The linked photo tour does not show the patron elevator entrance.",
     "slug": "memorial-hall-otr",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -20477,7 +20791,7 @@
         "source_url": "https://www.memorialhallotr.com/about-memo/",
         "id": "memorial-hall-otr.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20486,6 +20800,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -20495,7 +20814,7 @@
         "source_url": "https://www.memorialhallotr.com/about-memo/",
         "id": "memorial-hall-otr.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20504,6 +20823,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -20513,7 +20837,7 @@
         "source_url": "https://www.memorialhallotr.com/plan-your-visit/",
         "id": "memorial-hall-otr.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20522,6 +20846,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -20531,7 +20860,7 @@
         "source_url": "https://www.memorialhallotr.com/plan-your-visit/",
         "id": "memorial-hall-otr.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20540,22 +20869,86 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The Washington Park Garage across the street has glass elevators at its northeast and northwest corners and across from the Music Hall entrance, with pay stations in each elevator lobby.",
+        "text": "Washington Park’s garage page locates glass elevator shafts at the northeast corner, northwest corner and across from the Music Hall entrance. Pay stations are in the three elevator lobbies. Current operation and a continuous route to Memorial Hall are not established by that description.",
         "source_url": "https://washingtonpark.org/parking/",
         "id": "memorial-hall-otr.mobility.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Matched the source’s glass-shaft wording and removed the uncited across-the-street location clause from this operator-source note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Memorial Hall describes a separate production elevator serving the stage from the basement, Grant Street and first floor. This is distinct from the north-side patron elevator; public use, staffing and operating arrangements for the production lift need confirmation.",
+        "source_url": "https://www.memorialhallotr.com/about-memo/",
+        "id": "memorial-hall-otr.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Washington Park Garage lists vehicle entrances/exits on Race Street at 13th Street and on Elm Street across from Music Hall. Its pay-on-foot instructions say to take the parking ticket and pay by cash or credit card in an elevator lobby before returning to the vehicle.",
+        "source_url": "https://washingtonpark.org/parking/",
+        "id": "memorial-hall-otr.mobility.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The garage’s valet-assist parking program is listed for Monday–Friday, 7 a.m.–4 p.m.: enter normally and go to the second-level attendant. Regular parking rates apply without an extra valet-assist fee. This parking service does not establish passenger-transfer help or an escort to Memorial Hall.",
+        "source_url": "https://washingtonpark.org/parking/",
+        "id": "memorial-hall-otr.mobility.6",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -23731,8 +24124,8 @@
     "address": "7850 VOA Park Drive, West Chester, OH 45069",
     "website": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
     "source_url": "https://www.yourmetroparks.net/about/accessibility",
-    "limitations": "Public website information; no on-site audit. How much of the nine miles of trail is paved, accessible parking, and whether the restrooms and playground are accessible are not described. Contact MetroParks before your visit.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public website information; no on-site audit. Paved trail extent, measured parking-to-facility routes, restroom layouts, adult changing equipment and playground access remain unverified. General Welcome Center hours end at 5 p.m., but GRIT pickup instructions end at 4:30 p.m. and require Friday collection for weekends. The web page says deposits return in 5–7 days; the equipment PDF specifies business days. Confirm return arrangements and personal assistance. The old trail notice and undated launch photo do not establish current conditions; rentals are seasonally closed.",
+    "checked_at": "2026-11-13",
     "slug": "voice-of-america-metropark",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -23743,7 +24136,7 @@
         "source_url": "https://www.yourmetroparks.net/about/accessibility",
         "id": "voice-of-america-metropark.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -23752,6 +24145,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -23761,7 +24159,7 @@
         "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
         "id": "voice-of-america-metropark.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -23770,6 +24168,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -23779,7 +24182,7 @@
         "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
         "id": "voice-of-america-metropark.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -23788,6 +24191,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -23797,13 +24205,252 @@
         "source_url": "https://www.yourmetroparks.net/about/accessibility",
         "id": "voice-of-america-metropark.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "GRIT reservations are first-come, first-served online or by calling 513-867-5835 Monday–Friday, 8:30 a.m.–4:30 p.m. The equipment sheet requires collection at the VOA Welcome Center, 7850 VOA Park Drive, during those weekday hours; weekend reservations must be collected Friday.",
+        "source_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+        "id": "voice-of-america-metropark.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The equipment sheet says GRIT reservations are free with a $75 deposit per chair at booking, refunded within 5–7 business days after the reservation. Confirm return timing and deposit arrangements with Visitor Services (513-867-5835 or info@yourmetroparks.net).",
+        "source_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+        "id": "voice-of-america-metropark.mobility.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The operator’s GRIT Spartan sheet lists a 20-inch seat, 300-pound weight limit and user height range of 4 feet 10 inches to 6 feet 8 inches. It describes a non-motorized chair propelled by hand levers or pushed from behind, with an adjustable/removable footrest. These are published equipment specifications, not individual fit advice.",
+        "source_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+        "id": "voice-of-america-metropark.mobility.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The GRIT Junior sheet lists a 12-inch seat and 200-pound weight limit. It likewise describes hand-lever propulsion or pushing from behind, and an adjustable/removable footrest; it does not establish personal fit or staff-provided pushing assistance.",
+        "source_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+        "id": "voice-of-america-metropark.mobility.6",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For both GRIT models, the sheet says a lap belt is provided but users need enough head/trunk control and endurance to sit upright. It says the chairs lack anterior/lateral trunk supports, armrests and a headrest; users must bring a helmet and keep hands clear of the gears. Discuss the published requirements with the operator before reserving.",
+        "source_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+        "id": "voice-of-america-metropark.mobility.7",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park lists daily hours of 8 a.m.–dusk. The Welcome Center’s general hours are Monday–Friday, 8:30 a.m.–5 p.m., closed weekends. Equipment collection has separate published arrangements.",
+        "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
+        "id": "voice-of-america-metropark.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "MetroParks welcomes service animals trained to perform specific tasks for a person with disabilities at its facilities and outdoor spaces. It encourages visitors to bring needed personal assistance devices or support people; this does not promise a staff attendant or transfer assistance.",
+        "source_url": "https://www.yourmetroparks.net/about/accessibility",
+        "id": "voice-of-america-metropark.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The lake page says Rent.Fun kayak and paddleboard rentals are closed for the season and directs visitors to check again in spring 2027 for reopening information. The rental instructions remaining below that notice are not evidence that rentals are currently operating.",
+        "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+        "id": "voice-of-america-metropark.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "MetroParks describes its free adaptive kayak launch, opened in 2021, as using ramps, handrails and platforms for launching canoes, kayaks and other hand-powered craft. Launching hand-carried watercraft is free. The page does not establish transfer help, measured equipment clearances or current launch conditions.",
+        "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+        "id": "voice-of-america-metropark.mobility.8",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For a future rental after seasonal reopening, the published process uses the Rent.Fun app and an account, scanning a locker QR code, inspecting the equipment, and returning/locking it in the same unit before ending the rental in the app. The rules require age 18 or older, one person per craft and a life jacket throughout; no companion seat is established.",
+        "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+        "id": "voice-of-america-metropark.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "A trail-rerouting notice still displayed on the News & Alerts page is dated November 12, 2024. It says portions of the VOA cross-country trails will close, marked by signs and barricades. It does not identify affected segments or an end date; confirm current routes rather than treating this old notice as live closure confirmation.",
+        "source_url": "https://www.yourmetroparks.net/news-alerts",
+        "id": "voice-of-america-metropark.mobility.9",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Chill Hill sledding is described as available 8 a.m.–dusk in winter when weather and snow permit; visitors bring their own sled and snow gear. The page also mentions a lake/grassland observation deck but does not establish a step-free route to it.",
+        "source_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/chill-hill-sledding-hill",
+        "id": "voice-of-america-metropark.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "MetroParks locates parking near VOA Lodge and describes a paved pathway down to the kayak/canoe launch. The description does not give distance, gradient, designated-space layout or assistance arrangements.",
+        "source_url": "https://www.yourmetroparks.net/recreation/paddling",
+        "id": "voice-of-america-metropark.mobility.10",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -35315,6 +35962,112 @@
         "text": "COVUnity describes the fridge as supplemental food support and directs people needing recurring help to established social services. It says it has no staff and relies on community helpers, so prompt personal assistance is not assured.",
         "source_url": "https://covunity.org/",
         "id": "covunity-fridge-redden-gardens.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "COVUnity Fridge — Banklick Street",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Public services",
+    "address": "1214 Banklick St, Covington, KY 41011",
+    "website": "https://covunity.org/",
+    "source_url": "https://covunity.org/",
+    "limitations": "Public operator website information and one linked nighttime photograph; no on-site audit. This is the Banklick Street fridge, separate from Redden Gardens. It is self-serve with no staff present. Door force, shelf reach, threshold/paving dimensions, continuous sidewalk-to-fridge access, parking/drop-off, seating and toilets/changing facilities remain unverified. The photograph does not show the fridge interior or establish current stock or equipment operation; capture date is unknown. Redden Gardens amenities must not be assumed at Banklick.",
+    "checked_at": "2026-11-13",
+    "slug": "covunity-fridge-banklick-street",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "COVUnity lists its second fridge at 1214 Banklick Street in Covington. It describes both locations as free, self-serve and open 24 hours every day of the year, with no staff present.",
+        "source_url": "https://covunity.org/",
+        "id": "covunity-fridge-banklick-street.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Anyone may take food without signing in or explaining their need. COVUnity states there is no sign-up, cost or questions asked; assisted collection and delivery are not established.",
+        "source_url": "https://covunity.org/",
+        "id": "covunity-fridge-banklick-street.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Banklick listing specifies refrigerated and frozen food. The microwave, hot/cold water station and wellness kiosk described for Redden Gardens are not established at this second location.",
+        "source_url": "https://covunity.org/",
+        "id": "covunity-fridge-banklick-street.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "COVUnity asks visitors to wipe spills, discard food past its prime and shut the fridge tightly. Its donation guidance excludes opened or expired food and unlabeled prepared or home-cooked food, and accepts labeled meals from commercial kitchens. Suitability of individual items is not verified.",
+        "source_url": "https://covunity.org/",
+        "id": "covunity-fridge-banklick-street.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "COVUnity describes its food support as supplemental to established social services and directs people who need recurring help to those services. The site is not a live inventory or a promise of food availability.",
+        "source_url": "https://covunity.org/",
+        "id": "covunity-fridge-banklick-street.cognitive.3",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,

@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-11-13",
+  "scope": "Read-only source availability and candidate discovery; no public listing or freshness credit yet.",
+  "sources": [
+    {
+      "url": "https://www.kroger.com/stores/grocery/ky/covington/latonia/014/00392",
+      "status": null,
+      "error": "TimeoutError: The read operation timed out",
+      "chars": null,
+      "sha256": null,
+      "final_url": null
+    },
+    {
+      "url": "https://www.kroger.com/stores/pickup/ky/covington",
+      "status": null,
+      "error": "TimeoutError: The read operation timed out",
+      "chars": null,
+      "sha256": null,
+      "final_url": null
+    },
+    {
+      "url": "https://www.kroger.com/hc/help/faqs/ways-to-shop/pickup",
+      "status": 200,
+      "error": null,
+      "chars": 10887,
+      "sha256": "6224bb1c8a82293de2fd788fc3ae18a1291b7964c4d7e4c4e1de274bf344b00c",
+      "final_url": "https://www.kroger.com/hc/help/faqs/ways-to-shop/pickup"
+    },
+    {
+      "url": "https://www.kroger.com/i/terms/pickup-and-delivery",
+      "status": null,
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "chars": null,
+      "sha256": null,
+      "final_url": null
+    },
+    {
+      "url": "https://giftcards.kroger.com/blog/blog-grocery-pickup",
+      "status": 503,
+      "error": "HTTP 503",
+      "chars": null,
+      "sha256": null,
+      "final_url": null
+    }
+  ]
+}

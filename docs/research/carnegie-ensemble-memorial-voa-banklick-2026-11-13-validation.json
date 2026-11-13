@@ -1,0 +1,89 @@
+{
+  "reviewed_at": "2026-11-13T16:58:36.261521+00:00",
+  "base": "67295ca6b660daeede62ae262bdd53300f2287a8",
+  "disposition": "Prepared for the runner validation and atomic publication workflow; not committed, pushed or deployed by the agent.",
+  "evidence": {
+    "final_fresh_checks": 60,
+    "failed": 0,
+    "core_fresh_checks": 40,
+    "active_source_baselines": 22,
+    "new_guide_links_http_200": 6,
+    "editorial_review": "All clauses, conditions and dates compared. Final audit added separate Banklick/Redden wellness-kiosk and Memorial patron-elevator passages and removed an unnecessary unquoted proximity clause from the new Ensemble elevator note. Each refinement passed the fresh-source helper.",
+    "final_catalog_claim_digests_and_passages_matched": 59,
+    "address_checks": 1
+  },
+  "checks": [
+    {
+      "name": "npm test",
+      "status": "pass",
+      "tests": 97
+    },
+    {
+      "name": "Python 3.11 unittest discover -s pipeline -p test_*.py",
+      "status": "pass",
+      "tests": 74,
+      "environment": "uv with pipeline/requirements.txt outside checkout",
+      "note": "An initial pytest invocation was unavailable; this repository uses unittest. The correct runner-style suite passed."
+    },
+    {
+      "name": "npm run lint",
+      "status": "pass"
+    },
+    {
+      "name": "npx tsc --noEmit",
+      "status": "pass"
+    },
+    {
+      "name": "npm run build",
+      "status": "pass",
+      "generated_pages": 169
+    },
+    {
+      "name": "Final production-build HTTP",
+      "status": "pass",
+      "pages": 9,
+      "new_photo_byte_hash_matches": 2
+    },
+    {
+      "name": "Playwright browser suite",
+      "status": "environment_blocked",
+      "registered_tests": 142,
+      "attempted": 1,
+      "passed": 0,
+      "reason": "Chromium macOS MachPort bootstrap_check_in permission denied (1100) before the Banklick test could run. CUA independently reports browser access host unavailable. Runner must validate browser rendering, interaction and axe before publication."
+    },
+    {
+      "name": "git diff --check",
+      "status": "pass"
+    },
+    {
+      "name": "conflict-marker scan",
+      "status": "pass",
+      "matches": 0
+    },
+    {
+      "name": "Semantic preservation",
+      "status": "pass",
+      "unchanged_existing_venues": 148,
+      "old_ids_and_history_preserved": true,
+      "prior_photos_and_guides_preserved": true,
+      "unrelated_quotes_preserved": true,
+      "final_claim_digests_and_passages_match": true,
+      "partial_florence_whole_venue_date_preserved": true
+    }
+  ],
+  "log_sha256": {
+    "unit-final.log": "e11aaba1b2c0dc53b032b0be1361d42bdcf3de0d12d7268b9f3558435ac73821",
+    "pipeline-final.log": "3367fef259126e29454b17a31486ace6dfd6267c8560993db185413947b481dd",
+    "lint-final.log": "dc4ab3e4e30b45d5359ff6bf68b86ea6e6e9332193c7db6f13dafa1c3c0be31e",
+    "types-final.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "build-final.log": "eca94c610bd73cb9637b74c2f44fcd056286ac296c0331a50f1b648956d48c55",
+    "browser.log": "160b96459637c42cd139c4e63544dcd0dfd2f9ca88a61b00a793fb7dae25f052",
+    "final-evidence.log": "ac548b1f0af39297a683981025eb55f2d2d39214f9cf67c3245fc231aded0db5",
+    "core-evidence-final.log": "90adbe5feea6f041bd3d980f0ec290f71529a1e01bf1d62189202f2b62c38b7c"
+  },
+  "publication_owned_by_runner": true,
+  "deployment_performed": false,
+  "all_mutation_specs_already_applied": true,
+  "final_review": "Supported content and image changes reviewed; JSON and conflict-marker checks passed. Later work changes research documentation only. Owned local production server stopped."
+}

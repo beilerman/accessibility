@@ -18,6 +18,11 @@ describe("November source-backed venue expansion", () => {
     expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toContain("covunity-fridge-redden-gardens");
     expect(text("covunity-fridge-redden-gardens")).toContain("no staff present");
     expect(place("covunity-fridge-redden-gardens").limitations).toContain("not the separate Banklick Street fridge");
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toContain("covunity-fridge-banklick-street");
+    expect(place("covunity-fridge-banklick-street").address).toBe("1214 Banklick St, Covington, KY 41011");
+    expect(text("covunity-fridge-banklick-street")).toContain("no staff present");
+    expect(text("covunity-fridge-banklick-street")).toContain("not established at this second location");
+    expect(place("covunity-fridge-banklick-street").limitations).toContain("separate from Redden Gardens");
   });
   it("finds Covington food assistance while preserving registration conflicts and delivery limits", () => {
     const slug = "be-concerned-covington";
@@ -401,7 +406,7 @@ describe("November source-backed venue expansion", () => {
     expect(text("burnet-woods-trailside-nature-center")).toMatch(/same page says Saturday open hours/);
   });
   it("discovers public services and recreation while preserving construction and seasonal limits", () => {
-    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens"]);
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens", "covunity-fridge-banklick-street"]);
     expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("uc-campus-recreation-center");
     expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toContain("dunham-recreation-complex");
     expect(place("kenton-county-government-center").address).toBe("1840 Simon Kenton Way, Covington, KY 41011");

@@ -126,7 +126,7 @@
       "final_url": "https://ensemblecincinnati.org/visit/accessibility/",
       "last_modified": null,
       "sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 6935
     },
     "https://falcontheater.net/contact-us/": {
@@ -180,7 +180,7 @@
     "https://florence-ky.gov/residents/florence-family-aquatic-center/": {
       "status": 200,
       "final_url": "https://florence-ky.gov/residents/florence-family-aquatic-center/",
-      "last_modified": "Thu, 12 Nov 2026 03:35:59 GMT",
+      "last_modified": "Fri, 13 Nov 2026 16:38:40 GMT",
       "sha256": "cb525f886aba82ffcd63fc6aaddaf410b6098c500179b1a7f9ba3fc109f8463b",
       "fingerprint_version": 6,
       "chars": 8789
@@ -388,17 +388,17 @@
     "https://thecarnegie.com/about/visiting-the-carnegie/": {
       "status": 200,
       "final_url": "https://thecarnegie.com/about/visiting-the-carnegie/",
-      "last_modified": "Sun, 08 Nov 2026 10:37:25 GMT",
+      "last_modified": "Fri, 13 Nov 2026 11:50:18 GMT",
       "sha256": "ce7e39b7465d2739fb2b67f9f1d8887d5e4517129a18bf3b6e1c3ed954aba7a6",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2929
     },
     "https://thecarnegie.com/direction-and-parking/": {
       "status": 200,
       "final_url": "https://thecarnegie.com/direction-and-parking/",
-      "last_modified": "Tue, 10 Nov 2026 23:40:43 GMT",
+      "last_modified": "Fri, 13 Nov 2026 14:19:49 GMT",
       "sha256": "f34e4214a11279bb051b0fec756ab9b827928c45a23c0302f55fa1cd35c3b9e4",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2863
     },
     "https://thechildrenstheatre.com/accessibility/": {
@@ -1018,7 +1018,7 @@
       "final_url": "https://www.memorialhallotr.com/about-memo/",
       "last_modified": null,
       "sha256": "68df7ad812de5340d87150a46d5c2013b06a78399aa34b882bbfd29a990d67b9",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1593
     },
     "https://www.memorialhallotr.com/plan-your-visit/": {
@@ -1026,7 +1026,7 @@
       "final_url": "https://www.memorialhallotr.com/plan-your-visit/",
       "last_modified": null,
       "sha256": "69cefdf3ea23829524cec2d1cdf2200f3d46d0d556bcc6e63b9b5c32ca2c2b62",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1912
     },
     "https://www.mlb.com/reds/ballpark/disability-access-guide": {
@@ -1156,17 +1156,17 @@
     "https://www.yourmetroparks.net/about/accessibility": {
       "status": 200,
       "final_url": "https://www.yourmetroparks.net/about/accessibility",
-      "last_modified": "Sun, 08 Nov 2026 05:31:54 GMT",
+      "last_modified": "Thu, 12 Nov 2026 10:06:21 GMT",
       "sha256": "3790a2280d7377d85b229938217b8fb9cd1d0441cae0849fe72b0bdcd5a3c639",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 5535
     },
     "https://www.yourmetroparks.net/parks/voice-of-america-metropark": {
       "status": 200,
       "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark",
-      "last_modified": "Sun, 08 Nov 2026 01:11:32 GMT",
+      "last_modified": "Thu, 12 Nov 2026 01:20:37 GMT",
       "sha256": "7cb9c04b41db2f766f2ad4c26e60026fb6ffa25688e3dfe4f7be9ffb1e8a4390",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2673
     },
     "https://cballet.org/cbmoves-for-parkinsons/": {
@@ -1206,7 +1206,7 @@
       "final_url": "https://ensemblecincinnati.org/visit/accessibility/",
       "last_modified": null,
       "sha256": "c584df4d6dc93f77475f53df4707cbf3c187020e08943d2914d3cae29ac35124",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 6935
     },
     "https://freedomcenter.org/visit/parking/": {
@@ -1264,9 +1264,9 @@
     "https://thecarnegie.com/about/architecture/": {
       "status": 200,
       "final_url": "https://thecarnegie.com/about/architecture/",
-      "last_modified": "Tue, 10 Nov 2026 18:36:48 GMT",
+      "last_modified": "Fri, 13 Nov 2026 15:05:10 GMT",
       "sha256": "1152d289c69a3ab0db3338396ba99bde1369a0d179de30ed9916c9414622dd51",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2669
     },
     "https://thechildrenstheatre.com/faq/": {
@@ -3659,13 +3659,96 @@
       "sha256": "58f2d7c0d8eb19a84b2282e6fb0b4b9ff09b8c9f8f47a88d77a551731d7f36c4",
       "fingerprint_version": 6,
       "chars": 3588
+    },
+    "https://ensemblecincinnati.org/learn-and-engage/relaxed/": {
+      "status": 200,
+      "final_url": "https://ensemblecincinnati.org/learn-and-engage/relaxed/",
+      "last_modified": null,
+      "sha256": "d71a3dac424527c578cb88b72148eda363e952734a207de86f0ca096c6bbb387",
+      "fingerprint_version": 6,
+      "chars": 4151
+    },
+    "https://ensemblecincinnati.org/visit/faqs/": {
+      "status": 200,
+      "final_url": "https://ensemblecincinnati.org/visit/faqs/",
+      "last_modified": null,
+      "sha256": "9faaa86c28b8df970d9ac5cafef5966aa979a392b2519b99df4fb03bf5ae78fa",
+      "fingerprint_version": 6,
+      "chars": 11004
+    },
+    "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf": {
+      "status": 200,
+      "final_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf",
+      "last_modified": "Wed, 06 May 2026 19:11:48 GMT",
+      "sha256": "397dc75e17db1bdac4d15c0c5b0000f37e6af8ab23367577fa2ff8d588b839b8",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 4845,
+      "pages": 17
+    },
+    "https://thecarnegie.com/box-office/": {
+      "status": 200,
+      "final_url": "https://thecarnegie.com/box-office/",
+      "last_modified": "Fri, 13 Nov 2026 16:21:34 GMT",
+      "sha256": "958e5a0d81c2fdaab5001413543585ffc0513215bbf22ce37629613e20f90efe",
+      "fingerprint_version": 6,
+      "chars": 2157
+    },
+    "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3": {
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/docs/default-source/default-document-library/grit-chair-specifications-reservation-information.pdf?sfvrsn=31de40ea_3",
+      "last_modified": "Fri, 02 Oct 2026 23:53:24 GMT",
+      "sha256": "9922fc9dba792b1cd513acfeaa0bd90e2e83f2ab1f851e422bd495d6b7210292",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 2519,
+      "pages": 4
+    },
+    "https://www.yourmetroparks.net/news-alerts": {
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/news-alerts",
+      "last_modified": "Thu, 12 Nov 2026 09:31:31 GMT",
+      "sha256": "b74d8cfec1e9e362bf0e241ae3f5b4a2891e40926d66c5a0b7d55bbc36dcf930",
+      "fingerprint_version": 6,
+      "chars": 2221
+    },
+    "https://www.yourmetroparks.net/parks/voice-of-america-metropark/chill-hill-sledding-hill": {
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/chill-hill-sledding-hill",
+      "last_modified": "Thu, 12 Nov 2026 14:11:55 GMT",
+      "sha256": "04070527de3871ed14ee275ab91de8b504423c5ad73999500e22ee17bc3248b4",
+      "fingerprint_version": 6,
+      "chars": 1363
+    },
+    "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake": {
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/parks/voice-of-america-metropark/lake",
+      "last_modified": "Wed, 11 Nov 2026 17:00:21 GMT",
+      "sha256": "1ae77db02a2bafed2cb814b492580008e5aa571367d6f5a338c1f8f1530d6ef9",
+      "fingerprint_version": 6,
+      "chars": 2304
+    },
+    "https://florence-ky.gov/publication-of-bid-solicitations-enacted-ordinances/": {
+      "status": 200,
+      "final_url": "https://florence-ky.gov/publication-of-bid-solicitations-enacted-ordinances/",
+      "last_modified": "Fri, 13 Nov 2026 16:40:26 GMT",
+      "sha256": "c23ea1641811e13c213299d6f1b3790274ee4e12f31ff4dd29fba0f92b2cc634",
+      "fingerprint_version": 6,
+      "chars": 15962
+    },
+    "https://www.yourmetroparks.net/recreation/paddling": {
+      "status": 200,
+      "final_url": "https://www.yourmetroparks.net/recreation/paddling",
+      "last_modified": "Thu, 12 Nov 2026 14:11:56 GMT",
+      "sha256": "ec61cc098015f305206618b49b46cf53e99bd1688e96c814948e7f66f73ad451",
+      "fingerprint_version": 6,
+      "chars": 2667
     }
   },
   "findings": {
     "https://heritagebankcenter.com/venue-info": "supported",
     "https://renfestival.com/faq/": "supported",
     "https://tafttheatre.org/venue-info/faq": "supported",
-    "https://thecarnegie.com/direction-and-parking/": "supported",
     "https://www.americansignmuseum.org/visit": "supported",
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": "unstable",
     "https://www.kentonlibrary.org/locations/5/": "supported",

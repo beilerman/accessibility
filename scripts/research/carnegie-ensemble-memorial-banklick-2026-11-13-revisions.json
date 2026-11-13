@@ -1,0 +1,33 @@
+{
+  "the-carnegie.mobility.4": {
+    "text": "The Carnegie says the lot directly across Scott Boulevard, shared by Dollar Tree and Senior Services of Northern Kentucky, is not available to its patrons. It strongly asks patrons not to park there.",
+    "quote": "Patrons are strongly encouraged NOT to park in the lot directly across Scott Boulevard from the building. Shared by The Dollar Tree and Senior Services of Northern Kentucky, this lot is not available to Carnegie patrons.",
+    "reason": "Made the source’s explicit parking exclusion visible, rather than only its recommendation."
+  },
+  "ensemble-theatre-cincinnati.mobility.2": {
+    "text": "Ensemble guarantees one companion seat immediately beside each wheelchair location in the same row, plus two additional companion seats adjacent or as close as possible. Limited first-come, first-served disability parking is in front of the main entrance at 1127 Vine Street.",
+    "quote": [
+      "We guarantee one companion seat per wheelchair location that is immediately adjacent and in the same row, along with two additional companion seats also adjacent or as close as possible.",
+      "Limited first-come, first-served accessible parking is located in front of the theatre’s main entrance at 1127 Vine Street."
+    ],
+    "reason": "Added the two further companion seats while preserving that their adjacency is not guaranteed."
+  },
+  "ensemble-theatre-cincinnati.sensory.1": {
+    "text": "Free assistive-listening headphones, earbuds and induction neck loops are first-come, first-served at the Box Office and can be reserved when buying tickets. The neck loops are for hearing aids and cochlear implants with a T-switch; Ensemble says devices are disinfected between uses.",
+    "quote": "Headphones, earbuds, and induction neck loops (for patrons who use hearing aids and cochlear implants with a T-switch) are offered free of charge and are first-come, first-served. Devices are available at the Box Office and may also be reserved in advance during ticket purchasing. All devices are disinfected between uses.",
+    "reason": "Retained the equipment compatibility condition and publisher’s cleaning statement."
+  },
+  "ensemble-theatre-cincinnati.chronic.1": {
+    "text": "During performances, Ensemble lists three lockable all-gender restrooms on Levels 2 and 3, describing two as universal and ADA-accessible. This is the venue’s description, not a verified dimension or adult-changing provision.",
+    "quote": "During performances, three restrooms—two of which are universal, ADA-accessible—that lock and provide privacy are available to patrons of any gender identity and expression on Levels 2 and 3.",
+    "reason": "Attributed the ADA terminology and avoided implying measured facilities or adult-changing equipment."
+  },
+  "memorial-hall-otr.mobility.3": {
+    "text": "Washington Park’s garage page locates glass elevator shafts at the northeast corner, northwest corner and across from the Music Hall entrance. Pay stations are in the three elevator lobbies. Current operation and a continuous route to Memorial Hall are not established by that description.",
+    "quote": [
+      "Washington Park's wide open parking decks are illuminated by natural sunlight during the day with three broad stairwells and glass elevator shafts located on the northeast corner, northwest corner, and across from the Music Hall entrance.",
+      "Automated pay stations allow you to pay for parking in any of the three elevator lobbies before returning to your vehicle."
+    ],
+    "reason": "Matched the source’s glass-shaft wording and removed the uncited across-the-street location clause from this operator-source note."
+  }
+}
