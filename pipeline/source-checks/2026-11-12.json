@@ -422,7 +422,7 @@
       "final_url": "https://tqlstadium.com/entrances/allegiant-gate",
       "last_modified": null,
       "sha256": "47d1460b456ce89cc65d9165186e6d7815c2170afed7eb86390406d24a421211",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 230
     },
     "https://tqlstadium.com/entrances/first-financial-gate": {
@@ -430,7 +430,7 @@
       "final_url": "https://tqlstadium.com/entrances/first-financial-gate",
       "last_modified": null,
       "sha256": "022c9c80a7c74eace05869f4b6c32835a472647cada467ba3380829f999fea0e",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 203
     },
     "https://washingtonpark.org/amenities/": {
@@ -750,7 +750,7 @@
       "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
       "last_modified": null,
       "sha256": "a63eba74f884f63296a20c84e9df03b9515ce189dc59efce21543e0ce9537f78",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2397
     },
     "https://www.exploredevoupark.org/trails": {
@@ -766,7 +766,7 @@
       "final_url": "https://www.fccincinnati.com/matchday/accessibility",
       "last_modified": null,
       "sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4356
     },
     "https://www.fccincinnati.com/matchday/parking": {
@@ -774,7 +774,7 @@
       "final_url": "https://www.fccincinnati.com/matchday/parking",
       "last_modified": null,
       "sha256": "cd1a2ff5742af840ccc4eb51e5590c59fc059e36cd885a3a30e06c2e79b39d5d",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2469
     },
     "https://www.fccincinnati.com/matchday/tql-stadium-guide": {
@@ -782,7 +782,7 @@
       "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
       "last_modified": null,
       "sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 44737
     },
     "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation": {
@@ -790,7 +790,7 @@
       "final_url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation",
       "last_modified": null,
       "sha256": "bd1f16ed3f5e4bb1d58ddb522f12049b89a1dde8d9eb6c512d50e940df878cff",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 6537
     },
     "https://www.fittoncenter.org/accessibility": {
@@ -1078,7 +1078,7 @@
       "final_url": "https://www.nkycc.com/about/",
       "last_modified": null,
       "sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 4863
     },
     "https://www.nps.gov/places/big-bone-lick-state-historic-site.htm": {
@@ -1550,7 +1550,7 @@
       "final_url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
       "last_modified": null,
       "sha256": "637c26d53da96bd91e26b755c1acfe2a27cb88e62fd8efdc01b3db13e08cca35",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1938
     },
     "https://www.exploredevoupark.org/natureplay": {
@@ -1698,7 +1698,7 @@
       "final_url": "https://www.nkycc.com/faq/",
       "last_modified": null,
       "sha256": "d5c91b151f84d67863833dd45fad06d98620c06a925b8b5ef8e6e64a3e67cd53",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1391
     },
     "https://www.sixflags.com/kingsisland/frequently-asked-questions": {
@@ -3135,6 +3135,46 @@
       "sha256": "b873d955e9f6b77f2aad80038e216b5471589a4526654408e250bd272f0c0208",
       "fingerprint_version": 6,
       "chars": 2396
+    },
+    "https://ctc.clermontcountyohio.gov/ctc-fares": {
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/ctc-fares",
+      "last_modified": null,
+      "sha256": "7bb92f0a9471be57aa988bd368c2c7d588ab9a4f8014bf38182308d8b384bce9",
+      "fingerprint_version": 6,
+      "chars": 1788
+    },
+    "https://ctc.clermontcountyohio.gov/dial-a-ride-service": {
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+      "last_modified": null,
+      "sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+      "fingerprint_version": 6,
+      "chars": 2114
+    },
+    "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy": {
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy",
+      "last_modified": null,
+      "sha256": "80bbd82c689a9885b6d7fafc87cacbcb694d9a6fa7191db058c4335833f76706",
+      "fingerprint_version": 6,
+      "chars": 1348
+    },
+    "https://www.dinsmorefarm.org/plan-your-visit/events/": {
+      "status": 200,
+      "final_url": "https://www.dinsmorefarm.org/plan-your-visit/events/",
+      "last_modified": null,
+      "sha256": "d756c05745e9764c38aad059dac0f467f2a497273f660d2f0e807d51b7d662b2",
+      "fingerprint_version": 6,
+      "chars": 1612
+    },
+    "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup": {
+      "status": 200,
+      "final_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+      "last_modified": null,
+      "sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
+      "fingerprint_version": 6,
+      "chars": 33873
     }
   },
   "findings": {

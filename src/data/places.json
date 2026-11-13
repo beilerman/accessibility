@@ -6132,7 +6132,7 @@
     "address": "5656 Burlington Pike, Burlington, KY 41005",
     "website": "https://www.dinsmorefarm.org/",
     "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -6140,7 +6140,7 @@
         "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
         "id": "dinsmore-homestead.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6149,6 +6149,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6158,7 +6163,7 @@
         "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
         "id": "dinsmore-homestead.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6167,6 +6172,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6176,7 +6186,7 @@
         "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
         "id": "dinsmore-homestead.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6185,6 +6195,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6194,7 +6209,7 @@
         "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
         "id": "dinsmore-homestead.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6203,6 +6218,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -6212,7 +6232,7 @@
         "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
         "id": "dinsmore-homestead.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -6221,22 +6241,91 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Easily accessible picnic tables are spread across the lawn and under shade trees.",
+        "text": "Dinsmore describes picnic tables across the lawn and under shade trees as easily accessible. Table clearances and the surfaces of each approach are not specified.",
         "source_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
         "id": "dinsmore-homestead.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Attributed the source’s general access description instead of repeating it as an independently established finding."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The admissions page lists house tours Friday–Sunday, 1–5 p.m., starting on the hour with the last tour at 4 p.m. Reserve through the site’s calendar. It lists closures on Easter Sunday and December 15 through April 1; check the calendar for the intended date.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
+        "id": "dinsmore-homestead.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Restored operating-day and Easter qualifications omitted from the earlier summary; retained the separately located reservation instruction."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The admissions page lists office and gift-shop hours of 12:30–4 p.m. Friday–Sunday, ending earlier than its published house-tour visiting hours. Confirm arrival and check-in arrangements when reserving.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
+        "id": "dinsmore-homestead.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The 2026 events page describes regular house tours as lasting approximately 45 minutes to an hour and lists 859-586-6117 for more information. Ask about seating and rest breaks when arranging a visit; these are not described.",
+        "source_url": "https://www.dinsmorefarm.org/plan-your-visit/events/",
+        "id": "dinsmore-homestead.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -6244,24 +6333,24 @@
       },
       {
         "domain": "cognitive",
-        "text": "House tours begin on the hour (last at 4 p.m.) and are reserved through the site's calendar. The site is closed December 15 through April 1.",
+        "text": "The admissions page offers group tours for groups of ten or more, school groups and private tour groups. Confirm the route, first-floor arrangements and timing directly before organizing a group visit.",
         "source_url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
-        "id": "dinsmore-homestead.cognitive.2",
+        "id": "dinsmore-homestead.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The upstairs of the house is not wheelchair accessible; contact the site before visiting, as it requests, to arrange accommodations and confirm the condition of the gravel path and rear ramp.",
+    "limitations": "Public website information; no on-site audit. The upstairs of the house is not wheelchair accessible; contact the site before visiting, as it requests, to arrange accommodations and confirm the condition of the gravel path and rear ramp. Current toilet and changing facilities, entrance thresholds, ramp dimensions and continuous parking-to-door routes remain unverified; the proposed Heritage Center is not evidence of current facilities.",
     "slug": "dinsmore-homestead",
     "evidence_type": "public_website",
     "observed_at": null
@@ -8757,16 +8846,16 @@
     "category": "Museums & attractions",
     "website": "https://www.nkycc.com/",
     "source_url": "https://www.nkycc.com/about/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "evidence_type": "public_website",
     "facts": [
       {
         "domain": "mobility",
-        "text": "The Madison Avenue entrance has a sidewalk ramp and push-button doors. A passenger elevator connects the two main levels.",
+        "text": "The Madison Avenue entrance has a sidewalk ramp and push-button doors. The passenger elevator to the right of the escalators connects the two main levels.",
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8780,6 +8869,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Retained both entrance and elevator passages and added the published elevator location."
           }
         ]
       },
@@ -8789,7 +8883,7 @@
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8803,6 +8897,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8812,7 +8911,7 @@
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8826,6 +8925,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -8835,7 +8939,7 @@
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8844,16 +8948,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added during the November 2026 source recheck; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "An elevator serves the third-floor Conference Level, and a walkway connects the Cincinnati Marriott at RiverCenter directly to it. All concession stands are wheelchair accessible.",
+        "text": "The venue describes an elevator from the Main Lobby to the third-floor Conference Level and says its concession stands can be reached by wheelchair.",
         "source_url": "https://www.nkycc.com/about/",
         "id": "northern-kentucky-convention-center.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8862,6 +8971,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "The former walkway-to-Conference-Level clause was supported by the FAQ, not this cited page. Moved that clause to a separately cited note and attributed the concession description."
           }
         ]
       },
@@ -8871,7 +8985,7 @@
         "source_url": "https://www.nkycc.com/faq/",
         "id": "northern-kentucky-convention-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -8880,11 +8994,160 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ says a walkway connects the Cincinnati Marriott at RiverCenter directly to the Conference Level. It does not describe the complete hotel-to-event route or door controls.",
+        "source_url": "https://www.nkycc.com/faq/",
+        "id": "northern-kentucky-convention-center.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue warns of ongoing construction around the center. For oversized-vehicle parking, call ABM at 513-929-9200 to find out whether arrangements can be made; a space is not guaranteed.",
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue lists Kenton County Parking Garage at 220 Madison Avenue with 44 accessible spaces. It lists 500 spaces available to the public during weekday business hours out of 1,500 total; it does not say how many of those public spaces are accessible or describe the route to the center.",
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue lists RiverCenter Garage at 50 E. RiverCenter Boulevard with 40 accessible spaces. It lists 150 spaces available to the public during weekday business hours out of 850 total; accessible-space availability and the route to the center need confirmation.",
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.9",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue lists Marriott Garage at 10 W. RiverCenter Boulevard with four accessible spaces and 50 spaces available to the public out of 365 total. The listing does not identify which public spaces are accessible or establish a continuous route to the center.",
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.mobility.10",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Adjustable, flexible microphones are available for meeting rooms, the ballroom, Learning Center and Event Center. Ask the event organizer about the setup; this statement does not establish assistive-listening or captioning services.",
+        "source_url": "https://www.nkycc.com/about/",
+        "id": "northern-kentucky-convention-center.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The FAQ permits hazers and fog machines when coordinated through the event planner. Whether an individual event uses them needs confirmation with its organizer.",
+        "source_url": "https://www.nkycc.com/faq/",
+        "id": "northern-kentucky-convention-center.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The center is locked after each day’s contracted event hours; it does not offer round-the-clock visitor access. Confirm the event’s entry and exit arrangements.",
+        "source_url": "https://www.nkycc.com/faq/",
+        "id": "northern-kentucky-convention-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public venue website reporting; no on-site audit. Event layouts and equipment availability should be confirmed with the organizer.",
+    "limitations": "Public venue website reporting; no on-site audit. Event layouts and equipment availability should be confirmed with the organizer. Confirm current construction detours, the complete parking-to-ramp route, door operation and event-specific seating. Toilet dimensions and adult-changing equipment remain unverified.",
     "slug": "northern-kentucky-convention-center",
     "observed_at": null
   },
@@ -10593,7 +10856,7 @@
     "address": "1501 Central Parkway, Cincinnati, OH 45214",
     "website": "https://www.tqlstadium.com/",
     "source_url": "https://www.fccincinnati.com/matchday/accessibility",
-    "checked_at": "2026-11-08",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -10601,7 +10864,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/accessibility",
         "id": "tql-stadium.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10610,6 +10873,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10619,7 +10887,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/accessibility",
         "id": "tql-stadium.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10628,6 +10896,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10637,7 +10910,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/accessibility",
         "id": "tql-stadium.sensory.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10646,16 +10919,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "Complimentary assistive listening devices are available at the Guest Experience Center, and closed captioning appears on the southeast-corner auxiliary videoboard and in the FCC App.",
+        "text": "Complimentary assistive listening devices can be checked out at the Guest Experience Center behind E6 with a credit card or photo ID. Closed captioning is on the southeast-corner auxiliary videoboard and the Stadium page of the FCC App.",
         "source_url": "https://www.fccincinnati.com/matchday/accessibility",
         "id": "tql-stadium.sensory.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10664,6 +10942,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Restored the credit-card or photo-ID checkout condition and retained support for both the listening devices and caption locations."
           }
         ]
       },
@@ -10673,7 +10956,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/accessibility",
         "id": "tql-stadium.chronic.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10682,6 +10965,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10691,7 +10979,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/accessibility",
         "id": "tql-stadium.mobility.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10700,16 +10988,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Allegiant Gate is on the south side of the stadium off Central Avenue. Confirm your gate before traveling; Central Avenue and Central Parkway are different streets.",
+        "text": "Allegiant Gate is on the south side of the stadium off Central Avenue. Confirm your gate before traveling.",
         "source_url": "https://tqlstadium.com/entrances/allegiant-gate",
         "id": "tql-stadium.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10718,6 +11011,16 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Kept the gate location to the statement supported by its cited page; removed an uncited comparison with Central Parkway."
           }
         ]
       },
@@ -10727,7 +11030,7 @@
         "source_url": "https://tqlstadium.com/entrances/first-financial-gate",
         "id": "tql-stadium.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10736,6 +11039,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10745,7 +11053,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
         "id": "tql-stadium.mobility.4",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10754,6 +11062,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10763,7 +11076,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/parking",
         "id": "tql-stadium.mobility.5",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10772,6 +11085,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10781,7 +11099,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/parking",
         "id": "tql-stadium.cognitive.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10790,6 +11108,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Summarized from current official guidance and checked against the linked source; not a field observation."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10799,7 +11122,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
         "id": "tql-stadium.mobility.6",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10808,6 +11131,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10817,7 +11145,7 @@
         "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
         "id": "tql-stadium.cognitive.4",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10826,6 +11154,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10835,7 +11168,7 @@
         "source_url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation",
         "id": "tql-stadium.sensory.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": "2026-11-05",
         "observed_at": null,
         "review_status": "source_checked",
@@ -10844,6 +11177,173 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the official matchday guide; publication date verified in page metadata. Event-specific guidance, not a field observation."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The stadium guide lists four family restrooms on the concourse, intended for fans with small children or disabilities, at sections 106, 133 and E6/220. The guide calls them ADA-accessible but does not give their dimensions or adult-changing equipment.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.mobility.7",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Baby-changing tables are listed in all public restrooms, including family restrooms, and in the Pampers Nursing Room behind E6/220. These are baby-changing facilities; adult-changing provision is not established by this statement.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.chronic.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The stadium’s clear-bag policy allows exceptions for medically necessary bags or items only after inspection and Stadium Management approval. Arrange any questions about medical supplies before arrival.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.chronic.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The stadium guide permits one factory-sealed 20-ounce water bottle and lists fountains for refilling. At events designated all-pour, the bottle must be opened and its contents poured into a cup after entry. Check the rules for the specific event.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.chronic.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "A nursing room is inside the Guest Experience Center behind E6/220. The guide also lists nursing pods near sections 133 and 103 and outside the Guest Experience Center, plus a pod described as ADA-accessible in the First Financial Club. Confirm admission to the relevant club area and current availability.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.chronic.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The First Aid station is on the concourse behind section 133 and is staffed with certified emergency medical personnel during events. For immediate help, the guide directs guests to the nearest Guest Experience or Security team member.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.chronic.6",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The stadium publishes a no-re-entry policy during events. Plan any need to return to a vehicle or leave for a break before entering.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.cognitive.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "On matchdays, ADA seating-relocation requests go to the Guest Experience Center at E6/220 and depend on availability. A request does not guarantee a different seat.",
+        "source_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+        "id": "tql-stadium.mobility.8",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The accessibility guide permits canes, walkers and manual or electric wheelchairs in all stadium areas. It prohibits Segways, tri-bikes and golf carts because of concourse space and safety restrictions.",
+        "source_url": "https://www.fccincinnati.com/matchday/accessibility",
+        "id": "tql-stadium.mobility.9",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -21760,7 +22260,7 @@
     "address": "160 Pavilion Pkwy, Newport, KY 41071-2884",
     "website": "https://www.target.com/sl/newport/2483",
     "source_url": "https://www.target.com/sl/newport/2483",
-    "limitations": "Public website information; no on-site audit. Drive Up is confirmed on the local store page; Aira and collection steps are chain policies rather than observations at this branch. Parking-to-door routes, entrance thresholds and door controls, mobility-cart availability and collection, toilet features and quiet spaces remain unverified. The chain page describes self-checkout accessibility as a coming rollout; Newport installation is not established.",
+    "limitations": "Public website information; no on-site audit. Drive Up is confirmed on the local store page; Aira and collection steps are chain policies rather than observations at this branch. Parking-to-door routes, entrance thresholds and door controls, mobility-cart availability and collection, toilet features and quiet spaces remain unverified. The chain page describes self-checkout accessibility as a coming rollout; Newport installation is not established. The pickup help page contains differing app-only/Target.com wording and return-location wording. Confirm the checkout option and return eligibility shown for your order; Newport pickup-kiosk installation is unverified.",
     "checked_at": "2026-11-12",
     "slug": "target-newport",
     "evidence_type": "public_website",
@@ -21898,6 +22398,114 @@
         "source_url": "https://aira.io/target/",
         "id": "target-newport.cognitive.4",
         "source_type": "partner_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Target’s chain instructions say to scan an Order Pickup barcode at the pickup kiosk, or show it at Guest Services if a kiosk is unavailable. The barcode is in the app or Order Details. This does not confirm a kiosk or its access features at Newport.",
+        "source_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+        "id": "target-newport.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For in-store Order Pickup without a barcode, Target’s chain instructions allow a valid, unexpired government-issued photo ID at Guest Services. Adult-beverage pickup separately requires the person collecting it to be 21 or older and present valid identification.",
+        "source_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+        "id": "target-newport.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "When someone else collects an order, Target’s help page distinguishes the services: Drive Up uses an invited shopping partner saved to your Target account; in-store Order Pickup also allows an alternate pickup person added at checkout. Arrange the appropriate person before collection.",
+        "source_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+        "id": "target-newport.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Target generally holds pickup orders for three days. Orders containing fresh or frozen groceries are held only until the close of the next business day and cannot be extended. Other orders can be extended three more days through Order Details before the original window ends; uncollected orders are canceled and refunded.",
+        "source_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+        "id": "target-newport.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For an eligible return, Target’s help page says Drive Up may appear when starting a return in Order Details. Eligibility varies by item and location; problems may require going inside to Guest Services. Confirm the offered return method before relying on a car-side return at Newport.",
+        "source_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+        "id": "target-newport.cognitive.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Target’s chain instructions tell Drive Up customers to look for designated parking signs close to the front of the store. This is not a Newport parking-space map or confirmation of a parking-to-door route.",
+        "source_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+        "id": "target-newport.mobility.2",
+        "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
@@ -27471,6 +28079,184 @@
         "text": "For transportation enquiries, the contact page lists Transportation@proudworks.org. Its general contact number is 859-371-4410 and contact hours are Monday–Friday, 8 a.m.–4 p.m.; these are not published ride-service hours.",
         "source_url": "https://www.proudworks.org/contact/",
         "id": "proudworks-transportation.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Clermont Transportation Connection — Dial-A-Ride",
+    "city": "Batavia",
+    "state": "OH",
+    "category": "Transportation",
+    "address": "4003 Filager Road, Batavia, OH 45103 (CTC mailing address; not a confirmed boarding point)",
+    "website": "https://ctc.clermontcountyohio.gov/",
+    "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+    "limitations": "Public operator website information; no on-site audit or ride assessment. The address is CTC’s published mailing address, not a confirmed boarding point. This listing covers general-public Dial-A-Ride, not separate ADA paratransit eligibility or Medicaid transport. The operator’s current page explicitly excludes Saturday service; a county court referral page still includes Saturday, so confirm your date with dispatch. Vehicle/lift dimensions, equipment fit, transfer or stair assistance, companion fares, toilets and changing facilities remain unverified. No inspected reusable boarding photograph is available. The cancellation webpage counts a call less than two hours before pickup as a no-show, while the linked brochure marked Revised 1-2023 counts the third such late cancellation within 30 days as a no-show. Confirm current enforcement with dispatch; the brochure also uses different child age/fare categories.",
+    "checked_at": "2026-11-12",
+    "slug": "clermont-transportation-connection-dial-a-ride",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "CTC describes Dial-A-Ride as door-to-door public transit open to any person in Clermont County and says all its buses are wheelchair accessible. Vehicle lift dimensions, weight limits and device fit are not stated on this page; discuss your equipment with dispatch.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+        "id": "clermont-transportation-connection-dial-a-ride.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Reserve through dispatch at 513-732-7433, option 2, up to 14 days in advance. Trips are first come, first served; the scheduling office is open Monday–Friday, 5:30 a.m.–6:30 p.m. Booking does not guarantee a requested time.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+        "id": "clermont-transportation-connection-dial-a-ride.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Dial-A-Ride operates Monday–Friday, 6 a.m.–6 p.m., with no Saturday service. The operator lists closures on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day; severe weather may also close service.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+        "id": "clermont-transportation-connection-dial-a-ride.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Pickup and destinations are within Clermont County. For travel outside the county, CTC can drop a passenger at a Metro bus stop inside Clermont County; Dial-A-Ride itself will not leave the county. Confirm the connecting service and transfer arrangements separately.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+        "id": "clermont-transportation-connection-dial-a-ride.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Drivers may help passengers on and off the bus and help secure a wheelchair, but will not enter a home or business. This does not establish lifting, stair or personal-care assistance; agree the pickup location and assistance needed with dispatch.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+        "id": "clermont-transportation-connection-dial-a-ride.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The bus may arrive up to 15 minutes before or after the scheduled pickup or drop-off time and waits five minutes at the pickup location. Allow for this window when planning appointments and outdoor waiting.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+        "id": "clermont-transportation-connection-dial-a-ride.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Passengers may bring a service animal and up to four shopping bags; each additional bag costs $1. The page does not describe driver bag-carrying assistance.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+        "id": "clermont-transportation-connection-dial-a-ride.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The fare page lists one-way Dial-A-Ride fares of $4.75 for adults and $2.35 for people with disabilities or seniors. The disability/senior fare requires a CTC discount-fare application; exact change is required. Confirm eligibility and payment arrangements before travel.",
+        "source_url": "https://ctc.clermontcountyohio.gov/ctc-fares",
+        "id": "clermont-transportation-connection-dial-a-ride.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cancel at least two hours before a booked ride to avoid a no-show. CTC says to call about an extreme situation so it can review the case individually; this Dial-A-Ride policy explicitly does not apply to its separate ADA paratransit service.",
+        "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy",
+        "id": "clermont-transportation-connection-dial-a-ride.cognitive.4",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,

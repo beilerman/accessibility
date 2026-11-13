@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after four accuracy reviews, everyday services and access imagery.
+Updated November 12, 2026, after NKY/TQL backfill, Clermont transport and deep access-photo research.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,8 +9,8 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now 362 notes after the latest four
-full reviews (39 old notes newly backfilled). Start with transit
+remaining legacy missing-passage backlog is now 335 notes after three further
+full reviews (27 old notes newly backfilled; six wording corrections). Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -18,8 +18,8 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 142 places. Its categories contain 32 arts venues,
-31 parks/recreation complexes, 21 museums/attractions, 15 libraries, six transport
+The prepared catalog has 143 places. Its categories contain 32 arts venues,
+31 parks/recreation complexes, 21 museums/attractions, 15 libraries, seven transport
 entries, fifteen food/drink venues, ten shopping destinations, five public-service
 listings and seven recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
@@ -48,7 +48,47 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest prepared batch — November 12 accuracy, everyday services and imagery
+## Latest prepared batch — November 12 NKY arrival, stadium and Clermont transport
+
+See [research report](nky-arrival-stadium-2026-11-12.md), including evidence,
+media and validation receipts. **Backfill:** Dinsmore 7, NKYCC 6, TQL 14 — three
+full reviews, 27 old notes with missing passages repaired, six revisions.
+Backlog **362 → 335**. **Growth:** 35 added records (34 new-information records,
+one existing walkway claim moved to its correct FAQ); includes a new Clermont
+Dial-A-Ride listing with nine notes. Target Newport received six new depth notes,
+not another full review. TANK received a guide only.
+
+**Photos:** three full-frame licensed additions — NKYCC entrance steps/glass doors,
+TQL First Financial stair approach/crossing, Dinsmore outbuilding doorway/rough
+surfaces. Selected originals and outputs inspected. **Guide:** TANK Plus June
+2025 FAQ, five pages/0.4 MB, open vehicle door/steps; historical map and conflicting
+wheelchair-capacity wording retained. 32 candidate views and 42 PDF pages inspected.
+The Dinsmore Commons category/photographer source and TQL/Tousey views were followed
+beyond decorative exteriors. No fabricated routes, AI evidence or unlicensed reuse.
+
+**Totals:** 143 places, 1,287 active notes, 952 quoted active, 335 missing passages,
+47 licensed photos, 22 guide entries/18 documents. 63 note/address checks and 15
+fact-source baselines pass. 89 unit/70 pipeline, types, lint and build pass;
+HTTP and preservation receipt records exact coverage. Browser launch denied before
+navigation; 129 listed tests are not a local browser pass. Runner validation required.
+
+**Next concrete batch:** full missing-passage review of Molly Malone’s Covington
+(four of four notes unquoted) and Devou Park (eight of eight). Add Tousey House
+arrival/toilet depth and Proudworks booking/eligibility/assistance; their existing
+quotes do not fill the missing facility/procedure details. BCRTA remains a depth lead. Find current
+Dinsmore rear-ramp landing/door and office alternative entrance; NKYCC Madison
+ramp/buttons/elevator; TQL elevator access, wheelchair/companion bays and family
+toilets; Target Newport actual entrance, cart collection and pickup spaces.
+Keep grocery/food/public-service coverage growing when direct evidence supports it.
+
+**New holds:** CTC Saturday referral versus operator hours, late-cancellation
+sequence and child definitions differing between current HTML and linked 2023
+brochure; Target app/website and return-location wording; Dinsmore proposed toilets;
+NKYCC unextractable 2024 planner text; TQL Sightline fresh 404; CVG interactive
+browser unavailable. Daltile's 2022 club-counter brochure inspected and held as
+insufficient access guidance. All earlier manual holds remain unresolved.
+
+## Earlier completed batch — November 12 accuracy, everyday services and imagery
 
 See [report and next actions](accuracy-everyday-2026-11-12.md), plus its validation
 and media receipts and the transit/Freedom/Vent, Museum Center, Liberty Street and

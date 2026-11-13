@@ -11,6 +11,18 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Clermont Dial-A-Ride without merging ADA eligibility or promising personal assistance", () => {
+    const slug = "clermont-transportation-connection-dial-a-ride";
+    expect(findPlaces({ category: "Transportation", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toContain("4003 Filager Road, Batavia, OH 45103");
+    expect(text(slug)).toContain("open to any person in Clermont County");
+    expect(text(slug)).toContain("will not enter a home or business");
+    expect(text(slug)).toContain("no Saturday service");
+    expect(text(slug)).toContain("first come, first served");
+    expect(place(slug).limitations).toContain("not a confirmed boarding point");
+    expect(place(slug).limitations).toContain("not separate ADA paratransit eligibility");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Northern Kentucky transport while retaining program approval and unknown boarding arrangements", () => {
     const slug = "proudworks-transportation";
     expect(findPlaces({ category: "Transportation", region: "KY" }).map((p) => p.slug)).toContain(slug);

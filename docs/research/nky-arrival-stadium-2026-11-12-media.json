@@ -1,0 +1,102 @@
+{
+  "checked_at": "2026-11-12",
+  "visually_inspected_distinct_candidate_photos": 32,
+  "inspection_scope": "20 Dinsmore views, 3 Tousey House views, 1 convention-center view, 8 TQL views. Selected full-resolution originals and final full-frame WebP outputs inspected. Other candidates were inspected as downloaded full-frame previews or originals; no blanket original-resolution claim.",
+  "pdf_pages_inspected": 42,
+  "photos": [
+    {
+      "id": "nky-convention-center-entrance-steps-2026",
+      "slug": "northern-kentucky-convention-center",
+      "title": "Entrance steps and glass doors",
+      "alt": "Curved concrete steps with metal handrails lead to glass double doors beneath the Northern Kentucky Convention Center sign and overhang.",
+      "caption": "An April 2026 photograph shows this stepped entrance approach and the doors above it. Full frame retained; resized and converted to WebP.",
+      "author": "Waffleiron692",
+      "photoDate": "2026-04-08",
+      "limitations": "The separately published Madison Avenue sidewalk ramp and push-button entrance are not shown. This view does not establish a complete step-free route, doorway measurements, door operation or current conditions.",
+      "relatedFactIds": [
+        "northern-kentucky-convention-center.mobility.1"
+      ],
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northern_Kentucky_Convention_Center.jpg",
+      "src": "/images/access/nky-convention-center-entrance-steps-2026.webp",
+      "width": 1280,
+      "height": 960,
+      "checkedAt": "2026-11-12",
+      "original_sha256": "781e14d049f41dde8c65f45e1e70bca0bcbba9dec57e2834d9ec618fad57fc65",
+      "asset_sha256": "3be2d84ae9149857ade8f6af0e03ddc9a216e903e60dd00a27e4ec381eace1dc",
+      "transform": "Faithful full-frame resize to 1280 pixels wide and WebP conversion; no crop, retouching, compositing or AI."
+    },
+    {
+      "id": "tql-first-financial-gate-stairs-2023",
+      "slug": "tql-stadium",
+      "title": "First Financial Gate stair approach",
+      "alt": "Across Central Parkway, broad concrete stairs with metal handrails rise to TQL Stadium’s First Financial Gate; a marked street crossing is visible at the right.",
+      "caption": "A March 2023 view from 15th Street and Central Parkway shows the stairs below the First Financial Gate sign. Full frame retained; resized and converted to WebP.",
+      "author": "Hayden Schiff",
+      "photoDate": "2023-03-06",
+      "limitations": "The photograph does not identify an elevator or a complete step-free alternative to these stairs. Confirm the crossing-to-entrance route, signal timing, elevator location and operation, matchday barriers and current street conditions.",
+      "relatedFactIds": [
+        "tql-stadium.cognitive.2",
+        "tql-stadium.mobility.4"
+      ],
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TQL_Stadium_(PXL_20230306_154651694).jpg",
+      "src": "/images/access/tql-first-financial-gate-stairs-2023.webp",
+      "width": 1280,
+      "height": 848,
+      "checkedAt": "2026-11-12",
+      "original_sha256": "524798c5c8e846620cb5ef7405772645cea1700eded89321662fe57e1b84e76e",
+      "asset_sha256": "fc59d63abe9f6083de18043d7b6d72718fb1c1c84879c7374257a9aea223081a",
+      "transform": "Faithful full-frame resize to 1280 pixels wide and WebP conversion; no crop, retouching, compositing or AI."
+    },
+    {
+      "id": "dinsmore-outbuilding-doorway-ground-2023",
+      "slug": "dinsmore-homestead",
+      "title": "Outbuilding doorway and rough ground",
+      "alt": "A log outbuilding has a closed door above a stone base, a sloping wooden panel beside it, and gravel, grass, stones and exposed roots in the foreground.",
+      "caption": "A March 4, 2023 view shows the raised doorway and rough ground beside one of Dinsmore’s outbuildings. Full frame retained; resized and converted to WebP.",
+      "author": "w_lemay",
+      "photoDate": "2023-03-04",
+      "limitations": "Visitor entry to this outbuilding, alternative approaches, step heights and current conditions are unverified. The sloping wooden panel is not identified as an access ramp. This image does not show the main house’s published rear ramp.",
+      "relatedFactIds": [
+        "dinsmore-homestead.mobility.2"
+      ],
+      "src": "/images/access/dinsmore-outbuilding-doorway-ground-2023.webp",
+      "width": 1280,
+      "height": 1707,
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outbuilding,_Dinsmore_Homestead,_Belleview,_KY_-_52726717755.jpg",
+      "checkedAt": "2026-11-12",
+      "original_sha256": "ff23e1df076c1258a0e16d3c591f1abc1427d6db4e2022bc8997e2ecfce2094b",
+      "asset_sha256": "6c29bd6c2dcd780bd9af439a0092bba41ee1632fcbb8b4bae42d5474031b738e",
+      "transform": "Faithful full-frame resize to 1280 pixels wide and WebP conversion; no crop, retouching, compositing or AI."
+    }
+  ],
+  "guide": {
+    "id": "tank-plus-vehicle-door-2025",
+    "slug": "tank-transit-authority-of-northern-kentucky",
+    "title": "TANK Plus vehicle doorway in the 2025 FAQ",
+    "description": "Page 3 shows a branded TANK Plus bus with its front door open, entrance steps and a handrail. The lift or ramp is not deployed and wheelchair securement is not shown. This five-page FAQ is a June 2025 revision by filename, with May 2025 PDF metadata; photo date is unknown. Its map predates the November 2026 service expansion. Page 4 describes capacity for two or three wheelchairs, while the current microtransit webpage says three; confirm the assigned vehicle and current arrangements. This is not a step-by-step boarding guide.",
+    "publisher": "Transit Authority of Northern Kentucky",
+    "url": "https://www.tankbus.org/wp-content/uploads/2025/06/TANK-FAQ-Revised-June-2025.pdf",
+    "sourceUrl": "https://www.tankbus.org/microtransit/",
+    "documentDate": "June 2025 revision (filename); May 2025 PDF metadata",
+    "pageCount": 5,
+    "sizeLabel": "0.4 MB",
+    "checkedAt": "2026-11-12",
+    "download_bytes": 380693,
+    "sha256": "2a2bce37a4aae2923489bbf25cf58edcb3a18ca227f306e5a1dc592aea95a8b5",
+    "fresh_fetch_status": 200,
+    "pages_visually_inspected": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "photo_reuse": "Original document linked; images not copied into the access-photo collection."
+  }
+}

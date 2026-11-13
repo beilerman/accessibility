@@ -1946,6 +1946,98 @@
   "quote": "Vine Lot (Lot A) located at 3427 Vine Street – 20 dedicated handicap/accessible parking spots Visitors with handicap/accessible placards will always be allowed to park in Vine Lot, even if the lot is full for other incoming traffic. Please have your placard visible to attendants when entering Vine Lot.",
   "verified_at": "2026-11-10"
  },
+ "clermont-transportation-connection-dial-a-ride.chronic.1": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+  "quote": "The bus may arrive 15min before or after the scheduled pick up or drop off time.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The bus will wait 5 min at the pickup location."
+  ],
+  "claim_sha256": "30ba38c865084b411b5851fe08237134e184232551335ff3c12358381a19effd",
+  "source_sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service"
+ },
+ "clermont-transportation-connection-dial-a-ride.cognitive.1": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+  "quote": "To schedule a ride, you can call UP TO 14 DAYS IN ADVANCE , trips are scheduled on a first come first serve basis. The scheduling office is open from 5:30 am to 6:30 pm Monday thru Friday.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Dispatch Phone Number 513-732-7433 – Press Option 2 to speak to Dispatcher"
+  ],
+  "claim_sha256": "63fd368f4c3f1518131748be4c17bd8be8c4f49ab6bd0139c0b880f3e9d25af6",
+  "source_sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service"
+ },
+ "clermont-transportation-connection-dial-a-ride.cognitive.2": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+  "quote": "Dial-A-Ride service is available Monday thru Friday 6:00 AM to 6:00 PM (NOT SATURDAYS)",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "CTC will be CLOSED on the below days New Year’s Day Memorial Day Independence Day Labor Day Thanksgiving Day Christmas Day",
+   "In the event of severe weather, CTC may close it’s Dial-A-Ride service for safety if this happens information is submitted to all major broadcasting networks."
+  ],
+  "claim_sha256": "2ad347ed0d50ba7aee90498285e6d499121be982b5fab0ba52658435fbcf651d",
+  "source_sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service"
+ },
+ "clermont-transportation-connection-dial-a-ride.cognitive.3": {
+  "url": "https://ctc.clermontcountyohio.gov/ctc-fares",
+  "quote": "Dial-A-Ride Fares All fares are for a one way trip Adult $4.75 Student ( 13+ with a student ID) $3.75 Persons with Disabilities* $2.35 Seniors* $2.35 Children (12 and under) $2.35",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "To receive this fare you must fill out a discount fare application with CTC (PDF) Exact change is required"
+  ],
+  "claim_sha256": "a71166f38266e97264a0293a2d5a15e16ca1ad0ce0820c0b066a53d51b9bcb71",
+  "source_sha256": "7bb92f0a9471be57aa988bd368c2c7d588ab9a4f8014bf38182308d8b384bce9",
+  "final_url": "https://ctc.clermontcountyohio.gov/ctc-fares"
+ },
+ "clermont-transportation-connection-dial-a-ride.cognitive.4": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy",
+  "quote": "If a passenger needs to call and cancel a ride, they must call CTC at least 2 hours in advance. If a passenger fails to call 2 hours in advance, they will receive a “ No Show .”",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "If a passenger does not cancel 2 hours in advance because of an “extreme situation,” they must call CTC. Cases will be handled in a case-by-case basis.",
+   "This policy is not applicable to Complimentary ADA Paratransit."
+  ],
+  "claim_sha256": "39201d7d8e96aa21476a71a2569a329f4a3d666e2f03f3fff2cf4f4bad4a7200",
+  "source_sha256": "80bbd82c689a9885b6d7fafc87cacbcb694d9a6fa7191db058c4335833f76706",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy"
+ },
+ "clermont-transportation-connection-dial-a-ride.mobility.1": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+  "quote": "Dial-A-Ride is a door to door public transit service. Passengers must call the Dispatch office and schedule a ride on a CTC bus. The service is open to any person in Clermont County. All buses are wheelchair accessible.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "1c2d0958d00a5c3ebf4c3c76a66ce7d0c62d7185561034d622e430991271c47c",
+  "source_sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service"
+ },
+ "clermont-transportation-connection-dial-a-ride.mobility.2": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+  "quote": "Passengers can be picked up anywhere in Clermont County and taken to any destination in Clermont County. If a passenger wishes to go outside Clermont County, CTC can drop them off at a METRO bus stop in Clermont County, but CTC will not leave the county.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "643ce6a7fa69ee364a041b2cc2c580f37e09b9bdd50a544a302f53ded92aae7d",
+  "source_sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service"
+ },
+ "clermont-transportation-connection-dial-a-ride.mobility.3": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+  "quote": "The driver may help passengers on and off the bus and may help them secure their wheelchair, but under no circumstances will a driver enter a passenger’s home or business.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "90dc6f4e49ac8ee376735c422e38d6efbe54a8f99fddc60ac5d1709759f899e6",
+  "source_sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service"
+ },
+ "clermont-transportation-connection-dial-a-ride.mobility.4": {
+  "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+  "quote": "Passengers who have a service animal may bring it on the bus.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Passengers may bring up to 4 shopping bags on the bus, additional bags are $1.00 each."
+  ],
+  "claim_sha256": "cde6a6b32479056dfce37b86195d4096ea5c4d3c3537ee3198d3835bdae2801d",
+  "source_sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+  "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service"
+ },
  "contemporary-arts-center.chronic.1": {
   "url": "https://www.contemporaryartscenter.org/visit/hours-admission",
   "quote": "Diaper bags and bags containing medical equipment are permitted in the galleries, but we ask visitors be mindful of their surroundings while exploring the galleries.",
@@ -2042,6 +2134,98 @@
   "claim_sha256": "e8583f1d00cd8047df6ef7ac6560aa58c7f67a98a222259be85dbed5f5b89066",
   "source_sha256": "2e1eacde0bafbb9539a0ea6688e737445bb0664f0edd1d8fc5f444ead8961ea7",
   "final_url": "https://www.contemporaryartscenter.org/visit/accessibility"
+ },
+ "dinsmore-homestead.chronic.1": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+  "quote": "There are easily accessible picnic tables located all over the lawn and under the shade trees.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "5e2bf4e397eab4e84a3785dffe50025f36952f70082eb8150bfd7bfddd3b7fa0",
+  "source_sha256": "a63eba74f884f63296a20c84e9df03b9515ce189dc59efce21543e0ce9537f78",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/"
+ },
+ "dinsmore-homestead.chronic.2": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/events/",
+  "quote": "Calendar of Events for 2026",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Please visit us for our regular house tours, Fridays, Saturdays, and Sundays, from 1:00 to 5:00. Tours last approximately 45 minutes to 1 hour. The cost is $10/adults & $3 children 5 and above. Please call (859)586-6117 for more information."
+  ],
+  "claim_sha256": "a7c60efa1d0a837e8755f4e4841a1cdb4b6ff272b4c1e2adccbc93f15a76a61a",
+  "source_sha256": "d756c05745e9764c38aad059dac0f467f2a497273f660d2f0e807d51b7d662b2",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/events/"
+ },
+ "dinsmore-homestead.cognitive.1": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+  "quote": "So that we can make your visit as enjoyable as possible, please contact us in advance of your visit and we will make all efforts to accommodate your limitations and share as much of the Dinsmore family experience as possible through mobile exhibits and additional artifacts.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f4d6cd2748fa41642ae071c754ac23699203a00dbe9d8e945ba5f09367bb2194",
+  "source_sha256": "a63eba74f884f63296a20c84e9df03b9515ce189dc59efce21543e0ce9537f78",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/"
+ },
+ "dinsmore-homestead.cognitive.2": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
+  "quote": "Tours begin on the hour, last tour at 4:00pm*: Friday 1:00pm – 5:00pm Saturday 1:00pm – 5:00pm Sunday 1:00pm – 5:00pm *Closed Easter Sunday *Closed from December 15th through April 1st.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Please visit Calendar to make a reservation."
+  ],
+  "claim_sha256": "3148a9f4d9ba635d2a51cc1fc943824576164f488d0e5731150cd633316ea8f0",
+  "source_sha256": "637c26d53da96bd91e26b755c1acfe2a27cb88e62fd8efdc01b3db13e08cca35",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/"
+ },
+ "dinsmore-homestead.cognitive.3": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
+  "quote": "Office and gift shop hours: Friday 12:30pm – 4:00pm Saturday 12:30pm – 4:00pm Sunday 12:30pm – 4:00pm",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Tours begin on the hour, last tour at 4:00pm*: Friday 1:00pm – 5:00pm Saturday 1:00pm – 5:00pm Sunday 1:00pm – 5:00pm"
+  ],
+  "claim_sha256": "0c4b4c584ecb8c0a3191214e723d3b935930834c0ca0cbf2432760af49ac6c60",
+  "source_sha256": "637c26d53da96bd91e26b755c1acfe2a27cb88e62fd8efdc01b3db13e08cca35",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/"
+ },
+ "dinsmore-homestead.cognitive.4": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
+  "quote": "Group tours available for 10 or more people , school groups , or private tour groups .",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "dba709fb81cae6828345874c1d35fae418036e4b1a2335f60a606b7883af2009",
+  "source_sha256": "637c26d53da96bd91e26b755c1acfe2a27cb88e62fd8efdc01b3db13e08cca35",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/"
+ },
+ "dinsmore-homestead.mobility.1": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+  "quote": "For visitors who rely on wheelchairs and walkers, designated, accessible parking is available next to the office and gift shop.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "a422e4fff0331dac524c9a2c5a5d8426ed4fc0066164df3c8c3ca816da8da4f3",
+  "source_sha256": "a63eba74f884f63296a20c84e9df03b9515ce189dc59efce21543e0ce9537f78",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/"
+ },
+ "dinsmore-homestead.mobility.2": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+  "quote": "Much of the grounds are wheelchair accessible. The path to the house is compacted gravel.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "e28e5343c227d50d739f8ad12d336d1ab3125c9394c9211f16a0fc2105d7ea8b",
+  "source_sha256": "a63eba74f884f63296a20c84e9df03b9515ce189dc59efce21543e0ce9537f78",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/"
+ },
+ "dinsmore-homestead.mobility.3": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+  "quote": "The wheelchair ramp, at the back of the house, gives access to the interior of the house (only the first floor).",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The upstairs of the Dinsmore home is not wheelchair accessible."
+  ],
+  "claim_sha256": "50fb773e959bcb37f8eaab714c526f0060e2e4cec769fb1f5323c627ea68a3e9",
+  "source_sha256": "a63eba74f884f63296a20c84e9df03b9515ce189dc59efce21543e0ce9537f78",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/"
+ },
+ "dinsmore-homestead.mobility.4": {
+  "url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/",
+  "quote": "The Dinsmore family graveyard is located on the top of a hill roughly .2 miles behind the house and requires an able body with a walking stick to manage. The path up to the graveyard is a hiking trail and can become slick in wet conditions.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "478eb9b20ee32b1a72aaef891d2d55d748b64b42653f5876cf86e237073c0dfe",
+  "source_sha256": "a63eba74f884f63296a20c84e9df03b9515ce189dc59efce21543e0ce9537f78",
+  "final_url": "https://www.dinsmorefarm.org/plan-your-visit/accessibility/"
  },
  "downtown-main-library.chronic.1": {
   "url": "https://chpl.org/locations/1/",
@@ -3486,6 +3670,140 @@
   "quote": "Front Chef's Counter: Seats 5 at bar stools overlooking the kitchen. The best place to sit to be a part of the action Dining Room: Seats up to 26 at tables Back Bar: This section is separate, in the back of the restaurant and seats 8 at the bar in bar stools. We offer the same menu and service in the back bar.",
   "verified_at": "2026-11-12"
  },
+ "northern-kentucky-convention-center.chronic.1": {
+  "url": "https://www.nkycc.com/faq/",
+  "quote": "Do you have a nursing room?",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Yes, we have 2 mamava pods. One on each level."
+  ],
+  "claim_sha256": "7acda73f8377ec0a1ee39de6884e19da614995c91bc5ae67223b66e3eee78e87",
+  "source_sha256": "d5c91b151f84d67863833dd45fad06d98620c06a925b8b5ef8e6e64a3e67cd53",
+  "final_url": "https://www.nkycc.com/faq/"
+ },
+ "northern-kentucky-convention-center.cognitive.1": {
+  "url": "https://www.nkycc.com/faq/",
+  "quote": "Is there 24-hour access to the Center?",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "For security seasons, the Center is locked and secured at the end of each days contracted hours."
+  ],
+  "claim_sha256": "f221f9be045b2003c34efd704fa8bc14d9e1822de5386e565b24ac6ebabab04f",
+  "source_sha256": "d5c91b151f84d67863833dd45fad06d98620c06a925b8b5ef8e6e64a3e67cd53",
+  "final_url": "https://www.nkycc.com/faq/"
+ },
+ "northern-kentucky-convention-center.mobility.1": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "A ramp is located from the sidewalk to the Center entrance/exit on the Madison Ave. side of the building. The Center entry doors are push button automated at this entrance/exit.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "A passenger elevator is located to the right of the escalators for access between the Center’s 2 main levels."
+  ],
+  "claim_sha256": "9ece640de83644feabdec45aa77a80dba67bafa27616bf17b71414926ed65079",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.10": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "Marriott Garage (859) 431-7049 10 W. RiverCenter Blvd. Covington, KY 41011 365 spaces (4 Accessible) 50 spaces available to public",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f202f88772ee91fd9edc3583d6729744aa134501a3ad194a2a18fae76483d19b",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.2": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "There are accessible restrooms for each gender readily available in public areas.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Meeting Rooms/Ballroom/The Learning Center/Event Center – All are accessible by wheelchair.",
+   "The Learning Center 400 seat amphitheater (with accessible seating)"
+  ],
+  "claim_sha256": "39d47bb3bfecadbbebc056b83dfe367205fbe14cbd562105a5d27d1c01edefde",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.3": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "The Center has 2 wheelchairs available for use on a first come, first serve basis. These chairs are located within the Administrative Offices and must be signed out. Photo identification will also be required to be left on file until the return of the chair.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "There are ramps available for riser accessibility and should be requested ahead of time to prepare for use."
+  ],
+  "claim_sha256": "162ad8f70eb80f07ab96bd0d522f94728d68d4e0dcf65d32dcd4f9329797a116",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.4": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "The Center only allows powered wheelchairs, scooters, and Segway’s for people with disabilities as defined under the Americans with Disabilities Act and if they can be operated safely in our facility. Only electric or battery powered OPDMD are allowed inside the facility. OPDMD cannot travel at a speed greater than the pedestrian traffic.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f83655ca2497f3c311b44a3cb9e9b4bec89af5da9a3f2da47547d71c6335a72c",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.5": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "Main Lobby 8,000 square feet of public space equipped for registration, exhibits and receptions Staircases, escalators, and elevator to third floor Conference Level",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "All concession stands at the convention center are accessible by wheelchair."
+  ],
+  "claim_sha256": "fcba34d4cfdc4e53eeef09c764db5456ada20ec6fd269db9f0cfc718fe15f2d2",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.6": {
+  "url": "https://www.nkycc.com/faq/",
+  "quote": "Yes, The Cincinnati Marriott at RiverCenter directly connects via walkway to the Center’s Conference Level.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f7d2e7b239030785843822d9ceee2901c79f133143faa0800913a98351493636",
+  "source_sha256": "d5c91b151f84d67863833dd45fad06d98620c06a925b8b5ef8e6e64a3e67cd53",
+  "final_url": "https://www.nkycc.com/faq/"
+ },
+ "northern-kentucky-convention-center.mobility.7": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "Due to the on-going construction surrounding the Center, any oversized vehicle seeking parking needs to call ABM at 513-929-9200 to see if arrangements can be made.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "63f02cedec57a72a13654f7a4c82c4f0ee49c7ec00113a9c235172286b4039fd",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.8": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "Kenton County Parking Garage (859) 581-6888 220 Madison Ave. Covington, KY 41011 1500 spaces (44 Accessible) 500 spaces available to the public during weekday business hours",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "9aa6152862dd40aa571a3e6af896e8bd2508c72dc19eb17c01b2f741a3e04c14",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.mobility.9": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "RiverCenter Garage (859) 431-7049 50 E. RiverCenter Blvd. Covington, KY 41011 850 spaces (40 Accessible) 150 spaces available to public during weekday business hours",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "eaad71890b09f5b32e9afc20571ee41a631515396b5391424b5cb0686fc31401",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.sensory.1": {
+  "url": "https://www.nkycc.com/about/",
+  "quote": "Meeting Rooms/Ballroom/The Learning Center/Event Center – All are accessible by wheelchair. There are ramps available for riser accessibility and should be requested ahead of time to prepare for use. Microphones are available that can be easily adjusted and are flexible for use.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "ae9350a6c565541bb8a7a1de727fd55e11424438dc1570ddf243568c8fa82ab7",
+  "source_sha256": "1a708cfde5c016799fa8e32d64c3f641083e197507d20f340fec440b0a9bedf5",
+  "final_url": "https://www.nkycc.com/about/"
+ },
+ "northern-kentucky-convention-center.sensory.2": {
+  "url": "https://www.nkycc.com/faq/",
+  "quote": "May hazers and/or fog machines be used within the Center?",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Yes, but must be coordinated through your Event Planner."
+  ],
+  "claim_sha256": "0217e134eb60e1591841c4b4c13de47eec7d7c88f3e24c0eef0c2fa6ed160250",
+  "source_sha256": "d5c91b151f84d67863833dd45fad06d98620c06a925b8b5ef8e6e64a3e67cd53",
+  "final_url": "https://www.nkycc.com/faq/"
+ },
  "ohio-renaissance-festival.mobility.1": {
   "url": "https://renfestival.com/faq/",
   "quote": "However, our pathways are gravel so please expect rough terrain. We are not renting mobility scooters at this time.",
@@ -4435,6 +4753,14 @@
   "quote": "Drivers will also call out any stop upon request, if you ask when you get on the bus.",
   "verified_at": "2026-11-12"
  },
+ "target-newport.chronic.1": {
+  "url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+  "quote": "Most Drive Up and Order Pickup orders are held for three days. If your order isn’t picked up within three days, we’ll cancel the order and issue a refund to your original form of payment. If your order contains fresh or frozen grocery items, your order will be held until close of the next business day before being canceled and refunded. Orders that don’t contain fresh or frozen groceries can have the pickup window extended by an additional three days on your Order details page. You must do this before the end of your initial pickup window. Orders with fresh or frozen grocery can’t be extended.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "c78da581870f51ea7630f83f94cda38944c6359b47758b82db2c847fd7aadf00",
+  "source_sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
+  "final_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup"
+ },
  "target-newport.cognitive.1": {
   "url": "https://www.target.com/c/drive-up/-/N-9d42z",
   "quote": "Switch to Drive Up & tell us you’re coming When your order is ready, open the Target app & tap “Switch to Drive Up.” Let us know when you’re on the way for a quicker pickup. Tell us you’re here & wait in your vehicle Park in the Drive Up area & tap “I’m here” in the Target app. We’ll bring your order to your vehicle.",
@@ -4455,10 +4781,62 @@
   "quote": "How do I shop online at Target.com ? On iOS and Android, please use the following steps: Choose the “Apply a Free Access Offer” button from the home screen. Select the products button. You can use the search box to search for Target.com or select it from the list of offers.",
   "verified_at": "2026-11-12"
  },
+ "target-newport.cognitive.5": {
+  "url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+  "quote": "Most stores will have an Order Pickup Kiosk to scan your Order Pickup barcode. Scan your Order Pickup barcode at the Order Pickup Kiosk or present to a team member at the Guest Services desk, if Kiosk is not available. You can find the barcode by opening the Target app when your order is ready for pickup, or by going to Order Details and select View barcode.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "224714c799f52d0862468eb6afdbefeb37738412e483e36d2c33caaaded0ec4f",
+  "source_sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
+  "final_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup"
+ },
+ "target-newport.cognitive.6": {
+  "url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+  "quote": "If you aren’t using the barcode, you can present one of the following forms of ID to a team member at Guest Services. Be sure the ID is valid and has not yet expired: Government-issued photo ID",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Guest must be 21+ years old and present a valid form of identification to pick up adult beverages when using Order Pickup."
+  ],
+  "claim_sha256": "b39378e9455b884b915f9693683b7393fe5d53a062b57bda03ca3dbfab1d93b1",
+  "source_sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
+  "final_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup"
+ },
+ "target-newport.cognitive.7": {
+  "url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+  "quote": "Currently, Drive Up orders can only be picked up by the shopping partner you’ve already invited to your Target account.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Currently, Order Pickup orders can be picked up by a shopping partner, someone you’ve invited and saved to your Target account, or an alternate pickup person, someone you’ve added to your order at checkout."
+  ],
+  "claim_sha256": "eb9830d07cd057999b814aaa457fa7d9215b9ed6f063ffc361f7b34c0a041fcc",
+  "source_sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
+  "final_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup"
+ },
+ "target-newport.cognitive.8": {
+  "url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+  "quote": "Returning with Drive Up is a new service that is available at most stores for some items. If your item is eligible, you may be able to choose Drive Up as an option when you Start a return through your Order Details page. Not all items or locations will be available for a return with Drive Up.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "If there are any issues with your return, you can carefully pull out of the Drive Up space and re-park in a normal parking spot. Go into the store to Guest Services, where they may be able to help troubleshoot your return issues."
+  ],
+  "claim_sha256": "8393e58cedde7a0373837ad603619e99c26fc0041eedd77e19a413ae2b69738c",
+  "source_sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
+  "final_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup"
+ },
  "target-newport.mobility.1": {
   "url": "https://www.target.com/sl/newport/2483",
   "quote": "Shop pickup & delivery Start an order at Newport Order Pickup Order ahead and pickup in-store Drive Up Order ahead and use the Target app to pick up without leaving your car Same Day Delivery Brought to your door by Shipt",
   "verified_at": "2026-11-12"
+ },
+ "target-newport.mobility.2": {
+  "url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+  "quote": "Where do I park for Drive Up?",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Look for designated Drive Up parking signs close to the front of the store."
+  ],
+  "claim_sha256": "a26e076e201bbc8f5883d19a3bcc70bd0b4cfa1e2cba4b40bdd64baaf4e4b5dd",
+  "source_sha256": "749f4d3f0216452735e8baefe68022ac5b5dab0b3ff467cb38c7d90f32da6030",
+  "final_url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup"
  },
  "target-newport.sensory.1": {
   "url": "https://www.target.com/c/accessibility/-/N-4ynq1",
@@ -4569,6 +4947,203 @@
   "url": "https://touseyhouse.com/reservations/",
   "quote": "Please keep in mind that our historic building has dining rooms both upstairs and downstairs. We do not have an elevator.",
   "verified_at": "2026-11-12"
+ },
+ "tql-stadium.chronic.1": {
+  "url": "https://www.fccincinnati.com/matchday/accessibility",
+  "quote": "If you have a medical condition that prevents you from passing through a magnetometer, an alternative method of screening will be used.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "5a3ecbe298ae51e2dabdf85e38f61ab501b4ca904b4e4cc66da9bc8c744aae34",
+  "source_sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+  "final_url": "https://www.fccincinnati.com/matchday/accessibility"
+ },
+ "tql-stadium.chronic.2": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Baby Changing Tables: For your convenience, baby changing tables are available in all public restrooms, including family restrooms, as well as the Pampers Nursing Room located in the Guest Experience Center on the concourse level behind section E6/220.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "e615ceee3132f7089bab1e045c0f3ec617ca056377865932e53263a5f8366676",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.chronic.3": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Exceptions for medically necessary bags or items will be made after proper inspection and Stadium Management approval.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f26420728f09da6e5f0d645d8f12b5dff5fb7c4dba17814a860695b6b4834c09",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.chronic.4": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Water Bottles: Fans are permitted to bring in one (1) 20-oz. factory-sealed water bottle. Water fountains are available throughout the stadium for fans to refill their bottles. Specific events that are classified as all-pour events will require that the water bottle be opened and poured inside a cup once inside the gates.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "4c61f57a796a39efc6da7461bc820b191a79ee1f7b9188b9d954082889d9b618",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.chronic.5": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Nursing: Nursing guests requesting a more private location in which to breastfeed, pump, or spend some quiet time may use the Nursing Room located inside the Guest Experience Center on the Concourse Level behind Section E6/220. This suite provides privacy, cleanliness, and all necessities including bottle warmers for nursing mothers. Pampers Nursing Pods can be found throughout the Concourse Level, specifically near Sections 133 and 103, as well as just outside the Guest Experience Center. An ADA-accessible Nursing Pod is available in the First Financial Club.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "25a81bb008d51460d9eb60b5242704f71207dab6a18dee94355765ad227e09b2",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.chronic.6": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "First Aid: The Mercy Health First Aid station is located on the concourse level behind section 133 and will be staffed with certified emergency medical personnel at all times during an event. Additionally, first aid teams can be found throughout the concourse and can be contacted by the Guest Experience Center behind section E6/220. In the case of an emergency, please find your nearest Guest Experience or Security team member for assistance.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "1a4cb9ba8a8e17fc2a2e6642e6060fa31f71eafdc7754c20adc9e950609532c6",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.cognitive.1": {
+  "url": "https://tqlstadium.com/entrances/allegiant-gate",
+  "quote": "Allegiant Gate is on the south side of TQL Stadium off Central Avenue.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "ca0d0eee851da9e629d550e1c03df6beee3f50a163483f14b9fcf24097c952b8",
+  "source_sha256": "47d1460b456ce89cc65d9165186e6d7815c2170afed7eb86390406d24a421211",
+  "final_url": "https://tqlstadium.com/entrances/allegiant-gate"
+ },
+ "tql-stadium.cognitive.2": {
+  "url": "https://tqlstadium.com/entrances/first-financial-gate",
+  "quote": "First Financial Gate is on the east side of TQL Stadium off Central Parkway.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "dc5e2331003049978d8d7cf4c2a6b58e109e5b2014c9ed61fc25d7658b3f9c03",
+  "source_sha256": "022c9c80a7c74eace05869f4b6c32835a472647cada467ba3380829f999fea0e",
+  "final_url": "https://tqlstadium.com/entrances/first-financial-gate"
+ },
+ "tql-stadium.cognitive.3": {
+  "url": "https://www.fccincinnati.com/matchday/parking",
+  "quote": "Fans who have scheduled a rideshare service (Taxi, Uber, Lyft) will be dropped off/picked up at one of three locations near TQL Stadium: Ezzard Charles Drive Central Avenue West 14th Street South Side of Liberty, Eastbound between John Street and Central Avenue.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Wade Street is closed to pedestrians and vehicles due to construction."
+  ],
+  "claim_sha256": "2710459bb75a58b98ccd9d1942d4d8c3f1770bffa0f0ce8dab3e8b11bbab2637",
+  "source_sha256": "cd1a2ff5742af840ccc4eb51e5590c59fc059e36cd885a3a30e06c2e79b39d5d",
+  "final_url": "https://www.fccincinnati.com/matchday/parking"
+ },
+ "tql-stadium.cognitive.4": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Supporter sections do not allow yellow or opposing team colors.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "aaa559f409b1f7c99b77c39708c7cf6872b187b3c82334b9100f9d61302b6206",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.cognitive.5": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Re-Entry Policy: TQL Stadium has a no re-entry policy during events.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "b81a9305c88474d7c5a1c7e38c0d3ea1df5f1fab76f8938cd52b8ff2d3a1c287",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.mobility.1": {
+  "url": "https://www.fccincinnati.com/matchday/accessibility",
+  "quote": "TQL Stadium offers wheelchair accessible and low mobility seating on each level of the stadium at comparable prices and sightlines. Tickets for all ADA sections are available to purchase directly through the FC Cincinnati Ticketing Department. They can be reached prior to each event at 513-977-5425. Event-day sales of ADA tickets are available, but are typically limited.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "de1252fbd4314d3da4275ee93d279b0aea7d84db4747c47ad069e38736bfb9fd",
+  "source_sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+  "final_url": "https://www.fccincinnati.com/matchday/accessibility"
+ },
+ "tql-stadium.mobility.2": {
+  "url": "https://www.fccincinnati.com/matchday/accessibility",
+  "quote": "Guests needing wheelchair accommodations are encouraged to bring their own mobility devices to TQL Stadium. If assistance is needed, guests should notify the closest Guest Experience representative located at any entrance or visit the Guest Experience Center located behind Section E6/220 upon their arrival and request the use of a wheelchair. Wheelchairs belonging to TQL Stadium are operated by Guest Experience staff and are available for transit between gates and seating locations. Wheelchair transport service to and from entrances to a guest’s seat is available on a first-come, first-served basis and demand may cause an increase in wait time for an accommodation. We are unable to allow guests to keep wheelchairs throughout the events.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f01eef133024f73633d91b3337a2a857a36246b91da321d2bd09e590c0570d9c",
+  "source_sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+  "final_url": "https://www.fccincinnati.com/matchday/accessibility"
+ },
+ "tql-stadium.mobility.3": {
+  "url": "https://www.fccincinnati.com/matchday/accessibility",
+  "quote": "For the convenience of any guest with a disability, all gates at TQL Stadium are equipped with easily accessible lines to minimize wait times.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "d440f2f319b7d5c9f4ad1a563a4bdcf5a071e535459001975a6437522d4494b5",
+  "source_sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+  "final_url": "https://www.fccincinnati.com/matchday/accessibility"
+ },
+ "tql-stadium.mobility.4": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Elevators: Priority use of passenger elevators will be given to guests and staff with limited mobility. Stairs should be used to navigate the stadium whenever possible. Some elevators are used to move the media and team staff and will be periodically taken out of service for this purpose. To ensure safe and efficient operations of the elevators, we ask our guests to follow the directions of the elevator operators, the elevator lobby attendants, and other stadium staff at all times. For assistance with finding an elevator, please locate the closest Guest Experience team member.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "e7142531aaa15286ffc99a22f2f666def2f5919aa3306c59d8e3427790ffe9f3",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.mobility.5": {
+  "url": "https://www.fccincinnati.com/matchday/parking",
+  "quote": "Note: These garages are for parking passes ONLY. There is no cash parking at these garages on matchdays.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Town Center Garage (ADA) : 1223 Central Parkway, Cincinnati, Ohio 45214"
+  ],
+  "claim_sha256": "8affcb9feb6cb546107777d16188496bca373383dbe560fed7e23658338af478",
+  "source_sha256": "cd1a2ff5742af840ccc4eb51e5590c59fc059e36cd885a3a30e06c2e79b39d5d",
+  "final_url": "https://www.fccincinnati.com/matchday/parking"
+ },
+ "tql-stadium.mobility.6": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Supporters Section: Tickets for the Supporters Section (sections 106-110) at TQL Stadium are general admission and are sold on a first-come, first-served basis. Tickets in this location will be ‘safe standing’ and will not have a physical seat.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The Bailey supporter section is an exception to this rule."
+  ],
+  "claim_sha256": "59847a584eed387aa8b2e6d2467e0a527de1bb5ef5254bcee6b487813c161a03",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.mobility.7": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "Family Restrooms: Family restrooms are intended for fans with small children and fans with disabilities. There are four (4) ADA-accessible family restrooms located on the concourse level throughout the stadium. These can be found outside sections 106, 133, and E6/220. For other restroom locations, please refer to the Restrooms section.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "312fba8fe24234f850c043fbbd0734df4a39928da00f0a2ed79157a3c9a90fab",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.mobility.8": {
+  "url": "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+  "quote": "On matchdays, all ADA seating relocations can be directed to the Guest Experience Center (section E6/220) while availability lasts.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "dfe46e9f1923a71ca92d357b2ef25457e083933f9505a0bf461e3dc81d39ad73",
+  "source_sha256": "fb31786747743a1a932211aeb61a6012864ff1ee41d000b1164395655d9d71c5",
+  "final_url": "https://www.fccincinnati.com/matchday/tql-stadium-guide"
+ },
+ "tql-stadium.mobility.9": {
+  "url": "https://www.fccincinnati.com/matchday/accessibility",
+  "quote": "Manually operated mobility aids (such as canes and walkers) and wheelchairs – both manually operated and electric – are permitted in all areas of the stadium. Due to space restrictions on the concourse, and for the safety of all guests at TQL Stadium, segways, tri-bikes and golf carts are not permitted inside the stadium.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "877ac2ad1c858030da38d80aaab8be9055fe175756a6f9a89cd8a3ac3a0d580b",
+  "source_sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+  "final_url": "https://www.fccincinnati.com/matchday/accessibility"
+ },
+ "tql-stadium.sensory.1": {
+  "url": "https://www.fccincinnati.com/matchday/accessibility",
+  "quote": "Sensory bags are available for guests to use during each event. Each bag contains a pair of noise canceling headphones, as well as other items that stimulate the senses. These bags are located in the Guest Experience Center behind section E6. Guests may check out these bags by providing a credit card or Photo ID. Any questions regarding sensory bags should be directed to the Guest Experience Center. P&G Sensory Room Any guest who is in need of a therapeutic, quiet space to go to during events is welcome to use the Sensory room, located in the back of the Guest Experience Center behind section E6. This room features a variety of equipment that guests can use in ways to regulate their brain’s negative reactions to external stimuli",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "3d688cdcacc83a8f34aa9c151f0206281546aaafd1207b8a065d0c418f0bcc9c",
+  "source_sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+  "final_url": "https://www.fccincinnati.com/matchday/accessibility"
+ },
+ "tql-stadium.sensory.2": {
+  "url": "https://www.fccincinnati.com/matchday/accessibility",
+  "quote": "Assistive Listening Devices are available and complimentary to guests for all stadium events. These devices are located in Guest Experience Center behind section E6. Guests may check out these devices by providing a credit card or Photo ID. Any questions regarding Assisted Listening Devices should be directed to the Guest Experience Center. Closed Captioning Closed captioning can be found on the auxiliary videoboard in the SE corner of TQL Stadium or on the FCC App in the Stadium page.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "04aaf575a72451314948750faab4af76631a47a1aaaf7ac9e6bd54cc710cb4ec",
+  "source_sha256": "8adc7cf633657ef4f383631d02987fa7f302bf474e511451e50b29a0a11d9caa",
+  "final_url": "https://www.fccincinnati.com/matchday/accessibility"
+ },
+ "tql-stadium.sensory.3": {
+  "url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation",
+  "quote": "FC Cincinnati host Nashville SC on Saturday, November 7 at TQL Stadium.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "2026-11-05T20:30:00Z",
+   "The Bailey is general admission, safe standing only. Singing, drums, flags, and smoke are expected during the match."
+  ],
+  "claim_sha256": "722b506f8aae3a59ada5e26cf6a078b80c713cdfa852dfe4d0bbae752198656e",
+  "source_sha256": "bd1f16ed3f5e4bb1d58ddb522f12049b89a1dde8d9eb6c512d50e940df878cff",
+  "final_url": "https://www.fccincinnati.com/news/matchday-guide-pres-by-altafiber-fc-cincinnati-vs-nashville-sc-fan-appreciation"
  },
  "truist-arena.chronic.1": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",

@@ -1,0 +1,41 @@
+{
+  "northern-kentucky-convention-center.mobility.1": {
+    "text": "The Madison Avenue entrance has a sidewalk ramp and push-button doors. The passenger elevator to the right of the escalators connects the two main levels.",
+    "quote": [
+      "A ramp is located from the sidewalk to the Center entrance/exit on the Madison Ave. side of the building. The Center entry doors are push button automated at this entrance/exit.",
+      "A passenger elevator is located to the right of the escalators for access between the Center’s 2 main levels."
+    ],
+    "reason": "Retained both entrance and elevator passages and added the published elevator location."
+  },
+  "northern-kentucky-convention-center.mobility.5": {
+    "text": "The venue describes an elevator from the Main Lobby to the third-floor Conference Level and says its concession stands can be reached by wheelchair.",
+    "quote": [
+      "Main Lobby 8,000 square feet of public space equipped for registration, exhibits and receptions Staircases, escalators, and elevator to third floor Conference Level",
+      "All concession stands at the convention center are accessible by wheelchair."
+    ],
+    "reason": "The former walkway-to-Conference-Level clause was supported by the FAQ, not this cited page. Moved that clause to a separately cited note and attributed the concession description."
+  },
+  "dinsmore-homestead.chronic.1": {
+    "text": "Dinsmore describes picnic tables across the lawn and under shade trees as easily accessible. Table clearances and the surfaces of each approach are not specified.",
+    "quote": "There are easily accessible picnic tables located all over the lawn and under the shade trees.",
+    "reason": "Attributed the source’s general access description instead of repeating it as an independently established finding."
+  },
+  "dinsmore-homestead.cognitive.2": {
+    "text": "The admissions page lists house tours Friday–Sunday, 1–5 p.m., starting on the hour with the last tour at 4 p.m. Reserve through the site’s calendar. It lists closures on Easter Sunday and December 15 through April 1; check the calendar for the intended date.",
+    "quote": [
+      "Tours begin on the hour, last tour at 4:00pm*: Friday 1:00pm – 5:00pm Saturday 1:00pm – 5:00pm Sunday 1:00pm – 5:00pm *Closed Easter Sunday *Closed from December 15th through April 1st.",
+      "Please visit Calendar to make a reservation."
+    ],
+    "reason": "Restored operating-day and Easter qualifications omitted from the earlier summary; retained the separately located reservation instruction."
+  },
+  "tql-stadium.sensory.2": {
+    "text": "Complimentary assistive listening devices can be checked out at the Guest Experience Center behind E6 with a credit card or photo ID. Closed captioning is on the southeast-corner auxiliary videoboard and the Stadium page of the FCC App.",
+    "quote": "Assistive Listening Devices are available and complimentary to guests for all stadium events. These devices are located in Guest Experience Center behind section E6. Guests may check out these devices by providing a credit card or Photo ID. Any questions regarding Assisted Listening Devices should be directed to the Guest Experience Center. Closed Captioning Closed captioning can be found on the auxiliary videoboard in the SE corner of TQL Stadium or on the FCC App in the Stadium page.",
+    "reason": "Restored the credit-card or photo-ID checkout condition and retained support for both the listening devices and caption locations."
+  },
+  "tql-stadium.cognitive.1": {
+    "text": "Allegiant Gate is on the south side of the stadium off Central Avenue. Confirm your gate before traveling.",
+    "quote": "Allegiant Gate is on the south side of TQL Stadium off Central Avenue.",
+    "reason": "Removed the uncited comparison with Central Parkway; kept the exact south-side/Central Avenue scope."
+  }
+}

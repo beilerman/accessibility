@@ -1,0 +1,216 @@
+{
+  "northern-kentucky-convention-center": [
+    [
+      "mobility",
+      "The FAQ says a walkway connects the Cincinnati Marriott at RiverCenter directly to the Conference Level. It does not describe the complete hotel-to-event route or door controls.",
+      "https://www.nkycc.com/faq/",
+      "venue_official",
+      "Yes, The Cincinnati Marriott at RiverCenter directly connects via walkway to the Center’s Conference Level."
+    ],
+    [
+      "mobility",
+      "The venue warns of ongoing construction around the center. For oversized-vehicle parking, call ABM at 513-929-9200 to find out whether arrangements can be made; a space is not guaranteed.",
+      "https://www.nkycc.com/about/",
+      "venue_official",
+      "Due to the on-going construction surrounding the Center, any oversized vehicle seeking parking needs to call ABM at 513-929-9200 to see if arrangements can be made."
+    ],
+    [
+      "mobility",
+      "The venue lists Kenton County Parking Garage at 220 Madison Avenue with 44 accessible spaces. It lists 500 spaces available to the public during weekday business hours out of 1,500 total; it does not say how many of those public spaces are accessible or describe the route to the center.",
+      "https://www.nkycc.com/about/",
+      "venue_official",
+      "Kenton County Parking Garage (859) 581-6888 220 Madison Ave. Covington, KY 41011 1500 spaces (44 Accessible) 500 spaces available to the public during weekday business hours"
+    ],
+    [
+      "mobility",
+      "The venue lists RiverCenter Garage at 50 E. RiverCenter Boulevard with 40 accessible spaces. It lists 150 spaces available to the public during weekday business hours out of 850 total; accessible-space availability and the route to the center need confirmation.",
+      "https://www.nkycc.com/about/",
+      "venue_official",
+      "RiverCenter Garage (859) 431-7049 50 E. RiverCenter Blvd. Covington, KY 41011 850 spaces (40 Accessible) 150 spaces available to public during weekday business hours"
+    ],
+    [
+      "mobility",
+      "The venue lists Marriott Garage at 10 W. RiverCenter Boulevard with four accessible spaces and 50 spaces available to the public out of 365 total. The listing does not identify which public spaces are accessible or establish a continuous route to the center.",
+      "https://www.nkycc.com/about/",
+      "venue_official",
+      "Marriott Garage (859) 431-7049 10 W. RiverCenter Blvd. Covington, KY 41011 365 spaces (4 Accessible) 50 spaces available to public"
+    ],
+    [
+      "sensory",
+      "Adjustable, flexible microphones are available for meeting rooms, the ballroom, Learning Center and Event Center. Ask the event organizer about the setup; this statement does not establish assistive-listening or captioning services.",
+      "https://www.nkycc.com/about/",
+      "venue_official",
+      "Meeting Rooms/Ballroom/The Learning Center/Event Center – All are accessible by wheelchair. There are ramps available for riser accessibility and should be requested ahead of time to prepare for use. Microphones are available that can be easily adjusted and are flexible for use."
+    ],
+    [
+      "sensory",
+      "The FAQ permits hazers and fog machines when coordinated through the event planner. Whether an individual event uses them needs confirmation with its organizer.",
+      "https://www.nkycc.com/faq/",
+      "venue_official",
+      [
+        "May hazers and/or fog machines be used within the Center?",
+        "Yes, but must be coordinated through your Event Planner."
+      ]
+    ],
+    [
+      "cognitive",
+      "The center is locked after each day’s contracted event hours; it does not offer round-the-clock visitor access. Confirm the event’s entry and exit arrangements.",
+      "https://www.nkycc.com/faq/",
+      "venue_official",
+      [
+        "Is there 24-hour access to the Center?",
+        "For security seasons, the Center is locked and secured at the end of each days contracted hours."
+      ]
+    ]
+  ],
+  "dinsmore-homestead": [
+    [
+      "cognitive",
+      "The admissions page lists office and gift-shop hours of 12:30–4 p.m. Friday–Sunday, ending earlier than its published house-tour visiting hours. Confirm arrival and check-in arrangements when reserving.",
+      "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
+      "venue_official",
+      [
+        "Office and gift shop hours: Friday 12:30pm – 4:00pm Saturday 12:30pm – 4:00pm Sunday 12:30pm – 4:00pm",
+        "Tours begin on the hour, last tour at 4:00pm*: Friday 1:00pm – 5:00pm Saturday 1:00pm – 5:00pm Sunday 1:00pm – 5:00pm"
+      ]
+    ],
+    [
+      "chronic",
+      "The 2026 events page describes regular house tours as lasting approximately 45 minutes to an hour and lists 859-586-6117 for more information. Ask about seating and rest breaks when arranging a visit; these are not described.",
+      "https://www.dinsmorefarm.org/plan-your-visit/events/",
+      "venue_official",
+      [
+        "Calendar of Events for 2026",
+        "Please visit us for our regular house tours, Fridays, Saturdays, and Sundays, from 1:00 to 5:00. Tours last approximately 45 minutes to 1 hour. The cost is $10/adults & $3 children 5 and above. Please call (859)586-6117 for more information."
+      ]
+    ],
+    [
+      "cognitive",
+      "The admissions page offers group tours for groups of ten or more, school groups and private tour groups. Confirm the route, first-floor arrangements and timing directly before organizing a group visit.",
+      "https://www.dinsmorefarm.org/plan-your-visit/admissions-directions/",
+      "venue_official",
+      "Group tours available for 10 or more people , school groups , or private tour groups ."
+    ]
+  ],
+  "target-newport": [
+    [
+      "cognitive",
+      "Target’s chain instructions say to scan an Order Pickup barcode at the pickup kiosk, or show it at Guest Services if a kiosk is unavailable. The barcode is in the app or Order Details. This does not confirm a kiosk or its access features at Newport.",
+      "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+      "venue_official",
+      "Most stores will have an Order Pickup Kiosk to scan your Order Pickup barcode. Scan your Order Pickup barcode at the Order Pickup Kiosk or present to a team member at the Guest Services desk, if Kiosk is not available. You can find the barcode by opening the Target app when your order is ready for pickup, or by going to Order Details and select View barcode."
+    ],
+    [
+      "cognitive",
+      "For in-store Order Pickup without a barcode, Target’s chain instructions allow a valid, unexpired government-issued photo ID at Guest Services. Adult-beverage pickup separately requires the person collecting it to be 21 or older and present valid identification.",
+      "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+      "venue_official",
+      [
+        "If you aren’t using the barcode, you can present one of the following forms of ID to a team member at Guest Services. Be sure the ID is valid and has not yet expired: Government-issued photo ID",
+        "Guest must be 21+ years old and present a valid form of identification to pick up adult beverages when using Order Pickup."
+      ]
+    ],
+    [
+      "cognitive",
+      "When someone else collects an order, Target’s help page distinguishes the services: Drive Up uses an invited shopping partner saved to your Target account; in-store Order Pickup also allows an alternate pickup person added at checkout. Arrange the appropriate person before collection.",
+      "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+      "venue_official",
+      [
+        "Currently, Drive Up orders can only be picked up by the shopping partner you’ve already invited to your Target account.",
+        "Currently, Order Pickup orders can be picked up by a shopping partner, someone you’ve invited and saved to your Target account, or an alternate pickup person, someone you’ve added to your order at checkout."
+      ]
+    ],
+    [
+      "chronic",
+      "Target generally holds pickup orders for three days. Orders containing fresh or frozen groceries are held only until the close of the next business day and cannot be extended. Other orders can be extended three more days through Order Details before the original window ends; uncollected orders are canceled and refunded.",
+      "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+      "venue_official",
+      "Most Drive Up and Order Pickup orders are held for three days. If your order isn’t picked up within three days, we’ll cancel the order and issue a refund to your original form of payment. If your order contains fresh or frozen grocery items, your order will be held until close of the next business day before being canceled and refunded. Orders that don’t contain fresh or frozen groceries can have the pickup window extended by an additional three days on your Order details page. You must do this before the end of your initial pickup window. Orders with fresh or frozen grocery can’t be extended."
+    ],
+    [
+      "cognitive",
+      "For an eligible return, Target’s help page says Drive Up may appear when starting a return in Order Details. Eligibility varies by item and location; problems may require going inside to Guest Services. Confirm the offered return method before relying on a car-side return at Newport.",
+      "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+      "venue_official",
+      [
+        "Returning with Drive Up is a new service that is available at most stores for some items. If your item is eligible, you may be able to choose Drive Up as an option when you Start a return through your Order Details page. Not all items or locations will be available for a return with Drive Up.",
+        "If there are any issues with your return, you can carefully pull out of the Drive Up space and re-park in a normal parking spot. Go into the store to Guest Services, where they may be able to help troubleshoot your return issues."
+      ]
+    ],
+    [
+      "mobility",
+      "Target’s chain instructions tell Drive Up customers to look for designated parking signs close to the front of the store. This is not a Newport parking-space map or confirmation of a parking-to-door route.",
+      "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",
+      "venue_official",
+      [
+        "Where do I park for Drive Up?",
+        "Look for designated Drive Up parking signs close to the front of the store."
+      ]
+    ]
+  ],
+  "tql-stadium": [
+    [
+      "mobility",
+      "The stadium guide lists four family restrooms on the concourse, intended for fans with small children or disabilities, at sections 106, 133 and E6/220. The guide calls them ADA-accessible but does not give their dimensions or adult-changing equipment.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "Family Restrooms: Family restrooms are intended for fans with small children and fans with disabilities. There are four (4) ADA-accessible family restrooms located on the concourse level throughout the stadium. These can be found outside sections 106, 133, and E6/220. For other restroom locations, please refer to the Restrooms section."
+    ],
+    [
+      "chronic",
+      "Baby-changing tables are listed in all public restrooms, including family restrooms, and in the Pampers Nursing Room behind E6/220. These are baby-changing facilities; adult-changing provision is not established by this statement.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "Baby Changing Tables: For your convenience, baby changing tables are available in all public restrooms, including family restrooms, as well as the Pampers Nursing Room located in the Guest Experience Center on the concourse level behind section E6/220."
+    ],
+    [
+      "chronic",
+      "The stadium’s clear-bag policy allows exceptions for medically necessary bags or items only after inspection and Stadium Management approval. Arrange any questions about medical supplies before arrival.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "Exceptions for medically necessary bags or items will be made after proper inspection and Stadium Management approval."
+    ],
+    [
+      "chronic",
+      "The stadium guide permits one factory-sealed 20-ounce water bottle and lists fountains for refilling. At events designated all-pour, the bottle must be opened and its contents poured into a cup after entry. Check the rules for the specific event.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "Water Bottles: Fans are permitted to bring in one (1) 20-oz. factory-sealed water bottle. Water fountains are available throughout the stadium for fans to refill their bottles. Specific events that are classified as all-pour events will require that the water bottle be opened and poured inside a cup once inside the gates."
+    ],
+    [
+      "chronic",
+      "A nursing room is inside the Guest Experience Center behind E6/220. The guide also lists nursing pods near sections 133 and 103 and outside the Guest Experience Center, plus a pod described as ADA-accessible in the First Financial Club. Confirm admission to the relevant club area and current availability.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "Nursing: Nursing guests requesting a more private location in which to breastfeed, pump, or spend some quiet time may use the Nursing Room located inside the Guest Experience Center on the Concourse Level behind Section E6/220. This suite provides privacy, cleanliness, and all necessities including bottle warmers for nursing mothers. Pampers Nursing Pods can be found throughout the Concourse Level, specifically near Sections 133 and 103, as well as just outside the Guest Experience Center. An ADA-accessible Nursing Pod is available in the First Financial Club."
+    ],
+    [
+      "chronic",
+      "The First Aid station is on the concourse behind section 133 and is staffed with certified emergency medical personnel during events. For immediate help, the guide directs guests to the nearest Guest Experience or Security team member.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "First Aid: The Mercy Health First Aid station is located on the concourse level behind section 133 and will be staffed with certified emergency medical personnel at all times during an event. Additionally, first aid teams can be found throughout the concourse and can be contacted by the Guest Experience Center behind section E6/220. In the case of an emergency, please find your nearest Guest Experience or Security team member for assistance."
+    ],
+    [
+      "cognitive",
+      "The stadium publishes a no-re-entry policy during events. Plan any need to return to a vehicle or leave for a break before entering.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "Re-Entry Policy: TQL Stadium has a no re-entry policy during events."
+    ],
+    [
+      "mobility",
+      "On matchdays, ADA seating-relocation requests go to the Guest Experience Center at E6/220 and depend on availability. A request does not guarantee a different seat.",
+      "https://www.fccincinnati.com/matchday/tql-stadium-guide",
+      "operator_official",
+      "On matchdays, all ADA seating relocations can be directed to the Guest Experience Center (section E6/220) while availability lasts."
+    ],
+    [
+      "mobility",
+      "The accessibility guide permits canes, walkers and manual or electric wheelchairs in all stadium areas. It prohibits Segways, tri-bikes and golf carts because of concourse space and safety restrictions.",
+      "https://www.fccincinnati.com/matchday/accessibility",
+      "operator_official",
+      "Manually operated mobility aids (such as canes and walkers) and wheelchairs – both manually operated and electric – are permitted in all areas of the stadium. Due to space restrictions on the concourse, and for the safety of all guests at TQL Stadium, segways, tri-bikes and golf carts are not permitted inside the stadium."
+    ]
+  ]
+}

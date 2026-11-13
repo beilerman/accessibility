@@ -1,0 +1,851 @@
+{
+  "prepared_at_utc": "2026-11-13T01:30:23.822896+00:00",
+  "publish_ready": true,
+  "meaning": "Evidence/content reviewed and ready for the runner test suite and Git publication; not a production deployment or a local browser-test pass.",
+  "base": "4603179ba29165ad745e18efce5c6e6763cb7b3d",
+  "work_summary": {
+    "new_venues": [
+      "clermont-transportation-connection-dial-a-ride"
+    ],
+    "added_note_records": 35,
+    "new_information_records": 34,
+    "existing_claim_source_splits": 1,
+    "existing_note_evidence_backfills": 27,
+    "existing_note_corrections": 6,
+    "existing_notes_confirmed_unchanged": 21,
+    "fully_rechecked_venues": [
+      "dinsmore-homestead",
+      "northern-kentucky-convention-center",
+      "tql-stadium"
+    ],
+    "partly_rechecked_existing_venues": [],
+    "new_depth_without_full_recheck": [
+      "target-newport"
+    ],
+    "guide_only": [
+      "tank-transit-authority-of-northern-kentucky"
+    ],
+    "licensed_photos_added": 3,
+    "linked_guides_added": 1
+  },
+  "checks": {
+    "unit_tests": {
+      "passed": 89,
+      "failed": 0
+    },
+    "pipeline_tests": {
+      "passed": 70,
+      "failed": 0
+    },
+    "typecheck": "passed after final build",
+    "lint": "passed",
+    "production_build": "passed, 158 generated pages",
+    "build_warning": "Unchanged nonfatal Atkinson Hyperlegible Next font-override warning",
+    "note_address_verification": {
+      "successful_checks": 63,
+      "failed": 0,
+      "unique_fact_source_urls": 15,
+      "baseline_http_200": 15,
+      "baseline_attention": 0
+    },
+    "final_build_http": {
+      "assertions_passed": 136,
+      "port": 3218,
+      "coverage": [
+        {
+          "kind": "limitations",
+          "slug": "dinsmore-homestead",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.mobility.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.mobility.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.mobility.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.mobility.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.cognitive.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.chronic.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.cognitive.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.cognitive.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.chronic.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "dinsmore-homestead.cognitive.4",
+          "status": 200
+        },
+        {
+          "kind": "photo",
+          "id": "dinsmore-main-house-steps-railed-approach-2023",
+          "status": 200,
+          "sha256": "d057946b1ee1a3182795c7e4eeaca27e51140fb18d5bea24c1dc189278dc0872"
+        },
+        {
+          "kind": "photo",
+          "id": "dinsmore-outbuildings-gravel-surface-2023",
+          "status": 200,
+          "sha256": "3441c169793ed1d58a36d0430552dc10e83f631de3039b5efa9f2a81a05c5c0d"
+        },
+        {
+          "kind": "photo",
+          "id": "dinsmore-office-admissions-porch-steps-2023",
+          "status": 200,
+          "sha256": "66ba9f843f3de35de03f555ec1c22f88062d73bb7146e1a23c7beed4b68ba3e8"
+        },
+        {
+          "kind": "photo",
+          "id": "dinsmore-outbuilding-doorway-ground-2023",
+          "status": 200,
+          "sha256": "6c29bd6c2dcd780bd9af439a0092bba41ee1632fcbb8b4bae42d5474031b738e"
+        },
+        {
+          "kind": "limitations",
+          "slug": "northern-kentucky-convention-center",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.chronic.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.6",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.7",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.8",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.9",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.mobility.10",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.sensory.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.sensory.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "northern-kentucky-convention-center.cognitive.1",
+          "status": 200
+        },
+        {
+          "kind": "photo",
+          "id": "nky-convention-center-entrance-steps-2026",
+          "status": 200,
+          "sha256": "3be2d84ae9149857ade8f6af0e03ddc9a216e903e60dd00a27e4ec381eace1dc"
+        },
+        {
+          "kind": "limitations",
+          "slug": "target-newport",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.mobility.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.sensory.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.sensory.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.sensory.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.6",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.7",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.chronic.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.cognitive.8",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "target-newport.mobility.2",
+          "status": 200
+        },
+        {
+          "kind": "limitations",
+          "slug": "tql-stadium",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.sensory.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.sensory.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.chronic.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.cognitive.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.cognitive.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.cognitive.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.6",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.cognitive.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.sensory.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.7",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.chronic.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.chronic.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.chronic.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.chronic.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.chronic.6",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.cognitive.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.8",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tql-stadium.mobility.9",
+          "status": 200
+        },
+        {
+          "kind": "photo",
+          "id": "tql-first-financial-gate-stairs-2023",
+          "status": 200,
+          "sha256": "fc59d63abe9f6083de18043d7b6d72718fb1c1c84879c7374257a9aea223081a"
+        },
+        {
+          "kind": "limitations",
+          "slug": "clermont-transportation-connection-dial-a-ride",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.mobility.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.cognitive.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.cognitive.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.mobility.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.mobility.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.chronic.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.mobility.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.cognitive.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "clermont-transportation-connection-dial-a-ride.cognitive.4",
+          "status": 200
+        },
+        {
+          "kind": "limitations",
+          "slug": "tank-transit-authority-of-northern-kentucky",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.sensory.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.1",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.sensory.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.2",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.6",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.6",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.7",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.3",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.8",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.4",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.9",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.10",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.11",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.7",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.8",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.12",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.9",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.10",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.5",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.6",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.11",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.13",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.12",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.13",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.14",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.15",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.16",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.17",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.18",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.19",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.20",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.mobility.14",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.chronic.7",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.21",
+          "status": 200
+        },
+        {
+          "kind": "note",
+          "id": "tank-transit-authority-of-northern-kentucky.cognitive.22",
+          "status": 200
+        },
+        {
+          "kind": "photo",
+          "id": "tank-southbank-shuttle-steps-2011",
+          "status": 200,
+          "sha256": "7f9a9345131ca6f99c8e5fa16915e36a22d7b17691cea138bf628e83b0fcd980"
+        },
+        {
+          "kind": "guide",
+          "id": "tank-how-to-ride-2025",
+          "status": 200
+        },
+        {
+          "kind": "guide",
+          "id": "tank-covington-center-2017",
+          "status": 200
+        },
+        {
+          "kind": "guide",
+          "id": "tank-plus-vehicle-door-2025",
+          "status": 200
+        },
+        {
+          "kind": "route",
+          "path": "/venues?category=Transportation&region=OH",
+          "status": 200
+        },
+        {
+          "kind": "route",
+          "path": "/venues?q=Clermont",
+          "status": 200
+        },
+        {
+          "kind": "route",
+          "path": "/sitemap.xml",
+          "status": 200
+        },
+        {
+          "kind": "route",
+          "path": "/updates",
+          "status": 200
+        },
+        {
+          "kind": "route",
+          "path": "/",
+          "status": 200
+        }
+      ],
+      "boundary": "HTTP content/asset checks only; not browser rendering, axe, keyboard, interactions or mobile layout."
+    },
+    "browser": {
+      "listed_tests": 129,
+      "attempted_tests": 1,
+      "passed": 0,
+      "result": "blocked before navigation",
+      "reason": "macOS Chromium bootstrap_check_in MachPortRendezvousServer permission denied (1100)",
+      "cua": "browser host unavailable",
+      "runner_browser_validation_required": true
+    },
+    "images": {
+      "distinct_candidates_visually_inspected": 32,
+      "selected_full_resolution_originals_inspected": 3,
+      "final_webp_outputs_inspected": 3,
+      "pdf_pages_visually_inspected": 42,
+      "unaltered_full_frame": true
+    },
+    "git_diff_check": "passed",
+    "conflict_markers": 0
+  },
+  "preservation": {
+    "base": "4603179ba29165ad745e18efce5c6e6763cb7b3d",
+    "venues": 143,
+    "active_notes": 1287,
+    "retired_notes": 1,
+    "quoted_active": 952,
+    "missing_quotes": 335,
+    "new_venues": [
+      "clermont-transportation-connection-dial-a-ride"
+    ],
+    "new_notes": 35,
+    "old_notes_backfilled": 27,
+    "old_revised_ids": [
+      "dinsmore-homestead.chronic.1",
+      "dinsmore-homestead.cognitive.2",
+      "northern-kentucky-convention-center.mobility.1",
+      "northern-kentucky-convention-center.mobility.5",
+      "tql-stadium.sensory.2",
+      "tql-stadium.cognitive.1"
+    ],
+    "categories": {
+      "Museums & attractions": 21,
+      "Arts & performances": 32,
+      "Parks & outdoors": 31,
+      "Libraries": 15,
+      "Transportation": 7,
+      "Food & drink": 15,
+      "Shopping": 10,
+      "Public services": 5,
+      "Recreation & fitness": 7
+    },
+    "licensed_photos": 47,
+    "linked_guides": 22,
+    "guide_documents": 18,
+    "preserved": [
+      "all prior venue order",
+      "all permanent note IDs",
+      "all prior note history prefixes",
+      "all unrelated venues",
+      "all prior media entries",
+      "all unrelated quotes",
+      "all unselected monitor sources, findings and missing-quote records"
+    ]
+  },
+  "held": [
+    "CTC Saturday referral and cancellation/child-category conflicts",
+    "Target ordering-channel/return-location conflicts and unverified local physical features",
+    "Dinsmore future restroom proposal and missing rear-ramp/alternate-office route photos",
+    "NKYCC unextractable planner PDF and unknown construction/door/toilet details",
+    "TQL Sightline fresh 404; wheelchair/companion seating and family-toilet imagery unresolved",
+    "Newport Pavilion brochure 403 and former property-company page 404",
+    "CVG interactive walkthrough unavailable",
+    "Unselected existing manual holds retained"
+  ],
+  "scope": {
+    "git_writes": 0,
+    "production_deployments": 0,
+    "previews_created": 0,
+    "messages_sent": 0,
+    "private_correspondence_read": 0,
+    "database_changes": 0,
+    "scheduler_or_hosting_changes": 0
+  },
+  "reviewed_files_sha256": {
+    "docs/HANDOFF-2026-11-10.md": "050085d01564b4d773a693cd6121adade9fddb29ba9905583770a08626e74cdc",
+    "docs/research/coverage-queue.md": "9779d83cdce6f2420e33220a0fd300c14a6707f204da7a44048bdc4cc8910863",
+    "e2e/accessibility.spec.ts": "2e05a1dcfdd58a1ac9aff89a6d073abf9849275ebfc6d9192fa1ea8b0eab0780",
+    "pipeline/evidence/quotes.json": "0357f2245c16c9a352da545003d34c939255a5fd7367d92c92d8ff7b7f8211ed",
+    "pipeline/source-checks/2026-11-12.json": "9984344ddb428f9bde5f3060e10350ae6e090651916ad9e18512e09e2362696c",
+    "src/__tests__/venue-expansion.test.ts": "040168cca3fa281ff7772c73db816add5af226a9ac30b15e8c1e628d2ed0d93a",
+    "src/data/access-guides.json": "5a1dec9139e9fcf1641acd20edee5315c692eaa404eda180b26f0b5ef1344688",
+    "src/data/access-photos.json": "27c6680297ed02398f80d2f8cf092b7664d5a4e15eee1f52998b1cd76239959d",
+    "src/data/places.json": "a669fb21469d2127705e864040b47a9cb66e6ad2cfe92f9dbe656b2784442fed",
+    "docs/research/nky-arrival-stadium-2026-11-12-depth.json": "b1f53f6e282bbdfba3363a77d5646469e9acc9e3d5ec169dc03065fe5a7332bd",
+    "docs/research/nky-arrival-stadium-2026-11-12-evidence.json": "d71d377065316a9ceda63db6ad23ccd3d886d6cf4779a38a51906dc8b42e6bd0",
+    "docs/research/nky-arrival-stadium-2026-11-12-evidence.verified.json": "45bd82edc8367a821ca6c8bd629d5aced06fd83a472ccd5559f55fd9d0e036b2",
+    "docs/research/nky-arrival-stadium-2026-11-12-media.json": "308e67b917c25ac8dac8e516bc5b9aebffc934b8593960f3570a03a873c5f9d6",
+    "docs/research/nky-arrival-stadium-2026-11-12-new-evidence.json": "234574c386f7da185c387ee1a7a9bd24840b61720b34d4423bb2e2b9e0cc9b4f",
+    "docs/research/nky-arrival-stadium-2026-11-12-new-evidence.verified.json": "4f1fdf3edab95909ffecade98987f4d4dc13000d1d87f2c08c94e04b7f92c3dc",
+    "docs/research/nky-arrival-stadium-2026-11-12-new-places.json": "0c0fb9e855641d6fa2bcabf3e8d7c0f392960782e3f7e8c99bed49575ca9ec12",
+    "docs/research/nky-arrival-stadium-2026-11-12-recheck.json": "0ec4ea333859792dcc38343fce40d10ce577ec08b00ff4ca006309cc6a36d212",
+    "docs/research/nky-arrival-stadium-2026-11-12-revisions.json": "83b1d9eeb5d3be1e1e73a5374d36d916cdcc5b58bf656e226395fbeafa0114c0",
+    "docs/research/nky-arrival-stadium-2026-11-12.md": "a7cbd98f2caa6ca551e5a628055731c9b657de60ddad1a000a8dee0eba3bc1e7",
+    "public/images/access/dinsmore-outbuilding-doorway-ground-2023.webp": "6c29bd6c2dcd780bd9af439a0092bba41ee1632fcbb8b4bae42d5474031b738e",
+    "public/images/access/nky-convention-center-entrance-steps-2026.webp": "3be2d84ae9149857ade8f6af0e03ddc9a216e903e60dd00a27e4ec381eace1dc",
+    "public/images/access/tql-first-financial-gate-stairs-2023.webp": "fc59d63abe9f6083de18043d7b6d72718fb1c1c84879c7374257a9aea223081a"
+  }
+}
