@@ -1,0 +1,106 @@
+[
+  {
+    "url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+    "file": "source-0",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://heritagevillagecincinnati.org/frequently-asked-questions/",
+    "file": "source-1",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://mollymalonesirishpub.com/covington/",
+    "file": "source-2",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://mollymalonesirishpub.com/covington/contact/",
+    "file": "source-3",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://mollymalonesirishpub.com/covington/private-party-menu/",
+    "file": "source-4",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+    "file": "source-5",
+    "status": 200,
+    "final_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+    "last_modified": null,
+    "sha256": "c43e4fb00ae201797a98ec8e292e7661258ff1618afc433136000ae3907f3761",
+    "fingerprint_version": 6,
+    "chars": 12168
+  },
+  {
+    "url": "https://renfestival.com/faq/",
+    "file": "source-6",
+    "status": 200,
+    "final_url": "https://renfestival.com/faq/",
+    "last_modified": null,
+    "sha256": "e78b2ea90f1477da73b652a7e6956878e42a2599ccae523b0e7b97236b680eaa",
+    "fingerprint_version": 6,
+    "chars": 8800
+  },
+  {
+    "url": "https://renfestival.com/service-animal-policy/",
+    "file": "source-7",
+    "status": 200,
+    "final_url": "https://renfestival.com/service-animal-policy/",
+    "last_modified": null,
+    "sha256": "62a9bbf69f05d45be277c55b0b22b342ffc03840125508e4ebbcd7839b106f62",
+    "fingerprint_version": 6,
+    "chars": 3241
+  },
+  {
+    "url": "https://www.amctheatres.com/assistive-moviegoing",
+    "file": "source-8",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://www.amctheatres.com/movie-theatres/cincinnati/amc-newport-on-the-levee-20",
+    "file": "source-9",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://www.amctheatres.com/programs/sensory-friendly-films",
+    "file": "source-10",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://www.imax.com/theatre/amc-newport-levee-20-imax",
+    "file": "source-11",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "url": "https://www.newportonthelevee.com/directions-and-parking/",
+    "file": "source-12",
+    "status": 200,
+    "final_url": "https://www.newportonthelevee.com/directions-and-parking/",
+    "last_modified": "Fri, 13 Nov 2026 22:13:33 GMT",
+    "sha256": "8b3d82167327ae034a1cb371f14464c7f54a1f1a5b35ed5f7804587bb2e2a9fa",
+    "fingerprint_version": 6,
+    "chars": 1232
+  },
+  {
+    "url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
+    "file": "source-13",
+    "status": 200,
+    "final_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
+    "last_modified": "Fri, 13 Nov 2026 22:09:14 GMT",
+    "sha256": "256e37a59e798757c953b81996991e5322447374f7704d6db1ec556eed9734cb",
+    "fingerprint_version": 6,
+    "chars": 608
+  }
+]

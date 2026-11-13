@@ -11,6 +11,15 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Edmondson Road groceries without assuming branch curbside or personal assistance", () => {
+    const slug = "whole-foods-market-cincinnati";
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("2693 Edmondson Road, Cincinnati, OH 45209-1910");
+    expect(text(slug)).toContain("some stores require indoor collection");
+    expect(text(slug)).toContain("a curbside bay at Edmondson Road has not been verified");
+    expect(place(slug).limitations).toContain("not personal assistance or indoor carrying");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Florence grocery collection without extending car-loading help to personal assistance", () => {
     const slug = "gordon-food-service-florence";
     expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
@@ -656,7 +665,12 @@ describe("November source-backed venue expansion", () => {
       expect(p.limitations).toMatch(/no on-site audit/i);
       for (const f of p.facts) {
         expect(f.source_url).toMatch(/^https:/);
-        expect(f.review_status).toBe("source_checked");
+        // A later failed source fetch must be allowed to flag an older guide.
+        // Flagging retains its provenance; it must not masquerade as a recheck.
+        expect(["source_checked", "needs_recheck"]).toContain(f.review_status);
+        if (f.review_status === "needs_recheck") {
+          expect(f.history.at(-1)?.action).toBe("flagged");
+        }
         expect(f.observed_at).toBeNull();
         // Guides were added on November 8; later notes may be read on later dates.
         expect(f.retrieved_at >= "2026-11-08").toBe(true);

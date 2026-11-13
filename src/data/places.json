@@ -1534,7 +1534,7 @@
     "address": "7425 U.S. 42, Florence, KY 41042",
     "website": "https://www.bcpl.org/locations/florence",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -1543,7 +1543,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-florence-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1560,6 +1560,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -1571,7 +1576,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-florence-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1590,6 +1595,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -1599,7 +1609,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-florence-branch.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1613,6 +1623,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -1622,7 +1637,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-florence-branch.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1636,11 +1651,52 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For curbside holds, place requests through the library website or app and wait for notice that they are ready. Park in a designated space, call 859-342-BOOK and select this branch; staff bring checked-out items to the vehicle. Bring your library card.",
+        "source_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "id": "boone-county-public-library-florence-branch.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The library’s June 2026 article described “accessible computer stations” at Florence as forthcoming. Their installation and specific features are not confirmed; ask before relying on them.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-florence-branch.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
+    "limitations": "Public library website/blog reporting; no on-site audit. Curbside procedures come from the February 2025 article and branch availability is corroborated by the June 2026 access article. Equipment availability may vary. Entrance thresholds, door controls, route measurements, toilet/changing details and personal assistance remain unverified for this branch. “Accessible computer stations” were described as forthcoming in June 2026, not confirmed installed.",
     "slug": "boone-county-public-library-florence-branch",
     "observed_at": null
   },
@@ -1816,7 +1872,7 @@
     "address": "1786 Burlington Pike, Burlington, KY 41005",
     "website": "https://www.bcpl.org/locations/main",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -1825,7 +1881,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-main-library.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1842,6 +1898,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -1853,7 +1914,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-main-library.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1870,6 +1931,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -1881,7 +1947,7 @@
         "source_url": "https://www.bcpl.org/sensory-room",
         "id": "boone-county-public-library-main-library.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1898,6 +1964,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -1909,7 +1980,7 @@
         "source_url": "https://www.bcpl.org/sensory-room",
         "id": "boone-county-public-library-main-library.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1928,6 +1999,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -1937,7 +2013,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-main-library.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1951,6 +2027,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -1960,7 +2041,7 @@
         "source_url": "https://www.bcpl.org/sensory-room",
         "id": "boone-county-public-library-main-library.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1969,6 +2050,11 @@
             "date": "2026-11-10",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -1978,7 +2064,7 @@
         "source_url": "https://www.bcpl.org/sensory-room",
         "id": "boone-county-public-library-main-library.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1987,6 +2073,11 @@
             "date": "2026-11-10",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -1996,7 +2087,7 @@
         "source_url": "https://www.bcpl.org/sensory-room",
         "id": "boone-county-public-library-main-library.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2005,11 +2096,106 @@
             "date": "2026-11-10",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For curbside holds, place requests through the library website or app and wait for notice that they are ready. Park in a designated space, call 859-342-BOOK and select this branch; staff bring checked-out items to the vehicle. Bring your library card.",
+        "source_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "id": "boone-county-public-library-main-library.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Sensory-room requests are first come, first served, in person on the day of use. The policy allows 30-minute slots followed by 15 minutes for cleaning; this is not an advance online reservation service. Library-sponsored activities take priority.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+        "id": "boone-county-public-library-main-library.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The sensory room is not continuously monitored by staff. Children under 12 need a parent or guardian; guests whose disabilities affect decision-making or make supervision necessary must have a parent or caregiver throughout.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+        "id": "boone-county-public-library-main-library.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Food and drinks are prohibited in the sensory room except for dietary or medical needs. Professional therapy requires library approval.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+        "id": "boone-county-public-library-main-library.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Sensory-room use ends one hour before the library closes. Check the room’s posted schedule and holiday closures when planning a visit.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+        "id": "boone-county-public-library-main-library.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
+    "limitations": "Public library website/blog reporting; no on-site audit. Curbside procedures come from the February 2025 article and branch availability is corroborated by the June 2026 access article. Equipment availability may vary. Entrance thresholds, door controls, route measurements, toilet/changing details and personal assistance remain unverified for this branch. Sensory-room rules come from the currently linked policy approved in March 2023; the room is on the second floor, but its detailed elevator route is not documented here. Library activities take priority over public room use.",
     "slug": "boone-county-public-library-main-library",
     "observed_at": null
   },
@@ -17465,12 +17651,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -17483,12 +17674,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -17501,12 +17697,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -17519,12 +17720,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       }
@@ -18087,7 +18293,7 @@
         "source_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
         "id": "amc-newport-on-the-levee-20.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18099,6 +18305,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -18113,12 +18324,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -18131,12 +18347,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -18146,7 +18367,7 @@
         "source_url": "https://www.newportonthelevee.com/directions-and-parking/",
         "id": "amc-newport-on-the-levee-20.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18158,6 +18379,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -18172,12 +18398,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -18190,12 +18421,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -18208,12 +18444,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -18226,12 +18467,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       }
@@ -21652,8 +21898,8 @@
     "address": "25 Race Street, Cincinnati, OH 45202",
     "website": "https://bradymusiccenter.com/",
     "source_url": "https://bradymusiccenter.com/accessibility",
-    "limitations": "Public website information; no on-site audit. Accessible restroom locations, assistive listening, drop-off points and quiet spaces are not described. Confirm with the venue before your visit.",
-    "checked_at": "2026-11-10",
+    "limitations": "Public website information; no on-site audit. The FAQ still reports the nearest garage elevator out of service on November 13, 2026, and its two garage-elevator answers describe locations differently. Confirm the working garage-to-entrance route. The gender-neutral restroom location does not establish an accessible stall, dimensions or adult changing equipment. Assistive listening, personal assistance, drop-off arrangements and quiet spaces remain unverified.",
+    "checked_at": "2026-11-13",
     "slug": "andrew-j-brady-music-center",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -21664,7 +21910,7 @@
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21678,6 +21924,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine whole-clause recheck; fresh source still supports this note."
           }
         ]
       },
@@ -21687,7 +21938,7 @@
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21701,6 +21952,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine whole-clause recheck; fresh source still supports this note."
           }
         ]
       },
@@ -21710,7 +21966,7 @@
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21724,16 +21980,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine whole-clause recheck; fresh source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "From the Central Riverfront Garage, the FAQ names elevators at Race Street, Freedom Way and Ted Berry Way. Of the music center's three entrances, the Mehring Way entrance is reached by steps. The outdoor ICON Festival Stage has one main entrance, the Carousel Entrance on Ted Berry Way.",
+        "text": "The FAQ describes three indoor entrances: Race Street, the Tunnel Entrance under the Race Street turnaround, and steps from Mehring Way. The outdoor stage uses the Carousel Entrance on Ted Berry Way.",
         "source_url": "https://bradymusiccenter.com/venue-info/faq",
         "id": "andrew-j-brady-music-center.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21752,6 +22013,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Re-read every clause against current official sources; retain elevator-direction conflict and current outage warning."
           }
         ]
       },
@@ -21761,7 +22027,7 @@
         "source_url": "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items",
         "id": "andrew-j-brady-music-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21775,16 +22041,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine whole-clause recheck; fresh source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "As of November 9, 2026, the venue's FAQ says the garage elevator closest to the venue is out of service and points to other elevators.",
+        "text": "On November 13, 2026, the FAQ still warns that the garage elevator closest to the venue is out of service. One answer directs visitors to Rosa Parks Street/Ted Berry Way and Freedom Way/Race Street; another names Race Street, Freedom Way and Ted Berry Way separately. Confirm a working route before travel.",
         "source_url": "https://bradymusiccenter.com/venue-info/faq",
         "id": "andrew-j-brady-music-center.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21798,16 +22069,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Re-read every clause against current official sources; retain elevator-direction conflict and current outage warning."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Buying ADA-section tickets confirms that you or someone in your party needs reserved seating because of mobility or standing difficulties.",
+        "text": "Buying ADA-section tickets confirms that someone in the party needs reserved seating because of mobility or standing difficulties. The venue may ask guests in that section to remain seated throughout the event.",
         "source_url": "https://bradymusiccenter.com/accessibility",
         "id": "andrew-j-brady-music-center.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21821,6 +22097,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Re-read every clause against current official sources; retain elevator-direction conflict and current outage warning."
           }
         ]
       },
@@ -21830,7 +22111,7 @@
         "source_url": "https://bradymusiccenter.com/venue-info/faq",
         "id": "andrew-j-brady-music-center.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21849,6 +22130,11 @@
             "date": "2026-11-10",
             "action": "revised",
             "note": "Routine recheck: preserved the FAQ qualifier that medically necessary bags are a possible exception to the clear-bag policy, rather than unconditional permission. The separate rules page uses broader permission language; confirm arrangements with the venue."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine whole-clause recheck; fresh source still supports this note."
           }
         ]
       },
@@ -21858,7 +22144,7 @@
         "source_url": "https://bradymusiccenter.com/venue-info/faq",
         "id": "andrew-j-brady-music-center.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -21872,6 +22158,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine whole-clause recheck; fresh source still supports this note."
           }
         ]
       }
@@ -25248,12 +25539,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -25266,12 +25562,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -25284,12 +25585,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -25302,12 +25608,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -25320,12 +25631,17 @@
         "retrieved_at": "2026-11-08",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -25338,12 +25654,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -25356,12 +25677,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       },
@@ -25374,12 +25700,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Fresh evidence-helper fetch returned HTTP 403. Retained as unresolved; no successful source recheck or current-condition confirmation. Manual review is required."
           }
         ]
       }
@@ -25735,19 +26066,19 @@
     "address": "10542 Ohio 73, Waynesville, OH 45068",
     "website": "https://renfestival.com",
     "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
-    "limitations": "Public website information; no on-site audit. The accessibility guide on the festival's site is written by an author who works with the festival. Wheelchair loans, accessible stage seating and quiet areas are not described.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. The access guide is dated October 14, 2026 and written by an author who works with the festival. Its photos and operational details do not confirm 2027 arrangements or other events at Renaissance Park. The current schedule advertises the 2027 season; the premium-joust offer is undated and embeds a 2022 video. Confirm scooter supply, show interpretation, premium wheelchair/companion positions, toilets and personal assistance before travel. Gravel, grass, hills and wet weather can affect routes; dimensions, adult-changing equipment and quiet-room provision remain unknown.",
+    "checked_at": "2026-11-13",
     "slug": "ohio-renaissance-festival",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Pathways are gravel, and the festival says to expect rough terrain. It is not renting mobility scooters at this time.",
+        "text": "The FAQ warns of rough gravel paths. It says the scooter-rental vendor left during the 2026 season and no replacement is confirmed; do not assume rentals for a future visit.",
         "source_url": "https://renfestival.com/faq/",
         "id": "ohio-renaissance-festival.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25761,16 +26092,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retain rough-terrain warning and date the vendor loss to 2026 instead of implying a confirmed future-season arrangement."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Accessible parking is the first few rows nearest the front gate. The three archway entrances have no turnstiles or steps.",
+        "text": "The October 2026 guide places designated parking near the front gate; tell an attendant you have a valid permit. It describes three archways without steps or turnstiles; only one or two may be open, depending on crowds and time.",
         "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
         "id": "ohio-renaissance-festival.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25779,16 +26115,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attribute the historical guide and restore the gate-opening condition."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Every restroom location has an accessible stall; a few restrooms sit on raised platforms with a ramp. Most food counters are at standing chest height. There are two first aid stations, one just inside the front gate.",
+        "text": "The October 2026 guide reports an adapted stall at each restroom location and ramps to some raised restroom platforms. Stall dimensions and adult-changing equipment remain unverified.",
         "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
         "id": "ohio-renaissance-festival.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25797,16 +26138,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Keep toilet evidence specific and attributed; relocate food-counter and first-aid clauses into separate notes with complete support."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "The festival's guide lists loud moments, including a real cannon fired at the front gate at 10:30 a.m. and stunt gunfire at the Shipwreck Stage pirate show.",
+        "text": "The October 2026 guide warns of the 10:30 a.m. entrance cannon and stunt gunfire at the Shipwreck Stage. These are historical guide timings; check the visit-day schedule.",
         "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
         "id": "ohio-renaissance-festival.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25815,16 +26161,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Date performance timings rather than treating a 2026 guide as a confirmed future schedule."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "You can leave and return the same day; get a hand stamp on the way out. Both first aid stations also hand out water.",
+        "text": "The October 2026 guide describes same-day re-entry with a hand stamp obtained when leaving. It also says water is available at both first aid stations.",
         "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
         "id": "ohio-renaissance-festival.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25833,16 +26184,26 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Whole-clause review preserves historical guide scope, conditional ramp availability and the distinction between staff obligations and assistance actually provided."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The steepest hills are between Market Square and Minstrel's Grove (cresting at the Swordsmen's Stage) and in Upson Downs. Some vendor booths have temporary ramps they will put down when asked.",
+        "text": "The October 2026 guide identifies a steep hill between Market Square and Minstrel’s Grove, cresting at the Swordsmen’s Stage, and another in Upson Downs. Some booths may have temporary ramps to lay down on request; availability is not assured.",
         "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
         "id": "ohio-renaissance-festival.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25851,16 +26212,26 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Whole-clause review preserves historical guide scope, conditional ramp availability and the distinction between staff obligations and assistance actually provided."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "ASL interpretation is offered for all shows on one weekend a year.",
-        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "text": "The current themed-weekend page advertises ASL interpreters for Fantasy Weekend, September 11–12, 2027. Confirm interpretation for the specific show before booking; this listing does not promise it every weekend.",
+        "source_url": "https://renfestival.com/the-event/themed-weekends/",
         "id": "ohio-renaissance-festival.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25869,6 +26240,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replace undated annual-all-shows summary with the currently advertised 2027 weekend; do not extend the scope of the new source."
           }
         ]
       },
@@ -25878,13 +26254,203 @@
         "source_url": "https://renfestival.com/service-animal-policy/",
         "id": "ohio-renaissance-festival.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The October 2026 guide warns of grass parking, roadside drainage ditches, variable gravel and wet-weather mud or standing water. These conditions may affect routes differently each day.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The October 2026 guide describes mostly standing-height food counters, some open containers and no trays. Carrying assistance is not established.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The October 2026 guide places first aid just inside the gate and in Whimsy Woods beside Gryphon’s Nest. If unable to reach a station, ask official polo-shirted staff or at a pub.",
+        "source_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+        "id": "ohio-renaissance-festival.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ advertises the 2027 festival on Saturdays, Sundays and Labor Day, September 4–October 31, 10:30 a.m.–7 p.m. This is a future seasonal schedule, not year-round festival opening.",
+        "source_url": "https://renfestival.com/faq/",
+        "id": "ohio-renaissance-festival.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Mobile reception may be weak and public Wi-Fi is not offered. The FAQ recommends printing or saving a screenshot of tickets before arrival.",
+        "source_url": "https://renfestival.com/faq/",
+        "id": "ohio-renaissance-festival.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ prohibits outside food and drink without describing a medical exception. Confirm necessary food or supplies directly before visiting.",
+        "source_url": "https://renfestival.com/faq/",
+        "id": "ohio-renaissance-festival.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ says severe weather can rarely close the festival; announcements appear on the homepage and social media. Performances may change for safety even when the grounds remain open.",
+        "source_url": "https://renfestival.com/faq/",
+        "id": "ohio-renaissance-festival.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Under the festival’s service-animal policy, staff are not required to provide animal care or supervision. Harnesses, leashes or tethers are required unless disability or task performance prevents their use; the handler must maintain effective control.",
+        "source_url": "https://renfestival.com/service-animal-policy/",
+        "id": "ohio-renaissance-festival.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Whole-clause review preserves historical guide scope, conditional ramp availability and the distinction between staff obligations and assistance actually provided."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The premium-joust page describes covered, cushioned seating and calls that area accessible, without specifying wheelchair spaces, transfers or companion positions. Ask about the actual seating arrangement.",
+        "source_url": "https://renfestival.com/jousting/",
+        "id": "ohio-renaissance-festival.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The premium-joust page lists $10 per person and purchase at the joust field, recommending early purchase before seats are reserved. Its video references 2022 and the offer has no stated season; confirm current price and availability.",
+        "source_url": "https://renfestival.com/jousting/",
+        "id": "ohio-renaissance-festival.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -38285,6 +38851,166 @@
         "text": "The in-store pickup FAQ says orders are usually held for 24 hours after the scheduled collection date if safe to do so. Orders containing fresh items are available only on the selected date; arrange collection accordingly.",
         "source_url": "https://www.gfsstore.com/in-store-pickup/",
         "id": "gordon-food-service-florence.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Whole Foods Market — Cincinnati",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "2693 Edmondson Road, Cincinnati, OH 45209-1910",
+    "website": "https://www.wholefoodsmarket.com/stores/cincinnati",
+    "source_url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+    "limitations": "Public website information; no on-site audit. Branch pickup, café seating and parcel-counter services are published; the chain guide does not establish this branch’s curbside collection method. Confirm the order instructions and Prime eligibility. Entrance thresholds, door controls, parking-to-door route, in-store aisles, restrooms, changing facilities and mobility equipment remain unknown. Trunk loading, where offered, is not personal assistance or indoor carrying. The store page’s image is a logo, not a documentary branch photograph.",
+    "checked_at": "2026-11-13",
+    "slug": "whole-foods-market-cincinnati",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Cincinnati branch lists grocery delivery and pickup through Amazon for Prime members. Confirm the available collection method for this store when ordering.",
+        "source_url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+        "id": "whole-foods-market-cincinnati.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The branch lists café seating. Seat heights, backrests, clearances and wheelchair table positions are not described.",
+        "source_url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+        "id": "whole-foods-market-cincinnati.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The branch lists an Amazon Counter for assisted package pickup and returns. That service description does not establish assistance with personal care or moving around the store.",
+        "source_url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+        "id": "whole-foods-market-cincinnati.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For grocery pickup, the chain guide says to select the store and a one-hour window, await the ready notification, then check in through the confirmation email or Amazon app before arrival.",
+        "source_url": "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "id": "whole-foods-market-cincinnati.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The chain guide describes trunk loading for curbside orders, but warns that some stores require indoor collection. Follow this order’s instructions; a curbside bay at Edmondson Road has not been verified.",
+        "source_url": "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "id": "whole-foods-market-cincinnati.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The chain guide says missed-window orders are held until store close; check in through the app or confirmation email when heading over.",
+        "source_url": "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "id": "whole-foods-market-cincinnati.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The chain offers a checkout option to leave deliveries at the doorstep; orders containing alcohol cannot use it. This does not promise indoor carrying or unpacking.",
+        "source_url": "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "id": "whole-foods-market-cincinnati.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Whole Foods Market’s store policy welcomes service animals and excludes them from its no-pets rule.",
+        "source_url": "https://www.wholefoodsmarket.com/customer-service/topics/stores",
+        "id": "whole-foods-market-cincinnati.chronic.2",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,

@@ -1,0 +1,37 @@
+{
+  "ohio-renaissance-festival.mobility.1": {
+    "text": "The FAQ warns of rough gravel paths. It says the scooter-rental vendor left during the 2026 season and no replacement is confirmed; do not assume rentals for a future visit.",
+    "quote": [
+      "However, our pathways are gravel so please expect rough terrain. We are not renting mobility scooters at this time.",
+      "The festival had a 3rd-party scooter rental service operating for part of the 2026 season. However, we no longer have this vendor. The festival is working to find a solution, but please be aware of this update."
+    ],
+    "reason": "Retain rough-terrain warning and date the vendor loss to 2026 instead of implying a confirmed future-season arrangement."
+  },
+  "ohio-renaissance-festival.mobility.2": {
+    "text": "The October 2026 guide places designated parking near the front gate. It describes three archways without steps or turnstiles; only one or two may be open, depending on crowds and time.",
+    "quote": [
+      "The handicapped parking area is the first few rows nearest the front gate.",
+      "The front gate has three main entrances. All three may be open, or there may only be one or two open depending on the crowd size and time of day. All three archway entrances into the festival are the same and do not have turnstiles or steps up/down."
+    ],
+    "reason": "Attribute the historical guide and restore the gate-opening condition."
+  },
+  "ohio-renaissance-festival.chronic.1": {
+    "text": "The October 2026 guide reports an adapted stall at each restroom location and ramps to some raised restroom platforms. Stall dimensions and adult-changing equipment remain unverified.",
+    "quote": "All restroom locations have a handicapped stall(s). A few of our restrooms sit on an elevated platform and have a ramp for access.",
+    "reason": "Keep toilet evidence specific and attributed; relocate food-counter and first-aid clauses into separate notes with complete support."
+  },
+  "ohio-renaissance-festival.sensory.1": {
+    "text": "The October 2026 guide warns of the 10:30 a.m. entrance cannon and stunt gunfire at the Shipwreck Stage. These are historical guide timings; check the visit-day schedule.",
+    "quote": [
+      "10:30 am Front Gate | Opening Cannon: A real cannon is fired.",
+      "10:30 am, 3:30 pm Shipwreck Stage | Pirate Stunt Show: This show has stunt gun fire."
+    ],
+    "reason": "Date performance timings rather than treating a 2026 guide as a confirmed future schedule."
+  },
+  "ohio-renaissance-festival.sensory.2": {
+    "text": "The current themed-weekend page advertises ASL interpreters for Fantasy Weekend, September 11–12, 2027. Confirm interpretation for the specific show before booking; this listing does not promise it every weekend.",
+    "source_url": "https://renfestival.com/the-event/themed-weekends/",
+    "quote": "Fantasy Weekend September 11 – 12, 2027 Fantasy Weekend September 11 – 12, 2027 10:30 am — 7:00 pm All things fantastical come to life this weekend! Join the Witches of Willy Nilly and the fairies as they enchant the village. ASL interpreters available this weekend",
+    "reason": "Replace undated annual-all-shows summary with the currently advertised 2027 weekend; do not extend the scope of the new source."
+  }
+}

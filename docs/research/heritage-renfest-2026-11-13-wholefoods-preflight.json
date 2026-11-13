@@ -1,0 +1,38 @@
+[
+  {
+    "key": "wf-pickup-canonical",
+    "url": "https://www.wholefoodsmarket.com/fmc/m/20190079/",
+    "status": 404,
+    "error": "Not Found"
+  },
+  {
+    "key": "wf-pickup-brand",
+    "url": "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+    "status": 200,
+    "final_url": "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+    "last_modified": null,
+    "sha256": "5aba9126a3116b5d499fac912af9fd2aac9535854d01e76aa2e3283ff24ec564",
+    "fingerprint_version": 6,
+    "chars": 8759
+  },
+  {
+    "key": "wf-service",
+    "url": "https://www.wholefoodsmarket.com/customer-service/topics/grocery-delivery-and-pickup",
+    "status": 200,
+    "final_url": "https://www.wholefoodsmarket.com/customer-service/topics/grocery-delivery-and-pickup",
+    "last_modified": null,
+    "sha256": "0fdb459bab0201a491a28eb5b127f851a279b7337235c7c04a1067476b422789",
+    "fingerprint_version": 6,
+    "chars": 2144
+  },
+  {
+    "key": "wf-stores",
+    "url": "https://www.wholefoodsmarket.com/customer-service/topics/stores",
+    "status": 200,
+    "final_url": "https://www.wholefoodsmarket.com/customer-service/topics/stores",
+    "last_modified": null,
+    "sha256": "da0475453a50e7b9073f6e252ed57ddbb9d2ad9203ad73a033875350fe54657e",
+    "fingerprint_version": 6,
+    "chars": 1316
+  }
+]

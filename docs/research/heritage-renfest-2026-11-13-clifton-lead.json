@@ -1,0 +1,14 @@
+{
+  "status": "held_not_imported",
+  "sources": [
+    {
+      "status": 404,
+      "error": "Not Found"
+    },
+    {
+      "status": 403,
+      "error": "Forbidden"
+    }
+  ],
+  "reason": "Historical 2017 pickup/delivery reporting and third-party directories are not current local-access evidence. Confirm current operator service procedures, operating status and entrance views before any listing."
+}

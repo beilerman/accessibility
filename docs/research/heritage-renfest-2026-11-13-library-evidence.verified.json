@@ -1,0 +1,130 @@
+[
+ {
+  "slug": "boone-county-public-library-florence-branch",
+  "facts": [
+   {
+    "claim": "A wheelchair may be borrowed after signing a waiver at the front desk.",
+    "url": "https://bcplundiscovered.org/accessibilityoptions/",
+    "quote": [
+     "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+     "Stop by the front desk to sign a waiver and borrow a wheelchair."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3"
+   },
+   {
+    "claim": "The library's locations page lists all branches as smoke-free.",
+    "url": "https://www.bcpl.org/locations",
+    "quote": "Each library location is smoke-free",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42"
+   },
+   {
+    "claim": "The library says accessible parking is available at every location. This branch offers curbside pick-up.",
+    "url": "https://bcplundiscovered.org/accessibilityoptions/",
+    "quote": [
+     "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton.",
+     "If you prefer to come inside and browse, accessible parking is available at every location."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3"
+   },
+   {
+    "claim": "The library welcomes a phone call in advance to discuss other accommodations. Every branch has translation devices for talking with patrons who don't speak English.",
+    "url": "https://bcplundiscovered.org/accessibilityoptions/",
+    "quote": [
+     "Every branch also has translation devices to improve communication with non-English-speaking patrons.",
+     "And of course, a phone call in advance to discuss additional accommodations is always welcome."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3"
+   }
+  ]
+ },
+ {
+  "slug": "boone-county-public-library-main-library",
+  "facts": [
+   {
+    "claim": "A wheelchair may be borrowed after signing a waiver at the front desk.",
+    "url": "https://bcplundiscovered.org/accessibilityoptions/",
+    "quote": [
+     "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+     "Stop by the front desk to sign a waiver and borrow a wheelchair."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3"
+   },
+   {
+    "claim": "The library's locations page lists all branches as smoke-free.",
+    "url": "https://www.bcpl.org/locations",
+    "quote": "Each library location is smoke-free",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42"
+   },
+   {
+    "claim": "A second-floor sensory room offers calming activities and equipment, for up to five people or one family, in 30-minute sessions. Ask staff to sign in.",
+    "url": "https://www.bcpl.org/sensory-room",
+    "quote": [
+     "Our specially-designed Sensory Room, located on the 2nd floor of Main Library , offers calming activities, tactile manipulatives, therapeutic equipment, and more.",
+     "It accommodates up to five people (or one family) at a time and may be reserved for 30 minutes.",
+     "Ask staff at the desk to sign you into the Sensory Room."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6b4f9163da1e178a136eba817ce970522d6a325812d67e39f609ccbfb8d84053"
+   },
+   {
+    "claim": "A social narrative is linked to help prepare for the sensory room.",
+    "url": "https://www.bcpl.org/sensory-room",
+    "quote": "Review our Sensory Room Social Narrative and Sensory Room Policy before your visit.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6b4f9163da1e178a136eba817ce970522d6a325812d67e39f609ccbfb8d84053"
+   },
+   {
+    "claim": "The library says accessible parking is available at every location. This branch offers curbside pick-up.",
+    "url": "https://bcplundiscovered.org/accessibilityoptions/",
+    "quote": [
+     "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton.",
+     "If you prefer to come inside and browse, accessible parking is available at every location."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3"
+   },
+   {
+    "claim": "The sensory room is locked between uses. Ask desk staff to sign you in and unlock it, and tell staff when you finish so they can sign you out.",
+    "url": "https://www.bcpl.org/sensory-room",
+    "quote": [
+     "Ask staff at the desk to sign you into the Sensory Room. (It remains locked when not in use.)",
+     "When done, tell staff at the desk to sign you out."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6b4f9163da1e178a136eba817ce970522d6a325812d67e39f609ccbfb8d84053"
+   },
+   {
+    "claim": "The sensory room’s activity wall has three panels with tactile, visual and sound features.",
+    "url": "https://www.bcpl.org/sensory-room",
+    "quote": "Activity Wall These three panels offer tactile, visual and sound sensations.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6b4f9163da1e178a136eba817ce970522d6a325812d67e39f609ccbfb8d84053"
+   },
+   {
+    "claim": "In the sensory room’s bubble-tube corner, coloured spots on the platform change the tube’s colour and start or stop its bubbles when pressed.",
+    "url": "https://www.bcpl.org/sensory-room",
+    "quote": "Interactive Bubble Tube Corner The platform is adorned with colored spots which, when pressed, change the color of the bubble tube and stop and start the bubbles inside.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6b4f9163da1e178a136eba817ce970522d6a325812d67e39f609ccbfb8d84053"
+   }
+  ]
+ }
+]

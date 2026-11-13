@@ -1,0 +1,152 @@
+{
+  "places": 160,
+  "active_notes": 1749,
+  "retired_notes": 1,
+  "quoted_notes": 1729,
+  "missing_notes": [
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.sensory.1",
+    "molly-malones-covington.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.chronic.1",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.sensory.1",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.2"
+  ],
+  "new_notes_by_venue": {
+    "boone-county-public-library-florence-branch": 2,
+    "boone-county-public-library-main-library": 5,
+    "ohio-renaissance-festival": 10,
+    "whole-foods-market-cincinnati": 8
+  },
+  "revised_old_ids": [
+    "andrew-j-brady-music-center.mobility.2",
+    "andrew-j-brady-music-center.mobility.3",
+    "andrew-j-brady-music-center.mobility.4",
+    "ohio-renaissance-festival.mobility.1",
+    "ohio-renaissance-festival.mobility.2",
+    "ohio-renaissance-festival.chronic.1",
+    "ohio-renaissance-festival.sensory.1",
+    "ohio-renaissance-festival.chronic.2",
+    "ohio-renaissance-festival.mobility.3",
+    "ohio-renaissance-festival.sensory.2"
+  ],
+  "newly_flagged_ids": [
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.sensory.1",
+    "molly-malones-covington.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.chronic.1",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.sensory.1",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.2"
+  ],
+  "supported_old_ids": [
+    "boone-county-public-library-florence-branch.mobility.1",
+    "boone-county-public-library-florence-branch.chronic.1",
+    "boone-county-public-library-florence-branch.mobility.2",
+    "boone-county-public-library-florence-branch.cognitive.1",
+    "boone-county-public-library-main-library.mobility.1",
+    "boone-county-public-library-main-library.chronic.1",
+    "boone-county-public-library-main-library.sensory.1",
+    "boone-county-public-library-main-library.cognitive.1",
+    "boone-county-public-library-main-library.mobility.2",
+    "boone-county-public-library-main-library.cognitive.2",
+    "boone-county-public-library-main-library.sensory.2",
+    "boone-county-public-library-main-library.sensory.3",
+    "amc-newport-on-the-levee-20.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.2",
+    "andrew-j-brady-music-center.mobility.1",
+    "andrew-j-brady-music-center.cognitive.1",
+    "andrew-j-brady-music-center.sensory.1",
+    "andrew-j-brady-music-center.mobility.2",
+    "andrew-j-brady-music-center.chronic.1",
+    "andrew-j-brady-music-center.mobility.3",
+    "andrew-j-brady-music-center.mobility.4",
+    "andrew-j-brady-music-center.chronic.2",
+    "andrew-j-brady-music-center.chronic.3",
+    "ohio-renaissance-festival.mobility.1",
+    "ohio-renaissance-festival.mobility.2",
+    "ohio-renaissance-festival.chronic.1",
+    "ohio-renaissance-festival.sensory.1",
+    "ohio-renaissance-festival.chronic.2",
+    "ohio-renaissance-festival.mobility.3",
+    "ohio-renaissance-festival.sensory.2",
+    "ohio-renaissance-festival.cognitive.1"
+  ],
+  "backfilled_missing_ids": [
+    "ohio-renaissance-festival.mobility.2",
+    "ohio-renaissance-festival.chronic.1",
+    "ohio-renaissance-festival.sensory.1",
+    "ohio-renaissance-festival.chronic.2",
+    "ohio-renaissance-festival.mobility.3",
+    "ohio-renaissance-festival.sensory.2",
+    "ohio-renaissance-festival.cognitive.1"
+  ],
+  "changed_existing_places": [
+    [
+      "boone-county-public-library-florence-branch",
+      "2026-11-10",
+      "2026-11-13"
+    ],
+    [
+      "boone-county-public-library-main-library",
+      "2026-11-10",
+      "2026-11-13"
+    ],
+    [
+      "molly-malones-covington",
+      "2026-11-08",
+      "2026-11-08"
+    ],
+    [
+      "amc-newport-on-the-levee-20",
+      "2026-11-09",
+      "2026-11-09"
+    ],
+    [
+      "andrew-j-brady-music-center",
+      "2026-11-10",
+      "2026-11-13"
+    ],
+    [
+      "heritage-village-museum",
+      "2026-11-09",
+      "2026-11-09"
+    ],
+    [
+      "ohio-renaissance-festival",
+      "2026-11-09",
+      "2026-11-13"
+    ]
+  ],
+  "unchanged_existing_places": 152,
+  "original_ids_and_history_prefixes_preserved": true,
+  "retired_notes_preserved": true,
+  "photos": 83,
+  "guides": 74,
+  "unselected_source_baselines_preserved": true,
+  "current_claim_hashes_match": 56
+}

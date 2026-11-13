@@ -1,0 +1,397 @@
+{
+  "checked_at_utc": "2026-11-13T22:44:53.080989+00:00",
+  "media_fetch_user_agent": "ThresholdAccessResearch/1.0 (public source review)",
+  "fresh_guide_link_fetches": [
+    {
+      "url": "https://www.bcpl.org/sites/default/files/2023-07/social-narrative-sensory-room.pdf",
+      "final_url": "https://www.bcpl.org/sites/default/files/2023-07/social-narrative-sensory-room.pdf",
+      "http_status": 200,
+      "bytes": 30472338,
+      "sha256": "fa3fec8bcee816facd70af4a7ca32ef590cb0a35d4ca29cc4692764f5332cac3",
+      "content_type": "application/pdf",
+      "id": "boone-main-sensory-room",
+      "new_link": false
+    },
+    {
+      "url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+      "final_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
+      "http_status": 200,
+      "bytes": 117636,
+      "sha256": "3d57dff3f09aa71caee86432afcae1d6e8fd4cd0facc1e6b0c65cfb10b36640f",
+      "content_type": "text/html; charset=UTF-8",
+      "id": "renfest-vendor-ramp-photo-guide-2026",
+      "new_link": true
+    },
+    {
+      "url": "https://heritagevillagecincinnati.org/wp-content/uploads/2020/02/Summer2019-Newsletter.pdf",
+      "final_url": "https://heritagevillagecincinnati.org/wp-content/uploads/2020/02/Summer2019-Newsletter.pdf",
+      "http_status": 200,
+      "bytes": 2380384,
+      "sha256": "2460c1bf1904d86bd09dfd473e0135c41b171f1497b7d7d7e4525e45fffceaab",
+      "content_type": "application/pdf",
+      "id": "heritage-flatboat-ramp-newsletter-2019",
+      "new_link": true
+    },
+    {
+      "url": "https://heritagevillagecincinnati.org/our-village/",
+      "final_url": "https://heritagevillagecincinnati.org/our-village/",
+      "http_status": 200,
+      "bytes": 365414,
+      "sha256": "c2d94594a53a7d55f20499c5a1f416716c0925d9c6d053a7003b63f167330395",
+      "content_type": "text/html; charset=UTF-8",
+      "id": "heritage-historic-building-photo-gallery",
+      "new_link": true
+    },
+    {
+      "url": "https://www.hinesglobalincometrust.com/properties/rookwood",
+      "final_url": "https://www.hinesglobalincometrust.com/properties/rookwood",
+      "http_status": 200,
+      "bytes": 72237,
+      "sha256": "2be6e2bde169a162fbf6061eb959d3f696c024fc22bfb56bb4ec475a68b80c39",
+      "content_type": "text/html",
+      "id": "wholefoods-cincinnati-property-entrance-photo",
+      "new_link": true
+    },
+    {
+      "url": "https://www.bcpl.org/locations/florence",
+      "final_url": "https://www.bcpl.org/locations/florence",
+      "http_status": 200,
+      "bytes": 52145,
+      "sha256": "c5c57819d79cedc7127a6abfcf3ac7f7de5887d8f84c95615bc50be999d863cd",
+      "content_type": "text/html; charset=utf-8",
+      "id": "bcpl-florence-official-front-approach",
+      "new_link": true
+    },
+    {
+      "id": "brady-official-panoramic-venue-tour",
+      "url": "https://bradymusiccenter.com/venue-info/360-tour",
+      "http_status": 200,
+      "bytes": 22838,
+      "sha256": "6d22487c10193ebb1deb2ad52450f733d5ba1a0fd31a18993a9d53d1ad749c82",
+      "new_link": true
+    },
+    {
+      "id": "bcpl-walton-opening-photo-guide-2024",
+      "url": "https://bcplundiscovered.org/bcpls-new-walton-branch-is-here/",
+      "http_status": 200,
+      "bytes": 158154,
+      "sha256": "c66c8991bd4a1fda9534372c6e44ec683ac4545ff007db161aa70f8af91bfc6b",
+      "new_link": true
+    }
+  ],
+  "new_licensed_photograph": {
+    "catalog": {
+      "id": "renfest-front-gate-celtic-2021",
+      "slug": "ohio-renaissance-festival",
+      "title": "Front-gate arches during Celtic Fest in 2021",
+      "alt": "Three castle-style entrance arches meet a gravel foreground; visitors pass through the left and center arches, while a dark gate spans the right arch. Cones and small barriers stand near the openings.",
+      "caption": "A June 19, 2021 photograph shows the entrance arches and gravel immediately outside during Celtic Fest Ohio at the Renaissance Festival grounds. The Celtic Fest banner is visible. Full frame retained and converted to WebP.",
+      "author": "loganrickert",
+      "photoDate": "2021-06-19",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "limitations": "This is a 2021 view during a different event at the same grounds. It does not establish present festival screening, which arches open, surface firmness, clear widths or a complete parking-to-entrance route. Incidental public-event visitors remain in the unaltered frame.",
+      "relatedFactIds": [
+        "ohio-renaissance-festival.mobility.2"
+      ],
+      "src": "/images/access/renfest-front-gate-celtic-2021.webp",
+      "width": 1280,
+      "height": 872,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festival_Entrance_-_51259212399.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    "commons_metadata": {
+      "Categories": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Celtic Fest Ohio 2021",
+      "ImageDescription": "Photo taken at Celtic Fest Ohio 2021 at the Ohio Renaissance Festival in Waynesville, Ohio.",
+      "DateTimeOriginal": "2021-06-19 17:58:18",
+      "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/188857455@N02/51259212399/\">https://www.flickr.com/photos/188857455@N02/51259212399/</a>",
+      "Artist": "loganrickert",
+      "LicenseShortName": "CC BY 2.0",
+      "UsageTerms": "Creative Commons Attribution 2.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "downloaded_full_frame": "Wikimedia 1280px full-frame thumbnail; original fetch returned 429",
+    "conversion": "sharp WebP quality 88; no crop, retouching or feature alteration",
+    "visual_review": "Preview and final 1280x872 asset inspected; arches, gravel, gate bars and small barriers retained. Incidental public visitors remain; no identifying annotations.",
+    "sha256": "39f304b32ceea0a05b39b083db364377b5695c8bf173678e7f575815bbc0d897",
+    "bytes": 350636
+  },
+  "candidate_review": {
+    "contact_sheet_candidates": 171,
+    "additional_official_images_reviewed": 9,
+    "collections": [
+      "Commons Heritage Village Museum category (no usable file result)",
+      "Commons Kemper Log House category: old location/HABS drawings excluded",
+      "Commons 2024 Ohio Renaissance Festival category",
+      "Commons 2023 Ohio Renaissance Festival category and loganrickert photo metadata",
+      "Commons Celtic Fest Ohio 2021 entrance and parking views",
+      "Heritage official building gallery",
+      "Ohio Renaissance Festival access article vendor views",
+      "Hines Rookwood official gallery",
+      "BCPL branch and sensory-room official images"
+    ],
+    "held_examples": [
+      {
+        "candidate": 95,
+        "reason": "Grass parking view has prominent readable vehicle plates; not republished."
+      },
+      {
+        "candidate": 92,
+        "reason": "Alternative gate view has more prominent visitors; selected 97 instead."
+      },
+      {
+        "candidate": 42,
+        "reason": "Strong purple colour cast and distant ground context; adds little route detail."
+      },
+      {
+        "reason": "Kemper HABS views show former Cincinnati Zoo location, not the current Heritage Village approach."
+      },
+      {
+        "reason": "Most Commons festival images are portraits/performances, with no useful access view."
+      },
+      {
+        "reason": "Renfest maps, aerial/screenshot graphics and Heritage audio-tour stock illustration are excluded from photo counts."
+      },
+      {
+        "reason": "Main Library exterior and curbside promotional composites are not imported as route evidence."
+      }
+    ],
+    "photographer_album_additional_views": 36,
+    "photographer_album": {
+      "source_url": "https://www.photocorps.org/2016/09/27/2016-9-26-heritage-village-museum/",
+      "article_date": "2016-09-27",
+      "all_36_views_visually_screened": true,
+      "licence": "No reuse licence established; not republished or added as an official guide",
+      "selected_held_views": [
+        {
+          "index": 13,
+          "source_image": "https://images.squarespace-cdn.com/content/v1/570e87e6e707ebd28d399996/1474945421983-X1431XMVHB8VE85MNPZL/heritage-village-museum-1070432.jpg",
+          "visible_feature": "Railway station platform and steps beside tracks"
+        },
+        {
+          "index": 21,
+          "source_image": "https://images.squarespace-cdn.com/content/v1/570e87e6e707ebd28d399996/1474945476855-FQIDH7TSELLOVI4B1QOZ/heritage-village-museum-1070449.jpg",
+          "visible_feature": "Print-shop front porch and steps"
+        },
+        {
+          "index": 29,
+          "source_image": "https://images.squarespace-cdn.com/content/v1/570e87e6e707ebd28d399996/1474945553940-7QXH32NHFXR7A0WX5BWA/heritage-village-museum-1070463.jpg",
+          "visible_feature": "Schoolhouse front steps"
+        },
+        {
+          "index": 32,
+          "source_image": "https://images.squarespace-cdn.com/content/v1/570e87e6e707ebd28d399996/1474945619231-N1ZBGBAX5JYEE2PZ7TGK/heritage-village-museum-1070466.jpg",
+          "visible_feature": "Church front steps and railed path along the right side; continuous door route not established"
+        },
+        {
+          "index": 35,
+          "source_image": "https://images.squarespace-cdn.com/content/v1/570e87e6e707ebd28d399996/1474945617009-3H7DPGO939CFH34JM4VP/heritage-village-museum-1070479.jpg",
+          "visible_feature": "Long porch at the white house, with visitors; doorway approach partly hidden"
+        }
+      ],
+      "limitations": "Historical album, exact capture dates/building identifications need independent confirmation before any photo reuse. Original publisher retains images; no current route or width claim."
+    },
+    "brady_panorama_review": {
+      "images": [
+        {
+          "url": "https://bradymusiccenter.com/images/360-tour/outside_360.jpg",
+          "title": "Outside",
+          "status": 200,
+          "bytes": 8432101
+        },
+        {
+          "url": "https://bradymusiccenter.com/images/360-tour/floor_360.jpg",
+          "title": "Floor",
+          "status": 200,
+          "bytes": 7795845
+        },
+        {
+          "url": "https://bradymusiccenter.com/images/360-tour/balcony1_360.jpg",
+          "title": "Balcony 1",
+          "status": 200,
+          "bytes": 8591111
+        },
+        {
+          "url": "https://bradymusiccenter.com/images/360-tour/balcony2_360.jpg",
+          "title": "Balcony 2",
+          "status": 200,
+          "bytes": 8267305
+        },
+        {
+          "url": "https://bradymusiccenter.com/images/360-tour/headliner_360.jpg",
+          "title": "Headliner Section",
+          "status": 200,
+          "bytes": 8494243
+        },
+        {
+          "url": "https://bradymusiccenter.com/images/360-tour/spotlight_360.jpg",
+          "title": "Spotlight Section",
+          "status": 200,
+          "bytes": 8081077
+        }
+      ],
+      "six_original_full_frame_images_visually_inspected": true,
+      "interactive_browser_review": false,
+      "browser_reason": "CUA browser host unavailable; underlying original photos directly fetched and inspected instead",
+      "capture_dates": "Unstated",
+      "features": "Plaza steps/railings; empty floor/stage; fixed seats and stepped aisles; side walkways/stairs; visible ladders/work equipment",
+      "limits": "No designated wheelchair/companion positions, current route, toilet details or elevator operation established; no dimensions from panorama distortion.",
+      "reuse": "Linked only; original images not republished; no reuse licence established"
+    },
+    "walton_opening_images": {
+      "article_date": "2024-08-29",
+      "images": [
+        {
+          "index": 0,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/BlogCoverImage-1200x675-6.jpg?fit=816%2C459&ssl=1",
+          "bytes": 88571,
+          "status": 200
+        },
+        {
+          "index": 1,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/BlogAssets-AccentBar-BCPL.jpg?resize=616%2C2&ssl=1",
+          "bytes": 15696,
+          "status": 200
+        },
+        {
+          "index": 2,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/WaltonBranchOpening-v3.jpg?resize=616%2C218&ssl=1",
+          "bytes": 42942,
+          "status": 200
+        },
+        {
+          "index": 3,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/walton_front-1.jpg?resize=616%2C462&ssl=1",
+          "bytes": 73699,
+          "status": 200
+        },
+        {
+          "index": 4,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/bee_focus_flowers-1.jpg?resize=616%2C462&ssl=1",
+          "bytes": 91699,
+          "status": 200
+        },
+        {
+          "index": 5,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/colorful_music_area-1.jpg?resize=616%2C462&ssl=1",
+          "bytes": 86910,
+          "status": 200
+        },
+        {
+          "index": 6,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/outdoor_seating-1.jpg?resize=616%2C462&ssl=1",
+          "bytes": 93794,
+          "status": 200
+        },
+        {
+          "index": 7,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/picnic_table-1.jpg?resize=616%2C462&ssl=1",
+          "bytes": 98418,
+          "status": 200
+        },
+        {
+          "index": 8,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/study_room_4-1.jpg?resize=616%2C462&ssl=1",
+          "bytes": 55485,
+          "status": 200
+        },
+        {
+          "index": 9,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/studyroom_shelf-1.jpg?resize=616%2C462&ssl=1",
+          "bytes": 76244,
+          "status": 200
+        },
+        {
+          "index": 10,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/walton_drone_3-1.jpg?resize=616%2C616&ssl=1",
+          "bytes": 84248,
+          "status": 200
+        },
+        {
+          "index": 11,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2024/08/walton_front-3.jpg?resize=616%2C462&ssl=1",
+          "bytes": 73699,
+          "status": 200
+        },
+        {
+          "index": 12,
+          "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2021/02/bcpl.png?w=616&ssl=1",
+          "bytes": 5380,
+          "status": 200
+        }
+      ],
+      "all_13_candidates_visually_screened": true,
+      "ground_level_photo_indices": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "excluded_indices": {
+        "0": "Promotional composite with rendering",
+        "1": "Decorative line",
+        "2": "Opening graphic",
+        "10": "Aerial view",
+        "11": "Repeated entrance photo",
+        "12": "Logo"
+      },
+      "notes": "Ground-level entrance and picnic table also inspected at larger size. No changing/toilet interior pictured; do not infer current service or refresh venue date."
+    }
+  },
+  "pdf_review": [
+    {
+      "url": "https://www.bcpl.org/sites/default/files/2023-07/social-narrative-sensory-room.pdf",
+      "pages": 20,
+      "visually_inspected_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "bytes": 30472338,
+      "metadata_created": "2023-04-06",
+      "note": "Existing guide refreshed; all 20 pages inspected, no policy claims inferred from old photos."
+    },
+    {
+      "url": "https://heritagevillagecincinnati.org/wp-content/uploads/2020/02/Summer2019-Newsletter.pdf",
+      "pages": 8,
+      "visually_inspected_pages": [
+        1
+      ],
+      "bytes": 2380384,
+      "metadata_created": "2019-12-20",
+      "note": "Page 1 only used; current route/completion not established."
+    },
+    {
+      "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+      "pages": 2,
+      "visually_inspected_pages": [
+        1,
+        2
+      ],
+      "note": "Text policy, not counted as photo guide."
+    }
+  ],
+  "source_gate_boundary": "Heritage note-helper fetches returned 403. Successful original media-link fetches with this documented research UA do not certify or refresh those notes. All eight Heritage notes stay needs_recheck.",
+  "no_unlicensed_images_republished": true,
+  "ai_images_added": 0
+}

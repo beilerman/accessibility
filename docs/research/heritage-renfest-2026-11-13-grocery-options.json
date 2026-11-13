@@ -1,0 +1,28 @@
+[
+  {
+    "key": "wholefoods-branch",
+    "url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+    "status": 200,
+    "final_url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+    "last_modified": null,
+    "sha256": "99adbfe4254345f353277217d46f9660c06b4f1c60dbee60859ea021e8ccd1af",
+    "fingerprint_version": 6,
+    "chars": 2107
+  },
+  {
+    "key": "wholefoods-pickup",
+    "url": "https://www.wholefoodsmarket.com/amazon/grocery-delivery-and-pickup",
+    "status": 404,
+    "error": "Not Found"
+  },
+  {
+    "key": "walmart-evendale",
+    "url": "https://www.walmart.com/store/3749-cincinnati-oh",
+    "status": 200,
+    "final_url": "https://www.walmart.com/blocked?url=L3N0b3JlLzM3NDktY2luY2lubmF0aS1vaA==&uuid=5f92436d-dfb0-11f1-b9b5-774cd44de4fd&vid=&g=b",
+    "last_modified": null,
+    "sha256": "8d4732089e82e13e1795c9b6da6dd7412d062f9ffa08fadf3ff41ff3c1d09f15",
+    "fingerprint_version": 6,
+    "chars": 204
+  }
+]

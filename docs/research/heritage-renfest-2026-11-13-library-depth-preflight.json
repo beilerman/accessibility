@@ -1,0 +1,34 @@
+[
+  {
+    "key": "bcpl-policy",
+    "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+    "status": 200,
+    "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+    "last_modified": "Thu, 31 Aug 2023 15:10:16 GMT",
+    "sha256": "ef82616c08c082ad6671caaca14c5cc4d635764ed56011972895f3ba3e04cf5a",
+    "fingerprint_version": "pdf-bytes-1",
+    "format": "pdf",
+    "chars": 2650,
+    "pages": 2
+  },
+  {
+    "key": "bcpl-curbside",
+    "url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+    "status": 200,
+    "final_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+    "last_modified": null,
+    "sha256": "ccb21d6f5c75f03782a1b5dbd3fb258c9016e40b3ff45656208e1e2ac0f83116",
+    "fingerprint_version": 6,
+    "chars": 3295
+  },
+  {
+    "key": "hines-rookwood",
+    "url": "https://www.hinesglobalincometrust.com/properties/rookwood",
+    "status": 200,
+    "final_url": "https://www.hinesglobalincometrust.com/properties/rookwood",
+    "last_modified": "Thu, 22 Oct 2026 21:13:06 GMT",
+    "sha256": "d733f10b6cf3d7fa1fb9d470613e60e4c5a8bd64a399d8c3692ef312c5007c1b",
+    "fingerprint_version": 6,
+    "chars": 2427
+  }
+]

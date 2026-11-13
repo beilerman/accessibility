@@ -12,7 +12,7 @@
     "https://bcplundiscovered.org/accessibilityoptions/": {
       "status": 200,
       "final_url": "https://bcplundiscovered.org/accessibilityoptions/",
-      "last_modified": null,
+      "last_modified": "Fri, 13 Nov 2026 22:28:32 GMT",
       "sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
       "fingerprint_version": 6,
       "chars": 6225
@@ -22,23 +22,23 @@
       "final_url": "https://bradymusiccenter.com/accessibility",
       "last_modified": null,
       "sha256": "049f2e47aca9fdd17ad4820c05018581fde958dd29a0e29c5e81df4c01236c9b",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1155
     },
     "https://bradymusiccenter.com/venue-info/faq": {
       "status": 200,
       "final_url": "https://bradymusiccenter.com/venue-info/faq",
       "last_modified": null,
-      "sha256": "07630164f83b12d9e44c94d7030328bd4feef4c250340c564fe31f7104ea2e37",
-      "fingerprint_version": 5,
+      "sha256": "05e48762f3f793dae2e522e7c6738d8fb4afbbc051fe5c3251e0b0bf1f5b354a",
+      "fingerprint_version": 6,
       "chars": 12102
     },
     "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items": {
       "status": 200,
       "final_url": "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items",
       "last_modified": null,
-      "sha256": "c7ea3d18149bdb70ae3a39fcd3956a9c04a9734c4d6a4b916116ae8349f9816e",
-      "fingerprint_version": 5,
+      "sha256": "5ea128b5a7ad6a1393181655a14da1b02db55970565a98a3d2a590ee581f7538",
+      "fingerprint_version": 6,
       "chars": 6552
     },
     "https://cballet.org/accessibility/": {
@@ -334,7 +334,7 @@
       "final_url": "https://renfestival.com/accessibility-at-the-ohio-renaissance-festival/",
       "last_modified": null,
       "sha256": "c43e4fb00ae201797a98ec8e292e7661258ff1618afc433136000ae3907f3761",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 12168
     },
     "https://renfestival.com/faq/": {
@@ -342,7 +342,7 @@
       "final_url": "https://renfestival.com/faq/",
       "last_modified": null,
       "sha256": "e78b2ea90f1477da73b652a7e6956878e42a2599ccae523b0e7b97236b680eaa",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 8800
     },
     "https://riverbend.org/plan-your-visit/directions-parking": {
@@ -476,10 +476,10 @@
     "https://www.bcpl.org/locations": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations",
-      "last_modified": "Wed, 11 Nov 2026 00:03:18 GMT",
-      "sha256": "765d8189d4678c1adcda7e8fd791c26f0f9091c1be5c053b837d1792c62a4207",
-      "fingerprint_version": 5,
-      "chars": 2273
+      "last_modified": "Fri, 13 Nov 2026 22:32:13 GMT",
+      "sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42",
+      "fingerprint_version": 6,
+      "chars": 2141
     },
     "https://www.bcpl.org/locations/hebron": {
       "status": 200,
@@ -492,10 +492,10 @@
     "https://www.bcpl.org/sensory-room": {
       "status": 200,
       "final_url": "https://www.bcpl.org/sensory-room",
-      "last_modified": "Wed, 11 Nov 2026 02:17:37 GMT",
-      "sha256": "9ecab0874cfee7ba07c389ff22efbf2ad5b3a85bf0498556db04a6dd9ce9b2b7",
-      "fingerprint_version": 5,
-      "chars": 2293
+      "last_modified": "Fri, 13 Nov 2026 22:32:14 GMT",
+      "sha256": "6b4f9163da1e178a136eba817ce970522d6a325812d67e39f609ccbfb8d84053",
+      "fingerprint_version": 6,
+      "chars": 2161
     },
     "https://www.bengals.com/news/fan-guide": {
       "status": 200,
@@ -1060,18 +1060,18 @@
     "https://www.newportonthelevee.com/directions-and-parking/": {
       "status": 200,
       "final_url": "https://www.newportonthelevee.com/directions-and-parking/",
-      "last_modified": "Wed, 11 Nov 2026 01:45:34 GMT",
-      "sha256": "9c63ad37c385f92873fe13e71a4bc8b5bd637e3c9654b7243ae714488006f97b",
-      "fingerprint_version": 5,
-      "chars": 934
+      "last_modified": "Fri, 13 Nov 2026 22:32:15 GMT",
+      "sha256": "8b3d82167327ae034a1cb371f14464c7f54a1f1a5b35ed5f7804587bb2e2a9fa",
+      "fingerprint_version": 6,
+      "chars": 1232
     },
     "https://www.newportonthelevee.com/entertainment/amc-theatres/": {
       "status": 200,
       "final_url": "https://www.newportonthelevee.com/entertainment/amc-theatres/",
-      "last_modified": "Wed, 11 Nov 2026 01:45:35 GMT",
-      "sha256": "b42398d62f1fa97d911c76acf0e09630bc9bf8227876363b4387f5c245792e39",
-      "fingerprint_version": 5,
-      "chars": 468
+      "last_modified": "Fri, 13 Nov 2026 22:38:09 GMT",
+      "sha256": "256e37a59e798757c953b81996991e5322447374f7704d6db1ec556eed9734cb",
+      "fingerprint_version": 6,
+      "chars": 608
     },
     "https://www.nkycc.com/about/": {
       "status": 200,
@@ -1242,7 +1242,7 @@
       "final_url": "https://renfestival.com/service-animal-policy/",
       "last_modified": null,
       "sha256": "62a9bbf69f05d45be277c55b0b22b342ffc03840125508e4ebbcd7839b106f62",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3241
     },
     "https://rhinegeist.com/brewery-tours/": {
@@ -3971,10 +3971,67 @@
       "sha256": "d3026587c1bf3ce7be1d1fe255aa2087eeb319ca6f086ea51210b897271fba7e",
       "fingerprint_version": 6,
       "chars": 4067
+    },
+    "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/": {
+      "status": 200,
+      "final_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+      "last_modified": "Fri, 13 Nov 2026 22:32:13 GMT",
+      "sha256": "ccb21d6f5c75f03782a1b5dbd3fb258c9016e40b3ff45656208e1e2ac0f83116",
+      "fingerprint_version": 6,
+      "chars": 3295
+    },
+    "https://renfestival.com/jousting/": {
+      "status": 200,
+      "final_url": "https://renfestival.com/jousting/",
+      "last_modified": null,
+      "sha256": "af01744282235e788d15965837d4c48b1a576ffbae55ddfff1c15ada984a9446",
+      "fingerprint_version": 6,
+      "chars": 2782
+    },
+    "https://renfestival.com/the-event/themed-weekends/": {
+      "status": 200,
+      "final_url": "https://renfestival.com/the-event/themed-weekends/",
+      "last_modified": null,
+      "sha256": "ac2d03fe11a6d9799dcf46a32b4178485fdc600ecc05185ace8420841d65d8c9",
+      "fingerprint_version": 6,
+      "chars": 2807
+    },
+    "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf": {
+      "status": 200,
+      "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+      "last_modified": "Thu, 31 Aug 2023 15:10:16 GMT",
+      "sha256": "ef82616c08c082ad6671caaca14c5cc4d635764ed56011972895f3ba3e04cf5a",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 2650,
+      "pages": 2
+    },
+    "https://www.wholefoodsmarket.com/customer-service/topics/stores": {
+      "status": 200,
+      "final_url": "https://www.wholefoodsmarket.com/customer-service/topics/stores",
+      "last_modified": null,
+      "sha256": "da0475453a50e7b9073f6e252ed57ddbb9d2ad9203ad73a033875350fe54657e",
+      "fingerprint_version": 6,
+      "chars": 1316
+    },
+    "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz": {
+      "status": 200,
+      "final_url": "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+      "last_modified": null,
+      "sha256": "5aba9126a3116b5d499fac912af9fd2aac9535854d01e76aa2e3283ff24ec564",
+      "fingerprint_version": 6,
+      "chars": 8759
+    },
+    "https://www.wholefoodsmarket.com/stores/cincinnati": {
+      "status": 200,
+      "final_url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+      "last_modified": null,
+      "sha256": "99adbfe4254345f353277217d46f9660c06b4f1c60dbee60859ea021e8ccd1af",
+      "fingerprint_version": 6,
+      "chars": 2107
     }
   },
   "findings": {
-    "https://renfestival.com/faq/": "supported",
     "https://www.kentonlibrary.org/locations/5/": "supported",
     "https://www.southgatehouse.com/about/": "supported",
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked",

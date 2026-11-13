@@ -1,0 +1,52 @@
+[
+  {
+    "key": "bcpl-access",
+    "url": "https://bcplundiscovered.org/accessibilityoptions/",
+    "status": 200,
+    "final_url": "https://bcplundiscovered.org/accessibilityoptions/",
+    "last_modified": "Thu, 12 Nov 2026 06:59:25 GMT",
+    "sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+    "fingerprint_version": 6,
+    "chars": 6225
+  },
+  {
+    "key": "bcpl-locations",
+    "url": "https://www.bcpl.org/locations",
+    "status": 200,
+    "final_url": "https://www.bcpl.org/locations",
+    "last_modified": "Fri, 13 Nov 2026 22:23:06 GMT",
+    "sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42",
+    "fingerprint_version": 6,
+    "chars": 2141
+  },
+  {
+    "key": "bcpl-sensory",
+    "url": "https://www.bcpl.org/sensory-room",
+    "status": 200,
+    "final_url": "https://www.bcpl.org/sensory-room",
+    "last_modified": "Fri, 13 Nov 2026 22:23:06 GMT",
+    "sha256": "6b4f9163da1e178a136eba817ce970522d6a325812d67e39f609ccbfb8d84053",
+    "fingerprint_version": 6,
+    "chars": 2161
+  },
+  {
+    "key": "bcpl-florence",
+    "url": "https://www.bcpl.org/locations/florence",
+    "status": 200,
+    "final_url": "https://www.bcpl.org/locations/florence",
+    "last_modified": "Fri, 13 Nov 2026 22:23:06 GMT",
+    "sha256": "77f22e11b4e69ddd30a441a47de857d8e1bc00c7a47c80b2ef4eb65a157360f8",
+    "fingerprint_version": 6,
+    "chars": 355
+  },
+  {
+    "key": "bcpl-main",
+    "url": "https://www.bcpl.org/locations/main",
+    "status": 200,
+    "final_url": "https://www.bcpl.org/locations/main",
+    "last_modified": "Fri, 13 Nov 2026 22:23:06 GMT",
+    "sha256": "2fa457c3575be25f9b6acfb4abfe9c29178ccb0df35e4f4ea6b9913bf7103fbd",
+    "fingerprint_version": 6,
+    "chars": 340
+  }
+]

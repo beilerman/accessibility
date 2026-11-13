@@ -1,0 +1,26 @@
+[
+  {
+    "status": 200,
+    "final_url": "https://bradymusiccenter.com/accessibility",
+    "last_modified": null,
+    "sha256": "049f2e47aca9fdd17ad4820c05018581fde958dd29a0e29c5e81df4c01236c9b",
+    "fingerprint_version": 6,
+    "chars": 1155
+  },
+  {
+    "status": 200,
+    "final_url": "https://bradymusiccenter.com/venue-info/faq",
+    "last_modified": null,
+    "sha256": "05e48762f3f793dae2e522e7c6738d8fb4afbbc051fe5c3251e0b0bf1f5b354a",
+    "fingerprint_version": 6,
+    "chars": 12102
+  },
+  {
+    "status": 200,
+    "final_url": "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items",
+    "last_modified": null,
+    "sha256": "5ea128b5a7ad6a1393181655a14da1b02db55970565a98a3d2a590ee581f7538",
+    "fingerprint_version": 6,
+    "chars": 6552
+  }
+]

@@ -1,31 +1,52 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Taft Theatre, Eden Park and Heritage Bank Center full reviews; Music Hall partial review; Dunham recreation and GFS Florence; three licensed photos and four original visual links.
+Updated November 13, 2026, after Renaissance Festival, BCPL Main/Florence and
+Brady full reviews; AMC partial review; Whole Foods Cincinnati; one licensed
+photograph, seven original links and one refreshed guide.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Accuracy follow-up before large expansion
 
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
-[the implemented follow-up](accuracy-follow-up-2026-11-12.md). The legacy
-missing-passage backlog is **27 notes**, down from 38 in this pass. Three full
-reviews (Taft 10 old notes, Eden 5, Heritage 10) and a partial Music Hall review
-(15 old notes supported, two held) retain whole-clause evidence for **40 old
-notes: 28 unchanged and 12 revised**. Eleven missing passages were repaired.
-**34 new IDs** are separate growth; some relocate previously mis-sourced clauses.
-Music Hall's full-review date remains November 9. Its CSO sources returned empty
-shared-session responses; two sensory/interpretation notes are flagged, not verified.
+[the implemented follow-up](accuracy-follow-up-2026-11-12.md). The missing-passage
+backlog is **20 notes**, down from 27. This pass supports **31 old notes: 21
+unchanged and 10 revised**, including seven missing-evidence repairs. Four full
+reviews cover Renaissance Festival (8 old notes), BCPL Main (8), BCPL Florence (4)
+and Brady (9); AMC is partial (2 of 8). Brady is a repeat in the rolling period,
+not an additional unique weekly review. **25 new IDs** are separate growth; two
+relocate old festival food/first-aid clauses.
 
-Next existing-venue batch: **Heritage Village Museum (eight missing passages)**
-and **Ohio Renaissance Festival (seven)**, then Molly Malone's Covington (four),
-AMC Newport (six) and Music Hall (two) as legitimate source access permits.
-Prioritize arrival, toilets/changing, assistance and seasonal restrictions.
-Use separate passages for independently changeable clauses and preserve source
-conflicts. Taft has conflicting re-entry wording, interpretation emails and
-sealed-drink quantities; Heritage's family-restroom section is 110 versus 112.
-See [the current batch report](taft-eden-heritage-dunham-2026-11-13.md).
+**Held manual-review lane:** Heritage Village (8 missing), Molly Malone’s (4),
+AMC/IMAX (6) and Music Hall CSO (2). Heritage/Molly/AMC helper requests return 403;
+CSO returns an empty shared-session response. Eighteen notes were newly flagged,
+not verified. Whole-venue dates remain unchanged. A successful Heritage media-link
+fetch does not override the factual evidence gate. Preserve its homepage/FAQ
+winter-hours conflict and the uncertain scope of building access.
+
+**Next substantive existing batch: BCPL Hebron, Scheben and Walton.** Review every
+clause and deepen collection, equipment and changing-facility procedures with
+branch-specific photographs. Pair with an everyday grocery/service lead where
+location and useful access evidence are actually available. Avoid repeatedly
+spending a whole cycle on the same blocked URLs. Keep the blocked lane available
+for legitimate manual review when source access changes.
+
+Renaissance Festival’s October 2026 guide is historical beside its 2027 calendar;
+undated premium-joust terms are not guaranteed for 2027. Brady still reports its
+nearest garage elevator out of service and gives conflicting elevator directions.
+See [the current batch report](heritage-renfest-2026-11-13.md), canonical evidence,
+media review and validation receipts. Previous Taft and Heritage Bank Center
+policy conflicts remain unresolved; do not erase them.
 
 ## Breadth
+
+**Whole Foods Market — Cincinnati is now added** at 2693 Edmondson Road, with
+8 notes and an original property-owner entrance photograph link. Prime pickup is
+listed locally, but the chain guide allows indoor collection at some stores. Do
+not promise a local curbside bay, trunk loading, personal assistance or indoor
+carrying. Entrance dimensions, toilets, equipment and pickup-route photographs
+remain gaps. ALDI Newport’s tiny JavaScript response and Walmart Evendale’s
+challenge page are held; no access facts were imported.
 
 **Thrifting on Eastern is now added**, with three verified notes and an original
 storefront photo link. Its ramp lower approach, doorway, aisles, toilets and carrying
@@ -53,12 +74,17 @@ See `summit-woodward-open-newport-2026-11-13-grocery-preflight.json`; no import 
 freshness credit. Prefer resolving substantive collection/entrance details at
 Remke over repeatedly retrying blocked Kroger alone.
 
+**Clifton Market remains a held neighborhood-grocery lead.** The indexed `/index`
+page returned 404 and the root 403. Historical 2017 pickup/delivery reporting and
+third-party directories are not current access evidence; no listing was imported.
+See `heritage-renfest-2026-11-13-clifton-lead.json`.
+
 **Great Lakes Ace Hardware — Newport is now added**, with four verified pickup/
 delivery notes at 82 Carothers Road. Physical arrival, collection bay and in-store
 access remain unknown; no trunk-loading or indoor carrying service is inferred.
 
-The prepared catalog has 159 places: 32 arts venues, 31 parks/outdoors, 21 museums/
-attractions, 15 libraries, seven transport, sixteen food/drink, fifteen shopping,
+The prepared catalog has 160 places: 32 arts venues, 31 parks/outdoors, 21 museums/
+attractions, 15 libraries, seven transport, sixteen food/drink, sixteen shopping,
 twelve public-service and ten recreation/fitness listings. Continue seeking
 concrete access information for everyday activities and less represented neighborhoods.
 
@@ -86,7 +112,37 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 Taft, Eden, Heritage, Music Hall, Dunham and GFS Florence
+## Latest pass — November 13 festival, libraries, Brady and Whole Foods
+
+- **Evidence:** 31 old notes supported, 21 unchanged/10 revised; seven missing
+  records repaired (27 → 20). Four full reviews and AMC partial. Original IDs,
+  history prefixes and 152 unrelated existing place records are preserved.
+- **New public information:** 25 IDs (festival 10, Main 5, Florence 2, Whole Foods 8).
+  The festival additions include two relocated old clauses. Current evidence is
+  distinct from historical operational guides and from photographs.
+- **Imagery:** one CC BY 2.0 full-frame 2021 Celtic Fest entrance photograph;
+  seven original links (festival vendor ramps, Heritage 2019 ramp newsletter and
+  building gallery, Whole Foods storefront, Florence entrance, Brady panoramas,
+  Walton 2024 entrance/courtyard/study-room photographs); existing Main
+  Library’s 20-page narrative refreshed with April 2023 metadata and specific views.
+  171 candidate views plus 36 photographer-album views and nine additional official
+  images, six Brady panoramas and 13 Walton candidates were inspected. No AI or unlicensed republication.
+- Walton received photo-only work; its notes/full-review date are unchanged. Its
+  adult changing facility is not pictured in the opening gallery and remains a priority.
+- **Held photo leads:** 2016 PhotoCorps station steps, shop porch, school steps and
+  church-side railed path; licence/capture dates unresolved. Brady’s six original
+  panorama files were inspected directly; interactive
+  navigation remains untested. Current elevator route,
+  Heritage gift-shop/toilet connection, festival restroom platforms and branch
+  pickup/toilet views remain priorities.
+- **Validation:** 57 fresh evidence checks; 18 selected HTTP-200 baselines; 103
+  unit tests and 79 pipeline tests; lint/types and 175-page build. Browser launch
+  remains sandbox-blocked, and no axe/layout pass is claimed. Runner checks and
+  atomic publication remain required; no deployment performed.
+- **Current totals:** 160 places, 1,749 active notes plus one retired, 1,729 quoted,
+  20 missing, 83 access photos and 74 linked guide entries.
+
+## Previous pass — November 13 Taft, Eden, Heritage, Music Hall, Dunham and GFS Florence
 
 - **Evidence:** three full old-venue reviews and one partial; 40 supported old
   notes (28 unchanged, 12 revised), 11 missing passages repaired (**38 → 27**).

@@ -1,0 +1,214 @@
+{
+  "checked_at_utc": "2026-11-13T22:53:10.966029+00:00",
+  "base_commit": "0a53ac9605b8a6678523a6f55e43d11d35cccda9",
+  "workspace": "dedicated Threshold Updates workspace",
+  "publication_state": "Prepared for runner validation and atomic Git publication; not deployed",
+  "publish_ready": true,
+  "progress": {
+    "new_venues": 1,
+    "new_venue_slugs": [
+      "whole-foods-market-cincinnati"
+    ],
+    "new_note_ids": 25,
+    "new_notes_by_venue": {
+      "boone-county-public-library-florence-branch": 2,
+      "boone-county-public-library-main-library": 5,
+      "ohio-renaissance-festival": 10,
+      "whole-foods-market-cincinnati": 8
+    },
+    "new_ids_relocating_old_clauses": 2,
+    "old_notes_revised": 10,
+    "old_notes_unchanged_rechecked": 21,
+    "old_notes_newly_flagged": 18,
+    "missing_evidence_backfilled": 7,
+    "fully_rechecked_venues": [
+      "ohio-renaissance-festival",
+      "boone-county-public-library-main-library",
+      "boone-county-public-library-florence-branch",
+      "andrew-j-brady-music-center"
+    ],
+    "partly_rechecked_venues": [
+      "amc-newport-on-the-levee-20"
+    ],
+    "blocked_review_attempts": [
+      "heritage-village-museum",
+      "molly-malones-covington",
+      "cincinnati-music-hall"
+    ],
+    "licensed_photos_added": 1,
+    "original_guide_links_added": 7,
+    "existing_guides_refreshed": 1,
+    "remaining_unquoted_notes": 20,
+    "totals": {
+      "places": 160,
+      "active_notes": 1749,
+      "retired_notes": 1,
+      "quoted_notes": 1729,
+      "photos": 83,
+      "guides": 74
+    }
+  },
+  "checks": {
+    "unit": {
+      "passed": 103,
+      "failed": 0,
+      "command": "npm test"
+    },
+    "pipeline": {
+      "passed": 79,
+      "failed": 0,
+      "command": "uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'"
+    },
+    "lint": {
+      "exit_code": 0,
+      "command": "npm run lint"
+    },
+    "typescript": {
+      "exit_code": 0,
+      "command": "npx tsc --noEmit"
+    },
+    "production_build": {
+      "exit_code": 0,
+      "generated_pages": 175,
+      "command": "npm run build",
+      "warning": "Atkinson Hyperlegible Next fallback font metrics unavailable; build succeeded"
+    },
+    "final_evidence": {
+      "checked": 57,
+      "failed": 0,
+      "note_claims": 56,
+      "new_addresses": 1,
+      "compound_passages_supported": true,
+      "editorial_scope_conditions_and_dates_reviewed": true
+    },
+    "selected_source_baselines": {
+      "http_200": 18,
+      "unselected_baselines_and_findings_preserved": true
+    },
+    "original_media_links": {
+      "fresh_http_200": 8,
+      "new_links": 7,
+      "existing_guide_refreshes": 1
+    },
+    "git_diff_check": {
+      "exit_code": 0
+    },
+    "conflict_markers": {
+      "found": 0
+    },
+    "browser": {
+      "status": "blocked_by_host_launch",
+      "passed": 0,
+      "final_tests_discovered": 148,
+      "attempt": "New Whole Foods route, one worker, stop after first failure",
+      "reason": "Chromium MachPortRendezvousServer bootstrap_check_in: Permission denied (1100)",
+      "cua_reason": "Browser access host unavailable",
+      "runner_browser_checks_required": true,
+      "no_browser_layout_or_axe_success_claimed": true
+    },
+    "static_generation_integrity": {
+      "generated_html": [
+        {
+          "slug": "boone-county-public-library-florence-branch",
+          "visible_active_notes": 6,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "boone-county-public-library-main-library",
+          "visible_active_notes": 13,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "molly-malones-covington",
+          "visible_active_notes": 4,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "amc-newport-on-the-levee-20",
+          "visible_active_notes": 8,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "andrew-j-brady-music-center",
+          "visible_active_notes": 9,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "heritage-village-museum",
+          "visible_active_notes": 8,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "ohio-renaissance-festival",
+          "visible_active_notes": 18,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "whole-foods-market-cincinnati",
+          "visible_active_notes": 8,
+          "source_links": true,
+          "limitations": true
+        }
+      ],
+      "new_guide_links_present": 7,
+      "existing_guide_refresh_present": 1,
+      "new_photo_alt_and_limits_present": true,
+      "new_photo_sha256": "39f304b32ceea0a05b39b083db364377b5695c8bf173678e7f575815bbc0d897",
+      "browser_equivalence": false
+    },
+    "catalog_integrity": {
+      "unchanged_existing_places": 152,
+      "original_ids_and_history_prefixes_preserved": true,
+      "retired_notes_preserved": true,
+      "supported_claim_hashes_match": 56,
+      "held_full_dates_preserved": true
+    }
+  },
+  "held_findings": [
+    "Heritage Village: source-checker 403; winter-hours conflict and building-specific routes unresolved",
+    "Molly/AMC/IMAX: 403; Music Hall CSO: empty shared-session response",
+    "Brady: nearest garage elevator still reported out of service; elevator directions conflict",
+    "Festival: October 2026 guide and undated premium-joust offer do not confirm 2027 arrangements",
+    "Whole Foods: local curbside bay, trunk loading and personal assistance unverified",
+    "Florence: computer-station installation not confirmed; library toilets/entrance details unknown",
+    "Remke: hours conflict and collection procedure unknown; ALDI/Walmart responses unextractable or blocked",
+    "Clifton Market: official index 404/root 403; historical delivery reporting not current evidence",
+    "PhotoCorps historical images: no reuse licence; retained as leads only",
+    "Brady panorama viewer interaction untested; original six photos inspected directly"
+  ],
+  "scope": {
+    "git_writes": 0,
+    "deployments": 0,
+    "previews": 0,
+    "hosting_changes": 0,
+    "scheduler_changes": 0,
+    "database_changes": 0,
+    "external_messages": 0,
+    "private_correspondence_read": false
+  },
+  "sha256": {
+    "src/data/places.json": "abba2c69200eb7fae61ca3747579058738a7044bb2fb3a9be4220f634985b2f8",
+    "pipeline/evidence/quotes.json": "bfc92cc9229350fe48cc2664500c1f56993659dfd8ee2f297153f655250f82aa",
+    "src/data/access-photos.json": "22720091093f7032a63bae2740df6b25652fe95500eea268359b918bb6083819",
+    "src/data/access-guides.json": "f99280fa88b2a5f53cb42d25eb9d1e3cbf383042c3ae94cdcdd53682310b6a5b",
+    "pipeline/source-checks/2026-11-13.json": "d8f52545659f989d252203e0ac72dd364a1bf4f2cb1df200ae9cd79b4148cf53",
+    "src/__tests__/venue-expansion.test.ts": "e35a5e6c9c34878ea1960d98102946c6033a5d3c189c34d4fb0a9ba45e5a2954",
+    "e2e/accessibility.spec.ts": "2f4f09d0dc2224f68b89eb9b15b52f828fe59a7148426a54a21567d121f2d3b8",
+    "docs/research/heritage-renfest-2026-11-13-final-evidence.json": "69c1396ab77377251cf08d4e136e97c8304410040e5fed325e16d7608fb1587d",
+    "docs/research/heritage-renfest-2026-11-13-final-evidence.verified.json": "33d48bc73d0444caf1f19787a4cfe13255fd25aa8fa01755dc2c51b27460f6d5",
+    "docs/research/heritage-renfest-2026-11-13-media-review.json": "b40842831900d97ea4c39a73eefa04c3063caed49d7b07ad420a7aaedac1025b",
+    "docs/research/heritage-renfest-2026-11-13-catalog-audit.json": "cbb83b8b896b45cb6eca40be560d64c0ec87fc223d8551bb1d9ea21ea6280615",
+    "docs/research/heritage-renfest-2026-11-13-generated-html.json": "3748579d23885bf9ad466d6f65c4d8fa8d93e739e59edbce9ee20d493ff3b6c7",
+    "docs/research/heritage-renfest-2026-11-13.md": "e3a82163de7e08bdac330f504ba56165e1d104bb9e137fc262556cef586c2f06",
+    "docs/research/coverage-queue.md": "c8182260e217f9a2f621d4a075d11546292d5ae35ae3aa4bc4e68e40ebd74cc8",
+    "docs/HANDOFF-2026-11-10.md": "18399ed5e3dbd79ee30c036a0459aed377dd365358a756f1ea6af5a8b416c2ed",
+    "public/images/access/renfest-front-gate-celtic-2021.webp": "39f304b32ceea0a05b39b083db364377b5695c8bf173678e7f575815bbc0d897"
+  }
+}

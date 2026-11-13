@@ -1,0 +1,54 @@
+[
+  {
+    "key": "cso-current",
+    "url": "https://www.cincinnatisymphony.org/your-visit/accessibility/",
+    "status": 200,
+    "final_url": "https://secure.cincinnatisymphony.org/components/sharedsession?actionUrl=https://www.cincinnatisymphony.org/api/login/Receive&returnUrl=https%3a%2f%2fwww.cincinnatisymphony.org%2fyour-visit%2faccessibility%2f",
+    "last_modified": null,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "fingerprint_version": 6,
+    "chars": 0
+  },
+  {
+    "key": "remke-taylor",
+    "url": "https://www.remkes.com/taylor-mill/",
+    "status": 200,
+    "final_url": "https://www.remkes.com/taylor-mill/",
+    "last_modified": null,
+    "sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+    "fingerprint_version": 6,
+    "chars": 890
+  },
+  {
+    "key": "remke-home",
+    "url": "https://www.remkes.com/",
+    "status": 200,
+    "final_url": "https://www.remkes.com/",
+    "last_modified": null,
+    "sha256": "db1f43667a5021bcbb367a2d989e71306334aba0cf9a2da6cb18e8d52e148b15",
+    "fingerprint_version": 6,
+    "chars": 250
+  },
+  {
+    "key": "heritage-visit",
+    "url": "https://heritagevillagecincinnati.org/plan-your-visit/",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "key": "heritage-fall2022",
+    "url": "https://heritagevillagecincinnati.org/wp-content/uploads/2023/05/Fall-2022-Newsletter.pdf",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "key": "renfest-themed",
+    "url": "https://renfestival.com/themed-weekends/",
+    "status": 200,
+    "final_url": "https://renfestival.com/the-event/themed-weekends/",
+    "last_modified": null,
+    "sha256": "ac2d03fe11a6d9799dcf46a32b4178485fdc600ecc05185ace8420841d65d8c9",
+    "fingerprint_version": 6,
+    "chars": 2807
+  }
+]

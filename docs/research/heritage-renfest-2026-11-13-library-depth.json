@@ -1,0 +1,72 @@
+{
+  "boone-county-public-library-main-library": [
+    [
+      "mobility",
+      "For curbside holds, place requests through the library website or app and wait for notice that they are ready. Park in a designated space, call 859-342-BOOK and select this branch; staff bring checked-out items to the vehicle. Bring your library card.",
+      "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+      "operator_official",
+      [
+        "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+        "Once your items are ready, head to your selected location and park in a designated curbside space. Call 859-342-BOOK and select Main, Scheben or Florence to notify our staff of your arrival. We’ll swiftly check out your items and bring them to your vehicle, all while you stay warm!",
+        "Remember to bring your library card for a smooth transaction."
+      ]
+    ],
+    [
+      "cognitive",
+      "Sensory-room requests are first come, first served, in person on the day of use. The policy allows 30-minute slots followed by 15 minutes for cleaning; this is not an advance online reservation service.",
+      "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+      "venue_official",
+      [
+        "Room requests are made on a first come, first serve basis and can only be requested in-person on the day of.",
+        "Time slots are in 30-minute increments, with an additional 15-minute cleaning time automatically added to the end of each slot."
+      ]
+    ],
+    [
+      "cognitive",
+      "The sensory room is not continuously monitored by staff. Children under 12 need a parent or guardian; guests whose disabilities affect decision-making or make supervision necessary must have a parent or caregiver throughout.",
+      "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+      "venue_official",
+      [
+        "The Sensory Room may be monitored from time-to-time, but it is not under continuous monitoring by Library staff while in use.",
+        "Guests of any age with mental, physical or emotional disabilities which affect decision making skills or render supervision necessary must be accompanied by a parent or caregiver at all times. Children under the age of 12 years require supervision by a parent or guardian."
+      ]
+    ],
+    [
+      "chronic",
+      "Food and drinks are prohibited in the sensory room except for dietary or medical needs. Professional therapy requires library approval.",
+      "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+      "venue_official",
+      [
+        "No food or drinks in the Sensory Room, except for dietary or medical needs.",
+        "The Sensory Room may not be used for professional therapy without the approval of the Library."
+      ]
+    ],
+    [
+      "cognitive",
+      "Sensory-room use ends one hour before the library closes. Check the room’s posted schedule and holiday closures when planning a visit.",
+      "https://www.bcpl.org/sites/default/files/content/policies/policy-sensory-room_2.pdf",
+      "venue_official",
+      "Usage of the room must conclude one hour prior to the Library's posted closing time."
+    ]
+  ],
+  "boone-county-public-library-florence-branch": [
+    [
+      "mobility",
+      "For curbside holds, place requests through the library website or app and wait for notice that they are ready. Park in a designated space, call 859-342-BOOK and select this branch; staff bring checked-out items to the vehicle. Bring your library card.",
+      "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+      "operator_official",
+      [
+        "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+        "Once your items are ready, head to your selected location and park in a designated curbside space. Call 859-342-BOOK and select Main, Scheben or Florence to notify our staff of your arrival. We’ll swiftly check out your items and bring them to your vehicle, all while you stay warm!",
+        "Remember to bring your library card for a smooth transaction."
+      ]
+    ],
+    [
+      "sensory",
+      "The library’s June 2026 article described adapted computer stations at Florence as forthcoming. Their installation is not confirmed; ask before relying on them.",
+      "https://bcplundiscovered.org/accessibilityoptions/",
+      "operator_official",
+      "accessible computer stations are coming soon to the Florence Branch."
+    ]
+  ]
+}

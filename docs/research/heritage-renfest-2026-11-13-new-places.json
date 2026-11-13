@@ -1,0 +1,88 @@
+[
+  {
+    "slug": "whole-foods-market-cincinnati",
+    "name": "Whole Foods Market — Cincinnati",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "2693 Edmondson Road, Cincinnati, OH 45209-1910",
+    "website": "https://www.wholefoodsmarket.com/stores/cincinnati",
+    "source_url": "https://www.wholefoodsmarket.com/stores/cincinnati",
+    "limitations": "Public website information; no on-site audit. Branch pickup, café seating and parcel-counter services are published; the chain guide does not establish this branch’s curbside collection method. Confirm the order instructions and Prime eligibility. Entrance thresholds, door controls, parking-to-door route, in-store aisles, restrooms, changing facilities and mobility equipment remain unknown. Trunk loading, where offered, is not personal assistance or indoor carrying. The store page’s image is a logo, not a documentary branch photograph.",
+    "facts": [
+      [
+        "mobility",
+        "The Cincinnati branch lists grocery delivery and pickup through Amazon for Prime members. Confirm the available collection method for this store when ordering.",
+        "https://www.wholefoodsmarket.com/stores/cincinnati",
+        "venue_official",
+        null,
+        [
+          "Grocery Delivery & Pickup",
+          "Order what you need on Amazon.com, delivered to you or picked up at your store. Prime members only."
+        ]
+      ],
+      [
+        "chronic",
+        "The branch lists café seating. Seat heights, backrests, clearances and wheelchair table positions are not described.",
+        "https://www.wholefoodsmarket.com/stores/cincinnati",
+        "venue_official",
+        null,
+        "Café Seating"
+      ],
+      [
+        "cognitive",
+        "The branch lists an Amazon Counter for assisted package pickup and returns. That service description does not establish assistance with personal care or moving around the store.",
+        "https://www.wholefoodsmarket.com/stores/cincinnati",
+        "venue_official",
+        null,
+        "Amazon Counter Assisted pickup & returns service for your Amazon packages."
+      ],
+      [
+        "cognitive",
+        "For grocery pickup, the chain guide says to select the store and a one-hour window, await the ready notification, then check in through the confirmation email or Amazon app before arrival.",
+        "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "venue_official",
+        null,
+        [
+          "Choose your store and a 1-hour pickup window at checkout that works for you.",
+          "After you place an order online, you’ll receive a notification when your order is ready for pickup. Before arriving, check in through your confirmation email or Amazon app to let us know you’re on your way."
+        ]
+      ],
+      [
+        "mobility",
+        "The chain guide describes trunk loading for curbside orders, but warns that some stores require indoor collection. Follow this order’s instructions; a curbside bay at Edmondson Road has not been verified.",
+        "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "venue_official",
+        null,
+        [
+          "With curbside pickup, we’ll place your order directly in the trunk of your car.",
+          "Make sure to double-check your email instructions as some stores may require you to go inside the store to pick up."
+        ]
+      ],
+      [
+        "cognitive",
+        "The chain guide says missed-window orders are held until store close; check in through the app or confirmation email when heading over.",
+        "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "venue_official",
+        null,
+        "We’ll hold your order until store close. When you’re on your way, let us know by checking in via the Amazon app or your confirmation email."
+      ],
+      [
+        "mobility",
+        "The chain offers a checkout option to leave deliveries at the doorstep; orders containing alcohol cannot use it. This does not promise indoor carrying or unpacking.",
+        "https://www.wholefoodsmarket.com/fmc/m/20190079/?almBrandId=VUZHIFdob2xlIEZvb2Rz",
+        "venue_official",
+        null,
+        "Customers ordering delivery from Whole Foods Market can select “Unattended Delivery” during checkout and your order will be left at your doorstep. Note, orders containing alcohol are not eligible for unattended delivery."
+      ],
+      [
+        "chronic",
+        "Whole Foods Market’s store policy welcomes service animals and excludes them from its no-pets rule.",
+        "https://www.wholefoodsmarket.com/customer-service/topics/stores",
+        "venue_official",
+        null,
+        "Whole Foods Market welcomes all Service Animals. Our \"No Pets\" policy does not apply to Service Animals."
+      ]
+    ]
+  }
+]

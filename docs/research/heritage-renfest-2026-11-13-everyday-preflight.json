@@ -1,0 +1,58 @@
+[
+  {
+    "key": "aldi-newport",
+    "url": "https://stores.aldi.us/ky/newport/1301-monmouth-street",
+    "status": 200,
+    "final_url": "https://www.aldi.us/store/aldi/pages/locator/l/ky/newport/1301-monmouth-street/f560",
+    "last_modified": null,
+    "sha256": "30b854f482f777f93822fff4a3c6aa695ccb4c1a947404c0008691412644af8b",
+    "fingerprint_version": 6,
+    "chars": 29
+  },
+  {
+    "key": "aldi-info",
+    "url": "https://info.aldi.us/stores/l/ky/newport/1301-monmouth-street/f560",
+    "status": 200,
+    "final_url": "https://www.aldi.us/store/aldi/pages/locator/l/ky/newport/1301-monmouth-street/f560",
+    "last_modified": null,
+    "sha256": "30b854f482f777f93822fff4a3c6aa695ccb4c1a947404c0008691412644af8b",
+    "fingerprint_version": 6,
+    "chars": 29
+  },
+  {
+    "key": "aldi-how",
+    "url": "https://www.aldi.us/help/section/360008724892/360042990652",
+    "status": 200,
+    "final_url": "https://www.aldi.us/help/section/360008724892/360042990652",
+    "last_modified": null,
+    "sha256": "4d327b4e7d6c83237ed3e920233016dacfe445caf3c204cb64fe3f0714facdea",
+    "fingerprint_version": 6,
+    "chars": 2540
+  },
+  {
+    "key": "aldi-pickup",
+    "url": "https://www.aldi.us/store/aldi/pages/grocery-pickup",
+    "status": 200,
+    "final_url": "https://www.aldi.us/store/aldi/pages/grocery-pickup",
+    "last_modified": null,
+    "sha256": "1971ca5915fd8dfcb61e7b2fc9643be56ed0203c9f78901f7f3b5fcadaf5a132",
+    "fingerprint_version": 6,
+    "chars": 441
+  },
+  {
+    "key": "heritage-home",
+    "url": "https://heritagevillagecincinnati.org/",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "key": "renfest-joust",
+    "url": "https://renfestival.com/jousting/",
+    "status": 200,
+    "final_url": "https://renfestival.com/jousting/",
+    "last_modified": null,
+    "sha256": "af01744282235e788d15965837d4c48b1a576ffbae55ddfff1c15ada984a9446",
+    "fingerprint_version": 6,
+    "chars": 2782
+  }
+]
