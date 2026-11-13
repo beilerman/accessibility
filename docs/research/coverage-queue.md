@@ -1,23 +1,29 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Sign Museum, Treehouse, Mariemont and Krohn full reviews; Madison Road Fresh Market and R.C. Durr YMCA; five licensed photos and five original visual links.
+Updated November 13, 2026, after Taft Theatre, Eden Park and Heritage Bank Center full reviews; Music Hall partial review; Dunham recreation and GFS Florence; three licensed photos and four original visual links.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
 ## Accuracy follow-up before large expansion
 
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
-[the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
-evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft Museum. The
-remaining legacy missing-passage backlog is now **38 notes**. The latest pass adds
-four full reviews (25 old notes), repairing 18 missing passages (**56 → 38**).
-Nine corrections/clarifications are separate from **28 new IDs**. The preceding
-155-place batch is already in the publication base. Taft Theatre gains only a historical
-visual narrative; its note-review date is unchanged. Continue transit
-eligibility and assistance limits, entrances and toilets/changing facilities.
-TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
-support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
-not adjacent in the source. Preserve manual source conflicts and photo limits.
+[the implemented follow-up](accuracy-follow-up-2026-11-12.md). The legacy
+missing-passage backlog is **27 notes**, down from 38 in this pass. Three full
+reviews (Taft 10 old notes, Eden 5, Heritage 10) and a partial Music Hall review
+(15 old notes supported, two held) retain whole-clause evidence for **40 old
+notes: 28 unchanged and 12 revised**. Eleven missing passages were repaired.
+**34 new IDs** are separate growth; some relocate previously mis-sourced clauses.
+Music Hall's full-review date remains November 9. Its CSO sources returned empty
+shared-session responses; two sensory/interpretation notes are flagged, not verified.
+
+Next existing-venue batch: **Heritage Village Museum (eight missing passages)**
+and **Ohio Renaissance Festival (seven)**, then Molly Malone's Covington (four),
+AMC Newport (six) and Music Hall (two) as legitimate source access permits.
+Prioritize arrival, toilets/changing, assistance and seasonal restrictions.
+Use separate passages for independently changeable clauses and preserve source
+conflicts. Taft has conflicting re-entry wording, interpretation emails and
+sealed-drink quantities; Heritage's family-restroom section is 110 versus 112.
+See [the current batch report](taft-eden-heritage-dunham-2026-11-13.md).
 
 ## Breadth
 
@@ -51,9 +57,9 @@ Remke over repeatedly retrying blocked Kroger alone.
 delivery notes at 82 Carothers Road. Physical arrival, collection bay and in-store
 access remain unknown; no trunk-loading or indoor carrying service is inferred.
 
-The prepared catalog has 157 places: 32 arts venues, 31 parks/outdoors, 21 museums/
-attractions, 15 libraries, seven transport, sixteen food/drink, fourteen shopping,
-twelve public-service and nine recreation/fitness listings. Continue seeking
+The prepared catalog has 159 places: 32 arts venues, 31 parks/outdoors, 21 museums/
+attractions, 15 libraries, seven transport, sixteen food/drink, fifteen shopping,
+twelve public-service and ten recreation/fitness listings. Continue seeking
 concrete access information for everyday activities and less represented neighborhoods.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
@@ -80,7 +86,43 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 Sign Museum, Treehouse, Mariemont, Krohn and everyday access
+## Latest pass — November 13 Taft, Eden, Heritage, Music Hall, Dunham and GFS Florence
+
+- **Evidence:** three full old-venue reviews and one partial; 40 supported old
+  notes (28 unchanged, 12 revised), 11 missing passages repaired (**38 → 27**).
+  Two Music Hall CSO notes remain flagged. Its full-review date is unchanged.
+- **Growth:** 34 IDs — Taft 6, Eden 2, Heritage 5, Music Hall 2, Dunham 12,
+  GFS Florence 7. New listings cover West Price Hill recreation and Florence
+  groceries. CRC support is consultative; 2026 outdoor pool dates do not establish
+  winter or 2027 opening. The posted citywide pool pass excludes Dunham; no free
+  disability-companion admission is established. GFS confirms curbside car-loading
+  help; its differing
+  ordering workflows are not merged into a single promise.
+- **Photos:** 71 Commons candidates visually screened, three licensed full frames
+  added: Taft doors, Eden roadside sidewalk and Mirror Lake paving. Four original
+  links: Heritage's 2019 arena narrative, Eden gazebo/stage photos, Dunham activity
+  rooms and Music Hall Opera's 2025 narrative (screening, sinks, seats, break room).
+  Historical guide policies are not current performance arrangements. No AI added.
+- **Reliability:** fixed gzip responses being read as binary prose; regression
+  tests reject truncated/oversized expansion. Evidence gates remain mandatory.
+- **Held:** family-restroom conflict at Heritage; Taft event policy conflicts;
+  continuous routes, transfer help and adult changing; Music Hall CSO source
+  access; Remke collection procedures/hour conflict. Dunham renovation RFQ
+  attachment returned 502; design procurement/budget is not completed access work.
+- **Next photo work:** Taft Ballroom approach; Heritage event-day plaza route;
+  Eden seating ramps/winter toilets; Dunham entrance/pool/changing; GFS branch bay.
+  Follow Warren LeMay's Downtown Cincinnati album for specific useful frames,
+  not generic exterior substitutes. GFS's generic store image is not branch proof.
+- **Verification boundary:** final evidence, tests and publication readiness are
+  in `taft-eden-heritage-dunham-2026-11-13-validation.json`. Browser launch is
+  sandbox-blocked; runner checks remain required. No deployment was attempted.
+
+Late photo follow-through: Kevin Lush’s 2018 Taft lobby photograph is clear but
+has no established reuse licence. CRC aquatics thumbnails do not establish
+Dunham identity or ground-level access. See this batch’s two `-late-*-leads.json`
+receipts; do not import them as verified venue photos.
+
+## Previous pass — November 13 Sign Museum, Treehouse, Mariemont, Krohn and everyday access
 
 - **Evidence/freshness:** four full reviews, **25 old notes: 16 unchanged and nine
   revised**. Eighteen missing passages repaired (**56 → 38**). No partial note
@@ -139,7 +181,7 @@ entrance/toilet/changing/route photography.
   eight revised**. All 17 missing passages repaired (**73 → 56**). Summit five,
   Woodward five, Open four, Boone three. No partial note review; Treehouse's extra
   guide is photo-only with no date change. Old IDs and history remain intact.
-- **Growth:** **32 new IDs** — Summit 8, Woodward 3, Open 10, Boone 7 and new
+- **Growth:** **34 new IDs** — Summit 8, Woodward 3, Open 10, Boone 7 and new
   Newport Ace 4. The shopping category now has 13 listings.
 - **Corrections/depth:** current October tower closure replaces the surviving
   2022 page; seasonal restrooms/water and sensory-rink reservations are explicit.

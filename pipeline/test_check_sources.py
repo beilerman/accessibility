@@ -1,4 +1,5 @@
 import unittest
+import gzip
 
 import json
 import tempfile
@@ -60,6 +61,24 @@ class VisibleTextTests(unittest.TestCase):
 
 class FetchTrustTests(unittest.TestCase):
     URL = "https://official.example/access"
+
+    def test_gzip_official_html_matches_uncompressed_evidence(self):
+        body = b"<p>Medical exceptions may be made. Ask staff.</p>"
+        compressed = check_sources.response_result(gzip.compress(body), "text/html", 200, self.URL)
+        plain = check_sources.response_result(body, "text/html", 200, self.URL)
+        self.assertEqual(compressed, plain)
+        self.assertIn("Medical exceptions may be made", compressed["_text"])
+
+    def test_truncated_gzip_cannot_supply_evidence(self):
+        result = check_sources.response_result(gzip.compress(b"<p>Access</p>")[:-5], "text/html", 200, self.URL)
+        self.assertIsNone(result["status"])
+        self.assertNotIn("_text", result)
+
+    def test_gzip_expansion_limit_cannot_supply_evidence(self):
+        with patch.object(check_sources, "MAX_PDF_BYTES", 20):
+            result = check_sources.response_result(gzip.compress(b"A" * 21), "text/html", 200, self.URL)
+        self.assertIsNone(result["status"])
+        self.assertNotIn("_text", result)
 
     def tls_error(self):
         return urllib.error.URLError(ssl.SSLCertVerificationError(1, "unable to get local issuer"))

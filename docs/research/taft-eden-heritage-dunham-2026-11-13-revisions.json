@@ -1,0 +1,81 @@
+{
+  "taft-theatre.mobility.2": {
+    "text": "Taft describes ADA seating as consecutive odd-numbered seats designated as either an accessible space or a companion seat. Guests with a companion should buy two ADA tickets; seating is on a best-available basis. Confirm the specific spaces when booking.",
+    "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+    "quote": [
+      "ADA seating is arranged in consecutive odd-numbered, with each odd-numbered seat designated as either an accessible space or a companion seat. Guests attending with a companion should purchase two ADA-accessible tickets to ensure proper seating.",
+      "Seating in designated ADA sections is available on a best-available basis."
+    ],
+    "reason": "Removed an unsupported promise that accessible and companion spaces alternate; retained purchase and availability conditions."
+  },
+  "taft-theatre.chronic.2": {
+    "text": "The FAQ lists medically necessary bags, with the guest using them, as a possible clear-bag exception; all bags are searched. Its re-entry answer prohibits re-entry, but its smoking answer describes an outside Ballroom smoking area with a search on re-entry. Confirm arrangements before leaving.",
+    "source_url": "https://tafttheatre.org/venue-info/faq",
+    "quote": [
+      "Possible exceptions include: Medically necessary bags and diaper bags accompanied by the guest using them. All bags will be searched.",
+      "There is no re-entry for all events at Taft Theatre.",
+      "The Taft Theatre is a smoke-free facility. There is a designated smoking area outside The Ballroom entrance and patrons are subject to search by our event staff upon re-entry."
+    ],
+    "reason": "Preserved the medical-bag qualifier and exposed conflicting re-entry answers on the same current FAQ."
+  },
+  "taft-theatre.chronic.4": {
+    "text": "Guests may bring two unfrozen, commercially sealed non-alcoholic drinks in plastic bottles, up to 33.8 fl oz each; canned water is prohibited.",
+    "source_url": "https://tafttheatre.org/venue-info/faq",
+    "quote": [
+      "Patrons are allowed 2 unfrozen, commercially-sealed non-alcoholic beverages in plastic bottles (up to 33.8 fl oz each).",
+      "Canned water is prohibited."
+    ],
+    "reason": "Restored unfrozen and commercially sealed conditions and the explicit canned-water restriction."
+  },
+  "eden-park.mobility.1": {
+    "text": "In its July 26, 2020 article, Cincinnati Parks describes ramps to previously unreachable seating areas at Seasongood Pavilion on a steeply sloping site. This is a historical description, not confirmation of present surfaces or a complete arrival route.",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+    "quote": "Seasongood Pavilion – Eden Park’s outdoor amphitheater is accessible with ramps providing access to seating areas that were previously inaccessible on this steeply sloping site.",
+    "reason": "Made the age and limited scope of the ramp description explicit."
+  },
+  "eden-park.chronic.1": {
+    "text": "The park page lists Fulton restroom hours as 6 a.m.–10 p.m. April 15–October 31, and Monday–Friday 6:30 a.m.–3 p.m. November 1–April 14. It does not describe transfer space or changing equipment.",
+    "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+    "quote": "Eden Park Fulton Restrooms: In Season April 15 - October 31: Open 6 a.m. - 10 p.m. Off Season November 1 - April 14: Open Monday - Friday 6:30 a.m. - 3 p.m.",
+    "reason": "Added the in-season hours while preserving the narrower winter weekday window and unverified physical facilities."
+  },
+  "heritage-bank-center.chronic.1": {
+    "text": "Medical bags are excepted from the bag rules but receive a full search at entry. Outside food and drinks are prohibited, with possible medical exceptions; tell the security officer checking your bag.",
+    "source_url": "https://heritagebankcenter.com/venue-info",
+    "quote": [
+      "Exceptions: Diaper Bags with accompanying child & Medical Bags. These bags are subject to full search upon entry",
+      "Outside food and beverage are not permitted inside the venue. Exceptions may be made for medical reasons. Please inform the Security Officer checking your bag, if this is the case."
+    ],
+    "reason": "Retained the discretionary medical exception, included drinks and restored the instruction to notify security."
+  },
+  "heritage-bank-center.chronic.2": {
+    "text": "The venue prohibits re-entry during events. Exceptions may be made for medical reasons or to return a prohibited item to a vehicle; they are not guaranteed.",
+    "source_url": "https://heritagebankcenter.com/venue-info",
+    "quote": "The venue has a NO RE-ENTRY policy during events. Exceptions may be made in cases of medical reasons or to return a prohibited item to a vehicle.",
+    "reason": "Replaced an unconditional exception with the source’s discretionary wording."
+  },
+  "heritage-bank-center.cognitive.3": {
+    "text": "Guest Relations is on the Main Concourse by section 102 and helps guests with disabilities during events.",
+    "source_url": "https://heritagebankcenter.com/venue-info",
+    "quote": "Guest Relations Located at on the Main Concourse by Section 102. It is designed to provide answers to questions or issues during an event. In addition, it provides assistance to guests with disabilities.",
+    "reason": "Added the source’s specific assistance-desk location."
+  },
+  "heritage-bank-center.chronic.3": {
+    "text": "The amenities page locates the family restroom it describes as accessible behind section 110, next to Donatos and First Aid. Compare the separate venue-information note and confirm the location with staff.",
+    "source_url": "https://heritagebankcenter.com/amenities",
+    "quote": "The Handicap Accessible / Family restroom is located behind section 110 next to Donatos and First Aid",
+    "reason": "Removed clauses supported only by the other page; retained this page’s section-110 statement. The conflicting section-112 and trained First Aid statements are moved to a separately cited note."
+  },
+  "heritage-bank-center.cognitive.4": {
+    "text": "The venue’s animal policy permits only service animals and says they must remain on a harness in ticketed areas without blocking aisles or hallways. This is the venue’s published wording.",
+    "source_url": "https://heritagebankcenter.com/venue-info",
+    "quote": "Only service animals are permitted inside of the venue. They must stay on a harness in ticketed areas and may not block any aisle, hallway, etc.",
+    "reason": "Explicitly attributed the harness statement to venue policy rather than presenting a legal interpretation."
+  },
+  "heritage-bank-center.sensory.2": {
+    "text": "All guests are subject to metal-detector screening, visual inspection and bag inspection by venue security.",
+    "source_url": "https://heritagebankcenter.com/venue-info",
+    "quote": "All guests entering the venue are subject to a metal-detector screening, visual inspection, and bag inspection conducted by Heritage Bank Center Security personnel.",
+    "reason": "Matched subject-to wording and included the visual-inspection clause."
+  }
+}

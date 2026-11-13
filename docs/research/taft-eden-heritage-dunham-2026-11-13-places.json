@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "dunham-recreation-center-pool",
+    "name": "Dunham Recreation Center & Otto Armleder Pool",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "4356 Dunham Lane, Cincinnati, OH 45238",
+    "website": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+    "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+    "limitations": "Public website information; no on-site audit. The zero-depth feature belongs to the outdoor pool, not proof of a continuous route through the recreation center. Parking-to-door routes, thresholds, door controls, pool-chair/lift availability, transfer assistance, toilet layouts and adult changing equipment remain unverified. The pool dates and late-day entry rule are published for summer 2026, not November operation or a 2027 schedule. CRC accommodation types describe a systemwide consultation process, not guaranteed staffing or equipment at Dunham. Confirm support and admission for the chosen activity.",
+    "facts": [
+      [
+        "cognitive",
+        "The recreation center is at 4356 Dunham Lane; call 513-251-5862 to discuss the visit or activity.",
+        "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+        "public_agency",
+        null,
+        "Address: 4356 Dunham Lane Cincinnati, OH 45238 Phone: 513-251-5862"
+      ],
+      [
+        "mobility",
+        "CRC lists the Dunham Otto Armleder pool with a shallow area, zero-depth entry, a slide and sprayground. This does not establish a pool lift, water wheelchair or assistance with transfers.",
+        "https://www.cincinnati-oh.gov/crc/aquatics/",
+        "public_agency",
+        null,
+        "Dunham: Otto Armleder Regional Aquatic Center May 30th Dunham 4356 Dunham Lane Cincinnati, Ohio 45238 Shallow, Zero Depth Entry, Slide, Sprayground"
+      ],
+      [
+        "cognitive",
+        "The posted 2026 pool schedule lists August 8 as Dunham’s closing date. This is summer 2026 information, not confirmation of November opening or a 2027 season.",
+        "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+        "public_agency",
+        null,
+        [
+          "Pool 2026 Open 2026 Close SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY",
+          "Dunham Otto Armleder members only swim open swim members only entry* 6/6 8/8"
+        ]
+      ],
+      [
+        "cognitive",
+        "Under the posted 2026 schedule, entry after 4:30 p.m. Friday–Sunday is for members only because of capacity. Other guests already inside may stay and swim. Confirm next season’s arrangements before travelling.",
+        "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+        "public_agency",
+        null,
+        [
+          "Pool 2026 Open 2026 Close SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY",
+          "Due to capacity considerations, Dunham Otto Armleder Pool restricts entry from 4:30pm to closing for members only. Other guests are welcome to stay and swim but cannot enter after 4:30pm Friday - Sunday."
+        ]
+      ],
+      [
+        "cognitive",
+        "CRC asks people who need support to request an Accommodation and Assessment Form when registering at the recreation center. It formally requests additional assistance; it is not confirmation that a particular support has been arranged.",
+        "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "public_agency",
+        null,
+        "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center. This document is used to formally request additional assistance you may require."
+      ],
+      [
+        "chronic",
+        "CRC’s systemwide Inclusion Team lists assistance with daily living, adaptive equipment, increased supervision, behavior supports and Boardmaker communication tools among accommodation types. Discuss the actual support needed; this is not a guarantee of personal care or equipment at Dunham.",
+        "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "public_agency",
+        null,
+        [
+          "We provide a consultative approach to supporting individuals with disabilities in all CRC programs and facilities.",
+          "The TR Division’s Inclusion Team was created to assist CRC’s recreation center staff with accommodations, education, and materials to aid them in including individuals with disabilities in their programs and activities. Types of Accommodations Changes in Rules and/or Policies Assistance with ADLs (activities of daily living) Architectural Changes Adaptive Equipment Increased Supervision Behavior Supports Specialized Training for Staff Boardmaker Tools for Communication"
+        ]
+      ],
+      [
+        "chronic",
+        "CRC says separate fees apply to some programs, fitness access and pool access. A recreation-center membership alone does not establish pool admission.",
+        "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "public_agency",
+        null,
+        "Separate fees apply for certain programs, fitness access, and pool access."
+      ]
+    ]
+  }
+]

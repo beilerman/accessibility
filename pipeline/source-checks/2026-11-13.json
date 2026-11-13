@@ -252,10 +252,10 @@
     "https://heritagebankcenter.com/venue-info": {
       "status": 200,
       "final_url": "https://heritagebankcenter.com/venue-info",
-      "last_modified": "Wed, 11 Nov 2026 00:03:15 GMT",
-      "sha256": "98405b69faeaa9a80354b8994d5cb688f9b49a74a6835a9df8daa10400e23263",
-      "fingerprint_version": 5,
-      "chars": 20344
+      "last_modified": "Fri, 13 Nov 2026 21:52:04 GMT",
+      "sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+      "fingerprint_version": 6,
+      "chars": 20529
     },
     "https://heritagevillagecincinnati.org/access-and-accommodations/": {
       "status": 403,
@@ -374,15 +374,15 @@
       "final_url": "https://tafttheatre.org/plan-your-visit/accessibility",
       "last_modified": null,
       "sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1374
     },
     "https://tafttheatre.org/venue-info/faq": {
       "status": 200,
       "final_url": "https://tafttheatre.org/venue-info/faq",
       "last_modified": null,
-      "sha256": "6f3d821f97da4a2dec25b2b26a80d97ad4e955e8656e7ff7d7dc542094801ada",
-      "fingerprint_version": 5,
+      "sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+      "fingerprint_version": 6,
       "chars": 12120
     },
     "https://thecarnegie.com/about/visiting-the-carnegie/": {
@@ -605,9 +605,9 @@
       "status": 200,
       "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
       "last_modified": null,
-      "sha256": "ce8e03b456af19aea6315fbfed77708272a2e57f2eb4fb59690abb4de48d56f8",
-      "fingerprint_version": 5,
-      "chars": 25481
+      "sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+      "fingerprint_version": 6,
+      "chars": 30364
     },
     "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": {
       "status": 200,
@@ -1228,10 +1228,10 @@
     "https://heritagebankcenter.com/amenities": {
       "status": 200,
       "final_url": "https://heritagebankcenter.com/amenities",
-      "last_modified": "Tue, 10 Nov 2026 23:36:46 GMT",
-      "sha256": "ef4ca36f91664abcb35c87d0e2f21fc84fe4dd497467fd18358fb9e5b049fb77",
-      "fingerprint_version": 5,
-      "chars": 4601
+      "last_modified": "Fri, 13 Nov 2026 21:52:04 GMT",
+      "sha256": "017aef1f66774bf541f560862e30c691f5fba10bb83a0b9916cb253ad081c47f",
+      "fingerprint_version": 6,
+      "chars": 4769
     },
     "https://heritagevillagecincinnati.org/frequently-asked-questions/": {
       "status": 403,
@@ -3915,12 +3915,66 @@
       "sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
       "fingerprint_version": 6,
       "chars": 11556
+    },
+    "https://www.cincinnati-oh.gov/crc/aquatics/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+      "last_modified": null,
+      "sha256": "a7b5f9bf632ec5effe284f8deb78ac0b963782352964aee58d1ac91b8b843fc2",
+      "fingerprint_version": 6,
+      "chars": 5059
+    },
+    "https://tafttheatre.org/venue-info/rules-and-prohibited-items": {
+      "status": 200,
+      "final_url": "https://tafttheatre.org/venue-info/rules-and-prohibited-items",
+      "last_modified": null,
+      "sha256": "622130a303bda1d566e88c1d50f941dc4b3d36077061916f9f831ebaea3795d7",
+      "fingerprint_version": 6,
+      "chars": 6094
+    },
+    "https://www.gfsstore.com/in-store-pickup/": {
+      "status": 200,
+      "final_url": "https://www.gfsstore.com/in-store-pickup/",
+      "last_modified": null,
+      "sha256": "4547c4537247fffd159b72a92a98bd175ee30d934b9d783bf702c57647fc68f2",
+      "fingerprint_version": 6,
+      "chars": 5193
+    },
+    "https://www.gfsstore.com/locations/florence/": {
+      "status": 200,
+      "final_url": "https://www.gfsstore.com/locations/florence/",
+      "last_modified": null,
+      "sha256": "34819608f917290983d097e8b052b3a50aeb53df16a514b03517e77b52372406",
+      "fingerprint_version": 6,
+      "chars": 1120
+    },
+    "https://www.gfsstore.com/terms-of-use-agreement/": {
+      "status": 200,
+      "final_url": "https://www.gfsstore.com/terms-of-use-agreement/",
+      "last_modified": null,
+      "sha256": "935c0c221be1922bc3b188529a294c8cbff747bf7418f283ba6b63ecc5b67033",
+      "fingerprint_version": 6,
+      "chars": 17028
+    },
+    "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+      "last_modified": null,
+      "sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775",
+      "fingerprint_version": 6,
+      "chars": 1252
+    },
+    "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/",
+      "last_modified": null,
+      "sha256": "d3026587c1bf3ce7be1d1fe255aa2087eeb319ca6f086ea51210b897271fba7e",
+      "fingerprint_version": 6,
+      "chars": 4067
     }
   },
   "findings": {
-    "https://heritagebankcenter.com/venue-info": "supported",
     "https://renfestival.com/faq/": "supported",
-    "https://tafttheatre.org/venue-info/faq": "supported",
     "https://www.kentonlibrary.org/locations/5/": "supported",
     "https://www.southgatehouse.com/about/": "supported",
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked",

@@ -2620,6 +2620,19 @@
   "source_sha256": "4f7df2f5104dc808a01bc3a028a9ba57718b72258b543e896bb30b9a2e736d33",
   "final_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/"
  },
+ "cincinnati-music-hall.chronic.7": {
+  "url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/",
+  "quote": "Indoor tours are approximately 90-minutes length. Outdoor walking tours are typically 90-minutes.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Tour paths are subject to change.",
+   "it does cross the street occasionally. These are main roads that have a fair amount of foot traffic. Tours take place near traffic where sidewalks are old in some areas and there is active construction occurring around the building",
+   "The route does not go up or down any stairs or hills."
+  ],
+  "claim_sha256": "311ba163bfa3a5dad15af164d284c46fdd083d9f3d5537e0117c5f1bb50d45e9",
+  "source_sha256": "4f7df2f5104dc808a01bc3a028a9ba57718b72258b543e896bb30b9a2e736d33",
+  "final_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/"
+ },
  "cincinnati-music-hall.cognitive.1": {
   "url": "https://www.cincinnatiarts.org/plan-your-visit/safety-procedures",
   "quote": "MUSIC HALL: You may enter Music Hall anytime beginning one to one-and-one-half hours before the start of an event, depending on the policies of the performance.",
@@ -2655,6 +2668,14 @@
   "source_sha256": "f03095747f8f0457975e981f8e77d31dcf2d66291fe4dac1e324adc4d3a97969",
   "final_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2"
  },
+ "cincinnati-music-hall.mobility.3": {
+  "url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1",
+  "quote": "There are several ADA Accessible spots at the Washington Park Garage across the street from Music Hall, as well as at the surface parking lot located between Music Hall and Memorial Hall.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f48c0613e9e72992ada8982424685b852dec1b6e54a8f2b88918c42f0c60e120",
+  "source_sha256": "5251b59e6a7476ba36e7edb2377f8d0fc58b230ce003771aca6e90eb76301ff0",
+  "final_url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1"
+ },
  "cincinnati-music-hall.mobility.4": {
   "url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
   "quote": "Special seating is available for guests unable to transfer out of their wheelchairs or with other special seating needs. When possible, contact the Box Office in advance.",
@@ -2682,6 +2703,14 @@
   "claim_sha256": "3abe9c44c53ea169558584d82567a131b09f5f75d2aa02b4aa30ff874bd79c89",
   "source_sha256": "4f7df2f5104dc808a01bc3a028a9ba57718b72258b543e896bb30b9a2e736d33",
   "final_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/"
+ },
+ "cincinnati-music-hall.mobility.7": {
+  "url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1",
+  "quote": "On FC Cincinnati game days, parking will be unavailable or limited to the general public at the following locations due to pre-paid FCC passes: Town Center Garage (no availability ), Washington Park Garage (limited availability), and Mercer Garage OTR (limited availability)",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a09b216906ae202f23936ab366e4baa823b1fbf683c24b28923dacf95ec308e1",
+  "source_sha256": "5251b59e6a7476ba36e7edb2377f8d0fc58b230ce003771aca6e90eb76301ff0",
+  "final_url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1"
  },
  "cincinnati-music-hall.sensory.1": {
   "url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
@@ -4577,6 +4606,121 @@
   "quote": "The 9th St. entrance is closed. Please enter on Vine St. or Walnut St.",
   "verified_at": "2026-11-12"
  },
+ "dunham-recreation-center-pool.chronic.1": {
+  "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+  "quote": "We provide a consultative approach to supporting individuals with disabilities in all CRC programs and facilities.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The TR Division’s Inclusion Team was created to assist CRC’s recreation center staff with accommodations, education, and materials to aid them in including individuals with disabilities in their programs and activities. Types of Accommodations Changes in Rules and/or Policies Assistance with ADLs (activities of daily living) Architectural Changes Adaptive Equipment Increased Supervision Behavior Supports Specialized Training for Staff Boardmaker Tools for Communication"
+  ],
+  "claim_sha256": "1f09cc0d95a96c19f3ee9047ab67011872879d9a07457eeb6d33e76b8056cb6a",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
+ },
+ "dunham-recreation-center-pool.chronic.2": {
+  "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+  "quote": "Separate fees apply for certain programs, fitness access, and pool access.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3ca5cada10c1c9f6e33600c8b4353f712fb262c48a1b45c892c736add09b0703",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
+ },
+ "dunham-recreation-center-pool.chronic.3": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+  "quote": "All incontinent swimmers (adults or children) must wear swim diapers/non-biodegradable diapers made for swimming.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Please change diapers in the restroom and not at poolside."
+  ],
+  "claim_sha256": "0cfdec3564d142385ca0ab9ddd4e034842a5cec5afd728a475fdc67628140a73",
+  "source_sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/"
+ },
+ "dunham-recreation-center-pool.chronic.4": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/",
+  "quote": "A pool membership or a daily user fee is required for all patrons entering the facility, including infants and adults who are supervising children.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3a4e140e692a28ef9407eee4dec6c8e212da2c14f9b81d6c6d7ee3dca73d3064",
+  "source_sha256": "d3026587c1bf3ce7be1d1fe255aa2087eeb319ca6f086ea51210b897271fba7e",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/"
+ },
+ "dunham-recreation-center-pool.cognitive.1": {
+  "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+  "quote": "Address: 4356 Dunham Lane Cincinnati, OH 45238 Phone: 513-251-5862",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "1f58e2889a584fde8a4b3823f6c611343e803012e5d87e7750733b3f51f2c1b9",
+  "source_sha256": "93405731bf0cde872a208ec3c3b8b6d4392500d2760fadcc4b971ede563ca05c",
+  "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/"
+ },
+ "dunham-recreation-center-pool.cognitive.2": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+  "quote": "Pool 2026 Open 2026 Close SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Dunham Otto Armleder members only swim open swim members only entry* 6/6 8/8"
+  ],
+  "claim_sha256": "0fb036f481183ee8bec5c86e34c688c04f69aad0ec9fe0f00931cd98232c6671",
+  "source_sha256": "00803e7b668fa46f1e02203fbc955236537bf90f24cd7dc1e548dde0f08ddbdd",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/"
+ },
+ "dunham-recreation-center-pool.cognitive.3": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+  "quote": "Pool 2026 Open 2026 Close SUNDAY MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY SATURDAY",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Due to capacity considerations, Dunham Otto Armleder Pool restricts entry from 4:30pm to closing for members only. Other guests are welcome to stay and swim but cannot enter after 4:30pm Friday - Sunday."
+  ],
+  "claim_sha256": "cd7f2034b117cccadab9183c418abf8f1a7aa78e1b27121cd84d2b1c690ce02c",
+  "source_sha256": "00803e7b668fa46f1e02203fbc955236537bf90f24cd7dc1e548dde0f08ddbdd",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/"
+ },
+ "dunham-recreation-center-pool.cognitive.4": {
+  "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+  "quote": "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center. This document is used to formally request additional assistance you may require.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c1a898d88b572ddd02f1f1c451c0f77b60d86aff9c5b3af91f94c649782bda33",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
+ },
+ "dunham-recreation-center-pool.cognitive.5": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/",
+  "quote": "CRC CITYWIDE POOL Membership FEES 2026",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Dunham Otto Armleder pool is not included in the CRC Citywide pool membership.",
+   "Purchase a Dunham pool membership which is valid at all 24 CRC pools or opt for daily user fees for your group."
+  ],
+  "claim_sha256": "0a3de631f704e2aa7b527bb11647e92e92480ed84a2fea1015f3a6be5d52a8b8",
+  "source_sha256": "d3026587c1bf3ce7be1d1fe255aa2087eeb319ca6f086ea51210b897271fba7e",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/"
+ },
+ "dunham-recreation-center-pool.mobility.1": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+  "quote": "Dunham: Otto Armleder Regional Aquatic Center May 30th Dunham 4356 Dunham Lane Cincinnati, Ohio 45238 Shallow, Zero Depth Entry, Slide, Sprayground",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "42e6a30b0f0d0153a8a077b0cf96613746d1c263b8a18c6bbdc54412798da200",
+  "source_sha256": "a7b5f9bf632ec5effe284f8deb78ac0b963782352964aee58d1ac91b8b843fc2",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/"
+ },
+ "dunham-recreation-center-pool.mobility.2": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+  "quote": "U.S. Coast Guard approved life jacket Types I, II, and III are suggested for non-swimmers and are available for use at all pools at no cost.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Managers may decide to keep lifejacket swimmers away from the deeper end of the pool (5ft) if crowded, or extremely weak swimmers."
+  ],
+  "claim_sha256": "ed47c1e822c434e8cac50b94d75334076630b1e5dc751941c9e1b9422374bdca",
+  "source_sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/"
+ },
+ "dunham-recreation-center-pool.sensory.1": {
+  "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+  "quote": "Swim GOGGLES are acceptable. Face masks covering eyes and nose, fins, and snorkel are permitted only during organized swim class, Discover SCUBA program, or underwater hockey games.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c9bb826823a7cb906f8acb02a6f6f85ab30f46ba160fbea5c133896b89ceb70f",
+  "source_sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775",
+  "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/"
+ },
  "dunham-recreation-complex.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
   "quote": "Please Note: Separate fees apply for certain programs, fitness access, and pool access.",
@@ -4611,6 +4755,74 @@
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
   "quote": "Types of Accommodations Changes in Rules and/or Policies Assistance with ADLs (activities of daily living) Architectural Changes Adaptive Equipment Increased Supervision Behavior Supports Specialized Training for Staff Boardmaker Tools for Communication",
   "verified_at": "2026-11-12"
+ },
+ "eden-park.chronic.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+  "quote": "Eden Park Fulton Restrooms: In Season April 15 - October 31: Open 6 a.m. - 10 p.m. Off Season November 1 - April 14: Open Monday - Friday 6:30 a.m. - 3 p.m.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "4ac9006a147722b4d0fef0020f8dfc539f830032cc61bab558a3891e249fa1fb",
+  "source_sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/"
+ },
+ "eden-park.chronic.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+  "quote": "Public Restrooms",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Eden Park Seasongood Pavilion: In Season April 15 - October 31: Open 7 a.m. - 2 p.m. Eden Park Twin Lakes Restrooms: In Season April 15 - October 31: Open 6 a.m. - 10 p.m."
+  ],
+  "claim_sha256": "1f0e5cd6caeb2a34e1b0cfa97dbedf179d6b2cbbd657850d36c869ca2cf32c50",
+  "source_sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/"
+ },
+ "eden-park.cognitive.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+  "quote": "HOURS Open 6:00 AM to 10:00 PM",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d8dfd4d002bbeada631055353d0425e6059f7e4643c8ce2eac4aa18dc91a899b",
+  "source_sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/"
+ },
+ "eden-park.cognitive.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+  "quote": "Cincinnati Parks is committed to providing a quality experience at all our parks and facilities by providing reasonable accommodations for individuals with disabilities upon request. To request an accommodation fill out a Reasonable Accommodation Request Form linked here.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For questions call us at 513-357-2604."
+  ],
+  "claim_sha256": "e615a097f5ea39133f206a2b1018be3db55fa6029f191ab2bdd761611f9b14cd",
+  "source_sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/"
+ },
+ "eden-park.mobility.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+  "quote": "Seasongood Pavilion – Eden Park’s outdoor amphitheater is accessible with ramps providing access to seating areas that were previously inaccessible on this steeply sloping site.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Jul 26, 2020"
+  ],
+  "claim_sha256": "d524353965e470ab009ecb6fc31d264b27c23c8c2d342d2f7f6bcac7edd1f8da",
+  "source_sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/"
+ },
+ "eden-park.mobility.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+  "quote": "Feature Descriptions Annual Gardens Basketball Courts (located at Toms Jones Commons) Benches",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Mirror Lake featuring Bettman Fountain Overlook Paved Walkway Perennial Gardens Picnic Areas Playgrounds"
+  ],
+  "claim_sha256": "b0877aad62bcd2855ad2874f38548eac63b3a415c36fdc4e19039c36daa30130",
+  "source_sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/"
+ },
+ "eden-park.mobility.3": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+  "quote": "Eden Park’s newest feature is Tom Jones Commons, which includes a walking loop, wetlands with a walking bridge, a picnic shelter, natural play areas, seating, improved landscaping, and a connection from the lower reservoir area to Seasongood Pavilion and Mirror Lake.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "e7599d88491164a3cc17b311ba99249bc1163fcccf9035ebe08d6e309438c9f8",
+  "source_sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/"
  },
  "ensemble-theatre-cincinnati.chronic.1": {
   "url": "https://ensemblecincinnati.org/visit/accessibility/",
@@ -6116,6 +6328,69 @@
   "quote": "They are located on the second, third and fourth floors of the building with no elevator.",
   "verified_at": "2026-11-12"
  },
+ "gordon-food-service-florence.chronic.1": {
+  "url": "https://www.gfsstore.com/in-store-pickup/",
+  "quote": "Can I have someone else pick up my order? Yes. However, if paying on account, the person must present their membership card.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "2f92d64a427292adf36c39c9af56b30d053e9b756dcdd6ad4a86708f2a9d8439",
+  "source_sha256": "4547c4537247fffd159b72a92a98bd175ee30d934b9d783bf702c57647fc68f2",
+  "final_url": "https://www.gfsstore.com/in-store-pickup/"
+ },
+ "gordon-food-service-florence.chronic.2": {
+  "url": "https://www.gfsstore.com/in-store-pickup/",
+  "quote": "We will usually hold your order for 24 hours past your scheduled pickup date, assuming it is safe to do so. Please Note: orders containing fresh items will only be available for pickup on your selected pickup date.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b074eeda074e65198b9ec1e98646aa2c28035f97126b52d4fd69947b9ef818f8",
+  "source_sha256": "4547c4537247fffd159b72a92a98bd175ee30d934b9d783bf702c57647fc68f2",
+  "final_url": "https://www.gfsstore.com/in-store-pickup/"
+ },
+ "gordon-food-service-florence.cognitive.1": {
+  "url": "https://www.gfsstore.com/locations/florence/",
+  "quote": "Florence Directions Your Store 5885 Merchants Florence, KY 41042 859-372-0240",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "48e7dff3026a37484a4741b1b6adaa7a3ce5f2a12f16a9742b01908cefbf03cb",
+  "source_sha256": "34819608f917290983d097e8b052b3a50aeb53df16a514b03517e77b52372406",
+  "final_url": "https://www.gfsstore.com/locations/florence/"
+ },
+ "gordon-food-service-florence.cognitive.2": {
+  "url": "https://www.gfsstore.com/locations/florence/",
+  "quote": "In-Store Pickup Order online and we’ll have it ready for you in the store.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Same Day Delivery Have an Instacart shopper bring your order to you."
+  ],
+  "claim_sha256": "01496a40f8a999996ab687409107621911bb472ea1bec2e6a51e39c04742ab03",
+  "source_sha256": "34819608f917290983d097e8b052b3a50aeb53df16a514b03517e77b52372406",
+  "final_url": "https://www.gfsstore.com/locations/florence/"
+ },
+ "gordon-food-service-florence.cognitive.3": {
+  "url": "https://www.gfsstore.com/terms-of-use-agreement/",
+  "quote": "Last Updated Date: March 20, 2020",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "When you place your order, you will be prompted to select a one-hour pickup window. Your order will be picked and ready by the pickup window selected. For stores offering Curbside Pickup, park in the designated Pickup Area and contact the store using the phone number provided.",
+   "For either pickup method, you will be asked to show a copy of your order confirmation ."
+  ],
+  "claim_sha256": "e78f1ef50c1d16101d775b255b7e74377401ffb88eb6f4b7c77f71ce3c526632",
+  "source_sha256": "935c0c221be1922bc3b188529a294c8cbff747bf7418f283ba6b63ecc5b67033",
+  "final_url": "https://www.gfsstore.com/terms-of-use-agreement/"
+ },
+ "gordon-food-service-florence.cognitive.4": {
+  "url": "https://www.gfsstore.com/in-store-pickup/",
+  "quote": "Not a Member? Stop by our Customer Service Desk and ask to browse the catalog of thousands of additional restaurant quality products for delivery to the store. Our Store Associate can help you find the product you’re looking for, order it and schedule a pickup date that works for you. When your order is ready to be picked up, the store will call you and let you know.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d1838c1b958886f816d1e04bea9eb8d5400a5ca6339e9984d5fdfb496aecb686",
+  "source_sha256": "4547c4537247fffd159b72a92a98bd175ee30d934b9d783bf702c57647fc68f2",
+  "final_url": "https://www.gfsstore.com/in-store-pickup/"
+ },
+ "gordon-food-service-florence.mobility.1": {
+  "url": "https://www.gfsstore.com/locations/florence/",
+  "quote": "Curbside Pickup Order online, drive up, and we’ll help load it into your car.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "eb44d69aa804bfab1e8e0277bfea9d79ea23314e0e3692054ebe7f4d308a38f2",
+  "source_sha256": "34819608f917290983d097e8b052b3a50aeb53df16a514b03517e77b52372406",
+  "final_url": "https://www.gfsstore.com/locations/florence/"
+ },
  "great-american-ball-park.chronic.1": {
   "url": "https://www.mlb.com/reds/ballpark/disability-access-guide",
   "quote": "Great American Ball Park has accessible seating available in the seating areas. Accessible seating areas are equipped with electrical outlets for recharging purposes at no cost to the Guest.\nAccessible seating is located in the last rows of Infield Box, Field Box, Terrace Line, Terrace Outfield, Mezzanine, Outer Mezzanine and View Level Box. The top accessible row of each section does have electrical outlets available for use.\nAll ADA seating is accessible by elevators and ramps.",
@@ -6610,48 +6885,132 @@
  },
  "heritage-bank-center.chronic.1": {
   "url": "https://heritagebankcenter.com/venue-info",
-  "quote": "Outside food and beverage are not permitted inside the venue. Exceptions may be made for medical reasons.",
-  "verified_at": "2026-11-10"
+  "quote": "Exceptions: Diaper Bags with accompanying child & Medical Bags. These bags are subject to full search upon entry",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Outside food and beverage are not permitted inside the venue. Exceptions may be made for medical reasons. Please inform the Security Officer checking your bag, if this is the case."
+  ],
+  "claim_sha256": "ab1b7fd61f16078b124badb95299262fa4d66a4370b492ae27f9505b7237e910",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.chronic.2": {
   "url": "https://heritagebankcenter.com/venue-info",
   "quote": "The venue has a NO RE-ENTRY policy during events. Exceptions may be made in cases of medical reasons or to return a prohibited item to a vehicle.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "578f02c407b20774f77d557852aa5448f439883fe29ecf84474bd0b611d91568",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
+ },
+ "heritage-bank-center.chronic.3": {
+  "url": "https://heritagebankcenter.com/amenities",
+  "quote": "The Handicap Accessible / Family restroom is located behind section 110 next to Donatos and First Aid",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c5a5de525a9cd6025273c3b8714095c36b979fa2654e7524c8b9d7db88b2b3ad",
+  "source_sha256": "017aef1f66774bf541f560862e30c691f5fba10bb83a0b9916cb253ad081c47f",
+  "final_url": "https://heritagebankcenter.com/amenities"
+ },
+ "heritage-bank-center.chronic.4": {
+  "url": "https://heritagebankcenter.com/venue-info",
+  "quote": "There is a family/accessible handicap behind section 112.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The First Aid room is located behind section 110. We have a trained first aid staff available during all events. Contact the nearest venue staff member if you are in need of assistance."
+  ],
+  "claim_sha256": "b5bd6f0943b43362aa322b9640b79d9fb1370692db5946e2b0004e478eeb8b8f",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
+ },
+ "heritage-bank-center.chronic.5": {
+  "url": "https://heritagebankcenter.com/venue-info",
+  "quote": "Baby changing stations are located in all public restrooms in the venue.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "459d4014f7c9a0d12ceb5f8ff4e360fcdcba4995761510b84d68d3f9a5ece705",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.cognitive.1": {
   "url": "https://heritagebankcenter.com/venue-info",
   "quote": "Guests with specific accessibility needs should contact the venue in advance to arrange. Please try to call at least three days before the event, if possible.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a52522e9af7c36022d5bc0972d70cc9da20dcb5c11b3267f9ddb723f6bf2f04e",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.cognitive.2": {
   "url": "https://heritagebankcenter.com/venue-info",
   "quote": "Download Our Social Narrative",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a70d577268df235b96b5fe8a5bdf2dadada09f3fc2b58eefd724e64fbd502bc5",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.cognitive.3": {
   "url": "https://heritagebankcenter.com/venue-info",
-  "quote": "It is designed to provide answers to questions or issues during an event. In addition, it provides assistance to guests with disabilities.",
-  "verified_at": "2026-11-10"
+  "quote": "Guest Relations Located at on the Main Concourse by Section 102. It is designed to provide answers to questions or issues during an event. In addition, it provides assistance to guests with disabilities.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0b19450b0ddc38a3df01f7eb0a2dbad607a81537420d6fcb58da94353e9fb0e0",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.cognitive.4": {
   "url": "https://heritagebankcenter.com/venue-info",
   "quote": "Only service animals are permitted inside of the venue. They must stay on a harness in ticketed areas and may not block any aisle, hallway, etc.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f533d1253ee80b9f9aae85dd92f16c4b7697f69b3e06c4e50699cfae445b5441",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
+ },
+ "heritage-bank-center.cognitive.5": {
+  "url": "https://heritagebankcenter.com/venue-info",
+  "quote": "If you encounter any issues during your time at the venue you can call or text 513-421-4111 at any time.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Each event may have exceptions to these policies, so be sure to check the specific event page before attending."
+  ],
+  "claim_sha256": "cb236ed37994a93908c5fd8b2b3871f4c188697b0df665631df090f1d8ab7ce3",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.mobility.1": {
   "url": "https://heritagebankcenter.com/venue-info",
   "quote": "There are three elevators in the venue, behind sections 103, 124, and 137.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "750d029d689f4bd49ba29536a5ebe1c9684674347c4b0287c7224152259d6629",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
+ },
+ "heritage-bank-center.mobility.2": {
+  "url": "https://heritagebankcenter.com/venue-info",
+  "quote": "The main box-office is located on the plaza level (4th floor of Heritage Bank Center facing Great American Ballpark). You may access the plaza level by utilizing the steps surrounding Heritage Bank Center and Great American Ballpark or by entering the security entrance (corner of Mehring Way and Old Broadway) on non-event days.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "666954c5f85583079def85104c0ad20a7a5d2d5609487b89faef0f680ae0935d",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
+ },
+ "heritage-bank-center.mobility.3": {
+  "url": "https://heritagebankcenter.com/venue-info",
+  "quote": "Pick up / Drop-Off Area The most convenient dropoff location is in on Main St/Joe Nuxhall Way in front of the Reds Hall of Fame.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "dc7ade163227c78d12be74707508ae143556a7b6d3be1ef668934f318bee76d5",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.sensory.1": {
   "url": "https://heritagebankcenter.com/venue-info",
-  "quote": "Kits include antiglare glasses, communication card, identification wristbands, noise-reducing ear covers, small \"fidget\" toy, sanitizing wipes & tissues, venue map & more.",
-  "verified_at": "2026-11-10"
+  "quote": "Heritage Bank Center offers sensory kits that you may check-out for patrons that are sensitive to auditory and visual stimulation. Kits include antiglare glasses, communication card, identification wristbands, noise-reducing ear covers, small \"fidget\" toy, sanitizing wipes & tissues, venue map & more. Please stop by the customer service desk (next to the main entrance) for more information.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "dde6fb906c90eafb87b9cfb73067aea3c850fde75ffc6e2112d3a7b02c3bcaa2",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "heritage-bank-center.sensory.2": {
   "url": "https://heritagebankcenter.com/venue-info",
   "quote": "All guests entering the venue are subject to a metal-detector screening, visual inspection, and bag inspection conducted by Heritage Bank Center Security personnel.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ae61a283876e720e14b64f125c6cca1786b4130a292c37d0c3951ac36a4180a3",
+  "source_sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+  "final_url": "https://heritagebankcenter.com/venue-info"
  },
  "hofbrauhaus-newport.chronic.1": {
   "url": "https://www.hofbrauhausnewport.com/",
@@ -11060,35 +11419,155 @@
   "source_sha256": "baa479e0a37fc2aa90b5c19ddf18401961acb5a8ce134d6b69626b57949f2bae",
   "final_url": "https://www.taftmuseum.org/visitor-information/"
  },
+ "taft-theatre.chronic.1": {
+  "url": "https://tafttheatre.org/plan-your-visit/accessibility",
+  "quote": "By purchasing tickets for the ADA section, you confirm that you or a member of your party requires reserved seating due to mobility or standing difficulties. To ensure that all guests enjoy an optimal viewing experience, you may be requested to remain seated in the ADA section throughout the event.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "50e17535737a6456d93a6427077dd8658b918f571a6e70f98030a40312456679",
+  "source_sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
+  "final_url": "https://tafttheatre.org/plan-your-visit/accessibility"
+ },
  "taft-theatre.chronic.2": {
   "url": "https://tafttheatre.org/venue-info/faq",
-  "quote": "Medically necessary bags and diaper bags accompanied by the guest using them. All bags will be searched.",
-  "verified_at": "2026-11-10"
+  "quote": "Possible exceptions include: Medically necessary bags and diaper bags accompanied by the guest using them. All bags will be searched.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "There is no re-entry for all events at Taft Theatre.",
+   "The Taft Theatre is a smoke-free facility. There is a designated smoking area outside The Ballroom entrance and patrons are subject to search by our event staff upon re-entry."
+  ],
+  "claim_sha256": "d68d04bb96a91de8473443952608a089b6d5d1fc8f0e5629e38a1b866a530930",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
  },
  "taft-theatre.chronic.3": {
   "url": "https://tafttheatre.org/venue-info/faq",
   "quote": "The venue is equipped with a gender-neutral and ADA accessible bathrooms to the right of the theatre doors in the main lobby.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Dewey’s Pizza cheese and pepperoni slices are available for purchase at the Main Bar across from The Ballroom accessible via the stairs below the Lobby and the Balcony stand overlooking the Lobby."
+  ],
+  "claim_sha256": "846c66fa704e93271e9b9f32287dc5859760eb79635967e9ed918a8a4d353497",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
  },
  "taft-theatre.chronic.4": {
   "url": "https://tafttheatre.org/venue-info/faq",
   "quote": "Patrons are allowed 2 unfrozen, commercially-sealed non-alcoholic beverages in plastic bottles (up to 33.8 fl oz each).",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Canned water is prohibited."
+  ],
+  "claim_sha256": "94372475d59eb7a3097fd04439530ca83e79eb4a73adf5bfbc0dcc89706b0299",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
+ },
+ "taft-theatre.chronic.5": {
+  "url": "https://tafttheatre.org/venue-info/faq",
+  "quote": "Alternatively, patrons can bring in soft, empty, squeezable plastic water bottles. Bottles can be filled up at the water fountain located in the lobby near the gender-neutral restroom.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "2fa3c4e7d68b1cd43a1a00d5502b8bcf53bf16a8e7775d4ea1e4cadb54da598d",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
+ },
+ "taft-theatre.chronic.6": {
+  "url": "https://tafttheatre.org/venue-info/faq",
+  "quote": "The First Aid area is located on the ground level to the left of the Ballroom entrance. Please seek out staff in a red MEMI First Aid polo shirt or ask a member of the Taft Theatre event staff to call for First Aid.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "375efcd916965bc3ffa0f80fc17fbe3ef77f3a8aca1d94926c99c4254dd386b7",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
+ },
+ "taft-theatre.chronic.7": {
+  "url": "https://tafttheatre.org/venue-info/rules-and-prohibited-items",
+  "quote": "Commercially-sealed non-alcoholic beverages in plastic bottles, cannot be frozen. Up to four 33.8 fl oz bottles per patron. Please check the event page of your show to check if these beverages need to be poured on the day of show. Canned beverages are prohibited.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "5160e9d31f66bb49e54a044ef6e9e916a5cde2a82f34533ad11a9c351b0d6281",
+  "source_sha256": "622130a303bda1d566e88c1d50f941dc4b3d36077061916f9f831ebaea3795d7",
+  "final_url": "https://tafttheatre.org/venue-info/rules-and-prohibited-items"
+ },
+ "taft-theatre.cognitive.1": {
+  "url": "https://tafttheatre.org/plan-your-visit/accessibility",
+  "quote": "Patrons requiring ADA, hearing-impaired, or visually-impaired seating must specify their needs at the time of ticket purchase.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "ADA tickets can be purchased online at Ticketmaster.com or in person at the venue box office during operating hours."
+  ],
+  "claim_sha256": "44b9242c53d10496695e71de180c77fe0bd21e4093d0d3db414ddce47f17f6a4",
+  "source_sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
+  "final_url": "https://tafttheatre.org/plan-your-visit/accessibility"
  },
  "taft-theatre.cognitive.2": {
   "url": "https://tafttheatre.org/venue-info/faq",
   "quote": "Yes, service animals covered under ADA Regulations are allowed for concerts and events in the venue.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "All guests entering the venue are subject to a metal-detector screening by way of magnetometer, visual inspection, and/or bag inspection conducted by venue security personnel."
+  ],
+  "claim_sha256": "e7c6a5bc414cf595497e0abf9e800b5c8a41b3d324cf9d04491d09efd2f86e7f",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
  },
  "taft-theatre.cognitive.3": {
   "url": "https://tafttheatre.org/venue-info/faq",
   "quote": "The Taft Theatre Box Office is located inside the venue, accessible by entering through the far-left doors at the main entrance off East 5th Street.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8c77d5f5ff5fba12a676de30c80a6348e9f0c6be5ff222b5bb2011d279412a03",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
  },
  "taft-theatre.mobility.1": {
   "url": "https://tafttheatre.org/venue-info/faq",
-  "quote": "No, there is not an elevator. All balcony seats require climbing stairs.",
-  "verified_at": "2026-11-10"
+  "quote": "Is there an elevator inside Taft Theatre? No, there is not an elevator. All balcony seats require climbing stairs.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ae93d13a9fc28a67453bf27b5ed1f71ecaf637e0846326269b5702d23018f6fb",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
+ },
+ "taft-theatre.mobility.2": {
+  "url": "https://tafttheatre.org/plan-your-visit/accessibility",
+  "quote": "ADA seating is arranged in consecutive odd-numbered, with each odd-numbered seat designated as either an accessible space or a companion seat. Guests attending with a companion should purchase two ADA-accessible tickets to ensure proper seating.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Seating in designated ADA sections is available on a best-available basis."
+  ],
+  "claim_sha256": "26975e5d51c211dc4ee6d850f016f507779998195651de7b32e6c1f0e88f7560",
+  "source_sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
+  "final_url": "https://tafttheatre.org/plan-your-visit/accessibility"
+ },
+ "taft-theatre.mobility.3": {
+  "url": "https://tafttheatre.org/venue-info/faq",
+  "quote": "The Taft Theatre main entrance is located under the marquee. The Ballroom at Taft Theatre entrance is located at the glass-paned door directly to the left of the main entrance when facing the venue from the street.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "1e7627f4ca82c1722cd8469a9658189e50ba59ad4b8bac87985f165f035dd6d2",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
+ },
+ "taft-theatre.mobility.4": {
+  "url": "https://tafttheatre.org/venue-info/faq",
+  "quote": "All patrons utilizing Uber, Lyft, or any other ridesharing service can use 5th Street or Sycamore Street.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0d3ee9426b588cbf1b48996faffd869960b7c077db2521a6c55bddc02347cbc4",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
+ },
+ "taft-theatre.sensory.1": {
+  "url": "https://tafttheatre.org/plan-your-visit/accessibility",
+  "quote": "Taft Theatre offers sign language interpretation upon request. Requests for sign language interpreting services must be received no later than 3 weeks before the event, and are subject to the availability of an interpreter. Please email info@tafttheatre.org to request an interpreter.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "9db3dad5aba51233c1fdc93513b5d2db6951ec3fb4837fe9be2bb2fbb16fd761",
+  "source_sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
+  "final_url": "https://tafttheatre.org/plan-your-visit/accessibility"
+ },
+ "taft-theatre.sensory.2": {
+  "url": "https://tafttheatre.org/venue-info/faq",
+  "quote": "Requests for sign language interpreting services must be received no later than 3 weeks before the event, and are subject to the availability of an interpreter. Please email info@tafttheatre.org to request an interpreter.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Requests for sign language interpreting services must be received no later than 3 weeks before the event and are subject to the availability of an interpreter. Please email info@memi.biz to request an interpreter."
+  ],
+  "claim_sha256": "bdb0c82abd0e0e0eaad140f4d116542f4d60ab2de0cafd7677009d61b7ffa80e",
+  "source_sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+  "final_url": "https://tafttheatre.org/venue-info/faq"
  },
  "tank-transit-authority-of-northern-kentucky.chronic.1": {
   "url": "https://www.tankbus.org/ada/",

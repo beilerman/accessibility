@@ -1,0 +1,104 @@
+{
+  "taft-theatre": [
+    [
+      "mobility",
+      "The main entrance is under the marquee. Facing the building from the street, the Ballroom entrance is the glass-paned door immediately to its left. These directions do not establish thresholds or a step-free route.",
+      "https://tafttheatre.org/venue-info/faq",
+      "venue_official",
+      "The Taft Theatre main entrance is located under the marquee. The Ballroom at Taft Theatre entrance is located at the glass-paned door directly to the left of the main entrance when facing the venue from the street."
+    ],
+    [
+      "chronic",
+      "As an alternative to sealed drinks, Taft permits soft, empty, squeezable plastic water bottles. The refill fountain is in the lobby near the gender-neutral restroom.",
+      "https://tafttheatre.org/venue-info/faq",
+      "venue_official",
+      "Alternatively, patrons can bring in soft, empty, squeezable plastic water bottles. Bottles can be filled up at the water fountain located in the lobby near the gender-neutral restroom."
+    ],
+    [
+      "chronic",
+      "First Aid is on the ground level left of the Ballroom entrance. Ask staff wearing a red MEMI First Aid polo, or ask event staff to call for assistance.",
+      "https://tafttheatre.org/venue-info/faq",
+      "venue_official",
+      "The First Aid area is located on the ground level to the left of the Ballroom entrance. Please seek out staff in a red MEMI First Aid polo shirt or ask a member of the Taft Theatre event staff to call for First Aid."
+    ],
+    [
+      "mobility",
+      "The FAQ directs rideshare users to 5th Street or Sycamore Street. It does not identify an accessible loading bay or a continuous route from the vehicle to the door.",
+      "https://tafttheatre.org/venue-info/faq",
+      "venue_official",
+      "All patrons utilizing Uber, Lyft, or any other ridesharing service can use 5th Street or Sycamore Street."
+    ],
+    [
+      "sensory",
+      "The FAQ gives two interpretation-request emails: info@tafttheatre.org in its ADA answer and info@memi.biz in its dedicated interpretation answer. Both require at least three weeks and depend on interpreter availability; confirm the request channel with the venue.",
+      "https://tafttheatre.org/venue-info/faq",
+      "venue_official",
+      [
+        "Requests for sign language interpreting services must be received no later than 3 weeks before the event, and are subject to the availability of an interpreter. Please email info@tafttheatre.org to request an interpreter.",
+        "Requests for sign language interpreting services must be received no later than 3 weeks before the event and are subject to the availability of an interpreter. Please email info@memi.biz to request an interpreter."
+      ]
+    ]
+  ],
+  "eden-park": [
+    [
+      "chronic",
+      "For April 15–October 31, the park page lists Seasongood Pavilion restroom hours as 7 a.m.–2 p.m. and Twin Lakes restroom hours as 6 a.m.–10 p.m. It gives no winter restroom hours for these two locations; confirm before relying on them.",
+      "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+      "public_agency",
+      [
+        "Public Restrooms",
+        "Eden Park Seasongood Pavilion: In Season April 15 - October 31: Open 7 a.m. - 2 p.m. Eden Park Twin Lakes Restrooms: In Season April 15 - October 31: Open 6 a.m. - 10 p.m."
+      ]
+    ],
+    [
+      "mobility",
+      "Tom Jones Commons has a walking loop, a bridge through the wetland area, seating and a picnic shelter, with a connection from the lower reservoir area to Seasongood Pavilion and Mirror Lake. The page does not give gradients or confirm that the entire connection is step-free.",
+      "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+      "public_agency",
+      "Eden Park’s newest feature is Tom Jones Commons, which includes a walking loop, wetlands with a walking bridge, a picnic shelter, natural play areas, seating, improved landscaping, and a connection from the lower reservoir area to Seasongood Pavilion and Mirror Lake."
+    ]
+  ],
+  "heritage-bank-center": [
+    [
+      "chronic",
+      "The venue-information page places the family restroom it describes as accessible behind section 112. It separately locates First Aid behind section 110, with trained staff during all events; ask the nearest staff member for help. Confirm the restroom location because the amenities note gives a different section.",
+      "https://heritagebankcenter.com/venue-info",
+      "venue_official",
+      [
+        "There is a family/accessible handicap behind section 112.",
+        "The First Aid room is located behind section 110. We have a trained first aid staff available during all events. Contact the nearest venue staff member if you are in need of assistance."
+      ]
+    ],
+    [
+      "chronic",
+      "The venue says all public restrooms have baby changing stations. This does not establish adult changing facilities or transfer equipment.",
+      "https://heritagebankcenter.com/venue-info",
+      "venue_official",
+      "Baby changing stations are located in all public restrooms in the venue."
+    ],
+    [
+      "mobility",
+      "The main box office is on the fourth-floor plaza facing Great American Ballpark. The venue lists surrounding steps or, on non-event days, the security entrance at Mehring Way and Old Broadway as ways to reach the plaza. Confirm an event-day step-free approach; no complete route is described.",
+      "https://heritagebankcenter.com/venue-info",
+      "venue_official",
+      "The main box-office is located on the plaza level (4th floor of Heritage Bank Center facing Great American Ballpark). You may access the plaza level by utilizing the steps surrounding Heritage Bank Center and Great American Ballpark or by entering the security entrance (corner of Mehring Way and Old Broadway) on non-event days."
+    ],
+    [
+      "mobility",
+      "The venue recommends drop-off on Main Street/Joe Nuxhall Way in front of the Reds Hall of Fame. The page does not describe curb height, a loading bay or a continuous route from there to the arena entrance.",
+      "https://heritagebankcenter.com/venue-info",
+      "venue_official",
+      "Pick up / Drop-Off Area The most convenient dropoff location is in on Main St/Joe Nuxhall Way in front of the Reds Hall of Fame."
+    ],
+    [
+      "cognitive",
+      "For problems during a visit, the venue offers calls or texts to 513-421-4111. Event-specific exceptions can apply to its policies, so check the event page before attending.",
+      "https://heritagebankcenter.com/venue-info",
+      "venue_official",
+      [
+        "If you encounter any issues during your time at the venue you can call or text 513-421-4111 at any time.",
+        "Each event may have exceptions to these policies, so be sure to check the specific event page before attending."
+      ]
+    ]
+  ]
+}

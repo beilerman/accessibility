@@ -1,0 +1,166 @@
+{
+  "checked_at_utc": "2026-11-13T22:08:53.834038+00:00",
+  "base_commit": "5ce2098435f8ea169cce86ce0a288b6b7c618589",
+  "workspace": "dedicated Threshold Updates workspace",
+  "publication_state": "Prepared for runner validation and atomic Git publication; not deployed",
+  "publish_ready": true,
+  "progress": {
+    "new_venues": 2,
+    "new_note_ids": 34,
+    "old_notes_revised": 12,
+    "old_notes_unchanged_rechecked": 28,
+    "old_notes_newly_flagged": 2,
+    "missing_evidence_backfilled": 11,
+    "fully_rechecked_venues": [
+      "taft-theatre",
+      "eden-park",
+      "heritage-bank-center"
+    ],
+    "partly_rechecked_venues": [
+      "cincinnati-music-hall"
+    ],
+    "licensed_photos_added": 3,
+    "original_guide_links_added": 4,
+    "remaining_unquoted_notes": 27
+  },
+  "checks": {
+    "unit": {
+      "passed": 102,
+      "failed": 0,
+      "command": "npm test"
+    },
+    "pipeline": {
+      "passed": 79,
+      "failed": 0,
+      "command": "uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'"
+    },
+    "lint": {
+      "exit_code": 0,
+      "command": "npm run lint"
+    },
+    "typescript": {
+      "exit_code": 0,
+      "command": "npx tsc --noEmit"
+    },
+    "production_build": {
+      "exit_code": 0,
+      "generated_pages": 174,
+      "warning": "Atkinson Hyperlegible Next fallback font metrics unavailable; build succeeded",
+      "command": "npm run build"
+    },
+    "final_evidence": {
+      "checked": 76,
+      "failed": 0,
+      "note_claims": 74,
+      "new_addresses": 2,
+      "compound_passages_supported": true,
+      "editorial_scope_conditions_and_dates_reviewed": true
+    },
+    "selected_source_baselines": {
+      "http_200": 21,
+      "unselected_baselines_and_findings_preserved": true
+    },
+    "git_diff_check": {
+      "exit_code": 0
+    },
+    "conflict_markers": {
+      "found": 0
+    },
+    "browser": {
+      "status": "blocked_by_host_launch",
+      "passed": 0,
+      "final_tests_discovered": 147,
+      "reason": "Chromium MachPortRendezvousServer bootstrap_check_in: Permission denied (1100)",
+      "initial_attempt": "First page could not launch; 145 remaining tests did not run in the then-146-test suite. GFS route was added afterward; final list has 147 tests.",
+      "runner_browser_checks_required": true,
+      "no_browser_layout_or_axe_success_claimed": true
+    },
+    "static_generation_integrity": {
+      "unchanged_existing_places": 153,
+      "original_ids_preserved": true,
+      "original_histories_preserved": true,
+      "retired_notes_preserved": true,
+      "music_hall_full_date_preserved": true,
+      "generated_html": [
+        {
+          "slug": "cincinnati-music-hall",
+          "visible_active_notes": 19,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "heritage-bank-center",
+          "visible_active_notes": 15,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "taft-theatre",
+          "visible_active_notes": 16,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "eden-park",
+          "visible_active_notes": 7,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "dunham-recreation-center-pool",
+          "visible_active_notes": 12,
+          "source_links": true,
+          "limitations": true
+        },
+        {
+          "slug": "gordon-food-service-florence",
+          "visible_active_notes": 7,
+          "source_links": true,
+          "limitations": true
+        }
+      ],
+      "new_photo_hashes_match": 3,
+      "new_guide_links_present": 4,
+      "final_supported_note_checks": 74,
+      "new_address_checks": 2,
+      "source_baselines_200": 21,
+      "browser_equivalence": false
+    }
+  },
+  "held_findings": [
+    "Music Hall sensory/quiet-room and interpretation timing: official CSO fetches empty; full venue date unchanged",
+    "Taft drink limits, interpretation emails and re-entry wording conflict across/in sources",
+    "Heritage family restroom section 110 versus 112",
+    "Dunham design RFQ attachment 502; current route, toilet and construction status unverified",
+    "Remke Taylor Mill collection process and conflicting published hours",
+    "Taft 2018 Kevin Lush lobby photograph: inspected, no reuse licence; no public copy",
+    "Historical photo-guide policies do not establish current operations",
+    "CRC aquatics thumbnails lack Dunham attribution and capture dates; city early-opening news images were promotional graphics"
+  ],
+  "scope": {
+    "git_writes": 0,
+    "deployments": 0,
+    "previews": 0,
+    "hosting_changes": 0,
+    "scheduler_changes": 0,
+    "database_changes": 0,
+    "external_messages": 0,
+    "private_correspondence_read": false
+  },
+  "sha256": {
+    "src/data/places.json": "2f6657f0d5c166137984cf6d97db0119a572c559f337760b6f0961dcd520f1ac",
+    "pipeline/evidence/quotes.json": "9d0009a60aff7b42e3ecdab75c9d986326ea16c4a1083aabfab81bf896491ef3",
+    "src/data/access-photos.json": "4175393d0f80d15869d428d6da00f3717591e2649d6dd6ca0d9fb6a294e680f5",
+    "src/data/access-guides.json": "1975ae600c30e7a046379a880192fc130d07aba15480d036b0e42e6b84099f57",
+    "pipeline/source-checks/2026-11-13.json": "ffee7a8a6e6b4e08403d39896eefcd5dd1329b6212793424bf1ebce8d3c5f22d",
+    "pipeline/check_sources.py": "21096f2c8a6bbea8cdd54b8927414023de7a940556a25eb493c2e84513596c52",
+    "pipeline/test_check_sources.py": "093871d5a366b4e6b4f7a7b9835348312f329f8946aece5d5c6d0151ee40939d",
+    "src/__tests__/venue-expansion.test.ts": "4165d06b1238e61257772c78b78745f745de92834b9d484600ae23e96d888822",
+    "e2e/accessibility.spec.ts": "74a4fb06751dc0246231029a3c7ae0b9aa8357dd678795a84d2254f9d6ab4cd4",
+    "docs/research/taft-eden-heritage-dunham-2026-11-13-final-evidence.json": "3eed8b2dcd29c664f3ab4874aa2e994fe26bfeac17897f425b5a26d6f35238e2",
+    "docs/research/taft-eden-heritage-dunham-2026-11-13-final-evidence.verified.json": "5de9056efffeebd126fee0e9b33e60b1ec69ec2367a6df22ae7b9ac9cca123d4",
+    "public/images/access/taft-main-doors-2019.webp": "8a1bfe21d3f21b61a8427bfb299ab14b175e2b3f3aff7a750f2e5cbe71c7b590",
+    "public/images/access/eden-roadside-walkway-2014.webp": "d5e4d4c8a0f459135aa70873511e1dc62928c3a99586d1283995d44cd76807ea",
+    "public/images/access/eden-mirror-lake-paving-2023.webp": "697fa780755ce0449bee29e0b6fd08c557655a180d269894334c4593d30532ae"
+  }
+}

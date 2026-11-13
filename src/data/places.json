@@ -3801,6 +3801,11 @@
             "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3824,6 +3829,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           },
           {
             "date": "2026-11-13",
@@ -3857,6 +3867,11 @@
             "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3885,16 +3900,21 @@
             "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Accessible parking is in the Washington Park Garage and, as available, in the Music Hall surface lot and the Town Center Garage.",
-        "source_url": "https://www.cincinnatisymphony.org/accessibility/",
+        "text": "The venue lists designated accessible parking at Washington Park Garage across Elm Street and the surface lot between Music Hall and Memorial Hall. Availability is not guaranteed; check event-day restrictions and the operator’s arrangements.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1",
         "id": "cincinnati-music-hall.mobility.3",
         "source_type": "partner_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3903,6 +3923,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replace unextractable CSO source with current CAA parking evidence; omit unsupported Town Center designated-space claim and retain availability limits."
           }
         ]
       },
@@ -3921,6 +3946,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           },
           {
             "date": "2026-11-13",
@@ -3949,6 +3979,11 @@
             "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3961,12 +3996,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Both original and current CSO accessibility URLs redirect to an empty shared-session response. No fresh supporting text; manual review required, including whether the pre-purchase condition applies to audio description as well as ASL."
           }
         ]
       },
@@ -3979,12 +4019,17 @@
         "retrieved_at": "2026-11-09",
         "published_at": null,
         "observed_at": null,
-        "review_status": "source_checked",
+        "review_status": "needs_recheck",
         "history": [
           {
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "flagged",
+            "note": "Both original and current CSO accessibility URLs redirect to an empty shared-session response. No fresh supporting text; manual review required, including whether the pre-purchase condition applies to audio description as well as ASL."
           }
         ]
       },
@@ -4008,6 +4053,11 @@
             "date": "2026-11-13",
             "action": "revised",
             "note": "Keep the source’s discretionary medical-bag exception and avoid making a medical safety claim about screening."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4026,6 +4076,11 @@
             "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4044,6 +4099,11 @@
             "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4062,6 +4122,11 @@
             "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4080,6 +4145,11 @@
             "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4098,6 +4168,11 @@
             "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4116,6 +4191,11 @@
             "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -4134,11 +4214,57 @@
             "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "On FC Cincinnati game days, the venue says Town Center Garage has no general-public availability and Washington Park and Mercer garages have limited availability because of prepaid FC Cincinnati passes. Confirm a parking plan for the event date.",
+        "source_url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1",
+        "id": "cincinnati-music-hall.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Name FC Cincinnati directly to avoid ambiguous local use of football."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The tours FAQ describes approximately 90-minute indoor and outdoor tours. Outdoor routes cross streets and pass traffic and older sidewalks; the FAQ also warns of construction. Routes can change. These conditions are separate from its claim that the outdoor route has no stairs or hills; confirm the current route before booking.",
+        "source_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/",
+        "id": "cincinnati-music-hall.chronic.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Arrange special seating with the box office in advance when possible.",
+    "limitations": "Public website information; no on-site audit. CAA entrance, elevator, restroom, assistance and tour sources were re-read November 13, 2026, but two Symphony sensory/interpretation notes remain unresolved because both accessibility URLs returned an empty shared-session handoff. Confirm those concert-specific supports, request timing and purchase conditions directly. Parking-to-door continuity, door controls, restroom transfer space, adult changing equipment and transfer assistance are unverified. The tours FAQ combines walker/wheelchair accommodation with an outdoor expectation of standing without assistance; agree the specific route and support in advance. Parking availability varies on FC Cincinnati game days. The earlier full-review date is preserved. The linked Opera photo guide is for a June 2025 rehearsal; its special policies and break-room use are not current Symphony confirmation.",
     "slug": "cincinnati-music-hall",
     "evidence_type": "public_website",
     "observed_at": null
@@ -9466,7 +9592,7 @@
     "address": "100 Broadway, Cincinnati, OH 45202",
     "website": "https://heritagebankcenter.com/",
     "source_url": "https://heritagebankcenter.com/venue-info",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "cognitive",
@@ -9474,7 +9600,7 @@
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9486,6 +9612,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -9497,7 +9628,7 @@
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9509,6 +9640,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -9520,7 +9656,7 @@
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9532,6 +9668,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -9543,7 +9684,7 @@
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9557,16 +9698,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Medical bags are an exception to the bag rules but get a full search at entry. Outside food is not permitted, but exceptions may be made for medical reasons.",
+        "text": "Medical bags are excepted from the bag rules but receive a full search at entry. Outside food and drinks are prohibited, with possible medical exceptions; tell the security officer checking your bag.",
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9580,16 +9726,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retained the discretionary medical exception, included drinks and restored the instruction to notify security."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "There is no re-entry during events, except for medical reasons or to return a prohibited item to a vehicle.",
+        "text": "The venue prohibits re-entry during events. Exceptions may be made for medical reasons or to return a prohibited item to a vehicle; they are not guaranteed.",
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9603,16 +9754,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replaced an unconditional exception with the source’s discretionary wording."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Guest Relations helps guests with disabilities during events.",
+        "text": "Guest Relations is on the Main Concourse by section 102 and helps guests with disabilities during events.",
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9626,16 +9782,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Added the source’s specific assistance-desk location."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "The First Aid room behind section 110 has trained staff at all events. The venue's pages disagree on the accessible/family restroom: the amenities page says behind section 110, the venue-info page says behind section 112.",
+        "text": "The amenities page locates the family restroom it describes as accessible behind section 110, next to Donatos and First Aid. Compare the separate venue-information note and confirm the location with staff.",
         "source_url": "https://heritagebankcenter.com/amenities",
         "id": "heritage-bank-center.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9644,16 +9805,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Removed clauses supported only by the other page; retained this page’s section-110 statement. The conflicting section-112 and trained First Aid statements are moved to a separately cited note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Only service animals are allowed; they must stay on a harness in ticketed areas and may not block aisles or hallways.",
+        "text": "The venue’s animal policy permits only service animals and says they must remain on a harness in ticketed areas without blocking aisles or hallways. This is the venue’s published wording.",
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9667,16 +9833,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Explicitly attributed the harness statement to venue policy rather than presenting a legal interpretation."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "Every guest goes through metal-detector screening and a bag inspection at entry.",
+        "text": "All guests are subject to metal-detector screening, visual inspection and bag inspection by venue security.",
         "source_url": "https://heritagebankcenter.com/venue-info",
         "id": "heritage-bank-center.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -9690,11 +9861,111 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Matched subject-to wording and included the visual-inspection clause."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The venue-information page places the family restroom it describes as accessible behind section 112. It separately locates First Aid behind section 110, with trained staff during all events; ask the nearest staff member for help. Confirm the restroom location directly; the source conflict is described below.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Keep each source-specific summary separate; retain the cross-source conflict in the venue limitations."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The venue says all public restrooms have baby changing stations. This does not establish adult changing facilities or transfer equipment.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The main box office is on the fourth-floor plaza facing Great American Ballpark. The venue lists surrounding steps or, on non-event days, the security entrance at Mehring Way and Old Broadway as ways to reach the plaza. Confirm an event-day step-free approach; no complete route is described.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue recommends drop-off on Main Street/Joe Nuxhall Way in front of the Reds Hall of Fame. The page does not describe curb height, a loading bay or a continuous route from there to the arena entrance.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For problems during a visit, the venue offers calls or texts to 513-421-4111. Event-specific exceptions can apply to its policies, so check the event page before attending.",
+        "source_url": "https://heritagebankcenter.com/venue-info",
+        "id": "heritage-bank-center.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The venue page gives few physical details beyond elevators; accessible seating, entrances, restrooms and parking were not described. Contact the venue at least three days ahead to arrange needs and confirm them.",
+    "limitations": "Public website information; no on-site audit. The amenities and venue-information pages still disagree on the family restroom location: section 110 versus 112. Confirm with staff. Published baby changing stations do not establish adult changing equipment. Event-day step-free arrival, door controls, thresholds, elevator dimensions, companion seating and transfer help remain unverified. The security-entrance direction is expressly for non-event days. The linked narrative was created in 2019; its Chill Zone and sensory-game arrangements are not confirmed current. Contact the venue in advance, preferably at least three days before the event.",
     "slug": "heritage-bank-center",
     "evidence_type": "public_website",
     "observed_at": null
@@ -14957,7 +15228,7 @@
     "address": "317 East 5th St., Cincinnati, OH 45202",
     "website": "https://tafttheatre.org/",
     "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -14965,7 +15236,7 @@
         "source_url": "https://tafttheatre.org/venue-info/faq",
         "id": "taft-theatre.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14979,16 +15250,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "ADA seating alternates accessible spaces and companion seats; guests with a companion should buy two ADA tickets, and seats are assigned on a best-available basis.",
+        "text": "Taft describes ADA seating as consecutive odd-numbered seats designated as either an accessible space or a companion seat. Guests with a companion should buy two ADA tickets; seating is on a best-available basis. Confirm the specific spaces when booking.",
         "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
         "id": "taft-theatre.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14997,6 +15273,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Removed an unsupported promise that accessible and companion spaces alternate; retained purchase and availability conditions."
           }
         ]
       },
@@ -15006,7 +15287,7 @@
         "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
         "id": "taft-theatre.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15015,6 +15296,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15024,7 +15310,7 @@
         "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
         "id": "taft-theatre.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15033,6 +15319,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15042,7 +15333,7 @@
         "source_url": "https://tafttheatre.org/plan-your-visit/accessibility",
         "id": "taft-theatre.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15051,16 +15342,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "The clear-bag policy lists medically necessary bags, with the guest who uses them, as a possible exception; all bags are searched. There is no re-entry at any event.",
+        "text": "The FAQ lists medically necessary bags, with the guest using them, as a possible clear-bag exception; all bags are searched. Its re-entry answer prohibits re-entry, but its smoking answer describes an outside Ballroom smoking area with a search on re-entry. Confirm arrangements before leaving.",
         "source_url": "https://tafttheatre.org/venue-info/faq",
         "id": "taft-theatre.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15074,6 +15370,11 @@
             "date": "2026-11-10",
             "action": "revised",
             "note": "Reworded to match the source, which lists medically necessary bags as a possible exception to the clear-bag policy."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Preserved the medical-bag qualifier and exposed conflicting re-entry answers on the same current FAQ."
           }
         ]
       },
@@ -15083,7 +15384,7 @@
         "source_url": "https://tafttheatre.org/venue-info/faq",
         "id": "taft-theatre.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15095,6 +15396,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -15102,11 +15408,11 @@
       },
       {
         "domain": "chronic",
-        "text": "Guests may bring two sealed non-alcoholic drinks in plastic bottles (up to 33.8 fl oz each).",
+        "text": "The FAQ says guests may bring two unfrozen, commercially sealed non-alcoholic drinks in plastic bottles, up to 33.8 fl oz each; canned water is prohibited. Confirm the event’s limit directly; the source conflict is described below.",
         "source_url": "https://tafttheatre.org/venue-info/faq",
         "id": "taft-theatre.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15120,6 +15426,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restored unfrozen and commercially sealed conditions and the explicit canned-water restriction."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attribute the two-bottle limit to the FAQ; the current Rules page permits four. Keep the unresolved source conflict visible."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Keep each source-specific summary separate; retain the cross-source conflict in the venue limitations."
           }
         ]
       },
@@ -15129,7 +15450,7 @@
         "source_url": "https://tafttheatre.org/venue-info/faq",
         "id": "taft-theatre.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15143,6 +15464,11 @@
             "date": "2026-11-10",
             "action": "revised",
             "note": "Reworded to match the source: guests are subject to metal-detector screening, visual inspection and/or bag inspection."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15152,7 +15478,7 @@
         "source_url": "https://tafttheatre.org/venue-info/faq",
         "id": "taft-theatre.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15166,11 +15492,124 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The main entrance is under the marquee. Facing the building from the street, the Ballroom entrance is the glass-paned door immediately to its left. These directions do not establish thresholds or a step-free route.",
+        "source_url": "https://tafttheatre.org/venue-info/faq",
+        "id": "taft-theatre.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "As an alternative to sealed drinks, Taft permits soft, empty, squeezable plastic water bottles. The refill fountain is in the lobby near the gender-neutral restroom.",
+        "source_url": "https://tafttheatre.org/venue-info/faq",
+        "id": "taft-theatre.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "First Aid is on the ground level left of the Ballroom entrance. Ask staff wearing a red MEMI First Aid polo, or ask event staff to call for assistance.",
+        "source_url": "https://tafttheatre.org/venue-info/faq",
+        "id": "taft-theatre.chronic.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ directs rideshare users to 5th Street or Sycamore Street. It does not identify an accessible loading bay or a continuous route from the vehicle to the door.",
+        "source_url": "https://tafttheatre.org/venue-info/faq",
+        "id": "taft-theatre.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The FAQ gives two interpretation-request emails: info@tafttheatre.org in its ADA answer and info@memi.biz in its dedicated interpretation answer. Both require at least three weeks and depend on interpreter availability; confirm the request channel with the venue.",
+        "source_url": "https://tafttheatre.org/venue-info/faq",
+        "id": "taft-theatre.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Rules page permits up to four unfrozen, commercially sealed non-alcoholic drinks in plastic bottles, up to 33.8 fl oz each, and prohibits canned beverages. It asks visitors to check the event page to see whether drinks must be poured on the day. Confirm the event-specific limit.",
+        "source_url": "https://tafttheatre.org/venue-info/rules-and-prohibited-items",
+        "id": "taft-theatre.chronic.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. There is no elevator and balcony seats require stairs; the FAQ also says the Main Bar is reached via stairs below the lobby. Confirm the location of ADA seating and the entrance route when buying tickets. Assistive listening devices were not mentioned on the pages checked.",
+    "limitations": "Public website information; no on-site audit. No elevator serves the balcony; the FAQ also describes stairs to the Main Bar below the lobby. Confirm the entrance route and exact seating when booking. Door controls, thresholds, restroom transfer space, adult changing equipment and assistive-listening devices remain unverified. The FAQ allows two sealed bottles while the Rules page permits four (each up to 33.8 fl oz); confirm the show’s limit and whether drinks must be poured. The FAQ has conflicting re-entry answers and different interpretation-request emails; confirm arrangements directly. The linked 2023 performance guide is historical and does not establish current show policies.",
     "slug": "taft-theatre",
     "evidence_type": "public_website",
     "observed_at": null
@@ -20250,19 +20689,19 @@
     "address": "950 Eden Park Dr., Cincinnati, OH 45202",
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
-    "limitations": "Public website information; no on-site audit. The park is large and hilly; which walkways are step-free, accessible parking, and whether the restrooms are accessible are not stated. Confirm with Cincinnati Parks before your visit.",
-    "checked_at": "2026-11-08",
+    "limitations": "Public website information; no on-site audit. The 2020 Seasongood ramp account is historical. Gradients, continuous step-free connections, accessible parking, restroom transfer space and adult changing equipment remain unverified. Fulton has published winter weekday hours; Seasongood and Twin Lakes restroom hours are only listed for April 15–October 31. Confirm current opening and the route to your destination. Photos show dated, partial views rather than a current route audit.",
+    "checked_at": "2026-11-13",
     "slug": "eden-park",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Cincinnati Parks says the Seasongood Pavilion outdoor amphitheater is accessible, with ramps reaching seating areas on its steeply sloping site that were previously inaccessible.",
+        "text": "In its July 26, 2020 article, Cincinnati Parks describes ramps to previously unreachable seating areas at Seasongood Pavilion on a steeply sloping site. This is a historical description, not confirmation of present surfaces or a complete arrival route.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
         "id": "eden-park.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": "2020-07-26",
         "observed_at": null,
         "review_status": "source_checked",
@@ -20271,6 +20710,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Made the age and limited scope of the ramp description explicit."
           }
         ]
       },
@@ -20280,7 +20724,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
         "id": "eden-park.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20289,16 +20733,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "The Fulton restrooms have seasonal hours: from November 1 to April 14 they are open Monday to Friday, 6:30 a.m. to 3 p.m. Their accessibility is not stated.",
+        "text": "The park page lists Fulton restroom hours as 6 a.m.–10 p.m. April 15–October 31, and Monday–Friday 6:30 a.m.–3 p.m. November 1–April 14. It does not describe transfer space or changing equipment.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
         "id": "eden-park.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20307,6 +20756,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Added the in-season hours while preserving the narrower winter weekday window and unverified physical facilities."
           }
         ]
       },
@@ -20316,7 +20770,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
         "id": "eden-park.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -20325,6 +20779,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -20334,13 +20793,54 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
         "id": "eden-park.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-08",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For April 15–October 31, the park page lists Seasongood Pavilion restroom hours as 7 a.m.–2 p.m. and Twin Lakes restroom hours as 6 a.m.–10 p.m. It gives no winter restroom hours for these two locations; confirm before relying on them.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+        "id": "eden-park.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Tom Jones Commons has a walking loop, a bridge through the wetland area, seating and a picnic shelter, with a connection from the lower reservoir area to Seasongood Pavilion and Mirror Lake. The page does not give gradients or confirm that the entire connection is step-free.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+        "id": "eden-park.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -37411,6 +37911,380 @@
         "text": "The pool-schedule page says class reservations can be made in the MyY app or by logging into a member account. Check the live schedule for the activity you want.",
         "source_url": "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/",
         "id": "rc-durr-ymca.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dunham Recreation Center & Otto Armleder Pool",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "4356 Dunham Lane, Cincinnati, OH 45238",
+    "website": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+    "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+    "limitations": "Public website information; no on-site audit. The zero-depth feature belongs to the outdoor pool, not proof of a continuous route through the recreation center. Parking-to-door routes, thresholds, door controls, pool-chair/lift availability, transfer assistance, toilet layouts and adult changing equipment remain unverified. The pool dates and late-day entry rule are published for summer 2026, not November operation or a 2027 schedule. CRC accommodation types describe a systemwide consultation process, not guaranteed staffing or equipment at Dunham. Confirm support and admission for the chosen activity.",
+    "checked_at": "2026-11-13",
+    "slug": "dunham-recreation-center-pool",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The recreation center is at 4356 Dunham Lane; call 513-251-5862 to discuss the visit or activity.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+        "id": "dunham-recreation-center-pool.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "CRC lists the Dunham Otto Armleder pool with a shallow area, zero-depth entry, a slide and sprayground. This does not establish a pool lift, water wheelchair or assistance with transfers.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+        "id": "dunham-recreation-center-pool.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The posted 2026 pool schedule lists August 8 as Dunham’s closing date. This is summer 2026 information, not confirmation of November opening or a 2027 season.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+        "id": "dunham-recreation-center-pool.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the posted 2026 schedule, entry after 4:30 p.m. Friday–Sunday is for members only because of capacity. Other guests already inside may stay and swim. Confirm next season’s arrangements before travelling.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+        "id": "dunham-recreation-center-pool.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "CRC asks people who need support to request an Accommodation and Assessment Form when registering at the recreation center. It formally requests additional assistance; it is not confirmation that a particular support has been arranged.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "dunham-recreation-center-pool.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CRC’s systemwide Inclusion Team lists assistance with daily living, adaptive equipment, increased supervision, behavior supports and Boardmaker communication tools among accommodation types. Discuss the actual support needed; this is not a guarantee of personal care or equipment at Dunham.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "dunham-recreation-center-pool.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CRC says separate fees apply to some programs, fitness access and pool access. A recreation-center membership alone does not establish pool admission.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "dunham-recreation-center-pool.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CRC’s pool rules require swim diapers made for swimming for adults or children with incontinence, and direct diaper changes to the restroom rather than poolside. This does not establish adult changing equipment or assistance at Dunham.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+        "id": "dunham-recreation-center-pool.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "CRC says lifejackets are available without charge at all pools. Its rules allow managers to keep lifejacket swimmers out of deeper water when crowded or when the swimmer is especially weak. Confirm fit and assistance needs; a loan jacket is not confirmation of personal support.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+        "id": "dunham-recreation-center-pool.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "CRC allows swim goggles, but restricts masks covering both eyes and nose, fins and snorkels to organized swim classes, Discover SCUBA or underwater hockey. Confirm any equipment or accommodation needs before an open-swim visit.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+        "id": "dunham-recreation-center-pool.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The membership page headed 2026 says the CRC Citywide pool pass excludes Dunham. A Dunham pool membership covers all 24 CRC pools, and daily admission is another option. Confirm the next season’s pass and opening arrangements before buying.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/",
+        "id": "dunham-recreation-center-pool.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CRC’s posted pool admission rule requires a membership or daily fee for everyone entering, including infants and adults supervising children. It does not establish free admission for a disability support companion; confirm that arrangement directly.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-membership/",
+        "id": "dunham-recreation-center-pool.chronic.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gordon Food Service Store — Florence",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "5885 Merchants, Florence, KY 41042",
+    "website": "https://www.gfsstore.com/locations/florence/",
+    "source_url": "https://www.gfsstore.com/locations/florence/",
+    "limitations": "Public website information; no on-site audit or observed order. Curbside car-loading help is stated by this branch, but the bay location, curb/door route, loading limits, mobility carts, aisle widths, toilets and personal/transfer assistance are unverified. The brand’s in-store pickup FAQ and the terms last updated March 20, 2020 describe different payment/minimum-purchase arrangements; do not merge their ordering workflows or assume fees and timing apply to every method. Confirm the chosen order flow, ready notice, collection instructions and proxy requirements with the store. Instacart delivery coverage and indoor carrying are not established. No branch-specific access photograph was verified; the website uses a generic store image.",
+    "checked_at": "2026-11-13",
+    "slug": "gordon-food-service-florence",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Florence store is at 5885 Merchants, Florence, KY 41042; call 859-372-0240 to discuss collection or assistance.",
+        "source_url": "https://www.gfsstore.com/locations/florence/",
+        "id": "gordon-food-service-florence.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Florence page offers curbside pickup: order online, drive up, and staff will help load the order into the car. It does not specify a weight limit, trunk-only loading or transfer assistance.",
+        "source_url": "https://www.gfsstore.com/locations/florence/",
+        "id": "gordon-food-service-florence.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The branch also offers in-store pickup and same-day delivery through an Instacart shopper. Confirm delivery coverage and assistance for the actual address; the listing does not promise indoor carrying.",
+        "source_url": "https://www.gfsstore.com/locations/florence/",
+        "id": "gordon-food-service-florence.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The published pickup terms, last updated March 20, 2020, describe a one-hour collection window. At curbside stores, park in the designated pickup area and call the supplied store number; show the order confirmation. Confirm the instructions supplied for the actual order.",
+        "source_url": "https://www.gfsstore.com/terms-of-use-agreement/",
+        "id": "gordon-food-service-florence.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For people who are not Gordon GO members, the in-store pickup page describes ordering additional warehouse products through the Customer Service Desk. An associate can help find the product, order it and schedule collection; the store calls when it is ready. This requires an in-store visit, not a verified phone-order service.",
+        "source_url": "https://www.gfsstore.com/in-store-pickup/",
+        "id": "gordon-food-service-florence.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The in-store pickup FAQ allows someone else to collect the order. If paying on account, that person must present their membership card. Confirm the collection method and identification for the order being placed.",
+        "source_url": "https://www.gfsstore.com/in-store-pickup/",
+        "id": "gordon-food-service-florence.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The in-store pickup FAQ says orders are usually held for 24 hours after the scheduled collection date if safe to do so. Orders containing fresh items are available only on the selected date; arrange collection accordingly.",
+        "source_url": "https://www.gfsstore.com/in-store-pickup/",
+        "id": "gordon-food-service-florence.chronic.2",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,

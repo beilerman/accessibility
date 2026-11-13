@@ -1,0 +1,37 @@
+[
+ {
+  "slug": "dunham-recreation-center-pool",
+  "facts": [
+   {
+    "claim": "CRC’s pool rules require swim diapers made for swimming for adults or children with incontinence, and direct diaper changes to the restroom rather than poolside. This does not establish adult changing equipment or assistance at Dunham.",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+    "quote": [
+     "All incontinent swimmers (adults or children) must wear swim diapers/non-biodegradable diapers made for swimming.",
+     "Please change diapers in the restroom and not at poolside."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775"
+   },
+   {
+    "claim": "CRC says lifejackets are available without charge at all pools. Its rules allow managers to keep lifejacket swimmers out of deeper water when crowded or when the swimmer is especially weak. Confirm fit and assistance needs; a loan jacket is not confirmation of personal support.",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+    "quote": [
+     "U.S. Coast Guard approved life jacket Types I, II, and III are suggested for non-swimmers and are available for use at all pools at no cost.",
+     "Managers may decide to keep lifejacket swimmers away from the deeper end of the pool (5ft) if crowded, or extremely weak swimmers."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775"
+   },
+   {
+    "claim": "CRC allows swim goggles, but restricts masks covering both eyes and nose, fins and snorkels to organized swim classes, Discover SCUBA or underwater hockey. Confirm any equipment or accommodation needs before an open-swim visit.",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+    "quote": "Swim GOGGLES are acceptable. Face masks covering eyes and nose, fins, and snorkel are permitted only during organized swim class, Discover SCUBA program, or underwater hockey games.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775"
+   }
+  ]
+ }
+]

@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import gzip
 import hashlib
 import html as html_lib
 import io
@@ -286,6 +287,18 @@ def response_result(data: bytes, content_type: str, status: int, final_url: str,
     errors, scans and missing pypdf leave no matching text: an editor must review
     the document, and no quote is invented or inferred from pictures.
     """
+    # Some official pages send gzip even without Accept-Encoding. Both urllib
+    # and our TLS fallback return those original bytes. Never fingerprint them
+    # as prose; limit the expanded body before HTML/PDF extraction.
+    if data.startswith(b"\x1f\x8b"):
+        try:
+            with gzip.GzipFile(fileobj=io.BytesIO(data)) as compressed:
+                data = compressed.read(MAX_PDF_BYTES + 1)
+            if len(data) > MAX_PDF_BYTES:
+                raise ValueError("Expanded response exceeds the 32 MiB review limit")
+        except (OSError, EOFError, ValueError) as error:
+            return {"status": None, "final_url": final_url,
+                    "error": f"Gzip response could not be extracted: {error}"}
     if "application/pdf" not in content_type.lower() and not data.lstrip().startswith(b"%PDF-"):
         return page_result(data.decode(encoding, "replace"), status, final_url, last_modified)
     if len(data) > MAX_PDF_BYTES:

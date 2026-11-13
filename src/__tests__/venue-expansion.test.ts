@@ -11,6 +11,24 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Florence grocery collection without extending car-loading help to personal assistance", () => {
+    const slug = "gordon-food-service-florence";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("5885 Merchants, Florence, KY 41042");
+    expect(text(slug)).toContain("staff will help load the order into the car");
+    expect(text(slug)).toContain("not a verified phone-order service");
+    expect(place(slug).limitations).toContain("do not merge their ordering workflows");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Dunham recreation while preserving seasonal pool and assistance limits", () => {
+    const slug = "dunham-recreation-center-pool";
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("4356 Dunham Lane, Cincinnati, OH 45238");
+    expect(text(slug)).toContain("not confirmation of November opening or a 2027 season");
+    expect(text(slug)).toContain("Other guests already inside may stay and swim");
+    expect(place(slug).limitations).toContain("not guaranteed staffing or equipment at Dunham");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Burlington recreation while preserving conflicting pool status and outdoor entry scope", () => {
     const slug = "rc-durr-ymca";
     expect(findPlaces({ category: "Recreation & fitness", region: "KY" }).map((p) => p.slug)).toContain(slug);

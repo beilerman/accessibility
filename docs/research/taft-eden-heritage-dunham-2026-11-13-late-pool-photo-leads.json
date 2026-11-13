@@ -1,0 +1,53 @@
+{
+  "checked_at": "2026-11-13",
+  "pool_page_candidates": [
+    {
+      "label": "membership",
+      "url": "https://www.cincinnati-oh.gov/sites/crc/cache/file/205F6761-BC2F-41F0-A8946D41699399FD_gridimage.jpg",
+      "status": 200,
+      "bytes": 38748,
+      "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+      "checked_at": "2026-11-13",
+      "visually_inspected": true,
+      "sha256": "bc1d788e14ba8fd0bc8c22432ff6a9e6dfd58100af452edb22aa05eff56b503b",
+      "licence": "No reuse licence established",
+      "action": "held; no catalog import or public image copy",
+      "visible": "Aerial view of a shaped outdoor pool, slide and neighboring baseball diamond; deck and grass seen from above.",
+      "limits": "Thumbnail label is Pool Membership, not a venue name. Dunham attribution not established by the inspected caption. No ground-level entrance, continuous route, toilets or pool entry equipment established."
+    },
+    {
+      "label": "information",
+      "url": "https://www.cincinnati-oh.gov/sites/crc/cache/file/62939222-2C59-4641-9A6CBD36B0C0095D_gridimage.jpg",
+      "status": 200,
+      "bytes": 40070,
+      "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+      "checked_at": "2026-11-13",
+      "visually_inspected": true,
+      "sha256": "0ad8f9a681a7964baffad774df2ad24e3a81fe923c7b7b1599d616b8e472541d",
+      "licence": "No reuse licence established",
+      "action": "held; no catalog import or public image copy",
+      "visible": "Swimmers at an outdoor pool.",
+      "limits": "Site identity and capture date unstated; incidental people are prominent. No useful complete entrance or changing route."
+    },
+    {
+      "label": "programs",
+      "url": "https://www.cincinnati-oh.gov/sites/crc/cache/file/8BAE8BB1-60CC-4346-92FF60D5A3E38C03_gridimage.jpg",
+      "status": 200,
+      "bytes": 46002,
+      "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+      "checked_at": "2026-11-13",
+      "visually_inspected": true,
+      "sha256": "8066e3bd5b6ccf499280ecbd5df18a6df9d21dcf5d74b4cdb28592ca93ca6654",
+      "licence": "No reuse licence established",
+      "action": "held; no catalog import or public image copy",
+      "visible": "Swimmers at an outdoor pool.",
+      "limits": "Site identity and capture date unstated; incidental people are prominent. No useful complete entrance or changing route."
+    }
+  ],
+  "city_news_followthrough": {
+    "url": "https://www.cincinnati-oh.gov/cityofcincinnati/news/cincy-rec-welcomes-summer-by-opening-spraygrounds-and-two-pools-starting-saturday-may-30th/",
+    "status": 200,
+    "images_inspected": 3,
+    "result": "All three inspected news-page image elements were generic city-service promotional graphics (water billing, 311 and CitiCable), not pool photographs."
+  }
+}

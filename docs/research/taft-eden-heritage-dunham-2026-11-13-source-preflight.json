@@ -1,0 +1,394 @@
+[
+  {
+    "key": "taft-faq",
+    "url": "https://tafttheatre.org/venue-info/faq",
+    "status": 200,
+    "final_url": "https://tafttheatre.org/venue-info/faq",
+    "last_modified": null,
+    "sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+    "fingerprint_version": 6,
+    "chars": 12120
+  },
+  {
+    "key": "taft-access",
+    "url": "https://tafttheatre.org/plan-your-visit/accessibility",
+    "status": 200,
+    "final_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+    "last_modified": null,
+    "sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
+    "fingerprint_version": 6,
+    "chars": 1374
+  },
+  {
+    "key": "taft-parking",
+    "url": "https://tafttheatre.org/plan-your-visit/directions-parking",
+    "status": 200,
+    "final_url": "https://tafttheatre.org/plan-your-visit/directions-parking",
+    "last_modified": null,
+    "sha256": "d10499329474910c46b7cc815d18ba31e1068a3f300df00ff83587d1fa4583c8",
+    "fingerprint_version": 6,
+    "chars": 634
+  },
+  {
+    "key": "eden",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+    "last_modified": null,
+    "sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+    "fingerprint_version": 6,
+    "chars": 30364
+  },
+  {
+    "key": "parks-ada",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+    "last_modified": null,
+    "sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+    "fingerprint_version": 6,
+    "chars": 4896
+  },
+  {
+    "key": "parks-accommodation",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+    "last_modified": null,
+    "sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+    "fingerprint_version": 6,
+    "chars": 27913
+  },
+  {
+    "key": "heritage-info",
+    "url": "https://heritagebankcenter.com/venue-info",
+    "status": 200,
+    "final_url": "https://heritagebankcenter.com/venue-info",
+    "last_modified": "Fri, 13 Nov 2026 21:27:57 GMT",
+    "sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+    "fingerprint_version": 6,
+    "chars": 20529
+  },
+  {
+    "key": "heritage-amenities",
+    "url": "https://heritagebankcenter.com/amenities",
+    "status": 200,
+    "final_url": "https://heritagebankcenter.com/amenities",
+    "last_modified": "Fri, 13 Nov 2026 21:27:57 GMT",
+    "sha256": "017aef1f66774bf541f560862e30c691f5fba10bb83a0b9916cb253ad081c47f",
+    "fingerprint_version": 6,
+    "chars": 4769
+  },
+  {
+    "key": "heritage-parking",
+    "url": "https://heritagebankcenter.com/directions-parking",
+    "status": 404,
+    "error": "Not Found"
+  },
+  {
+    "key": "dunham",
+    "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/dunham/",
+    "last_modified": null,
+    "sha256": "93405731bf0cde872a208ec3c3b8b6d4392500d2760fadcc4b971ede563ca05c",
+    "fingerprint_version": 6,
+    "chars": 2128
+  },
+  {
+    "key": "pools",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+    "last_modified": null,
+    "sha256": "00803e7b668fa46f1e02203fbc955236537bf90f24cd7dc1e548dde0f08ddbdd",
+    "fingerprint_version": 6,
+    "chars": 6980
+  },
+  {
+    "key": "momentum",
+    "url": "https://www.hamiltonddsohio.gov/events/momentum-refresh-at-off-market-2/",
+    "status": 403,
+    "error": "Forbidden"
+  },
+  {
+    "key": "aquatics",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+    "last_modified": null,
+    "sha256": "a7b5f9bf632ec5effe284f8deb78ac0b963782352964aee58d1ac91b8b843fc2",
+    "fingerprint_version": 6,
+    "chars": 5059
+  },
+  {
+    "key": "pool-rules",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+    "last_modified": null,
+    "sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775",
+    "fingerprint_version": 6,
+    "chars": 1252
+  },
+  {
+    "key": "crc-inclusion",
+    "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+    "last_modified": null,
+    "sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+    "fingerprint_version": 6,
+    "chars": 4721
+  },
+  {
+    "key": "heritage-narrative",
+    "url": "https://static.heritagebankcenter.com/images/content/CyclonesSocialNarrative_HBC.pdf",
+    "status": 200,
+    "final_url": "https://static.heritagebankcenter.com/images/content/CyclonesSocialNarrative_HBC.pdf",
+    "last_modified": "Wed, 30 Oct 2019 20:06:31 GMT",
+    "sha256": "cd640c10b9837e285b0ea73f40bbe0fe5fb97c469e2edb717e7808c5a3dd759b",
+    "fingerprint_version": "pdf-bytes-1",
+    "format": "pdf",
+    "chars": 5552,
+    "pages": 26
+  },
+  {
+    "key": "commons-taft",
+    "url": "https://commons.wikimedia.org/wiki/Category:Taft_Theatre",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/Category:Taft_Theatre",
+    "last_modified": "Fri, 30 Oct 2026 21:29:02 GMT",
+    "sha256": "95362b0324e4baaa6a92e00e9718bdce0ee4650ccff01cdc97da4e0007825e4f",
+    "fingerprint_version": 6,
+    "chars": 2394
+  },
+  {
+    "key": "commons-eden",
+    "url": "https://commons.wikimedia.org/wiki/Category:Eden_Park_(Cincinnati)",
+    "status": 404,
+    "error": "Not Found"
+  },
+  {
+    "key": "commons-heritage",
+    "url": "https://commons.wikimedia.org/wiki/Category:Heritage_Bank_Center",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/Category:Heritage_Bank_Center",
+    "last_modified": "Sun, 01 Nov 2026 18:29:49 GMT",
+    "sha256": "96bb5be12c8ae4ecb4deba7494425991eeda628cbd5673b5329e2ec3283686bd",
+    "fingerprint_version": 6,
+    "chars": 3994
+  },
+  {
+    "key": "city-changing",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/love-the-change-changing-tables-at-mens-restrooms-in-parks/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/love-the-change-changing-tables-at-mens-restrooms-in-parks/",
+    "last_modified": null,
+    "sha256": "57aab91587a1dcfc7ad23749176cadb5accdfcf80721d3c56ef2a22f3412005e",
+    "fingerprint_version": 6,
+    "chars": 1265
+  },
+  {
+    "key": "parks-foundation-about",
+    "url": "https://cincyparksfoundation.org/about/",
+    "status": 200,
+    "final_url": "https://cincyparksfoundation.org/about/",
+    "last_modified": "Fri, 13 Nov 2026 18:16:58 GMT",
+    "sha256": "cda642ec94e561a9aa69b61a99ce75052c5f4d2b462c6e60a2051ba6631ea0a4",
+    "fingerprint_version": 6,
+    "chars": 67498
+  },
+  {
+    "key": "parks-general",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/general-information/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/general-information/",
+    "last_modified": null,
+    "sha256": "91a0fa4bade4b3cafc9468e4c9cd038a14dbfbb747679d656a7f4231100d8c42",
+    "fingerprint_version": 6,
+    "chars": 30319
+  },
+  {
+    "key": "taft-photographer",
+    "url": "https://www.flickr.com/photos/warrenlemay/47221091491/",
+    "status": 200,
+    "final_url": "https://www.flickr.com/photos/warrenlemay/47221091491/",
+    "last_modified": null,
+    "sha256": "ec224096d5bc69111d13fb693de967b0b0b32cd048ff7f5ac93c827528893cbb",
+    "fingerprint_version": 6,
+    "chars": 677
+  },
+  {
+    "key": "dunham-early-open",
+    "url": "https://www.cincinnati-oh.gov/cityofcincinnati/news/cincy-rec-welcomes-summer-by-opening-spraygrounds-and-two-pools-starting-saturday-may-30th/",
+    "status": 200,
+    "final_url": "https://www.cincinnati-oh.gov/cityofcincinnati/news/cincy-rec-welcomes-summer-by-opening-spraygrounds-and-two-pools-starting-saturday-may-30th/",
+    "last_modified": null,
+    "sha256": "92f3ec16ac9d2e99ffd19cd1fde032ac8dbfa67c656ed75ddccefb12bea2686b",
+    "fingerprint_version": 6,
+    "chars": 3797
+  },
+  {
+    "key": "heritage-directions",
+    "url": "https://heritagebankcenter.com/directions",
+    "status": 200,
+    "final_url": "https://heritagebankcenter.com/directions",
+    "last_modified": "Fri, 13 Nov 2026 21:33:40 GMT",
+    "sha256": "95329d4305c72201cd78d819302291cc5b39e9881290044f5d8862cdc867a3ee",
+    "fingerprint_version": 6,
+    "chars": 3528
+  },
+  {
+    "key": "taft-rules",
+    "url": "https://tafttheatre.org/venue-info/rules",
+    "status": 404,
+    "error": "Not Found",
+    "raw_error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "music-0",
+    "url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/",
+    "status": 200,
+    "final_url": "https://www.cincinnatiarts.org/events/music-hall/beyond-the-bricks-music-hall-tours-frequently-asked-questions/",
+    "last_modified": null,
+    "sha256": "4f7df2f5104dc808a01bc3a028a9ba57718b72258b543e896bb30b9a2e736d33",
+    "fingerprint_version": 6,
+    "chars": 11344
+  },
+  {
+    "key": "music-1",
+    "url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1",
+    "status": 200,
+    "final_url": "https://www.cincinnatiarts.org/plan-your-visit/music-hall/directions-parking-1",
+    "last_modified": null,
+    "sha256": "5251b59e6a7476ba36e7edb2377f8d0fc58b230ce003771aca6e90eb76301ff0",
+    "fingerprint_version": 6,
+    "chars": 5264
+  },
+  {
+    "key": "music-2",
+    "url": "https://www.cincinnatiarts.org/plan-your-visit/safety-procedures",
+    "status": 200,
+    "final_url": "https://www.cincinnatiarts.org/plan-your-visit/safety-procedures",
+    "last_modified": null,
+    "sha256": "b22ab46ad1d1ff2b4cf9fb0b2ba9fc530dc11bea0c0a7a8b9906db0231e50767",
+    "fingerprint_version": 6,
+    "chars": 62130,
+    "raw_error": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte"
+  },
+  {
+    "key": "music-3",
+    "url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+    "status": 200,
+    "final_url": "https://www.cincinnatiarts.org/plan-your-visit/visit-music-hall/accessibility-information-2",
+    "last_modified": null,
+    "sha256": "f03095747f8f0457975e981f8e77d31dcf2d66291fe4dac1e324adc4d3a97969",
+    "fingerprint_version": 6,
+    "chars": 3692
+  },
+  {
+    "key": "music-4",
+    "url": "https://www.cincinnatisymphony.org/accessibility/",
+    "status": 200,
+    "final_url": "https://secure.cincinnatisymphony.org/components/sharedsession?actionUrl=https://www.cincinnatisymphony.org/api/login/Receive&returnUrl=https%3a%2f%2fwww.cincinnatisymphony.org%2faccessibility%2f",
+    "last_modified": null,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "fingerprint_version": 6,
+    "chars": 0
+  },
+  {
+    "key": "music-cso-current",
+    "url": "https://www.cincinnatisymphony.org/your-visit/accessibility/",
+    "status": 200,
+    "final_url": "https://secure.cincinnatisymphony.org/components/sharedsession?actionUrl=https://www.cincinnatisymphony.org/api/login/Receive&returnUrl=https%3a%2f%2fwww.cincinnatisymphony.org%2fyour-visit%2faccessibility%2f",
+    "last_modified": null,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "fingerprint_version": 6,
+    "chars": 0
+  },
+  {
+    "key": "taft-rules-current",
+    "url": "https://tafttheatre.org/venue-info/rules-and-prohibited-items",
+    "status": 200,
+    "final_url": "https://tafttheatre.org/venue-info/rules-and-prohibited-items",
+    "last_modified": null,
+    "sha256": "622130a303bda1d566e88c1d50f941dc4b3d36077061916f9f831ebaea3795d7",
+    "fingerprint_version": 6,
+    "chars": 6094
+  },
+  {
+    "key": "remke-branch",
+    "url": "https://www.remkes.com/taylor-mill/",
+    "status": 200,
+    "final_url": "https://www.remkes.com/taylor-mill/",
+    "last_modified": null,
+    "sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+    "fingerprint_version": 6,
+    "chars": 890
+  },
+  {
+    "key": "remke-home",
+    "url": "https://www.remkes.com/",
+    "status": 200,
+    "final_url": "https://www.remkes.com/",
+    "last_modified": null,
+    "sha256": "db1f43667a5021bcbb367a2d989e71306334aba0cf9a2da6cb18e8d52e148b15",
+    "fingerprint_version": 6,
+    "chars": 250
+  },
+  {
+    "key": "gfs-florence",
+    "url": "https://www.gfsstore.com/locations/florence/",
+    "status": 200,
+    "final_url": "https://www.gfsstore.com/locations/florence/",
+    "last_modified": null,
+    "sha256": "34819608f917290983d097e8b052b3a50aeb53df16a514b03517e77b52372406",
+    "fingerprint_version": 6,
+    "chars": 1120
+  },
+  {
+    "key": "gfs-terms",
+    "url": "https://www.gfsstore.com/terms-of-use-agreement/",
+    "status": 200,
+    "final_url": "https://www.gfsstore.com/terms-of-use-agreement/",
+    "last_modified": null,
+    "sha256": "935c0c221be1922bc3b188529a294c8cbff747bf7418f283ba6b63ecc5b67033",
+    "fingerprint_version": 6,
+    "chars": 17028
+  },
+  {
+    "key": "gfs-faq",
+    "url": "https://www.gfsstore.com/faq/",
+    "status": 404,
+    "error": "Not Found",
+    "raw_error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "taft-photographer-albums",
+    "url": "https://www.flickr.com/photos/warrenlemay/albums/",
+    "status": 200,
+    "final_url": "https://www.flickr.com/photos/warrenlemay/albums/",
+    "last_modified": null,
+    "sha256": "990619139d3df61f1c32e990b5e348077454e9dc7cefb9431ffa9b453eaabf54",
+    "fingerprint_version": 6,
+    "chars": 606
+  },
+  {
+    "key": "eden-photographer-gallery",
+    "url": "https://commons.wikimedia.org/wiki/User:Joe_D._Good",
+    "status": 404,
+    "error": "Not Found",
+    "raw_error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "taft-2026-photographer",
+    "url": "https://commons.wikimedia.org/wiki/User:Hayden120",
+    "status": 200,
+    "final_url": "https://commons.wikimedia.org/wiki/User:Hayden120",
+    "last_modified": "Fri, 30 Oct 2026 21:44:03 GMT",
+    "sha256": "16a1492e2e231b3d1fb6fafdacf249cda485acfd721908866f02367be394e44e",
+    "fingerprint_version": 6,
+    "chars": 392
+  }
+]

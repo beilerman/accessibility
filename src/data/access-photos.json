@@ -1569,5 +1569,66 @@
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orchid_House_-_Krohn_Conservatory_-_DSC03562.JPG",
     "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "taft-main-doors-2019",
+    "slug": "taft-theatre",
+    "title": "Main entrance doors and sidewalk in 2019",
+    "alt": "A row of dark glass double doors beneath the Taft Theatre marquee faces the sidewalk and street; a planter and signboards stand nearby.",
+    "caption": "A February 2019 view shows the entrance doors under the marquee and the sidewalk beside them. Full frame retained; resized and converted to WebP.",
+    "author": "Warren LeMay",
+    "photoDate": "2019-02-24",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "limitations": "This 2019 photograph does not establish present door controls, thresholds, clear widths, a parking-to-door route or which door staff will use for an event. The Ballroom entrance and interior route are not established by this view.",
+    "relatedFactIds": [
+      "taft-theatre.cognitive.3",
+      "taft-theatre.mobility.3"
+    ],
+    "src": "/images/access/taft-main-doors-2019.webp",
+    "width": 960,
+    "height": 720,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taft_Theatre,_Cincinnati,_OH_(47221091491).jpg",
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "eden-roadside-walkway-2014",
+    "slug": "eden-park",
+    "title": "Roadside sidewalk and stone gateway in 2014",
+    "alt": "A concrete sidewalk runs beside a road and a tall stone pillar topped by an eagle, with an arched bridge and leafy branches overhead.",
+    "caption": "An October 2014 view shows a sidewalk beside the road, bounded by a curb and stone gateway, with scattered leaves at the edge. Full frame retained; resized and converted to WebP.",
+    "author": "Joe D. Good",
+    "photoDate": "2014-10-18",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "limitations": "The photographer identifies Eden Park but gives no measured route. This historical view does not establish sidewalk width, gradient, crossings, a connection to parking or present condition. The overhead bridge is separate from the visible roadside sidewalk.",
+    "relatedFactIds": [
+      "eden-park.mobility.2"
+    ],
+    "src": "/images/access/eden-roadside-walkway-2014.webp",
+    "width": 960,
+    "height": 643,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eden_Park_View_6.JPG",
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "eden-mirror-lake-paving-2023",
+    "slug": "eden-park",
+    "title": "Stone paving beside Mirror Lake in 2023",
+    "alt": "Irregular stone paving with visible joints surrounds a rough stone feature and borders grass; a lakeside path and fountain are beyond, with a distant walker.",
+    "caption": "A September 2023 view shows the textured stone paving and joints in the foreground, grass between it and the lakeside path, and Mirror Lake beyond. Full frame retained; resized and converted to WebP.",
+    "author": "Panian513",
+    "photoDate": "2023-09-16",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "limitations": "This partial 2023 view does not show a continuous paved connection to the lakeside path, parking or toilets. Surface levels, clear widths, gradient and present conditions are unmeasured. A distant incidental visitor remains in the unaltered full frame.",
+    "relatedFactIds": [
+      "eden-park.mobility.2"
+    ],
+    "src": "/images/access/eden-mirror-lake-paving-2023.webp",
+    "width": 960,
+    "height": 1280,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirror_Lake_in_Eden_Park,_Cincinnati.png",
+    "checkedAt": "2026-11-13"
   }
 ]
