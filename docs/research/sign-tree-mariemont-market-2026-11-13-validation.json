@@ -1,0 +1,86 @@
+{
+  "checked_at": "2026-11-13T20:23:56.219380+00:00",
+  "base": "9da25b6f4d30e4a47ccd19ab9ab7a5e3ad692ba1",
+  "publish_ready_for_runner": true,
+  "commands": [
+    {
+      "command": "npm test",
+      "exit_code": 0,
+      "passed": 100
+    },
+    {
+      "command": "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'",
+      "exit_code": 0,
+      "passed": 76
+    },
+    {
+      "command": "npm run lint",
+      "exit_code": 0
+    },
+    {
+      "command": "npx tsc --noEmit",
+      "exit_code": 0
+    },
+    {
+      "command": "npm run build",
+      "exit_code": 0,
+      "pages": 172
+    },
+    {
+      "command": "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python scripts/research/verify.py scripts/research/sign-tree-mariemont-market-2026-11-13-final-evidence.json",
+      "exit_code": 0,
+      "checks": 55,
+      "failures": 0
+    },
+    {
+      "command": "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python pipeline/check_sources.py --only scripts/research/sign-tree-mariemont-market-2026-11-13-urls.txt",
+      "exit_code": 0,
+      "sources": 21,
+      "attention": 0
+    },
+    {
+      "command": "npx playwright test --list",
+      "exit_code": 0,
+      "registered": 145
+    },
+    {
+      "command": "git diff --check",
+      "exit_code": 0
+    }
+  ],
+  "http_receipt": "sign-tree-mariemont-market-2026-11-13-http.json",
+  "http_checks": 24,
+  "media_receipt": "sign-tree-mariemont-market-2026-11-13-media.json",
+  "preservation_receipt": "sign-tree-mariemont-market-2026-11-13-delta.json",
+  "browser": {
+    "status": "host_blocked",
+    "attempted_routes": [
+      "/venues/fresh-market-madison-road"
+    ],
+    "passed": 0,
+    "chromium_error": "bootstrap_check_in MachPortRendezvousServer: Permission denied (1100)",
+    "cua": "Browser access host unavailable",
+    "runner_required": 145,
+    "limits": "No interactive browser, client-side navigation, accessibility scan or UI layout pass claimed. HTTP evidence is separate."
+  },
+  "initial_failures_resolved": [
+    "Current Mariemont PDF exceeded former 10 MiB file limit; increased bounded cap with tests while retaining page/text/quote gates.",
+    "Seven newly cited sources initially lacked baselines; fresh scoped fetching repaired coverage before final pipeline pass.",
+    "YMCA booking quote punctuation initially missed; corrected to source extraction then re-fetched before import."
+  ],
+  "conflict_markers": [],
+  "agent_git_writes": false,
+  "agent_deployments": 0,
+  "new_framework_or_ui_code": false,
+  "reviewed_artifact_sha256": {
+    "src/data/places.json": "db9da6622d9fc436033bdd33ba04ec76e62cf0cab6a9266a74c18d53771a5b7c",
+    "src/data/access-photos.json": "0d99553c4cdcebdd894e637c4e1320b74cb6e54eddf48998c62e2b0db498278d",
+    "src/data/access-guides.json": "3569593a1fe1a00b1baaf84078ff4076c8d2c90f1dafaf4227c2ca5dc4754ed9",
+    "pipeline/evidence/quotes.json": "e94c35bffa60462ef33ed88c1d76f8e2b09edd01ce0c0d9eb09c1038188309fe",
+    "pipeline/source-checks/2026-11-13.json": "2a31fca0324f1eaafb5c16b372860e03f68e963a5f87c703282d3e33edf3bf9c",
+    "pipeline/check_sources.py": "a653c21cd1feedf269c476b282e839ce64087c1caa2663343ceebb65f751760c",
+    "pipeline/test_pdf_sources.py": "11d5e90cc9ebc5e38910f3c16d2bf3cda580fef8cee463480bc98c3618b9d994",
+    "src/__tests__/venue-expansion.test.ts": "725a542de2af6c337d5ba9634c1ecf42f53d75b55c7af8e969ebef398e646d67",
+    "e2e/accessibility.spec.ts": "9975a591cb4991280224186d23741a8887cf969cc4e5b2b8a8c218ea9121c23d"
+  }
+}

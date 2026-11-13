@@ -752,5 +752,70 @@
     "documentDate": "Article published September 25, 2026; photo dates unstated",
     "imageCount": 3,
     "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "sign-museum-photographer-historical-ramp-tour",
+    "slug": "american-sign-museum",
+    "format": "web",
+    "title": "Historical photographer tour: lobby ramp and exhibit lighting",
+    "description": "The entry panorama shows an interior sloping walkway with railings beside a lobby counter, nearby upholstered seating and brightly lit sign displays. Four directions of this panorama were inspected. The photographer’s tour files are labeled 2020; capture dates are unconfirmed and the tour predates the July 2024 expansion. It does not verify current routes, ramp dimensions, door controls, toilets or the stair-only library. Copyright remains with the photographer; images are linked on the original tour, not republished.",
+    "publisher": "Ron Rack / Rack Photography",
+    "url": "https://360around.s3.amazonaws.com/sign-museum-tour-2020/sign-museum-2020-update.html",
+    "sourceUrl": "https://rackphoto.com/main/360around-panorama-gallery/",
+    "documentDate": "Tour files labeled 2020; capture dates unconfirmed",
+    "imageCount": 1,
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "sign-museum-event-room-library-photos",
+    "slug": "american-sign-museum",
+    "format": "web",
+    "title": "Official event-room and library photographs",
+    "description": "Twelve inspected views show gallery audience rows and banquet tables, bright sign displays, theatre table seating and the library’s shared table, loose chairs and rug. Event arrangements vary, and several views include guests. Capture dates are unconfirmed; some library filenames refer to August 2023. The photos do not show the library stair approach or a step-free alternative, toilets, transfer space or the route from parking. The linked library FAQ separately reports one flight of stairs and no elevator. Images remain on the museum’s page; no reuse licence established.",
+    "publisher": "American Sign Museum",
+    "url": "https://www.americansignmuseum.org/events/venues/",
+    "sourceUrl": "https://www.americansignmuseum.org/events/venues/",
+    "documentDate": null,
+    "imageCount": 12,
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "mariemont-front-stair-photo",
+    "slug": "mariemont-players-walton-creek-theater",
+    "format": "web",
+    "title": "Official front-door stair photograph",
+    "description": "The About page’s exterior photograph shows steps with a central handrail leading to the front double doors, beside hedges. Capture date is unknown. This is a visible stair approach, not the elevator route described in the November 2026 program. The parking-to-elevator connection, thresholds, toilet interior and current condition are not shown. The image remains on the theater’s page; no reuse licence established.",
+    "publisher": "Mariemont Players",
+    "url": "https://www.mariemontplayers.com/about",
+    "sourceUrl": "https://www.mariemontplayers.com/about",
+    "documentDate": null,
+    "imageCount": 1,
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "rc-durr-pool-desk-fitness-photos",
+    "slug": "rc-durr-ymca",
+    "format": "web",
+    "title": "Official pool, welcome-desk and fitness-floor photographs",
+    "description": "Four inspected branch images include two views of the indoor pool and tiled deck with entry handrails, a curved welcome desk with different counter heights, and rows of fitness equipment. The fitness-floor photo includes visitors. Capture dates are unknown. These partial views do not establish a continuous entrance route, counter dimensions, pool-lift operation, transfer assistance or changing/toilet facilities, and do not resolve the conflicting pool-operation text. Images remain on the YMCA page; no reuse licence established.",
+    "publisher": "YMCA of Greater Cincinnati",
+    "url": "https://myy.org/location/rc-durr-ymca/",
+    "sourceUrl": "https://myy.org/location/rc-durr-ymca/",
+    "documentDate": null,
+    "imageCount": 4,
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "id": "taft-historical-spongebob-visual-narrative",
+    "slug": "taft-theatre",
+    "title": "Historical Taft visual narrative: entrance, lobby and restroom doors",
+    "description": "This 2023 performance narrative includes photographs of the marquee entrance, security screening, busy lobby, restroom doors and signs, auditorium and fixed seating. Pages 2–7 were visually inspected. Photo capture dates are unstated and several views include visitors. Its food, quiet-space, sensory-bag and admission arrangements are specific to that historical performance, not current venue policy. Restroom interiors, transfer space, door controls and a continuous step-free route are not established. Linked at the original publisher; no reuse licence established.",
+    "publisher": "The Children’s Theatre of Cincinnati",
+    "url": "https://thechildrenstheatre.com/wp-content/uploads/2023/02/SpongeBob-Sensory-Friendly-docs.pdf",
+    "sourceUrl": "https://thechildrenstheatre.com/wp-content/uploads/2023/02/SpongeBob-Sensory-Friendly-docs.pdf",
+    "documentDate": "PDF metadata created/modified October 17, 2023; photo dates unstated",
+    "pageCount": 13,
+    "sizeLabel": "4.2 MB",
+    "checkedAt": "2026-11-13"
   }
 ]

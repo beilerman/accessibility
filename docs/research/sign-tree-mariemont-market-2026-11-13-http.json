@@ -1,0 +1,138 @@
+{
+  "checked_at": "2026-11-13T20:23:55.091877+00:00",
+  "scope": "Local production-build HTTP checks, not interactive browser or production deployment verification.",
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 178811
+    },
+    {
+      "path": "/venues",
+      "status": 200,
+      "bytes": 1159685
+    },
+    {
+      "path": "/venues?category=Shopping&region=OH",
+      "status": 200,
+      "bytes": 70374
+    },
+    {
+      "path": "/venues?category=Recreation%20%26%20fitness&region=KY",
+      "status": 200,
+      "bytes": 44917
+    },
+    {
+      "path": "/access-in-pictures",
+      "status": 200,
+      "bytes": 618033
+    },
+    {
+      "path": "/sources",
+      "status": 200,
+      "bytes": 467643
+    },
+    {
+      "path": "/updates",
+      "status": 200,
+      "bytes": 395446
+    },
+    {
+      "path": "/venues/american-sign-museum",
+      "status": 200,
+      "bytes": 117067,
+      "fact_anchors": true,
+      "active_note_count": 13
+    },
+    {
+      "path": "/venues/everybodys-treehouse-mt-airy-forest",
+      "status": 200,
+      "bytes": 96573,
+      "fact_anchors": true,
+      "active_note_count": 8
+    },
+    {
+      "path": "/venues/fresh-market-madison-road",
+      "status": 200,
+      "bytes": 69676,
+      "fact_anchors": true,
+      "active_note_count": 5
+    },
+    {
+      "path": "/venues/krohn-conservatory",
+      "status": 200,
+      "bytes": 102746,
+      "fact_anchors": true,
+      "active_note_count": 8
+    },
+    {
+      "path": "/venues/mariemont-players-walton-creek-theater",
+      "status": 200,
+      "bytes": 103650,
+      "fact_anchors": true,
+      "active_note_count": 12
+    },
+    {
+      "path": "/venues/rc-durr-ymca",
+      "status": 200,
+      "bytes": 80725,
+      "fact_anchors": true,
+      "active_note_count": 7
+    },
+    {
+      "path": "/venues/taft-theatre",
+      "status": 200,
+      "bytes": 101948
+    },
+    {
+      "path": "/images/access/american-sign-museum-parking-2019.webp",
+      "status": 200,
+      "sha256": "c08150e511237e3826c13146430454bac9486e8577314602341348f03dc07ecb",
+      "matches_local": true
+    },
+    {
+      "path": "/images/access/everybodys-treehouse-walkway-2019.webp",
+      "status": 200,
+      "sha256": "8986df0c2572b381cdfd94a6ede603b3ab1bb1182d0b0206bd6f56fae777713b",
+      "matches_local": true
+    },
+    {
+      "path": "/images/access/krohn-entrance-2007.webp",
+      "status": 200,
+      "sha256": "80b7bae1a370cd04a568eeb9a8cd7dedc109dc54aecb45cebd95d90693eb7edb",
+      "matches_local": true
+    },
+    {
+      "path": "/images/access/krohn-walkway-2015.webp",
+      "status": 200,
+      "sha256": "fc6b67410dad1e7bcf751dd85cd1aeb2a10800c88dd73f1e449af0791af66bf8",
+      "matches_local": true
+    },
+    {
+      "path": "/images/access/krohn-orchid-path-2013.webp",
+      "status": 200,
+      "sha256": "b00a844427a839af082de9176d5aaef48a76460c0eec7050039730c503f4f25c",
+      "matches_local": true
+    },
+    {
+      "guide_id": "sign-museum-photographer-historical-ramp-tour",
+      "anchor_present": true
+    },
+    {
+      "guide_id": "sign-museum-event-room-library-photos",
+      "anchor_present": true
+    },
+    {
+      "guide_id": "mariemont-front-stair-photo",
+      "anchor_present": true
+    },
+    {
+      "guide_id": "rc-durr-pool-desk-fitness-photos",
+      "anchor_present": true
+    },
+    {
+      "guide_id": "taft-historical-spongebob-visual-narrative",
+      "anchor_present": true
+    }
+  ]
+}

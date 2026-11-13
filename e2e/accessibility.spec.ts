@@ -102,6 +102,8 @@ const routes = [
   "/venues/price-hill-branch-library",
   "/venues/leblond-recreation-center",
   "/venues/walmart-supercenter-fort-wright",
+  "/venues/fresh-market-madison-road",
+  "/venues/rc-durr-ymca",
   "/venues/target-newport",
   "/venues/florence-mall",
   "/venues/ikea-florence-plan-and-order-point",

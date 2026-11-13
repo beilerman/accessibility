@@ -1,0 +1,234 @@
+{
+  "checked_at": "2026-11-13T20:19:01.699104+00:00",
+  "scope": "Evidence limits and next-pass leads; not all are publication-blocking because supported narrow facts and explicit conflicts are preserved.",
+  "findings": [
+    {
+      "topic": "Momentum Refresh November 21 event",
+      "fetch": {
+        "name": "momentum-event",
+        "url": "https://www.hamiltonddsohio.gov/events/momentum-refresh-at-off-market-2/",
+        "status": 403,
+        "error": "Forbidden"
+      },
+      "decision": "403: unresolved. No current event/service eligibility or timing imported; earlier service-page block not freshly rechecked here."
+    },
+    {
+      "topic": "Mariemont current program initial size rejection",
+      "fetch": {
+        "name": "mpi-program",
+        "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+        "status": null,
+        "error": "PDF exceeds the 10 MiB review limit"
+      },
+      "decision": "Resolved through bounded 32 MiB helper improvement and fresh quote verification. 27,431,915-byte current program now extracted; no direct verified flag editing."
+    },
+    {
+      "topic": "Mariemont runtime conflict",
+      "fetch": {
+        "name": "mpi-show",
+        "url": "https://www.mariemontplayers.com/tunachristmas",
+        "status": 200,
+        "final_url": "https://www.mariemontplayers.com/tunachristmas",
+        "last_modified": null,
+        "sha256": "84d911375b183ee0fcc7dc094f9b5467b4b87ff083208c8d7a7efb6ebdd041c1",
+        "fingerprint_version": 6,
+        "chars": 1242
+      },
+      "decision": "Current show page has conflicting total/act timings. No runtime note imported."
+    },
+    {
+      "topic": "Treehouse changing facilities",
+      "fetch": {
+        "name": "tree-changing",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/news/love-the-change-changing-tables-at-mens-restrooms-in-parks/",
+        "status": 200,
+        "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/love-the-change-changing-tables-at-mens-restrooms-in-parks/",
+        "last_modified": null,
+        "sha256": "57aab91587a1dcfc7ad23749176cadb5accdfcf80721d3c56ef2a22f3412005e",
+        "fingerprint_version": 6,
+        "chars": 1265
+      },
+      "decision": "Article does not establish Area 10 changing facilities; no new changing claim."
+    },
+    {
+      "topic": "Krohn holiday details",
+      "fetch": {
+        "key": "krohn-holiday",
+        "url": "https://www.cincinnati-oh.gov/cincyparks/news/krohn-conservatory-holiday-show-events/",
+        "status": 200,
+        "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/krohn-conservatory-holiday-show-events/",
+        "last_modified": null,
+        "sha256": "6946f396348d91a3acda4b35f2af22e5109948b7608f61f6e14015c6caba89ff",
+        "fingerprint_version": 6,
+        "chars": 212
+      },
+      "decision": "200 response has only 212 extracted characters without substantive article body. No holiday claims imported."
+    },
+    {
+      "topic": "Foundation adaptive hiking",
+      "fetch": {
+        "key": "hiking-program",
+        "url": "https://cincyparksfoundation.org/programs/everybody-in-cincyparks/",
+        "status": 200,
+        "final_url": "https://cincyparksfoundation.org/programs/everybody-in-cincyparks/",
+        "last_modified": "Fri, 13 Nov 2026 19:54:55 GMT",
+        "sha256": "304934e4f756aa16ae96415ce13834f1ee7aed22627f6eb2964b5ec566810620",
+        "fingerprint_version": 6,
+        "chars": 1494
+      },
+      "decision": "Undated calendar references align with older years. No 2026 schedule, booking or equipment availability imported."
+    },
+    {
+      "topic": "Remke Taylor Mill",
+      "fetches": [
+        {
+          "n": 7,
+          "url": "https://www.remkes.com/taylor-mill/",
+          "status": 200,
+          "final_url": "https://www.remkes.com/taylor-mill/",
+          "last_modified": null,
+          "sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+          "fingerprint_version": 6,
+          "chars": 890
+        },
+        {
+          "n": 8,
+          "url": "https://www.remkes.com/store-locator/",
+          "status": 200,
+          "final_url": "https://www.remkes.com/store-locator/",
+          "last_modified": null,
+          "sha256": "f3fac5ec19fe9cf92522d83516a215aae938a678fa78b19eaad3ccf6408223e5",
+          "fingerprint_version": 6,
+          "chars": 1141
+        }
+      ],
+      "decision": "Branch hours 6 a.m.–11 p.m. conflict with locator 7 a.m.–10 p.m. In-store pickup is not curbside evidence; no location imported before collection/assistance evidence."
+    },
+    {
+      "topic": "CRC neighborhood pools",
+      "fetches": [
+        {
+          "n": 9,
+          "url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+          "status": 200,
+          "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+          "last_modified": null,
+          "sha256": "a7b5f9bf632ec5effe284f8deb78ac0b963782352964aee58d1ac91b8b843fc2",
+          "fingerprint_version": 6,
+          "chars": 5059
+        },
+        {
+          "n": 10,
+          "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+          "status": 200,
+          "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+          "last_modified": null,
+          "sha256": "00803e7b668fa46f1e02203fbc955236537bf90f24cd7dc1e548dde0f08ddbdd",
+          "fingerprint_version": 6,
+          "chars": 6980
+        },
+        {
+          "n": 11,
+          "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+          "status": 200,
+          "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+          "last_modified": null,
+          "sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775",
+          "fingerprint_version": 6,
+          "chars": 1252
+        }
+      ],
+      "decision": "2026 pool tables/rules are next research leads; no listing or freshness credit."
+    },
+    {
+      "topic": "M.E. Lyons adaptive swimming",
+      "fetch": {
+        "n": 3,
+        "url": "https://cincinnatiymca.volunteermatters.org/project-catalog/1221",
+        "status": 200,
+        "final_url": "https://cincinnatiymca.volunteermatters.org/project-catalog/1221",
+        "last_modified": null,
+        "sha256": "c7313369aacf7aa2759750694932840a43765e774c1c7d44d2a6280d3c5f5d06",
+        "fingerprint_version": 6,
+        "chars": 1963
+      },
+      "decision": "Volunteer project/positions are not participant eligibility, enrollment, booking or personal-care assistance evidence; held for participant-facing source."
+    },
+    {
+      "topic": "R.C. Durr indoor-pool operation",
+      "fetches": [
+        {
+          "n": 0,
+          "url": "https://myy.org/location/rc-durr-ymca/",
+          "status": 200,
+          "final_url": "https://myy.org/location/rc-durr-ymca/",
+          "last_modified": "Fri, 13 Nov 2026 19:59:11 GMT",
+          "sha256": "3d9a8ae5c226979907edee10624c27d8989a9e2ca268bae1c60037f7263f7e17",
+          "fingerprint_version": 6,
+          "chars": 9019
+        },
+        {
+          "n": 1,
+          "url": "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/",
+          "status": 200,
+          "final_url": "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/",
+          "last_modified": "Fri, 13 Nov 2026 20:06:54 GMT",
+          "sha256": "19412062d51dfbec95bacf9e59f18680cf8d2070dca323825a266d4954a0b491",
+          "fingerprint_version": 6,
+          "chars": 296
+        },
+        {
+          "n": 2,
+          "url": "https://rcdurr.myy.org/",
+          "status": 200,
+          "final_url": "https://rcdurr.myy.org/",
+          "last_modified": null,
+          "sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
+          "fingerprint_version": 6,
+          "chars": 11556
+        }
+      ],
+      "decision": "Both contradictory official descriptions published with explicit uncertainty; neither taken as a live outage confirmation. Lift operation and transfer assistance remain unknown."
+    },
+    {
+      "topic": "Taft historical narrative",
+      "fetch": {
+        "url": "https://thechildrenstheatre.com/wp-content/uploads/2023/02/SpongeBob-Sensory-Friendly-docs.pdf",
+        "status": 200,
+        "final_url": "https://thechildrenstheatre.com/wp-content/uploads/2023/02/SpongeBob-Sensory-Friendly-docs.pdf",
+        "last_modified": "Tue, 17 Oct 2023 18:37:07 GMT",
+        "sha256": "e9a4d5966deaf7d795b2037b6e3c7e85d1980cca5f857e1292dad7d4f811ca21",
+        "fingerprint_version": "pdf-bytes-1",
+        "format": "pdf",
+        "chars": 20170,
+        "pages": 13
+      },
+      "decision": "Original PDF linked after pages 2–7 visually inspected. 2023 metadata; show-specific sensory bags, food and admission policies not imported as current facts; venue freshness unchanged."
+    },
+    {
+      "topic": "Remaining photo gaps",
+      "decision": "Current whole parking-to-door routes, toilet/changing interiors, Mariemont elevator approach and YMCA equipment operation remain unverified. Two Krohn 429 candidate previews left uninspected. No AI or unlicensed republication."
+    },
+    {
+      "topic": "Final targeted photo search",
+      "queries": [
+        "Walton Creek Theater elevator photograph",
+        "Krohn Conservatory accessible restroom photo",
+        "R.C. Durr pool lift",
+        "Mariemont Players elevator photo entrance"
+      ],
+      "decision": "No additional verified original access view established in these searches. A third-party Mariemont review/photo aggregator offers an elevator-related caption and older visitor accounts, but original photographer/date/permission and the depicted route are unverified; no image or note imported.",
+      "unresolved_lead": "https://sagemenu.com/cincinnati/mariemont-players-cincinnati-3/"
+    },
+    {
+      "topic": "Older Mariemont program",
+      "fetch": {
+        "i": 10,
+        "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_b73574478999425094ce70ffab1977e6.pdf",
+        "status": 500,
+        "error": "Internal Server Error"
+      },
+      "decision": "500 in this run. Search indexing does not repair that failed fetch. Current November 2026 program is separately verified and used instead."
+    }
+  ]
+}

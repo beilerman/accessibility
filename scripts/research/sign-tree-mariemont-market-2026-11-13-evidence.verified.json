@@ -1,0 +1,438 @@
+[
+ {
+  "slug": "american-sign-museum",
+  "facts": [
+   {
+    "id": "american-sign-museum.mobility.1",
+    "text": "The museum says the entire collection is on one floor and that two wheelchairs are available for visitors on a first-come, first-served basis.",
+    "url": "https://www.americansignmuseum.org/visit",
+    "quote": "The entire collection resides on one floor that’s easy to navigate. The Museum has two wheelchairs available for visitor use on a first-come-first-serve basis.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "id": "american-sign-museum.chronic.1",
+    "text": "The museum says chairs are placed throughout the museum.",
+    "url": "https://www.americansignmuseum.org/visit",
+    "quote": "There are chairs throughout the Museum as well.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "id": "american-sign-museum.sensory.1",
+    "text": "Braille book tours and printed highlights in several languages are at the tour stand near Admissions, and an online audio tour is reached by QR code by the ramp.",
+    "url": "https://www.americansignmuseum.org/visit",
+    "quote": [
+     "Braille book tours and printed copies of the highlights are available in English, Spanish, Arabic, Nepali, German, French, and Chinese in the tour stand near the Admissions desk.",
+     "The on-line audio tour is available in English, Spanish, Arabic, Nepali, German, French, and Chinese and can be accessed using the QR code by the ramp."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "id": "american-sign-museum.sensory.2",
+    "text": "The museum advises that guests who may have difficulty with blinking or flashing lights use discretion.",
+    "url": "https://www.americansignmuseum.org/visit",
+    "quote": "Guests who may have difficulty with blinking or flashing lights will need to use discretion.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "id": "american-sign-museum.mobility.2",
+    "text": "Accessible parking spaces are along the side of the building, closer to the side lobby entrance.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": "Handicapped parking spaces are along the side of the building, closer to our side lobby entrance.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "id": "american-sign-museum.cognitive.1",
+    "text": "The museum recommends at least 60 to 90 minutes for a visit.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": "We recommend at least 60-90 minutes for your visit.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "id": "american-sign-museum.chronic.2",
+    "text": "Food and drinks are not permitted in the exhibition areas.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": "For the safety of the collection, food and drinks are not permitted in the exhibition areas.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "id": "american-sign-museum.cognitive.2",
+    "text": "The visitor page welcomes what it calls “certified service animals” and asks other animals to remain at home. Confirm the museum’s wording and arrangements before visiting.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": "Certified service animals are welcome; however, we ask that all non-certified animals remain at home.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "domain": "mobility",
+    "text": "The free parking lot is the first entrance on the right from Monmouth Avenue through a black gate. The museum warns that GPS may select Monmouth Avenue in Kentucky; use 1330 Monmouth Avenue, Cincinnati.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": [
+     "The Museum’s parking lot is at the first entrance on the right, through the black gate.",
+     "Please be sure to double check that the address you are using is for 1330 Monmouth Ave, Cincinnati, OH 45225. Some GPS may try to take you to the Monmouth Ave in Kentucky.",
+     "The Museum has a free parking lot."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "domain": "mobility",
+    "text": "The library FAQ says visitors must climb one flight of stairs and that the library has no elevator. Entry instructions are sent after an appointment is confirmed.",
+    "url": "https://www.americansignmuseum.org/wp-content/uploads/2024/11/Library-FAQs.pdf",
+    "quote": [
+     "Library visits are appointment-only. Once your visit is booked, you’ll receive confirmation with entry instructions.",
+     "The Library does not have an elevator at this time and those wishing to visit must ascend one flight of stairs to access it."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "52a72c7d68d7ad15b6b1256809e6d4b64381cedd475b68d9dbd18d15a9cb3525"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Library visits require an appointment and are included with museum admission. Request a two-hour slot Wednesday–Saturday between 10 a.m. and 4 p.m., three weeks ahead; allow one week for confirmation.",
+    "url": "https://www.americansignmuseum.org/library/",
+    "quote": "The Library is available for all researchers and learners by appointment only, and is free with Museum admission. 2-hour time slots can be requested Wednesdays through Saturdays, 10am-4pm. Please request your appointment 3 weeks in advance, and allow one week for an ASM staff member to confirm your appointment.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "469ad2fd4950729d968765a24419991eee24763b05673fb45a2fdaeedf6d390a"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Advance eTickets are optional for a general museum visit. Admission includes public tours; groups of 10 or more are encouraged to reserve eTickets ahead.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": [
+     "Admission includes Museum entry and public tours. Pre-purchasing eTickets is not required in order to visit the ASM, however we do provide optional eTicket slots for your convenience.",
+     "Groups of 10+ are encouraged to reserve eTickets in advance."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   },
+   {
+    "domain": "chronic",
+    "text": "Through Museums for All, visitors receiving SNAP food assistance can show a current SNAP card and photo ID for up to four free admissions for their group.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": "Visitors receiving food assistance (SNAP) can present a current SNAP card and a photo ID to receive up to 4 free admissions for their group.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22"
+   }
+  ]
+ },
+ {
+  "slug": "everybodys-treehouse-mt-airy-forest",
+  "facts": [
+   {
+    "id": "everybodys-treehouse-mt-airy-forest.mobility.1",
+    "text": "Cincinnati Parks’ September 2026 reopening article says the treehouse and ramps span 1,500 square feet and connect to living trees. The treehouse originally opened in 2006.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+    "quote": [
+     "Everybody’s Treehouse originally opened in 2006",
+     "The treehouse feature and ramps span 1,500 square feet and are connected to living trees.",
+     "Sep 25, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9"
+   },
+   {
+    "id": "everybodys-treehouse-mt-airy-forest.cognitive.1",
+    "text": "Cincinnati Parks announced the treehouse’s reopening on September 25, 2026, following a closure that began in January 2024. This dated announcement does not confirm daily operating conditions.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+    "quote": [
+     "Everybody’s Treehouse in Mt. Airy Forest, one of the region’s most unique and inclusive park experiences, is once again welcoming visitors",
+     "The Treehouse closed in January 2024 to undergo critical improvements",
+     "Sep 25, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9"
+   },
+   {
+    "id": "everybodys-treehouse-mt-airy-forest.mobility.2",
+    "text": "The wider Mt. Airy Forest feature list includes parking and paved walkways. It does not describe a continuous parking-to-treehouse route.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+    "quote": "Parking Paved Walkways",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842"
+   },
+   {
+    "id": "everybodys-treehouse-mt-airy-forest.chronic.1",
+    "text": "The Area 10 shelter across from the treehouse is first come, first served and has restrooms, listed as open 6 a.m. to 10 p.m.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+    "quote": [
+     "Area 10 (across from Everybody’s Treehouse) and Area 13 (in the middle of Cindee Walsh Circle ) are both first come first serve shelters available for public use, restrooms are available at both shelters.",
+     "Mt. Airy Forest Area 10 Restrooms: open 6 a.m. – 10 p.m."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842"
+   },
+   {
+    "id": "everybodys-treehouse-mt-airy-forest.cognitive.2",
+    "text": "Cincinnati Parks provides reasonable accommodations on request through its Reasonable Accommodation Request Form; questions go to 513-357-2604.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+    "quote": [
+     "Cincinnati Parks is committed to providing a quality experience at all our parks and facilities by providing reasonable accommodations for individuals with disabilities upon request. To request an accommodation fill out a Reasonable Accommodation Request Form linked here.",
+     "For questions call us at 513-357-2604."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The park page is inconsistent: its introduction still says the treehouse is “currently closed for repairs,” while its feature list says “Now Open.” Confirm current access with Cincinnati Parks before travelling.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+    "quote": [
+     "Mt. Airy also has Ohio’s only wheelchair accessible public treehouse (currently closed for repairs)",
+     "Everybody’s Treehouse - Now Open."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842"
+   },
+   {
+    "domain": "mobility",
+    "text": "The September 2026 reopening article describes replaced structural timber, strengthened and modernized guardrails, a new roof, and cleaned and sealed wood surfaces. Photographs from before this work show a different condition.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+    "quote": [
+     "Renovation work included replacing key structural timber elements, strengthening and modernizing guardrails, installing a new roof, and cleaning and sealing all wood surfaces.",
+     "Sep 25, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9"
+   },
+   {
+    "domain": "mobility",
+    "text": "For visitors exploring beyond the treehouse, the park page reports that the Bradford Felter–Tanglewood Preserve trail is closed for repair and redesign, citing degraded conditions and accessibility constraints. This is a separate trail closure.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+    "quote": "The Bradford Felter–Tanglewood Preserve trail is closed for repair and redesign. The work being done to reopen the trail will address significant issues including overall degraded trail conditions, accessibility constraints, and heavy invasive species encroachment.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842"
+   }
+  ]
+ },
+ {
+  "slug": "mariemont-players-walton-creek-theater",
+  "facts": [
+   {
+    "id": "mariemont-players-walton-creek-theater.mobility.1",
+    "text": "The theater says ADA seating is limited. Contact the box office when buying tickets and at least 48 hours before the performance: 513-501-1718 or mpiboxoffice@gmail.com.",
+    "url": "https://www.mariemontplayers.com/seating",
+    "quote": [
+     "Because ADA seating is limited, we ask that patrons contact the box office at least 48 hours in advance at the time of ticket purchase so we can best assist you.",
+     "For assistance, please contact us at mpiboxoffice@gmail.com or 513.501.1718.",
+     "Reach out by email or phone at least 48 hours before your performance so we can arrange appropriate seating and accommodations."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361"
+   },
+   {
+    "id": "mariemont-players-walton-creek-theater.mobility.2",
+    "text": "Space for walkers and rollators is limited, and they may need to be stored in a closet inside the auditorium.",
+    "url": "https://www.mariemontplayers.com/seating",
+    "quote": "Please note that space for walkers and rollators is limited, and these items may need to be stored in a designated closet inside the auditorium.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361"
+   },
+   {
+    "id": "mariemont-players-walton-creek-theater.sensory.1",
+    "text": "The theater has a hearing loop for T-coil hearing aids and cochlear implants; free loop receiver headsets are available at the box office before showtime.",
+    "url": "https://www.mariemontplayers.com/seating",
+    "quote": [
+     "Mariemont Players is equipped with a Hearing Loop (T-Coil) system, which transmits crystal-clear audio directly to compatible hearing aids and cochlear implants switched to the \"T\" or \"T-Coil\" setting.",
+     "For patrons without a T-coil-enabled device, loop receiver headsets are also available free of charge at the box office prior to showtime."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361"
+   },
+   {
+    "id": "mariemont-players-walton-creek-theater.mobility.3",
+    "text": "The onsite parking lot is small and can fill up for sold-out shows.",
+    "url": "https://www.mariemontplayers.com/directions",
+    "quote": "Mariemont Players, Inc. does have a small but mighty parking lot onsite. For shows that are sold out, the parking lot can fill up, so we do encourage car pooling if possible.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3ca300710ad9eb49587fcb2ca411514ba0e10fb8921a2bfb098eb68f135d4904"
+   },
+   {
+    "id": "mariemont-players-walton-creek-theater.sensory.2",
+    "text": "Digital programs are linked from each show’s webpage, alongside printed booklets. The current health page recommends masks because of the small space and proximity to actors, but does not require them; recheck the policy before a performance.",
+    "url": "https://www.mariemontplayers.com/health",
+    "quote": [
+     "In addition to the booklet programs we offer for each show, we also offer a full digital program. Just find the show’s page on our website and click the link to pull up the digital program!",
+     "Masks are recommended because of our small space and the close proximity to the actors (we don’t have understudies), but are not mandatory.",
+     "The policies stated below are subject to change. Please check back to this page before each performance for any updates to our policies."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "623ecd6310b6603e44146e260ba5a4ad4eee65ad5fb04b8c87889d87596445d8"
+   },
+   {
+    "domain": "mobility",
+    "text": "The November 2026 program says the elevator can be reached from the parking lot, lobby and auditorium, and asks visitors to seek an usher’s assistance. It does not give lift dimensions or a marked outdoor approach.",
+    "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+    "quote": [
+     "Elevator: Accessible from parking lot, lobby and auditorium. Ask an usher for assistance.",
+     "November 5- 22, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3"
+   },
+   {
+    "domain": "mobility",
+    "text": "The November 2026 program identifies a restroom on the first-floor lobby level that it describes as accessible, plus two basement restrooms. It does not describe changing equipment or transfer space.",
+    "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+    "quote": [
+     "Restrooms: An handicap-accessible restroom on the ﬁrst ﬂoor lobby level, and two additional restrooms in the basement.",
+     "November 5- 22, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3"
+   },
+   {
+    "domain": "sensory",
+    "text": "The November 2026 program locates the loan hearing-loop receiver and headset in the first-floor lobby’s will-call area.",
+    "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+    "quote": [
+     "If your hearing aid doesn’t have a telecoil, you may borrow a separate loop receiver with a headset, available in the ﬁrst ﬂoor lobby will call area.",
+     "November 5- 22, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3"
+   },
+   {
+    "domain": "chronic",
+    "text": "The November 2026 program permits water bottles in the auditorium, but excludes other food and drinks. Refreshments are available before the show and during intermission in the first-floor Hurst lobby.",
+    "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+    "quote": [
+     "Food and drinks are not allowed in the auditorium, except water bottles. Please dispose of all refreshments before entering the theater.",
+     "Refreshments: Available prior to show and during intermission in the ﬁrst ﬂoor Hurst lobby.",
+     "November 5- 22, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The November 2026 program says late arrivals wait for a suitable break before entering.",
+    "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+    "quote": [
+     "Latecomers cannot be admitted until a suitable break.",
+     "November 5- 22, 2026"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3"
+   },
+   {
+    "domain": "mobility",
+    "text": "If the onsite lot fills, the theater lists offsite parking at Calvary Presbyterian Church, 7416 Elm Street (0.1 mile), Walgreens, 7398 Wooster Pike (0.2 mile), and Kroger, 7385 Wooster Pike (0.3 mile). These are the theater’s listed distances, not verified step-free walking routes or reserved spaces.",
+    "url": "https://www.mariemontplayers.com/directions",
+    "quote": [
+     "If the parking lot does fill up, there are several other parking options to park and walk to the theatre, such as:",
+     "Calvary Presbyterian Church located at 7416 Elm St, Cincinnati, OH 45227, .1 miles from the theatre",
+     "Walgreens located at 7398 Wooster Pike, Cincinnati, OH 45227, .2 miles from the theatre",
+     "Kroger located at 7385 Wooster Pike, Cincinnati, OH 45227, .3 miles from the theatre"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3ca300710ad9eb49587fcb2ca411514ba0e10fb8921a2bfb098eb68f135d4904"
+   },
+   {
+    "domain": "chronic",
+    "text": "If you feel ill before a show, the theater asks you to stay home and contact the box office, which says it will try to reach a solution. This is not a promised refund or exchange.",
+    "url": "https://www.mariemontplayers.com/health",
+    "quote": "If you feel ill before a show, please do not come to the theater. Contact the box office and we will do our best to reach a solution.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "623ecd6310b6603e44146e260ba5a4ad4eee65ad5fb04b8c87889d87596445d8"
+   }
+  ]
+ },
+ {
+  "slug": "fresh-market-madison-road",
+  "address_quote": "3088 Madison Rd Cincinnati, OH",
+  "address_url": "https://stores.thefreshmarket.com/oh/cincinnati/79",
+  "facts": [
+   {
+    "domain": "mobility",
+    "text": "The Madison Road branch page links curbside pickup and delivery. For branch-specific questions, it lists 513-533-2600.",
+    "url": "https://stores.thefreshmarket.com/oh/cincinnati/79",
+    "quote": [
+     "The Fresh Market ON Madison Rd",
+     "curbside pickup & delivery",
+     "513-533-2600"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "4a150e01e6a6cc6cf2846575e3108895b70c0048b36ebe29cadaed2d51bfbc50"
+   },
+   {
+    "domain": "mobility",
+    "text": "The chain’s curbside instructions say to order online, choose a time and have groceries brought to your car. They do not describe this branch’s collection bay or promise help lifting items.",
+    "url": "https://www.thefreshmarket.com/ways-to-shop",
+    "quote": "Shop online, pick a time and we’ll bring your groceries out to your car with a smile.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c4d0a2fd26a22b0d982b1780f803cc4431d5b2a2fae67f2af14b14fe7493ece8"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The chain offers online or app ordering. In the app, log in or create an account, then choose curbside pickup or delivery.",
+    "url": "https://www.thefreshmarket.com/ways-to-shop",
+    "quote": [
+     "Visit us online at shop.thefreshmarket.com or download our App!",
+     "Log in or create your account, then select whether you’d like curbside pickup or delivery to start your order."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c4d0a2fd26a22b0d982b1780f803cc4431d5b2a2fae67f2af14b14fe7493ece8"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The chain FAQ currently lists a curbside fee of $1.99 for orders of $35 or more and $3.99 below $35. Check the total at checkout; the FAQ says Instacart sets its delivery fees.",
+    "url": "https://www.thefreshmarket.com/tfm-faq",
+    "quote": "For curbside, orders totaling $35 and up, the fee is $1.99. For orders under $35, the fee is $3.99. Fees for delivery orders are set by our delivery partner, Instacart.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5fb614daa926633a5b5b786ce92d6a66730e1e278646e4675152dc9ceb5fcbd2"
+   },
+   {
+    "domain": "chronic",
+    "text": "The chain’s delivery page names Instacart, DoorDash and Uber Eats and describes delivery to the doorstep. Delivery availability and timing need confirmation for the chosen address; indoor carrying is not described.",
+    "url": "https://www.thefreshmarket.com/ways-to-shop",
+    "quote": "We’ve partnered with Instacart , DoorDash and Uber Eats to bring your favorite foods to your doorstep in 2 hours or less.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c4d0a2fd26a22b0d982b1780f803cc4431d5b2a2fae67f2af14b14fe7493ece8"
+   }
+  ]
+ }
+]

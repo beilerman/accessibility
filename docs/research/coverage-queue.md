@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Summit Park, Woodward, Cincinnati Open and Boone Cliffs full reviews; Newport Ace; one licensed photo and seven original visual links.
+Updated November 13, 2026, after Sign Museum, Treehouse, Mariemont and Krohn full reviews; Madison Road Fresh Market and R.C. Durr YMCA; five licensed photos and five original visual links.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -8,12 +8,12 @@ they enter the public catalog.
 
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
-evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now **56 notes**. The latest pass adds
-four full reviews (17 old notes), repairing all 17 missing passages. Eight
-corrections/clarifications are separate from 32 new IDs. The preceding 154-place
-batch is already in the publication base. Treehouse gains only a visual link;
-its note-review date is unchanged. Start with transit
+evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft Museum. The
+remaining legacy missing-passage backlog is now **38 notes**. The latest pass adds
+four full reviews (25 old notes), repairing 18 missing passages (**56 → 38**).
+Nine corrections/clarifications are separate from **28 new IDs**. The preceding
+155-place batch is already in the publication base. Taft Theatre gains only a historical
+visual narrative; its note-review date is unchanged. Continue transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -36,11 +36,13 @@ snippets. The terms request disconnected and the gift-card blog returned 503.
 No current Caroline’s Cart inventory is established by old 2014/2017 news. See
 `carnegie-ensemble-memorial-voa-banklick-2026-11-13-kroger-preflight.json`.
 
-Additional grocery leads from this pass: **Remke Taylor Mill, 5016 Old Taylor Mill
+Additional grocery leads from the preceding pass and this follow-up: **Remke Taylor Mill, 5016 Old Taylor Mill
 Road**, has readable official location and in-store pickup wording; collection
 procedures remain unextractable in its JavaScript ordering app. Do not relabel
-that service as curbside. Its header is a historical storefront banner, not
-current branch access evidence. **Meijer Cold Spring** returns 403 to the helper.
+that service as curbside. November 13 re-fetches also conflict on hours: the branch
+says 6 a.m.–11 p.m., the locator 7 a.m.–10 p.m. Its header is a historical
+storefront banner, not current branch access evidence. **Meijer Cold Spring**
+returned 403 in the preceding pass and was not re-fetched here.
 See `summit-woodward-open-newport-2026-11-13-grocery-preflight.json`; no import or
 freshness credit. Prefer resolving substantive collection/entrance details at
 Remke over repeatedly retrying blocked Kroger alone.
@@ -49,9 +51,9 @@ Remke over repeatedly retrying blocked Kroger alone.
 delivery notes at 82 Carothers Road. Physical arrival, collection bay and in-store
 access remain unknown; no trunk-loading or indoor carrying service is inferred.
 
-The prepared catalog has 155 places: 32 arts venues, 31 parks/outdoors, 21 museums/
-attractions, 15 libraries, seven transport, sixteen food/drink, thirteen shopping,
-twelve public-service and eight recreation/fitness listings. Continue seeking
+The prepared catalog has 157 places: 32 arts venues, 31 parks/outdoors, 21 museums/
+attractions, 15 libraries, seven transport, sixteen food/drink, fourteen shopping,
+twelve public-service and nine recreation/fitness listings. Continue seeking
 concrete access information for everyday activities and less represented neighborhoods.
 
 Cover Northern Kentucky and Greater Cincinnati. Investigate recreation and swimming,
@@ -78,7 +80,60 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 Summit, Woodward, Cincinnati Open, Boone Cliffs and Newport
+## Latest pass — November 13 Sign Museum, Treehouse, Mariemont, Krohn and everyday access
+
+- **Evidence/freshness:** four full reviews, **25 old notes: 16 unchanged and nine
+  revised**. Eighteen missing passages repaired (**56 → 38**). No partial note
+  review. Taft's new historical guide is photo-only; its whole-venue date stays
+  unchanged. Old IDs/history and all 151 other existing venue records are preserved.
+- **Growth:** **28 new IDs** — Sign 5, Treehouse 3, Mariemont 7, Krohn 1, Fresh
+  Market 5 and R.C. Durr YMCA 7. Krohn's new ID partly relocates older mis-sourced
+  phone/closure clauses; new-ID count is not wholly novel-claim count.
+- **Corrections/depth:** Sign Museum's library has stairs/no elevator and separate
+  booking. Treehouse's September reopening coexists with stale closed/open page
+  wording; historic photos predate structural work. Mariemont's current program
+  adds elevator stops, lobby restroom and hearing-receiver location; limited
+  seating requires notice. Krohn's walkway and garden claims are dated history;
+  general hours remain subordinate to closures. YMCA indoor-pool status conflicts;
+  its outdoor zero-depth splash pool cannot establish indoor entry.
+- **Imagery:** five licensed historical full frames: Sign parking, Treehouse
+  approach, Krohn entrance, railed walkway and Orchid House path. Five original
+  links: Sign photographer panorama and event/library gallery; Mariemont front
+  stairs; YMCA pool/desk/fitness photos; Taft's 2023 photo narrative with entrance,
+  lobby, restroom doors and seating. Taft performance policies are historical,
+  not current arrangements. Extensive candidates and selected outputs inspected;
+  no unlicensed republication or AI added.
+- **Held:** current toilets/changing, route continuity and transfer help; Mariemont
+  parking-to-elevator photo; Krohn holiday article missing body; YMCA pool outage
+  ambiguity. Momentum Refresh November 21 event still 403. Remke Taylor Mill
+  branch/locator conflict on hours and no verified curbside procedure. CRC pool
+  pages are readable 2026 leads; M.E. Lyons volunteer listings are not participant
+  eligibility/booking evidence.
+- **Checks/totals:** 55 canonical note/address checks, 21 active-source baselines
+  with no attention findings; five original guide URLs and photographer index
+  freshly fetched. 100 unit/76 pipeline, lint/types/build pass (172 pages).
+  Final local HTTP routes, 53 note anchors, five photo hashes and five guide links
+  checked. Browser host remains blocked; runner must execute 145 registered tests.
+  **157 places; 1,690 active/one retired; 1,652 quoted active; 38 missing;
+  79 photos; 63 guide entries/58 URLs (33 PDF/25 web).**
+
+Read `sign-tree-mariemont-market-2026-11-13.md` and its delta/media/source/HTTP/
+validation/held receipts. All same-prefix mutation specs are **already applied;
+do not reapply**. No Git writes, publication or deployment by this agent. The
+PDF helper now accepts files up to 32 MiB, retaining its 10 MiB per-page and
+150-page limits plus all fresh text/quote gates; regressions cover the change.
+
+**Next concrete batch:** **Taft Theatre (four missing), Eden Park (five) and
+Heritage Bank Center (one)**. Their official pages passed availability-only
+checks, not note reviews. Finish arrival/entrance, toilets/changing, companion
+seating and assistance limits. The Taft historical guide offers specific photo
+leads; seek current equivalents. Pair with Remke collection details or CRC/Dunham
+neighborhood recreation. Revisit the held November 21 Momentum event before its
+date. Preserve Music Hall (3), Molly Malone's (4), AMC (6), Heritage Village (8)
+and Ohio Renaissance Festival (7) remaining missing evidence. Continue real
+entrance/toilet/changing/route photography.
+
+## Previous pass — November 13 Summit, Woodward, Cincinnati Open, Boone Cliffs and Newport
 
 - **Evidence/freshness:** four full reviews covering **17 old notes: nine unchanged,
   eight revised**. All 17 missing passages repaired (**73 → 56**). Summit five,
@@ -116,7 +171,7 @@ Read `summit-woodward-open-newport-2026-11-13.md` and its delta/media/source/HTT
 validation/next-preflight receipts. All same-prefix mutation specs are **already
 applied; do not reapply**. No agent Git writes, publication or deployment.
 
-**Next concrete batch:** American Sign Museum (four missing), Everybody's Treehouse
+**Historical next batch, completed by the latest pass:** American Sign Museum (four missing), Everybody's Treehouse
 (five) and Mariemont Players (five), alongside an everyday grocery or recreation
 lead. Nine source URLs passed availability-only checks. Treehouse's three official
 reopening photos are now linked; compare historical Commons views with the 2026

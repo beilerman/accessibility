@@ -11,6 +11,24 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Burlington recreation while preserving conflicting pool status and outdoor entry scope", () => {
+    const slug = "rc-durr-ymca";
+    expect(findPlaces({ category: "Recreation & fitness", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("5874 Veterans Way, Burlington, KY 41005");
+    expect(text(slug)).toContain("without a year");
+    expect(text(slug)).toContain("does not establish an indoor-pool entry method");
+    expect(place(slug).limitations).toContain("are unresolved; confirm operation directly");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Madison Road groceries while preserving collection and assistance limits", () => {
+    const slug = "fresh-market-madison-road";
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("3088 Madison Rd, Cincinnati, OH");
+    expect(text(slug)).toContain("have groceries brought to your car");
+    expect(place(slug).limitations).toContain("not an observed transaction");
+    expect(place(slug).limitations).toContain("No claim of trunk loading or indoor delivery assistance");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Newport hardware pickup while preserving collection and delivery limits", () => {
     const slug = "great-lakes-ace-newport";
     expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);

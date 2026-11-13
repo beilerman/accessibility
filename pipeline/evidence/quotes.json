@@ -76,23 +76,123 @@
  },
  "american-sign-museum.chronic.1": {
   "url": "https://www.americansignmuseum.org/visit",
-  "quote": "The Museum has two wheelchairs available for visitor use on a first-come-first-serve basis. There are chairs throughout the Museum as well.",
-  "verified_at": "2026-11-10"
+  "quote": "There are chairs throughout the Museum as well.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "648221de122b649a54abd7b95465e5674b6eed9bb39e0753ed5335f034498d7a",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.chronic.2": {
+  "url": "https://www.americansignmuseum.org/visit/",
+  "quote": "For the safety of the collection, food and drinks are not permitted in the exhibition areas.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "2ca1c779719eca80b93c8e7c1a6bae3028bfd731b17cb58ebefd0f4e582141ea",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.chronic.3": {
+  "url": "https://www.americansignmuseum.org/visit/",
+  "quote": "Visitors receiving food assistance (SNAP) can present a current SNAP card and a photo ID to receive up to 4 free admissions for their group.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The ASM is a member of Museums for All ."
+  ],
+  "claim_sha256": "f4b1ebf1dffa1368c49699755ba6b3cc72d0fa6949c56c0f3eae4bf970293aa6",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.cognitive.1": {
+  "url": "https://www.americansignmuseum.org/visit/",
+  "quote": "We recommend at least 60-90 minutes for your visit.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "9fb3519e3e43baef763d2e38e7932b3b523f43bc1d27078fda2cb40311cf59f6",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.cognitive.2": {
+  "url": "https://www.americansignmuseum.org/visit/",
+  "quote": "Certified service animals are welcome; however, we ask that all non-certified animals remain at home.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8d8109caecf1bf753984f89058fbb6dbd231ace1e85a7c61a955d6cd47ade166",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.cognitive.3": {
+  "url": "https://www.americansignmuseum.org/library/",
+  "quote": "The Library is available for all researchers and learners by appointment only, and is free with Museum admission. 2-hour time slots can be requested Wednesdays through Saturdays, 10am-4pm. Please request your appointment 3 weeks in advance, and allow one week for an ASM staff member to confirm your appointment.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "859cbb69a3b97a9e827c90d3a08515f8072aa035bac6b94102eea986bdf45158",
+  "source_sha256": "469ad2fd4950729d968765a24419991eee24763b05673fb45a2fdaeedf6d390a",
+  "final_url": "https://www.americansignmuseum.org/library/"
+ },
+ "american-sign-museum.cognitive.4": {
+  "url": "https://www.americansignmuseum.org/visit/",
+  "quote": "Admission includes Museum entry and public tours. Pre-purchasing eTickets is not required in order to visit the ASM, however we do provide optional eTicket slots for your convenience.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Groups of 10+ are encouraged to reserve eTickets in advance."
+  ],
+  "claim_sha256": "0b30bd8b078199c163d72661a77a2ec2b19519580f44d14ead397455fd26522c",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
  },
  "american-sign-museum.mobility.1": {
   "url": "https://www.americansignmuseum.org/visit",
   "quote": "The entire collection resides on one floor that’s easy to navigate. The Museum has two wheelchairs available for visitor use on a first-come-first-serve basis.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ca1dcfde03f0c1fa43e40075053b4e4b85943a2c6f7d85404fa148b4d9ffd677",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.mobility.2": {
+  "url": "https://www.americansignmuseum.org/visit/",
+  "quote": "Handicapped parking spaces are along the side of the building, closer to our side lobby entrance.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "dd1fe14e599527c89e313a5a540154ac5cdbf664a7112f7f7c6c93d5bb69f170",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.mobility.3": {
+  "url": "https://www.americansignmuseum.org/visit/",
+  "quote": "Then turn right onto Colerain Avenue. Then take a left on Monmouth Avenue. The Museum’s parking lot is at the first entrance on the right, through the black gate.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Please be sure to double check that the address you are using is for 1330 Monmouth Ave, Cincinnati, OH 45225. Some GPS may try to take you to the Monmouth Ave in Kentucky.",
+   "The Museum has a free parking lot."
+  ],
+  "claim_sha256": "7eb772f514480f5bd1ccf179583428e962531e2eae0270ab8a2cd6d3425559bd",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
+ },
+ "american-sign-museum.mobility.4": {
+  "url": "https://www.americansignmuseum.org/wp-content/uploads/2024/11/Library-FAQs.pdf",
+  "quote": "Library visits are appointment-only. Once your visit is booked, you’ll receive confirmation with entry instructions.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Library does not have an elevator at this time and those wishing to visit must ascend one flight of stairs to access it."
+  ],
+  "claim_sha256": "ddc9c8cce3d1428f9d7e96e88dde4e33366c4e1ef0cb7a45cec96d13589f93b3",
+  "source_sha256": "52a72c7d68d7ad15b6b1256809e6d4b64381cedd475b68d9dbd18d15a9cb3525",
+  "final_url": "https://www.americansignmuseum.org/wp-content/uploads/2024/11/Library-FAQs.pdf"
  },
  "american-sign-museum.sensory.1": {
   "url": "https://www.americansignmuseum.org/visit",
   "quote": "Braille book tours and printed copies of the highlights are available in English, Spanish, Arabic, Nepali, German, French, and Chinese in the tour stand near the Admissions desk.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The on-line audio tour is available in English, Spanish, Arabic, Nepali, German, French, and Chinese and can be accessed using the QR code by the ramp."
+  ],
+  "claim_sha256": "6205641e1b10961aec5a0a83c0fe6d415e155ed8d8b3df9c7c04c4f82a6e962f",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
  },
  "american-sign-museum.sensory.2": {
   "url": "https://www.americansignmuseum.org/visit",
   "quote": "Guests who may have difficulty with blinking or flashing lights will need to use discretion.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "2ff5915f47b609b4ef24c835e1b7af45f307589b6902d139dad7e36e95ee1680",
+  "source_sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+  "final_url": "https://www.americansignmuseum.org/visit/"
  },
  "andrew-j-brady-music-center.chronic.1": {
   "url": "https://bradymusiccenter.com/venue-info/rules-and-prohibited-items",
@@ -4687,6 +4787,90 @@
   "source_sha256": "397dc75e17db1bdac4d15c0c5b0000f37e6af8ab23367577fa2ff8d588b839b8",
   "final_url": "https://images.ensemblecincinnati.org/uploads/2026/05/ETC-Social-Narrative.pdf"
  },
+ "everybodys-treehouse-mt-airy-forest.chronic.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+  "quote": "Area 10 (across from Everybody’s Treehouse) and Area 13 (in the middle of Cindee Walsh Circle ) are both first come first serve shelters available for public use, restrooms are available at both shelters.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Mt. Airy Forest Area 10 Restrooms: open 6 a.m. – 10 p.m."
+  ],
+  "claim_sha256": "811cdcafaf54a04ea8eac9f7f60c8dc0df8f0119549894b9e8999c4595a37673",
+  "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/"
+ },
+ "everybodys-treehouse-mt-airy-forest.cognitive.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+  "quote": "Everybody’s Treehouse in Mt. Airy Forest, one of the region’s most unique and inclusive park experiences, is once again welcoming visitors",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Treehouse closed in January 2024 to undergo critical improvements",
+   "Sep 25, 2026"
+  ],
+  "claim_sha256": "1e4e1024ffa53a11426415d18ed7990f222868c00c46d29ab36e470bca097644",
+  "source_sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/"
+ },
+ "everybodys-treehouse-mt-airy-forest.cognitive.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+  "quote": "Cincinnati Parks is committed to providing a quality experience at all our parks and facilities by providing reasonable accommodations for individuals with disabilities upon request. To request an accommodation fill out a Reasonable Accommodation Request Form linked here.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For questions call us at 513-357-2604."
+  ],
+  "claim_sha256": "4be7f6d0d1ac8e83a2333d6cb2b7e5dcbf03fb21044ea875126e9bba0a858545",
+  "source_sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/"
+ },
+ "everybodys-treehouse-mt-airy-forest.cognitive.3": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+  "quote": "Mt. Airy also has Ohio’s only wheelchair accessible public treehouse (currently closed for repairs)",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Everybody’s Treehouse - Now Open."
+  ],
+  "claim_sha256": "8d250757bd6ce66640ceb30f2d424b5a3e3e82995d98480c416198a25dba0a47",
+  "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/"
+ },
+ "everybodys-treehouse-mt-airy-forest.mobility.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+  "quote": "Everybody’s Treehouse originally opened in 2006",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The treehouse feature and ramps span 1,500 square feet and are connected to living trees.",
+   "Sep 25, 2026"
+  ],
+  "claim_sha256": "0437e83abb95f9dc41cbd0fd8b2db92edfcb9db1c5fce32a71ddd9b87193c990",
+  "source_sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/"
+ },
+ "everybodys-treehouse-mt-airy-forest.mobility.2": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+  "quote": "Parking Paved Walkways",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "5c2dcbf1cbbd5f7f6748f27688ae49234f0af7594d8fdf56a91a3f5f149fea04",
+  "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/"
+ },
+ "everybodys-treehouse-mt-airy-forest.mobility.3": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+  "quote": "Renovation work included replacing key structural timber elements, strengthening and modernizing guardrails, installing a new roof, and cleaning and sealing all wood surfaces.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Sep 25, 2026"
+  ],
+  "claim_sha256": "24fa62517b04f96320f05595bf4239ab032469b93894326e0516ba5ce3334a81",
+  "source_sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/"
+ },
+ "everybodys-treehouse-mt-airy-forest.mobility.4": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+  "quote": "The Bradford Felter–Tanglewood Preserve trail is closed for repair and redesign. The work being done to reopen the trail will address significant issues including overall degraded trail conditions, accessibility constraints, and heavy invasive species encroachment.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "7cdff4525877feb634de6d339e0db744aef98314a385c5ddd071644cc73cdf56",
+  "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/"
+ },
  "falcon-theatre.chronic.1": {
   "url": "https://falcontheater.net/tickets-information/ticket-policies/",
   "quote": "Latecomers will be seated at the discretion of the House Manager.",
@@ -5694,6 +5878,53 @@
   "claim_sha256": "e7f07195077a1f5de8809c4647c326cfaf13fa70d441f4cd98cbbf745a38b80f",
   "source_sha256": "05a1f40fa1c92faa4f4c75867be6d2a090c01a45d6e93d27553ad9eb1fd408e4",
   "final_url": "https://freestorefoodbank.org/transportation-assistance/"
+ },
+ "fresh-market-madison-road.chronic.1": {
+  "url": "https://www.thefreshmarket.com/ways-to-shop",
+  "quote": "We’ve partnered with Instacart , DoorDash and Uber Eats to bring your favorite foods to your doorstep in 2 hours or less.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3c0dc2eb64af73451401f4a89ff0b79fb41241c96ac5438c74a547eb5afcf28a",
+  "source_sha256": "c4d0a2fd26a22b0d982b1780f803cc4431d5b2a2fae67f2af14b14fe7493ece8",
+  "final_url": "https://www.thefreshmarket.com/ways-to-shop"
+ },
+ "fresh-market-madison-road.cognitive.1": {
+  "url": "https://www.thefreshmarket.com/ways-to-shop",
+  "quote": "Visit us online at shop.thefreshmarket.com or download our App!",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Log in or create your account, then select whether you’d like curbside pickup or delivery to start your order."
+  ],
+  "claim_sha256": "eaa73fc08ffc72cc4520644cde7d9bac01fb0b655e8104214b2b0585ee5cc2d8",
+  "source_sha256": "c4d0a2fd26a22b0d982b1780f803cc4431d5b2a2fae67f2af14b14fe7493ece8",
+  "final_url": "https://www.thefreshmarket.com/ways-to-shop"
+ },
+ "fresh-market-madison-road.cognitive.2": {
+  "url": "https://www.thefreshmarket.com/tfm-faq",
+  "quote": "For curbside, orders totaling $35 and up, the fee is $1.99. For orders under $35, the fee is $3.99. Fees for delivery orders are set by our delivery partner, Instacart.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d69205d90a53e8c311a6f455da7336ce4971332e4cd0af96b95fce4349547d47",
+  "source_sha256": "5fb614daa926633a5b5b786ce92d6a66730e1e278646e4675152dc9ceb5fcbd2",
+  "final_url": "https://www.thefreshmarket.com/tfm-faq"
+ },
+ "fresh-market-madison-road.mobility.1": {
+  "url": "https://stores.thefreshmarket.com/oh/cincinnati/79",
+  "quote": "The Fresh Market ON Madison Rd",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "curbside pickup & delivery",
+   "513-533-2600"
+  ],
+  "claim_sha256": "63e92780151bf71b5f6616f3c521d92b6a74fcfd4cbba7603eab2eec020976f0",
+  "source_sha256": "4a150e01e6a6cc6cf2846575e3108895b70c0048b36ebe29cadaed2d51bfbc50",
+  "final_url": "https://stores.thefreshmarket.com/oh/cincinnati/79"
+ },
+ "fresh-market-madison-road.mobility.2": {
+  "url": "https://www.thefreshmarket.com/ways-to-shop",
+  "quote": "Shop online, pick a time and we’ll bring your groceries out to your car with a smile.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "baee3fe0f382aa5a0f0b47e6730f935264a2f2b09c7167171ee23072fce30760",
+  "source_sha256": "c4d0a2fd26a22b0d982b1780f803cc4431d5b2a2fae67f2af14b14fe7493ece8",
+  "final_url": "https://www.thefreshmarket.com/ways-to-shop"
  },
  "fresh-thyme-market-newport.chronic.1": {
   "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
@@ -7216,17 +7447,81 @@
  "krohn-conservatory.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
   "quote": "Only Service Dogs Allowed Inside Building",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Public Restrooms"
+  ],
+  "claim_sha256": "091bdf7acd52011da4b1ab5373c07e21fa05ab25ccc930d587a68c1a6da83567",
+  "source_sha256": "31d6270ba7b9e49a7c30acae37ef6ec5b06e0ca2ef2a6ffcdba81dfb6b54abf9",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/"
+ },
+ "krohn-conservatory.cognitive.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+  "quote": "Cincinnati Parks is committed to providing a quality experience at all our parks and facilities by providing reasonable accommodations for individuals with disabilities upon request. To request an accommodation fill out a Reasonable Accommodation Request Form linked here.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For questions call us at 513-357-2604."
+  ],
+  "claim_sha256": "613a532c1a129fb7dc5741d0880087ef7d2e1daee078b271d4bb89ae1742dd17",
+  "source_sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/"
  },
  "krohn-conservatory.cognitive.2": {
   "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
-  "quote": "has two event entries with different times the accurate open hours will be under the entry which says",
-  "verified_at": "2026-11-10"
+  "quote": "If your planned visiting day has two event entries with different times the accurate open hours will be under the entry which says \"Krohn Closes Early,\" or \"Krohn Closed.\"",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "e4605eb7e1e184876546a7172f7a6c7e713c28237dc67c96b7ab0090ca1db2bd",
+  "source_sha256": "31d6270ba7b9e49a7c30acae37ef6ec5b06e0ca2ef2a6ffcdba81dfb6b54abf9",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/"
+ },
+ "krohn-conservatory.cognitive.3": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/",
+  "quote": "You can purchase tickets at the door with cash, Visa, or Mastercard.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "dd4a7573cd0eb67d0101a19f9b19138ea420fb6448c8c0688b085a1e7dccb232",
+  "source_sha256": "08a0b5d808ac11cf05592aa03b8d7dbf7f8ddb6f59e12a237795cc2a6106dc4c",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/"
+ },
+ "krohn-conservatory.cognitive.4": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+  "quote": "Open Monday - Sunday 10 AM to 8 PM These are our general hours. For individual days, please check the below events calendar because Krohn is occasionally closed for private events.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "CONTACT 513-421-4086"
+  ],
+  "claim_sha256": "d59dd820cbf62f2c67499810c0d59eebc2100df3976083af20f0e5967b652857",
+  "source_sha256": "31d6270ba7b9e49a7c30acae37ef6ec5b06e0ca2ef2a6ffcdba81dfb6b54abf9",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/"
+ },
+ "krohn-conservatory.mobility.1": {
+  "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+  "quote": "Jul 26, 2020",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Cincinnati’s iconic flora center features a long sloped interior walkway, which provides universal access to the Palm House and the waterfall."
+  ],
+  "claim_sha256": "220da6f2ba2ab7ef926e3e7be311bcc4c79d6c3e9a02b7dcf5c187b79463687a",
+  "source_sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/"
  },
  "krohn-conservatory.mobility.2": {
   "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
-  "quote": "Paved Walkways",
-  "verified_at": "2026-11-10"
+  "quote": "Feature Descriptions Benches",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Public Restrooms Paved Walkways"
+  ],
+  "claim_sha256": "b16d0583f725962c750f82110fb6400f67bc31d34ecc291abe9f49ec770f1775",
+  "source_sha256": "31d6270ba7b9e49a7c30acae37ef6ec5b06e0ca2ef2a6ffcdba81dfb6b54abf9",
+  "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/"
+ },
+ "krohn-conservatory.mobility.3": {
+  "url": "https://cincyparksfoundation.org/about/",
+  "quote": "CPF stewarded a gift that reopened a long-closed section of Krohn Conservatory, the Betty Gale Garden. The garden was made fully accessible with a new, level concrete walk and adjusted inlets. (2019)",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0f95b9246f607fd9c63be682e21857ddd25f0d8fa6a04106e2cd97ef21f13284",
+  "source_sha256": "cda642ec94e561a9aa69b61a99ce75052c5f4d2b462c6e60a2051ba6631ea0a4",
+  "final_url": "https://cincyparksfoundation.org/about/"
  },
  "leblond-recreation-center.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
@@ -7668,6 +7963,134 @@
   "url": "https://www.kentuckytourism.com/detail/articles/2025/06/26/experiencing-kentucky-as-a-wheelchair-user",
   "quote": "You may also choose their cute outside dining tables that are located on the sidewalk out front.",
   "verified_at": "2026-11-12"
+ },
+ "mariemont-players-walton-creek-theater.chronic.1": {
+  "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+  "quote": "Food and drinks are not allowed in the auditorium, except water bottles. Please dispose of all refreshments before entering the theater.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Refreshments: Available prior to show and during intermission in the ﬁrst ﬂoor Hurst lobby.",
+   "November 5- 22, 2026"
+  ],
+  "claim_sha256": "bb0a57545446fb720000ec2b64a786aced92c6e0284be50a76b081b2afc3c2fc",
+  "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3",
+  "final_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf"
+ },
+ "mariemont-players-walton-creek-theater.chronic.2": {
+  "url": "https://www.mariemontplayers.com/health",
+  "quote": "If you feel ill before a show, please do not come to the theater. Contact the box office and we will do our best to reach a solution.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d2aa421925f53911e2877d138e02132e9d3466dda47141f0acf4cc57509539a3",
+  "source_sha256": "623ecd6310b6603e44146e260ba5a4ad4eee65ad5fb04b8c87889d87596445d8",
+  "final_url": "https://www.mariemontplayers.com/health"
+ },
+ "mariemont-players-walton-creek-theater.cognitive.1": {
+  "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+  "quote": "Latecomers cannot be admitted until a suitable break.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "November 5- 22, 2026"
+  ],
+  "claim_sha256": "f30ec6e9525615d572137fb34fcc310bffea9f417af31c2352fa834223591676",
+  "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3",
+  "final_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf"
+ },
+ "mariemont-players-walton-creek-theater.mobility.1": {
+  "url": "https://www.mariemontplayers.com/seating",
+  "quote": "Because ADA seating is limited, we ask that patrons contact the box office at least 48 hours in advance at the time of ticket purchase so we can best assist you.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For assistance, please contact us at mpiboxoffice@gmail.com or 513.501.1718.",
+   "Reach out by email or phone at least 48 hours before your performance so we can arrange appropriate seating and accommodations."
+  ],
+  "claim_sha256": "963d71882902e420c2a4318c4445a6b4c9c54b6bfbadc03d0fcf70ff25b0aed9",
+  "source_sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361",
+  "final_url": "https://www.mariemontplayers.com/seating"
+ },
+ "mariemont-players-walton-creek-theater.mobility.2": {
+  "url": "https://www.mariemontplayers.com/seating",
+  "quote": "Please note that space for walkers and rollators is limited, and these items may need to be stored in a designated closet inside the auditorium.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "7dd342636c3cfead8b6ae8169611facb9724fe0e828e6841fe6f927ac236abe1",
+  "source_sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361",
+  "final_url": "https://www.mariemontplayers.com/seating"
+ },
+ "mariemont-players-walton-creek-theater.mobility.3": {
+  "url": "https://www.mariemontplayers.com/directions",
+  "quote": "Mariemont Players, Inc. does have a small but mighty parking lot onsite. For shows that are sold out, the parking lot can fill up, so we do encourage car pooling if possible.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "276eeb1c2047c100cf5258c7ebdf8f551735808bc1b93bcb7558fadd2807fc3b",
+  "source_sha256": "3ca300710ad9eb49587fcb2ca411514ba0e10fb8921a2bfb098eb68f135d4904",
+  "final_url": "https://www.mariemontplayers.com/directions"
+ },
+ "mariemont-players-walton-creek-theater.mobility.4": {
+  "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+  "quote": "Elevator: Accessible from parking lot, lobby and auditorium. Ask an usher for assistance.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "November 5- 22, 2026"
+  ],
+  "claim_sha256": "26dcc0fd8cc137bfda81188fbed5968a9d5cfe0d82874f595eeea74a9105494a",
+  "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3",
+  "final_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf"
+ },
+ "mariemont-players-walton-creek-theater.mobility.5": {
+  "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+  "quote": "Restrooms: An handicap-accessible restroom on the ﬁrst ﬂoor lobby level, and two additional restrooms in the basement.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "November 5- 22, 2026"
+  ],
+  "claim_sha256": "bee8e1f9ba7e3d4ebd2935c3b4a7106318bb31959b6332e8a7ce68ef69a3b475",
+  "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3",
+  "final_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf"
+ },
+ "mariemont-players-walton-creek-theater.mobility.6": {
+  "url": "https://www.mariemontplayers.com/directions",
+  "quote": "If the parking lot does fill up, there are several other parking options to park and walk to the theatre, such as:",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Calvary Presbyterian Church located at 7416 Elm St, Cincinnati, OH 45227, .1 miles from the theatre",
+   "Walgreens located at 7398 Wooster Pike, Cincinnati, OH 45227, .2 miles from the theatre",
+   "Kroger located at 7385 Wooster Pike, Cincinnati, OH 45227, .3 miles from the theatre"
+  ],
+  "claim_sha256": "094d650890cb6922f2bb8a8beccd07f8156760b8652bfcc90d23c5e1db77a3d0",
+  "source_sha256": "3ca300710ad9eb49587fcb2ca411514ba0e10fb8921a2bfb098eb68f135d4904",
+  "final_url": "https://www.mariemontplayers.com/directions"
+ },
+ "mariemont-players-walton-creek-theater.sensory.1": {
+  "url": "https://www.mariemontplayers.com/seating",
+  "quote": "Mariemont Players is equipped with a Hearing Loop (T-Coil) system, which transmits crystal-clear audio directly to compatible hearing aids and cochlear implants switched to the \"T\" or \"T-Coil\" setting.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For patrons without a T-coil-enabled device, loop receiver headsets are also available free of charge at the box office prior to showtime."
+  ],
+  "claim_sha256": "92335d57cf23ffacea4660aa6db2a06dcc97ed6913e0b86c972a41257d614a67",
+  "source_sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361",
+  "final_url": "https://www.mariemontplayers.com/seating"
+ },
+ "mariemont-players-walton-creek-theater.sensory.2": {
+  "url": "https://www.mariemontplayers.com/health",
+  "quote": "In addition to the booklet programs we offer for each show, we also offer a full digital program. Just find the show’s page on our website and click the link to pull up the digital program!",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Masks are recommended because of our small space and the close proximity to the actors (we don’t have understudies), but are not mandatory.",
+   "The policies stated below are subject to change. Please check back to this page before each performance for any updates to our policies."
+  ],
+  "claim_sha256": "35a761bab4cd3f4aa81be641e773a647908784353b4bc43fd10e35cab60271c0",
+  "source_sha256": "623ecd6310b6603e44146e260ba5a4ad4eee65ad5fb04b8c87889d87596445d8",
+  "final_url": "https://www.mariemontplayers.com/health"
+ },
+ "mariemont-players-walton-creek-theater.sensory.3": {
+  "url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+  "quote": "If your hearing aid doesn’t have a telecoil, you may borrow a separate loop receiver with a headset, available in the ﬁrst ﬂoor lobby will call area.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "November 5- 22, 2026"
+  ],
+  "claim_sha256": "ab87acd25b7432b250b171faa989d315fa3182e83accf6599be53d1d1bc3ca66",
+  "source_sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3",
+  "final_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf"
  },
  "mary-rose-mission.cognitive.1": {
   "url": "https://maryrosemission.org/",
@@ -9626,6 +10049,68 @@
   "claim_sha256": "0569a00a8375415716b6952299187e76bb511daa84b950d5b59010181a64a205",
   "source_sha256": "80119b5d27b374c8995f4d432efc172c1ea33542cad2b0bf6ad7bc04b57a6100",
   "final_url": "https://www.pyramidhill.org/visit"
+ },
+ "rc-durr-ymca.chronic.1": {
+  "url": "https://rcdurr.myy.org/",
+  "quote": "Indoor Pool, Open All Year",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "95dafc6611688f524d6f66b18f26a25921e0c4e7f2699eea1941c7e0f0899432",
+  "source_sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
+  "final_url": "https://rcdurr.myy.org/"
+ },
+ "rc-durr-ymca.chronic.2": {
+  "url": "https://rcdurr.myy.org/",
+  "quote": "Pool deck closes 10 minutes before building close. Holiday hours vary.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "854b34cd1b45219af8400476ecabad8d22a9d549d0cb87a10d6dcc96293e066b",
+  "source_sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
+  "final_url": "https://rcdurr.myy.org/"
+ },
+ "rc-durr-ymca.cognitive.1": {
+  "url": "https://myy.org/location/rc-durr-ymca/",
+  "quote": "Indoor Lap Swim Indoor Pool Closed, Opens Sept 8",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "(859) 534-5700"
+  ],
+  "claim_sha256": "f638026d89c5a50c95e4e8f2e85bbd5cff58c7defb04a91070e3e9a206e8ab72",
+  "source_sha256": "3d9a8ae5c226979907edee10624c27d8989a9e2ca268bae1c60037f7263f7e17",
+  "final_url": "https://myy.org/location/rc-durr-ymca/"
+ },
+ "rc-durr-ymca.cognitive.2": {
+  "url": "https://myy.org/location/rc-durr-ymca/",
+  "quote": "Reserve a class or lap lane to guarantee your space. Reservations open 48 hours before desired time.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "454e540fa71926838a1f1da7c57ad4970a7c0b4b5737fc3004c3fc4725ff55b6",
+  "source_sha256": "3d9a8ae5c226979907edee10624c27d8989a9e2ca268bae1c60037f7263f7e17",
+  "final_url": "https://myy.org/location/rc-durr-ymca/"
+ },
+ "rc-durr-ymca.cognitive.3": {
+  "url": "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/",
+  "quote": "Reservations open 48 hours before class time and can be made on the MyY App or by logging in to your member account .",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a13ce37ff2319143e1c050e95bbe67ab6cd6daa5c5d5e5464ec5cae9a2739763",
+  "source_sha256": "19412062d51dfbec95bacf9e59f18680cf8d2070dca323825a266d4954a0b491",
+  "final_url": "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/"
+ },
+ "rc-durr-ymca.mobility.1": {
+  "url": "https://rcdurr.myy.org/",
+  "quote": "Slides, a zero-depth splash pool, and shaded seating. Closed for the season, but included with membership when it reopens next summer.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Outdoor Pool Your Kids Will Ask About"
+  ],
+  "claim_sha256": "130b2a13550475fa8e117adbc0b02aaa20b740da7d3aa6e683d996204f713fd0",
+  "source_sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
+  "final_url": "https://rcdurr.myy.org/"
+ },
+ "rc-durr-ymca.sensory.1": {
+  "url": "https://rcdurr.myy.org/",
+  "quote": "Peak times are weekday evenings (5–7 PM) and Saturday mornings. Outside those windows — especially weekday mornings and early afternoons — the floor and indoor pool have plenty of room.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "e2f193b6d4e1894c4d9a9a4f775391c759b26c354317c3d107b7e8c0f37c5805",
+  "source_sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
+  "final_url": "https://rcdurr.myy.org/"
  },
  "rhinegeist-brewery.chronic.1": {
   "url": "https://rhinegeist.com/brewery-tours/",

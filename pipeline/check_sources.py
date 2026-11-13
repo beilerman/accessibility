@@ -270,7 +270,10 @@ def page_result(body: str, status: int, final_url: str, last_modified=None) -> d
     }
 
 
-MAX_PDF_BYTES = 10 * 1024 * 1024
+# Photo-rich official guides can exceed 10 MiB even with little page text.
+# Keep the decompressed page-content limit separate from the download limit.
+MAX_PDF_BYTES = 32 * 1024 * 1024
+MAX_PDF_PAGE_CONTENT_BYTES = 10 * 1024 * 1024
 MAX_PDF_PAGES = 150
 
 
@@ -286,7 +289,7 @@ def response_result(data: bytes, content_type: str, status: int, final_url: str,
     if "application/pdf" not in content_type.lower() and not data.lstrip().startswith(b"%PDF-"):
         return page_result(data.decode(encoding, "replace"), status, final_url, last_modified)
     if len(data) > MAX_PDF_BYTES:
-        return {"status": None, "error": "PDF exceeds the 10 MiB review limit"}
+        return {"status": None, "error": "PDF exceeds the 32 MiB review limit"}
     result = {
         "status": status, "final_url": final_url, "last_modified": last_modified,
         "sha256": hashlib.sha256(data).hexdigest(),
@@ -303,7 +306,7 @@ def response_result(data: bytes, content_type: str, status: int, final_url: str,
         parts = []
         for page in reader.pages:
             contents = page.get_contents()
-            if contents is not None and len(contents.get_data()) > MAX_PDF_BYTES:
+            if contents is not None and len(contents.get_data()) > MAX_PDF_PAGE_CONTENT_BYTES:
                 raise ValueError("PDF page content exceeds the 10 MiB review limit")
             parts.append(page.extract_text() or "")
         text = quote_text("\n".join(parts)).strip()
@@ -328,7 +331,7 @@ def fetch_with_curl(url: str, timeout: float) -> dict:
         response = subprocess.run(
             ["curl", "--disable", "--silent", "--show-error", "--location",
              "--proto", "=https", "--proto-redir", "=https",
-             "--max-time", str(timeout), "--max-filesize", "10485760",
+             "--max-time", str(timeout), "--max-filesize", str(MAX_PDF_BYTES),
              "--user-agent", USER_AGENT, "--dump-header", str(headers_path),
              "--output", str(body_path),
              "--write-out", "%{http_code}\n%{url_effective}\n%{content_type}", url],

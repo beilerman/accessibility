@@ -7,7 +7,7 @@
     "address": "1330 Monmouth Avenue, Cincinnati, OH 45225",
     "website": "https://www.americansignmuseum.org/",
     "source_url": "https://www.americansignmuseum.org/visit",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "mobility",
@@ -15,7 +15,7 @@
         "source_url": "https://www.americansignmuseum.org/visit",
         "id": "american-sign-museum.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -27,6 +27,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -38,7 +43,7 @@
         "source_url": "https://www.americansignmuseum.org/visit",
         "id": "american-sign-museum.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -50,6 +55,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -61,7 +71,7 @@
         "source_url": "https://www.americansignmuseum.org/visit",
         "id": "american-sign-museum.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -73,6 +83,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -84,7 +99,7 @@
         "source_url": "https://www.americansignmuseum.org/visit",
         "id": "american-sign-museum.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -98,6 +113,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -107,7 +127,7 @@
         "source_url": "https://www.americansignmuseum.org/visit/",
         "id": "american-sign-museum.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -116,6 +136,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -125,7 +150,7 @@
         "source_url": "https://www.americansignmuseum.org/visit/",
         "id": "american-sign-museum.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -134,6 +159,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -143,13 +173,82 @@
         "source_url": "https://www.americansignmuseum.org/visit/",
         "id": "american-sign-museum.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The visitor page welcomes what it calls “certified service animals” and asks other animals to remain at home. Confirm the museum’s wording and arrangements before visiting.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restored the publisher’s certification wording as an attributed policy statement, without endorsing it as a legal requirement."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Approaching along Monmouth Avenue from Colerain Avenue, the museum’s free lot is the first entrance on the right, through a black gate. GPS may select Monmouth Avenue in Kentucky; use 1330 Monmouth Avenue, Cincinnati.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Final pre-publication review retains the Colerain-to-Monmouth approach direction for the first right-hand entrance."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The library FAQ says visitors must climb one flight of stairs and that the library has no elevator. Entry instructions are sent after an appointment is confirmed.",
+        "source_url": "https://www.americansignmuseum.org/wp-content/uploads/2024/11/Library-FAQs.pdf",
+        "id": "american-sign-museum.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -157,24 +256,60 @@
       },
       {
         "domain": "cognitive",
-        "text": "Service animals are welcome; other animals should stay home.",
-        "source_url": "https://www.americansignmuseum.org/visit/",
-        "id": "american-sign-museum.cognitive.2",
+        "text": "Library visits require an appointment and are included with museum admission. Request a two-hour slot Wednesday–Saturday between 10 a.m. and 4 p.m., three weeks ahead; allow one week for confirmation.",
+        "source_url": "https://www.americansignmuseum.org/library/",
+        "id": "american-sign-museum.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Advance eTickets are optional for a general museum visit. Admission includes public tours; groups of 10 or more are encouraged to reserve eTickets ahead.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Through Museums for All, visitors receiving SNAP food assistance can show a current SNAP card and photo ID for up to four free admissions for their group.",
+        "source_url": "https://www.americansignmuseum.org/visit/",
+        "id": "american-sign-museum.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. The museum notes blinking and flashing lights; visitors sensitive to light should contact the museum (513-541-6366) about specific galleries.",
+    "limitations": "Public-source information only; no on-site audit. The one-floor collection statement does not describe the appointment-only library, whose currently linked 2024 FAQ reports one flight of stairs and no elevator. Door controls, thresholds, parking-to-door continuity, toilet/changing details, quiet-space availability and assistance beyond wheelchair loans remain unverified. The visitor page’s service-animal certification wording is quoted as the museum’s statement, not a statement of legal requirements. Historical photos predate the July 2024 expansion.",
     "slug": "american-sign-museum",
     "evidence_type": "public_website",
     "observed_at": null
@@ -18709,19 +18844,19 @@
     "address": "1501 Eden Park Dr., Cincinnati, OH 45202",
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
-    "limitations": "Public website information; no on-site audit. Routes beyond the Palm House and waterfall, restroom accessibility, parking and drop-off, and wheelchair availability are not stated. Confirm with Krohn before your visit.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public-source information only; no on-site audit. The interior-walkway article dates to July 2020 and the Betty Gale Garden description records a 2019 project; neither establishes current route conditions. Historic entrance and path photographs date from 2007–2015. Parking/drop-off connections, current door controls, route widths and slopes, wheelchair loans, toilet transfer space, changing facilities and quiet-space arrangements remain unverified. Check date-specific calendar closures rather than relying on general hours.",
+    "checked_at": "2026-11-13",
     "slug": "krohn-conservatory",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Cincinnati Parks says a long sloped interior walkway gives universal access to the Palm House and the waterfall.",
+        "text": "A July 26, 2020 Cincinnati Parks article describes a long sloped interior walkway to the Palm House and waterfall. This is a historical description, not a current route or gradient assessment.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
         "id": "krohn-conservatory.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": "2020-07-26",
         "observed_at": null,
         "review_status": "source_checked",
@@ -18730,6 +18865,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Dated the older article and removed an unqualified current universal-access characterization."
           }
         ]
       },
@@ -18739,7 +18879,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
         "id": "krohn-conservatory.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18751,6 +18891,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -18762,7 +18907,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
         "id": "krohn-conservatory.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18776,16 +18921,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Krohn's phone is 513-421-4086, and it is occasionally closed for private events, so check the events calendar. Cincinnati Parks takes accommodation requests by form; questions go to 513-357-2604.",
+        "text": "Cincinnati Parks accepts reasonable-accommodation requests through its linked request form. Questions about accommodations go to 513-357-2604.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
         "id": "krohn-conservatory.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18794,6 +18944,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Removed the Krohn phone and private-event closure clauses that were not supported by this source; they are retained separately against the actual facility page."
           }
         ]
       },
@@ -18803,7 +18958,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
         "id": "krohn-conservatory.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18815,6 +18970,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -18826,7 +18986,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/",
         "id": "krohn-conservatory.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18835,22 +18995,50 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Cincinnati Parks says the Gale garden at Krohn was made accessible.",
-        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "text": "Cincinnati Parks Foundation describes a 2019 Betty Gale Garden project that added a level concrete walk and adjusted inlets. The retrospective does not establish the garden’s current surface condition or an uninterrupted route from parking.",
+        "source_url": "https://cincyparksfoundation.org/about/",
         "id": "krohn-conservatory.mobility.3",
-        "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replaced a broad undated access label with attributable physical changes and the historical project year."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Krohn lists general hours of 10 a.m.–8 p.m. daily, with occasional closures for private events. Check the date-specific calendar and call Krohn at 513-421-4086 with visit questions.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+        "id": "krohn-conservatory.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -22632,20 +22820,20 @@
     "address": "5083 Colerain Ave., Cincinnati, OH 45223",
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
-    "limitations": "Public website information; no on-site audit. Cincinnati Parks' news page says the treehouse has reopened, but the Mt. Airy park page still describes it as closed for repairs; confirm it is open before you go. Ramp slopes, accessible parking at the treehouse and restroom accessibility are not stated.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public-source information only; no on-site audit. The September 25, 2026 reopening announcement follows the January 2024 closure, but the main park page still contains conflicting closed/open wording. Confirm current opening, weather or maintenance restrictions and Area 10 restroom operation with Cincinnati Parks. Parking-to-treehouse continuity, ramp gradients and widths, restroom transfer space and changing facilities remain unverified. Park-wide paved-walkway and separate trail-closure statements do not establish a complete treehouse route. The 2019 photograph predates structural, guardrail and roof work.",
+    "checked_at": "2026-11-13",
     "slug": "everybodys-treehouse-mt-airy-forest",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Cincinnati Parks describes Everybody's Treehouse as an accessible treehouse built in 2006 for visitors of all abilities: 1,500 square feet, 14 feet off the ground, with six side ramps connected to 12 trees.",
-        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+        "text": "Cincinnati Parks’ September 2026 reopening article says the treehouse and ramps span 1,500 square feet and connect to living trees. The treehouse originally opened in 2006.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
         "id": "everybodys-treehouse-mt-airy-forest.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
-        "published_at": "2020-07-26",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2026-09-25",
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
@@ -22653,17 +22841,22 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replaced pre-renovation dimensions and ramp/tree counts with the current reopening article; historical measurements are not asserted for the rebuilt structure."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "A Cincinnati Parks news item says the treehouse is once again welcoming visitors; the park page calls it Ohio's only wheelchair-accessible public treehouse.",
+        "text": "Cincinnati Parks announced the treehouse’s reopening on September 25, 2026, following a closure that began in January 2024. This dated announcement does not confirm daily operating conditions.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
         "id": "everybodys-treehouse-mt-airy-forest.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
-        "published_at": null,
+        "retrieved_at": "2026-11-13",
+        "published_at": "2026-09-25",
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
@@ -22671,16 +22864,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Dated the reopening and removed a second-source park-page claim from this single-source note. The park-page conflict is retained separately."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The Mt. Airy Forest feature list includes paved walkways and parking.",
+        "text": "The wider Mt. Airy Forest feature list includes parking and paved walkways. It does not describe a continuous parking-to-treehouse route.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
         "id": "everybodys-treehouse-mt-airy-forest.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -22689,6 +22887,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Clarified park-wide scope rather than implying that the feature list documents the full treehouse approach."
           }
         ]
       },
@@ -22698,7 +22901,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
         "id": "everybodys-treehouse-mt-airy-forest.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -22707,6 +22910,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -22716,13 +22924,72 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
         "id": "everybodys-treehouse-mt-airy-forest.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park page is inconsistent: its introduction still says the treehouse is “currently closed for repairs,” while its feature list says “Now Open.” Confirm current access with Cincinnati Parks before travelling.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+        "id": "everybodys-treehouse-mt-airy-forest.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The September 2026 reopening article describes replaced structural timber, strengthened and modernized guardrails, a new roof, and cleaned and sealed wood surfaces. Photographs from before this work show a different condition.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+        "id": "everybodys-treehouse-mt-airy-forest.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For visitors exploring beyond the treehouse, the park page reports that the Bradford Felter–Tanglewood Preserve trail is closed for repair and redesign, citing degraded conditions and accessibility constraints. This is a separate trail closure.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+        "id": "everybodys-treehouse-mt-airy-forest.mobility.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -26960,19 +27227,19 @@
     "address": "4101 Walton Creek Road, Cincinnati, OH 45227",
     "website": "https://www.mariemontplayers.com/",
     "source_url": "https://www.mariemontplayers.com/seating",
-    "limitations": "Public website information; no on-site audit. The site does not describe the entrance route, accessible restrooms, the number of wheelchair spaces or accessible parking. Confirm these with the box office when booking.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public-source information only; no on-site audit. The November 5–22, 2026 show program describes the elevator stops and first-floor lobby restroom; it does not establish lift dimensions, the outdoor approach, door controls, transfer space or changing equipment. Limited ADA seating requires advance contact; the cited 48-hour notice does not guarantee availability. Offsite parking distances are the theater’s descriptions, not verified step-free routes or reserved spaces. Companion-seat arrangements and assistance with transfers remain unverified. Recheck the theater’s changeable health policy before a performance.",
+    "checked_at": "2026-11-13",
     "slug": "mariemont-players-walton-creek-theater",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "ADA seating is limited; contact the box office at least 48 hours in advance, when buying tickets.",
+        "text": "The theater says ADA seating is limited. Contact the box office when buying tickets and at least 48 hours before the performance: 513-501-1718 or mpiboxoffice@gmail.com.",
         "source_url": "https://www.mariemontplayers.com/seating",
         "id": "mariemont-players-walton-creek-theater.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26981,6 +27248,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Added the actual booking contact and explicitly anchored the 48-hour notice to the performance; no seating guarantee inferred."
           }
         ]
       },
@@ -26990,7 +27262,7 @@
         "source_url": "https://www.mariemontplayers.com/seating",
         "id": "mariemont-players-walton-creek-theater.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26999,6 +27271,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -27008,7 +27285,7 @@
         "source_url": "https://www.mariemontplayers.com/seating",
         "id": "mariemont-players-walton-creek-theater.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -27017,6 +27294,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -27026,7 +27308,7 @@
         "source_url": "https://www.mariemontplayers.com/directions",
         "id": "mariemont-players-walton-creek-theater.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -27035,22 +27317,158 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "A full digital program is offered alongside the printed booklet. Masks are recommended because the space is small and close to the actors.",
+        "text": "Digital programs are linked from each show’s webpage, alongside printed booklets. The current health page recommends masks because of the small space and proximity to actors, but does not require them; recheck the policy before a performance.",
         "source_url": "https://www.mariemontplayers.com/health",
         "id": "mariemont-players-walton-creek-theater.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restored optional-mask and changing-policy conditions and retained separate support for the digital program."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The November 2026 program says the elevator can be reached from the parking lot, lobby and auditorium, and asks visitors to seek an usher’s assistance. It does not give lift dimensions or a marked outdoor approach.",
+        "source_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+        "id": "mariemont-players-walton-creek-theater.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The November 2026 program identifies a restroom on the first-floor lobby level that it describes as accessible, plus two basement restrooms. It does not describe changing equipment or transfer space.",
+        "source_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+        "id": "mariemont-players-walton-creek-theater.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The November 2026 program locates the loan hearing-loop receiver and headset in the first-floor lobby’s will-call area.",
+        "source_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+        "id": "mariemont-players-walton-creek-theater.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The November 2026 program permits water bottles in the auditorium, but excludes other food and drinks. Refreshments are available before the show and during intermission in the first-floor Hurst lobby.",
+        "source_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+        "id": "mariemont-players-walton-creek-theater.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The November 2026 program says late arrivals wait for a suitable break before entering.",
+        "source_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+        "id": "mariemont-players-walton-creek-theater.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "If the onsite lot fills, the theater lists offsite parking at Calvary Presbyterian Church, 7416 Elm Street (0.1 mile), Walgreens, 7398 Wooster Pike (0.2 mile), and Kroger, 7385 Wooster Pike (0.3 mile). These are the theater’s listed distances, not verified step-free walking routes or reserved spaces.",
+        "source_url": "https://www.mariemontplayers.com/directions",
+        "id": "mariemont-players-walton-creek-theater.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "If you feel ill before a show, the theater asks you to stay home and contact the box office, which says it will try to reach a solution. This is not a promised refund or exchange.",
+        "source_url": "https://www.mariemontplayers.com/health",
+        "id": "mariemont-players-walton-creek-theater.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -36746,6 +37164,254 @@
         "source_url": "https://www.greatlakesace.com/services/home-delivery/",
         "id": "great-lakes-ace-newport.chronic.1",
         "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Fresh Market — Madison Road",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "3088 Madison Rd, Cincinnati, OH",
+    "website": "https://stores.thefreshmarket.com/oh/cincinnati/79",
+    "source_url": "https://stores.thefreshmarket.com/oh/cincinnati/79",
+    "limitations": "Public-source information only; no on-site audit. The branch page links curbside pickup and delivery; collection and fee notes describe the chain’s published service, not an observed transaction. Confirm the selected store, available slot, arrival/check-in instructions and delivery coverage when ordering. Pickup-bay location, parking-to-door route, door controls, aisle space, toilets/changing facilities, mobility carts and carrying or lifting assistance remain unverified. No claim of trunk loading or indoor delivery assistance is made.",
+    "checked_at": "2026-11-13",
+    "slug": "fresh-market-madison-road",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Madison Road branch page links curbside pickup and delivery. For branch-specific questions, it lists 513-533-2600.",
+        "source_url": "https://stores.thefreshmarket.com/oh/cincinnati/79",
+        "id": "fresh-market-madison-road.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The chain’s curbside instructions say to order online, choose a time and have groceries brought to your car. They do not describe this branch’s collection bay or promise help lifting items.",
+        "source_url": "https://www.thefreshmarket.com/ways-to-shop",
+        "id": "fresh-market-madison-road.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The chain offers online or app ordering. In the app, log in or create an account, then choose curbside pickup or delivery.",
+        "source_url": "https://www.thefreshmarket.com/ways-to-shop",
+        "id": "fresh-market-madison-road.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The chain FAQ currently lists a curbside fee of $1.99 for orders of $35 or more and $3.99 below $35. Check the total at checkout; the FAQ says Instacart sets its delivery fees.",
+        "source_url": "https://www.thefreshmarket.com/tfm-faq",
+        "id": "fresh-market-madison-road.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The chain’s delivery page names Instacart, DoorDash and Uber Eats and describes delivery to the doorstep. Delivery availability and timing need confirmation for the chosen address; indoor carrying is not described.",
+        "source_url": "https://www.thefreshmarket.com/ways-to-shop",
+        "id": "fresh-market-madison-road.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "R.C. Durr YMCA",
+    "city": "Burlington",
+    "state": "KY",
+    "category": "Recreation & fitness",
+    "address": "5874 Veterans Way, Burlington, KY 41005",
+    "website": "https://myy.org/location/rc-durr-ymca/",
+    "source_url": "https://myy.org/location/rc-durr-ymca/",
+    "limitations": "Public-source information only; no on-site audit. The main branch page’s undated indoor-pool closure message and the fall promotion’s year-round claim are unresolved; confirm operation directly. The outdoor splash pool’s zero-depth entry must not be transferred to the indoor pool. Pool lifts, equipment operation, transfer assistance, accessible changing/toilets, parking-to-door route, door controls and route dimensions remain unverified. Reservation instructions do not establish accommodation eligibility or guarantee staff assistance. The promotion’s crowding guidance is an expectation, not a live occupancy report.",
+    "checked_at": "2026-11-13",
+    "slug": "rc-durr-ymca",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The main branch page displays “Indoor Pool Closed, Opens Sept 8” without a year. Confirm indoor-pool operation before travelling; the branch phone is 859-534-5700.",
+        "source_url": "https://myy.org/location/rc-durr-ymca/",
+        "id": "rc-durr-ymca.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The branch’s fall promotion describes an outdoor zero-depth splash pool and shaded seating, and says the outdoor pool is closed for the season. This does not establish an indoor-pool entry method.",
+        "source_url": "https://rcdurr.myy.org/",
+        "id": "rc-durr-ymca.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The branch’s fall promotion describes the indoor pool as open year-round. Confirm current operation rather than treating the promotional description as an outage check.",
+        "source_url": "https://rcdurr.myy.org/",
+        "id": "rc-durr-ymca.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The main branch page advises reserving a class or lap lane to guarantee space; reservations open 48 hours before the desired time.",
+        "source_url": "https://myy.org/location/rc-durr-ymca/",
+        "id": "rc-durr-ymca.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The fall promotion identifies weekday evenings, 5–7 p.m., and Saturday mornings as peak times, and says the floor and indoor pool have more room on weekday mornings and early afternoons. Actual crowding can vary.",
+        "source_url": "https://rcdurr.myy.org/",
+        "id": "rc-durr-ymca.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The fall promotion says the pool deck closes ten minutes before the building closes and that holiday hours vary.",
+        "source_url": "https://rcdurr.myy.org/",
+        "id": "rc-durr-ymca.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The pool-schedule page says class reservations can be made in the MyY app or by logging into a member account. Check the live schedule for the activity you want.",
+        "source_url": "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/",
+        "id": "rc-durr-ymca.cognitive.3",
+        "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,

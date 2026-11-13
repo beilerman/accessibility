@@ -1,0 +1,38 @@
+[
+  {
+    "id": "krohn-conservatory.mobility.1",
+    "old_text": "Cincinnati Parks says a long sloped interior walkway gives universal access to the Palm House and the waterfall.",
+    "text": "A July 26, 2020 Cincinnati Parks article describes a long sloped interior walkway to the Palm House and waterfall. This is a historical description, not a current route or gradient assessment.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+    "quote": [
+      "Jul 26, 2020",
+      "Cincinnati’s iconic flora center features a long sloped interior walkway, which provides universal access to the Palm House and the waterfall."
+    ],
+    "reason": "Dated the older article and removed an unqualified current universal-access characterization.",
+    "published_at": "2020-07-26",
+    "source_type": "public_agency"
+  },
+  {
+    "id": "krohn-conservatory.mobility.3",
+    "old_text": "Cincinnati Parks says the Gale garden at Krohn was made accessible.",
+    "text": "Cincinnati Parks Foundation describes a 2019 Betty Gale Garden project that added a level concrete walk and adjusted inlets. The retrospective does not establish the garden’s current surface condition or an uninterrupted route from parking.",
+    "url": "https://cincyparksfoundation.org/about/",
+    "quote": "CPF stewarded a gift that reopened a long-closed section of Krohn Conservatory, the Betty Gale Garden. The garden was made fully accessible with a new, level concrete walk and adjusted inlets. (2019)",
+    "reason": "Replaced a broad undated access label with attributable physical changes and the historical project year.",
+    "published_at": null,
+    "source_type": "partner_official"
+  },
+  {
+    "id": "krohn-conservatory.cognitive.1",
+    "old_text": "Krohn's phone is 513-421-4086, and it is occasionally closed for private events, so check the events calendar. Cincinnati Parks takes accommodation requests by form; questions go to 513-357-2604.",
+    "text": "Cincinnati Parks accepts reasonable-accommodation requests through its linked request form. Questions about accommodations go to 513-357-2604.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+    "quote": [
+      "Cincinnati Parks is committed to providing a quality experience at all our parks and facilities by providing reasonable accommodations for individuals with disabilities upon request. To request an accommodation fill out a Reasonable Accommodation Request Form linked here.",
+      "For questions call us at 513-357-2604."
+    ],
+    "reason": "Removed the Krohn phone and private-event closure clauses that were not supported by this source; they are retained separately against the actual facility page.",
+    "published_at": null,
+    "source_type": "public_agency"
+  }
+]

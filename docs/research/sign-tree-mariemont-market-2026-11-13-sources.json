@@ -1,0 +1,179 @@
+{
+  "checked_at": "2026-11-13",
+  "sources": {
+    "https://cincyparksfoundation.org/about/": {
+      "status": 200,
+      "final_url": "https://cincyparksfoundation.org/about/",
+      "last_modified": "Fri, 13 Nov 2026 18:16:58 GMT",
+      "sha256": "cda642ec94e561a9aa69b61a99ce75052c5f4d2b462c6e60a2051ba6631ea0a4",
+      "fingerprint_version": 6,
+      "chars": 67498
+    },
+    "https://myy.org/location/rc-durr-ymca/": {
+      "status": 200,
+      "final_url": "https://myy.org/location/rc-durr-ymca/",
+      "last_modified": "Fri, 13 Nov 2026 19:59:11 GMT",
+      "sha256": "3d9a8ae5c226979907edee10624c27d8989a9e2ca268bae1c60037f7263f7e17",
+      "fingerprint_version": 6,
+      "chars": 9019
+    },
+    "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/": {
+      "status": 200,
+      "final_url": "https://myy.org/schedule/r-c-durr-ymca/pool-schedule/",
+      "last_modified": "Fri, 13 Nov 2026 20:06:54 GMT",
+      "sha256": "19412062d51dfbec95bacf9e59f18680cf8d2070dca323825a266d4954a0b491",
+      "fingerprint_version": 6,
+      "chars": 296
+    },
+    "https://rcdurr.myy.org/": {
+      "status": 200,
+      "final_url": "https://rcdurr.myy.org/",
+      "last_modified": null,
+      "sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
+      "fingerprint_version": 6,
+      "chars": 11556
+    },
+    "https://stores.thefreshmarket.com/oh/cincinnati/79": {
+      "status": 200,
+      "final_url": "https://stores.thefreshmarket.com/oh/cincinnati/79",
+      "last_modified": null,
+      "sha256": "4a150e01e6a6cc6cf2846575e3108895b70c0048b36ebe29cadaed2d51bfbc50",
+      "fingerprint_version": 6,
+      "chars": 3561
+    },
+    "https://www.americansignmuseum.org/library/": {
+      "status": 200,
+      "final_url": "https://www.americansignmuseum.org/library/",
+      "last_modified": null,
+      "sha256": "469ad2fd4950729d968765a24419991eee24763b05673fb45a2fdaeedf6d390a",
+      "fingerprint_version": 6,
+      "chars": 1715
+    },
+    "https://www.americansignmuseum.org/visit": {
+      "status": 200,
+      "final_url": "https://www.americansignmuseum.org/visit/",
+      "last_modified": null,
+      "sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+      "fingerprint_version": 6,
+      "chars": 7189
+    },
+    "https://www.americansignmuseum.org/visit/": {
+      "status": 200,
+      "final_url": "https://www.americansignmuseum.org/visit/",
+      "last_modified": null,
+      "sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+      "fingerprint_version": 6,
+      "chars": 7189
+    },
+    "https://www.americansignmuseum.org/wp-content/uploads/2024/11/Library-FAQs.pdf": {
+      "status": 200,
+      "final_url": "https://www.americansignmuseum.org/wp-content/uploads/2024/11/Library-FAQs.pdf",
+      "last_modified": "Mon, 11 Nov 2024 19:03:32 GMT",
+      "sha256": "52a72c7d68d7ad15b6b1256809e6d4b64381cedd475b68d9dbd18d15a9cb3525",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 5100,
+      "pages": 3
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "last_modified": null,
+      "sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+      "fingerprint_version": 6,
+      "chars": 27913
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/faq1/",
+      "last_modified": null,
+      "sha256": "08a0b5d808ac11cf05592aa03b8d7dbf7f8ddb6f59e12a237795cc2a6106dc4c",
+      "fingerprint_version": 6,
+      "chars": 34186
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+      "last_modified": null,
+      "sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9",
+      "fingerprint_version": 6,
+      "chars": 2560
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "last_modified": null,
+      "sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+      "fingerprint_version": 6,
+      "chars": 4896
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/krohn-conservatory/",
+      "last_modified": null,
+      "sha256": "31d6270ba7b9e49a7c30acae37ef6ec5b06e0ca2ef2a6ffcdba81dfb6b54abf9",
+      "fingerprint_version": 6,
+      "chars": 33514
+    },
+    "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+      "last_modified": null,
+      "sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842",
+      "fingerprint_version": 6,
+      "chars": 31888
+    },
+    "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf": {
+      "status": 200,
+      "final_url": "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+      "last_modified": "Thu, 05 Nov 2026 14:53:00 GMT",
+      "sha256": "86457e794d3c0c99a95f083e9c65f00e252aa7794fe565f0d305567a13100bf3",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 31882,
+      "pages": 16
+    },
+    "https://www.mariemontplayers.com/directions": {
+      "status": 200,
+      "final_url": "https://www.mariemontplayers.com/directions",
+      "last_modified": null,
+      "sha256": "3ca300710ad9eb49587fcb2ca411514ba0e10fb8921a2bfb098eb68f135d4904",
+      "fingerprint_version": 6,
+      "chars": 2552
+    },
+    "https://www.mariemontplayers.com/health": {
+      "status": 200,
+      "final_url": "https://www.mariemontplayers.com/health",
+      "last_modified": null,
+      "sha256": "623ecd6310b6603e44146e260ba5a4ad4eee65ad5fb04b8c87889d87596445d8",
+      "fingerprint_version": 6,
+      "chars": 1545
+    },
+    "https://www.mariemontplayers.com/seating": {
+      "status": 200,
+      "final_url": "https://www.mariemontplayers.com/seating",
+      "last_modified": null,
+      "sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361",
+      "fingerprint_version": 6,
+      "chars": 1549
+    },
+    "https://www.thefreshmarket.com/tfm-faq": {
+      "status": 200,
+      "final_url": "https://www.thefreshmarket.com/tfm-faq",
+      "last_modified": "Thu, 12 Nov 2026 19:45:11 GMT",
+      "sha256": "5fb614daa926633a5b5b786ce92d6a66730e1e278646e4675152dc9ceb5fcbd2",
+      "fingerprint_version": 6,
+      "chars": 5472
+    },
+    "https://www.thefreshmarket.com/ways-to-shop": {
+      "status": 200,
+      "final_url": "https://www.thefreshmarket.com/ways-to-shop",
+      "last_modified": "Thu, 12 Nov 2026 19:45:12 GMT",
+      "sha256": "c4d0a2fd26a22b0d982b1780f803cc4431d5b2a2fae67f2af14b14fe7493ece8",
+      "fingerprint_version": 6,
+      "chars": 4246
+    }
+  },
+  "findings": {},
+  "missing_quotes": {}
+}

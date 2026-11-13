@@ -1,0 +1,72 @@
+[
+  {
+    "id": "american-sign-museum.cognitive.2",
+    "old_text": "Service animals are welcome; other animals should stay home.",
+    "text": "The visitor page welcomes what it calls “certified service animals” and asks other animals to remain at home. Confirm the museum’s wording and arrangements before visiting.",
+    "url": "https://www.americansignmuseum.org/visit/",
+    "quote": "Certified service animals are welcome; however, we ask that all non-certified animals remain at home.",
+    "reason": "Restored the publisher’s certification wording as an attributed policy statement, without endorsing it as a legal requirement.",
+    "published_at": null
+  },
+  {
+    "id": "everybodys-treehouse-mt-airy-forest.mobility.1",
+    "old_text": "Cincinnati Parks describes Everybody's Treehouse as an accessible treehouse built in 2006 for visitors of all abilities: 1,500 square feet, 14 feet off the ground, with six side ramps connected to 12 trees.",
+    "text": "Cincinnati Parks’ September 2026 reopening article says the treehouse and ramps span 1,500 square feet and connect to living trees. The treehouse originally opened in 2006.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+    "quote": [
+      "Everybody’s Treehouse originally opened in 2006",
+      "The treehouse feature and ramps span 1,500 square feet and are connected to living trees.",
+      "Sep 25, 2026"
+    ],
+    "reason": "Replaced pre-renovation dimensions and ramp/tree counts with the current reopening article; historical measurements are not asserted for the rebuilt structure.",
+    "published_at": "2026-09-25"
+  },
+  {
+    "id": "everybodys-treehouse-mt-airy-forest.cognitive.1",
+    "old_text": "A Cincinnati Parks news item says the treehouse is once again welcoming visitors; the park page calls it Ohio's only wheelchair-accessible public treehouse.",
+    "text": "Cincinnati Parks announced the treehouse’s reopening on September 25, 2026, following a closure that began in January 2024. This dated announcement does not confirm daily operating conditions.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+    "quote": [
+      "Everybody’s Treehouse in Mt. Airy Forest, one of the region’s most unique and inclusive park experiences, is once again welcoming visitors",
+      "The Treehouse closed in January 2024 to undergo critical improvements",
+      "Sep 25, 2026"
+    ],
+    "reason": "Dated the reopening and removed a second-source park-page claim from this single-source note. The park-page conflict is retained separately.",
+    "published_at": "2026-09-25"
+  },
+  {
+    "id": "everybodys-treehouse-mt-airy-forest.mobility.2",
+    "old_text": "The Mt. Airy Forest feature list includes paved walkways and parking.",
+    "text": "The wider Mt. Airy Forest feature list includes parking and paved walkways. It does not describe a continuous parking-to-treehouse route.",
+    "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+    "quote": "Parking Paved Walkways",
+    "reason": "Clarified park-wide scope rather than implying that the feature list documents the full treehouse approach.",
+    "published_at": null
+  },
+  {
+    "id": "mariemont-players-walton-creek-theater.mobility.1",
+    "old_text": "ADA seating is limited; contact the box office at least 48 hours in advance, when buying tickets.",
+    "text": "The theater says ADA seating is limited. Contact the box office when buying tickets and at least 48 hours before the performance: 513-501-1718 or mpiboxoffice@gmail.com.",
+    "url": "https://www.mariemontplayers.com/seating",
+    "quote": [
+      "Because ADA seating is limited, we ask that patrons contact the box office at least 48 hours in advance at the time of ticket purchase so we can best assist you.",
+      "For assistance, please contact us at mpiboxoffice@gmail.com or 513.501.1718.",
+      "Reach out by email or phone at least 48 hours before your performance so we can arrange appropriate seating and accommodations."
+    ],
+    "reason": "Added the actual booking contact and explicitly anchored the 48-hour notice to the performance; no seating guarantee inferred.",
+    "published_at": null
+  },
+  {
+    "id": "mariemont-players-walton-creek-theater.sensory.2",
+    "old_text": "A full digital program is offered alongside the printed booklet. Masks are recommended because the space is small and close to the actors.",
+    "text": "Digital programs are linked from each show’s webpage, alongside printed booklets. The current health page recommends masks because of the small space and proximity to actors, but does not require them; recheck the policy before a performance.",
+    "url": "https://www.mariemontplayers.com/health",
+    "quote": [
+      "In addition to the booklet programs we offer for each show, we also offer a full digital program. Just find the show’s page on our website and click the link to pull up the digital program!",
+      "Masks are recommended because of our small space and the close proximity to the actors (we don’t have understudies), but are not mandatory.",
+      "The policies stated below are subject to change. Please check back to this page before each performance for any updates to our policies."
+    ],
+    "reason": "Restored optional-mask and changing-policy conditions and retained separate support for the digital program.",
+    "published_at": null
+  }
+]

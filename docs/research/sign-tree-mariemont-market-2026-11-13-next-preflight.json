@@ -1,0 +1,126 @@
+{
+  "checked_at": "2026-11-13T20:05:30.392300+00:00",
+  "scope": "Availability and lead research only. No notes or venue freshness dates updated by these requests.",
+  "sources": [
+    {
+      "n": 0,
+      "url": "https://heritagebankcenter.com/amenities",
+      "status": 200,
+      "final_url": "https://heritagebankcenter.com/amenities",
+      "last_modified": "Fri, 13 Nov 2026 20:05:26 GMT",
+      "sha256": "017aef1f66774bf541f560862e30c691f5fba10bb83a0b9916cb253ad081c47f",
+      "fingerprint_version": 6,
+      "chars": 4769
+    },
+    {
+      "n": 1,
+      "url": "https://heritagebankcenter.com/venue-info",
+      "status": 200,
+      "final_url": "https://heritagebankcenter.com/venue-info",
+      "last_modified": "Fri, 13 Nov 2026 20:05:26 GMT",
+      "sha256": "03044fc52c48feef0a7217e029c9a30770f1c5dc192acc0a2ba74637805e77df",
+      "fingerprint_version": 6,
+      "chars": 20529
+    },
+    {
+      "n": 2,
+      "url": "https://tafttheatre.org/plan-your-visit/accessibility",
+      "status": 200,
+      "final_url": "https://tafttheatre.org/plan-your-visit/accessibility",
+      "last_modified": null,
+      "sha256": "64f861812321c6d1bb41baf69eef50f5c8095060a86dca12e66f88f117a8ed6c",
+      "fingerprint_version": 6,
+      "chars": 1374
+    },
+    {
+      "n": 3,
+      "url": "https://tafttheatre.org/venue-info/faq",
+      "status": 200,
+      "final_url": "https://tafttheatre.org/venue-info/faq",
+      "last_modified": null,
+      "sha256": "5bcf32e97494ce7059993da7311d1f24286d94f8ec2fdbea2dd61f17cec318bd",
+      "fingerprint_version": 6,
+      "chars": 12120
+    },
+    {
+      "n": 4,
+      "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "last_modified": null,
+      "sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+      "fingerprint_version": 6,
+      "chars": 27913
+    },
+    {
+      "n": 5,
+      "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "last_modified": null,
+      "sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+      "fingerprint_version": 6,
+      "chars": 4896
+    },
+    {
+      "n": 6,
+      "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/",
+      "last_modified": null,
+      "sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
+      "fingerprint_version": 6,
+      "chars": 30364
+    },
+    {
+      "n": 7,
+      "url": "https://www.remkes.com/taylor-mill/",
+      "status": 200,
+      "final_url": "https://www.remkes.com/taylor-mill/",
+      "last_modified": null,
+      "sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+      "fingerprint_version": 6,
+      "chars": 890
+    },
+    {
+      "n": 8,
+      "url": "https://www.remkes.com/store-locator/",
+      "status": 200,
+      "final_url": "https://www.remkes.com/store-locator/",
+      "last_modified": null,
+      "sha256": "f3fac5ec19fe9cf92522d83516a215aae938a678fa78b19eaad3ccf6408223e5",
+      "fingerprint_version": 6,
+      "chars": 1141
+    },
+    {
+      "n": 9,
+      "url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/",
+      "last_modified": null,
+      "sha256": "a7b5f9bf632ec5effe284f8deb78ac0b963782352964aee58d1ac91b8b843fc2",
+      "fingerprint_version": 6,
+      "chars": 5059
+    },
+    {
+      "n": 10,
+      "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/",
+      "last_modified": null,
+      "sha256": "00803e7b668fa46f1e02203fbc955236537bf90f24cd7dc1e548dde0f08ddbdd",
+      "fingerprint_version": 6,
+      "chars": 6980
+    },
+    {
+      "n": 11,
+      "url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/crc/aquatics/pool-information/pool-rules/",
+      "last_modified": null,
+      "sha256": "0985816eb60c5e931e90a5989490d66318c2be67a548a079ef2d2b77b1ada775",
+      "fingerprint_version": 6,
+      "chars": 1252
+    }
+  ]
+}

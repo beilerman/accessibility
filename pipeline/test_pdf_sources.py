@@ -14,7 +14,7 @@ URL = "https://venue.example/facility-guide.pdf"
 QUOTE = "Staff demonstrate equipment but do not lift people."
 
 
-def pdf(text=QUOTE, title="Guide", encrypted=False):
+def pdf(text=QUOTE, title="Guide", encrypted=False, attachment_bytes=0):
     writer = PdfWriter()
     page = writer.add_blank_page(width=612, height=792)
     if text:
@@ -27,6 +27,8 @@ def pdf(text=QUOTE, title="Guide", encrypted=False):
         stream.set_data(f"BT /F1 12 Tf 40 700 Td ({text}) Tj ET".encode())
         page[NameObject("/Contents")] = writer._add_object(stream)
     writer.add_metadata({"/Title": title})
+    if attachment_bytes:
+        writer.add_attachment("guide-resource.bin", b"0" * attachment_bytes)
     if encrypted:
         writer.encrypt("private")
     output = io.BytesIO()
@@ -85,6 +87,21 @@ class PdfSourceTests(unittest.TestCase):
             fetched = result(pdf())
         self.assertNotIn("_text", fetched)
         self.assertIn("150-page", fetched["text_extraction_error"])
+
+    def test_large_file_still_requires_matching_extracted_text(self):
+        data = pdf(attachment_bytes=11 * 1024 * 1024)
+        fetched = result(data)
+        self.assertEqual(fetched["_text"], QUOTE)
+        self.assertEqual(fetched["pages"], 1)
+        findings, missing = self.judge(fetched, result(pdf("Ask the desk.", attachment_bytes=11 * 1024 * 1024)))
+        self.assertEqual(findings, {URL: "quote_missing"})
+        self.assertEqual(missing, {URL: ["venue.mobility.1"]})
+
+    def test_larger_file_limit_does_not_relax_page_content_limit(self):
+        with patch("check_sources.MAX_PDF_PAGE_CONTENT_BYTES", 10):
+            fetched = result(pdf())
+        self.assertNotIn("_text", fetched)
+        self.assertIn("page content exceeds the 10 MiB", fetched["text_extraction_error"])
 
     def test_html_fingerprints_and_quotes_are_unchanged(self):
         fetched = result(b"<p>Ramp at north door</p>", "text/html")

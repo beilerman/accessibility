@@ -1,0 +1,150 @@
+{
+  "american-sign-museum": [
+    [
+      "mobility",
+      "The free parking lot is the first entrance on the right from Monmouth Avenue through a black gate. The museum warns that GPS may select Monmouth Avenue in Kentucky; use 1330 Monmouth Avenue, Cincinnati.",
+      "https://www.americansignmuseum.org/visit/",
+      "venue_official",
+      [
+        "The Museum’s parking lot is at the first entrance on the right, through the black gate.",
+        "Please be sure to double check that the address you are using is for 1330 Monmouth Ave, Cincinnati, OH 45225. Some GPS may try to take you to the Monmouth Ave in Kentucky.",
+        "The Museum has a free parking lot."
+      ]
+    ],
+    [
+      "mobility",
+      "The library FAQ says visitors must climb one flight of stairs and that the library has no elevator. Entry instructions are sent after an appointment is confirmed.",
+      "https://www.americansignmuseum.org/wp-content/uploads/2024/11/Library-FAQs.pdf",
+      "venue_official",
+      [
+        "Library visits are appointment-only. Once your visit is booked, you’ll receive confirmation with entry instructions.",
+        "The Library does not have an elevator at this time and those wishing to visit must ascend one flight of stairs to access it."
+      ]
+    ],
+    [
+      "cognitive",
+      "Library visits require an appointment and are included with museum admission. Request a two-hour slot Wednesday–Saturday between 10 a.m. and 4 p.m., three weeks ahead; allow one week for confirmation.",
+      "https://www.americansignmuseum.org/library/",
+      "venue_official",
+      "The Library is available for all researchers and learners by appointment only, and is free with Museum admission. 2-hour time slots can be requested Wednesdays through Saturdays, 10am-4pm. Please request your appointment 3 weeks in advance, and allow one week for an ASM staff member to confirm your appointment."
+    ],
+    [
+      "cognitive",
+      "Advance eTickets are optional for a general museum visit. Admission includes public tours; groups of 10 or more are encouraged to reserve eTickets ahead.",
+      "https://www.americansignmuseum.org/visit/",
+      "venue_official",
+      [
+        "Admission includes Museum entry and public tours. Pre-purchasing eTickets is not required in order to visit the ASM, however we do provide optional eTicket slots for your convenience.",
+        "Groups of 10+ are encouraged to reserve eTickets in advance."
+      ]
+    ],
+    [
+      "chronic",
+      "Through Museums for All, visitors receiving SNAP food assistance can show a current SNAP card and photo ID for up to four free admissions for their group.",
+      "https://www.americansignmuseum.org/visit/",
+      "venue_official",
+      "Visitors receiving food assistance (SNAP) can present a current SNAP card and a photo ID to receive up to 4 free admissions for their group."
+    ]
+  ],
+  "everybodys-treehouse-mt-airy-forest": [
+    [
+      "cognitive",
+      "The park page is inconsistent: its introduction still says the treehouse is “currently closed for repairs,” while its feature list says “Now Open.” Confirm current access with Cincinnati Parks before travelling.",
+      "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+      "public_agency",
+      [
+        "Mt. Airy also has Ohio’s only wheelchair accessible public treehouse (currently closed for repairs)",
+        "Everybody’s Treehouse - Now Open."
+      ]
+    ],
+    [
+      "mobility",
+      "The September 2026 reopening article describes replaced structural timber, strengthened and modernized guardrails, a new roof, and cleaned and sealed wood surfaces. Photographs from before this work show a different condition.",
+      "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+      "public_agency",
+      [
+        "Renovation work included replacing key structural timber elements, strengthening and modernizing guardrails, installing a new roof, and cleaning and sealing all wood surfaces.",
+        "Sep 25, 2026"
+      ]
+    ],
+    [
+      "mobility",
+      "For visitors exploring beyond the treehouse, the park page reports that the Bradford Felter–Tanglewood Preserve trail is closed for repair and redesign, citing degraded conditions and accessibility constraints. This is a separate trail closure.",
+      "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+      "public_agency",
+      "The Bradford Felter–Tanglewood Preserve trail is closed for repair and redesign. The work being done to reopen the trail will address significant issues including overall degraded trail conditions, accessibility constraints, and heavy invasive species encroachment."
+    ]
+  ],
+  "mariemont-players-walton-creek-theater": [
+    [
+      "mobility",
+      "The November 2026 program says the elevator can be reached from the parking lot, lobby and auditorium, and asks visitors to seek an usher’s assistance. It does not give lift dimensions or a marked outdoor approach.",
+      "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+      "venue_official",
+      [
+        "Elevator: Accessible from parking lot, lobby and auditorium. Ask an usher for assistance.",
+        "November 5- 22, 2026"
+      ]
+    ],
+    [
+      "mobility",
+      "The November 2026 program identifies a restroom on the first-floor lobby level that it describes as accessible, plus two basement restrooms. It does not describe changing equipment or transfer space.",
+      "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+      "venue_official",
+      [
+        "Restrooms: An handicap-accessible restroom on the ﬁrst ﬂoor lobby level, and two additional restrooms in the basement.",
+        "November 5- 22, 2026"
+      ]
+    ],
+    [
+      "sensory",
+      "The November 2026 program locates the loan hearing-loop receiver and headset in the first-floor lobby’s will-call area.",
+      "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+      "venue_official",
+      [
+        "If your hearing aid doesn’t have a telecoil, you may borrow a separate loop receiver with a headset, available in the ﬁrst ﬂoor lobby will call area.",
+        "November 5- 22, 2026"
+      ]
+    ],
+    [
+      "chronic",
+      "The November 2026 program permits water bottles in the auditorium, but excludes other food and drinks. Refreshments are available before the show and during intermission in the first-floor Hurst lobby.",
+      "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+      "venue_official",
+      [
+        "Food and drinks are not allowed in the auditorium, except water bottles. Please dispose of all refreshments before entering the theater.",
+        "Refreshments: Available prior to show and during intermission in the ﬁrst ﬂoor Hurst lobby.",
+        "November 5- 22, 2026"
+      ]
+    ],
+    [
+      "cognitive",
+      "The November 2026 program says late arrivals wait for a suitable break before entering.",
+      "https://www.mariemontplayers.com/_files/ugd/2f9e12_7d1e70b2f3bd4062a23ef6574882c857.pdf",
+      "venue_official",
+      [
+        "Latecomers cannot be admitted until a suitable break.",
+        "November 5- 22, 2026"
+      ]
+    ],
+    [
+      "mobility",
+      "If the onsite lot fills, the theater lists offsite parking at Calvary Presbyterian Church, 7416 Elm Street (0.1 mile), Walgreens, 7398 Wooster Pike (0.2 mile), and Kroger, 7385 Wooster Pike (0.3 mile). These are the theater’s listed distances, not verified step-free walking routes or reserved spaces.",
+      "https://www.mariemontplayers.com/directions",
+      "venue_official",
+      [
+        "If the parking lot does fill up, there are several other parking options to park and walk to the theatre, such as:",
+        "Calvary Presbyterian Church located at 7416 Elm St, Cincinnati, OH 45227, .1 miles from the theatre",
+        "Walgreens located at 7398 Wooster Pike, Cincinnati, OH 45227, .2 miles from the theatre",
+        "Kroger located at 7385 Wooster Pike, Cincinnati, OH 45227, .3 miles from the theatre"
+      ]
+    ],
+    [
+      "chronic",
+      "If you feel ill before a show, the theater asks you to stay home and contact the box office, which says it will try to reach a solution. This is not a promised refund or exchange.",
+      "https://www.mariemontplayers.com/health",
+      "venue_official",
+      "If you feel ill before a show, please do not come to the theater. Contact the box office and we will do our best to reach a solution."
+    ]
+  ]
+}
