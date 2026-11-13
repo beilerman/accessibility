@@ -1,0 +1,50 @@
+{
+  "cincinnati-metro-and-access-paratransit.cognitive.5": {
+    "text": "Access offers free transportation to the functional skills assessment from locations within its service area. Book Access trips with Customer Care at 513-531-8888 or in the MyAccess app.",
+    "quote": [
+      "Access does offer transportation to the functional skills assessment free of charge from all locations within the Access service area.",
+      "Call Customer Care at 513-531-8888 to make a reservation.",
+      "The MyAccess app is the new, convenient way for Metro Access riders to book, track, and manage their trips—all from their smartphone."
+    ],
+    "reason": "Corrected the omitted service-area condition on free transportation to the eligibility assessment; retained phone and app booking evidence."
+  },
+  "cincinnati-metro-and-access-paratransit.mobility.3": {
+    "text": "Metro says visitors certified for paratransit in their hometown may qualify for temporary Access service, limited to 21 days. Contact eligibility at 513-632-7586 as far ahead as possible and provide current home-agency eligibility; Metro says more than 21 service days in a calendar year require its full application process.",
+    "quote": [
+      "Visitors to the Metro service area who have been certified as eligible for paratransit services in their hometown may be eligible to receive temporary paratransit services from Access. This also applies to Access passengers who wish to travel to other cities that offer their own paratransit services. The temporary period is limited to 21 days of paratransit service.",
+      "Please contact the eligibility office at 513-632-7586 as far in advance as possible to inquire about temporary visitor service. Visitors must provide current ADA eligibility for paratransit service from the city, region, or jurisdiction in which they reside. Visitors who require more than 21 days of service in the calendar year will be required to apply and complete the full Access eligibility process."
+    ],
+    "reason": "Expanded the visitor-service note with the operator’s advance-contact, documentation and 21-day conditions; this summarizes Metro’s published policy, not an independent legal interpretation."
+  },
+  "national-underground-railroad-freedom-center.mobility.3": {
+    "text": "The museum recommends the 182 Race Street entrance to the public Central Riverfront Parking Garage below it and describes the garage as accessible via elevators.",
+    "quote": "The nearest parking garage is located below the museum in the Central Riverfront Parking Garage* (182 Race Street entrance recommended). This public garage is fully accessible via elevators.",
+    "reason": "Attributed the garage access description to the museum instead of presenting a broad access verdict; added the recommended garage entrance."
+  },
+  "national-underground-railroad-freedom-center.sensory.2": {
+    "text": "In a February 15, 2025 article, the museum reported accessibility carts on the second and third floors with noise-reducing headphones, fidgets and sunglasses.",
+    "quote": [
+      "February 15, 2025",
+      "Located on our second and third floors, our new accessibility carts invite guests to enhance their visiting experience in ways that feel grounded in support.",
+      "Visitors may choose from items such as noise-reducing headphones, fidgets, sunglasses and fidget seats allowing them to engage with the museum in ways that best suit them."
+    ],
+    "published_at": "2025-02-15",
+    "reason": "Made the dated news-source scope explicit and retained evidence for both cart locations and each listed tool; current stock was not observed."
+  },
+  "vent-haven-museum.cognitive.1": {
+    "text": "Regular guided tours are by advance appointment from May through September and last about 60 to 90 minutes. The FAQ allows separately announced events, says the museum is typically closed on holidays and does not offer drop-in quick peeks or off-season tours.",
+    "quote": [
+      "All tours are by appointment only from May through September and must be scheduled in advance.",
+      "The museum is open by appointment only with the exception of announced events. The museum is typically not open on holidays.",
+      "All tours are guided and last approximately 60 to 90 minutes, depending on the interest of the visitor.",
+      "5. I don't want to schedule a full, guided tour. Can I just take a quick peek into the museum? Due to the nature of the museum, this is not a possibility.",
+      "6. I know that you're closed during the off season, but that's the only time I'll be in town. Is it possible to schedule a tour anyway? Sadly, no. During the off season, the buildings are not prepared for tourists. Maintenance inside of the buildings is ongoing during this time, and exhibits are being rotated on and off display."
+    ],
+    "reason": "Qualified regular-tour rules to preserve the announced-event exception and added the explicit holiday and off-season restrictions."
+  },
+  "national-underground-railroad-freedom-center.sensory.3": {
+    "text": "The museum offers audio tours on visitors’ own mobile devices and asks them to bring headphones.",
+    "quote": "Bring your headphones and experience our new audio tours on your mobile device.",
+    "reason": "Removed the unsupported self-guided characterization; the current source establishes mobile-device audio tours and the request to bring headphones."
+  }
+}

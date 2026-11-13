@@ -1282,15 +1282,379 @@
   "quote": "The City will generally, upon request, provide appropriate aids for effective communication for qualified individuals with disabilities. Please contact the City’s Office of Aging and Accessibility if you require any special accommodations or communication aids.",
   "verified_at": "2026-11-12"
  },
+ "cincinnati-metro-and-access-paratransit.chronic.1": {
+  "url": "https://www.go-metro.com/access",
+  "quote": "Paratransit drivers will secure all mobility devices.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Eating, drinking and smoking are prohibited on all Access vehicles.",
+   "Lift you in and out of wheelchairs or scooters. You must provide your own Personal Care Attendant (PCA) or escort for assistance. A PCA can ride free of charge."
+  ],
+  "claim_sha256": "26d6529992503fd83402064ab69f41f5d7905c49dca37f563a776372119f18de",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.chronic.2": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "Drivers cannot enter your home.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Access’s goal is to accommodate all Paratransit riders. However, drivers are not allowed to:",
+   "Clear snow, ice or other objects from your steps, driveway or walkway. Lock or unlock house doors. Load or unload personal items. Carry groceries and packages."
+  ],
+  "claim_sha256": "1d50e679496d03a225007db23ec6166c10f4cd8240776c7d9abf980a190c04a9",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.chronic.3": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "Be aware of the opening and closing times of your destination to avoid waiting outside. If your destination is closed at the time you arrive, the Paratransit driver cannot wait with you until it opens.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "d0e5696ce3f028f95214f2192f5b99d76ae82642595856d529d84b8e92365833",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.cognitive.1": {
+  "url": "https://www.go-metro.com/access",
+  "quote": "Access is a shared-ride public transportation service, providing origin-to-destination transportation services for individuals whose disabilities prevent them from riding Metro buses. To use Access, you must first apply and be approved for service, a process that can take up to three weeks.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The application process includes an in-person functional skills assessment and interview."
+  ],
+  "claim_sha256": "75c1c22b4f35ef6c6f0a8b0ebbb4ea8411d7a59a0071f0fe8130803ffabe41c4",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.cognitive.2": {
+  "url": "https://www.go-metro.com/access",
+  "quote": "Hours of Operation: Same as Metro's Regular Service Hours Service Area: 3/4 mile of regular (non-express) Metro service Service Limitations: Service is not available beyond the designated service area or during hours when Metro's regular service is not operating.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Call Customer Care at 513-531-8888 to make a reservation.",
+   "After making your reservation you will be given a 30-minute “pickup window” and this is when the Access driver is scheduled to arrive. Be ready to travel at the beginning of your pickup window and make sure you are in an area where you can see or hear the bus when it arrives. The Access driver will wait 5 minutes. If you do not board within the 5-minute window, the bus will leave to pick up the next customer and you may be considered a no-show."
+  ],
+  "claim_sha256": "71d92c8b851c295fc20529ae0987e290f1d777a8c07a9dea3c7c9d7384cf1cd5",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.cognitive.3": {
+  "url": "https://www.go-metro.com/fares-passes/fare-deal-program/",
+  "quote": "Metro’s Fare Deal program allows eligible riders to obtain a Fare Deal identification card valid for half-price fares on Metro fixed-route trips.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Those 65 years-old and older are automatically eligible; proof of age is required. Medicare card holders of any age are also automatically eligible. Riders with disabilities who don’t have Medicare and are not 65 must submit an application and be certified to qualify for the program."
+  ],
+  "claim_sha256": "2c2f85a0bc329e76afc492d5592dc9c349008c41a807bed0dd542772cbc6f692",
+  "source_sha256": "44797773aa756ce5b127d0a7fdba8f79a15a95f739494db9c58424b584b140ad",
+  "final_url": "https://www.go-metro.com/fares-passes/fare-deal-program/"
+ },
+ "cincinnati-metro-and-access-paratransit.cognitive.4": {
+  "url": "https://www.go-metro.com/fares-passes/fare-information/",
+  "quote": "Access Paratransit passholders may ride Metro fixed-route service for half price.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "8af296d7be34215e18537c8f783fe20870d34bf5c9322949830f0ff788e3cd7e",
+  "source_sha256": "407ea63545f9039bb831bb66930adb57199e722c5ae5e23bac2e4c36b14069d1",
+  "final_url": "https://www.go-metro.com/fares-passes/fare-information/"
+ },
+ "cincinnati-metro-and-access-paratransit.cognitive.5": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "Access does offer transportation to the functional skills assessment free of charge from all locations within the Access service area.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Call Customer Care at 513-531-8888 to make a reservation.",
+   "The MyAccess app is the new, convenient way for Metro Access riders to book, track, and manage their trips—all from their smartphone."
+  ],
+  "claim_sha256": "6f437f04467e5d6a159e2f8c55f4f4baced86ad83b043c85f6f0d92f029b99d9",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.cognitive.6": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "Access requires an eligibility application submitted, describing your disability or condition that prevents you from utilizing the fixed route service. Access no longer accepts applications by mail or fax. Applications are available in digital format or downloadable PDF. Your disability or condition must meet ADA requirements for certification. After submitting their application, applicants must call 513-632-7586 to schedule an in-person transportation skills assessment.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "2f499bbd7b62ec93a0d36d54b85b8f1bd2811abe403bdeb27b9d69b6287180ee",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.cognitive.7": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "When making a reservation please have the following information. Your name or ID number. The date you would like to travel. The address of both pick up location and destination. The time you need to arrive at your destination. The time you need to be picked up for your return trip. Whether you will be traveling with a companion and / or personal care attendant. Special instructions for the driver.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "07035b13f9c13cc27efea15e7d80399e717ab94b5e387151e6f0e181960f97c6",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.mobility.1": {
+  "url": "https://www.go-metro.com/accessibility",
+  "quote": "Low floor buses with a boarding ramp that can be deployed A kneeling feature that lowers the bus closer to the curb Wheelchair securement locations Priority seating at the front of the bus",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "1ad2a67ca101bac34fd492c6eb29e7a86acd14f5af4b12890947019bada1837e",
+  "source_sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786",
+  "final_url": "https://www.go-metro.com/accessibility/"
+ },
+ "cincinnati-metro-and-access-paratransit.mobility.2": {
+  "url": "https://www.go-metro.com/accessibility/",
+  "quote": "All service animals are allowed to ride Metro buses without paying an additional fare.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "a72f3de83deea3feda40b6b2a8bac23997b9da54c687a017d963e3f370b472fb",
+  "source_sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786",
+  "final_url": "https://www.go-metro.com/accessibility/"
+ },
+ "cincinnati-metro-and-access-paratransit.mobility.3": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "Visitors to the Metro service area who have been certified as eligible for paratransit services in their hometown may be eligible to receive temporary paratransit services from Access. This also applies to Access passengers who wish to travel to other cities that offer their own paratransit services. The temporary period is limited to 21 days of paratransit service.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Please contact the eligibility office at 513-632-7586 as far in advance as possible to inquire about temporary visitor service. Visitors must provide current ADA eligibility for paratransit service from the city, region, or jurisdiction in which they reside. Visitors who require more than 21 days of service in the calendar year will be required to apply and complete the full Access eligibility process."
+  ],
+  "claim_sha256": "d8d667339ffd179837b67da584b8b3286b4017aec7010af209e9324fd12e3672",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.mobility.4": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "The application process includes an in-person functional skills assessment and interview. Assessments are conducted at 7000 Montgomery Road Silverton, OH 45236.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "If an applicant requires the use of a mobility aid, the mobility aid must be brought to their functional skills assessment.",
+   "The assessment will not be processed without both a complete ADA Transportation Application and a valid photo ID. Applicants will need to reschedule their assessment appointment if they are unable to provide both items at the time of their appointment."
+  ],
+  "claim_sha256": "d4797006dd4904c2f6d0997f9ada11d32b03392b872d4adaad9cdc36ef540f82",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.mobility.5": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "If it is determined that a location you would like to travel to or from is not safe to maneuver in one of our paratransit vehicles, we will not be able to serve that location (e.g. dangerous double parking, required backing of the vehicle, low hanging branches, not safe area to board the vehicle, etc.). Arrangements may be made for an alternative pick-up address that is safer.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "37b67a3f373cdf9943bf6eb175b9d7234ab0c974ed712fc7f26f74a217482b01",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.mobility.6": {
+  "url": "https://www.go-metro.com/access-paratransit/",
+  "quote": "When your vehicle arrives, the driver will assist you on/off the vehicle lift or steps, secure your wheelchair or scooter, fasten your seatbelt and collect the fare.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Lift you in and out of wheelchairs or scooters. You must provide your own Personal Care Attendant (PCA) or escort for assistance. A PCA can ride free of charge."
+  ],
+  "claim_sha256": "6fc162d9b5fc1f2c77ac86f19ef2fc2c668974355ab8e19f6bee871acc232d21",
+  "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8",
+  "final_url": "https://www.go-metro.com/access-paratransit/"
+ },
+ "cincinnati-metro-and-access-paratransit.sensory.1": {
+  "url": "https://www.go-metro.com/accessibility",
+  "quote": "Bus stop announcements that are both audible and visual",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f97694913eb2059b278c58072dac3cdfcee12bbbb763b6309db716fc5067f565",
+  "source_sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786",
+  "final_url": "https://www.go-metro.com/accessibility/"
+ },
+ "cincinnati-museum-center.chronic.1": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "Guests are permitted to bring their own food and drinks into the building for consumption in seated dining areas. For the safety and preservation of our exhibits and artifacts, food and drink are not permitted to in museums, exhibits or The Robert D. Lindner Family OMNIMAX ® Theater.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "ae33423fbeb5bb00411408481e5f599f267f6bd8275b0459a5d2abb0e58a2868",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.chronic.2": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Medication, pumped milk and required food items that need to stay chilled can be stored in the refrigerator in the Public Safety Quiet Zone as needed.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "4ecad1c71c19d7f82d431d9ebedbec981e4c7fff964c911d0cd6914a563cb037",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.chronic.3": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Adult changing tables (holding up to 400 lb.) are located in universal restrooms in the Concourse, on the Mezzanine and on the Lower Level near the Museum of Natural History & Science.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "ebe301b3138493ba7608af05767799cd5b3641cb2087cac8df8247b5bcca958e",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.cognitive.1": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Given the size of Union Terminal and “choose your own adventure” style of exploration, we do not provide social stories, visual schedules, or first/then boards.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "0c7797313e4472f60c5f780ab4ae7300cc091baf59039469a73fe5e01bf545db",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.cognitive.2": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Caregivers, who are visiting the museum for the purpose of providing care to an Individual with Disabilities, will be able to receive a free, complementary Museum Admission ticket. The caregiver will need to visit the box office to receive their ticket. As a reminder, the caregiver comp ticket only applies to the Museum Admission ticket. Caregivers will need to pay to visit OMNIMAX ® and Featured Exhibits.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "bd50265ab1fc9aae832cbf34a1a203da6913ddb3a89462ed37a443ad390d2fd2",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
  "cincinnati-museum-center.cognitive.3": {
   "url": "https://www.cincymuseum.org/accessibility/",
   "quote": "However, feel free to check out our museum focused “Accessibility Amenities” guides on the top right of this page listed under “Additional Information” to build your own or has a visual walkthrough of our galleries before visiting.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Accessibility Amenities in Museum of Natural History & Science Accessibility Amenities in Cincinnati History Museum Accessibility Amenities in The Children’s Museum OMNIMAX ® and Featured Exhibits Accessibility Amenities Food, Beverage and Additional Accessibility Amenities Quiet Zones & Restrooms Accessibility Amenities"
+  ],
+  "claim_sha256": "2ed0267dae2e12d3d57c4ceffdb8a02cdfa15458a8c632141e6df27af66c271e",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.cognitive.4": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "If you borrow equipment from a Quiet Zone during your trip, thanks for returning it to its original location or any ticketing booth before you leave. Used fidgets are yours to keep!",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "7a36ebde77e96a1b9211672e0224e9e82b160e482c8111df9a0da5e742fbbaae",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.cognitive.5": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "Open daily: 10 a.m. to 5 p.m. Closed Thanksgiving Day and Christmas Day Open from 10 a.m. to 2 p.m. on November 6, November 25 and December 24, 2026",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f3077a2cf34929468e2365709548e4cc746a02e71503c73688028257aaf39fca",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.mobility.1": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "Our historic front doors are heavy. Doors to the far left and far right have push-plates mounted on the wall for automatic opening.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Wheelchairs and ECVs are available for rental on a first-come, first-served basis from the box office."
+  ],
+  "claim_sha256": "44b574e02bf398af1a2dfcd16c694da16196a50da80a9a557d6607d7516b71e4",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.mobility.2": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "There are adult changing tables located in the Universal Restrooms on the Mezzanine B level and on the Lower level, near the entrance to the Westheimer Gallery.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "dfdf93933818f159a34bb514e3a59c8d4140932d1f339675984f6bdb0965d845",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.mobility.3": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Accessible, wheelchair seating is offered at the top of the OMNIMAX ® dome. OMINMAX ® staff are happy to assist guests up the elevator.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "955b8c4924b0a49fc2916b8d38c3f3b1443989b10787ccbc14b815b50d913003",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
  },
  "cincinnati-museum-center.mobility.4": {
   "url": "https://www.cincymuseum.org/accessibility/",
-  "quote": "Renters must be over 18 years old and sign the Guest Mobility Equipment Rental Agreement. A driver’s license or credit card will be held at the box office until the wheelchair or ECV is returned. Single strollers: $10 Double strollers: $12 Wheelchairs: $7 Electric Wheelchairs: $29 Please note: All mobility equipment rentals are cashless.",
-  "verified_at": "2026-11-10"
+  "quote": "Renters must be over 18 years old and sign the Guest Mobility Equipment Rental Agreement. A driver’s license or credit card will be held at the box office until the wheelchair or ECV is returned.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "All mobility equipment rentals are cashless."
+  ],
+  "claim_sha256": "7d1f09b5b9f5536895fa227c8975b0c331503fa46e65dcf36ffb3b02af72ecd1",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.mobility.5": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "For guests with officially registered disability decals, 20 parking spaces are designated and available on a first-come, first-served basis. For special assistance getting into the building, call Public Safety at (513) 287-7048 at least 24 hours in advance. An officer will arrange assistance for you.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "4dcc5714f2549f2e0e979df64638e0e7473d6214eaa2694914e5aed4bea26e78",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.mobility.6": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "The Express Elevator, to the right of the main entrance as you come in the front doors, serves the Lower level (The Children’s Museum, restrooms, grab-and-go food service, Bean Sprouts and the Westheimer Gallery.) The East Elevator, to the left of the main entrance as you come in the front doors, serves the Mezzanine A level (Ruthven Gallery, Mallory Gallery, classrooms), the Mezzanine B level (Fountain Gallery, classrooms, restrooms) and the Lower level.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f66b33fb82e7b80a2a5daa3c672a7cdf4fad0f66a4dc3ab0e25189160ef86115",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.mobility.7": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "There is an elevator located just before the restrooms on the south side of the Rotunda that takes guests down to the Mezzanine level to access The Nancy & David Wolf Holocaust & Humanity Cetner and the Cincinnati History Library & Archives.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "ad04a0faeecced767a9fe4e6d916d1fe4ef57dab0a8240f907b493687e4a8424",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.mobility.8": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "There is also an elevator just past The Robert D. Lindner Family OMNIMAX ® Theater entrance. This elevator takes guests to 2nd floor north to enter/exit the OMNIMAX ® Theater if they cannot use the stairs.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "b2d12873091ef0d98b5570bbcba1a3ecc93703f45e6084838666b335fb704097",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.mobility.9": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "Stroller & Mobility Rentals Strollers are available for rental on a first-come, first-served basis from the box office. Single strollers are $9 and double strollers are $11. Renters must be over 18 years old and sign the Guest Mobility Equipment Rental Agreement. A driver’s license or credit card will be held at the box office until the stroller is returned. Wheelchairs and ECVs are available for rental on a first-come, first-served basis from the box office. Wheelchairs are $7. ECVs are $27.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Wheelchair & Electric Convenience Vehicle (ECV) Rental Wheelchairs and Electronic Convenience Vehicles (ECVs) are available for rental on a first-come, first-served basis from the box office. Wheelchairs are $7. ECVs are $29."
+  ],
+  "claim_sha256": "4966e41c325add138023052b50eeccac86aa9feb6b6bc8a10a7f13c71dda11e3",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.sensory.1": {
+  "url": "https://www.cincymuseum.org/visit/",
+  "quote": "View Accessibility and Sensory Maps",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "1ec5d3411dc61077a368f4ac83d3bbf61aa6f180ad99b117c408eaac3a776a9e",
+  "source_sha256": "17569ef58feb1469ae4951c9619a503f1077a523278a883798a6cfb4f3ba46fb",
+  "final_url": "https://www.cincymuseum.org/visit/"
+ },
+ "cincinnati-museum-center.sensory.2": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "films offer descriptive audio, closed captioning and assisting listening. Tools are available upon request.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "7ca9478c1b7f98a45f9de19d4a320d50a9beb7cca4e5a64727c4463daae8c85c",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.sensory.3": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "If you are looking for the quietest time to explore, join us weekday afternoons from 3 to 5 p.m.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Starting in December 2026, we will be adding a short, 3-minute pipe organ performance on Sunday afternoons at 4:15 p.m."
+  ],
+  "claim_sha256": "b28c497a27ef228a0c092a2cbe5692e05f0503dc495fddb45009123fb9177d41",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.sensory.4": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Script version of featured exhibit audio is available upon request (see box office) Deaf Days are held at least once per the run of a Featured Exhibit",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Join us for ASL interpreted tours! Interpreters from Cincinnati State’s Interpreter Training Program (ITP) will be partnering with Cincinnati Museum Center for ASL interpreted tours."
+  ],
+  "claim_sha256": "3244f6030dc1f23adf65c934ed2b3f16f7bb1a0751cb0e17aa41f379d2d1f65f",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.sensory.5": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Public Safety (Rotunda – Shared Space)",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Nursing Room by Fountain Gallery (Mezzanine – Private Room)",
+   "Nursing Room on The Avenue (Lower Level – Private Room)"
+  ],
+  "claim_sha256": "e0c39b3a0e439ac434ce116aa1b18105a06d430aca4d99ca4ea63434a0464696",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
+ },
+ "cincinnati-museum-center.sensory.6": {
+  "url": "https://www.cincymuseum.org/accessibility/",
+  "quote": "Manual flush toilets and paper towel dispensers. A few restrooms do have air hand dryers.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "11cf5110cd27f9f9fac5a3ff7dfc5b91517cc1059b45349d19ab4ad3360ab1a5",
+  "source_sha256": "8e8bc532a47924f1e2d46d8ea87c4fe15c6de96680d001c7159fd0588473eecd",
+  "final_url": "https://www.cincymuseum.org/accessibility/"
  },
  "cincinnati-nature-center-rowe-woods.chronic.1": {
   "url": "https://www.cincynature.org/visit",
@@ -1913,6 +2277,65 @@
   "url": "https://www.florencemall.com/event/florence-santa-cares",
   "quote": "We love spreading Christmas cheer during Santa Cares events, allowing guests of all ages and abilities to visit Santa in a sensory-friendly environment. One reservation per family. Reserve now → Event Info Date Sunday, December 6, 2026 Time 8:30 AM - 9:30 AM",
   "verified_at": "2026-11-12"
+ },
+ "freestore-foodbank-liberty-street-market.chronic.1": {
+  "url": "https://freestorefoodbank.org/liberty-street-market/",
+  "quote": "Through our Customer Connection Center’s Liberty Street Market located at 112 E. Liberty Street in Over-the-Rhine, Cincinnati, Freestore Foodbank offers a choice pantry, much like a regular grocery store, to those in need. This means that families struggling to find vital nutrition can select the items that fit the needs of their family, giving them one less thing to worry about as they work to make ends meet.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "fb99766fe722f726ce5af9a57c54c309015a8436e4cd8e5ca6359d7cd8336d83",
+  "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f",
+  "final_url": "https://freestorefoodbank.org/liberty-street-market/"
+ },
+ "freestore-foodbank-liberty-street-market.chronic.2": {
+  "url": "https://freestorefoodbank.org/liberty-street-market/",
+  "quote": "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. Protein items are exclusive to customers utilizing the choice shopping experience.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "73d93c0099c183dbec53f4f56c40db6990804872555b5962ecf92100df53f1d9",
+  "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f",
+  "final_url": "https://freestorefoodbank.org/liberty-street-market/"
+ },
+ "freestore-foodbank-liberty-street-market.cognitive.1": {
+  "url": "https://freestorefoodbank.org/liberty-street-market/",
+  "quote": "WHAT TO BRING Picture ID Household Verification (Address, Birth Certificate, or Medical Card)",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "592bf42222158d0b780749db159fcb9c8dc7cf56c7bf6aa4e0e9d259701b15b5",
+  "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f",
+  "final_url": "https://freestorefoodbank.org/liberty-street-market/"
+ },
+ "freestore-foodbank-liberty-street-market.cognitive.2": {
+  "url": "https://freestorefoodbank.org/liberty-street-market/",
+  "quote": "HOURS OF OPERATION Monday – 8:00 am – 4:00 pm Tuesday – 8:00 am – 4:00 pm Wednesday – 8:00 am – 4:00 pm Thursday – 8:00 am – 4:00 pm Friday – 8:00 am – 4:00 pm Saturday – CLOSED Sunday – CLOSED Choice shopping is available until thirty (30) minutes before posted closing time. If you miss the time, please return the next business day.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "1576eca846b33756c2b1acd035289e73bcd40f90869ff40e746b8b4268b8b9af",
+  "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f",
+  "final_url": "https://freestorefoodbank.org/liberty-street-market/"
+ },
+ "freestore-foodbank-liberty-street-market.cognitive.3": {
+  "url": "https://freestorefoodbank.org/transportation-assistance/",
+  "quote": "Bus passes are provided for new employment with verification on company letterhead that includes hire date, start date, and date of first paycheck.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "156f84fe8280cc5c45b49525d13bf65f8fcc21857b0861356e0cdb4f3c058ad1",
+  "source_sha256": "05a1f40fa1c92faa4f4c75867be6d2a090c01a45d6e93d27553ad9eb1fd408e4",
+  "final_url": "https://freestorefoodbank.org/transportation-assistance/"
+ },
+ "freestore-foodbank-liberty-street-market.cognitive.4": {
+  "url": "https://freestorefoodbank.org/liberty-street-market/",
+  "quote": "Please call our Customer Connection Center at (513) 241-1064 or visit us for more information on emergency food assistance.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "CONTACT Liberty Street Market 112 E Liberty Street Cincinnati, OH 45202 513-357-4600"
+  ],
+  "claim_sha256": "32a1eb4e6a393fc16e1bf3cc90aa2f2f8282e6195c8322ed940221c928b81e7e",
+  "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f",
+  "final_url": "https://freestorefoodbank.org/liberty-street-market/"
+ },
+ "freestore-foodbank-liberty-street-market.mobility.1": {
+  "url": "https://freestorefoodbank.org/transportation-assistance/",
+  "quote": "For those needing assistance with medical or work related transportation, we offer assistance. At our Customer Connection Center located at 112 E. Liberty Street in Over-the-Rhine, Cincinnati, we can provide bus passes to help families attend doctor’s appointments, search for employment or travel to a new job for the first two weeks. Bus passes with transfers, including Ohio and Kentucky, are made available with proof of appointment, employment or interview.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "e7f07195077a1f5de8809c4647c326cfaf13fa70d441f4cd98cbbf745a38b80f",
+  "source_sha256": "05a1f40fa1c92faa4f4c75867be6d2a090c01a45d6e93d27553ad9eb1fd408e4",
+  "final_url": "https://freestorefoodbank.org/transportation-assistance/"
  },
  "fresh-thyme-market-newport.chronic.1": {
   "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
@@ -2811,6 +3234,143 @@
   "quote": "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center.",
   "verified_at": "2026-11-12"
  },
+ "national-underground-railroad-freedom-center.chronic.1": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "A family restroom is available on the first floor.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "be4f342b434532388b923bba40153b6dc1108c33ca665cf15d59eb06587a46ee",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.chronic.2": {
+  "url": "https://freedomcenter.org/visit/plan-your-visit/",
+  "quote": "*Plan for your visit to be 3-4 hours",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "e9c8567095f406ad16e2ea2b8b56337d0703231b4fb515f3c61a73b73f3d6f04",
+  "source_sha256": "427334279c17236aef72d3bba415707e9d0cb96431a2ea2ca2e5c8f69e704c61",
+  "final_url": "https://freedomcenter.org/visit/plan-your-visit/"
+ },
+ "national-underground-railroad-freedom-center.chronic.3": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "Parents with Young Children Our restrooms are equipped with changing stations and nursing is welcome at the museum.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "a3aae3cc97c91b46b65239ff37c3f44beb10741d4281953dc523ad6852e66ab5",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.cognitive.1": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "Visual Welcome Guide: Prepare for your visit to museum with this free resource. Learn more→",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "a23777ac814e46c3fe6ba88dc07ea37f02e12f92a98bcbbd823f68d9b232069c",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.cognitive.2": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "If you need accommodations or have any questions about our accessibility resources, please contact us at accessible@nurfc.org.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "835f45629f2b0d37d548f186cc329aac2911d0700ec2dd8b318ebef3f26dd009",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.cognitive.3": {
+  "url": "https://freedomcenter.org/visit/plan-your-visit/",
+  "quote": "Tickets sales are card only (cash sales not available on-site).",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "7ae1f403a78ea9c796feaf7ad4bdf67879444b242a8558a12c1d5b7371d6975a",
+  "source_sha256": "427334279c17236aef72d3bba415707e9d0cb96431a2ea2ca2e5c8f69e704c61",
+  "final_url": "https://freedomcenter.org/visit/plan-your-visit/"
+ },
+ "national-underground-railroad-freedom-center.mobility.1": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "Wheelchairs and Electronic Convenience Vehicles (ECVs) are available for rental on a first-come, first-serve basis from the front desk.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Accessible restrooms are available on the first, third and fourth floors of the museum.",
+   "Elevators are available for visitors to access each floor of the National Underground Railroad Freedom Center."
+  ],
+  "claim_sha256": "854cbb03a7dba0311941d072c2b9bc6691f6fdb3aa07c79258b3fc492dbe184a",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.mobility.2": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "Wheelchairs are free to rent. ECVs are $25 to rent. ECV renters must be over 18 years old and sign the Guest Mobility Equipment Rental Agreement. A driver’s license or credit card will be held at the front desk until the wheelchair or ECV is returned. Wheelchairs and ECVs are not permitted to leave the museum.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "19d17b858f0ece6c1b188472dba9c055b9ac359931662100fac4a047695bdda7",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.mobility.3": {
+  "url": "https://freedomcenter.org/visit/parking/",
+  "quote": "The nearest parking garage is located below the museum in the Central Riverfront Parking Garage* (182 Race Street entrance recommended). This public garage is fully accessible via elevators.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "fd1cff1e290bc4baa2dd39daf0914229a5c06e5353f966a1e27c6f3b7d1514f7",
+  "source_sha256": "bc332a1c0417c97d2a159ad9f02d281c1ed4817a161a238b03da1c061c72e9c0",
+  "final_url": "https://freedomcenter.org/visit/parking/"
+ },
+ "national-underground-railroad-freedom-center.mobility.4": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "Main museum entrance is located on the first floor, facing the riverfront on East Freedom Way.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "2ed56f00a3ef0747be2082d74f6ff1d383d13a382531f48a4acdd98b452df2d0",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.mobility.5": {
+  "url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+  "quote": "Park in the green section. Ride the elevators up to Plaza Level (PL).",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Follow the signs to the main entrance of the museum."
+  ],
+  "claim_sha256": "4346d08048b3e4b806ef111748e2c253788528cfba2f9aa9e78463b608686e27",
+  "source_sha256": "20f4d9c72304358d28aa782f344a7ac3ed2694e3146f0904ff972c74214e1518",
+  "final_url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf"
+ },
+ "national-underground-railroad-freedom-center.mobility.6": {
+  "url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+  "quote": "Our handicap accessible entry door is located to the right of the revolving doors.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Wave your hand across the black box to open the doors automatically."
+  ],
+  "claim_sha256": "7e9cebe5e890b2822ef7dd08f1ec0f3ecc8fcc636ceacfbcb08f596dcd49a894",
+  "source_sha256": "20f4d9c72304358d28aa782f344a7ac3ed2694e3146f0904ff972c74214e1518",
+  "final_url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf"
+ },
+ "national-underground-railroad-freedom-center.sensory.1": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "A braille version of our museum map is available at check in.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Permanent gallery videos are open captioned and temporary exhibition space audio elements are transcribed via exhibit panels or gallery guide."
+  ],
+  "claim_sha256": "835734a90c9a0fe1de78a4621e590d0d4e9feac8a63c005a18b9cfa354edc16d",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
+ "national-underground-railroad-freedom-center.sensory.2": {
+  "url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
+  "quote": "February 15, 2025",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Located on our second and third floors, our new accessibility carts invite guests to enhance their visiting experience in ways that feel grounded in support.",
+   "Visitors may choose from items such as noise-reducing headphones, fidgets, sunglasses and fidget seats allowing them to engage with the museum in ways that best suit them."
+  ],
+  "claim_sha256": "6fbd958ec3606fcb38d99de9b09b357c4b919d572a8a3e3bfbaadf3bf5acd248",
+  "source_sha256": "8e7d6afcce392f058d029d9d88212eeb23b5d68d4233d71bf8b4e24ee348a008",
+  "final_url": "https://freedomcenter.org/voice/accessibilitytools-copy/"
+ },
+ "national-underground-railroad-freedom-center.sensory.3": {
+  "url": "https://freedomcenter.org/visit/accessibility/",
+  "quote": "Bring your headphones and experience our new audio tours on your mobile device.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "2da558f7a99c468c6fa2bc4cd570cfa61a23e1f20de2c1b1800e8c6b3f87f528",
+  "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7",
+  "final_url": "https://freedomcenter.org/visit/accessibility/"
+ },
  "new-riff-distilling.chronic.1": {
   "url": "https://newriffdistilling.com/experiences/bonded-tour/",
   "quote": "45 - 60 minutes Tue: 12pm, 2pm Wed-Fri: 12pm, 2pm, 4pm Sat: 12pm, 2pm, 3pm, 4pm, 5:30pm Sun: 12pm, 2pm, 3pm 24 Distillery Way Newport KY 41073",
@@ -3085,6 +3645,52 @@
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
   "quote": "Types of Accommodations Changes in Rules and/or Policies Assistance with ADLs (activities of daily living) Architectural Changes Adaptive Equipment Increased Supervision Behavior Supports Specialized Training for Staff Boardmaker Tools for Communication",
   "verified_at": "2026-11-12"
+ },
+ "proudworks-transportation.cognitive.1": {
+  "url": "https://www.proudworks.org/transportation/",
+  "quote": "Transportation Services are available to individuals in Northern Kentucky with a valid Kentucky Medicaid card traveling to approved destinations, including employment, day programs, and medical appointments.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "26bbd0e34badf2bfe19f9b96651d1a7ef181dc8455c5a150da59c3dfec9b70b3",
+  "source_sha256": "b873d955e9f6b77f2aad80038e216b5471589a4526654408e250bd272f0c0208",
+  "final_url": "https://www.proudworks.org/transportation/"
+ },
+ "proudworks-transportation.cognitive.2": {
+  "url": "https://www.proudworks.org/transportation/",
+  "quote": "Non-Emergency Medical Transportation (NEMT), self-pay, and other options may also be available. Contact us for details.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "78a089276257e661c7ffd75ce6d431e15456a819aea2f2beb6dc3789212c9be9",
+  "source_sha256": "b873d955e9f6b77f2aad80038e216b5471589a4526654408e250bd272f0c0208",
+  "final_url": "https://www.proudworks.org/transportation/"
+ },
+ "proudworks-transportation.cognitive.3": {
+  "url": "https://www.proudworks.org/transportation/",
+  "quote": "Proudworks provides Transportation services to & from: Community Employment Adult Day Training (ADT) programs-organizations Social, Recreational, Respite, and Day Programs Medical Appointments (Non-Emergency) Community Activities",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Transportation Services are available to individuals in Northern Kentucky with a valid Kentucky Medicaid card traveling to approved destinations, including employment, day programs, and medical appointments."
+  ],
+  "claim_sha256": "42109763040982a717c90300f3af86302a5fbc82e2e43befbbd148e8f80729fc",
+  "source_sha256": "b873d955e9f6b77f2aad80038e216b5471589a4526654408e250bd272f0c0208",
+  "final_url": "https://www.proudworks.org/transportation/"
+ },
+ "proudworks-transportation.cognitive.4": {
+  "url": "https://www.proudworks.org/contact/",
+  "quote": "Get in touch Monday - Friday 8:00AM - 4:00PM 7970 Kentucky Drive, Florence, KY 41042 859-371-4410",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Transportation@proudworks.org"
+  ],
+  "claim_sha256": "68be4f6cd36a1c28c93d989a440ae957d6f58cb536a377cef36deff8e1552586",
+  "source_sha256": "9e40123f4f7ee4a3b85a8afba8ee7f3f06e93eea17395586f356f54cb06fd151",
+  "final_url": "https://www.proudworks.org/contact/"
+ },
+ "proudworks-transportation.mobility.1": {
+  "url": "https://www.proudworks.org/services/",
+  "quote": "Proudworks’ Transportation Services provide access from home or residential settings to programs and employment sites for Medicaid Waiver consumers in six counties throughout Northern Kentucky.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "4814b2e062ae0b502ba63d694eb57386ed10881ad9e6023920eaa3401147adfd",
+  "source_sha256": "13458ac17847e1ce89ae4466cb1417d8aa495aa944d5cae70178deaaa3c874b4",
+  "final_url": "https://www.proudworks.org/services/"
  },
  "publix-farmview-commons.chronic.1": {
   "url": "https://www.publix.com/faq/instacart",
@@ -4098,6 +4704,91 @@
   "url": "https://www.uc.edu/campus-life/campus-rec/membership/rates/students/first-visit.html",
   "quote": "Campus Rec gets busiest from 5–9 p.m. If you like plenty of space to do your thing, hit up an early morning workout, swing by at lunch, or check us out on the weekends.",
   "verified_at": "2026-11-12"
+ },
+ "vent-haven-museum.chronic.1": {
+  "url": "https://www.venthaven.org/frequently-asked-questions",
+  "quote": "bathrooms are also accessible.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "Food, drink, and strollers are not permitted in the museum galleries."
+  ],
+  "claim_sha256": "b6de2b770d5cdd4708d2d9093f3aec6a766b9b0bd2c95dfdd4b7c36b65d05cb9",
+  "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe",
+  "final_url": "https://www.venthaven.org/frequently-asked-questions"
+ },
+ "vent-haven-museum.cognitive.1": {
+  "url": "https://www.venthaven.org/frequently-asked-questions",
+  "quote": "All tours are by appointment only from May through September and must be scheduled in advance.",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "The museum is open by appointment only with the exception of announced events. The museum is typically not open on holidays.",
+   "All tours are guided and last approximately 60 to 90 minutes, depending on the interest of the visitor.",
+   "5. I don't want to schedule a full, guided tour. Can I just take a quick peek into the museum? Due to the nature of the museum, this is not a possibility.",
+   "6. I know that you're closed during the off season, but that's the only time I'll be in town. Is it possible to schedule a tour anyway? Sadly, no. During the off season, the buildings are not prepared for tourists. Maintenance inside of the buildings is ongoing during this time, and exhibits are being rotated on and off display."
+  ],
+  "claim_sha256": "3a514f86c25630acc6a7d8957595174ada57bf41e74f6ee203317b5fe7088627",
+  "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe",
+  "final_url": "https://www.venthaven.org/frequently-asked-questions"
+ },
+ "vent-haven-museum.cognitive.2": {
+  "url": "https://www.venthaven.org/schedule-a-tour",
+  "quote": "Vent Haven Museum is open May 1 through September 30 by appointment only. We are currently closed for the season . Tickets for the 2027 season will be available for purchase starting in February of 2027.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "ec21115cea096b68419102a88f0e3ee91041504f490a3b734e712cd81fd1798a",
+  "source_sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27",
+  "final_url": "https://www.venthaven.org/schedule-a-tour"
+ },
+ "vent-haven-museum.cognitive.3": {
+  "url": "https://www.venthaven.org/schedule-a-tour",
+  "quote": "Standard tours are limited to a maximum of 10 guests, but groups from 11 to 60 can be accommodated with special arrangement",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "2f4787b9eb612a5936240f39c18186d33df910c3607abed642bf9fbf0554a4ac",
+  "source_sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27",
+  "final_url": "https://www.venthaven.org/schedule-a-tour"
+ },
+ "vent-haven-museum.mobility.1": {
+  "url": "https://www.venthaven.org/frequently-asked-questions",
+  "quote": "There is an accessible parking space near the entrance of the museum. All openings and doorways in public areas accommodate a standard wheelchair, and all public areas are on a single level with no steps or ramps.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "c6679fb50dad3dc2b78a3b5bc46f6f1fd7a361288a7d408e7fa10de071d3f94a",
+  "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe",
+  "final_url": "https://www.venthaven.org/frequently-asked-questions"
+ },
+ "vent-haven-museum.mobility.2": {
+  "url": "https://www.venthaven.org/frequently-asked-questions",
+  "quote": "Seats within the theater can be removed as needed to accommodate wheelchairs",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "c6acbfbb6d9c02208b6e98dad205eabea189564cce8d5038e7ce5e9cb880a324",
+  "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe",
+  "final_url": "https://www.venthaven.org/frequently-asked-questions"
+ },
+ "vent-haven-museum.mobility.3": {
+  "url": "https://www.venthaven.org/frequently-asked-questions",
+  "quote": "Food, drink, and strollers are not permitted in the museum galleries.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "e0921a244cd9059cf4942fb00363e4aa1a0d3469efccc872d78e4ab37f2871c4",
+  "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe",
+  "final_url": "https://www.venthaven.org/frequently-asked-questions"
+ },
+ "vent-haven-museum.mobility.4": {
+  "url": "https://www.venthaven.org/directions",
+  "quote": "If you have an appointment for a tour, feel free to pull into the driveway.",
+  "verified_at": "2026-11-12",
+  "claim_sha256": "f98bdbd6e77231f4561c274b507a768e6de99fe876e179248d02f9e57a8108fe",
+  "source_sha256": "e31e98840ea26b39529b1c54e00bd3271edbc854ea86ff72f1e59e1e9059e54c",
+  "final_url": "https://www.venthaven.org/directions"
+ },
+ "vent-haven-museum.sensory.1": {
+  "url": "https://www.venthaven.org/schedule-a-tour",
+  "quote": "Standard tours are limited to a maximum of 10 guests",
+  "verified_at": "2026-11-12",
+  "additional_quotes": [
+   "There are limited hands-on opportunities at the museum.",
+   "You can also contact the curator at curator@venthaven.org or by calling (859) 341-0461."
+  ],
+  "claim_sha256": "f08008206dbe8dc00384bd7e1e574f15a880d0d590eceea4d51faefb1dc0af52",
+  "source_sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27",
+  "final_url": "https://www.venthaven.org/schedule-a-tour"
  },
  "walmart-supercenter-fort-wright.cognitive.1": {
   "url": "https://www.walmart.com/store/2967-ft-wright-ky",

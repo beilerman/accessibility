@@ -1,0 +1,76 @@
+[
+ {
+  "slug": "freestore-foodbank-liberty-street-market",
+  "name": "Freestore Foodbank — Liberty Street Market",
+  "address_url": "https://freestorefoodbank.org/liberty-street-market/",
+  "address_quote": "CONTACT Liberty Street Market 112 E Liberty Street Cincinnati, OH 45202",
+  "facts": [
+   {
+    "domain": "chronic",
+    "text": "Liberty Street Market is a choice pantry: customers select groceries from what is available to meet their household’s needs. This does not guarantee a particular food or an allergy-safe selection.",
+    "url": "https://freestorefoodbank.org/liberty-street-market/",
+    "quote": "Through our Customer Connection Center’s Liberty Street Market located at 112 E. Liberty Street in Over-the-Rhine, Cincinnati, Freestore Foodbank offers a choice pantry, much like a regular grocery store, to those in need. This means that families struggling to find vital nutrition can select the items that fit the needs of their family, giving them one less thing to worry about as they work to make ends meet.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The market asks visitors to bring picture ID and household verification, listing an address, birth certificate or medical card as examples.",
+    "url": "https://freestorefoodbank.org/liberty-street-market/",
+    "quote": "WHAT TO BRING Picture ID Household Verification (Address, Birth Certificate, or Medical Card)",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The market lists Monday–Friday hours of 8 a.m.–4 p.m., with weekends closed. Choice shopping ends 30 minutes before closing; its page asks visitors who miss that cutoff to return the next business day.",
+    "url": "https://freestorefoodbank.org/liberty-street-market/",
+    "quote": "HOURS OF OPERATION Monday – 8:00 am – 4:00 pm Tuesday – 8:00 am – 4:00 pm Wednesday – 8:00 am – 4:00 pm Thursday – 8:00 am – 4:00 pm Friday – 8:00 am – 4:00 pm Saturday – CLOSED Sunday – CLOSED Choice shopping is available until thirty (30) minutes before posted closing time. If you miss the time, please return the next business day.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f"
+   },
+   {
+    "domain": "chronic",
+    "text": "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. The market says protein items are reserved for customers using choice shopping; confirm meal-box arrangements before relying on them.",
+    "url": "https://freestorefoodbank.org/liberty-street-market/",
+    "quote": "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. Protein items are exclusive to customers utilizing the choice shopping experience.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f"
+   },
+   {
+    "domain": "mobility",
+    "text": "At the same 112 E. Liberty Street Customer Connection Center, Freestore Foodbank offers bus passes with transfers, including Ohio and Kentucky, for medical appointments, job searches or the first two weeks of a new job. Proof of the appointment, employment or interview is required.",
+    "url": "https://freestorefoodbank.org/transportation-assistance/",
+    "quote": "For those needing assistance with medical or work related transportation, we offer assistance. At our Customer Connection Center located at 112 E. Liberty Street in Over-the-Rhine, Cincinnati, we can provide bus passes to help families attend doctor’s appointments, search for employment or travel to a new job for the first two weeks. Bus passes with transfers, including Ohio and Kentucky, are made available with proof of appointment, employment or interview.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "05a1f40fa1c92faa4f4c75867be6d2a090c01a45d6e93d27553ad9eb1fd408e4"
+   },
+   {
+    "domain": "cognitive",
+    "text": "For bus passes connected with new employment, Freestore Foodbank requires verification on company letterhead including the hire date, start date and date of the first paycheck.",
+    "url": "https://freestorefoodbank.org/transportation-assistance/",
+    "quote": "Bus passes are provided for new employment with verification on company letterhead that includes hire date, start date, and date of first paycheck.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "05a1f40fa1c92faa4f4c75867be6d2a090c01a45d6e93d27553ad9eb1fd408e4"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The market’s contact block lists 513-357-4600; its emergency-food information directs questions to the Customer Connection Center at 513-241-1064.",
+    "url": "https://freestorefoodbank.org/liberty-street-market/",
+    "quote": [
+     "Please call our Customer Connection Center at (513) 241-1064 or visit us for more information on emergency food assistance.",
+     "CONTACT Liberty Street Market 112 E Liberty Street Cincinnati, OH 45202 513-357-4600"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "9565b4ad9ae05271ccf6bfeb2385856c77ddc679f5d5c237f8341cc9fc4e5f7f"
+   }
+  ]
+ }
+]

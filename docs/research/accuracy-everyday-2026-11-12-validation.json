@@ -1,0 +1,78 @@
+{
+  "base_commit": "5d67cc096a63274257134dd539ff57aab778365a",
+  "date": "2026-11-12",
+  "new_venues": [
+    "freestore-foodbank-liberty-street-market",
+    "proudworks-transportation"
+  ],
+  "new_notes": 35,
+  "existing_venue_full_reviews": [
+    "cincinnati-metro-and-access-paratransit",
+    "cincinnati-museum-center",
+    "national-underground-railroad-freedom-center",
+    "vent-haven-museum"
+  ],
+  "partial_reviews": [],
+  "old_notes_reviewed": 41,
+  "old_notes_confirmed": 34,
+  "old_notes_revised": 7,
+  "newly_backfilled_old_notes": 39,
+  "unquoted_before": 401,
+  "unquoted_after": 362,
+  "totals": {
+    "venues": 142,
+    "active_notes": 1252,
+    "retired_notes": 1,
+    "quoted_active_notes": 890,
+    "access_photos": 41,
+    "guide_entries": 21,
+    "distinct_guide_documents": 17
+  },
+  "evidence": {
+    "note_and_address_checks": 78,
+    "distinct_fact_sources": 21,
+    "all_passed": true,
+    "source_baselines": 21
+  },
+  "preservation": {
+    "unrelated_places": true,
+    "old_ids_and_history_prefixes": true,
+    "old_venue_order": true,
+    "prior_media": true,
+    "unselected_source_snapshot_and_findings": true,
+    "unrelated_quotes": true
+  },
+  "validation": {
+    "typecheck": "passed",
+    "lint": "passed",
+    "unit_tests": 88,
+    "pipeline_tests": 70,
+    "production_build": "passed",
+    "http_checks": 101,
+    "browser_tests_listed": 128,
+    "browser_test_passes": 0,
+    "browser_attempt": "One of five selected tests failed before navigation: Chromium Mach-port permission denied 1100; four did not run. Separate CUA browser access host unavailable. Runner host browser validation required.",
+    "nonfatal_build_warning": "Atkinson Hyperlegible Next fallback font metrics unavailable",
+    "resolved_local_validation_issues": [
+      "Python tests initially raced the source baseline write; rerun passed after it completed.",
+      "Unknown photo date initially used null; changed to the existing optional-field convention, with Photo date unknown display verified."
+    ],
+    "research_json_parse": "passed",
+    "photo_provenance_counts_and_hashes": "passed",
+    "commands": [
+      "npx tsc --noEmit",
+      "npm run lint",
+      "npm test",
+      "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline -p 'test_*.py'",
+      "npm run build"
+    ]
+  },
+  "operations": {
+    "git_writes": false,
+    "deployments": 0,
+    "private_correspondence_read": false,
+    "database_changes": false
+  },
+  "new_licensed_photos": 3,
+  "new_official_guides": 2
+}

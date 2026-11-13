@@ -5,6 +5,11 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/proudworks-transportation",
+  "/venues/freestore-foodbank-liberty-street-market",
+  "/venues/cincinnati-metro-and-access-paratransit",
+  "/venues/national-underground-railroad-freedom-center",
+  "/venues/vent-haven-museum",
   "/venues/new-riff-distilling",
   "/venues/braxton-brewing-covington",
   "/venues/riverside-mainstrasse-village-food-tour",

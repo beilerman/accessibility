@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-12",
+  "status": "unresolved research leads, not source-checked public facts",
+  "findings": [
+    {
+      "subject": "R.C. Durr YMCA indoor pool",
+      "sources": [
+        {
+          "url": "https://myy.org/location/rc-durr-ymca/",
+          "status": 200,
+          "final_url": "https://myy.org/location/rc-durr-ymca/",
+          "sha256": "3d9a8ae5c226979907edee10624c27d8989a9e2ca268bae1c60037f7263f7e17"
+        },
+        {
+          "url": "https://rcdurr.myy.org/",
+          "status": 200,
+          "final_url": "https://rcdurr.myy.org/",
+          "sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118"
+        }
+      ],
+      "issue": "Main branch page says Closed, Opens Sept 8 without a year; promotional subdomain says year-round indoor swimming. No current reopening receipt or lift/changing procedure established.",
+      "decision": "No listing or photo imported. Seek dated current operational notice and location-specific access evidence."
+    },
+    {
+      "subject": "Museum Center ECV charge",
+      "sources": [
+        {
+          "url": "https://www.cincymuseum.org/visit/",
+          "status": 200
+        }
+      ],
+      "issue": "Current Stroller & Mobility Rentals says $27; Wheelchair & ECV Rental says $29. The 2023 photo guide has older prices.",
+      "decision": "Both current page amounts retained publicly; no preferred amount selected. Confirm with publisher."
+    },
+    {
+      "subject": "Metro regional mobility guide",
+      "sources": [
+        {
+          "url": "https://www.go-metro.com/riding-metro/rider-guide/",
+          "status": 200
+        },
+        {
+          "url": "https://www.ezconnect.org/regionalmobilityguide",
+          "status": 200
+        }
+      ],
+      "issue": "Metro currently links to this regional guide page. The target returned a site shell; no guide document, PDF or access photographs were recovered by extraction.",
+      "decision": "Unresolved. Do not claim the guide reviewed or add it to access-guides until the actual document is recovered and visually inspected."
+    },
+    {
+      "subject": "Metro historical holiday schedule",
+      "sources": [
+        {
+          "url": "https://www.go-metro.com/riding-metro/rider-guide/",
+          "status": 200
+        }
+      ],
+      "quote": "Metro operates on a variety of schedules on and around the holidays. Here is a breakdown for 2023:",
+      "issue": "Year 2023 is explicit despite the current fetch.",
+      "decision": "Not imported as 2026 holiday service. Seek current dated service announcements."
+    },
+    {
+      "subject": "Legacy BAWAC URL and Proudworks program scope",
+      "sources": [
+        {
+          "url": "https://bawac.org/transportation/",
+          "status": 200,
+          "final_url": "https://www.proudworks.org/",
+          "sha256": "a85f3679092f861d6aff9f5b97c19065f82ec7292792c8e598208997e4f52ab6"
+        },
+        {
+          "url": "https://www.proudworks.org/services/",
+          "status": 200
+        },
+        {
+          "url": "https://www.proudworks.org/transportation/",
+          "status": 200
+        }
+      ],
+      "issue": "Legacy transport URL redirects to homepage. Current service overview specifies six counties for Medicaid Waiver consumers; organization-wide report scope is broader.",
+      "decision": "Current two-page program wording preserved separately. Names of six counties, booking lead times and vehicle/assistance details remain unknown."
+    }
+  ]
+}

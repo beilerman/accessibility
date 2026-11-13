@@ -1,0 +1,106 @@
+{
+  "cincinnati-metro-and-access-paratransit": [
+    [
+      "cognitive",
+      "Metro says Access applications are no longer accepted by mail or fax. After submitting an application, call 513-632-7586 to schedule the in-person assessment.",
+      "https://www.go-metro.com/access-paratransit/",
+      "venue_official",
+      "Access requires an eligibility application submitted, describing your disability or condition that prevents you from utilizing the fixed route service. Access no longer accepts applications by mail or fax. Applications are available in digital format or downloadable PDF. Your disability or condition must meet ADA requirements for certification. After submitting their application, applicants must call 513-632-7586 to schedule an in-person transportation skills assessment."
+    ],
+    [
+      "mobility",
+      "Access assessments take place at 7000 Montgomery Road in Silverton. Bring any mobility aid you require; a complete application and valid photo ID are also required, or the assessment must be rescheduled.",
+      "https://www.go-metro.com/access-paratransit/",
+      "venue_official",
+      [
+        "The application process includes an in-person functional skills assessment and interview. Assessments are conducted at 7000 Montgomery Road Silverton, OH 45236.",
+        "If an applicant requires the use of a mobility aid, the mobility aid must be brought to their functional skills assessment.",
+        "The assessment will not be processed without both a complete ADA Transportation Application and a valid photo ID. Applicants will need to reschedule their assessment appointment if they are unable to provide both items at the time of their appointment."
+      ]
+    ],
+    [
+      "chronic",
+      "Access drivers cannot enter your home, clear snow or objects from the approach, lock or unlock house doors, load or unload personal items, or carry groceries and packages.",
+      "https://www.go-metro.com/access-paratransit/",
+      "venue_official",
+      [
+        "Drivers cannot enter your home.",
+        "Access’s goal is to accommodate all Paratransit riders. However, drivers are not allowed to:",
+        "Clear snow, ice or other objects from your steps, driveway or walkway. Lock or unlock house doors. Load or unload personal items. Carry groceries and packages."
+      ]
+    ],
+    [
+      "mobility",
+      "Metro says Access cannot serve a pickup or destination where its vehicle cannot maneuver safely. An alternative pickup address may be arranged; this is not a guarantee that a particular address can be served.",
+      "https://www.go-metro.com/access-paratransit/",
+      "venue_official",
+      "If it is determined that a location you would like to travel to or from is not safe to maneuver in one of our paratransit vehicles, we will not be able to serve that location (e.g. dangerous double parking, required backing of the vehicle, low hanging branches, not safe area to board the vehicle, etc.). Arrangements may be made for an alternative pick-up address that is safer."
+    ],
+    [
+      "chronic",
+      "Check the destination’s opening time before reserving Access: the driver cannot wait with you if it is closed when you arrive.",
+      "https://www.go-metro.com/access-paratransit/",
+      "venue_official",
+      "Be aware of the opening and closing times of your destination to avoid waiting outside. If your destination is closed at the time you arrive, the Paratransit driver cannot wait with you until it opens."
+    ]
+  ],
+  "national-underground-railroad-freedom-center": [
+    [
+      "mobility",
+      "The museum identifies its main entrance on the first floor, facing the riverfront on East Freedom Way.",
+      "https://freedomcenter.org/visit/accessibility/",
+      "venue_official",
+      "Main museum entrance is located on the first floor, facing the riverfront on East Freedom Way."
+    ],
+    [
+      "mobility",
+      "The museum’s October 2023 Visual Welcome Guide directs visitors to park in the garage’s green section, take the elevator to Plaza Level (PL) and follow signs to the main entrance. Confirm the current route and elevator operation before travel.",
+      "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+      "venue_official",
+      [
+        "Park in the green section. Ride the elevators up to Plaza Level (PL).",
+        "Follow the signs to the main entrance of the museum."
+      ]
+    ],
+    [
+      "mobility",
+      "The October 2023 Visual Welcome Guide identifies an entry door to the right of the revolving doors and shows a black control box that visitors wave a hand across to open the doors. The guide does not establish today’s door operation.",
+      "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+      "venue_official",
+      [
+        "Our handicap accessible entry door is located to the right of the revolving doors.",
+        "Wave your hand across the black box to open the doors automatically."
+      ]
+    ],
+    [
+      "chronic",
+      "Under its information for parents with young children, the museum says restrooms have changing stations and nursing is welcome. The source does not specify adult changing equipment.",
+      "https://freedomcenter.org/visit/accessibility/",
+      "venue_official",
+      "Parents with Young Children Our restrooms are equipped with changing stations and nursing is welcome at the museum."
+    ],
+    [
+      "cognitive",
+      "The museum’s visitor page says on-site ticket sales are card only; cash ticket sales are not available.",
+      "https://freedomcenter.org/visit/plan-your-visit/",
+      "venue_official",
+      "Tickets sales are card only (cash sales not available on-site)."
+    ]
+  ],
+  "vent-haven-museum": [
+    [
+      "cognitive",
+      "As checked November 12, 2026, the booking page says the museum is closed for the season and tickets for the 2027 season will be available starting in February 2027. It lists the regular visiting season as May 1 through September 30, by appointment.",
+      "https://www.venthaven.org/schedule-a-tour",
+      "venue_official",
+      "Vent Haven Museum is open May 1 through September 30 by appointment only. We are currently closed for the season . Tickets for the 2027 season will be available for purchase starting in February of 2027."
+    ],
+    [
+      "cognitive",
+      "Vent Haven says groups of 11 to 60 guests can be accommodated by special arrangement; standard tours have a maximum of 10.",
+      "https://www.venthaven.org/schedule-a-tour",
+      "venue_official",
+      "Standard tours are limited to a maximum of 10 guests, but groups from 11 to 60 can be accommodated with special arrangement"
+    ]
+  ]
+}

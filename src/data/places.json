@@ -2654,7 +2654,7 @@
     "category": "Transportation",
     "website": "https://www.go-metro.com/",
     "source_url": "https://www.go-metro.com/accessibility",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -2662,7 +2662,7 @@
         "source_url": "https://www.go-metro.com/accessibility",
         "id": "cincinnati-metro-and-access-paratransit.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2671,6 +2671,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2680,7 +2685,7 @@
         "source_url": "https://www.go-metro.com/accessibility",
         "id": "cincinnati-metro-and-access-paratransit.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2689,6 +2694,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2698,7 +2708,7 @@
         "source_url": "https://www.go-metro.com/access",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2707,6 +2717,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2716,7 +2731,7 @@
         "source_url": "https://www.go-metro.com/access",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2725,6 +2740,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2734,7 +2754,7 @@
         "source_url": "https://www.go-metro.com/access",
         "id": "cincinnati-metro-and-access-paratransit.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2743,6 +2763,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2752,7 +2777,7 @@
         "source_url": "https://www.go-metro.com/fares-passes/fare-deal-program/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2761,6 +2786,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2770,7 +2800,7 @@
         "source_url": "https://www.go-metro.com/fares-passes/fare-information/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2779,6 +2809,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2788,7 +2823,7 @@
         "source_url": "https://www.go-metro.com/accessibility/",
         "id": "cincinnati-metro-and-access-paratransit.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2797,22 +2832,73 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Access provides free transportation to the functional skills assessment. Book Access trips with Customer Care at 513-531-8888 or in the MyAccess app.",
+        "text": "Access offers free transportation to the functional skills assessment from locations within its service area. Book Access trips with Customer Care at 513-531-8888 or in the MyAccess app.",
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Corrected the omitted service-area condition on free transportation to the eligibility assessment; retained phone and app booking evidence."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Metro says visitors certified for paratransit in their hometown may qualify for temporary Access service, limited to 21 days. Contact eligibility at 513-632-7586 as far ahead as possible and provide current home-agency eligibility; Metro says more than 21 service days in a calendar year require its full application process.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Expanded the visitor-service note with the operator’s advance-contact, documentation and 21-day conditions; this summarizes Metro’s published policy, not an independent legal interpretation."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Metro says Access applications are no longer accepted by mail or fax. After submitting an application, call 513-632-7586 to schedule the in-person assessment.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -2820,17 +2906,107 @@
       },
       {
         "domain": "mobility",
-        "text": "Visitors certified for paratransit in their hometown may be eligible for temporary Access service.",
+        "text": "Access assessments take place at 7000 Montgomery Road in Silverton. Bring any mobility aid you require; a complete application and valid photo ID are also required, or the assessment must be rescheduled.",
         "source_url": "https://www.go-metro.com/access-paratransit/",
-        "id": "cincinnati-metro-and-access-paratransit.mobility.3",
+        "id": "cincinnati-metro-and-access-paratransit.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Access drivers cannot enter your home, clear snow or objects from the approach, lock or unlock house doors, load or unload personal items, or carry groceries and packages.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Metro says Access cannot serve a pickup or destination where its vehicle cannot maneuver safely. An alternative pickup address may be arranged; this is not a guarantee that a particular address can be served.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Check the destination’s opening time before reserving Access: the driver cannot wait with you if it is closed when you arrive.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Metro says Access drivers help riders on and off the vehicle lift or steps, secure wheelchairs or scooters and fasten seatbelts. This boarding assistance does not include lifting a rider into or out of their mobility device.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For an Access reservation, have your name or ID, travel date, pickup and destination addresses, required arrival time and return pickup time ready. Tell the receptionist about any companion or personal care attendant and special driver instructions.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -2850,7 +3026,7 @@
     "address": "1301 Western Avenue, Cincinnati, OH 45203",
     "website": "https://www.cincymuseum.org/",
     "source_url": "https://www.cincymuseum.org/visit/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -2858,7 +3034,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2872,6 +3048,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2881,7 +3062,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2895,6 +3076,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2904,7 +3090,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2918,6 +3104,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2927,7 +3118,7 @@
         "source_url": "https://www.cincymuseum.org/visit/",
         "id": "cincinnati-museum-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2941,6 +3132,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2950,7 +3146,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2959,6 +3155,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2968,7 +3169,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2977,6 +3178,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2986,7 +3192,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2995,6 +3201,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3004,7 +3215,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3013,6 +3224,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3022,7 +3238,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3031,6 +3247,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3040,7 +3261,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.sensory.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3049,6 +3270,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3058,7 +3284,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3067,16 +3293,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "A caregiver visiting to support a person with a disability can get a free Museum Admission ticket.",
+        "text": "A caregiver visiting to support a person with a disability can receive a free Museum Admission ticket at the box office. The museum says caregivers still pay for OMNIMAX and featured exhibits.",
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3085,6 +3316,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Restored the box-office collection requirement and the explicit exclusion of OMNIMAX and featured exhibits from the free caregiver ticket."
           }
         ]
       },
@@ -3094,7 +3330,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3103,6 +3339,11 @@
             "date": "2026-11-10",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3112,7 +3353,7 @@
         "source_url": "https://www.cincymuseum.org/accessibility/",
         "id": "cincinnati-museum-center.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3121,11 +3362,178 @@
             "date": "2026-11-10",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The museum lists 20 parking spaces for vehicles with registered disability decals, first come, first served. For help entering the building, call Public Safety at 513-287-7048 at least 24 hours ahead to arrange assistance.",
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "On entering the front doors, the Express Elevator is to the right and serves the lower level. The East Elevator is to the left and serves Mezzanine A, Mezzanine B and the lower level.",
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "An elevator just before the restrooms on the south side of the Rotunda goes to the mezzanine for the Holocaust & Humanity Center and Cincinnati History Library & Archives.",
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.mobility.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "An elevator just past the OMNIMAX entrance goes to the second floor north for visitors who cannot use the theater stairs.",
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.mobility.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The museum describes the Public Safety quiet zone in the Rotunda as a shared space. It lists private nursing rooms by Fountain Gallery on the mezzanine and on The Avenue on the lower level.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.sensory.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Return equipment borrowed from a quiet zone to its original location or any ticket booth before leaving; the museum says visitors can keep used fidgets.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The accessibility page describes manual-flush toilets and paper-towel dispensers in restrooms and notes that a few also have air hand dryers.",
+        "source_url": "https://www.cincymuseum.org/accessibility/",
+        "id": "cincinnati-museum-center.sensory.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The visitor page gives two ECV rental prices: $27 under Stroller & Mobility Rentals and $29 under Wheelchair & Electric Convenience Vehicle Rental. Confirm the current charge with the box office.",
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.mobility.9",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum lists 10 a.m.–2 p.m. hours on November 25 and December 24, 2026, and says it is closed on Thanksgiving Day and Christmas Day. Its usual daily hours are 10 a.m.–5 p.m.",
+        "source_url": "https://www.cincymuseum.org/visit/",
+        "id": "cincinnati-museum-center.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Rentals require an adult renter, agreement and retained ID or credit card; availability is not guaranteed. Request entry assistance at least 24 hours ahead.",
+    "limitations": "Public website information; no on-site audit. Rentals require an adult renter, agreement and retained ID or credit card; availability is not guaranteed. Request entry assistance at least 24 hours ahead. The visitor page quotes both $27 and $29 for ECV rental; confirm the current charge. The 2023 photo guide contains older prices and cafe names. Elevator operation, transfer assistance and changing-table setup were not observed.",
     "slug": "cincinnati-museum-center",
     "evidence_type": "public_website",
     "observed_at": null
@@ -7769,7 +8177,7 @@
     "address": "50 East Freedom Way, Cincinnati, OH 45202",
     "website": "https://freedomcenter.org/",
     "source_url": "https://freedomcenter.org/visit/accessibility/",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -7777,7 +8185,7 @@
         "source_url": "https://freedomcenter.org/visit/accessibility/",
         "id": "national-underground-railroad-freedom-center.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7791,6 +8199,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -7800,7 +8213,7 @@
         "source_url": "https://freedomcenter.org/visit/accessibility/",
         "id": "national-underground-railroad-freedom-center.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7814,6 +8227,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -7823,7 +8241,7 @@
         "source_url": "https://freedomcenter.org/visit/accessibility/",
         "id": "national-underground-railroad-freedom-center.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7837,17 +8255,22 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "The museum reports accessibility carts on the second and third floors with headphones, fidgets and sunglasses.",
+        "text": "In a February 15, 2025 article, the museum reported accessibility carts on the second and third floors with noise-reducing headphones, fidgets and sunglasses.",
         "source_url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
         "id": "national-underground-railroad-freedom-center.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
-        "published_at": null,
+        "retrieved_at": "2026-11-12",
+        "published_at": "2025-02-15",
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
@@ -7860,6 +8283,11 @@
             "date": "2026-11-08",
             "action": "rechecked",
             "note": "Re-read the live source; the summary still matches."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Made the dated news-source scope explicit and retained evidence for both cart locations and each listed tool; current stock was not observed."
           }
         ]
       },
@@ -7869,7 +8297,7 @@
         "source_url": "https://freedomcenter.org/visit/accessibility/",
         "id": "national-underground-railroad-freedom-center.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7878,16 +8306,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The public Central Riverfront Garage below the museum is fully accessible by elevator.",
+        "text": "The museum recommends the 182 Race Street entrance to the public Central Riverfront Parking Garage below it and describes the garage as accessible via elevators.",
         "source_url": "https://freedomcenter.org/visit/parking/",
         "id": "national-underground-railroad-freedom-center.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7896,6 +8329,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Attributed the garage access description to the museum instead of presenting a broad access verdict; added the recommended garage entrance."
           }
         ]
       },
@@ -7905,7 +8343,7 @@
         "source_url": "https://freedomcenter.org/visit/accessibility/",
         "id": "national-underground-railroad-freedom-center.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7914,6 +8352,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -7923,7 +8366,7 @@
         "source_url": "https://freedomcenter.org/visit/plan-your-visit/",
         "id": "national-underground-railroad-freedom-center.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7932,16 +8375,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "Self-guided audio tours play on your own phone, so bring headphones.",
+        "text": "The museum offers audio tours on visitors’ own mobile devices and asks them to bring headphones.",
         "source_url": "https://freedomcenter.org/visit/accessibility/",
         "id": "national-underground-railroad-freedom-center.sensory.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7950,6 +8398,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Removed the unsupported self-guided characterization; the current source establishes mobile-device audio tours and the request to bring headphones."
           }
         ]
       },
@@ -7959,7 +8412,7 @@
         "source_url": "https://freedomcenter.org/visit/accessibility/",
         "id": "national-underground-railroad-freedom-center.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -7968,11 +8421,106 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The museum identifies its main entrance on the first floor, facing the riverfront on East Freedom Way.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The museum’s October 2023 Visual Welcome Guide directs visitors to park in the garage’s green section, take the elevator to Plaza Level (PL) and follow signs to the main entrance. Confirm the current route and elevator operation before travel.",
+        "source_url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+        "id": "national-underground-railroad-freedom-center.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The October 2023 Visual Welcome Guide identifies an entry door to the right of the revolving doors and shows a black control box that visitors wave a hand across to open the doors. The guide does not establish today’s door operation.",
+        "source_url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+        "id": "national-underground-railroad-freedom-center.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Under its information for parents with young children, the museum says restrooms have changing stations and nursing is welcome. The source does not specify adult changing equipment.",
+        "source_url": "https://freedomcenter.org/visit/accessibility/",
+        "id": "national-underground-railroad-freedom-center.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The museum’s visitor page says on-site ticket sales are card only; cash ticket sales are not available.",
+        "source_url": "https://freedomcenter.org/visit/plan-your-visit/",
+        "id": "national-underground-railroad-freedom-center.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Rentals cannot leave the museum; ECV rental has a fee and agreement requirements. Confirm equipment and accommodation availability.",
+    "limitations": "Public website information; no on-site audit. Rentals cannot leave the museum; ECV rental has a fee and agreement requirements. Confirm equipment and accommodation availability. The October 2023 arrival guide and March 2006 entrance photograph are historical; confirm current routes and door controls. Restroom changing stations do not establish adult-changing facilities.",
     "slug": "national-underground-railroad-freedom-center",
     "evidence_type": "public_website",
     "observed_at": null
@@ -11641,7 +12189,7 @@
     "address": "33 West Maple Avenue, Fort Mitchell, KY 41011",
     "website": "https://www.venthaven.org/",
     "source_url": "https://www.venthaven.org/frequently-asked-questions",
-    "checked_at": "2026-11-09",
+    "checked_at": "2026-11-12",
     "facts": [
       {
         "domain": "mobility",
@@ -11649,7 +12197,7 @@
         "source_url": "https://www.venthaven.org/frequently-asked-questions",
         "id": "vent-haven-museum.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11658,6 +12206,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11667,7 +12220,7 @@
         "source_url": "https://www.venthaven.org/frequently-asked-questions",
         "id": "vent-haven-museum.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11676,6 +12229,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11685,7 +12243,7 @@
         "source_url": "https://www.venthaven.org/frequently-asked-questions",
         "id": "vent-haven-museum.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11694,16 +12252,21 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "All visits are guided tours by appointment only, scheduled in advance, from May through September; tours last about 60 to 90 minutes and drop-in \"quick peeks\" are not offered.",
+        "text": "Regular guided tours are by advance appointment from May through September and last about 60 to 90 minutes. The FAQ allows separately announced events, says the museum is typically closed on holidays and does not offer drop-in quick peeks or off-season tours.",
         "source_url": "https://www.venthaven.org/frequently-asked-questions",
         "id": "vent-haven-museum.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11712,6 +12275,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "revised",
+            "note": "Qualified regular-tour rules to preserve the announced-event exception and added the explicit holiday and off-season restrictions."
           }
         ]
       },
@@ -11721,7 +12289,7 @@
         "source_url": "https://www.venthaven.org/frequently-asked-questions",
         "id": "vent-haven-museum.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-08",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11730,6 +12298,11 @@
             "date": "2026-11-08",
             "action": "added",
             "note": "Added in the November 2026 coverage expansion; the source states this directly."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11739,7 +12312,7 @@
         "source_url": "https://www.venthaven.org/directions",
         "id": "vent-haven-museum.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11748,6 +12321,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -11757,7 +12335,7 @@
         "source_url": "https://www.venthaven.org/schedule-a-tour",
         "id": "vent-haven-museum.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-12",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -11766,11 +12344,52 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "As checked November 12, 2026, the booking page says the museum is closed for the season and tickets for the 2027 season will be available starting in February 2027. It lists the regular visiting season as May 1 through September 30, by appointment.",
+        "source_url": "https://www.venthaven.org/schedule-a-tour",
+        "id": "vent-haven-museum.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Vent Haven says groups of 11 to 60 guests can be accommodated by special arrangement; standard tours have a maximum of 10.",
+        "source_url": "https://www.venthaven.org/schedule-a-tour",
+        "id": "vent-haven-museum.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Visits are by advance appointment only, so confirm the accessible parking space and any wheelchair seating needs in the theater when booking.",
+    "limitations": "Public website information; no on-site audit. Visits are by advance appointment only, so confirm the accessible parking space and any wheelchair seating needs in the theater when booking. As checked November 12, 2026, its booking page says it is closed for the season; 2027 ticket sales are planned from February. Bathroom layouts, clear widths and door controls remain unverified.",
     "slug": "vent-haven-museum",
     "evidence_type": "public_website",
     "observed_at": null
@@ -26604,6 +27223,254 @@
         "text": "The tour advertises a stop at the 40-foot German clock tower. This identifies a neighborhood landmark, not a current clock or chime operating schedule.",
         "source_url": "https://riversidefoodtours.com/product/mainstrasse-village-food-tour-covington-ky",
         "id": "riverside-mainstrasse-village-food-tour.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Freestore Foodbank — Liberty Street Market",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Public services",
+    "address": "112 E Liberty Street, Cincinnati, OH 45202",
+    "website": "https://freestorefoodbank.org/liberty-street-market/",
+    "source_url": "https://freestorefoodbank.org/liberty-street-market/",
+    "limitations": "Public website information; no on-site audit. These notes describe food selection, documentation, hours and transport assistance, not physical access. Entrance thresholds and door controls, parking-to-door routes, queue seating, toilets, quiet space and help carrying groceries remain unverified. Bus-pass assistance is purpose-specific and is not a door-to-door ride or guaranteed transport home from the market. Confirm current arrangements before travelling.",
+    "checked_at": "2026-11-12",
+    "slug": "freestore-foodbank-liberty-street-market",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "Liberty Street Market is a choice pantry: customers select groceries from what is available to meet their household’s needs. This does not guarantee a particular food or an allergy-safe selection.",
+        "source_url": "https://freestorefoodbank.org/liberty-street-market/",
+        "id": "freestore-foodbank-liberty-street-market.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The market asks visitors to bring picture ID and household verification, listing an address, birth certificate or medical card as examples.",
+        "source_url": "https://freestorefoodbank.org/liberty-street-market/",
+        "id": "freestore-foodbank-liberty-street-market.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The market lists Monday–Friday hours of 8 a.m.–4 p.m., with weekends closed. Choice shopping ends 30 minutes before closing; its page asks visitors who miss that cutoff to return the next business day.",
+        "source_url": "https://freestorefoodbank.org/liberty-street-market/",
+        "id": "freestore-foodbank-liberty-street-market.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Customers unable to shop during operating hours may receive a pre-packaged emergency meal box. The market says protein items are reserved for customers using choice shopping; confirm meal-box arrangements before relying on them.",
+        "source_url": "https://freestorefoodbank.org/liberty-street-market/",
+        "id": "freestore-foodbank-liberty-street-market.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "At the same 112 E. Liberty Street Customer Connection Center, Freestore Foodbank offers bus passes with transfers, including Ohio and Kentucky, for medical appointments, job searches or the first two weeks of a new job. Proof of the appointment, employment or interview is required.",
+        "source_url": "https://freestorefoodbank.org/transportation-assistance/",
+        "id": "freestore-foodbank-liberty-street-market.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For bus passes connected with new employment, Freestore Foodbank requires verification on company letterhead including the hire date, start date and date of the first paycheck.",
+        "source_url": "https://freestorefoodbank.org/transportation-assistance/",
+        "id": "freestore-foodbank-liberty-street-market.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The market’s contact block lists 513-357-4600; its emergency-food information directs questions to the Customer Connection Center at 513-241-1064.",
+        "source_url": "https://freestorefoodbank.org/liberty-street-market/",
+        "id": "freestore-foodbank-liberty-street-market.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Proudworks Transportation",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Transportation",
+    "address": "7970 Kentucky Drive, Florence, KY 41042",
+    "website": "https://www.proudworks.org/transportation/",
+    "source_url": "https://www.proudworks.org/transportation/",
+    "limitations": "Public website information; no on-site audit. The listed address is the provider’s contact address, not a confirmed boarding point. Medicaid-card and approved-destination conditions are published; funding and service arrangements must be confirmed. The services overview specifically describes Medicaid Waiver consumers in six counties; the transportation page gives broader wording and says other options may be available. Confirm the applicable program and coverage. Booking lead time, fares, vehicle/lift dimensions, wheelchair securement, transfer or door assistance, companions, service animals and accessible office facilities remain unverified.",
+    "checked_at": "2026-11-12",
+    "slug": "proudworks-transportation",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Proudworks says its transportation service is available to Northern Kentucky individuals with a valid Kentucky Medicaid card travelling to approved destinations, including employment, day programs and medical appointments. Confirm individual eligibility and the destination with the provider.",
+        "source_url": "https://www.proudworks.org/transportation/",
+        "id": "proudworks-transportation.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The transportation page says non-emergency medical transport, self-pay and other options may also be available; contact Proudworks for details rather than assuming a particular funding option or trip is approved.",
+        "source_url": "https://www.proudworks.org/transportation/",
+        "id": "proudworks-transportation.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The services overview describes travel from home or residential settings to programs and employment sites for Medicaid Waiver consumers in six Northern Kentucky counties. It does not name those counties or describe boarding and transfer assistance.",
+        "source_url": "https://www.proudworks.org/services/",
+        "id": "proudworks-transportation.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Proudworks lists community employment, adult day training, social/recreational/respite/day programs, non-emergency medical appointments and community activities among its trip purposes. The transportation page also limits service to approved destinations.",
+        "source_url": "https://www.proudworks.org/transportation/",
+        "id": "proudworks-transportation.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-12",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For transportation enquiries, the contact page lists Transportation@proudworks.org. Its general contact number is 859-371-4410 and contact hours are Monday–Friday, 8 a.m.–4 p.m.; these are not published ride-service hours.",
+        "source_url": "https://www.proudworks.org/contact/",
+        "id": "proudworks-transportation.cognitive.4",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-12",
         "published_at": null,

@@ -11,6 +11,28 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Northern Kentucky transport while retaining program approval and unknown boarding arrangements", () => {
+    const slug = "proudworks-transportation";
+    expect(findPlaces({ category: "Transportation", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("7970 Kentucky Drive, Florence, KY 41042");
+    expect(text(slug)).toContain("valid Kentucky Medicaid card");
+    expect(text(slug)).toContain("approved destinations");
+    expect(text(slug)).toContain("Medicaid Waiver consumers in six Northern Kentucky counties");
+    expect(place(slug).limitations).toContain("not a confirmed boarding point");
+    expect(place(slug).limitations).toContain("Booking lead time, fares, vehicle/lift dimensions");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("finds Liberty Street food assistance without implying physical access or unrestricted transport", () => {
+    const slug = "freestore-foodbank-liberty-street-market";
+    expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("112 E Liberty Street, Cincinnati, OH 45202");
+    expect(text(slug)).toContain("Choice shopping ends 30 minutes before closing");
+    expect(text(slug)).toContain("protein items are reserved for customers using choice shopping");
+    expect(text(slug)).toContain("first two weeks of a new job");
+    expect(place(slug).limitations).toContain("not a door-to-door ride or guaranteed transport home");
+    expect(place(slug).limitations).toContain("remain unverified");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("keeps museum preparation current without extending an older photo guide's admission claim", () => {
     const cac = place("contemporary-arts-center");
     const group = cac.facts.find((f) => f.id === "contemporary-arts-center.cognitive.2")!;

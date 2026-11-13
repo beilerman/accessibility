@@ -1,0 +1,446 @@
+[
+ {
+  "slug": "cincinnati-metro-and-access-paratransit",
+  "facts": [
+   {
+    "id": "cincinnati-metro-and-access-paratransit.mobility.1",
+    "text": "Metro says its fixed-route city buses are low-floor with a deployable boarding ramp, a kneeling feature, wheelchair securement locations and priority seating at the front.",
+    "url": "https://www.go-metro.com/accessibility",
+    "quote": "Low floor buses with a boarding ramp that can be deployed A kneeling feature that lowers the bus closer to the curb Wheelchair securement locations Priority seating at the front of the bus",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.sensory.1",
+    "text": "Metro says bus stop announcements on its fixed-route buses are both audible and visual.",
+    "url": "https://www.go-metro.com/accessibility",
+    "quote": "Bus stop announcements that are both audible and visual",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.cognitive.1",
+    "text": "Access is a shared-ride paratransit service for people whose disabilities prevent them from riding Metro buses; riders must apply and be approved first, which can take up to three weeks and includes an in-person functional skills assessment.",
+    "url": "https://www.go-metro.com/access",
+    "quote": [
+     "Access is a shared-ride public transportation service, providing origin-to-destination transportation services for individuals whose disabilities prevent them from riding Metro buses. To use Access, you must first apply and be approved for service, a process that can take up to three weeks.",
+     "The application process includes an in-person functional skills assessment and interview."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.cognitive.2",
+    "text": "Access operates only within 3/4 mile of regular (non-express) Metro service and during Metro's regular hours; trips are reserved by phone, and riders get a 30-minute pickup window with a 5-minute driver wait.",
+    "url": "https://www.go-metro.com/access",
+    "quote": [
+     "Hours of Operation: Same as Metro's Regular Service Hours Service Area: 3/4 mile of regular (non-express) Metro service Service Limitations: Service is not available beyond the designated service area or during hours when Metro's regular service is not operating.",
+     "Call Customer Care at 513-531-8888 to make a reservation.",
+     "After making your reservation you will be given a 30-minute “pickup window” and this is when the Access driver is scheduled to arrive. Be ready to travel at the beginning of your pickup window and make sure you are in an area where you can see or hear the bus when it arrives. The Access driver will wait 5 minutes. If you do not board within the 5-minute window, the bus will leave to pick up the next customer and you may be considered a no-show."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.chronic.1",
+    "text": "On Access, a personal care attendant rides free; drivers secure mobility devices but cannot lift riders in or out of wheelchairs or scooters, and eating and drinking are prohibited on Access vehicles.",
+    "url": "https://www.go-metro.com/access",
+    "quote": [
+     "Paratransit drivers will secure all mobility devices.",
+     "Eating, drinking and smoking are prohibited on all Access vehicles.",
+     "Lift you in and out of wheelchairs or scooters. You must provide your own Personal Care Attendant (PCA) or escort for assistance. A PCA can ride free of charge."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.cognitive.3",
+    "text": "Fare Deal ID cards give half-price fares on Metro fixed routes. Riders 65+ or with Medicare qualify automatically; riders with disabilities under 65 without Medicare must apply and be certified.",
+    "url": "https://www.go-metro.com/fares-passes/fare-deal-program/",
+    "quote": [
+     "Metro’s Fare Deal program allows eligible riders to obtain a Fare Deal identification card valid for half-price fares on Metro fixed-route trips.",
+     "Those 65 years-old and older are automatically eligible; proof of age is required. Medicare card holders of any age are also automatically eligible. Riders with disabilities who don’t have Medicare and are not 65 must submit an application and be certified to qualify for the program."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "44797773aa756ce5b127d0a7fdba8f79a15a95f739494db9c58424b584b140ad"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.cognitive.4",
+    "text": "Access paratransit passholders ride Metro fixed-route buses for half price.",
+    "url": "https://www.go-metro.com/fares-passes/fare-information/",
+    "quote": "Access Paratransit passholders may ride Metro fixed-route service for half price.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "407ea63545f9039bb831bb66930adb57199e722c5ae5e23bac2e4c36b14069d1"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.mobility.2",
+    "text": "Service animals ride Metro buses with no extra fare.",
+    "url": "https://www.go-metro.com/accessibility/",
+    "quote": "All service animals are allowed to ride Metro buses without paying an additional fare.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bc18b2c059b8933edaeba374039b26aa88ee9901e614374f9f699331a77b0786"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.cognitive.5",
+    "text": "Access offers free transportation to the functional skills assessment from locations within its service area. Book Access trips with Customer Care at 513-531-8888 or in the MyAccess app.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "Access does offer transportation to the functional skills assessment free of charge from all locations within the Access service area.",
+     "Call Customer Care at 513-531-8888 to make a reservation.",
+     "The MyAccess app is the new, convenient way for Metro Access riders to book, track, and manage their trips—all from their smartphone."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "id": "cincinnati-metro-and-access-paratransit.mobility.3",
+    "text": "Metro says visitors certified for paratransit in their hometown may qualify for temporary Access service, limited to 21 days. Contact eligibility at 513-632-7586 as far ahead as possible and provide current home-agency eligibility; Metro says more than 21 service days in a calendar year require its full application process.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "Visitors to the Metro service area who have been certified as eligible for paratransit services in their hometown may be eligible to receive temporary paratransit services from Access. This also applies to Access passengers who wish to travel to other cities that offer their own paratransit services. The temporary period is limited to 21 days of paratransit service.",
+     "Please contact the eligibility office at 513-632-7586 as far in advance as possible to inquire about temporary visitor service. Visitors must provide current ADA eligibility for paratransit service from the city, region, or jurisdiction in which they reside. Visitors who require more than 21 days of service in the calendar year will be required to apply and complete the full Access eligibility process."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Metro says Access applications are no longer accepted by mail or fax. After submitting an application, call 513-632-7586 to schedule the in-person assessment.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": "Access requires an eligibility application submitted, describing your disability or condition that prevents you from utilizing the fixed route service. Access no longer accepts applications by mail or fax. Applications are available in digital format or downloadable PDF. Your disability or condition must meet ADA requirements for certification. After submitting their application, applicants must call 513-632-7586 to schedule an in-person transportation skills assessment.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "domain": "mobility",
+    "text": "Access assessments take place at 7000 Montgomery Road in Silverton. Bring any mobility aid you require; a complete application and valid photo ID are also required, or the assessment must be rescheduled.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "The application process includes an in-person functional skills assessment and interview. Assessments are conducted at 7000 Montgomery Road Silverton, OH 45236.",
+     "If an applicant requires the use of a mobility aid, the mobility aid must be brought to their functional skills assessment.",
+     "The assessment will not be processed without both a complete ADA Transportation Application and a valid photo ID. Applicants will need to reschedule their assessment appointment if they are unable to provide both items at the time of their appointment."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "domain": "chronic",
+    "text": "Access drivers cannot enter your home, clear snow or objects from the approach, lock or unlock house doors, load or unload personal items, or carry groceries and packages.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "Drivers cannot enter your home.",
+     "Access’s goal is to accommodate all Paratransit riders. However, drivers are not allowed to:",
+     "Clear snow, ice or other objects from your steps, driveway or walkway. Lock or unlock house doors. Load or unload personal items. Carry groceries and packages."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "domain": "mobility",
+    "text": "Metro says Access cannot serve a pickup or destination where its vehicle cannot maneuver safely. An alternative pickup address may be arranged; this is not a guarantee that a particular address can be served.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": "If it is determined that a location you would like to travel to or from is not safe to maneuver in one of our paratransit vehicles, we will not be able to serve that location (e.g. dangerous double parking, required backing of the vehicle, low hanging branches, not safe area to board the vehicle, etc.). Arrangements may be made for an alternative pick-up address that is safer.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "domain": "chronic",
+    "text": "Check the destination’s opening time before reserving Access: the driver cannot wait with you if it is closed when you arrive.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": "Be aware of the opening and closing times of your destination to avoid waiting outside. If your destination is closed at the time you arrive, the Paratransit driver cannot wait with you until it opens.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "text": "Metro says Access drivers help riders on and off the vehicle lift or steps, secure wheelchairs or scooters and fasten seatbelts. This boarding assistance does not include lifting a rider into or out of their mobility device.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "When your vehicle arrives, the driver will assist you on/off the vehicle lift or steps, secure your wheelchair or scooter, fasten your seatbelt and collect the fare.",
+     "Lift you in and out of wheelchairs or scooters. You must provide your own Personal Care Attendant (PCA) or escort for assistance. A PCA can ride free of charge."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "text": "For an Access reservation, have your name or ID, travel date, pickup and destination addresses, required arrival time and return pickup time ready. Tell the receptionist about any companion or personal care attendant and special driver instructions.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": "When making a reservation please have the following information. Your name or ID number. The date you would like to travel. The address of both pick up location and destination. The time you need to arrive at your destination. The time you need to be picked up for your return trip. Whether you will be traveling with a companion and / or personal care attendant. Special instructions for the driver.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   }
+  ]
+ },
+ {
+  "slug": "national-underground-railroad-freedom-center",
+  "facts": [
+   {
+    "id": "national-underground-railroad-freedom-center.mobility.1",
+    "text": "Elevators connect each floor. Accessible restrooms are listed on the first, third and fourth floors. Wheelchairs and ECVs are available from the front desk, first come, first served.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": [
+     "Wheelchairs and Electronic Convenience Vehicles (ECVs) are available for rental on a first-come, first-serve basis from the front desk.",
+     "Accessible restrooms are available on the first, third and fourth floors of the museum.",
+     "Elevators are available for visitors to access each floor of the National Underground Railroad Freedom Center."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.sensory.1",
+    "text": "A Braille museum map is available at check-in. Permanent-gallery videos have open captions, while temporary-exhibition audio is transcribed in panels or guides.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": [
+     "A braille version of our museum map is available at check in.",
+     "Permanent gallery videos are open captioned and temporary exhibition space audio elements are transcribed via exhibit panels or gallery guide."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.cognitive.1",
+    "text": "A Visual Welcome Guide is available to prepare for a museum visit.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": "Visual Welcome Guide: Prepare for your visit to museum with this free resource. Learn more→",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.sensory.2",
+    "text": "In a February 15, 2025 article, the museum reported accessibility carts on the second and third floors with noise-reducing headphones, fidgets and sunglasses.",
+    "url": "https://freedomcenter.org/voice/accessibilitytools-copy/",
+    "quote": [
+     "February 15, 2025",
+     "Located on our second and third floors, our new accessibility carts invite guests to enhance their visiting experience in ways that feel grounded in support.",
+     "Visitors may choose from items such as noise-reducing headphones, fidgets, sunglasses and fidget seats allowing them to engage with the museum in ways that best suit them."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8e7d6afcce392f058d029d9d88212eeb23b5d68d4233d71bf8b4e24ee348a008"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.mobility.2",
+    "text": "Wheelchairs are free and ECVs cost $25 (renters must be over 18 and sign an agreement). The front desk holds a driver's license or credit card until return, and the equipment cannot leave the museum.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": "Wheelchairs are free to rent. ECVs are $25 to rent. ECV renters must be over 18 years old and sign the Guest Mobility Equipment Rental Agreement. A driver’s license or credit card will be held at the front desk until the wheelchair or ECV is returned. Wheelchairs and ECVs are not permitted to leave the museum.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.mobility.3",
+    "text": "The museum recommends the 182 Race Street entrance to the public Central Riverfront Parking Garage below it and describes the garage as accessible via elevators.",
+    "url": "https://freedomcenter.org/visit/parking/",
+    "quote": "The nearest parking garage is located below the museum in the Central Riverfront Parking Garage* (182 Race Street entrance recommended). This public garage is fully accessible via elevators.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "bc332a1c0417c97d2a159ad9f02d281c1ed4817a161a238b03da1c061c72e9c0"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.chronic.1",
+    "text": "A family restroom is on the first floor.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": "A family restroom is available on the first floor.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.chronic.2",
+    "text": "The museum suggests planning 3 to 4 hours for a visit.",
+    "url": "https://freedomcenter.org/visit/plan-your-visit/",
+    "quote": "*Plan for your visit to be 3-4 hours",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "427334279c17236aef72d3bba415707e9d0cb96431a2ea2ca2e5c8f69e704c61"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.sensory.3",
+    "text": "The museum offers audio tours on visitors’ own mobile devices and asks them to bring headphones.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": "Bring your headphones and experience our new audio tours on your mobile device.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "id": "national-underground-railroad-freedom-center.cognitive.2",
+    "text": "Accommodation requests and accessibility questions go to accessible@nurfc.org.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": "If you need accommodations or have any questions about our accessibility resources, please contact us at accessible@nurfc.org.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "domain": "mobility",
+    "text": "The museum identifies its main entrance on the first floor, facing the riverfront on East Freedom Way.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": "Main museum entrance is located on the first floor, facing the riverfront on East Freedom Way.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "domain": "mobility",
+    "text": "The museum’s October 2023 Visual Welcome Guide directs visitors to park in the garage’s green section, take the elevator to Plaza Level (PL) and follow signs to the main entrance. Confirm the current route and elevator operation before travel.",
+    "url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+    "quote": [
+     "Park in the green section. Ride the elevators up to Plaza Level (PL).",
+     "Follow the signs to the main entrance of the museum."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "20f4d9c72304358d28aa782f344a7ac3ed2694e3146f0904ff972c74214e1518"
+   },
+   {
+    "domain": "mobility",
+    "text": "The October 2023 Visual Welcome Guide identifies an entry door to the right of the revolving doors and shows a black control box that visitors wave a hand across to open the doors. The guide does not establish today’s door operation.",
+    "url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+    "quote": [
+     "Our handicap accessible entry door is located to the right of the revolving doors.",
+     "Wave your hand across the black box to open the doors automatically."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "20f4d9c72304358d28aa782f344a7ac3ed2694e3146f0904ff972c74214e1518"
+   },
+   {
+    "domain": "chronic",
+    "text": "Under its information for parents with young children, the museum says restrooms have changing stations and nursing is welcome. The source does not specify adult changing equipment.",
+    "url": "https://freedomcenter.org/visit/accessibility/",
+    "quote": "Parents with Young Children Our restrooms are equipped with changing stations and nursing is welcome at the museum.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "97bec5635c466770afc6ee7d1e98fc056b6665c96f24a8d93113ce9410d8d0c7"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The museum’s visitor page says on-site ticket sales are card only; cash ticket sales are not available.",
+    "url": "https://freedomcenter.org/visit/plan-your-visit/",
+    "quote": "Tickets sales are card only (cash sales not available on-site).",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "427334279c17236aef72d3bba415707e9d0cb96431a2ea2ca2e5c8f69e704c61"
+   }
+  ]
+ },
+ {
+  "slug": "vent-haven-museum",
+  "facts": [
+   {
+    "id": "vent-haven-museum.mobility.1",
+    "text": "The museum says it has an accessible parking space near the entrance, that doorways in public areas fit a standard wheelchair, and that all public areas are on one level with no steps or ramps.",
+    "url": "https://www.venthaven.org/frequently-asked-questions",
+    "quote": "There is an accessible parking space near the entrance of the museum. All openings and doorways in public areas accommodate a standard wheelchair, and all public areas are on a single level with no steps or ramps.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe"
+   },
+   {
+    "id": "vent-haven-museum.mobility.2",
+    "text": "Seats in the museum theater can be removed as needed to make room for wheelchairs.",
+    "url": "https://www.venthaven.org/frequently-asked-questions",
+    "quote": "Seats within the theater can be removed as needed to accommodate wheelchairs",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe"
+   },
+   {
+    "id": "vent-haven-museum.chronic.1",
+    "text": "The museum describes its bathrooms as accessible; food and drink are not permitted in the galleries.",
+    "url": "https://www.venthaven.org/frequently-asked-questions",
+    "quote": [
+     "bathrooms are also accessible.",
+     "Food, drink, and strollers are not permitted in the museum galleries."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe"
+   },
+   {
+    "id": "vent-haven-museum.cognitive.1",
+    "text": "Regular guided tours are by advance appointment from May through September and last about 60 to 90 minutes. The FAQ allows separately announced events, says the museum is typically closed on holidays and does not offer drop-in quick peeks or off-season tours.",
+    "url": "https://www.venthaven.org/frequently-asked-questions",
+    "quote": [
+     "All tours are by appointment only from May through September and must be scheduled in advance.",
+     "The museum is open by appointment only with the exception of announced events. The museum is typically not open on holidays.",
+     "All tours are guided and last approximately 60 to 90 minutes, depending on the interest of the visitor.",
+     "5. I don't want to schedule a full, guided tour. Can I just take a quick peek into the museum? Due to the nature of the museum, this is not a possibility.",
+     "6. I know that you're closed during the off season, but that's the only time I'll be in town. Is it possible to schedule a tour anyway? Sadly, no. During the off season, the buildings are not prepared for tourists. Maintenance inside of the buildings is ongoing during this time, and exhibits are being rotated on and off display."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe"
+   },
+   {
+    "id": "vent-haven-museum.mobility.3",
+    "text": "Strollers are not permitted in the museum galleries.",
+    "url": "https://www.venthaven.org/frequently-asked-questions",
+    "quote": "Food, drink, and strollers are not permitted in the museum galleries.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "231eee41ef2031b1845a45b87b32c6f6d87a1eb15bde8b85aabf6c51010ee7fe"
+   },
+   {
+    "id": "vent-haven-museum.mobility.4",
+    "text": "With a tour appointment you can pull into the museum driveway.",
+    "url": "https://www.venthaven.org/directions",
+    "quote": "If you have an appointment for a tour, feel free to pull into the driveway.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e31e98840ea26b39529b1c54e00bd3271edbc854ea86ff72f1e59e1e9059e54c"
+   },
+   {
+    "id": "vent-haven-museum.sensory.1",
+    "text": "Standard tours are limited to 10 guests, and there are few hands-on opportunities. Questions go to the curator at curator@venthaven.org or (859) 341-0461.",
+    "url": "https://www.venthaven.org/schedule-a-tour",
+    "quote": [
+     "Standard tours are limited to a maximum of 10 guests",
+     "There are limited hands-on opportunities at the museum.",
+     "You can also contact the curator at curator@venthaven.org or by calling (859) 341-0461."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27"
+   },
+   {
+    "domain": "cognitive",
+    "text": "As checked November 12, 2026, the booking page says the museum is closed for the season and tickets for the 2027 season will be available starting in February 2027. It lists the regular visiting season as May 1 through September 30, by appointment.",
+    "url": "https://www.venthaven.org/schedule-a-tour",
+    "quote": "Vent Haven Museum is open May 1 through September 30 by appointment only. We are currently closed for the season . Tickets for the 2027 season will be available for purchase starting in February of 2027.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Vent Haven says groups of 11 to 60 guests can be accommodated by special arrangement; standard tours have a maximum of 10.",
+    "url": "https://www.venthaven.org/schedule-a-tour",
+    "quote": "Standard tours are limited to a maximum of 10 guests, but groups from 11 to 60 can be accommodated with special arrangement",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3e133b3ec7a1f7d76987b3357a6a131b41633cd5085011d6bcbb680a51b2bb27"
+   }
+  ]
+ }
+]

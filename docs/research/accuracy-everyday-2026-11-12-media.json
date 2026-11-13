@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-12",
+  "licensed_candidates_inspected": 14,
+  "licensed_photos_added": 3,
+  "photo_candidates": [
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20170422_107_SORTA_bus,_Government_Square_Transit_Center_-_36852616820.jpg",
+      "license": "CC BY 2.0",
+      "source_date_text": "2017-04-22 16:47:41",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: more prominent incidental people; bus ramp is not deployed and doorway is outside view."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cincinnati_downtown_bus_terminal.jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "Uploaded on August 8, 2007 by seamusiv / Sean Biehle",
+      "visually_inspected": true,
+      "selected": true,
+      "decision": "Selected: Government Square sidewalk, shelter supports and obstacles; capture date remains unknown.",
+      "published": {
+        "id": "metro-government-square-sidewalk",
+        "slug": "cincinnati-metro-and-access-paratransit",
+        "title": "Government Square sidewalk and shelter",
+        "alt": "A paved sidewalk runs beside a curb at Government Square, with a large pole in the walking space and shelter supports, route sign and stone planter edges to the right.",
+        "caption": "A historical view shows the paved sidewalk beside Government Square’s shelter, with posts and planter edges occupying parts of the walking space. Commons records an August 8, 2007 upload; the capture date is not established. Full frame retained; resized and converted to WebP.",
+        "author": "Sean Biehle",
+        "limitations": "This image does not establish current bay assignments, crossing routes, clear widths, curb ramps or bus-ramp deployment. Small incidental pedestrians and road vehicles are visible.",
+        "relatedFactIds": [
+          "cincinnati-metro-and-access-paratransit.mobility.1"
+        ],
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cincinnati_downtown_bus_terminal.jpg",
+        "src": "/images/access/metro-government-square-sidewalk.webp",
+        "width": 1280,
+        "height": 960,
+        "checkedAt": "2026-11-12"
+      },
+      "original_dimensions": [
+        2816,
+        2112
+      ],
+      "source_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Cincinnati_downtown_bus_terminal.jpg/1280px-Cincinnati_downtown_bus_terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_sha256": "b602e987b20877cf9798edc6fe9aee77b94d5f1d04ba6928de9154a0dea321f3",
+      "output_sha256": "be0daf72c3f18ef7ec124c86eaad458a76ce2b39dd670453b2826be536bd33d9",
+      "full_frame": true,
+      "transform": "Resize without cropping (no upscaling), WebP encoding; no scene edits",
+      "output_visually_inspected": true
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freedom_Center_Entrance.jpg",
+      "license": "CC BY-SA 3.0",
+      "source_date_text": "10 May 2005 (original upload date)",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: historical street frontage and small staircase, without a clear main visitor doorway or complete route; upload date is not a capture date."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freedom_Center_eternal_flame.jpeg",
+      "license": "CC BY-SA 3.0",
+      "source_date_text": "10 August 2013 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: close view of the eternal flame lacks a useful arrival or circulation route."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_underground_railroad_freedom_center_main_entrance_2006.jpg",
+      "license": "CC BY-SA 3.0",
+      "source_date_text": "2006-03-19",
+      "visually_inspected": true,
+      "selected": true,
+      "decision": "Selected: March 19, 2006 south-entrance forecourt, contrasting paving and rocks.",
+      "published": {
+        "id": "freedom-center-south-entrance-paving",
+        "slug": "national-underground-railroad-freedom-center",
+        "title": "South entrance forecourt, March 2006",
+        "alt": "The Freedom Center’s glass entrance sits behind a broad pale paved forecourt, with a contrasting stone strip and large rocks in the foreground.",
+        "caption": "A March 19, 2006 view of the southern entrance shows the paved forecourt, contrasting stone surface and rocks in front of the building. Full frame retained and converted to WebP.",
+        "author": "Rdikeman at English Wikipedia",
+        "photoDate": "2006-03-19",
+        "limitations": "This historical view does not show door controls or threshold details, the garage connection or today’s route. Use the linked official guide and confirm current entrance and elevator arrangements.",
+        "relatedFactIds": [
+          "national-underground-railroad-freedom-center.mobility.4",
+          "national-underground-railroad-freedom-center.mobility.6"
+        ],
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_underground_railroad_freedom_center_main_entrance_2006.jpg",
+        "src": "/images/access/freedom-center-south-entrance-paving.webp",
+        "width": 464,
+        "height": 627,
+        "checkedAt": "2026-11-12"
+      },
+      "original_dimensions": [
+        464,
+        627
+      ],
+      "source_download_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/National_underground_railroad_freedom_center_main_entrance_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_sha256": "22092d7bb0651934dd46d4b5eca17c0f6580d346b7cd8cf8c432a29622e643cc",
+      "output_sha256": "b2f78f1855ee20ac5e9255c494eaa3aad46d94f30647875f51f7e2cef66a8f2b",
+      "full_frame": true,
+      "transform": "Resize without cropping (no upscaling), WebP encoding; no scene edits",
+      "output_visually_inspected": true
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vent_Haven_Museum_(8033472587).jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "2012-09-22 09:15",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: 2012 close views of ventriloquist figures and displays, not access features or current facility routes."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vent_Haven_Museum_(8033473130).jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "2012-09-22 09:16",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: 2012 close views of ventriloquist figures and displays, not access features or current facility routes."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vent_Haven_Museum_(8033473230).jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "2012-09-22 09:16",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: 2012 close views of ventriloquist figures and displays, not access features or current facility routes."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vent_Haven_Museum_(8033474930).jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "2012-09-22 09:31",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: 2012 close views of ventriloquist figures and displays, not access features or current facility routes."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vent_Haven_Museum_(8033475714).jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "2012-09-22 09:35",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: 2012 close views of ventriloquist figures and displays, not access features or current facility routes."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vent_Haven_Museum_(8033481261).jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "2012-09-22 10:07",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: 2012 close views of ventriloquist figures and displays, not access features or current facility routes."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vent_Haven_Museum_(8033482103).jpg",
+      "license": "CC BY-SA 2.0",
+      "source_date_text": "2012-09-22 10:09",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: 2012 close views of ventriloquist figures and displays, not access features or current facility routes."
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rotunda_Entry_Doors,_Cincinnati_Union_Terminal,_Queensgate,_Cincinnati,_OH_(32588987157).jpg",
+      "license": "CC0",
+      "source_date_text": "2019-04-02 14:01",
+      "visually_inspected": true,
+      "selected": true,
+      "decision": "Selected: April 2019 rotunda-side entry doors, push bars and door-bottom strips; automatic controls are not visible.",
+      "published": {
+        "id": "museum-center-rotunda-doors",
+        "slug": "cincinnati-museum-center",
+        "title": "Rotunda entrance doors, seen from inside",
+        "alt": "Three metal-framed glass doors seen from Union Terminal’s rotunda, with push bars, door-bottom metal strips and the outdoor forecourt beyond.",
+        "caption": "This April 2, 2019 photograph shows the entrance doors from inside the rotunda, including the push bars and door-bottom strips. Full frame retained; resized and converted to WebP.",
+        "author": "Warren LeMay",
+        "photoDate": "2019-04-02",
+        "limitations": "The automatic-opening wall controls described by the museum are not visible here. This historical view does not establish door-opening force, clear widths, threshold heights or current operation. Small incidental pedestrians and vehicles appear outside.",
+        "relatedFactIds": [
+          "cincinnati-museum-center.mobility.1"
+        ],
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rotunda_Entry_Doors,_Cincinnati_Union_Terminal,_Queensgate,_Cincinnati,_OH_(32588987157).jpg",
+        "src": "/images/access/museum-center-rotunda-doors.webp",
+        "width": 1280,
+        "height": 960,
+        "checkedAt": "2026-11-12"
+      },
+      "original_dimensions": [
+        4032,
+        3024
+      ],
+      "source_download_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Rotunda_Entry_Doors%2C_Cincinnati_Union_Terminal%2C_Queensgate%2C_Cincinnati%2C_OH_%2832588987157%29.jpg/1280px-Rotunda_Entry_Doors%2C_Cincinnati_Union_Terminal%2C_Queensgate%2C_Cincinnati%2C_OH_%2832588987157%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_sha256": "b4da3a1ea12f81aa8b2ebd6e4f6cf772a6a8fea0918b1382164f18347a033266",
+      "output_sha256": "90aa3b929758497a414c19b96b8ac9c5d9bcf048f74167fdad29cb9e8b1d3e61",
+      "full_frame": true,
+      "transform": "Resize without cropping (no upscaling), WebP encoding; no scene edits",
+      "output_visually_inspected": true,
+      "source_page_fresh_status": 200,
+      "source_page_cc0_link_confirmed": true
+    },
+    {
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rotunda_Entry_Doors,_Cincinnati_Union_Terminal,_Queensgate,_Cincinnati,_OH_(46615919285).jpg",
+      "license": "CC0",
+      "source_date_text": "2019-04-02 14:01",
+      "visually_inspected": true,
+      "selected": false,
+      "decision": "Held: near-duplicate portrait frame has more incidental people prominent outside and adds no distinct access feature."
+    }
+  ],
+  "official_guides_added": 2,
+  "guides": [
+    {
+      "url": "https://freedomcenter.org/wp-content/uploads/2023/10/VisualWelcomeGuide_231010_v02.pdf",
+      "status": 200,
+      "bytes": 3137068,
+      "pages": 15,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "Adobe InDesign 18.2 (Macintosh)",
+        "producer": "Adobe PDF Library 17.0",
+        "creationDate": "D:20231010105857-04'00'",
+        "modDate": "D:20231010105901-04'00'",
+        "trapped": "",
+        "encryption": null
+      },
+      "fresh_recheck_status": 200,
+      "sha256": "20f4d9c72304358d28aa782f344a7ac3ed2694e3146f0904ff972c74214e1518",
+      "visually_inspected_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "printed_date": null,
+      "individual_photo_dates": "unknown",
+      "reuse": "Linked official original; no images republished"
+    },
+    {
+      "url": "https://www.cincymuseum.org/wp-content/uploads/2023/06/2023_CMC_Other.pdf",
+      "status": 200,
+      "bytes": 3750850,
+      "pages": 7,
+      "metadata": {
+        "format": "PDF 1.4",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "macOS Version 12.6.5 (Build 21G531) Quartz PDFContext",
+        "creationDate": "D:20230620144451Z00'00'",
+        "modDate": "D:20230620144451Z00'00'",
+        "trapped": "",
+        "encryption": null
+      },
+      "fresh_recheck_status": 200,
+      "sha256": "2c69bf79203a012878ffa39dedb09929f45ef019fdf266b96f1420e392210516",
+      "visually_inspected_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "printed_date": "May 26, 2023",
+      "individual_photo_dates": "unknown",
+      "reuse": "Linked official original; no images republished"
+    }
+  ],
+  "other_document_inspected": {
+    "url": "https://www.proudworks.org/wp-content/uploads/2026/11/Proudworks_Impact_Report_FY26.pdf",
+    "http_status": 200,
+    "bytes": 1192816,
+    "pages": 2,
+    "period": "July 1, 2025–June 30, 2026",
+    "pdf_metadata_date": "October 15, 2026",
+    "decision": "No guide entry: program statistics and portraits, no boarding, lift or access-route photographs."
+  }
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "proudworks-transportation",
+    "name": "Proudworks Transportation",
+    "city": "Florence",
+    "state": "KY",
+    "category": "Transportation",
+    "address": "7970 Kentucky Drive, Florence, KY 41042",
+    "website": "https://www.proudworks.org/transportation/",
+    "source_url": "https://www.proudworks.org/transportation/",
+    "limitations": "Public website information; no on-site audit. The listed address is the provider’s contact address, not a confirmed boarding point. Medicaid-card and approved-destination conditions are published; funding and service arrangements must be confirmed. The services overview specifically describes Medicaid Waiver consumers in six counties; the transportation page gives broader wording and says other options may be available. Confirm the applicable program and coverage. Booking lead time, fares, vehicle/lift dimensions, wheelchair securement, transfer or door assistance, companions, service animals and accessible office facilities remain unverified.",
+    "facts": [
+      [
+        "cognitive",
+        "Proudworks says its transportation service is available to Northern Kentucky individuals with a valid Kentucky Medicaid card travelling to approved destinations, including employment, day programs and medical appointments. Confirm individual eligibility and the destination with the provider.",
+        "https://www.proudworks.org/transportation/",
+        "venue_official",
+        null,
+        "Transportation Services are available to individuals in Northern Kentucky with a valid Kentucky Medicaid card traveling to approved destinations, including employment, day programs, and medical appointments."
+      ],
+      [
+        "cognitive",
+        "The transportation page says non-emergency medical transport, self-pay and other options may also be available; contact Proudworks for details rather than assuming a particular funding option or trip is approved.",
+        "https://www.proudworks.org/transportation/",
+        "venue_official",
+        null,
+        "Non-Emergency Medical Transportation (NEMT), self-pay, and other options may also be available. Contact us for details."
+      ],
+      [
+        "mobility",
+        "The services overview describes travel from home or residential settings to programs and employment sites for Medicaid Waiver consumers in six Northern Kentucky counties. It does not name those counties or describe boarding and transfer assistance.",
+        "https://www.proudworks.org/services/",
+        "venue_official",
+        null,
+        "Proudworks’ Transportation Services provide access from home or residential settings to programs and employment sites for Medicaid Waiver consumers in six counties throughout Northern Kentucky."
+      ],
+      [
+        "cognitive",
+        "Proudworks lists community employment, adult day training, social/recreational/respite/day programs, non-emergency medical appointments and community activities among its trip purposes. The transportation page also limits service to approved destinations.",
+        "https://www.proudworks.org/transportation/",
+        "venue_official",
+        null,
+        [
+          "Proudworks provides Transportation services to & from: Community Employment Adult Day Training (ADT) programs-organizations Social, Recreational, Respite, and Day Programs Medical Appointments (Non-Emergency) Community Activities",
+          "Transportation Services are available to individuals in Northern Kentucky with a valid Kentucky Medicaid card traveling to approved destinations, including employment, day programs, and medical appointments."
+        ]
+      ],
+      [
+        "cognitive",
+        "For transportation enquiries, the contact page lists Transportation@proudworks.org. Its general contact number is 859-371-4410 and contact hours are Monday–Friday, 8 a.m.–4 p.m.; these are not published ride-service hours.",
+        "https://www.proudworks.org/contact/",
+        "venue_official",
+        null,
+        [
+          "Get in touch Monday - Friday 8:00AM - 4:00PM 7970 Kentucky Drive, Florence, KY 41042 859-371-4410",
+          "Transportation@proudworks.org"
+        ]
+      ]
+    ]
+  }
+]

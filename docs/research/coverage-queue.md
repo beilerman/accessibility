@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 12, 2026, after Northern Kentucky dining, Connector and museum visual-guide review.
+Updated November 12, 2026, after four accuracy reviews, everyday services and access imagery.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,7 +9,8 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is 401 notes. Start with transit
+remaining legacy missing-passage backlog is now 362 notes after the latest four
+full reviews (39 old notes newly backfilled). Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -17,9 +18,9 @@ not adjacent in the source. Preserve manual source conflicts and photo limits.
 
 ## Breadth
 
-The prepared catalog has 140 places. Its categories contain 32 arts venues,
-31 parks/recreation complexes, 21 museums/attractions, 15 libraries, five transport
-entries, fifteen food/drink venues, ten shopping destinations, four public-service
+The prepared catalog has 142 places. Its categories contain 32 arts venues,
+31 parks/recreation complexes, 21 museums/attractions, 15 libraries, six transport
+entries, fifteen food/drink venues, ten shopping destinations, five public-service
 listings and seven recreation/fitness listings. Continue seeking concrete access
 information for everyday activities and less represented neighborhoods/types.
 
@@ -47,7 +48,61 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest prepared batch — November 12 Northern Kentucky dining and visual guides
+## Latest prepared batch — November 12 accuracy, everyday services and imagery
+
+See [report and next actions](accuracy-everyday-2026-11-12.md), plus its validation
+and media receipts and the transit/Freedom/Vent, Museum Center, Liberty Street and
+Proudworks evidence specs. Started clean at `5d67cc0`; no unfinished edits or
+conflict markers. No agent Git writes or deployment.
+
+- **Evidence backfill:** 39 previously unquoted old notes gained supporting
+  passages. Missing-passage backlog **401 → 362**; this is separate from growth.
+- **Freshness:** four full reviews, **41 old notes**: Metro/Access ten, Museum
+  Center fourteen, Freedom Center ten, Vent Haven seven. **34 confirmed/seven
+  revised**, no partial reviews. Weekly eight-venue target already met; no new
+  cumulative unique-week total claimed.
+- **Corrections:** Metro assessment-ride service-area condition; Freedom Center
+  audio-tour wording; Vent Haven event/holiday/off-season qualifications; Museum
+  Center caregiver ticket exclusions and box-office collection. Dated cart and
+  attributed garage descriptions clarified; Metro visitor eligibility expanded.
+- **Growth:** **35 new notes**: twenty-three at the four existing venues, plus seven
+  at **Liberty Street Market, OTR** (Public services) and five at **Proudworks
+  Transportation, Florence**. Food selection and documentation do not prove
+  physical access; transport funding/approved-destination conditions remain.
+  Proudworks' narrower Waiver/six-county wording is not erased by its broader page.
+- **Imagery:** three licensed full frames (Government Square sidewalk/shelter,
+  Sean Biehle, CC BY-SA 2.0; Freedom Center south entrance, March 2006, Rdikeman,
+  CC BY-SA 3.0). The first has an August 2007 upload, **unknown capture date**.
+  Museum Center rotunda doors (Warren LeMay, April 2019, CC0) provide a third
+  historical full frame; automatic controls are not visible. Fourteen candidates
+  inspected. Two newly linked official PDFs, every page
+  inspected: Freedom Center arrival/control guide (2023, 15 pages/3.1 MB), Museum
+  Center dining/rentals/elevators (2023, seven pages/3.8 MB). Dated prices and cafe
+  names are historical. No unlicensed photos republished.
+- **Checks:** 78 note/address checks/21 fact-source URLs; 88 unit and 70 pipeline
+  tests, types, lint, production build and 101 final-build HTTP checks pass.
+  **128 browser tests listed, not passed locally**: Chromium launch denied before
+  navigation; separate browser host unavailable. Runner host validation required.
+  Original IDs/history/order/media and unrelated monitor entries preserved.
+- **Totals:** 142 venues, 1,252 active notes, 890 quoted active notes, 41 access
+  photos, 21 guide entries/17 documents. One retired note remains preserved.
+
+**Next concrete batch:** missing legacy arrival/toilet/seasonal support at Northern
+Kentucky Convention Center and Dinsmore Homestead; collection/entrance/toilet depth
+and photos at Target Newport and Tousey House. Seek current Metro boarding and
+securement, Freedom Center door controls, Museum Center adult-changing setup and
+Vent Haven arrival photos. Liberty Street needs queue/seating/toilet/carrying help;
+Proudworks needs named coverage counties, booking lead time and equipment/assistance.
+The Museum Center visitor page gives both $27 and $29 ECV fees; confirm, do not
+choose one. R.C. Durr remains held: “Closed, Opens Sept 8” without a year versus
+year-round indoor-pool promotion, without a confirmed reopening or lift procedure.
+All earlier grocery, AMC and other manual holds remain.
+
+Metro’s linked EZConnect regional-guide page returns only a site shell
+with no guide recovered; the rider page’s holiday schedule explicitly says 2023.
+Keep both held for current-guide/service review; see the held-findings receipt.
+
+## Earlier completed batch — November 12 Northern Kentucky dining and visual guides
 
 See [report, evidence and next actions](nky-dining-connector-visual-guides-2026-11-12.md)
 and its evidence, media, holds and validation receipts. The prior combined

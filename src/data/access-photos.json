@@ -751,5 +751,65 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cincinnati_streetcar_pulling_into_the_Fountain_Square_stop_(2017).jpg",
     "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "metro-government-square-sidewalk",
+    "slug": "cincinnati-metro-and-access-paratransit",
+    "title": "Government Square sidewalk and shelter",
+    "alt": "A paved sidewalk runs beside a curb at Government Square, with a large pole in the walking space and shelter supports, route sign and stone planter edges to the right.",
+    "caption": "A historical view shows the paved sidewalk beside Government Square’s shelter, with posts and planter edges occupying parts of the walking space. Commons records an August 8, 2007 upload; the capture date is not established. Full frame retained; resized and converted to WebP.",
+    "author": "Sean Biehle",
+    "limitations": "This image does not establish current bay assignments, crossing routes, clear widths, curb ramps or bus-ramp deployment. Small incidental pedestrians and road vehicles are visible.",
+    "relatedFactIds": [
+      "cincinnati-metro-and-access-paratransit.mobility.1"
+    ],
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cincinnati_downtown_bus_terminal.jpg",
+    "src": "/images/access/metro-government-square-sidewalk.webp",
+    "width": 1280,
+    "height": 960,
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "freedom-center-south-entrance-paving",
+    "slug": "national-underground-railroad-freedom-center",
+    "title": "South entrance forecourt, March 2006",
+    "alt": "The Freedom Center’s glass entrance sits behind a broad pale paved forecourt, with a contrasting stone strip and large rocks in the foreground.",
+    "caption": "A March 19, 2006 view of the southern entrance shows the paved forecourt, contrasting stone surface and rocks in front of the building. Full frame retained and converted to WebP.",
+    "author": "Rdikeman at English Wikipedia",
+    "photoDate": "2006-03-19",
+    "limitations": "This historical view does not show door controls or threshold details, the garage connection or today’s route. Use the linked official guide and confirm current entrance and elevator arrangements.",
+    "relatedFactIds": [
+      "national-underground-railroad-freedom-center.mobility.4",
+      "national-underground-railroad-freedom-center.mobility.6"
+    ],
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_underground_railroad_freedom_center_main_entrance_2006.jpg",
+    "src": "/images/access/freedom-center-south-entrance-paving.webp",
+    "width": 464,
+    "height": 627,
+    "checkedAt": "2026-11-12"
+  },
+  {
+    "id": "museum-center-rotunda-doors",
+    "slug": "cincinnati-museum-center",
+    "title": "Rotunda entrance doors, seen from inside",
+    "alt": "Three metal-framed glass doors seen from Union Terminal’s rotunda, with push bars, door-bottom metal strips and the outdoor forecourt beyond.",
+    "caption": "This April 2, 2019 photograph shows the entrance doors from inside the rotunda, including the push bars and door-bottom strips. Full frame retained; resized and converted to WebP.",
+    "author": "Warren LeMay",
+    "photoDate": "2019-04-02",
+    "limitations": "The automatic-opening wall controls described by the museum are not visible here. This historical view does not establish door-opening force, clear widths, threshold heights or current operation. Small incidental pedestrians and vehicles appear outside.",
+    "relatedFactIds": [
+      "cincinnati-museum-center.mobility.1"
+    ],
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rotunda_Entry_Doors,_Cincinnati_Union_Terminal,_Queensgate,_Cincinnati,_OH_(32588987157).jpg",
+    "src": "/images/access/museum-center-rotunda-doors.webp",
+    "width": 1280,
+    "height": 960,
+    "checkedAt": "2026-11-12"
   }
 ]
