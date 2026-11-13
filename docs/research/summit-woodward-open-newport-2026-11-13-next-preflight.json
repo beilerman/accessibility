@@ -1,0 +1,154 @@
+{
+  "checked_at": "2026-11-13T18:29:46.520829+00:00",
+  "scope": "First six are final new-guide link checks. Treehouse reopening URL also validates the seventh linked guide. Other source fetches remain availability-only; no next-batch note or venue freshness credit.",
+  "checks": [
+    {
+      "url": "https://www.summitparkblueash.com/development/photos.php",
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/development/photos.php",
+      "last_modified": null,
+      "sha256": "f967b1a3fc324c37f20ae032d1b0e007b3fbb9893365d5272b1fc305523c20a6",
+      "fingerprint_version": 6,
+      "chars": 305
+    },
+    {
+      "url": "https://www.msasport.com/projects/blue-ash-summit-park",
+      "status": 200,
+      "final_url": "https://www.msasport.com/projects/blue-ash-summit-park",
+      "last_modified": null,
+      "sha256": "db7961e87fc8efa159bdd2b1bc9366697bc41e88472bf77d7b4fd6900fe42bc7",
+      "fingerprint_version": 6,
+      "chars": 1546
+    },
+    {
+      "url": "https://pwwgarchitects.com/work/zieglerparkgarage/",
+      "status": 200,
+      "final_url": "https://pwwgarchitects.com/work/zieglerparkgarage/",
+      "last_modified": null,
+      "sha256": "64ee2ee2c504330f68aadcf27c6777929b40de73a0f102bf8bcfbaccf150fb48",
+      "fingerprint_version": 6,
+      "chars": 2293
+    },
+    {
+      "url": "https://cincinnatiopen.com/about/campus-transformation/",
+      "status": 200,
+      "final_url": "https://cincinnatiopen.com/about/campus-transformation/",
+      "last_modified": "Fri, 13 Nov 2026 18:27:35 GMT",
+      "sha256": "391a7249082d5bbcc80c210b5b8bc2e69661ee445c11ccf0438ce5d22658e4a6",
+      "fingerprint_version": 6,
+      "chars": 2497
+    },
+    {
+      "url": "https://cincinnatiopen.com/visit/site-map/",
+      "status": 200,
+      "final_url": "https://cincinnatiopen.com/visit/site-map/",
+      "last_modified": "Fri, 13 Nov 2026 18:19:15 GMT",
+      "sha256": "721625ceb91848714b9778f3559984cf3ee11992a6151dd20eb873b11a95890d",
+      "fingerprint_version": 6,
+      "chars": 220
+    },
+    {
+      "url": "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx",
+      "status": 200,
+      "final_url": "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx",
+      "last_modified": "Fri, 13 Nov 2026 18:27:35 GMT",
+      "sha256": "173c33edb033b3acc6efb0bc3cc64cdc33d9ec31ed8514acf49d6a24034f6c43",
+      "fingerprint_version": 6,
+      "chars": 3001
+    },
+    {
+      "url": "https://www.americansignmuseum.org/visit",
+      "status": 200,
+      "final_url": "https://www.americansignmuseum.org/visit/",
+      "last_modified": null,
+      "sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+      "fingerprint_version": 6,
+      "chars": 7189
+    },
+    {
+      "url": "https://www.americansignmuseum.org/visit/",
+      "status": 200,
+      "final_url": "https://www.americansignmuseum.org/visit/",
+      "last_modified": null,
+      "sha256": "35255d14dfb603dfeb2e142cfec74d69de9db4ee2b88456abe7586c949fd6e22",
+      "fingerprint_version": 6,
+      "chars": 7189
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
+      "last_modified": null,
+      "sha256": "838fff05157892b53d3e39d765667ed34c7304de7052bac241e02770b012217e",
+      "fingerprint_version": 6,
+      "chars": 4896
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/news/everybodys-treehouse-in-mt-airy-forest-reopens/",
+      "last_modified": null,
+      "sha256": "4cfb578b5a2fc909ccf96b4f3b323ae3beaceafe002c8b3ba5554b7fd8978ce9",
+      "fingerprint_version": 6,
+      "chars": 2560
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/",
+      "last_modified": null,
+      "sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842",
+      "fingerprint_version": 6,
+      "chars": 31888
+    },
+    {
+      "url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/cincyparks/customer-service/accessibility1/",
+      "last_modified": null,
+      "sha256": "3cdb23b9c92db6b3ee8a9ebf52c095b370af4fcf4790a1b6461f87f89e798ba1",
+      "fingerprint_version": 6,
+      "chars": 27913
+    },
+    {
+      "url": "https://www.mariemontplayers.com/seating",
+      "status": 200,
+      "final_url": "https://www.mariemontplayers.com/seating",
+      "last_modified": null,
+      "sha256": "ab3aa5b9a085f626286b73f562644b2eb5409b191854af2e6670821d988cb361",
+      "fingerprint_version": 6,
+      "chars": 1549
+    },
+    {
+      "url": "https://www.mariemontplayers.com/directions",
+      "status": 200,
+      "final_url": "https://www.mariemontplayers.com/directions",
+      "last_modified": null,
+      "sha256": "3ca300710ad9eb49587fcb2ca411514ba0e10fb8921a2bfb098eb68f135d4904",
+      "fingerprint_version": 6,
+      "chars": 2552
+    },
+    {
+      "url": "https://www.mariemontplayers.com/health",
+      "status": 200,
+      "final_url": "https://www.mariemontplayers.com/health",
+      "last_modified": null,
+      "sha256": "623ecd6310b6603e44146e260ba5a4ad4eee65ad5fb04b8c87889d87596445d8",
+      "fingerprint_version": 6,
+      "chars": 1545
+    }
+  ],
+  "next_batch": [
+    "american-sign-museum",
+    "everybodys-treehouse-mt-airy-forest",
+    "mariemont-players-walton-creek-theater"
+  ],
+  "urgent_held": {
+    "name": "Momentum Refresh at Summit Park O.F.F. Market, November 21, 2026",
+    "event_url": "https://www.hamiltonddsohio.gov/events/momentum-refresh-at-off-market-2/",
+    "context_url": "https://www.hamiltonddsohio.gov/momentum-refresh/",
+    "status": "Both official county URLs return 403 to the evidence helper. Web text indicates 10am-4pm, wheelchair lift/adult changing/hoist and bring-own-sling policy; these remain unimported leads, not verified catalog notes. Provider homepage alone does not establish local attendance.",
+    "next": "Manual review of official event details and original photo/video tour; do not bypass the failed helper gate."
+  },
+  "kroger_latonia": "Branch source timed out again; no import or local-service inference from generic FAQs."
+}

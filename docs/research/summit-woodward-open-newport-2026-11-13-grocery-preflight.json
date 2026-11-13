@@ -1,0 +1,64 @@
+{
+  "checked_at": "2026-11-13T18:38:13.894127+00:00",
+  "leads": [
+    {
+      "url": "https://www.remkes.com/store-locator/",
+      "status": 200,
+      "final_url": "https://www.remkes.com/store-locator/",
+      "last_modified": null,
+      "sha256": "f3fac5ec19fe9cf92522d83516a215aae938a678fa78b19eaad3ccf6408223e5",
+      "fingerprint_version": 6,
+      "chars": 1141,
+      "disposition": "Not imported. Preliminary next-batch lead only."
+    },
+    {
+      "url": "https://www.meijer.com/shopping/store-locator/168",
+      "status": 403,
+      "error": "Forbidden",
+      "disposition": "Held: HTTP403 to helper despite web-visible branch details; no import."
+    },
+    {
+      "url": "https://www.remkes.com/taylor-mill/",
+      "status": 200,
+      "final_url": "https://www.remkes.com/taylor-mill/",
+      "last_modified": null,
+      "sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+      "fingerprint_version": 6,
+      "chars": 890,
+      "candidate_passages": [
+        {
+          "quote": "5016 Old Taylor Mill Rd Taylor Mill, KY 41015",
+          "matches_fresh_response": true
+        },
+        {
+          "quote": "In-Store Pickup Available",
+          "matches_fresh_response": true
+        },
+        {
+          "quote": "(859) 491-9889",
+          "matches_fresh_response": true
+        }
+      ],
+      "disposition": "Not imported. Preliminary next-batch lead only."
+    },
+    {
+      "url": "https://remke.storebyweb.com/s/1000-6063",
+      "status": 200,
+      "final_url": "https://remke.storebyweb.com/s/1000-6063",
+      "last_modified": null,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "fingerprint_version": 6,
+      "chars": 0,
+      "disposition": "Held: HTTP200 app shell with zero extracted content characters and JavaScript-required message; pickup procedures unverified."
+    }
+  ],
+  "next": "Remke Taylor Mill has official location and in-store pickup wording. Investigate exact collection procedure, carrying limits, entrance and toilet/quiet-space evidence before deciding whether it is substantive enough to list. Do not rename in-store pickup as curbside. Meijer Cold Spring and Kroger Latonia stay held.",
+  "scope": "No new public notes, listings, baseline or freshness credit from these preflights.",
+  "photo_inspection": {
+    "url": "https://www.remkes.com/wp-content/uploads/2023/05/my-store-image-1.jpg",
+    "status": 200,
+    "bytes": 112181,
+    "visually_inspected": true,
+    "disposition": "Held. Black-and-white historical-looking cropped storefront/sign banner. Exact store/capture date not established, no ground-level approach visible and no reuse licence. Not current Taylor Mill documentary evidence."
+  }
+}

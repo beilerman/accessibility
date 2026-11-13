@@ -1188,17 +1188,17 @@
     "https://cincinnatiopen.com/visit/faqs/": {
       "status": 200,
       "final_url": "https://cincinnatiopen.com/visit/faqs/",
-      "last_modified": "Tue, 10 Nov 2026 23:36:44 GMT",
+      "last_modified": "Fri, 13 Nov 2026 18:11:46 GMT",
       "sha256": "18aa53b95ab455752cd5d074fdc4326615940fff802a2d9ebfe7f3bc6cf5281b",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 14906
     },
     "https://cincinnatiopen.com/visit/on-site/bag-policy/": {
       "status": 200,
       "final_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
-      "last_modified": "Tue, 10 Nov 2026 23:36:44 GMT",
+      "last_modified": "Fri, 13 Nov 2026 18:19:15 GMT",
       "sha256": "001c7eaf0bab3d5ec7dcbd38d2f7c348052fb3b56389d71fa192cc0c11f40ec0",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 3535
     },
     "https://ensemblecincinnati.org/visit/accessibility/": {
@@ -1366,7 +1366,7 @@
       "final_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
       "last_modified": null,
       "sha256": "6052be1cb532ee876b5d5c7f803184eda076d0168b9eb5711fbf19e6f4cb3267",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 2408
     },
     "https://www.boonecountyky.org/business_detail_T35_R60.php": {
@@ -1726,7 +1726,7 @@
       "final_url": "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
       "last_modified": null,
       "sha256": "90fd54253fb88f9b5f18573612473f9c71c3c3eaa27fb4898b06a463b75b1438",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1743
     },
     "https://www.summitparkblueash.com/residents/family_restrooms.php": {
@@ -1734,7 +1734,7 @@
       "final_url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
       "last_modified": null,
       "sha256": "99554ed480a26333348d4eea3f91b25b36ff23d1159b1c1911e350658a043da6",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1053
     },
     "https://www.summitparkblueash.com/residents/playground.php": {
@@ -1742,7 +1742,7 @@
       "final_url": "https://www.summitparkblueash.com/residents/playground.php",
       "last_modified": null,
       "sha256": "4aeab2d3f045c417442b9c617114561293d28b1de16d40936be0a330f94ad42d",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1632
     },
     "https://www.summitparkblueash.com/residents/the_observation_tower.php": {
@@ -1758,7 +1758,7 @@
       "final_url": "https://www.summitparkblueash.com/residents/walking_trails.php",
       "last_modified": null,
       "sha256": "0f7dec13b07a10468125b579291e6412fb457733248a8560f3748f05002f02ab",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1014
     },
     "https://www.tankbus.org/faq/": {
@@ -1796,17 +1796,17 @@
     "https://www.woodwardtheater.com/parking-info": {
       "status": 200,
       "final_url": "https://www.woodwardtheater.com/parking-info",
-      "last_modified": "Tue, 10 Nov 2026 23:33:53 GMT",
+      "last_modified": "Fri, 13 Nov 2026 10:52:46 GMT",
       "sha256": "bb277e0dca6256dba7e14832208c7f6d874f8d51fdb06c1bb863a0aa3defb26d",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1304
     },
     "https://www.woodwardtheater.com/plan-your-visit": {
       "status": 200,
       "final_url": "https://www.woodwardtheater.com/plan-your-visit",
-      "last_modified": "Tue, 10 Nov 2026 23:29:01 GMT",
+      "last_modified": "Fri, 13 Nov 2026 07:42:35 GMT",
       "sha256": "d7373f4d8c436430a111bb66bfd4097927da0f583f3e6005829a7ed7d765b9b3",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 1717
     },
     "https://www.cc-pl.org/adult-outreach-services": {
@@ -3743,6 +3743,94 @@
       "sha256": "ec61cc098015f305206618b49b46cf53e99bd1688e96c814948e7f66f73ad451",
       "fingerprint_version": 6,
       "chars": 2667
+    },
+    "https://cincinnatiopen.com/visit/on-site/parking-and-transportation/": {
+      "status": 200,
+      "final_url": "https://cincinnatiopen.com/visit/on-site/parking-and-transportation/",
+      "last_modified": "Fri, 13 Nov 2026 18:11:46 GMT",
+      "sha256": "b1176a653bad59a320fefd8273846f44accbe172906b1937df7ede1cfc38aee1",
+      "fingerprint_version": 6,
+      "chars": 7078
+    },
+    "https://cincinnatiopen.com/visit/site-map/": {
+      "status": 200,
+      "final_url": "https://cincinnatiopen.com/visit/site-map/",
+      "last_modified": "Fri, 13 Nov 2026 18:19:15 GMT",
+      "sha256": "721625ceb91848714b9778f3559984cf3ee11992a6151dd20eb873b11a95890d",
+      "fingerprint_version": 6,
+      "chars": 220
+    },
+    "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx": {
+      "status": 200,
+      "final_url": "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx",
+      "last_modified": "Fri, 13 Nov 2026 18:19:15 GMT",
+      "sha256": "173c33edb033b3acc6efb0bc3cc64cdc33d9ec31ed8514acf49d6a24034f6c43",
+      "fingerprint_version": 6,
+      "chars": 3001
+    },
+    "https://www.greatlakesace.com/locations/newport/": {
+      "status": 200,
+      "final_url": "https://www.greatlakesace.com/locations/newport/",
+      "last_modified": null,
+      "sha256": "b6b853b2f77fdaf8ea259379b3b010babbc5c00aa7b49d4dd62ce3a867fe96fa",
+      "fingerprint_version": 6,
+      "chars": 4182
+    },
+    "https://www.greatlakesace.com/services/curbside-loading/": {
+      "status": 200,
+      "final_url": "https://www.greatlakesace.com/services/curbside-loading/",
+      "last_modified": null,
+      "sha256": "0fdcaa9728a0bbff7df0a4db186119b3fc27b1b4bea725e014e9e28102001dec",
+      "fingerprint_version": 6,
+      "chars": 2157
+    },
+    "https://www.greatlakesace.com/services/home-delivery/": {
+      "status": 200,
+      "final_url": "https://www.greatlakesace.com/services/home-delivery/",
+      "last_modified": null,
+      "sha256": "6a784078bd684ff87bb1553c5922a2a0518b53f62595f43fcfb44daadf121289",
+      "fingerprint_version": 6,
+      "chars": 2223
+    },
+    "https://www.summitparkblueash.com/alert_detail.php": {
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/alert_detail.php",
+      "last_modified": null,
+      "sha256": "1c159a7caf9d340fab255b73680048f106bc89aa77318a62af8ba98da126c7ba",
+      "fingerprint_version": 6,
+      "chars": 1011
+    },
+    "https://www.summitparkblueash.com/ice_rink/index.php": {
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/ice_rink/index.php",
+      "last_modified": null,
+      "sha256": "70b60630d2676d96c32f3ee9615b896e82f65e57165e1a9e57af653989ffb5f9",
+      "fingerprint_version": 6,
+      "chars": 6475
+    },
+    "https://www.summitparkblueash.com/the_observation_tower.php": {
+      "status": 200,
+      "final_url": "https://www.summitparkblueash.com/the_observation_tower.php",
+      "last_modified": null,
+      "sha256": "58ea530305ea40eba152e0b2bec875d1c3cb76e6e2bfbf4a2d9178574d1e9bc5",
+      "fingerprint_version": 6,
+      "chars": 2876
+    },
+    "https://www.woodwardtheater.com/frequently-asked-questions": {
+      "status": 200,
+      "final_url": "https://www.woodwardtheater.com/frequently-asked-questions",
+      "last_modified": "Fri, 13 Nov 2026 08:23:59 GMT",
+      "sha256": "51ff948ff80a03932a4630fd43854ab4336c101d536261ba69d65bd1a37bad25",
+      "fingerprint_version": 6,
+      "chars": 2900
+    },
+    "https://zieglerpark.org/parking/": {
+      "status": 200,
+      "final_url": "https://zieglerpark.org/parking/",
+      "last_modified": null,
+      "sha256": "f04ff02b729e5b9940a91451e1873f74ce2f7209d6a68251cea5aac601f37318",
+      "fingerprint_version": 6,
+      "chars": 2790
     }
   },
   "findings": {

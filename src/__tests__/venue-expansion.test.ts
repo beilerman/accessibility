@@ -11,6 +11,16 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Newport hardware pickup while preserving collection and delivery limits", () => {
+    const slug = "great-lakes-ace-newport";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("82 Carothers Road, Newport, KY 41071");
+    expect(text(slug)).toContain("wait for the email confirming the order is ready");
+    expect(text(slug)).toContain("call the store number in the confirmation email");
+    expect(place(slug).limitations).toContain("not a promise of lifting, trunk loading");
+    expect(place(slug).limitations).toContain("no on-site audit");
+    expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Covington thrift shopping and self-serve food without promising physical access or staff help", () => {
     expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain("thrifting-on-eastern");
     expect(place("thrifting-on-eastern").address).toBe("2014 Eastern Ave, Covington, KY 41014");

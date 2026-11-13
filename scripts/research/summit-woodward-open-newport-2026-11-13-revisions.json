@@ -1,0 +1,79 @@
+[
+  {
+    "id": "summit-park-blue-ash.mobility.1",
+    "old_text": "Trails are a blend of pavement, mulch and crushed gravel. Just under four laps of the Great Lawn make a mile.",
+    "text": "The Great Lawn loop uses paved paths; the wider trail network includes pavement, mulch and crushed gravel. Just under four laps around the Great Lawn make a mile.",
+    "url": "https://www.summitparkblueash.com/residents/walking_trails.php",
+    "quote": [
+      "Whether you’re looping around the Great Lawn on paved paths, exploring shaded woodland trails, or admiring the views near the prairie and pond, there’s a route for every pace and preference.",
+      "With a blend of pavement, mulch, and crushed gravel, the trails invite you to unwind and take in the fresh air across 130 acres of parkland.",
+      "It takes just under 4 laps around the Great Lawn to complete a mile!"
+    ],
+    "published_at": null,
+    "reason": "Clarified which route is paved; retained mixed surfaces elsewhere and full support for distance."
+  },
+  {
+    "id": "summit-park-blue-ash.mobility.2",
+    "old_text": "Motorized devices are prohibited in Blue Ash parks, except mobility devices used for accessibility.",
+    "text": "Mobility devices used for accessibility purposes are exempt from the park’s motorized-device prohibition. The rules also allow Class 1, 2 and 3 e-bikes in non-powered mode and low-speed micro-mobility scooters.",
+    "url": "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
+    "quote": "Motorized vehicles and motor-propelled devices are prohibited within Blue Ash parks, except: Mobility devices used for accessibility purposes Class 1,2,3 E-bikes in non-powered mode only Low-speed micro-mobility scooters",
+    "published_at": null,
+    "reason": "Retained all listed exceptions instead of implying that mobility devices were the only exception."
+  },
+  {
+    "id": "summit-park-blue-ash.mobility.3",
+    "old_text": "The main playground has ADA ramps.",
+    "text": "The park describes the main playground as having ADA ramps; it does not give ramp dimensions or a continuous route description.",
+    "url": "https://www.summitparkblueash.com/residents/playground.php",
+    "quote": "With inclusion, accessibility, and innovation top of mind, it features ADA ramps.",
+    "published_at": null,
+    "reason": "Attributed the source’s ADA terminology and kept route dimensions unverified."
+  },
+  {
+    "id": "summit-park-blue-ash.cognitive.1",
+    "old_text": "The Observation Tower is temporarily closed for improvements.",
+    "text": "The tower page, updated October 26, 2026, reports a closure starting October 2 for approximately six to eight weeks to replace damaged glass panels. Reopening updates are to appear in the homepage alert; the estimate is not a confirmed reopening date.",
+    "url": "https://www.summitparkblueash.com/the_observation_tower.php",
+    "quote": [
+      "Starting Oct. 2, the Summit Park Tower is temporarily closed for approximately six to eight weeks while damaged glass panels are replaced.",
+      "Reopening updates will be posted via the alert on the Summit Park homepage.",
+      "(Page updated: 10.26.26)"
+    ],
+    "published_at": "2026-10-26",
+    "reason": "Replaced the surviving February 2022 page with the current navigation-linked October 2026 closure notice; no reopening inferred from an estimate."
+  },
+  {
+    "id": "woodward-theater.mobility.2",
+    "old_text": "Two metered accessible parking spaces are on Main St within 50 feet of the main entrance. Ziegler Park Garage, one block east at Sycamore and 14th, is covered, open 24 hours and has 500 spaces.",
+    "text": "Woodward lists two metered accessible spaces on Main Street within 50 feet of its main entrance. Its visitor page describes Ziegler Park Garage, one block east at Sycamore and 14th, as covered, open 24 hours and containing 500 spaces.",
+    "url": "https://www.woodwardtheater.com/plan-your-visit",
+    "quote": [
+      "There are two metered handicap parking spaces on Main St within 50 feet of our main entrance.",
+      "Ziegler Park Garage , located one-block east of the Woodward at the corner of Sycamore and 14th streets, is a covered, 24-hour facility with 500 spaces."
+    ],
+    "published_at": null,
+    "reason": "Attributed the theater’s parking description; the garage operator separately lists 400 spaces, retained as a visible source conflict."
+  },
+  {
+    "id": "woodward-theater.cognitive.1",
+    "old_text": "Purses, backpacks and bags are prohibited unless they meet the venue's bag guidelines, so check them before you go.",
+    "text": "Bags must be clear and no larger than 12 × 12 × 6 inches; clutches may be no larger than 1 × 6 × 4 inches. Diaper bags are an exception when accompanied by a child and are subject to a full entry search. The page does not specify a medical-bag exception; confirm that need before arriving.",
+    "url": "https://www.woodwardtheater.com/plan-your-visit",
+    "quote": "Purses / Backpacks / Bags are prohibited unless they fit the guidelines below: Bags must be CLEAR and may not exceed 12\"x12\"x6\" Clutches are permitted but may not exceed 1\"x6\"x4\" Exceptions: Diaper Bags w/ accompanying child. These bags are subject to full search upon entry.",
+    "published_at": null,
+    "reason": "Expanded the vague bag-policy summary with exact limits and the stated exception; no medical-bag permission inferred."
+  },
+  {
+    "id": "lindner-family-tennis-center-cincinnati-open.mobility.2",
+    "old_text": "Elevators serve the upper levels of Grandstand and Center Court; ushers can direct you to the closest one. If you already have tickets and need ADA seating, call 513-651-0303 or visit the North Entrance ticket office during the tournament.",
+    "text": "Elevators serve the upper levels of Grandstand and Center Court; ushers can direct you to the closest one. Request ADA seating when ordering. If tickets are already purchased, call 513-651-0303 or ask at the North Entrance ticket office during the tournament. The organizer says it will do its best to accommodate the request, rather than guaranteeing a seat change.",
+    "url": "https://cincinnatiopen.com/visit/faqs/",
+    "quote": [
+      "There is elevator access to the upper levels of Grandstand and Center Court. An usher will be able to direct you to the elevator closest to your seats.",
+      "If you are in need of ADA seating, please let us know when you are placing your ticket order and we will do our best to accommodate the request. If you have already purchased tickets and are now in need of ADA seating, please call 513-651-0303 or see the ticket office at the North Entrance during the tournament and we will do our best to accommodate your party."
+    ],
+    "published_at": null,
+    "reason": "Restored advance-request instructions and best-efforts condition for seating; retained elevator scope."
+  }
+]

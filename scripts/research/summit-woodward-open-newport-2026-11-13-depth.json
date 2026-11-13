@@ -1,0 +1,197 @@
+{
+  "summit-park-blue-ash": [
+    [
+      "chronic",
+      "The restroom page says the Canopy restrooms stay open year-round. It does not describe door controls, toilet transfers or adult-changing equipment.",
+      "https://www.summitparkblueash.com/residents/family_restrooms.php",
+      "public_agency",
+      "Canopy restrooms will remain open year-round"
+    ],
+    [
+      "chronic",
+      "Outdoor water fountains are turned off for winter and reopen in spring, according to the park’s restroom notice. Bring drinking water during the winter shutdown.",
+      "https://www.summitparkblueash.com/residents/family_restrooms.php",
+      "public_agency",
+      "All outdoor water fountains throughout the City will also be turned off for the winter and reopen in the spring."
+    ],
+    [
+      "mobility",
+      "The main playground is southwest of the Canopy. Its published features include seating with sightlines for parents, passive and active play areas and nearby restrooms.",
+      "https://www.summitparkblueash.com/residents/playground.php",
+      "public_agency",
+      [
+        "Located southwest of the Canopy, this award-winning, colorful, one-acre playground features traversable ropes, play mounds, and extra-wide slides.",
+        "Other features include an activity wall, ample seating with visibility for parents, passive and active play areas, and restrooms conveniently located just a few steps away."
+      ]
+    ],
+    [
+      "cognitive",
+      "General park hours are dawn to midnight, but natural spaces, trails, ponds and other unlit areas close at 11 p.m.",
+      "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
+      "public_agency",
+      "Hours Dawn to Midnight Natural spaces, trails, ponds, and other unlit areas of the park close at 11:00 p.m."
+    ],
+    [
+      "cognitive",
+      "The October 21, 2026 alert reports the Water Corridor closed for maintenance. It gives no reopening date.",
+      "https://www.summitparkblueash.com/alert_detail.php",
+      "public_agency",
+      [
+        "Water Corridor Temporary Closure The Water Corridor is temporarily closed for maintenance.",
+        "(updated 10.21.2026)"
+      ]
+    ],
+    [
+      "sensory",
+      "For the 2026–27 rink season, sensory-sensitive sessions are listed for December 13 and December 21, 2026, from 11 a.m. to noon. Places are limited and reservations are required. The park describes a calmer, less crowded skate and a quiet sensory item to choose at check-in.",
+      "https://www.summitparkblueash.com/ice_rink/index.php",
+      "public_agency",
+      [
+        "November 14, 2026 – January 10, 2027",
+        "Sensory Sensitive Hours (Limited Spots, Reservation Required) Sunday, December 13 | 11 AM to 12 PM Monday, December 21 | 11 AM to 12 PM Enjoy a calmer, less crowded skate designed for guests who prefer or benefit from a quieter experience. Each skater can choose a quiet sensory item at check in. Space is limited, so reserve your spot today:"
+      ]
+    ],
+    [
+      "mobility",
+      "The 2026–27 rink page offers free skate helpers on a first-come, first-served basis. It does not describe wheelchair use on the ice, assisted transfers or staff-provided physical support.",
+      "https://www.summitparkblueash.com/ice_rink/index.php",
+      "public_agency",
+      [
+        "November 14, 2026 – January 10, 2027",
+        "Free skate helpers, sponsored by MadTree Parks and Rec , are available on a first-come, first-served basis to help new or young skaters find their balance and confidence on the ice."
+      ]
+    ],
+    [
+      "cognitive",
+      "The rink’s advertised season is November 14, 2026–January 10, 2027. Regular tickets are sold at the rink, with no online or advance sales; weather can temporarily close it, with updates on the park homepage.",
+      "https://www.summitparkblueash.com/ice_rink/index.php",
+      "public_agency",
+      [
+        "November 14, 2026 – January 10, 2027",
+        "Tickets are available for purchase at the rink only (no online or advance sales).",
+        "Weather and temperature changes may temporarily close the rink. A pop-up alert will appear on the Summit Park homepage in the event of a closure."
+      ]
+    ]
+  ],
+  "woodward-theater": [
+    [
+      "cognitive",
+      "The theater opens for scheduled events rather than maintaining general visitor hours. Check the individual show listing; admission for guests under 18 depends on the event.",
+      "https://www.woodwardtheater.com/frequently-asked-questions",
+      "venue_official",
+      [
+        "The Woodward Theater is open when we have events: concerts, films, theater, fundraisers, ticketed events, and anything else open to the public.",
+        "I'm under 18. Can I go to a concert at the Woodward? A: It depends on the particular show."
+      ]
+    ],
+    [
+      "mobility",
+      "Ziegler Park’s own parking page describes a 400-space, two-level garage, with elevators in the northwest and southwest corners. This describes the nearby garage, not a verified continuous route to the theater.",
+      "https://zieglerpark.org/parking/",
+      "operator_official",
+      [
+        "Ziegler Park's 400-space, two-level, underground parking garage is located directly below the great lawn.",
+        "The garage's wide, open parking decks are well-lit and have have three broad stairwells, in addition to elevators that are located at the northwest and southwest corners."
+      ]
+    ],
+    [
+      "mobility",
+      "The Ziegler garage’s vehicle entrance and exit are on Sycamore Street, at the published address 1322 Sycamore Street. Automated pay stations allow payment before returning to the vehicle; the operator says the garage is staffed around the clock.",
+      "https://zieglerpark.org/parking/",
+      "operator_official",
+      [
+        "The vehicular entrance/exit is located on Sycamore Street. Automated pay stations allow you to pay for parking before returning to your vehicle.",
+        "ADDRESS 1322 Sycamore Street Cincinnati, OH 45202",
+        "The garage, which is available to monthly and daily parkers, is open and staffed 24 hours a day, seven days a week."
+      ]
+    ]
+  ],
+  "lindner-family-tennis-center-cincinnati-open": [
+    [
+      "mobility",
+      "The tournament’s interactive map describes limited wheelchair parking directly outside the North Entrance. This does not establish shuttle boarding arrangements or guarantee an available space.",
+      "https://cincinnatiopen.com/visit/site-map/",
+      "venue_official",
+      "Limited wheelchair parking is available directly outside the North Entrance."
+    ],
+    [
+      "mobility",
+      "Rideshare pickup and drop-off are at the East Entrance. This is separate from the patron drop-off described by the North Entrance.",
+      "https://cincinnatiopen.com/visit/on-site/parking-and-transportation/",
+      "venue_official",
+      [
+        "Rideshare drop-off and pick-up is located at the East Entrance.",
+        "To drop someone off at the entry gates, drive to the patron drop-off located by the North Entrance."
+      ]
+    ],
+    [
+      "chronic",
+      "During the tournament, the First Aid center is at the south end of Stadium 3 and north end of the Commons.",
+      "https://cincinnatiopen.com/visit/faqs/",
+      "venue_official",
+      "If you are in need of first aid, head to the First Aid center located on the south end of Stadium 3 and north end of the Commons."
+    ],
+    [
+      "chronic",
+      "The map directs visitors needing nursing or rehydration help to the Mercy Health First Aid Center. It does not describe a separate nursing room or its facilities.",
+      "https://cincinnatiopen.com/visit/site-map/",
+      "venue_official",
+      "Visit the Mercy Health First Aid Center for all your on-site health needs. Whether you need a band aid or more serious medical attention, you're nursing or need to rehydrate, the team from Mercy Health is here to help."
+    ],
+    [
+      "chronic",
+      "The interactive map identifies misting stations and drinking-water stations for tournament visitors. These descriptions do not establish an indoor cooling room.",
+      "https://cincinnatiopen.com/visit/site-map/",
+      "venue_official",
+      [
+        "Stay cool with one of our misting stations.",
+        "Stay hydrated with one of our water stations."
+      ]
+    ],
+    [
+      "cognitive",
+      "Metal detectors are posted at all entrances. The FAQ says guests are asked to empty their pockets and pass through the detector; it does not explain an alternative screening procedure for medical devices or mobility aids.",
+      "https://cincinnatiopen.com/visit/faqs/",
+      "venue_official",
+      "Metal detectors will be stationed at all entrances around the grounds. All guests will be asked to empty their pockets and pass through the detector."
+    ],
+    [
+      "cognitive",
+      "Prohibited items found during bag inspection must be returned to the owner’s vehicle or discarded. The tournament says it provides no storage area for them; bags left at a gate remain the owner’s risk.",
+      "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+      "venue_official",
+      "Prohibited items that are discovered during inspections must either be returned to their owner’s vehicle or discarded. The Lindner Family Tennis Center will not provide a storage area for these items. Any bag left at a gate is left at the owner’s risk."
+    ],
+    [
+      "chronic",
+      "The detailed water-bottle allowance is one unopened see-through plastic bottle up to 1 liter, or one empty non-see-through water container up to 1 liter. Labels for brands other than the tournament sponsor must be removed before entry.",
+      "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+      "venue_official",
+      [
+        "One unopened see-through plastic bottle of water up to 33.5 ounces/1 liter. If not see-through, one empty water container up to 33.5 ounces/1 liter.",
+        "Due to sponsorship exclusivity, if your water bottle has a label other than the tournament sponsor brand, the label must be removed before entering tournament grounds."
+      ]
+    ],
+    [
+      "mobility",
+      "The prohibited-items list exempts motorized vehicles associated with a medical need and exempts service animals from its animal restriction. It does not specify device dimensions or assistance with transfers.",
+      "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+      "venue_official",
+      [
+        "Hoverboards, Skateboards, Segways or any motorized vehicle not associated with a medical need",
+        "Animals (Except service animals)"
+      ]
+    ],
+    [
+      "cognitive",
+      "Single-compartment bags such as totes or cinch bags must be at most 12 × 18 × 15 inches and fit on the visitor’s lap or under their seat. Single-strap diaper bags are allowed with a child. Multi-compartment backpacks with multiple shoulder straps are prohibited, and all bags are searched.",
+      "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+      "venue_official",
+      [
+        "Guests will not be permitted to bring backpacks (multi-compartment bag with multiple shoulder straps) into Lindner Family Tennis Center",
+        "All bags are subject to a complete and thorough search.",
+        "Tote bags, cinch bags and other single compartment bags 12″ x 18″ x 15″ or smaller (bag must fit on lap or under the seat occupied). Single strap diaper bags if accompanied by a child."
+      ]
+    ]
+  ]
+}

@@ -1,6 +1,6 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Carnegie, Ensemble, Memorial Hall and VOA full reviews; Florence partial depth; COVUnity Banklick; two licensed photos and six original visual/equipment links.
+Updated November 13, 2026, after Summit Park, Woodward, Cincinnati Open and Boone Cliffs full reviews; Newport Ace; one licensed photo and seven original visual links.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
@@ -9,11 +9,11 @@ they enter the public catalog.
 Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
 [the implemented follow-up](accuracy-follow-up-2026-11-12.md). Fresh all-clause
 evidence now covers 42 notes at Art Museum, CAC, Pyramid Hill and Taft. The
-remaining legacy missing-passage backlog is now **73 notes**. The latest pass adds
-four full reviews (24 old notes) and one partial review at Florence (one old note),
-repairing 17 missing passages. There are six corrections/clarifications, separate
-from 34 new IDs. Florence’s whole-venue date stays November 11. The preceding
-153-place batch is already in this pass’s publication base. Start with transit
+remaining legacy missing-passage backlog is now **56 notes**. The latest pass adds
+four full reviews (17 old notes), repairing all 17 missing passages. Eight
+corrections/clarifications are separate from 32 new IDs. The preceding 154-place
+batch is already in the publication base. Treehouse gains only a visual link;
+its note-review date is unchanged. Start with transit
 eligibility and assistance limits, entrances and toilets/changing facilities.
 TANK Route 5's multi-stop note and Latonia's holiday-closure note now retain
 support for their secondary clauses; inspect other compound notes similarly. Use separate passages when clauses are
@@ -36,8 +36,21 @@ snippets. The terms request disconnected and the gift-card blog returned 503.
 No current Caroline’s Cart inventory is established by old 2014/2017 news. See
 `carnegie-ensemble-memorial-voa-banklick-2026-11-13-kroger-preflight.json`.
 
-The prepared catalog has 154 places: 32 arts venues, 31 parks/outdoors, 21 museums/
-attractions, 15 libraries, seven transport, sixteen food/drink, twelve shopping,
+Additional grocery leads from this pass: **Remke Taylor Mill, 5016 Old Taylor Mill
+Road**, has readable official location and in-store pickup wording; collection
+procedures remain unextractable in its JavaScript ordering app. Do not relabel
+that service as curbside. Its header is a historical storefront banner, not
+current branch access evidence. **Meijer Cold Spring** returns 403 to the helper.
+See `summit-woodward-open-newport-2026-11-13-grocery-preflight.json`; no import or
+freshness credit. Prefer resolving substantive collection/entrance details at
+Remke over repeatedly retrying blocked Kroger alone.
+
+**Great Lakes Ace Hardware — Newport is now added**, with four verified pickup/
+delivery notes at 82 Carothers Road. Physical arrival, collection bay and in-store
+access remain unknown; no trunk-loading or indoor carrying service is inferred.
+
+The prepared catalog has 155 places: 32 arts venues, 31 parks/outdoors, 21 museums/
+attractions, 15 libraries, seven transport, sixteen food/drink, thirteen shopping,
 twelve public-service and eight recreation/fitness listings. Continue seeking
 concrete access information for everyday activities and less represented neighborhoods.
 
@@ -65,7 +78,53 @@ Keep each claim within the scope of its source. Record missing evidence and
 conflicting statements. A family restroom label alone does not establish its
 physical access features.
 
-## Latest pass — November 13 Carnegie, Ensemble, Memorial, VOA and Banklick
+## Latest pass — November 13 Summit, Woodward, Cincinnati Open, Boone Cliffs and Newport
+
+- **Evidence/freshness:** four full reviews covering **17 old notes: nine unchanged,
+  eight revised**. All 17 missing passages repaired (**73 → 56**). Summit five,
+  Woodward five, Open four, Boone three. No partial note review; Treehouse's extra
+  guide is photo-only with no date change. Old IDs and history remain intact.
+- **Growth:** **32 new IDs** — Summit 8, Woodward 3, Open 10, Boone 7 and new
+  Newport Ace 4. The shopping category now has 13 listings.
+- **Corrections/depth:** current October tower closure replaces the surviving
+  2022 page; seasonal restrooms/water and sensory-rink reservations are explicit.
+  Woodward's 500-space garage claim conflicts with the operator's 400; northwest
+  and southwest elevator locations remain separate from a complete theater route.
+  Open seating is best efforts, North patron/East rideshare are distinct, and
+  First Aid nursing support is not a dedicated room. Boone county 48-hour versus
+  state 24-hour reservations conflict; seasonal hours do not replace visit blocks.
+- **Imagery:** one March 10, 2019 Woodward CC0 full frame by Warren LeMay, showing
+  crossing/curb-ramp/tactile-panel context with doorway partly obscured. Seven
+  original links: Summit city/architect galleries, nearby Ziegler garage, Open
+  campus/map views, Boone winter trail and Treehouse reopening approach/handrails.
+  The media receipt covers many candidate views and 15 inspected PDF pages,
+  distinguishing crowds, duplicate scenes, drawings, old opening notices and
+  blocked Commons downloads. No unlicensed republication or AI was added.
+- **Held:** current toilet/changing/complete-route details across this batch;
+  Summit elevator operation; Open shuttle boarding; Newport pickup bay. Kroger
+  Latonia timed out again. A useful **November 21 Momentum Refresh at Summit Park**
+  lead is held because both county event/service pages return 403 to the helper,
+  despite web-visible details. Do not import those snippets or bypass the gate.
+- **Checks/totals:** 50 final note/address checks and 20 selected active-source
+  baselines; seven guide URLs 200. 98 unit/74 pipeline, lint/types/build pass,
+  170 pages. Ten final HTTP routes and one photo hash pass. Fresh Chromium launch
+  is blocked by MachPort 1100; CUA browser host unavailable. Runner's 143 browser
+  tests remain required. **155 places; 1,662 active/one retired; 1,606 quoted active;
+  56 missing; 74 photos; 58 guide entries/53 URLs (32 PDF/21 web)**.
+
+Read `summit-woodward-open-newport-2026-11-13.md` and its delta/media/source/HTTP/
+validation/next-preflight receipts. All same-prefix mutation specs are **already
+applied; do not reapply**. No agent Git writes, publication or deployment.
+
+**Next concrete batch:** American Sign Museum (four missing), Everybody's Treehouse
+(five) and Mariemont Players (five), alongside an everyday grocery or recreation
+lead. Nine source URLs passed availability-only checks. Treehouse's three official
+reopening photos are now linked; compare historical Commons views with the 2026
+structural/guardrail/roof changes. Prioritize the held Momentum event review before
+November 21. Preserve Molly Malone's and Heritage Village source blocks. Continue
+actual entrance, toilet, changing and route photographs, not just exteriors.
+
+## Previous pass — November 13 Carnegie, Ensemble, Memorial, VOA and Banklick
 
 - **Evidence/freshness:** four full reviews: Carnegie 7, Ensemble 8, Memorial 5,
   VOA 4 old notes. Florence adds one partial old-note revision; its November 11
@@ -105,7 +164,7 @@ Read `carnegie-ensemble-memorial-voa-banklick-2026-11-13.md` and its delta, medi
 HTTP, source and validation receipts. Core Carnegie/Ensemble/Memorial/Banklick,
 VOA depth/arrival and Florence partial specs are **already applied; do not reapply**.
 
-**Next concrete batch:** **Summit Park (five missing), Woodward Theater (five),
+**Historical next batch, completed by the latest pass:** **Summit Park (five missing), Woodward Theater (five),
 Lindner Family Tennis Center/Cincinnati Open (four)** plus the held everyday
 Kroger Latonia lead. Nine source URLs passed availability-only preflight; no
 claim review or freshness credit. Molly Malone’s three source URLs returned

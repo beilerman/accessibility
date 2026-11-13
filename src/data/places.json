@@ -26487,8 +26487,8 @@
     "address": "1404 Main Street, Cincinnati, OH 45202",
     "website": "https://www.woodwardtheater.com/",
     "source_url": "https://www.woodwardtheater.com/plan-your-visit",
-    "limitations": "Public website information; no on-site audit. The venue says its entry and bathrooms are ADA-compliant but publishes no details on wheelchair viewing spots, assistive listening, sensory resources, service animals or re-entry. Seating is limited and must be requested; confirm with the venue (woodwardtheater@gmail.com, 513-345-7981) before the show.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. The theater attributes ADA-compliant entry and bathrooms but gives no door controls, thresholds, toilet transfer space or adult-changing details. Wheelchair viewing locations, assistive listening, sensory resources, service-animal arrangements and re-entry remain unverified. Seating is limited and must be requested. The theater describes Ziegler Park Garage as having 500 spaces; the garage operator says 400. Garage elevators do not verify a continuous route to the theater. Confirm arrangements at woodwardtheater@gmail.com or 513-345-7981.",
+    "checked_at": "2026-11-13",
     "slug": "woodward-theater",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -26499,7 +26499,7 @@
         "source_url": "https://www.woodwardtheater.com/plan-your-visit",
         "id": "woodward-theater.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26508,16 +26508,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Two metered accessible parking spaces are on Main St within 50 feet of the main entrance. Ziegler Park Garage, one block east at Sycamore and 14th, is covered, open 24 hours and has 500 spaces.",
+        "text": "Woodward lists two metered accessible spaces on Main Street within 50 feet of its main entrance. Its visitor page describes Ziegler Park Garage, one block east at Sycamore and 14th, as covered, open 24 hours and containing 500 spaces.",
         "source_url": "https://www.woodwardtheater.com/plan-your-visit",
         "id": "woodward-theater.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26526,6 +26531,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attributed the theater’s parking description; the garage operator separately lists 400 spaces, retained as a visible source conflict."
           }
         ]
       },
@@ -26535,7 +26545,7 @@
         "source_url": "https://www.woodwardtheater.com/plan-your-visit",
         "id": "woodward-theater.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26544,6 +26554,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26553,7 +26568,7 @@
         "source_url": "https://www.woodwardtheater.com/parking-info",
         "id": "woodward-theater.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26562,22 +26577,86 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Purses, backpacks and bags are prohibited unless they meet the venue's bag guidelines, so check them before you go.",
+        "text": "Bags must be clear and no larger than 12 × 12 × 6 inches; clutches may be no larger than 1 × 6 × 4 inches. Diaper bags are an exception when accompanied by a child and are subject to a full entry search. The page does not specify a medical-bag exception; confirm that need before arriving.",
         "source_url": "https://www.woodwardtheater.com/plan-your-visit",
         "id": "woodward-theater.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Expanded the vague bag-policy summary with exact limits and the stated exception; no medical-bag permission inferred."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The theater opens for scheduled events rather than maintaining general visitor hours. Check the individual show listing; admission for guests under 18 depends on the event.",
+        "source_url": "https://www.woodwardtheater.com/frequently-asked-questions",
+        "id": "woodward-theater.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Ziegler Park’s own parking page describes a 400-space, two-level garage, with elevators in the northwest and southwest corners. This describes the nearby garage, not a verified continuous route to the theater.",
+        "source_url": "https://zieglerpark.org/parking/",
+        "id": "woodward-theater.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Ziegler garage’s vehicle entrance and exit are on Sycamore Street, at the published address 1322 Sycamore Street. Automated pay stations allow payment before returning to the vehicle; the operator says the garage is staffed around the clock.",
+        "source_url": "https://zieglerpark.org/parking/",
+        "id": "woodward-theater.mobility.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -26593,8 +26672,8 @@
     "address": "6100 Legacy Park Way, Mason, OH 45040",
     "website": "https://cincinnatiopen.com/",
     "source_url": "https://cincinnatiopen.com/visit/faqs/",
-    "limitations": "Public website information; no on-site audit. The tournament FAQ covers the August Cincinnati Open only. It does not say whether parking shuttles have lifts, where accessible restrooms are, or whether assistive listening, captioning, quiet or cooling spaces are offered.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. These sources describe the Cincinnati Open tournament, not year-round Sporting Club arrangements. The site now promotes August 2027 while its parking page retains 2026 pass deadlines; confirm next-season sales and operating arrangements. Shuttle lifts, ramp dimensions, accessible restroom locations, adult changing, assistive listening, captions, quiet rooms and private nursing-room facilities remain unverified. First Aid nursing support and outdoor misting stations do not establish a dedicated nursing or indoor cooling room. Seating requests are best efforts, and no mobility-equipment rental or wheelchair concierge is offered.",
+    "checked_at": "2026-11-13",
     "slug": "lindner-family-tennis-center-cincinnati-open",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -26605,7 +26684,7 @@
         "source_url": "https://cincinnatiopen.com/visit/faqs/",
         "id": "lindner-family-tennis-center-cincinnati-open.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26614,16 +26693,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Elevators serve the upper levels of Grandstand and Center Court; ushers can direct you to the closest one. If you already have tickets and need ADA seating, call 513-651-0303 or visit the North Entrance ticket office during the tournament.",
+        "text": "Elevators serve the upper levels of Grandstand and Center Court; ushers can direct you to the closest one. Request ADA seating when ordering. If tickets are already purchased, call 513-651-0303 or ask at the North Entrance ticket office during the tournament. The organizer says it will do its best to accommodate the request, rather than guaranteeing a seat change.",
         "source_url": "https://cincinnatiopen.com/visit/faqs/",
         "id": "lindner-family-tennis-center-cincinnati-open.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26632,6 +26716,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restored advance-request instructions and best-efforts condition for seating; retained elevator scope."
           }
         ]
       },
@@ -26641,7 +26730,7 @@
         "source_url": "https://cincinnatiopen.com/visit/faqs/",
         "id": "lindner-family-tennis-center-cincinnati-open.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26650,6 +26739,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26659,13 +26753,198 @@
         "source_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
         "id": "lindner-family-tennis-center-cincinnati-open.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The tournament’s interactive map describes limited wheelchair parking directly outside the North Entrance. This does not establish shuttle boarding arrangements or guarantee an available space.",
+        "source_url": "https://cincinnatiopen.com/visit/site-map/",
+        "id": "lindner-family-tennis-center-cincinnati-open.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Rideshare pickup and drop-off are at the East Entrance. This is separate from the patron drop-off described by the North Entrance.",
+        "source_url": "https://cincinnatiopen.com/visit/on-site/parking-and-transportation/",
+        "id": "lindner-family-tennis-center-cincinnati-open.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "During the tournament, the First Aid center is at the south end of Stadium 3 and north end of the Commons.",
+        "source_url": "https://cincinnatiopen.com/visit/faqs/",
+        "id": "lindner-family-tennis-center-cincinnati-open.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The map directs visitors needing nursing or rehydration help to the Mercy Health First Aid Center. It does not describe a separate nursing room or its facilities.",
+        "source_url": "https://cincinnatiopen.com/visit/site-map/",
+        "id": "lindner-family-tennis-center-cincinnati-open.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The interactive map identifies misting stations and drinking-water stations for tournament visitors. These descriptions do not establish an indoor cooling room.",
+        "source_url": "https://cincinnatiopen.com/visit/site-map/",
+        "id": "lindner-family-tennis-center-cincinnati-open.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Metal detectors are posted at all entrances. The FAQ says guests are asked to empty their pockets and pass through the detector; it does not explain an alternative screening procedure for medical devices or mobility aids.",
+        "source_url": "https://cincinnatiopen.com/visit/faqs/",
+        "id": "lindner-family-tennis-center-cincinnati-open.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Prohibited items found during bag inspection must be returned to the owner’s vehicle or discarded. The tournament says it provides no storage area for them; bags left at a gate remain the owner’s risk.",
+        "source_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+        "id": "lindner-family-tennis-center-cincinnati-open.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The detailed water-bottle allowance is one unopened see-through plastic bottle up to 1 liter, or one empty non-see-through water container up to 1 liter. Labels for brands other than the tournament sponsor must be removed before entry.",
+        "source_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+        "id": "lindner-family-tennis-center-cincinnati-open.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The prohibited-items list exempts motorized vehicles associated with a medical need and exempts service animals from its animal restriction. It does not specify device dimensions or assistance with transfers.",
+        "source_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+        "id": "lindner-family-tennis-center-cincinnati-open.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Single-compartment bags such as totes or cinch bags must be at most 12 × 18 × 15 inches and fit on the visitor’s lap or under their seat. Single-strap diaper bags are allowed with a child. Multi-compartment backpacks with multiple shoulder straps are prohibited, and all bags are searched.",
+        "source_url": "https://cincinnatiopen.com/visit/on-site/bag-policy/",
+        "id": "lindner-family-tennis-center-cincinnati-open.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -26787,19 +27066,19 @@
     "address": "4335 Glendale Milford Road, Blue Ash, OH 45242",
     "website": "https://www.summitparkblueash.com/",
     "source_url": "https://www.summitparkblueash.com/residents/walking_trails.php",
-    "limitations": "Public website information; no on-site audit. The park's parking page does not yet say where accessible parking is. Restroom accessibility beyond 'family restrooms' and playscape surfaces are not described.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. Accessible parking locations, exact curb-to-path routes, tower elevator arrangements, door controls, toilet transfer space and adult-changing equipment remain unverified. The current tower page reports an October 2026 closure; the older February 2022 page is not the source for current operation. Do not infer reopening from an estimated duration or from 2025 reopening publicity. Nearby playground restrooms have winter restrictions despite general playground descriptions. Regular rink ticket sales and reservation-only sensory sessions are different arrangements; wheelchair use on the ice and personal assistance are not established.",
+    "checked_at": "2026-11-13",
     "slug": "summit-park-blue-ash",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Trails are a blend of pavement, mulch and crushed gravel. Just under four laps of the Great Lawn make a mile.",
+        "text": "The Great Lawn loop uses paved paths; the wider trail network includes pavement, mulch and crushed gravel. Just under four laps around the Great Lawn make a mile.",
         "source_url": "https://www.summitparkblueash.com/residents/walking_trails.php",
         "id": "summit-park-blue-ash.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26808,16 +27087,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Clarified which route is paved; retained mixed surfaces elsewhere and full support for distance."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Motorized devices are prohibited in Blue Ash parks, except mobility devices used for accessibility.",
+        "text": "Mobility devices used for accessibility purposes are exempt from the park’s motorized-device prohibition. The rules also allow Class 1, 2 and 3 e-bikes in non-powered mode and low-speed micro-mobility scooters.",
         "source_url": "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
         "id": "summit-park-blue-ash.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26826,6 +27110,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retained all listed exceptions instead of implying that mobility devices were the only exception."
           }
         ]
       },
@@ -26835,13 +27124,100 @@
         "source_url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
         "id": "summit-park-blue-ash.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The park describes the main playground as having ADA ramps; it does not give ramp dimensions or a continuous route description.",
+        "source_url": "https://www.summitparkblueash.com/residents/playground.php",
+        "id": "summit-park-blue-ash.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attributed the source’s ADA terminology and kept route dimensions unverified."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The tower page, updated October 26, 2026, reports a closure starting October 2 for approximately six to eight weeks to replace damaged glass panels. Reopening updates are to appear in the homepage alert; the estimate is not a confirmed reopening date.",
+        "source_url": "https://www.summitparkblueash.com/the_observation_tower.php",
+        "id": "summit-park-blue-ash.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2026-10-26",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Replaced the surviving February 2022 page with the current navigation-linked October 2026 closure notice; no reopening inferred from an estimate."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The restroom page says the Canopy restrooms stay open year-round. It does not describe door controls, toilet transfers or adult-changing equipment.",
+        "source_url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
+        "id": "summit-park-blue-ash.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Outdoor water fountains are turned off for winter and reopen in spring, according to the park’s restroom notice. Bring drinking water during the winter shutdown.",
+        "source_url": "https://www.summitparkblueash.com/residents/family_restrooms.php",
+        "id": "summit-park-blue-ash.chronic.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -26849,17 +27225,17 @@
       },
       {
         "domain": "mobility",
-        "text": "The main playground has ADA ramps.",
+        "text": "The main playground is southwest of the Canopy. Its published features include seating with sightlines for parents, passive and active play areas and nearby restrooms.",
         "source_url": "https://www.summitparkblueash.com/residents/playground.php",
-        "id": "summit-park-blue-ash.mobility.3",
+        "id": "summit-park-blue-ash.mobility.4",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -26867,17 +27243,89 @@
       },
       {
         "domain": "cognitive",
-        "text": "The Observation Tower is temporarily closed for improvements.",
-        "source_url": "https://www.summitparkblueash.com/residents/the_observation_tower.php",
-        "id": "summit-park-blue-ash.cognitive.1",
+        "text": "General park hours are dawn to midnight, but natural spaces, trails, ponds and other unlit areas close at 11 p.m.",
+        "source_url": "https://www.summitparkblueash.com/departments/park_hours_and_general_rules.php",
+        "id": "summit-park-blue-ash.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-09",
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The October 21, 2026 alert reports the Water Corridor closed for maintenance. It gives no reopening date.",
+        "source_url": "https://www.summitparkblueash.com/alert_detail.php",
+        "id": "summit-park-blue-ash.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For the 2026–27 rink season, sensory-sensitive sessions are listed for December 13 and December 21, 2026, from 11 a.m. to noon. Places are limited and reservations are required. The park describes a calmer, less crowded skate and a quiet sensory item to choose at check-in.",
+        "source_url": "https://www.summitparkblueash.com/ice_rink/index.php",
+        "id": "summit-park-blue-ash.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 2026–27 rink page offers free skate helpers on a first-come, first-served basis. It does not describe wheelchair use on the ice, assisted transfers or staff-provided physical support.",
+        "source_url": "https://www.summitparkblueash.com/ice_rink/index.php",
+        "id": "summit-park-blue-ash.mobility.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The rink’s advertised season is November 14, 2026–January 10, 2027. Regular tickets are sold at the rink, with no online or advance sales; weather can temporarily close it, with updates on the park homepage.",
+        "source_url": "https://www.summitparkblueash.com/ice_rink/index.php",
+        "id": "summit-park-blue-ash.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -27073,8 +27521,8 @@
     "address": "4990 Middle Creek Road, Burlington, KY 41005",
     "website": "https://www.boonecountyky.org/business_detail_T35_R55.php",
     "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
-    "limitations": "Public website information; no on-site audit. No restrooms, accessible parking or accessible trail sections are listed. This is a rugged hiking preserve, not a step-free destination.",
-    "checked_at": "2026-11-09",
+    "limitations": "Public website information; no on-site audit. The county requires reservations 48 hours ahead, while the state agency says 24 hours; confirm with Boone County before traveling. County reservation days and time blocks apply separately from seasonal park hours. The unpaved, uneven route and steep-cliff hazards are not a wheelchair-route assessment. The state lists no facilities; toilets, water, changing space, rest points, mobility-device permissions and personal assistance are not established. State-page information for the separate Dinsmore Woods unit has not been transferred to Boone Cliffs.",
+    "checked_at": "2026-11-13",
     "slug": "boone-cliffs-state-nature-preserve",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -27085,7 +27533,7 @@
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
         "id": "boone-cliffs-state-nature-preserve.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -27094,16 +27542,21 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Because parking is limited, a reservation is required 48 hours in advance; each reservation covers one vehicle.",
+        "text": "The county’s visit page requires reservations 48 hours ahead because parking is limited, with one vehicle per reservation.",
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
         "id": "boone-cliffs-state-nature-preserve.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -27112,6 +27565,11 @@
             "date": "2026-11-09",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attributed the county’s 48-hour booking rule; preserve the state page’s separate 24-hour statement in a new note and limitations."
           }
         ]
       },
@@ -27121,13 +27579,144 @@
         "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
         "id": "boone-cliffs-state-nature-preserve.sensory.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-09",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-09",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The county lists reservation visits on Tuesdays, Thursdays and the second and fourth Saturdays of each month, in two blocks: 9 a.m.–1 p.m. or 2–6 p.m. Choose an available date through its Parks program calendar; this is not daily walk-in admission.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+        "id": "boone-cliffs-state-nature-preserve.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The county lists spring/summer park hours of 8 a.m.–8:30 p.m. and fall/winter hours of 8 a.m.–6 p.m. Vehicles left after closing may be ticketed and towed. These general hours do not replace the required reservation blocks.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+        "id": "boone-cliffs-state-nature-preserve.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The state agency describes the Boone Cliffs route as 2.4 miles over uneven terrain and flags steep cliffs as a hazard. Its “moderate” rating is a publisher description, not a wheelchair-route assessment.",
+        "source_url": "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx",
+        "id": "boone-cliffs-state-nature-preserve.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For Boone Cliffs, the state page lists no facilities. It does not identify toilets, drinking water or a changing space for a visit.",
+        "source_url": "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx",
+        "id": "boone-cliffs-state-nature-preserve.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The state directions lead to a gravel parking area on Middle Creek Road, 1.5 miles after turning from KY 18. The state page lists space for five cars and one bus; this is not a reservation or a confirmed boarding or parking-to-trail route.",
+        "source_url": "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx",
+        "id": "boone-cliffs-state-nature-preserve.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The state agency says to reserve 24 hours ahead and gives 859-334-2117 for help making a reservation. Confirm the requirement before traveling.",
+        "source_url": "https://eec.ky.gov/nature-preserves/locations/pages/boone-county-cliffs.aspx",
+        "id": "boone-cliffs-state-nature-preserve.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The county asks visitors to use extra caution during hunting season because private land surrounds parts of the preserve. Its preserve rules prohibit hunting or trapping within the preserve.",
+        "source_url": "https://www.boonecountyky.org/business_detail_T35_R55.php",
+        "id": "boone-cliffs-state-nature-preserve.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -36069,6 +36658,94 @@
         "source_url": "https://covunity.org/",
         "id": "covunity-fridge-banklick-street.cognitive.3",
         "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Great Lakes Ace Hardware — Newport",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "82 Carothers Road, Newport, KY 41071",
+    "website": "https://www.greatlakesace.com/locations/newport/",
+    "source_url": "https://www.greatlakesace.com/locations/newport/",
+    "limitations": "Public website information; no on-site audit. The branch and service pages establish curbside collection and delivery options, not physical access through the store. Parking-to-door routes, pickup-bay location, thresholds, door controls, aisle widths, toilets, quiet spaces and mobility equipment remain unverified. Bringing an order to the customer is not a promise of lifting, trunk loading, carrying goods indoors or personal assistance. Confirm product eligibility, fees and timing with the store.",
+    "checked_at": "2026-11-13",
+    "slug": "great-lakes-ace-newport",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Newport’s branch page lists curbside pickup and home delivery among its store services. The branch phone is 859-360-2022.",
+        "source_url": "https://www.greatlakesace.com/locations/newport/",
+        "id": "great-lakes-ace-newport.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For curbside pickup, select free store pickup when ordering online and wait for the email confirming the order is ready before traveling. Newport is included in the service’s location list.",
+        "source_url": "https://www.greatlakesace.com/services/curbside-loading/",
+        "id": "great-lakes-ace-newport.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "On arrival for curbside pickup, call the store number in the confirmation email; the instructions say an associate will bring the order to you. They do not identify a collection bay or specify trunk loading.",
+        "source_url": "https://www.greatlakesace.com/services/curbside-loading/",
+        "id": "great-lakes-ace-newport.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The home-delivery page includes Newport and says the product page indicates whether delivery or assembly is available from the selected store. It describes store-to-door delivery by an associate; no inside-the-home carrying service is established.",
+        "source_url": "https://www.greatlakesace.com/services/home-delivery/",
+        "id": "great-lakes-ace-newport.chronic.1",
+        "source_type": "operator_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,

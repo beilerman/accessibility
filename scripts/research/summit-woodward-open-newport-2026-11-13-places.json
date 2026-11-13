@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "great-lakes-ace-newport",
+    "name": "Great Lakes Ace Hardware — Newport",
+    "city": "Newport",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "82 Carothers Road, Newport, KY 41071",
+    "website": "https://www.greatlakesace.com/locations/newport/",
+    "source_url": "https://www.greatlakesace.com/locations/newport/",
+    "limitations": "Public website information; no on-site audit. The branch and service pages establish curbside collection and delivery options, not physical access through the store. Parking-to-door routes, pickup-bay location, thresholds, door controls, aisle widths, toilets, quiet spaces and mobility equipment remain unverified. Bringing an order to the customer is not a promise of lifting, trunk loading, carrying goods indoors or personal assistance. Confirm product eligibility, fees and timing with the store.",
+    "facts": [
+      [
+        "mobility",
+        "Newport’s branch page lists curbside pickup and home delivery among its store services. The branch phone is 859-360-2022.",
+        "https://www.greatlakesace.com/locations/newport/",
+        "venue_official",
+        null,
+        [
+          "STORE SERVICES Blade Sharpening Carpet Cleaning Curbside Pickup Glass Cutting Home & Auto Keys & FOB Duplication Home Delivery",
+          "Newport 82 Carothers Rd Newport, KY 41071 (859) 360-2022"
+        ]
+      ],
+      [
+        "cognitive",
+        "For curbside pickup, select free store pickup when ordering online and wait for the email confirming the order is ready before traveling. Newport is included in the service’s location list.",
+        "https://www.greatlakesace.com/services/curbside-loading/",
+        "operator_official",
+        null,
+        [
+          "ORDER - Order on acehardare.com and select FREE STORE PICKUP during checkout. DRIVE - Await email confirmation that your order is ready for pickup and drive to our local Great Lakes Ace.",
+          "KENTUCKY Florence Hebron Newport Nicholasville"
+        ]
+      ],
+      [
+        "mobility",
+        "On arrival for curbside pickup, call the store number in the confirmation email; the instructions say an associate will bring the order to you. They do not identify a collection bay or specify trunk loading.",
+        "https://www.greatlakesace.com/services/curbside-loading/",
+        "operator_official",
+        null,
+        [
+          "CALL - Once you arrive, call the store phone number (found on your confirmation email) and a helpful associate will bring your order to you.",
+          "KENTUCKY Florence Hebron Newport Nicholasville"
+        ]
+      ],
+      [
+        "chronic",
+        "The home-delivery page includes Newport and says the product page indicates whether delivery or assembly is available from the selected store. It describes store-to-door delivery by an associate; no inside-the-home carrying service is established.",
+        "https://www.greatlakesace.com/services/home-delivery/",
+        "operator_official",
+        null,
+        [
+          "The product page will indicate if delivery or assembly are available from your store",
+          "DELIVER FROM STORE TO DOOR - Your order will be delivered by a helpful Great Lakes Associate.",
+          "KENTUCKY Florence Hebron Newport Nicholasville"
+        ]
+      ]
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "checked_at": "2026-11-13T18:34:10.349994+00:00",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 178649,
+      "h1": "A little more certainty. Before you go."
+    },
+    {
+      "path": "/venues",
+      "status": 200,
+      "bytes": 1146942,
+      "h1": "Find your next place."
+    },
+    {
+      "path": "/access-in-pictures",
+      "status": 200,
+      "bytes": 578662,
+      "h1": "See the detail. Know what to ask.",
+      "new_photo_present": true
+    },
+    {
+      "path": "/sources",
+      "status": 200,
+      "bytes": 457497,
+      "h1": "Know where a detail comes from."
+    },
+    {
+      "path": "/venues/summit-park-blue-ash",
+      "status": 200,
+      "bytes": 109614,
+      "h1": "Summit Park",
+      "note_texts_present": true,
+      "new_guide_links_present": true
+    },
+    {
+      "path": "/venues/woodward-theater",
+      "status": 200,
+      "bytes": 92343,
+      "h1": "Woodward Theater",
+      "note_texts_present": true,
+      "new_guide_links_present": true
+    },
+    {
+      "path": "/venues/lindner-family-tennis-center-cincinnati-open",
+      "status": 200,
+      "bytes": 115157,
+      "h1": "Lindner Family Tennis Center (Cincinnati Open)",
+      "note_texts_present": true,
+      "new_guide_links_present": true
+    },
+    {
+      "path": "/venues/boone-cliffs-state-nature-preserve",
+      "status": 200,
+      "bytes": 95435,
+      "h1": "Boone Cliffs State Nature Preserve",
+      "note_texts_present": true,
+      "new_guide_links_present": true
+    },
+    {
+      "path": "/venues/great-lakes-ace-newport",
+      "status": 200,
+      "bytes": 66137,
+      "h1": "Great Lakes Ace Hardware \u2014 Newport",
+      "note_texts_present": true,
+      "new_guide_links_present": true
+    },
+    {
+      "path": "/venues/everybodys-treehouse-mt-airy-forest",
+      "status": 200,
+      "bytes": 76969,
+      "h1": "Everybody's Treehouse \u2014 Mt. Airy Forest",
+      "note_texts_present": true,
+      "new_guide_links_present": true
+    },
+    {
+      "path": "/images/access/woodward-corner-approach-2019.webp",
+      "status": 200,
+      "sha256": "1797832d83754431004fde56a61b422f966786124c2098cef17caa1035f5327a",
+      "byte_hash_matches": true
+    }
+  ],
+  "limits": "HTTP HTML/asset checks, not browser rendering or interaction.",
+  "initial_nonexistent_route_probes": [
+    {
+      "path": "/access-photos",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "/access-guides",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "initial_nonexistent_route_probes_note": "Incorrect guessed collection URLs returned expected 404s. Checked the actual existing /access-in-pictures route after inspecting app routes; no site defect or route edit."
+}

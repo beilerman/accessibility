@@ -1,0 +1,104 @@
+{
+  "reviewed_at": "2026-11-13T18:38:59.440654+00:00",
+  "base": "78a4a64ea9df2436621ef3701aae9a56d01017e5",
+  "publish_ready": true,
+  "readiness_scope": "Supported local content and media ready for runner validation and atomic publication. Not an agent commit, push, CI pass or deployment. Browser checks remain mandatory for the runner.",
+  "evidence": {
+    "final_fresh_checks": 50,
+    "failed": 0,
+    "canonical_claims_digests_passages_matched": 49,
+    "independent_address_checks": 1,
+    "active_source_baselines": 20,
+    "new_guide_links_http200": 7,
+    "old_notes_rechecked": 17,
+    "unchanged_old_notes": 9,
+    "revised_old_notes": 8,
+    "missing_quotes_repaired": 17,
+    "new_note_ids": 32,
+    "full_existing_venue_reviews": 4,
+    "partial_note_reviews": 0,
+    "photo_only_existing_venue_reviews": 1,
+    "editorial_review": "Every clause, scope, exception and date compared. Compound passages retained. Summit obsolete tower notice replaced with current linked page. Woodward500/400 capacity and Boone48/24-hour reservation conflicts remain explicit. Blocked Momentum county pages and timed-out Kroger were not imported."
+  },
+  "checks": [
+    {
+      "name": "npm test",
+      "status": "pass",
+      "tests": 98
+    },
+    {
+      "name": "Python 3.11 unittest discover -s pipeline -p test_*.py",
+      "status": "pass",
+      "tests": 74,
+      "environment": "uv with pipeline/requirements.txt; cache outside checkout"
+    },
+    {
+      "name": "npm run lint",
+      "status": "pass"
+    },
+    {
+      "name": "npx tsc --noEmit",
+      "status": "pass",
+      "note": "Final sequential check after build. An earlier overlapping check ran while generated routes were being written."
+    },
+    {
+      "name": "npm run build",
+      "status": "pass",
+      "generated_pages": 170
+    },
+    {
+      "name": "Final production-build HTTP",
+      "status": "pass",
+      "pages": 10,
+      "new_guide_anchors": 7,
+      "new_photo_byte_hash_matches": 1
+    },
+    {
+      "name": "Playwright browser suite",
+      "status": "environment_blocked",
+      "registered_tests": 143,
+      "attempted": 1,
+      "passed": 0,
+      "reason": "Chromium bootstrap_check_in MachPort permission denied1100 before test execution; CUA independently reports browser access host unavailable. Runner must execute browser/axe/layout/interaction checks."
+    },
+    {
+      "name": "git diff --check",
+      "status": "pass"
+    },
+    {
+      "name": "Conflict marker scan",
+      "status": "pass",
+      "matches": 0
+    },
+    {
+      "name": "Semantic preservation",
+      "status": "pass",
+      "unchanged_existing_venues": 150,
+      "old_ids_and_history_preserved": true,
+      "prior_photos_and_guides_preserved": true,
+      "unrelated_quotes_preserved": true,
+      "unselected_source_baselines_preserved": true,
+      "treehouse_photo_only_date_preserved": true
+    }
+  ],
+  "resolved_validation_findings": [
+    "Web links originally carried PDF-only fields; corrected to existing format:web/imageCount convention, with98unit tests and final types/build passing.",
+    "Generated-route type-check timing failure resolved by sequential rerun after build.",
+    "Initial guessed /access-photos and /access-guides URLs returned404; actual /access-in-pictures and source routes pass. No app route change needed."
+  ],
+  "log_sha256": {
+    "unit-final.log": "bb6510b514e3bcfe177c6b6fb3b46f917e57f310c80dce7fbb3f08e161f067e4",
+    "pipeline.log": "caf370917748482fc912b882c521bc4211f912ed0f66d6f93a8e6f6fa282c2ca",
+    "lint.log": "dc4ab3e4e30b45d5359ff6bf68b86ea6e6e9332193c7db6f13dafa1c3c0be31e",
+    "types-final.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "build-final.log": "8e3fa38081633ec59991bdab42194ab92fac152204211c5490c57b81fd114165",
+    "browser.log": "176da04de2d95fed56f4687bd2a2df849024eae9b27847fe7ccb33ba9b5512dd",
+    "browser-list.log": "06a81b1271617f67e08c5538ccc2844fc9099119b5d959cc9b17e7abab962051",
+    "final-evidence.log": "a0e095c6b029f887809a03486985ad30f72bda282055a009162141b0ca034f4c"
+  },
+  "publication_owned_by_runner": true,
+  "deployment_performed": false,
+  "all_mutation_specs_already_applied": true,
+  "owned_local_server": "Stopped after final HTTP validation; no scheduler/hosting changes.",
+  "final_review": "All supported catalog/media/specs and documentation reviewed. Later floorplan and grocery work is held/preflight documentation only; canonical data unchanged after passing final build/types/unit/HTTP checks. Owned local production server stopped."
+}
