@@ -5,6 +5,10 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/nku-care-closet",
+  "/venues/we-rock-spectrum-northern-kentucky",
+  "/venues/fei-house-covington",
+  "/venues/wondercade-westwood",
   "/venues/lehrs-prime-market-milford",
   "/venues/seafood-station-loveland",
   "/venues/boone-county-drive-thru-food-pantry",

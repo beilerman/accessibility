@@ -1,0 +1,227 @@
+{
+  "checkedAt": "2026-11-14T15:07:30.817158+00:00",
+  "sources": [
+    {
+      "url": "https://www.cincinnatistate.edu/career-closet/",
+      "status": 200,
+      "final_url": "https://www.cincinnatistate.edu/career-closet/",
+      "last_modified": null,
+      "sha256": "41f80215efa16cea5e52c6d9f060798fa0c819c171cb2333471a17f080028695",
+      "fingerprint_version": 6,
+      "chars": 3687
+    },
+    {
+      "url": "https://www.nku.edu/fuel-nku/index.html",
+      "status": 200,
+      "final_url": "https://www.nku.edu/fuel-nku/index.html",
+      "last_modified": null,
+      "sha256": "afb563389c1ff4b72f8d9cf8939e4f03f90840f98833ba65d5748432c4592934",
+      "fingerprint_version": 6,
+      "chars": 2981
+    },
+    {
+      "url": "https://www.thepostft.com/about",
+      "status": 200,
+      "final_url": "https://www.thepostft.com/about",
+      "last_modified": null,
+      "sha256": "9fd0a7639fc4371bdc84b2307fded98a024728a6e27a28e323dccf2bcf96553c",
+      "fingerprint_version": 6,
+      "chars": 823
+    }
+  ],
+  "scope": "Preflight only; no additional catalog listings or whole-venue dates changed.",
+  "next": [
+    {
+      "name": "Cincinnati State Career Closet",
+      "notes": "Official page gives Main Building lower level plus ATLC 101, Fall 2026 hours and optional referrals. Donation instructions include flagpole/main entrance/box photographs. Resolve which shopping location and step-free route apply; do not confuse donation-box wayfinding with a verified shopping route."
+    },
+    {
+      "name": "FUEL NKU",
+      "notes": "Official page footer now confirms Albright Health Center 104. Current service terms require class enrollment, All Card and bag, with two weekly visits and campus-closure exceptions. Complete the location, arrival, assistance and service review before importing. The inspected produce image supplies no useful aisle or entrance evidence."
+    },
+    {
+      "name": "The Post \u2014 Fort Thomas",
+      "notes": "Official address 1136 S Fort Thomas Ave. Older 2023 food-kiosk news and December 2025 NYE event cannot establish current restaurant or event procedures. Review official home/rental/access details and images; generic third-party wheelchair badges are not accepted."
+    }
+  ],
+  "nkuFollowthrough": {
+    "meetingIndex": "https://www.nku.edu/president/regents/meetings/",
+    "latestUsableReport": "https://www.nku.edu/president/regents/meetings/_documents/board-of-regents-materials-9-16-2694.pdf",
+    "reportDate": "2026-09-16",
+    "pages": 63,
+    "bytes": 6672393,
+    "reviewedPages": [
+      1,
+      36
+    ],
+    "sha256": "c88cf3a0fc7a0c2ec170ee6ce46f19c462d12178265b2e4a599b5ad1cabc474c",
+    "finding": "University Center passenger elevator modernization in planning, anticipated summer 2027. Date and scope visually checked; no current operating state inferred. Added through the gated depth helper.",
+    "heldNovemberLink": {
+      "displayedMeetingDate": "2026-11-11",
+      "materialsLink": "https://www.nku.edu/president/regents/meetings/_documents/board-of-regents-materials-january-15-2025.pdf",
+      "actualDocumentDate": "2025-01-15",
+      "reason": "Actual cover and agenda date are January 15, 2025, not current November 2026 evidence."
+    },
+    "heldSearchResult": "The unsuffixed June 2026 PDF search-result URL returns 404. The live index instead links a suffixed June file; September report used for the public note."
+  },
+  "photoFollowthrough": {
+    "checkedAt": "2026-11-14T15:18:39.648Z",
+    "scope": "Four additional next-batch still views; separate from the 60 candidate views for the prepared public batch. No additional listing, guide or photo imported.",
+    "photos": [
+      {
+        "sourceUrl": "https://www.cincinnatistate.edu/wp-content/uploads/2024/02/CareerCloset-022924-001.jpg",
+        "status": 200,
+        "bytes": 284785,
+        "sha256": "7a7e3f7a6ede19e10512d3300d836c0be1fd34741a070e2bc357ad89e4ca99c0",
+        "visuallyInspected": true,
+        "captureDate": null,
+        "findings": "Flagpole, curb cut and paved approach; a sign points toward an accessible entrance but this partial image does not establish the complete route."
+      },
+      {
+        "sourceUrl": "https://www.cincinnatistate.edu/wp-content/uploads/2024/02/CareerCloset-022924-003.jpg",
+        "status": 200,
+        "bytes": 346724,
+        "sha256": "e4076820b8bae9428fa98978942504a05eb26861507abf433dc5a391c1bacecf",
+        "visuallyInspected": true,
+        "captureDate": null,
+        "findings": "Steps and rails immediately before the main doors; benches along the approach. No alternative entrance or present condition inferred."
+      },
+      {
+        "sourceUrl": "https://www.cincinnatistate.edu/wp-content/uploads/2026/02/1000025873-scaled.jpg",
+        "status": 200,
+        "bytes": 239636,
+        "sha256": "12645353eac199a2959af8949d0282ea6454eeeb9a2e8ea5afae87e40257fa80",
+        "visuallyInspected": true,
+        "captureDate": null,
+        "findings": "Donation box beside elevator doors and adjacent stairs. No elevator operation, capacity, dimensions or continuous shopping route established."
+      },
+      {
+        "sourceUrl": "https://www.nku.edu/fuel-nku/_images/fuel-nku-interior.jpg",
+        "status": 200,
+        "bytes": 510864,
+        "sha256": "a9c4effceb4bc3e08b7798893095326c1ee9dd3315eb6966ea6c394158d6475e",
+        "visuallyInspected": true,
+        "captureDate": null,
+        "findings": "Produce display against a branded wall; too little aisle/entrance context for useful access evidence. Hold as weak access relevance."
+      }
+    ],
+    "rights": "No reuse licence found. Photographs remain unpublished; future original-link guide may be appropriate after the venue review.",
+    "maps": [
+      {
+        "file": "career-campus-next.pdf",
+        "pages": 1,
+        "bytes": 256078,
+        "sha256": "0e2f7eca1b3191cfd3df8a3659f978783a41198eb6cc5b5a00f8c7391753ba94",
+        "metadata": {
+          "format": "PDF 1.5",
+          "title": "CState_Map_Parking_24_web",
+          "author": "",
+          "subject": "",
+          "keywords": "",
+          "creator": "Adobe Illustrator 28.3 (Windows)",
+          "producer": "Adobe PDF library 17.00",
+          "creationDate": "D:20240327152951-04'00'",
+          "modDate": "D:20240327152951-04'00'",
+          "trapped": "",
+          "encryption": null
+        },
+        "reviewedPages": [
+          1
+        ],
+        "sourceUrl": "https://www.cincinnatistate.edu/wp-content/uploads/2024/03/CState_Map_Parking_24_web.pdf",
+        "status": 200,
+        "sourcePage": "https://www.cincinnatistate.edu/about-cincinnati-state/clifton/"
+      },
+      {
+        "file": "career-main-next.pdf",
+        "pages": 5,
+        "bytes": 514094,
+        "sha256": "1ac42cfef0481769d9f447dc88560181254e6d6cd87fd61ecda9bdd884d80b94",
+        "metadata": {
+          "format": "PDF 1.6",
+          "title": "MainBuilding2024",
+          "author": "christine.barrow",
+          "subject": "",
+          "keywords": "",
+          "creator": "Adobe Illustrator 28.7 (Windows)",
+          "producer": "Adobe PDF library 17.00",
+          "creationDate": "D:20241001145637-04'00'",
+          "modDate": "D:20241001145638-04'00'",
+          "trapped": "",
+          "encryption": null
+        },
+        "reviewedPages": [
+          1,
+          2
+        ],
+        "sourceUrl": "https://www.cincinnatistate.edu/wp-content/uploads/2024/10/MainBuilding2024.pdf",
+        "status": 200,
+        "sourcePage": "https://www.cincinnatistate.edu/about-cincinnati-state/clifton/"
+      },
+      {
+        "file": "career-atlc-next.pdf",
+        "pages": 5,
+        "bytes": 931360,
+        "sha256": "819440565ae4f68282ef81bd0b63ed61522aa6511b97e6026d1295e676a27651",
+        "metadata": {
+          "format": "PDF 1.6",
+          "title": "",
+          "author": "",
+          "subject": "",
+          "keywords": "",
+          "creator": "QuarkXPress(tm) 6.1",
+          "producer": "QuarkXPress(tm) 6.1",
+          "creationDate": "D:20240930100413-04'00'",
+          "modDate": "D:20240930100413-04'00'",
+          "trapped": "",
+          "encryption": null
+        },
+        "reviewedPages": [
+          1,
+          2
+        ],
+        "sourceUrl": "https://www.cincinnatistate.edu/wp-content/uploads/2024/09/ATLC-maps-2024.pdf",
+        "status": 200,
+        "sourcePage": "https://www.cincinnatistate.edu/about-cincinnati-state/clifton/"
+      }
+    ],
+    "mapFindings": "Five pages inspected: full one-page campus map, basement and first floor of Main Building, lower and first floor of ATLC. Campus map marks entrances and parking; ATLC first floor marks 101/102, elevators and the connection to Main. Main basement plan labels Career Closet near room 1 and Fitness Center. Other six interior-map pages were not reviewed. Historical diagrams do not verify current door or elevator operation.",
+    "historicalPlan": {
+      "url": "https://www.cincinnatistate.edu/news/college-master-plan-envisions-new-uses-for-clifton-campus-facilities/",
+      "publishedAt": "2024-01-09",
+      "review": "Underlying article read. It proposed reconfiguring the flagpole entrance and removing two stair sets; the proposal does not prove completion."
+    },
+    "historicalEvent": {
+      "url": "https://www.cincinnatistate.edu/events/dress-to-impress-mens-event/",
+      "date": "2026-09-23",
+      "review": "Underlying event page read. ATLC 101 and preregistration apply to this past event; event registration is not a general shopping rule."
+    }
+  },
+  "followthroughAt": "2026-11-14T15:21:04.260834+00:00",
+  "parkingPreflight": {
+    "url": "https://www.cincinnatistate.edu/campus-parking/",
+    "status": 200,
+    "final_url": "https://www.cincinnatistate.edu/campus-parking/",
+    "last_modified": null,
+    "sha256": "14a36bf81b6cbde61a2b6f2f9377597a74ae83796b18300195165cddd608afbd",
+    "fingerprint_version": 6,
+    "chars": 3784,
+    "scope": "Preflight only, not an imported verified catalog note. Current page distinguishes public pay-use Central Parkway garage and Lot C from restricted parking. Disability placard plus student permit conditions must remain scoped; emergency assistance is limited automotive help, not personal transfer assistance."
+  },
+  "studentReportingFollowthrough": [
+    {
+      "url": "https://www.thenortherner.com/news/2024/11/30/giving-thanks-at-nku/",
+      "publisher": "The Northerner",
+      "publishedAt": "2024-11-30",
+      "underlyingRead": true,
+      "hold": "Historical report describes FUEL lobby refrigerator/freezer access while the building was open. Current availability and building hours are not verified. Its older Care Closet hours must not override the official Spring 2026 panel or establish this term\u2019s schedule."
+    },
+    {
+      "url": "https://www.thenortherner.com/news/2025/04/23/fuel-nku-from-its-roots-to-its-growing-impact/",
+      "publisher": "The Northerner",
+      "publishedAt": "2025-04-23",
+      "underlyingRead": true,
+      "hold": "Historical reporting describes a grocery-style selection and scanning/check-out. A one-off delivery anecdote is not a standing delivery service; retain no unnecessary personal circumstances. No photographs copied or current quiet-space guarantee inferred."
+    }
+  ]
+}

@@ -44,7 +44,12 @@
     "https://www.reddit.com/r/cincinnati/comments/1vean92/used_bookstores/",
     "https://www.tripadvisor.co.uk/Restaurant_Review-g50659-d11873724-Reviews-Lehr_s_Prime_Market-Milford_Clermont_County_Ohio.html",
     "https://www.grocerydive.com/news/jungle-jims-international-food-grocery-shopping-cincinnati-ohio/721418/",
-    "https://www.reddit.com/r/Autism_Parenting/comments/1srt9k5/all_inclusive_parent_approved_play_area/"
+    "https://www.reddit.com/r/Autism_Parenting/comments/1srt9k5/all_inclusive_parent_approved_play_area/",
+    "https://www.reddit.com/r/cincinnati/comments/14czw33/wondercade_in_westwood_whats_it_like/",
+    "https://www.reddit.com/r/cincinnati/comments/1u23njg/family_friendlyarcade_restaurant_reccomendations/",
+    "https://www.reddit.com/r/cincinnati/comments/1q30op8/want_to_donate_mens_business_wear_now_that_im/",
+    "https://pinside.com/pinball/forum/topic/opening-soon-pinball-garage-in-hamilton-oh",
+    "https://www.kentuckyhiker.com/latest/2020/5/4/licking-river-greenway-loop"
   ],
   "candidates": [
     {
@@ -782,12 +787,13 @@
       "name": "Fei House — Covington",
       "discussionUrl": "https://www.reddit.com/r/covington/comments/1vk5hht/best_place_to_work_remotely_for_the_day/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
+      "status": "added",
+      "slug": "fei-house-covington",
       "officialLeadUrls": [
-        "https://www.feicafe.com/"
+        "https://www.feicafe.com/",
+        "https://www.feicafe.com/aboutus"
       ],
-      "nextStep": "Official homepage freshly fetched 200: 640 Main Street; past second-floor tea events and a gallery. Review current naming versus Kung Brew, stairs/lift, first-floor choices, toilets and all event dates before adding. No listing yet."
+      "nextStep": "Added four notes and original gallery showing porch steps, interior staircase and low seating. No alternative entrance/lift or toilet route established; past tea events are not current availability."
     },
     {
       "name": "Paint Playground — Milford",
@@ -802,27 +808,122 @@
       "name": "Pinball Garage — Hamilton",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1m0yfaj/recommendations_for_rainy_days/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
+      "status": "held_current_access",
       "slug": null,
-      "officialLeadUrls": [],
-      "nextStep": "Named as an indoor activity, not an access report. Follow current official visit and arrival sources and inspect aisle/lighting/seating views."
+      "officialLeadUrls": [
+        "https://www.travelbutlercounty.com/listing/pinball-garage",
+        "https://bookeo.com/pinballgarage"
+      ],
+      "nextStep": "Tourism page confirms Hamilton identity/address but usable current access/visit-policy evidence is thin. Booking page returns CAPTCHA; no bypass. Pinside posts inspected are pre-opening encouragement, not actual visits. Search snippets and generic third-party wheelchair badges not accepted."
     },
     {
       "name": "We Rock the Spectrum — Northern Kentucky",
-      "discussionUrl": "https://www.reddit.com/r/Autism_Parenting/comments/1srt9k5/all_inclusive_parent_approved_play_area/",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1m0yfaj/recommendations_for_rainy_days/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
+      "status": "added",
+      "slug": "we-rock-spectrum-northern-kentucky",
       "officialLeadUrls": [
         "https://werockthespectrumnorthernkentucky.com/about-us/",
         "https://werockthespectrumnorthernkentucky.wrtsfranchise.com/wp-content/uploads/2024/11/WRTS-NKY-field-trip-social-story-1.pdf",
         "https://werockthespectrumnorthernkentucky.com/open-play/"
       ],
-      "nextStep": "Official about page and nine-page social story freshly fetched. All PDF pages visually inspected: frontage, gym, equipment, staff and calming room useful. Page 3 visual says socks required while extracted layer says barefoot or socks; never use stale hidden text as the rule. Verify present general/field-trip policies, assistance limits, toilet/entrance details and conflicts before listing. A public parenting discussion was subsequently read: an actual party visit is reported but the Cincinnati-area branch is unspecified; do not assign its facilities or prices to Erlanger. Exact publication/visit dates are uncertain. No usernames or health details retained. Late official open-play follow-through fetched 200 and confirms parent/guardian presence, socks and weekly schedule variation; see next-preflight receipt. Listing remains unimported; review current branch calendar and field-trip exceptions before drafting."
+      "nextStep": "Added 16 current branch notes with open-play/private-rental/field-trip distinctions and explicit care coming-soon conflict. Nine-page social story linked after visual review. Next: toilets/changing, continuous parking-to-door route and equipment assistance. Earlier branch-unspecified parenting party report remains unassigned."
+    },
+    {
+      "name": "Wondercade — Westwood",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/14czw33/wondercade_in_westwood_whats_it_like/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "wondercade-westwood",
+      "officialLeadUrls": [
+        "https://wondercadecincy.com/"
+      ],
+      "nextStep": "Five official admission/age/party/contact notes added. Historical weekly visitor account remains separate. Main site has logos and map, not a verified visual walkthrough; linked Facebook requires login and Instagram failed. Entrance, toilets, game reach, lighting and seating still need evidence."
+    },
+    {
+      "name": "Care Closet @ NKU",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1q30op8/want_to_donate_mens_business_wear_now_that_im/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "nku-care-closet",
+      "officialLeadUrls": [
+        "https://www.nku.edu/care-closet/",
+        "https://www.nku.edu/parking/visit/"
+      ],
+      "nextStep": "Eleven official notes added: student/All Card scope, appointment, dated hours, donation/collection and parking conditions. Room photos and campus map linked. Exact current hours, route to UC 142, lift, toilets and assistance unresolved. September 2026 elevator modernization report now retained; the November Materials link is misdirected to January 2025, so no newer operational status is asserted."
+    },
+    {
+      "name": "Cincinnati State Career Closet",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1q30op8/want_to_donate_mens_business_wear_now_that_im/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://www.cincinnatistate.edu/career-closet/"
+      ],
+      "nextStep": "Official helper fetch 200. Main lower level and ATLC 101 remain listed. Three official donation-route photos show curb cut, front-door steps and elevator beside donation box; five pages of current-linked 2024 maps inspected. January 2024 stair-removal proposal is not completion evidence; September 2026 event registration is not a general shopping rule. Review current shopping route before import. See next-preflight receipt."
+    },
+    {
+      "name": "The Post — Fort Thomas",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1u23njg/family_friendlyarcade_restaurant_reccomendations/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://www.thepostft.com/about"
+      ],
+      "nextStep": "Official address page helper 200; current visit/access review unfinished. Keep historical 2023 kiosk news and December 2025 NYE event separate from current service. Investigate original venue photographs; do not adopt third-party wheelchair badges."
+    },
+    {
+      "name": "Strong’s — Reading Road branch",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1u23njg/family_friendlyarcade_restaurant_reccomendations/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [],
+      "nextStep": "Pinball/food recommendation; resolve branch identity and official location before importing any facility claim."
+    },
+    {
+      "name": "Pins Mechanical — Mason",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1u23njg/family_friendlyarcade_restaurant_reccomendations/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [],
+      "nextStep": "Family-activity lead only. Verify branch, age/time restrictions, bowling assistance and entrance/toilet evidence."
+    },
+    {
+      "name": "Arcade Legacy — Sharonville",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1u23njg/family_friendlyarcade_restaurant_reccomendations/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [],
+      "nextStep": "Family arcade lead; verify current official address, admission, physical access, assistance and restroom information."
+    },
+    {
+      "name": "In The Game — Liberty",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1u23njg/family_friendlyarcade_restaurant_reccomendations/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [],
+      "nextStep": "Community lead only; resolve exact location and current operating/visit rules before any accessibility note."
+    },
+    {
+      "name": "FUEL NKU — Highland Heights",
+      "discussionUrl": "https://www.thenortherner.com/arts-and-life/2025/09/18/five-useful-resources-around-nkus-campus/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://www.nku.edu/fuel-nku/index.html"
+      ],
+      "nextStep": "Official page helper returns 200 and footer confirms Albright Health Center 104. Preserve class enrollment, All Card, bag, twice-weekly visits and campus-closure conditions. Inspected produce view offers no useful route evidence. Review arrival, collection assistance and toilets before import. See next-preflight receipt."
     }
   ],
-  "addedVenues": 38,
-  "remainingVenueLeads": 49,
+  "addedVenues": 42,
+  "remainingVenueLeads": 54,
   "uncertainty": "Recommendations are not measured access assessments. Comment dates and visit dates remain null unless independently established. Preserve source identity, separate actual outing accounts from conjecture and keep community reports separate from official facts.",
   "otherSources": [
     {
@@ -854,6 +955,16 @@
       "url": "https://www.reddit.com/r/cincinnati/comments/14ua7zd/if_youre_passionate_about_recycling_reducing/",
       "status": "underlying_discussion_read",
       "nextStep": "Historical visitor account added separately. Follow its linked virtual-tour lead during next full Hub review; current operation, controls and routes require fresh official evidence."
+    },
+    {
+      "url": "https://www.thenortherner.com/arts-and-life/2025/09/18/five-useful-resources-around-nkus-campus/",
+      "status": "underlying_student_reporting_read",
+      "nextStep": "September 2025 hours are historical. FUEL NKU and Stego Studio are useful future everyday-service leads; verify current official details. No article photographs reused."
+    },
+    {
+      "url": "https://pinside.com/pinball/forum/topic/opening-soon-pinball-garage-in-hamilton-oh",
+      "status": "public_forum_read",
+      "nextStep": "Four inspected posts concern anticipated opening; no actual visitor-access report imported."
     }
   ],
   "holds": [
@@ -901,6 +1012,16 @@
       "url": "https://www.meijer.com/shopping/store-locator/168",
       "status": 403,
       "reason": "Fresh helper fetch blocked despite readable web result; no source_checked listing added."
+    },
+    {
+      "url": "https://bookeo.com/pinballgarage",
+      "status": "CAPTCHA",
+      "reason": "Booking content unavailable; no submission or bypass. Tourism identity alone does not complete access research."
+    },
+    {
+      "url": "https://www.covingtonky.gov/Portals/covingtonky/cropped%20brochure%202019%20paint%20edit.png",
+      "status": 403,
+      "reason": "City-linked Greenway map image blocked; not added as a verified guide."
     }
   ],
   "searchScope": [
@@ -917,18 +1038,19 @@
     "November 14 shopping/licensing pass: public Cincinnati/Northern Kentucky/Kentucky, Tripadvisor and local forum searches; underlying licensing, grocery, Findlay, antique-mall and Re-Run threads/Q&A read. No private groups or messages.",
     "November 14 recreation/library pass: underlying Cincinnati swimming and TriHealth discussions, Kentucky Silverlake discussion and public DSA room reports read. Original accounts remain separate from official notes; no private groups, posting or messages. Shopping follow-up searches did not resolve Deer Park/Dillonvale identity.",
     "November 14 transport/grocery/UC pass: public Cincinnati, Covington, Northern Kentucky, Tripadvisor and local-interest searches; underlying Metro-system, Mason-opening, grocery and swimming threads read. Tripadvisor retrieval remained throttled. Community ride and crowd reports kept separate; no posting or private sources.",
-    "November 14 markets/pantries/TANK pass: read public Cincinnati rainy-day and used-book threads, Covington remote-work discussion and Lehr’s Tripadvisor reviews; repeat market lead thread. Northern Kentucky/local/forum searches produced additional leads but no private access or messages. Search snippets stay leads; old seating reports retain dates and review-collection caveat."
+    "November 14 markets/pantries/TANK pass: read public Cincinnati rainy-day and used-book threads, Covington remote-work discussion and Lehr’s Tripadvisor reviews; repeat market lead thread. Northern Kentucky/local/forum searches produced additional leads but no private access or messages. Search snippets stay leads; old seating reports retain dates and review-collection caveat.",
+    "November 14 indoor-play/Greenway/NKU pass: public Cincinnati, Covington and Northern Kentucky discussions, Tripadvisor, Pinside and specialist hiking sources searched/read where available. Five separate reports retained, with recommendation versus actual visit and date uncertainty preserved. No private groups, messages, accounts or forum-photo reuse."
   ],
-  "candidateCount": 87,
+  "candidateCount": 96,
   "statusCounts": {
-    "lead_only": 35,
-    "added": 38,
+    "lead_only": 39,
+    "added": 42,
     "held_contact_conflict": 1,
     "held_unextractable_official_site": 2,
     "held_source_blocked": 3,
     "held": 5,
     "held_location_conflict": 1,
-    "held_current_access": 1,
+    "held_current_access": 2,
     "held_public_eligibility": 1
   },
   "priorBatchCounters": {
@@ -937,13 +1059,13 @@
     "scope": "Original dining batches only; these were not cumulative queue totals."
   },
   "latestBatch": {
-    "report": "markets-pantry-tank-2026-11-14.md",
-    "communityLedVenuesAdded": 2,
-    "otherVenuesAdded": 2,
-    "communityReportsAdded": 4,
-    "officialNotesInCommunityVenues": 9,
-    "existingVenueNewNotes": 9,
-    "newNoteIds": 29,
-    "note": "Lehr’s and Seafood Station community leads added; Boone County drive-through pantry and Action Ministries added from official sources. Full TANK and Eastgate reviews cover 54 old notes. Two corrections and four strengthened supporting records are separate from growth. Two licensed photos and five original guides added. Late follow-through adds one explicitly historical Action Ministries residence-delivery note and a separate 2024 Grocery Dive sensory account. TANK interface graphics receive a distinct visual-instructions label."
+    "report": "indoor-play-greenway-2026-11-14.md",
+    "communityLedVenuesAdded": 4,
+    "otherVenuesAdded": 0,
+    "communityReportsAdded": 5,
+    "officialNotesInCommunityVenues": 36,
+    "existingVenueNewNotes": 3,
+    "newNoteIds": 39,
+    "note": "Four venues added; Bettman and Licking River Greenway fully reviewed (seven old notes). Two text corrections and three expanded supporting records, one overlapping a correction. One licensed photo and six original guides. Pinball Garage remains held. No absent-quote repairs; 20 legacy gaps stay unresolved. Late NKU elevator follow-through adds the dated September 2026 planning/summer 2027 expectation, not a current outage claim."
   }
 }

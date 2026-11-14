@@ -2461,7 +2461,7 @@
       "status": 200,
       "final_url": "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making",
       "last_modified": null,
-      "sha256": "14b7a29d99e6f21e4d2de8c8fd929fa6350a9fb3611d4ed3679efc0451adc8f6",
+      "sha256": "5993ece0982c7e09179d1984e3eb896be57f7a48226c45aafddc5fe5d67e47f8",
       "fingerprint_version": 6,
       "chars": 8764
     },
@@ -5024,6 +5024,104 @@
       "format": "pdf",
       "chars": 11272,
       "pages": 9
+    },
+    "https://form.jotform.com/243014506254144": {
+      "status": 200,
+      "final_url": "https://form.jotform.com/243014506254144",
+      "last_modified": null,
+      "sha256": "da07f9862ab28f5706de839546c1652ec1d529e0f05c9de37140b76c36d929ad",
+      "fingerprint_version": 6,
+      "chars": 8846
+    },
+    "https://werockthespectrumnorthernkentucky.com/about-us/": {
+      "status": 200,
+      "final_url": "https://werockthespectrumnorthernkentucky.com/about-us/",
+      "last_modified": null,
+      "sha256": "bee2b43f3b6d2f1702abb39454741b65c84f963e758d2c6e25e6a6a274dabced",
+      "fingerprint_version": 6,
+      "chars": 1764
+    },
+    "https://werockthespectrumnorthernkentucky.com/open-play/": {
+      "status": 200,
+      "final_url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+      "last_modified": null,
+      "sha256": "4f41e194d4b9ad31f199218b24d8762db1458f38e5aa4859b1ab10cd5265a20f",
+      "fingerprint_version": 6,
+      "chars": 1658
+    },
+    "https://werockthespectrumnorthernkentucky.com/private-facility-rentals/": {
+      "status": 200,
+      "final_url": "https://werockthespectrumnorthernkentucky.com/private-facility-rentals/",
+      "last_modified": null,
+      "sha256": "de02545040667c0feb00d21bddc105dce7fe417821711b3164004b75c393fef6",
+      "fingerprint_version": 6,
+      "chars": 645
+    },
+    "https://werockthespectrumnorthernkentucky.com/we-rock-care/": {
+      "status": 200,
+      "final_url": "https://werockthespectrumnorthernkentucky.com/we-rock-care/",
+      "last_modified": null,
+      "sha256": "fbf903bafad0c0a7fe17d21bc93832c333a11a2eeeadd6ea4ea098deec793e07",
+      "fingerprint_version": 6,
+      "chars": 1162
+    },
+    "https://wondercadecincy.com/": {
+      "status": 200,
+      "final_url": "https://wondercadecincy.com/",
+      "last_modified": null,
+      "sha256": "6cb4db8d2fbc960f837d71f072f8d664bba10aaf42651364901256f4253685d4",
+      "fingerprint_version": 6,
+      "chars": 1465
+    },
+    "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/trails": {
+      "status": 200,
+      "final_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/trails",
+      "last_modified": null,
+      "sha256": "390b0ae59923095be2dbb340d707f9f7973f38d2701142e38afabb4ef7b9b649",
+      "fingerprint_version": 6,
+      "chars": 1712
+    },
+    "https://www.feicafe.com/": {
+      "status": 200,
+      "final_url": "https://www.feicafe.com/",
+      "last_modified": null,
+      "sha256": "fd12c323139b6f14fe042d26748f53d4d42b03df81a9a272abd2afbdf423766a",
+      "fingerprint_version": 6,
+      "chars": 6108
+    },
+    "https://www.feicafe.com/aboutus": {
+      "status": 200,
+      "final_url": "https://www.feicafe.com/aboutus",
+      "last_modified": null,
+      "sha256": "ad79794eca9d3829498671502b21edcb1d56ec5aa6aed3402eb83e4143213efe",
+      "fingerprint_version": 6,
+      "chars": 2968
+    },
+    "https://www.nku.edu/care-closet/": {
+      "status": 200,
+      "final_url": "https://www.nku.edu/care-closet/",
+      "last_modified": null,
+      "sha256": "55b45adc6d560df73846ce9ad104c531d63eb9e9cf2f502d75dc09b5999d489c",
+      "fingerprint_version": 6,
+      "chars": 4492
+    },
+    "https://www.nku.edu/student-accessibility/resources/current-students/accessible-routes-parking/": {
+      "status": 200,
+      "final_url": "https://www.nku.edu/student-accessibility/resources/current-students/accessible-routes-parking/",
+      "last_modified": null,
+      "sha256": "0ac4644dcc2e4c1b3421ea1c7eaa8b90a935e3696af176c08402901950715f22",
+      "fingerprint_version": 6,
+      "chars": 659
+    },
+    "https://www.nku.edu/president/regents/meetings/_documents/board-of-regents-materials-9-16-2694.pdf": {
+      "status": 200,
+      "final_url": "https://www.nku.edu/president/regents/meetings/_documents/board-of-regents-materials-9-16-2694.pdf",
+      "last_modified": "Sat, 14 Nov 2026 07:02:29 GMT",
+      "sha256": "c88cf3a0fc7a0c2ec170ee6ce46f19c462d12178265b2e4a599b5ad1cabc474c",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 118789,
+      "pages": 63
     }
   },
   "findings": {

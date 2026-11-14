@@ -1,8 +1,66 @@
 # Broad and deep research queue
 
-Updated November 14, 2026 after markets/pantries, TANK and Eastgate research.
+Updated November 14, 2026 after indoor play, everyday services and Greenway research.
 
 ## Current prepared batch
+
+Read [indoor play, everyday services and Greenway evidence](indoor-play-greenway-2026-11-14.md)
+and its final-evidence, audit, media, HTTP, next-preflight and validation receipts.
+Every mutation spec is applied. Base `9aa48820` includes the previous batch; this
+workspace started clean, with no unfinished recovery edits or conflicts.
+
+**Growth:** We Rock the Spectrum Northern Kentucky (16), Fei House (4), Wondercade
+Westwood (5) and Care Closet @ NKU (11) add 36 notes. Three Bettman/Greenway depth
+notes bring **39 new permanent IDs**. Keep play/rental/field-trip rules distinct,
+care coming-soon conflict explicit, Fei’s alternative entry/upstairs route unknown,
+and NKU student eligibility and Spring 2026 hours scoped. A September 2026 elevator
+modernization plan is not a current outage notice or summer 2027 completion guarantee.
+
+**Accuracy/freshness:** two complete reviews cover seven old notes: Bettman (4),
+Greenway (3), both repeats within this week. Two text corrections and three expanded
+supporting records (one overlapping a correction) are separate from growth. No missing-
+quote repairs; 20 legacy gaps remain held. Preserve building/restroom, trail-distance,
+map-version and parking-price conflicts. No partial review advanced a whole date.
+
+**Imagery:** one full-frame CC0 Greenway wayfinding photo dated August 2, 2020; six
+original guides for gym, Fei, Bettman, Greenway and NKU. Sixty still candidate views,
+eleven media PDF pages and two board-report text pages inspected. Thirteen media/
+source/album links return 200. No current complete route, measured clearance or
+operating equipment inferred. No AI or copyrighted-image republication.
+
+**Totals:** 209 venues / 2,155 active / one retired / 2,135 quoted / 20 missing /
+93 licensed photos / 144 guides / 86 community-file reports. Categories: parks 34,
+arts 33, food 31, shopping 28, museums 21, public services 19, recreation 19,
+libraries 15, transport 9. Discovery: 96 names / 42 added / 39 lead-only / 15 held.
+Seventeen fact sources baselined (twelve new); 619 unselected rows and all old IDs,
+history prefixes, media and 203 unaffected venues preserved.
+
+**Validation:** 50 fresh evidence checks, 122 unit, 79 pipeline, lint, types, build,
+audit and 15 HTTP/HTML/asset checks pass. Four new routes bring the browser suite to
+197. Chromium fails before navigation (MachPort 1100), and CUA browser host is
+unavailable. Browser/axe, interaction and layout QA remain runner-required. Publication
+and deployment remain separate and owned by the runner.
+
+**Next:** Cincinnati State Career Closet, FUEL NKU and The Post Fort Thomas. Their
+current official pages return 200 in the preflight receipt; no listings imported.
+Resolve Cincinnati State’s Main lower-level / ATLC 101 shopping location and distinguish
+its donation-box photos from a complete shopping route. FUEL requires class enrollment,
+All Card, a bag and no more than two weekly visits, with campus-closure exceptions.
+Pair breadth with a full rolling venue review and current entrance/toilet photographs.
+The preflight receipt now includes three Cincinnati State donation-route photographs,
+one weak-relevance FUEL produce view and five inspected campus/building-map pages.
+Main-door steps and a donation-area elevator are visible; the January 2024 proposal
+to remove entrance stairs does not prove completion. FUEL’s official footer confirms
+Albright Health Center 104. No next-batch guide or listing has been imported.
+
+Continue gym changing/toilets and equipment assistance, Fei’s alternate entrance/lift,
+Wondercade doors/game reach/toilets, NKU’s internal UC 142 route and elevator, Bettman’s
+indoor restrictions and Greenway transitions/seasonal maintenance. Pinball Garage remains
+held (booking CAPTCHA; identity alone insufficient); Greenway brochure image is 403.
+NKU’s November Materials link actually opens January 2025, so it supplies no newer
+project status. Preserve earlier source and UC/DLM/MetroNow/market/pantry holds.
+
+## Published base: markets, pantries, TANK and Eastgate
 
 Read [markets, pantries, TANK and Eastgate](markets-pantry-tank-2026-11-14.md), its
 canonical final evidence, audit, media, HTTP, next-preflight and validation receipts.

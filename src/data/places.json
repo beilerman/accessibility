@@ -24987,19 +24987,19 @@
     "address": "4 Beech Ln., Cincinnati, OH 45208",
     "website": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
     "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
-    "limitations": "Public website information; no on-site audit. Cincinnati Parks describes paths and garden features as accessible without measurements. The page offers archive appointments but also says the building is closed except for programming; indoor entry and restroom availability are unresolved. Confirm parking-to-path connections, gradients, surfaces and any indoor visit with the park.",
-    "checked_at": "2026-11-11",
+    "limitations": "Public website information; no on-site audit. Cincinnati Parks describes a paved viewpoint path without measurements; the garden/overlook/picnic-table description is from a July 2020 article. The current page offers archive appointments but also says the building is closed except for programming; indoor entry and restroom availability are unresolved. Dawn-to-dusk park hours do not confirm building or toilet access. Undated photographs show only partial paths and seating. Confirm parking-to-path connections, gradients, surfaces and any indoor visit with the park.",
+    "checked_at": "2026-11-14",
     "slug": "bettman-nature-preserve",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "Cincinnati Parks describes a paved wheelchair-accessible path with views of the preserve and a trail winding through about six acres of forest. It does not give path gradients or dimensions.",
+        "text": "Cincinnati Parks describes a paved wheelchair-accessible path leading to views of the preserve. Path gradients and dimensions are not supplied.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
         "id": "bettman-nature-preserve.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25013,16 +25013,26 @@
             "date": "2026-11-11",
             "action": "revised",
             "note": "Full review attributed the published access description to Cincinnati Parks and retained the unknown route measurements."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Removed the separate winding forest-trail description: the freshly read page supports the paved viewpoint path and lists hiking trails, but does not describe that claimed route."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "sensory",
-        "text": "Cincinnati Parks describes the Bettman Sensory Garden and Pathway in O'Bryonville as having accessible walkways, easy access to an overlook, an accessible picnic table and raised planting beds.",
+        "text": "In a July 26, 2020 article, Cincinnati Parks described Bettman’s Sensory Garden and Pathway as having accessible walkways, an overlook, an accessible picnic table and raised planting beds. This is historical published information, not a current condition check.",
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/news/top-10-ada-accessible-features-in-cincy-parks/",
         "id": "bettman-nature-preserve.sensory.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": "2020-07-26",
         "observed_at": null,
         "review_status": "source_checked",
@@ -25036,6 +25046,16 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Made the 2020 publication date and historical scope explicit; retained the attributed feature description without treating it as a current field observation."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -25045,7 +25065,7 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
         "id": "bettman-nature-preserve.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25059,6 +25079,11 @@
             "date": "2026-11-11",
             "action": "revised",
             "note": "Full review preserved the source’s appointment offer alongside its building-closure statement; no general indoor access was inferred."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -25068,13 +25093,36 @@
         "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
         "id": "bettman-nature-preserve.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The park page lists outdoor hours as dawn to dusk. This does not override the separate restrictions on entering the nature-center building.",
+        "source_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/bettman-nature-preserve-center/",
+        "id": "bettman-nature-preserve.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -28775,8 +28823,8 @@
     "address": "Levassor Ave. & Eastern Ave. (behind Holmes High School), Covington, KY",
     "website": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
     "source_url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
-    "limitations": "Public website information; no on-site audit. Slopes, widths, parking and restrooms remain unverified. Most listed surfaces are nature trail or sidewalks/roads. The current listing assigns about 2.5 miles to sidewalks/roads in addition to nature/paved segments; the city’s 2019 completion article describes 2.5 miles total including streets. These lengths remain unresolved. The 2019 upper/lower-trail description is historical, not a current condition report.",
-    "checked_at": "2026-11-12",
+    "limitations": "Public website information; no on-site audit. Slopes, widths, parking and restrooms remain unverified. Most listed surfaces are nature trail or sidewalks/roads. The park listing assigns about 2.5 miles to sidewalks/roads in addition to nature/paved segments; the city’s current Trails overview and September 2019 completion article describe 2.5 miles for the route. These lengths remain unresolved. The 2018 bridge/2019 trail photographs and 2020 wayfinding sign are historical, not confirmation of current routes or conditions. A separate 2020 walking account describes grass, dirt/mud, gravel and high-water flooding; its four-mile loop is not necessarily the same itinerary.",
+    "checked_at": "2026-11-14",
     "slug": "licking-river-greenway-trails",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -28787,7 +28835,7 @@
         "source_url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
         "id": "licking-river-greenway-trails.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28801,6 +28849,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "The current cited listing no longer states that a paved trail parallels part of the route. Removed that unsupported clause from this note and kept the historical 2019 description separately, preserving the differing published lengths."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28810,7 +28863,7 @@
         "source_url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
         "id": "licking-river-greenway-trails.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28824,6 +28877,11 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28833,13 +28891,54 @@
         "source_url": "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making",
         "id": "licking-river-greenway-trails.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": "2019-09-17",
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The city’s current Trails overview describes a 2½-mile hiking route from Levassor Place to Randolph Park, with a parallel paved trail for only part of the way. Confirm which route segment meets your needs.",
+        "source_url": "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/trails",
+        "id": "licking-river-greenway-trails.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The city’s September 2019 report says a pedestrian bridge installed in May 2018 carried the paved path over 16th Street at the floodwall opening. This is historical route information; current bridge and approach conditions are unverified.",
+        "source_url": "https://www.covingtonky.gov/news/2019/09/17/licking-greenway-years-in-making",
+        "id": "licking-river-greenway-trails.mobility.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -47414,6 +47513,718 @@
         "source_type": "venue_official",
         "retrieved_at": "2026-11-14",
         "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "We Rock the Spectrum — Northern Kentucky",
+    "city": "Erlanger",
+    "state": "KY",
+    "category": "Recreation & fitness",
+    "address": "331 Kenton Lands Rd, Suite 400, Erlanger, KY 41018",
+    "website": "https://werockthespectrumnorthernkentucky.com/about-us/",
+    "source_url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+    "limitations": "Public branch information; no on-site audit. Open play, private rentals and school field trips have different supervision and booking rules. The We Rock Care page both advertises care and says services are coming soon; care availability is unresolved. Field-trip footwear accommodations are not a blanket open-play exception. The social story’s visible socks instruction differs from stale extracted text; use current policies and confirm individual arrangements. Door widths, thresholds, parking-to-door continuity, equipment transfer/support procedures, toilet and changing facilities remain unverified. A calming room does not establish a quiet whole gym or guaranteed availability.",
+    "checked_at": "2026-11-14",
+    "slug": "we-rock-spectrum-northern-kentucky",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "sensory",
+        "text": "The branch lists a calming room and a fine-motor, arts-and-crafts area. Room availability and individual sensory conditions need confirmation.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/about-us/",
+        "id": "we-rock-spectrum-northern-kentucky.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The gym lists swings, crash mats, a zip line, trampoline and climbing structure. This does not establish wheelchair access onto equipment or transfer assistance.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/about-us/",
+        "id": "we-rock-spectrum-northern-kentucky.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "During open play, a parent or guardian must stay with the child at all times.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+        "id": "we-rock-spectrum-northern-kentucky.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The open-play page prohibits shoes on the gym floor and requires socks for adults and children. Ask the branch about any footwear support you need.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+        "id": "we-rock-spectrum-northern-kentucky.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Open-play hours change with private rentals and parties. Call 859-727-9787 or check the current weekly schedule before travelling.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+        "id": "we-rock-spectrum-northern-kentucky.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The private-rental/play-date offer is weekdays only, for up to 10 people, with one adult guest for every four children and booking two weeks ahead. These are the private-rental terms; field-trip supervision is different.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/private-facility-rentals/",
+        "id": "we-rock-spectrum-northern-kentucky.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Private rentals include the gym, art room and calming room, but no childcare. The party room is excluded, and private rentals/play dates cannot be used as birthday packages.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/private-facility-rentals/",
+        "id": "we-rock-spectrum-northern-kentucky.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For school field trips, the branch offers shoe covers for purchase for adults unable to remove shoes and says it can accommodate children with leg braces or sensory issues. Arrange the needed accommodation; this contract does not establish the open-play exception.",
+        "source_url": "https://form.jotform.com/243014506254144",
+        "id": "we-rock-spectrum-northern-kentucky.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "School field trips require at least one non-staff adult for every three children. Gym staff help with the experience but are not in charge of the children’s care.",
+        "source_url": "https://form.jotform.com/243014506254144",
+        "id": "we-rock-spectrum-northern-kentucky.cognitive.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The school field-trip form invites requests such as no music or hiding lobby snacks. A request is not confirmation that a particular arrangement will be provided.",
+        "source_url": "https://form.jotform.com/243014506254144",
+        "id": "we-rock-spectrum-northern-kentucky.sensory.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The public field-trip option is limited to groups of 10 or fewer students, excludes Fridays and shares the gym with open play. A private field trip closes the gym to the public.",
+        "source_url": "https://form.jotform.com/243014506254144",
+        "id": "we-rock-spectrum-northern-kentucky.cognitive.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For field trips, food and drinks must stay in the party room or lobby, outside the gym area.",
+        "source_url": "https://form.jotform.com/243014506254144",
+        "id": "we-rock-spectrum-northern-kentucky.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The care page advertises respite, break-time and one-to-one attendant care but also says “Services Coming Soon!” Confirm whether care is currently offered; do not plan a drop-off based on the advertised service or prices.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/we-rock-care/",
+        "id": "we-rock-spectrum-northern-kentucky.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For the care service whose availability remains unclear, the page specifies ages 3–13 and toilet-trained children, requires a parent conversion form and says the gym is not a licensed daycare. These restrictions are not stated as general open-play admission rules.",
+        "source_url": "https://werockthespectrumnorthernkentucky.com/we-rock-care/",
+        "id": "we-rock-spectrum-northern-kentucky.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The field-trip contract prohibits adult equipment use and says an adult riding the zipline will be asked to leave. Its combined adults/older-teens sentence also contains a disability-related exception whose scope is unclear. Confirm age eligibility and assistance arrangements before booking.",
+        "source_url": "https://form.jotform.com/243014506254144",
+        "id": "we-rock-spectrum-northern-kentucky.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For school field trips, first-time visitors under 18, including infants, need a signed waiver before entering the gym floor. The branch offers a waiver file schools can distribute as an alternative to online registration.",
+        "source_url": "https://form.jotform.com/243014506254144",
+        "id": "we-rock-spectrum-northern-kentucky.cognitive.7",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fei House",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "640 Main St, Covington, KY 41011",
+    "website": "https://www.feicafe.com/",
+    "source_url": "https://www.feicafe.com/aboutus",
+    "limitations": "Public venue information with a separate community recommendation; no on-site audit. The current site uses Fei House and retains older KungBrew branding. Official photographs show front/side porch steps and an interior staircase, but do not establish whether another entrance or lift exists. Step-free arrival, door controls, upstairs access, toilet/changing layout, seating clearances and assistance remain unverified. Listed October/November 2026 tea events have already ended; their attendance limits and availability are not current session promises. No reuse licence was found for the photographer’s gallery; link to the originals.",
+    "checked_at": "2026-11-14",
+    "slug": "fei-house-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The venue places its specialty tea room upstairs and describes traditional low-floor seating there. Confirm an appropriate seat and route before booking; the page does not explain a lift or step-free upstairs connection.",
+        "source_url": "https://www.feicafe.com/aboutus",
+        "id": "fei-house-covington.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The ground floor has landscape and zodiac murals, and the café describes antique furnishings and décor throughout. This is visual-environment context, not a promise of low stimulation.",
+        "source_url": "https://www.feicafe.com/aboutus",
+        "id": "fei-house-covington.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Published hours are Tuesday–Friday 7 a.m.–5 p.m. and Saturday–Sunday 7:30 a.m.–5 p.m., closed Mondays. Confirm holiday or event changes before travelling.",
+        "source_url": "https://www.feicafe.com/",
+        "id": "fei-house-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The official site locates Fei House at 640 Main Street in Covington. Older event descriptions on the same site still use the Kung Brew name.",
+        "source_url": "https://www.feicafe.com/",
+        "id": "fei-house-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wondercade",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "3143 Harrison Avenue, Cincinnati, OH 45211",
+    "website": "https://wondercadecincy.com/",
+    "source_url": "https://wondercadecincy.com/",
+    "limitations": "Public venue policies with separate historical visitor accounts; no on-site audit. Westwood location confirmed by the official address. Admission and age rules do not establish physical access to games. Entrance thresholds and controls, parking-to-door route, aisle widths, control heights, seating, toilets/changing facilities and quiet spaces remain unverified. No free companion admission or transfer assistance is established.",
+    "checked_at": "2026-11-14",
+    "slug": "wondercade-westwood",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Admission includes games set to free play and re-entry that day; visitors do not need quarters or tokens. The site says entry after 9 p.m. is adults only.",
+        "source_url": "https://wondercadecincy.com/",
+        "id": "wondercade-westwood.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Children under 12 need a responsible adult aged 18 or older admitted and playing alongside them. Under-18s are welcome before 9 p.m.; ages 18–20 may attend throughout opening hours.",
+        "source_url": "https://wondercadecincy.com/",
+        "id": "wondercade-westwood.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Membership entry requires the membership card and matching ID. Membership covers one person; no companion admission is specified.",
+        "source_url": "https://wondercadecincy.com/",
+        "id": "wondercade-westwood.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The group-visit offer requires at least 10 people. The party offer adds exclusive use of the party room for two hours; its physical access is not described.",
+        "source_url": "https://wondercadecincy.com/",
+        "id": "wondercade-westwood.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For visit arrangements, call 513-389-0000 or email wondercadecincy@gmail.com. The listed schedule is Wednesday–Friday 4 p.m.–midnight, Saturday 2 p.m.–midnight and Sunday 2–9 p.m.",
+        "source_url": "https://wondercadecincy.com/",
+        "id": "wondercade-westwood.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Care Closet @ NKU",
+    "city": "Highland Heights",
+    "state": "KY",
+    "category": "Public services",
+    "address": "University Center 142, Nunn Drive, Highland Heights, KY 41099",
+    "website": "https://www.nku.edu/care-closet/",
+    "source_url": "https://www.nku.edu/care-closet/",
+    "limitations": "Student clothing service, not a general-public shop or the separate Newport CARE Closet. No on-site audit. The hours panel is labeled Spring 2026; current term and holiday hours remain unconfirmed. The current campus-map link shows June 2025 revision text and construction markings; another official-host version has different building numbering. Both print a $9.75 garage maximum, unlike the visitor page’s 2026–27 $12 rate. The map is orientation only, not current construction or door-operation evidence. A continuous step-free route to UC 142, elevator location, aisle clearance, fitting-room access, toilets/changing facilities and clothing-selection assistance remain unverified. Official room photographs are undated and may show earlier layouts.",
+    "checked_at": "2026-11-14",
+    "slug": "nku-care-closet",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Free interview and everyday clothing is offered to NKU students in University Center 142. Students must bring their All Card to shop.",
+        "source_url": "https://www.nku.edu/care-closet/",
+        "id": "nku-care-closet.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Students can arrange an appointment outside operating hours. Graduate and law students needing an appointment are directed to carecloset@nku.edu.",
+        "source_url": "https://www.nku.edu/care-closet/",
+        "id": "nku-care-closet.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The published hours panel is explicitly for Spring 2026: Monday, Wednesday and Thursday, 11 a.m.–3 p.m., closed during on-campus events. Confirm this term’s hours before travelling.",
+        "source_url": "https://www.nku.edu/care-closet/",
+        "id": "nku-care-closet.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "There is no visit-frequency limit, but students are asked to take only what they need and bring a reusable bag.",
+        "source_url": "https://www.nku.edu/care-closet/",
+        "id": "nku-care-closet.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Students may collect items for other people if they tell the service. Children’s clothing is held at the Newport home base and must be requested for collection at NKU; it is not promised as NKU walk-in stock.",
+        "source_url": "https://www.nku.edu/care-closet/",
+        "id": "nku-care-closet.chronic.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Clothing donations are not generally accepted at NKU. For a few suitable, clean items in good condition, email a list to carecloset@nku.edu and coordinate a drop-off time; do not assume walk-in donation service.",
+        "source_url": "https://www.nku.edu/care-closet/",
+        "id": "nku-care-closet.cognitive.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "NKU links a campus map intended to identify accessible routes and building entrances. It is campus-level orientation and does not describe the indoor connection to Care Closet room UC 142.",
+        "source_url": "https://www.nku.edu/student-accessibility/resources/current-students/accessible-routes-parking/",
+        "id": "nku-care-closet.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For visitors using designated disability spaces, NKU requires both a state-issued disability placard and a Parking Services permit. Its Nunn Drive office lists Monday–Thursday 8 a.m.–4:30 p.m. and Friday 8 a.m.–4 p.m.; summer hours may vary. Confirm arrangements at 859-572-5505.",
+        "source_url": "https://www.nku.edu/parking/visit/",
+        "id": "nku-care-closet.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Visitor garages are Arena, University and Kenton. Pull a ticket even if the gate is raised; payment accepts Visa, MasterCard or Discover. The 2026–27 table lists $12 for stays over four hours or a lost ticket. Departmental validation is possible but not promised for this service.",
+        "source_url": "https://www.nku.edu/parking/visit/",
+        "id": "nku-care-closet.cognitive.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Surface lots require a permit. A visitor day permit can be bought online for $12, printed and displayed on the dashboard; it applies only to the registered vehicle in Student Parking or Permit Parking lots.",
+        "source_url": "https://www.nku.edu/parking/visit/",
+        "id": "nku-care-closet.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "NKU’s September 16, 2026 facilities report places University Center passenger-elevator modernization in the planning phase, with anticipated completion in summer 2027. This is a dated project update, not a live outage or completion notice. Confirm elevator operation and the route to UC 142 before relying on it.",
+        "source_url": "https://www.nku.edu/president/regents/meetings/_documents/board-of-regents-materials-9-16-2694.pdf",
+        "id": "nku-care-closet.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": "2026-09-16",
         "observed_at": null,
         "review_status": "source_checked",
         "history": [

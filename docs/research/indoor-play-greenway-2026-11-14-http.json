@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-11-14T15:15:59.931Z",
+  "checks": [
+    {
+      "path": "/venues/we-rock-spectrum-northern-kentucky",
+      "status": 200,
+      "noteAnchors": 16,
+      "sourceLinks": true,
+      "limitations": true,
+      "guides": true,
+      "communityBoundaries": true
+    },
+    {
+      "path": "/venues/fei-house-covington",
+      "status": 200,
+      "noteAnchors": 4,
+      "sourceLinks": true,
+      "limitations": true,
+      "guides": true,
+      "communityBoundaries": true
+    },
+    {
+      "path": "/venues/wondercade-westwood",
+      "status": 200,
+      "noteAnchors": 5,
+      "sourceLinks": true,
+      "limitations": true,
+      "guides": true,
+      "communityBoundaries": true
+    },
+    {
+      "path": "/venues/nku-care-closet",
+      "status": 200,
+      "noteAnchors": 11,
+      "sourceLinks": true,
+      "limitations": true,
+      "guides": true,
+      "communityBoundaries": true
+    },
+    {
+      "path": "/venues/bettman-nature-preserve",
+      "status": 200,
+      "noteAnchors": 5,
+      "sourceLinks": true,
+      "limitations": true,
+      "guides": true,
+      "communityBoundaries": true
+    },
+    {
+      "path": "/venues/licking-river-greenway-trails",
+      "status": 200,
+      "noteAnchors": 5,
+      "sourceLinks": true,
+      "limitations": true,
+      "guides": true,
+      "communityBoundaries": true
+    },
+    {
+      "path": "/venues?category=Recreation+%26+fitness&region=KY&q=We+Rock+the+Spectrum+%E2%80%94+Northern+Kentucky",
+      "status": 200,
+      "found": "we-rock-spectrum-northern-kentucky"
+    },
+    {
+      "path": "/venues?category=Food+%26+drink&region=KY&q=Fei+House",
+      "status": 200,
+      "found": "fei-house-covington"
+    },
+    {
+      "path": "/venues?category=Recreation+%26+fitness&region=OH&q=Wondercade",
+      "status": 200,
+      "found": "wondercade-westwood"
+    },
+    {
+      "path": "/venues?category=Public+services&region=KY&q=Care+Closet+%40+NKU",
+      "status": 200,
+      "found": "nku-care-closet"
+    },
+    {
+      "path": "/access-in-pictures",
+      "status": 200
+    },
+    {
+      "path": "/access-in-pictures",
+      "allGuideLinks": 144,
+      "pass": true
+    },
+    {
+      "path": "/visitor-reports",
+      "status": 200
+    },
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/images/access/greenway-eastern-wayfinding-2020.webp",
+      "status": 200,
+      "bytes": 358290,
+      "sha256": "d8713cb9a0c16c699e3688452e197c27d00e8fa78819eae78e114a3911b696ee",
+      "sameAsLocal": true
+    }
+  ],
+  "limitation": "HTTP/HTML only; browser navigation, interaction, layout and axe require the runner. Local Chromium fails before navigation (MachPort 1100); CUA browser host is unavailable."
+}

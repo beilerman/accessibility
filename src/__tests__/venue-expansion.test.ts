@@ -3,6 +3,8 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "nku-care-closet",
+  "we-rock-spectrum-northern-kentucky", "fei-house-covington", "wondercade-westwood",
   "lehrs-prime-market-milford", "seafood-station-loveland",
   "boone-county-drive-thru-food-pantry", "action-ministries-covington",
   "metronow-on-demand", "dorothy-lane-market-mason", "university-cincinnati-campus-recreation-center",
@@ -41,6 +43,26 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("keeps indoor-play supervision, care availability and upstairs seating boundaries", () => {
+    expect(findPlaces({ category: "Recreation & fitness", region: "KY" }).map((p) => p.slug)).toContain("we-rock-spectrum-northern-kentucky");
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("wondercade-westwood");
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain("fei-house-covington");
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toContain("nku-care-closet");
+    expect(text("nku-care-closet")).toContain("Spring 2026");
+    expect(text("nku-care-closet")).toContain("All Card");
+    expect(text("nku-care-closet")).toContain("Clothing donations are not generally accepted");
+    const gym = text("we-rock-spectrum-northern-kentucky");
+    expect(gym).toContain("one adult guest for every four children");
+    expect(gym).toContain("one non-staff adult for every three children");
+    expect(gym).toContain("Services Coming Soon!");
+    expect(gym).toContain("not stated as general open-play admission rules");
+    expect(text("fei-house-covington")).toContain("low-floor seating");
+    expect(place("fei-house-covington").limitations).toContain("another entrance or lift");
+    expect(text("wondercade-westwood")).toContain("Under-18s are welcome before 9 p.m.");
+    expect(text("bettman-nature-preserve")).toContain("July 26, 2020");
+    expect(text("bettman-nature-preserve")).not.toContain("trail winding");
+  });
+
   it("finds transport, shopping and community recreation with service boundaries intact", () => {
     expect(findPlaces({ category: "Transportation", region: "OH" }).map((p) => p.slug)).toContain("metronow-on-demand");
     expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain("dorothy-lane-market-mason");
@@ -665,7 +687,7 @@ describe("November source-backed venue expansion", () => {
     expect(text("burnet-woods-trailside-nature-center")).toMatch(/same page says Saturday open hours/);
   });
   it("discovers public services and recreation while preserving construction and seasonal limits", () => {
-    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens", "covunity-fridge-banklick-street", "walton-post-office", "kentucky-driver-licensing-burlington", "kentucky-driver-licensing-independence", "boone-county-drive-thru-food-pantry", "action-ministries-covington"]);
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens", "covunity-fridge-banklick-street", "walton-post-office", "kentucky-driver-licensing-burlington", "kentucky-driver-licensing-independence", "boone-county-drive-thru-food-pantry", "action-ministries-covington", "nku-care-closet"]);
     expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("uc-campus-recreation-center");
     expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toContain("dunham-recreation-complex");
     expect(place("kenton-county-government-center").address).toBe("1840 Simon Kenton Way, Covington, KY 41011");
@@ -910,6 +932,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
+      "fei-house-covington",
       "fifty-west-wooster-pike", "fords-garage-norwood",
       "fabled-brew-works", "little-miami-brewing-company", "brink-brewing-college-hill", "streetside-brewery",
       "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "second-sight-spirits", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",

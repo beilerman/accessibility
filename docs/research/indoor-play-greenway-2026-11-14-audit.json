@@ -1,0 +1,197 @@
+{
+  "base": "9aa488202299fbd091ac9d8340b924c2bdd3d981",
+  "newVenues": [
+    {
+      "slug": "we-rock-spectrum-northern-kentucky",
+      "notes": 16
+    },
+    {
+      "slug": "fei-house-covington",
+      "notes": 4
+    },
+    {
+      "slug": "wondercade-westwood",
+      "notes": 5
+    },
+    {
+      "slug": "nku-care-closet",
+      "notes": 11
+    }
+  ],
+  "newNoteIds": [
+    "bettman-nature-preserve.cognitive.2",
+    "fei-house-covington.cognitive.1",
+    "fei-house-covington.cognitive.2",
+    "fei-house-covington.mobility.1",
+    "fei-house-covington.sensory.1",
+    "licking-river-greenway-trails.mobility.3",
+    "licking-river-greenway-trails.mobility.4",
+    "nku-care-closet.chronic.1",
+    "nku-care-closet.chronic.2",
+    "nku-care-closet.cognitive.1",
+    "nku-care-closet.cognitive.2",
+    "nku-care-closet.cognitive.3",
+    "nku-care-closet.cognitive.4",
+    "nku-care-closet.cognitive.5",
+    "nku-care-closet.mobility.1",
+    "nku-care-closet.mobility.2",
+    "nku-care-closet.mobility.3",
+    "nku-care-closet.mobility.4",
+    "we-rock-spectrum-northern-kentucky.chronic.1",
+    "we-rock-spectrum-northern-kentucky.chronic.2",
+    "we-rock-spectrum-northern-kentucky.cognitive.1",
+    "we-rock-spectrum-northern-kentucky.cognitive.2",
+    "we-rock-spectrum-northern-kentucky.cognitive.3",
+    "we-rock-spectrum-northern-kentucky.cognitive.4",
+    "we-rock-spectrum-northern-kentucky.cognitive.5",
+    "we-rock-spectrum-northern-kentucky.cognitive.6",
+    "we-rock-spectrum-northern-kentucky.cognitive.7",
+    "we-rock-spectrum-northern-kentucky.mobility.1",
+    "we-rock-spectrum-northern-kentucky.mobility.2",
+    "we-rock-spectrum-northern-kentucky.mobility.3",
+    "we-rock-spectrum-northern-kentucky.mobility.4",
+    "we-rock-spectrum-northern-kentucky.sensory.1",
+    "we-rock-spectrum-northern-kentucky.sensory.2",
+    "we-rock-spectrum-northern-kentucky.sensory.3",
+    "wondercade-westwood.cognitive.1",
+    "wondercade-westwood.cognitive.2",
+    "wondercade-westwood.cognitive.3",
+    "wondercade-westwood.cognitive.4",
+    "wondercade-westwood.cognitive.5"
+  ],
+  "fullReviews": [
+    {
+      "slug": "bettman-nature-preserve",
+      "oldDate": "2026-11-11",
+      "newDate": "2026-11-14",
+      "oldNotes": 4,
+      "currentNotes": 5
+    },
+    {
+      "slug": "licking-river-greenway-trails",
+      "oldDate": "2026-11-12",
+      "newDate": "2026-11-14",
+      "oldNotes": 3,
+      "currentNotes": 5
+    }
+  ],
+  "changedExistingNotes": [
+    "bettman-nature-preserve.mobility.1",
+    "bettman-nature-preserve.sensory.1",
+    "bettman-nature-preserve.cognitive.1",
+    "bettman-nature-preserve.chronic.1",
+    "licking-river-greenway-trails.mobility.1",
+    "licking-river-greenway-trails.cognitive.1",
+    "licking-river-greenway-trails.mobility.2"
+  ],
+  "correctedTextIds": [
+    "bettman-nature-preserve.mobility.1",
+    "bettman-nature-preserve.sensory.1"
+  ],
+  "changedEvidenceIds": [
+    "bettman-nature-preserve.chronic.1",
+    "bettman-nature-preserve.cognitive.1",
+    "bettman-nature-preserve.mobility.1",
+    "bettman-nature-preserve.sensory.1",
+    "licking-river-greenway-trails.cognitive.1",
+    "licking-river-greenway-trails.mobility.1",
+    "licking-river-greenway-trails.mobility.2"
+  ],
+  "absentQuoteBackfill": 0,
+  "missingQuoteIds": [
+    "amc-newport-on-the-levee-20.chronic.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.cognitive.2",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.sensory.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.cognitive.1",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.sensory.1"
+  ],
+  "unchangedExistingVenues": 203,
+  "oldIdsPreserved": true,
+  "historyPrefixesPreserved": true,
+  "media": {
+    "access-photos": {
+      "before": 92,
+      "after": 93,
+      "newIds": [
+        "greenway-eastern-wayfinding-2020"
+      ]
+    },
+    "access-guides": {
+      "before": 138,
+      "after": 144,
+      "newIds": [
+        "wrts-nky-field-trip-social-story",
+        "fei-house-porch-stairs-seating-gallery",
+        "bettman-building-seating-path-photos",
+        "greenway-2019-bridge-path-weather-photos",
+        "nku-care-closet-racks-fitting-curtain",
+        "nku-care-closet-campus-access-map"
+      ]
+    },
+    "visitor-reports-community": {
+      "before": 81,
+      "after": 86,
+      "newIds": [
+        "wrts-nky-community-calm-craft-rooms",
+        "fei-house-community-upstairs-workspace",
+        "wondercade-community-weekly-game-condition",
+        "greenway-kentucky-hiker-surfaces-2020",
+        "nku-care-closet-community-donation-lead"
+      ]
+    }
+  },
+  "baselines": {
+    "selectedFactUrls": 17,
+    "addressOnlyUrls": [
+      "https://www.nku.edu/care-closet/contact/index.html"
+    ],
+    "newUrls": [
+      "https://form.jotform.com/243014506254144",
+      "https://werockthespectrumnorthernkentucky.com/about-us/",
+      "https://werockthespectrumnorthernkentucky.com/open-play/",
+      "https://werockthespectrumnorthernkentucky.com/private-facility-rentals/",
+      "https://werockthespectrumnorthernkentucky.com/we-rock-care/",
+      "https://wondercadecincy.com/",
+      "https://www.covingtonky.gov/government/departments/community-development/neighborhood-services/parks-recreation/trails",
+      "https://www.feicafe.com/",
+      "https://www.feicafe.com/aboutus",
+      "https://www.nku.edu/care-closet/",
+      "https://www.nku.edu/president/regents/meetings/_documents/board-of-regents-materials-9-16-2694.pdf",
+      "https://www.nku.edu/student-accessibility/resources/current-students/accessible-routes-parking/"
+    ],
+    "unselectedRowsPreserved": 619
+  },
+  "totals": {
+    "venues": 209,
+    "activeNotes": 2155,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 2135,
+    "missingQuotes": 20,
+    "categories": {
+      "Museums & attractions": 21,
+      "Arts & performances": 33,
+      "Parks & outdoors": 34,
+      "Libraries": 15,
+      "Transportation": 9,
+      "Food & drink": 31,
+      "Shopping": 28,
+      "Public services": 19,
+      "Recreation & fitness": 19
+    }
+  }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "bettman-nature-preserve.mobility.1",
+    "oldText": "Cincinnati Parks describes a paved wheelchair-accessible path with views of the preserve and a trail winding through about six acres of forest. It does not give path gradients or dimensions.",
+    "text": "Cincinnati Parks describes a paved wheelchair-accessible path leading to views of the preserve. Path gradients and dimensions are not supplied.",
+    "reason": "Removed the separate winding forest-trail description: the freshly read page supports the paved viewpoint path and lists hiking trails, but does not describe that claimed route."
+  },
+  {
+    "id": "bettman-nature-preserve.sensory.1",
+    "oldText": "Cincinnati Parks describes the Bettman Sensory Garden and Pathway in O'Bryonville as having accessible walkways, easy access to an overlook, an accessible picnic table and raised planting beds.",
+    "text": "In a July 26, 2020 article, Cincinnati Parks described Bettman’s Sensory Garden and Pathway as having accessible walkways, an overlook, an accessible picnic table and raised planting beds. This is historical published information, not a current condition check.",
+    "published_at": "2020-07-26",
+    "reason": "Made the 2020 publication date and historical scope explicit; retained the attributed feature description without treating it as a current field observation."
+  }
+]
