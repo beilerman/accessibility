@@ -40220,5 +40220,483 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Little Miami Brewing Company",
+    "city": "Milford",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "208 Mill Street, Milford, OH 45150",
+    "website": "https://littlemiamibrewing.com/home/",
+    "source_url": "https://littlemiamibrewing.com/faqs/",
+    "limitations": "Official public webpages only; no on-site audit. This listing covers the main taproom, not the separate Event Center. The general no-steps statement does not establish access to the rooftop, every outdoor area or restrooms. Door clearances, designated parking, curb crossings, toilet layout and assistance arrangements are unverified. The homepage and FAQ disagree on closing hours; confirm the current taproom and kitchen hours. The FAQ groups service animals with pets and restricts them to outdoor areas; service-animal arrangements remain unresolved. Photo dates and current furniture layouts are unconfirmed.",
+    "checked_at": "2026-11-13",
+    "slug": "little-miami-brewing-company",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The brewery FAQ describes wheelchair access and says “Easy access, no steps!” This is the venue’s general statement; it does not describe a particular entrance, doorway measurements, restroom access or a route to the rooftop.",
+        "source_url": "https://littlemiamibrewing.com/faqs/",
+        "id": "little-miami-brewing-company.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ lists a 51-space lot and additional street parking on Water and Main streets across from the brewery, with crosswalks. It does not identify designated accessible bays or document a continuous route from a bay to the door.",
+        "source_url": "https://littlemiamibrewing.com/faqs/",
+        "id": "little-miami-brewing-company.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ describes outdoor tables and Adirondack chairs around a fire pit and says the patio has heaters in colder months. Seat heights, back or arm support, and a smoke-free position are unconfirmed.",
+        "source_url": "https://littlemiamibrewing.com/faqs/",
+        "id": "little-miami-brewing-company.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ lists a cauliflower pizza crust as its gluten-free option, salads, a vegetarian Bass Island pizza and gluten-free cider. The Bass Island requires ordering the cauliflower crust for the listed gluten-free option; preparation and cross-contact controls are not documented.",
+        "source_url": "https://littlemiamibrewing.com/faqs/",
+        "id": "little-miami-brewing-company.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ prohibits outside food in the taproom except a birthday or celebration cake. It does not state a medical or dietary exception; confirm any needed food arrangements before visiting.",
+        "source_url": "https://littlemiamibrewing.com/faqs/",
+        "id": "little-miami-brewing-company.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Group reservation requests must be emailed to reserve@littlemiamibrewing.com. The FAQ says reservations depend on the season and are limited to certain days and hours, with a maximum of 30 people or three large tables; it says verbal reservation messages will not be returned. A request is not a confirmed booking or an access arrangement.",
+        "source_url": "https://littlemiamibrewing.com/faqs/",
+        "id": "little-miami-brewing-company.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The homepage labels the rooftop seasonal and weather dependent. It does not describe how to reach it without steps; confirm availability and the route rather than extending the taproom’s general no-steps statement to this area.",
+        "source_url": "https://littlemiamibrewing.com/home/",
+        "id": "little-miami-brewing-company.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ groups service animals with pets and says they are allowed on the covered patio or outdoor biergarten, but not in the taproom or rooftop. This records the venue’s published wording; service-animal arrangements remain unresolved and need direct clarification before a visit.",
+        "source_url": "https://littlemiamibrewing.com/faqs/",
+        "id": "little-miami-brewing-company.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brink Brewing Co.",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "5905 Hamilton Avenue, Cincinnati, OH 45224",
+    "website": "https://www.brinkbrewing.com/",
+    "source_url": "https://www.brinkbrewing.com/faqs",
+    "limitations": "Official public webpages only; no on-site audit. Physical access remains unverified: the reviewed pages do not document step-free entrances, door operation, designated parking, table clearances or accessible restrooms. A public forum recommendation is a discovery lead, not an access assessment. Bringing food does not establish allergen-safe preparation or eating space. The FAQ’s dog-bowl water station reference is not evidence of accessible drinking water for visitors.",
+    "checked_at": "2026-11-13",
+    "slug": "brink-brewing-college-hill",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "Brink’s food page explicitly invites visitors to bring their own food. That may help with meal planning, but the page does not document allergen handling, food storage or preparation facilities.",
+        "source_url": "https://www.brinkbrewing.com/food",
+        "id": "brink-brewing-college-hill.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ says wine, cocktails and non-alcoholic options are available and directs visitors to a link below the beer menu for the other beverages. Ingredients and suitability for particular dietary needs still need checking.",
+        "source_url": "https://www.brinkbrewing.com/faqs",
+        "id": "brink-brewing-college-hill.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The official FAQ footer lists brinkinfo@brinkbrewing.com and the College Hill address at 5905 Hamilton Avenue. Use the venue contact to ask about entrance, seating and restroom arrangements; no response time or accommodation is promised.",
+        "source_url": "https://www.brinkbrewing.com/faqs",
+        "id": "brink-brewing-college-hill.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Streetside Brewery",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "4003 Eastern Avenue, Cincinnati, OH 45226",
+    "website": "https://www.streetsidebrewery.com/",
+    "source_url": "https://www.streetsidebrewery.com/taproom",
+    "limitations": "Official public webpages and a separately labeled historical community comment; no on-site audit. The reviewed official text does not establish step-free access, designated parking, doorway widths or accessible restroom fittings. The official entrance/patio photograph shows only a partial approach; it does not verify a continuous route from parking or crossing conditions. Furniture and photo dates are unconfirmed. The community report supplies no visit date and is not a current access guarantee.",
+    "checked_at": "2026-11-13",
+    "slug": "streetside-brewery",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "sensory",
+        "text": "The taproom page prohibits smoking and vaping inside, including bathrooms, and on the patio. It places an outdoor ashtray at the northwest corner of the building; this is not a guarantee of a smoke-free arrival route.",
+        "source_url": "https://www.streetsidebrewery.com/taproom",
+        "id": "streetside-brewery.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Outside food is prohibited while Streetside’s food truck or a guest food truck is operating. The venue asks visitors to call or ask the bartender before ordering if uncertain. The page does not specify a medical-food exception.",
+        "source_url": "https://www.streetsidebrewery.com/taproom",
+        "id": "streetside-brewery.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The official homepage lists 513-615-5877 and 4003 Eastern Avenue, Cincinnati, OH 45226. Contact the venue before visiting to clarify the entrance, parking connection and restroom arrangements; a phone listing does not establish assistance availability.",
+        "source_url": "https://www.streetsidebrewery.com/",
+        "id": "streetside-brewery.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ARCO · Arts + Community",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "3301 Price Avenue, Cincinnati, OH 45205",
+    "website": "https://www.arcocincinnati.org/",
+    "source_url": "https://www.arcocincinnati.org/accessibility",
+    "limitations": "Official public access guidance and linked route drawings only; no on-site audit. Use the named west or adjacent first-floor north entrances; the historic front entry has steps. The second-floor balcony is not wheelchair accessible despite the general elevator description. No restroom is on the first floor. Current lift operation, outage alternatives, door widths/controls, wheelchair availability and event seating need confirmation. Baby changing stations do not establish adult changing equipment. Undated drawings illustrate suggested routes, not measured clearances or a guaranteed event layout.",
+    "checked_at": "2026-11-13",
+    "slug": "arco-arts-community",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "ARCO identifies three designated accessible parking spaces beside its main parking-lot entrance. Bay measurements and the complete bay-to-door route are unconfirmed.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Wheelchair entry is through the west door or adjacent first-floor north doors only. ARCO explicitly says the second-floor balcony is not wheelchair accessible.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The venue describes an elevator serving four floors and the lower basement. This does not remove the separate second-floor balcony restriction.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "ARCO says there is no first-floor restroom; other restrooms are reached using the west-wing elevator. Confirm lift operation and the route before attending.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "ARCO describes its restrooms as accessible with one stall each, and baby changing stations in all restrooms. Detailed fittings and adult changing equipment are unconfirmed.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The venue says wayfinding signs throughout the building include Spanish and Braille. It does not document hearing assistance or tactile coverage beyond these signs.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "ARCO lists a wheelchair available on site. Availability, dimensions and any staff assistance need confirming.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "ARCO encourages renters to designate a gender-neutral restroom and offers signs for that purpose. The arrangement depends on the event.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The access page welcomes trained service animals. Ask the venue about any event-specific arrival arrangements.",
+        "source_url": "https://www.arcocincinnati.org/accessibility",
+        "id": "arco-arts-community.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -741,5 +741,22 @@
     "visitedAt": null,
     "checkedAt": "2026-11-13",
     "kind": "community_comment"
+  },
+  {
+    "id": "streetside-reddit-entrance-parking",
+    "placeSlug": "streetside-brewery",
+    "sourceTitle": "A place to watch Saturday — entrance and parking comment",
+    "sourceUrl": "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/comment/mmes2x9/",
+    "publisher": "Reddit · r/FCCincinnati",
+    "author": "cygnusuc",
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment",
+    "domains": [
+      "mobility"
+    ],
+    "summary": "Responding to a request for a match-viewing venue with few barriers to walking, a commenter reports no steps at Streetside and mentions parking across from the entrance or on the street.",
+    "caveat": "Historical public comment; exact comment and visit dates were not established. This does not verify current conditions, crossing safety, designated accessible bays, door clearances or restroom access. Confirm the parking-to-door route with the venue."
   }
 ]

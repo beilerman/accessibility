@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "arco-arts-community",
+    "name": "ARCO · Arts + Community",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Arts & performances",
+    "address": "3301 Price Avenue, Cincinnati, OH 45205",
+    "website": "https://www.arcocincinnati.org/",
+    "source_url": "https://www.arcocincinnati.org/accessibility",
+    "limitations": "Official public access guidance and linked route drawings only; no on-site audit. Use the named west or adjacent first-floor north entrances; the historic front entry has steps. The second-floor balcony is not wheelchair accessible despite the general elevator description. No restroom is on the first floor. Current lift operation, outage alternatives, door widths/controls, wheelchair availability and event seating need confirmation. Baby changing stations do not establish adult changing equipment. Undated drawings illustrate suggested routes, not measured clearances or a guaranteed event layout.",
+    "facts": [
+      [
+        "mobility",
+        "ARCO identifies three designated accessible parking spaces beside its main parking-lot entrance. Bay measurements and the complete bay-to-door route are unconfirmed.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        "When entering the ARCO parking lot, you can find 3 ADA spaces next to the main parking lot entrance."
+      ],
+      [
+        "mobility",
+        "Wheelchair entry is through the west door or adjacent first-floor north doors only. ARCO explicitly says the second-floor balcony is not wheelchair accessible.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        [
+          "ARCO is accessible for persons using wheelchairs by the west door or adjacent 1st floor north doors only.",
+          "The second-floor balcony is not wheelchair accessible."
+        ]
+      ],
+      [
+        "mobility",
+        "The venue describes an elevator serving four floors and the lower basement. This does not remove the separate second-floor balcony restriction.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        "ARCO's elevator runs through all 4 floors of ARCO and the lower level basement."
+      ],
+      [
+        "mobility",
+        "ARCO says there is no first-floor restroom; other restrooms are reached using the west-wing elevator. Confirm lift operation and the route before attending.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        "While there is no restroom on the 1st floor of ARCO, you can access all restrooms via the elevator in the west wing of the building."
+      ],
+      [
+        "chronic",
+        "ARCO describes its restrooms as accessible with one stall each, and baby changing stations in all restrooms. Detailed fittings and adult changing equipment are unconfirmed.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        [
+          "Restrooms at ARCO are ADA accessible with one stall per restroom.",
+          "All restrooms have baby changing stations."
+        ]
+      ],
+      [
+        "sensory",
+        "The venue says wayfinding signs throughout the building include Spanish and Braille. It does not document hearing assistance or tactile coverage beyond these signs.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        "Wayfinding signs can be found throughout ARCO. These signs have also been translated into Spanish and Braille."
+      ],
+      [
+        "mobility",
+        "ARCO lists a wheelchair available on site. Availability, dimensions and any staff assistance need confirming.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        "ARCO has a wheelchair available on site."
+      ],
+      [
+        "cognitive",
+        "ARCO encourages renters to designate a gender-neutral restroom and offers signs for that purpose. The arrangement depends on the event.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        "we encourage renters to choose a restroom to designate as gender-neutral, at which time ARCO can provide you with the appropriate signs."
+      ],
+      [
+        "cognitive",
+        "The access page welcomes trained service animals. Ask the venue about any event-specific arrival arrangements.",
+        "https://www.arcocincinnati.org/accessibility",
+        "venue_official",
+        null,
+        "ARCO welcomes all those with trained service animals to use our facility."
+      ]
+    ]
+  }
+]

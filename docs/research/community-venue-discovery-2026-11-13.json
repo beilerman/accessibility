@@ -7,7 +7,10 @@
     "https://www.reddit.com/r/cincinnati/comments/1uac40u/spacioushandicap_accessible_restaurant/",
     "https://www.reddit.com/r/covington/comments/1rwfznk/check_this_out_before_going_somewhere_new_in_the/",
     "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
-    "https://www.reddit.com/r/NorthernKY/comments/1rw883i/going_to_a_new_restaurant_bar_or_coffee_shop/"
+    "https://www.reddit.com/r/NorthernKY/comments/1rw883i/going_to_a_new_restaurant_bar_or_coffee_shop/",
+    "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
+    "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+    "https://www.reddit.com/r/cincinnati/comments/1sajidj/accessible_activities_around_town/"
   ],
   "candidates": [
     {
@@ -86,9 +89,9 @@
       "name": "Little Miami Brewing — Milford",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "status": "added",
+      "slug": "little-miami-brewing-company",
+      "nextStep": "Current official notes and original indoor virtual-tour link added; rooftop/Event Center routes and policy/hour conflicts remain unresolved."
     },
     {
       "name": "Fretboard Brewing — Blue Ash",
@@ -126,9 +129,9 @@
       "name": "Brink Brewing",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "status": "added",
+      "slug": "brink-brewing-college-hill",
+      "nextStep": "Food/contact planning added; physical access remains unverified."
     },
     {
       "name": "The Schoolhouse Restaurant",
@@ -309,6 +312,102 @@
       "status": "lead_only",
       "slug": null,
       "nextStep": "December 2024 thread mentions silent book clubs. Confirm current operation and dated event schedule before treating this historical lead as an available quieter session."
+    },
+    {
+      "name": "Streetside Brewery",
+      "discussionUrl": "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "streetside-brewery",
+      "nextStep": "Official notes, entrance photo link and separately labeled historical community report added."
+    },
+    {
+      "name": "Grainworks Brewing Company",
+      "discussionUrl": "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Confirm current exact location, official access/visit information and scope/date of the historical public comment before import."
+    },
+    {
+      "name": "Queen City Radio",
+      "discussionUrl": "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Confirm current exact location, official access/visit information and scope/date of the historical public comment before import."
+    },
+    {
+      "name": "Wandering Monsters",
+      "discussionUrl": "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Confirm current exact location, official access/visit information and scope/date of the historical public comment before import."
+    },
+    {
+      "name": "Farbach-Werner Nature Preserve",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Comment suggests a paved wooded route; verify exact trail and current surfaces. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "Glenwood Gardens",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Comments distinguish a paved loop from gravel and warn of an initial incline; retain these distinctions. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "Woodland Mound",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Comment mentions a paved path without identifying its complete route. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "Fernald Preserve",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Comment distinguishes prairie paths and the Hickory route; check operator maps and closures. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "Gilmore Ponds MetroPark",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Comment mentions paving; establish which segment, date and connection to parking. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "Wasson Way",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Comment identifies a Kroger-area approach; exact trailhead and crossing remain unresolved. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "Little Miami Scenic Trail — Loveland approach",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Public account describes a Loveland-area approach; do not generalize to the full trail. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "Crooked Run Nature Preserve",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "The dirt-path suggestion is conjectural and weather-dependent; no wheelchair-access claim verified. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
     }
   ],
   "addedVenues": 8,

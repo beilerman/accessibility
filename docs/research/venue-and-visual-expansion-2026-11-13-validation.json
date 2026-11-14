@@ -1,0 +1,51 @@
+{
+  "checkedAt": "2026-11-14T00:58:32.136668+00:00",
+  "status": "passed_local_validation",
+  "base": "6179358e1dfadc0dc80d67760b14e6fc120b1b1b",
+  "scheduledBatchCommit": "fbeed6d",
+  "catalog": {
+    "venues": 172,
+    "activeNotes": 1826,
+    "retiredNotes": 1,
+    "activeNotesWithQuotes": 1806,
+    "missingEvidenceRecords": 20,
+    "accessPhotos": 83,
+    "visualGuides": 87
+  },
+  "growth": {
+    "venues": 8,
+    "newNoteIds": 60,
+    "visualGuideLinks": 13,
+    "communityReports": 5
+  },
+  "checks": {
+    "unit": 105,
+    "pipeline": 79,
+    "browser": 160,
+    "types": "passed",
+    "lint": "passed",
+    "productionBuild": "passed",
+    "additionalBatchFreshEvidenceChecks": 27,
+    "scheduledBatchFreshEvidenceChecks": 57,
+    "mobilePages": 8,
+    "pageErrors": 0,
+    "horizontalOverflow": false
+  },
+  "deployment": {
+    "performed": false,
+    "productionCapPerEasternDay": 2,
+    "releaseCheckHoursEastern": [
+      9,
+      17
+    ]
+  },
+  "hashes": {
+    "src/data/places.json": "eb3bbfabc849c176257e2bc2851f83564b9c37f25c9292cd9db1ebbdc9e0308e",
+    "src/data/access-guides.json": "22ccdcc1c61208e53337150739580719b3f0230c413dad05b3afe63075e11741",
+    "src/data/visitor-reports-community.json": "0796780dfa821578e97aa5f83e055781e3f658343bc5cc719018f0216f655ad1",
+    "pipeline/evidence/quotes.json": "164162d32c65a6966af8158a2a9dbb2dedb17ea26aef90fa24fa39c3db52b11d",
+    "e2e/accessibility.spec.ts": "d74eba3b06accb1be6b4aeab994a57f263ff418c6c6b5c8e5517128fb76faaef",
+    "src/components/catalog/AccessMedia.tsx": "b061a6f59e96c11c8883b0d1f2b9535d7f9ddab921cfb706c70bcbec99eefd57",
+    "src/lib/media.ts": "60dbb0152171c323a4546586f7972af8a0aec414dbaa0d1e3ffa31272ec3d719"
+  }
+}

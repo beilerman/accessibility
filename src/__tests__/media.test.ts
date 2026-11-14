@@ -29,6 +29,11 @@ describe("Public image provenance", () => {
     expect(singlePhotoHtml).toContain("Open photo guide (web page, 1 photo)");
     const pdfHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "cincinnati-art-museum" }));
     expect(pdfHtml).toContain("Open photo guide (PDF, 20 pages, 2.3 MB)");
+    const mapHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "arco-arts-community" }));
+    expect(mapHtml).toContain("Open map guide (web page, 3 maps)");
+    expect(mapHtml).not.toContain("3 photos");
+    const tourHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "little-miami-brewing-company" }));
+    expect(tourHtml).toContain("Open virtual tour (web page, 2 inspected panoramas)");
   });
   it("keeps access photographs licensed and route references tied to the right place", () => {
     expect(new Set(accessPhotos.map((photo) => photo.id)).size).toBe(accessPhotos.length);

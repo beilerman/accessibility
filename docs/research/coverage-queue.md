@@ -5,6 +5,32 @@ community-led Juniper’s, Mellow Mushroom Wilder, Olla and Fort Thomas Coffee b
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
+## Latest integrated expansion
+
+The scheduled library/NKY pass and the additional Little Miami, Brink, Streetside
+and ARCO pass are integrated locally: **172 venues, 1,826 active notes, 87 linked
+visual guides and 83 unchanged licensed access-photo assets**. This is **eight
+new venues, 60 new note IDs and 13 guide links** beyond `6179358`. See
+[the additional batch report](venue-and-visual-expansion-2026-11-13.md) and its final
+integration receipt for host checks and publication state. Git publication is
+separate from Vercel; preserve the two-production-deployments-per-Eastern-day cap.
+
+The community queue contains 49 named candidates: 11 added, 36 lead-only and two
+held. Eight new outdoor leads come from an underlying public wheelchair-trail
+thread: Farbach-Werner, Glenwood Gardens, Woodland Mound, Fernald Preserve, Gilmore
+Ponds, Wasson Way, a specific Loveland approach to Little Miami Scenic Trail, and
+Crooked Run. Pair the next older full venue review with one of these useful park
+leads or a grocery/service gap. Verify trail segments, slopes, surfaces, toilets,
+rest points, current closures and photographs; do not import subjective “flat” or
+“accessible” descriptions as measured routes. Cedar Bog remains outside the core
+coverage area. See `outdoor-community-discovery-2026-11-13.json` for boundaries.
+
+The additional four places preserve Little Miami's conflicting hours and unresolved
+service-animal wording; Brink's lack of physical route information; Streetside's
+separate undated community account; and ARCO's inaccessible balcony, specific
+entrances and first-floor restroom gap. Map links are labeled maps, and inspected
+panoramas are distinguished from photographs. None establishes a field audit.
+
 ## Latest completed batch and accuracy lane
 
 Read [the batch report](bcpl-nky-dining-2026-11-13.md), canonical evidence,

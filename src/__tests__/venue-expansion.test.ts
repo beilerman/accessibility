@@ -3,6 +3,11 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "arco-arts-community",
+  "brink-brewing-college-hill",
+  "little-miami-brewing-company",
+  "streetside-brewery",
+
   "fort-thomas-coffee", "junipers-gin-bar-covington", "mellow-mushroom-wilder", "olla-taqueria-covington",
   "element-eatery", "schoolhouse-restaurant-camp-dennison",
   "fretboard-brewing-blue-ash", "wabi-sabi-covington",
@@ -723,6 +728,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
+      "little-miami-brewing-company", "brink-brewing-college-hill", "streetside-brewery",
       "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "second-sight-spirits", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
       "element-eatery", "schoolhouse-restaurant-camp-dennison", "fretboard-brewing-blue-ash", "wabi-sabi-covington",
       "fort-thomas-coffee", "junipers-gin-bar-covington", "mellow-mushroom-wilder", "olla-taqueria-covington",

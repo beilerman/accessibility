@@ -1,7 +1,18 @@
 import Image from "next/image";
 import Link from "next/link";
-import { accessPhotos, accessGuides } from "@/lib/media";
+import { accessPhotos, accessGuides, type AccessGuide } from "@/lib/media";
 import { dateLabel, places } from "@/lib/catalog";
+
+function webGuideLabel(guide: AccessGuide) {
+  const count = guide.imageCount;
+  if (guide.imageType === "map") {
+    return `Open map guide (web page, ${count} ${count === 1 ? "map" : "maps"})`;
+  }
+  if (guide.imageType === "panorama") {
+    return `Open virtual tour (web page, ${count} inspected ${count === 1 ? "panorama" : "panoramas"})`;
+  }
+  return `Open photo guide (web page, ${count} ${count === 1 ? "photo" : "photos"})`;
+}
 
 export function AccessMedia({ slug }: { slug?: string }) {
   const photos = accessPhotos.filter((photo) => !slug || photo.slug === slug);
@@ -132,7 +143,7 @@ export function AccessMedia({ slug }: { slug?: string }) {
                   className="source-link inline-flex min-h-11 items-center"
                 >
                   {guide.format === "web"
-                    ? `Open photo guide (web page, ${guide.imageCount} ${guide.imageCount === 1 ? "photo" : "photos"})`
+                    ? webGuideLabel(guide)
                     : `Open photo guide (PDF, ${guide.pageCount} pages, ${guide.sizeLabel})`}
                   <span className="sr-only">
                     {" "}

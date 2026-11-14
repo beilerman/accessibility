@@ -59,6 +59,7 @@ export interface AccessGuide {
   pageCount?: number;
   sizeLabel?: string;
   imageCount?: number;
+  imageType?: "map" | "panorama";
   checkedAt: string;
 }
 
@@ -106,6 +107,10 @@ export const accessPhotos: AccessPhoto[] = accessPhotoData;
 export const accessGuides: AccessGuide[] = accessGuideData.map((guide) => ({
   ...guide,
   format: "format" in guide && guide.format === "web" ? "web" : "pdf",
+  imageType:
+    "imageType" in guide && (guide.imageType === "map" || guide.imageType === "panorama")
+      ? guide.imageType
+      : undefined,
 }));
 export function photoForPlace(slug: string) {
   return venuePhotos.find((photo) => photo.slug === slug);

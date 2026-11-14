@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-11-13",
+  "scope": "Public discovery leads only; not imported venue facts or current access guarantees.",
+  "discussionsRead": [
+    "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
+    "https://www.reddit.com/r/cincinnati/comments/1sajidj/accessible_activities_around_town/"
+  ],
+  "candidates": [
+    {"name":"Farbach-Werner Nature Preserve","lead":"Comment suggests a paved wooded route; verify exact trail and current surfaces."},
+    {"name":"Glenwood Gardens","lead":"Comments distinguish a paved loop from gravel and warn of an initial incline; retain these distinctions."},
+    {"name":"Woodland Mound","lead":"Comment mentions a paved path without identifying its complete route."},
+    {"name":"Fernald Preserve","lead":"Comment distinguishes prairie paths and the Hickory route; check operator maps and closures."},
+    {"name":"Gilmore Ponds MetroPark","lead":"Comment mentions paving; establish which segment, date and connection to parking."},
+    {"name":"Wasson Way","lead":"Comment identifies a Kroger-area approach; exact trailhead and crossing remain unresolved."},
+    {"name":"Little Miami Scenic Trail — Loveland approach","lead":"Public account describes a Loveland-area approach; do not generalize to the full trail."},
+    {"name":"Crooked Run Nature Preserve","lead":"The dirt-path suggestion is conjectural and weather-dependent; no wheelchair-access claim verified."}
+  ],
+  "held": [
+    {"url":"https://www.tripadvisor.com/ShowTopic-g60993-i402-k8678182-Wheelchair_accessible_parks-Cincinnati_Ohio.html","result":"Underlying discussion unavailable; search snippets were not used as evidence."},
+    {"name":"Cedar Bog Nature Preserve","result":"Outside the core Greater Cincinnati coverage area; not silently expanded into scope."},
+    {"name":"St. Clare Convent","result":"Public visitor permission, exact location and route unverified; not added."}
+  ],
+  "existingVenueFollowup":"The activities thread also names existing Pyramid Hill, Findlay Market and Cincinnati Art Museum. Its short recommendations do not establish cart transfers, route gradients, restrooms or current seating."
+}

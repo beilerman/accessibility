@@ -1078,5 +1078,59 @@
     "pageCount": 9,
     "sizeLabel": "14.5 MB",
     "checkedAt": "2026-11-13"
+  },
+  {
+    "format": "web",
+    "id": "streetside-entrance-patio-official",
+    "slug": "streetside-brewery",
+    "title": "Entrance and paved patio photograph",
+    "description": "The official taproom page includes a color exterior photograph of the glass entrance door, visible threshold, pavers, patio tables, chairs and stools. The image shows only part of the approach: it does not establish a continuous route from parking, doorway width, door-opening force or restroom access. The photograph date and current furniture arrangement are unknown.",
+    "publisher": "Streetside Brewery",
+    "url": "https://www.streetsidebrewery.com/taproom",
+    "sourceUrl": "https://www.streetsidebrewery.com/taproom",
+    "documentDate": null,
+    "imageCount": 1,
+    "checkedAt": "2026-11-13"
+  },
+  {
+    "format": "web",
+    "id": "little-miami-indoor-panorama-official",
+    "slug": "little-miami-brewing-company",
+    "title": "Taproom indoor virtual tour",
+    "description": "The brewery’s official tour page embeds Google panoramas credited to Joseph Danzer. Two inspected indoor views show the bar with tall chairs, communal picnic-style bench tables, food counter and an adjoining corridor. These views help compare seating types; they do not document every route, measure clearances or establish restroom fittings or rooftop access. Capture dates are unconfirmed. An outdoor panorama also exists but was not assessed because its preview did not resolve clearly.",
+    "publisher": "Little Miami Brewing Company · Google panoramas by Joseph Danzer",
+    "url": "https://littlemiamibrewing.com/virtual-tour-of-taproom-in-out/",
+    "sourceUrl": "https://littlemiamibrewing.com/virtual-tour-of-taproom-in-out/",
+    "documentDate": null,
+    "imageCount": 2,
+    "checkedAt": "2026-11-13",
+    "imageType": "panorama"
+  },
+  {
+    "format": "web",
+    "id": "arco-exterior-interior-access-maps",
+    "slug": "arco-arts-community",
+    "title": "Parking and suggested wheelchair routes",
+    "description": "Three inspected venue drawings show the exterior parking and entrances, the suggested first-floor route into Shawnee Theater, and the third-floor route from the elevator into Myaamia Hall. These are maps, not documentary photographs or measured clearance surveys. Read alongside the explicit second-floor balcony restriction and first-floor restroom gap. Event seating and current arrangements need confirmation.",
+    "publisher": "ARCO · Price Hill Will",
+    "url": "https://www.arcocincinnati.org/accessibility",
+    "sourceUrl": "https://www.arcocincinnati.org/accessibility",
+    "documentDate": null,
+    "imageCount": 3,
+    "checkedAt": "2026-11-13",
+    "imageType": "map"
+  },
+  {
+    "format": "web",
+    "id": "arco-exterior-hall-gallery",
+    "slug": "arco-arts-community",
+    "title": "Entrance stairs, alternative doorway and event rooms",
+    "description": "Six inspected photographs in the official gallery show the historic front stairway, a separate modern glass entrance beside parking, and empty event-room floors with raised stages or perimeter platforms. Compare the entrance views with the access page’s west/north doorway instructions. These undated photographs do not establish door measurements, routes onto stages, current seating or lift operation.",
+    "publisher": "ARCO · Price Hill Will",
+    "url": "https://www.arcocincinnati.org/virtual-tour",
+    "sourceUrl": "https://www.arcocincinnati.org/virtual-tour",
+    "documentDate": null,
+    "imageCount": 6,
+    "checkedAt": "2026-11-13"
   }
 ]

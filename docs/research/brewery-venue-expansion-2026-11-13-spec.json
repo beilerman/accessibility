@@ -1,0 +1,159 @@
+[
+  {
+    "slug": "little-miami-brewing-company",
+    "name": "Little Miami Brewing Company",
+    "city": "Milford",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "208 Mill Street, Milford, OH 45150",
+    "website": "https://littlemiamibrewing.com/home/",
+    "source_url": "https://littlemiamibrewing.com/faqs/",
+    "limitations": "Official public webpages only; no on-site audit. This listing covers the main taproom, not the separate Event Center. The general no-steps statement does not establish access to the rooftop, every outdoor area or restrooms. Door clearances, designated parking, curb crossings, toilet layout and assistance arrangements are unverified. The homepage and FAQ disagree on closing hours; confirm the current taproom and kitchen hours. The FAQ groups service animals with pets and restricts them to outdoor areas; service-animal arrangements remain unresolved. Photo dates and current furniture layouts are unconfirmed.",
+    "facts": [
+      [
+        "mobility",
+        "The brewery FAQ describes wheelchair access and says “Easy access, no steps!” This is the venue’s general statement; it does not describe a particular entrance, doorway measurements, restroom access or a route to the rooftop.",
+        "https://littlemiamibrewing.com/faqs/",
+        "venue_official",
+        null,
+        "Yes, our brewery is wheelchair accessible. We strive to make our space comfortable and accessible for all our guests. Easy access, no steps!"
+      ],
+      [
+        "mobility",
+        "The FAQ lists a 51-space lot and additional street parking on Water and Main streets across from the brewery, with crosswalks. It does not identify designated accessible bays or document a continuous route from a bay to the door.",
+        "https://littlemiamibrewing.com/faqs/",
+        "venue_official",
+        null,
+        "Yes! We have our own 51 stall parking lot and there is lots of convenient on-street parking on Water and Main streets across from the Brewery with crosswalks."
+      ],
+      [
+        "chronic",
+        "The FAQ describes outdoor tables and Adirondack chairs around a fire pit and says the patio has heaters in colder months. Seat heights, back or arm support, and a smoke-free position are unconfirmed.",
+        "https://littlemiamibrewing.com/faqs/",
+        "venue_official",
+        null,
+        [
+          "Yes! Gorgeous River Views and comfortable tables and Adirondack chairs to sit around and enjoy our Fire Pit.",
+          "We offer outdoor seating and our patio is equipped with heaters for the colder months, making it a great spot to enjoy our beers year-round."
+        ]
+      ],
+      [
+        "chronic",
+        "The FAQ lists a cauliflower pizza crust as its gluten-free option, salads, a vegetarian Bass Island pizza and gluten-free cider. The Bass Island requires ordering the cauliflower crust for the listed gluten-free option; preparation and cross-contact controls are not documented.",
+        "https://littlemiamibrewing.com/faqs/",
+        "venue_official",
+        null,
+        "Yes! We offer a Gluten-Free Cauliflower crust for pizza and Salads, and a delicious vegetarian and gluten free pizza we call the Bass Island (Gluten Free requires ordering Cauliflower crust option). We also offer a Gluten Free Cider."
+      ],
+      [
+        "chronic",
+        "The FAQ prohibits outside food in the taproom except a birthday or celebration cake. It does not state a medical or dietary exception; confirm any needed food arrangements before visiting.",
+        "https://littlemiamibrewing.com/faqs/",
+        "venue_official",
+        null,
+        "No outside food is permitted in the taproom with the exception of a birthday/celebration cake."
+      ],
+      [
+        "cognitive",
+        "Group reservation requests must be emailed to reserve@littlemiamibrewing.com. The FAQ says reservations depend on the season and are limited to certain days and hours, with a maximum of 30 people or three large tables; it says verbal reservation messages will not be returned. A request is not a confirmed booking or an access arrangement.",
+        "https://littlemiamibrewing.com/faqs/",
+        "venue_official",
+        null,
+        "Reservations are seasonally based & are limited to certain days and hours. Limited to 30 persons or 3 large table maximum. Reservation Requests must be emailed to reserve@littlemiamibrewing.com No verbal messages for reservations will be returned."
+      ],
+      [
+        "cognitive",
+        "The homepage labels the rooftop seasonal and weather dependent. It does not describe how to reach it without steps; confirm availability and the route rather than extending the taproom’s general no-steps statement to this area.",
+        "https://littlemiamibrewing.com/home/",
+        "venue_official",
+        null,
+        "ROOFTOP (Seasonal & weather dependent)"
+      ],
+      [
+        "cognitive",
+        "The FAQ groups service animals with pets and says they are allowed on the covered patio or outdoor biergarten, but not in the taproom or rooftop. This records the venue’s published wording; service-animal arrangements remain unresolved and need direct clarification before a visit.",
+        "https://littlemiamibrewing.com/faqs/",
+        "venue_official",
+        null,
+        "Service animals and pets are allowed on our covered Patio or outdoor Biergarten, not in the Taproom or Rooftop."
+      ]
+    ]
+  },
+  {
+    "slug": "brink-brewing-college-hill",
+    "name": "Brink Brewing Co.",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "5905 Hamilton Avenue, Cincinnati, OH 45224",
+    "website": "https://www.brinkbrewing.com/",
+    "source_url": "https://www.brinkbrewing.com/faqs",
+    "limitations": "Official public webpages only; no on-site audit. Physical access remains unverified: the reviewed pages do not document step-free entrances, door operation, designated parking, table clearances or accessible restrooms. A public forum recommendation is a discovery lead, not an access assessment. Bringing food does not establish allergen-safe preparation or eating space. The FAQ’s dog-bowl water station reference is not evidence of accessible drinking water for visitors.",
+    "facts": [
+      [
+        "chronic",
+        "Brink’s food page explicitly invites visitors to bring their own food. That may help with meal planning, but the page does not document allergen handling, food storage or preparation facilities.",
+        "https://www.brinkbrewing.com/food",
+        "venue_official",
+        null,
+        "Bring your own food!"
+      ],
+      [
+        "chronic",
+        "The FAQ says wine, cocktails and non-alcoholic options are available and directs visitors to a link below the beer menu for the other beverages. Ingredients and suitability for particular dietary needs still need checking.",
+        "https://www.brinkbrewing.com/faqs",
+        "venue_official",
+        null,
+        [
+          "Do you offer wine, cocktails, or non-alcoholic options?",
+          "Yes! Underneath our beer menu is a link to our other beverages."
+        ]
+      ],
+      [
+        "cognitive",
+        "The official FAQ footer lists brinkinfo@brinkbrewing.com and the College Hill address at 5905 Hamilton Avenue. Use the venue contact to ask about entrance, seating and restroom arrangements; no response time or accommodation is promised.",
+        "https://www.brinkbrewing.com/faqs",
+        "venue_official",
+        null,
+        "5905 Hamilton Ave. Cincinnati, OH 45224 brinkinfo@brinkbrewing.com"
+      ]
+    ]
+  },
+  {
+    "slug": "streetside-brewery",
+    "name": "Streetside Brewery",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "4003 Eastern Avenue, Cincinnati, OH 45226",
+    "website": "https://www.streetsidebrewery.com/",
+    "source_url": "https://www.streetsidebrewery.com/taproom",
+    "limitations": "Official public webpages and a separately labeled historical community comment; no on-site audit. The reviewed official text does not establish step-free access, designated parking, doorway widths or accessible restroom fittings. The official entrance/patio photograph shows only a partial approach; it does not verify a continuous route from parking or crossing conditions. Furniture and photo dates are unconfirmed. The community report supplies no visit date and is not a current access guarantee.",
+    "facts": [
+      [
+        "sensory",
+        "The taproom page prohibits smoking and vaping inside, including bathrooms, and on the patio. It places an outdoor ashtray at the northwest corner of the building; this is not a guarantee of a smoke-free arrival route.",
+        "https://www.streetsidebrewery.com/taproom",
+        "venue_official",
+        null,
+        "Streetside is a smoke and vape-free facility. This includes our bathrooms and patio. Please step outside; we’ve provided an ashtray at the northwest corner of the building."
+      ],
+      [
+        "chronic",
+        "Outside food is prohibited while Streetside’s food truck or a guest food truck is operating. The venue asks visitors to call or ask the bartender before ordering if uncertain. The page does not specify a medical-food exception.",
+        "https://www.streetsidebrewery.com/taproom",
+        "venue_official",
+        null,
+        "Outside food is prohibited while the food truck (or guest food truck) is operating. If you aren’t sure, please call or check with your bartender before ordering."
+      ],
+      [
+        "cognitive",
+        "The official homepage lists 513-615-5877 and 4003 Eastern Avenue, Cincinnati, OH 45226. Contact the venue before visiting to clarify the entrance, parking connection and restroom arrangements; a phone listing does not establish assistance availability.",
+        "https://www.streetsidebrewery.com/",
+        "venue_official",
+        null,
+        "4003 EASTERN AVE. CINCINNATI, OH 45226 ‭(513) 615-5877‬"
+      ]
+    ]
+  }
+]
