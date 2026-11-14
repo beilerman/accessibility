@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-11-14T01:25:52.185693+00:00",
+  "method": "Playwright Chromium, 1200x850, software WebGL",
+  "viewers": [
+    {
+      "name": "memorial",
+      "url": "https://my.matterport.com/show/?m=xTksdbypnot",
+      "title": "Memorial Hall",
+      "rendered": true
+    },
+    {
+      "name": "transept",
+      "url": "https://my.matterport.com/show/?m=67pFqzXDrx6",
+      "title": "The Transept",
+      "rendered": true
+    },
+    {
+      "name": "fort-thomas",
+      "url": "https://my.matterport.com/show/?m=hZqLJd3d9kk",
+      "title": "Fort Thomas Coffee",
+      "rendered": true
+    },
+    {
+      "name": "spot",
+      "url": "https://map.threshold360.com/8454068",
+      "title": "Threshold 360 Discover Map",
+      "rendered": true
+    }
+  ],
+  "initialDefaultHeadlessWebGL": "Matterport unsupported-browser message",
+  "screenshotsVisuallyInspected": [
+    "memorial",
+    "transept",
+    "fort-thomas",
+    "spot"
+  ],
+  "completeRouteTraced": false,
+  "keyboardAndScreenReaderAudit": "not_performed",
+  "publicScreenshotsCopied": false
+}

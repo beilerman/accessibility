@@ -134,3 +134,19 @@ mark publish_ready false. The runner handles commits and atomic pushes to both b
 Only the dedicated release job deploys to Vercel, at 9 a.m. and 5 p.m. Eastern and at
 most twice per Eastern day. Do not deploy, create previews, change hosting settings,
 send messages, read private correspondence, modify the database or start community features.
+
+Brad requested continued internet research and consideration of 3D models on
+November 13. Add a bounded spatial-research lane alongside regular venue growth:
+look for owner-published 3D tours, spatial scans and useful 360° walkthroughs;
+inspect what actually renders and document identity, coverage, capture date,
+permissions and access-relevant gaps. Start with the research report and candidate
+file `docs/research/3d-access-feasibility-2026-11-13.md` and
+`docs/research/3d-access-candidates-2026-11-13.json`. Distinguish a panorama tour,
+a spatial model and a measured survey. A public viewer is not established
+permission to export/rehost its model. Preserve text/photo alternatives. Do not
+infer dimensions, gradients, connected accessible routes or wheelchair fit from
+appearance, repair missing geometry with AI as evidence, or treat an illustrative
+model as an observation. Prepare evidence and pilot feasibility; do not purchase
+accounts, contact venues, initiate physical capture or publish an unverified venue
+reconstruction. Keep this research bounded so regular access evidence, photographs,
+new venues and freshness checks continue.
