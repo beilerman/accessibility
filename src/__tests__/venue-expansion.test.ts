@@ -3,6 +3,8 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "fifty-west-wooster-pike", "fords-garage-norwood",
+  "campbell-county-ymca", "central-parkway-ymca",
   "ohio-valley-antique-mall",
   "handzy-shop-studio-covington",
   "kentucky-driver-licensing-burlington",
@@ -34,6 +36,28 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("keeps branch and shared restaurant policy scope distinct", () => {
+    expect(place("fifty-west-wooster-pike").address).toContain("7605 Wooster Pike");
+    expect(text("fifty-west-wooster-pike")).toContain("directory lists three");
+    expect(text("fifty-west-wooster-pike")).toContain("no servers");
+    expect(text("fifty-west-wooster-pike")).toContain("all skating availability dependent on weather");
+    expect(place("fords-garage-norwood").city).toBe("Norwood");
+    expect(text("fords-garage-norwood")).toContain("digital-access contact");
+    expect(text("fords-garage-norwood")).toContain("not a promise of quiet");
+  });
+  it("finds both YMCA branches without turning guest rules into pool reservations", () => {
+    expect(findPlaces({ category: "Recreation & fitness", region: "KY" }).map((p) => p.slug)).toContain("campbell-county-ymca");
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("central-parkway-ymca");
+    for (const slug of ["campbell-county-ymca", "central-parkway-ymca"]) {
+      expect(text(slug)).toContain("cannot reserve classes or lap swim");
+      expect(text(slug)).toContain("at all times");
+      expect(text(slug)).toContain("members aged 18 or older");
+      expect(text(slug)).toContain("first visit");
+      expect(place(slug).observed_at).toBeNull();
+    }
+    expect(text("mt-auburn-indoor-pool")).toContain("That session has ended");
+    expect(text("cincinnati-recycling-reuse-hub")).toContain("pre-sort recycling as much as possible");
+  });
   it("keeps Fairfield wheelchair provision separate from historical motorized-cart reports", () => {
     const slug = "ohio-valley-antique-mall";
     expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
@@ -848,6 +872,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
+      "fifty-west-wooster-pike", "fords-garage-norwood",
       "fabled-brew-works", "little-miami-brewing-company", "brink-brewing-college-hill", "streetside-brewery",
       "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "second-sight-spirits", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
       "element-eatery", "schoolhouse-restaurant-camp-dennison", "fretboard-brewing-blue-ash", "wabi-sabi-covington",

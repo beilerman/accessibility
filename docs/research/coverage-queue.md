@@ -1,10 +1,68 @@
 # Broad and deep research queue
 
-Updated November 14, 2026, after shopping/driver-licensing growth, access-photo
-research and complete Findlay/Price Hill reviews. These are leads and questions;
-new facts require fresh evidence.
+Updated November 14, 2026, after dining/recreation growth, Hub/pool full reviews and
+access-photo follow-through. These are leads and questions; facts require fresh evidence.
 
 ## Current prepared batch
+
+Read [dining, YMCA, Hub and pool evidence](dining-ymca-hub-pools-2026-11-14.md) and
+its canonical final gate, catalog audit, media review, guide-link, HTTP and validation
+receipts. All mutation specs are already applied; the runner owns final tests and Git.
+
+**Four new venues:** Fifty West Wooster Pike (9 notes), Ford’s Garage Norwood (7),
+Campbell County YMCA (8), Central Parkway YMCA (8). Hub adds three, Mt. Auburn four:
+**39 new IDs overall**. Shared/branch policy scope, age-18 guest hosts, Nationwide
+booking restrictions, no table servers and digital-only access contacts stay explicit.
+
+**Accuracy/freshness:** all 13 old Hub/Mt. Auburn notes fully reviewed. Both whole
+dates November 12 → 14 repeat venues in the rolling week; no new unique-week tally.
+Five existing passage records strengthened, one old Hub sorting qualifier clarified,
+two new guest notes refined. No absent-quote backfill; **20 legacy gaps stay held**.
+Live-source gate caught stale skating dates/breaks before import: current Wooster
+November 15–January 2, weather-dependent, maintenance 2–3 and 6–7 p.m. Preserve
+the YMCA January year/weekday issue, yearless Hub closures and Mt. Auburn’s ended
+adapted session. No Central pool reopening inferred from a removed notice.
+
+**Imagery:** one licensed CC0 2019 Central street/sidewalk photo; **six original
+linked guides** (Wooster seating/rink, both YMCA interiors, Hub floor plan and 2023
+EPA presentation). Four galleries contain 16 selected photos; the PDFs have 1 and
+15 pages. All links 200. **31 still/graphic views, 21 PDF pages and 20 sampled Hub
+video frames** inspected. No AI or copyrighted-image reuse. Seven separate community
+reports include two linked Ford hardware/basin photo pages and contrasting pool reports.
+PDF map links now identify the map correctly; no current route inferred from a diagram.
+
+Totals: **194 venues / 2,018 active / 1,998 quoted / 20 missing / 88 licensed photos /
+121 guides / 68 community reports**. Categories: parks 34, arts 33, food 30, shopping 25,
+museums 21, public services 16, libraries 15, recreation 12, transport 8. Community
+queue: **74 names / 29 added / 35 lead-only / ten held**, including typed holds.
+
+**Next concrete batch:** follow **Norwood Recreation Center, Alexandria city-building
+court and TriHealth Pavilion** to current official location, public/guest eligibility,
+arrival, pool-entry, changing/toilet and assistance evidence. Alexandria’s direct official pages disagree between **8236 West Main Street** and
+**8822 Constable Drive**; resolve the operating facility before listing. See this batch’s
+`-next-leads.json`: all six preflight sources returned 200. TriHealth has a linked
+aquatics tour and a stock-image trap; Norwood’s indoor/outdoor pools must stay distinct.
+**Powel Crosley YMCA** is an alternative: its public reports conflict about lap access and one describes
+pickup traffic/entrance obstruction; do not generalize to other YMCA branches. Pair
+growth with a complete **Covington and/or Newport library** review. A directly fetched
+DSA public access page has room-specific accounts that differ from cached versions;
+check current official library rooms/routes before any fact import. Keep source identity,
+dates and visitor-report status separate from official evidence.
+
+Continue useful entrance/toilet/equipment photography for all four new places, Hub,
+Mt. Auburn and prior Handzy/KYTC/Ohio Valley/Price Hill/Findlay/Blue Marble/Book Bus/
+City Hall/CTC/Fresh Thyme/Rookwood/LeBlond/Chestnut gaps. Do not spend an entire pass
+on blocked sources or only bookshop growth. Country Fresh branch ambiguity, Kremer’s
+403, CAM’s thin access evidence, Gramer’s identity and Re-Run hours remain held.
+
+Final local checks: **56 note/address checks, 118 unit and 79 pipeline tests**, lint,
+types and build. Eighteen factual sources baselined (13 new), 574 unselected records
+unchanged. Fifteen local HTTP 200 checks and exact image bytes are separate from
+browser proof. Chromium fails at launch with MachPort 1100 and CUA host is unavailable.
+**All 182 browser/axe checks and visual page QA remain runner-required.** No live-site
+or deployment claim; the runner retains 9 a.m./5 p.m. Eastern releases, maximum two/day.
+
+## Previous shopping, licensing, Findlay and Price Hill batch
 
 Read [shopping, licensing, Findlay and Price Hill evidence](handzy-licensing-findlay-pricehill-2026-11-14.md) and its final
 evidence, catalog audit, media review, guide/HTTP and validation receipts. All mutation

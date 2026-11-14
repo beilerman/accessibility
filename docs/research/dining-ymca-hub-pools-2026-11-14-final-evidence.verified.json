@@ -1,0 +1,633 @@
+[
+ {
+  "slug": "fifty-west-wooster-pike",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "Order food at the order window, then collect it from the pick-up window after a text message says it is ready. An alternative notification method and help carrying food are not described.",
+    "url": "https://www.fiftywestbrew.com/locations",
+    "quote": "Guests can place an order at the order window and grab a seat! When your food is ready, you'll receive a text message and can pick it up at the pick-up window.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8ae9a571131b888074ce9010b3777a723ca9a520f6f19f8861057f667a7e0350"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Fifty West’s homepage describes self-service: food is ordered at a window and drinks at a walk-up bar, with no servers. This does not promise table delivery or carrying assistance.",
+    "url": "https://www.fiftywestbrew.com/",
+    "quote": "No servers here. Order food at the window and drinks at the walk-up bar, and we'll text you when it's ready.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "373384a11cae50f101a7f90505725e023693c9a1afb9114ff315a9db38de8102"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The shared FAQ says ordinary dining reservations are not taken and seating is first come, first served. Party cabanas can be reserved for a fee in two-hour blocks; this does not establish a particular cabana’s route or seating layout.",
+    "url": "https://www.fiftywestbrew.com/locations",
+    "quote": "We don't take traditional dining reservations, and seating is first come, first served. Looking to guarantee a space for your group? Party cabanas are available to reserve in 2-hour increments for a small fee.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8ae9a571131b888074ce9010b3777a723ca9a520f6f19f8861057f667a7e0350"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Wooster Pike lists Monday–Saturday 11 a.m.–11 p.m. and Sunday 11 a.m.–9 p.m.; the kitchen closes one hour earlier and holiday hours may differ. The local phone is 513-834-8789, extension 1.",
+    "url": "https://www.fiftywestbrew.com/locations",
+    "quote": [
+     "Wooster Pike 7605 Wooster Pike, Cincinnati, OH 45227",
+     "Mon 11am–11pm Tue 11am–11pm Wed 11am–11pm Thu 11am–11pm Fri 11am–11pm Sat 11am–11pm Sun 11am–9pm",
+     "Kitchen closes one hour before close. Hours may vary on holidays.",
+     "513-834-8789 · Ext 1"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8ae9a571131b888074ce9010b3777a723ca9a520f6f19f8861057f667a7e0350"
+   },
+   {
+    "domain": "chronic",
+    "text": "The shared FAQ describes mostly outdoor seating, indoor seats, covered patios and cold-weather heaters/seasonal amenities. It says “both locations” although the directory lists three; confirm which indoor and covered areas are available at Wooster Pike.",
+    "url": "https://www.fiftywestbrew.com/locations",
+    "quote": [
+     "While most of our seating is outdoors, both locations offer indoor seating as well as covered patio spaces.",
+     "During colder months, you'll also find heaters and seasonal amenities to help keep everyone comfortable."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8ae9a571131b888074ce9010b3777a723ca9a520f6f19f8861057f667a7e0350"
+   },
+   {
+    "domain": "mobility",
+    "text": "The shared FAQ says “both locations” have on-site parking and that lots can fill during peak times and special events. Because the directory lists three locations, confirm Wooster Pike’s current parking and entrance route; designated spaces and distances are not specified.",
+    "url": "https://www.fiftywestbrew.com/locations",
+    "quote": "Both locations offer on-site parking. Lots can fill up during peak times and special events, so arriving a little early is never a bad idea.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8ae9a571131b888074ce9010b3777a723ca9a520f6f19f8861057f667a7e0350"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The live skating page checked November 14, 2026 lists Wooster Pike’s opening date as November 15 and closing date as January 2, with opening and all skating availability dependent on weather. The dates do not confirm that the rink is operating before a visit.",
+    "url": "https://www.fiftywestbrew.com/ice-skating",
+    "quote": [
+     "Wooster Pike Ice Skating Hours & Information Opening date November 15th Depending on Mother Nature! Closing date January 2nd",
+     "All skating hours and availability are weather dependent."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a649c9a68f8193bd92c9912e2df881b127b20373f26b342231c8c8a1d1214e7b"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Wooster Pike’s posted public skating hours are Monday–Saturday 11 a.m.–10 p.m. and Sunday 11 a.m.–9 p.m., with ice-maintenance breaks from 2–3 p.m. and 6–7 p.m. Public skating is first come, first served without online reservations; private rink rentals can still be booked ahead. Availability depends on weather.",
+    "url": "https://www.fiftywestbrew.com/ice-skating",
+    "quote": [
+     "Wooster Pike Ice Skating Hours & Information",
+     "Public Skating Hours Monday–Saturday 11:00 AM–10:00 PM Ice maintenance breaks: 2:00–3:00 PM | 6:00–7:00 PM Sunday 11:00 AM–9:00 PM Ice maintenance breaks: 2:00–3:00 PM | 6:00–7:00 PM",
+     "Ice skating will be available on a first-come, first-served basis.",
+     "Online reservations will no longer be available for public skating, but private rink rentals can still be booked in advance.",
+     "All skating hours and availability are weather dependent."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a649c9a68f8193bd92c9912e2df881b127b20373f26b342231c8c8a1d1214e7b"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The shared skating instructions direct visitors to the League Station, or to ask a team member for directions, then sign a waiver, pay and collect skates. Admission is $10 for skate rental and one hour of ice time; children aged four or younger skate free. The instructions do not establish a step-free rink entrance, transfer help or adaptive-skating arrangements.",
+    "url": "https://www.fiftywestbrew.com/ice-skating",
+    "quote": [
+     "When you arrive, head over to our League Station or ask any Fifty West team member, and we’ll point you in the right direction!",
+     "From there, you’ll sign a quick waiver, pay for your session, grab your skates, and you’re ready to hit the ice!",
+     "$10 per skater",
+     "Admission includes skate rental and one hour of ice time",
+     "Kids 4 and under skate free"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a649c9a68f8193bd92c9912e2df881b127b20373f26b342231c8c8a1d1214e7b"
+   }
+  ],
+  "address_quote": "7605 Wooster Pike, Cincinnati, OH 45227",
+  "address_url": "https://www.fiftywestbrew.com/locations"
+ },
+ {
+  "slug": "fords-garage-norwood",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "The Norwood page links a reservation service and lists 513-643-3673 for the restaurant. Confirm any seating or companion arrangement directly; a reservation link does not establish the requested table layout.",
+    "url": "https://fordsgarageusa.com/locations/norwood/",
+    "quote": [
+     "make a reservation",
+     "513-643-3673"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "816f75c3afc94ef3869670a2b3940fae7f3b9889e0965c223481f741b33621a1"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The Norwood page offers a Carryout or Delivery ordering link. It does not describe the collection point, a vehicle handoff or help carrying an order.",
+    "url": "https://fordsgarageusa.com/locations/norwood/",
+    "quote": "Carryout or Delivery",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "816f75c3afc94ef3869670a2b3940fae7f3b9889e0965c223481f741b33621a1"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Published Norwood hours are Monday–Thursday 11 a.m.–10 p.m., Friday–Saturday 11 a.m.–11 p.m. and Sunday 11 a.m.–9 p.m. Confirm holiday changes before travelling.",
+    "url": "https://fordsgarageusa.com/locations/norwood/",
+    "quote": [
+     "Monday - Thursday 11AM - 10PM",
+     "Friday - Saturday 11AM - 11PM",
+     "Sunday 11AM – 9PM"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "816f75c3afc94ef3869670a2b3940fae7f3b9889e0965c223481f741b33621a1"
+   },
+   {
+    "domain": "sensory",
+    "text": "The chain FAQ says its restaurants do not currently feature live music. This is not a promise of quiet: television, recorded music and crowd sound levels are not specified.",
+    "url": "https://fordsgarageusa.com/our-story/",
+    "quote": "We do not currently feature live music at any of our Ford’s Garage locations.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "cc7f050cf465733afc51c677d38cfef11060041862d822a8ea5bd75dcd71794a"
+   },
+   {
+    "domain": "chronic",
+    "text": "The chain FAQ links nutrition and allergen information and asks visitors to tell their server about allergen or nutritional needs before ordering. It does not guarantee an allergen-free meal.",
+    "url": "https://fordsgarageusa.com/our-story/",
+    "quote": [
+     "We have provided the nutrition information HERE and allergen guide HERE",
+     "Please inform your server of any allergen or nutritional needs before ordering."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "cc7f050cf465733afc51c677d38cfef11060041862d822a8ea5bd75dcd71794a"
+   },
+   {
+    "domain": "sensory",
+    "text": "In its patio FAQ, Ford’s Garage says service animals are allowed; pet-friendly patios are limited to selected locations. Contact the restaurant about Norwood’s patio arrangements.",
+    "url": "https://fordsgarageusa.com/our-story/",
+    "quote": [
+     "Can you have dogs on the patio?",
+     "Service animals are allowed. Select LOCATIONS have dog-friendly patios. Please contact the restaurant directly for more information."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "cc7f050cf465733afc51c677d38cfef11060041862d822a8ea5bd75dcd71794a"
+   },
+   {
+    "domain": "cognitive",
+    "text": "For problems using the website or assistive technology on it, the chain lists 813-761-3752 and accessibility@fordsgarageusa.com, aiming to respond within five business days. This is a digital-access contact, not a promise of an in-person accommodation.",
+    "url": "https://fordsgarageusa.com/accessibility/",
+    "quote": [
+     "If you notice aspects of our site that aren’t working for you or your assistive technology, please let us know.",
+     "Call us at: (813) 761-3752",
+     "Email us: accessibility@fordsgarageusa.com",
+     "We aim to respond to feedback within 5 business days."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "06f9a716a8212159b42be94c6cf3c49714fa1e0b56da76b58c0b63461585ce28"
+   }
+  ],
+  "address_quote": [
+   "2692 Madison Road, Suite 115",
+   "Norwood, OH 45208"
+  ],
+  "address_url": "https://fordsgarageusa.com/locations/norwood/"
+ },
+ {
+  "slug": "campbell-county-ymca",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "Building hours are Monday–Friday 6 a.m.–9 p.m., Saturday 7 a.m.–6 p.m. and Sunday noon–6 p.m. The branch phone is 859-781-1814. These are building hours, not a guarantee that the pool or a particular activity is open throughout.",
+    "url": "https://myy.org/location/campbell-county-ymca/",
+    "quote": [
+     "Building Hours Monday - Friday 6 a.m. - 9 p.m. Saturday 7 a.m. - 6 p.m. Sunday Noon - 6 p.m.",
+     "(859) 781-1814"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0715a4d547b25100b064be3526ff6961099aeec45ba70f176a3fb32300c2a576"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The Campbell County pool-schedule page says reservations open 48 hours before class time and can be made through the MyY app or a member-account login. Check the schedule for the specific swim session.",
+    "url": "https://myy.org/schedule/campbell-county-ymca/pool-schedule/",
+    "quote": "Reservations open 48 hours before class time and can be made on the MyY App or by logging in to your member account .",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1a9e54c46e37081c7f852994c19103f5b08364838056475f4eadd218ea51b3a3"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The YMCA of Greater Cincinnati says visiting Nationwide Members should identify themselves at the Welcome Desk for barcode check-in. They cannot reserve classes or lap swim, but may try to attend a class that is not full. Confirm pool availability directly.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "For participating YMCAs, let our Welcome Desk know you are scanning in as a Nationwide Member and we will switch the check-in for your barcode to check that you are up-to-date.",
+     "Nationwide Members are welcome to use our facilities. Class or lap swim reservations are not available but you are welcome to try to attend if a class isn't full."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Under the shared guest policy, all guests must be registered in Daxko and complete a waiver before entry. Guests aged 16 or older need photo ID on their first visit; individual guests may visit at most three times per calendar year.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "All guests must be entered in Daxko and waiver complete prior to entry.",
+     "All guests 16 years of age and older must present a photo ID upon their first visit. Individual guests are welcome to visit the YMCA of Greater Cincinnati a maximum of 3 times per calendar year."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The shared FAQ allows members aged 18 or older to bring guests. Guests using a six-punch guest pass must stay with an active YMCA member at all times. It says day passes are not sold and guests must be accompanied by a member or have a complimentary guest pass; ask the branch which guest arrangement applies.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "Members 18 years of age and older may bring in guests.",
+     "Guests using a “6-punch guest pass” must be accompanied at ALL times by an active YMCA Member.",
+     "Can I purchase a day pass? No. All guests must be accompanied by a member or have a complimentary guest pass."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "chronic",
+    "text": "The shared FAQ provides day-use lockers for members and guests at every YMCA of Greater Cincinnati location. Bring your own lock and remove it after each visit; overnight storage requires a rented locker, whose availability must be checked with the branch. Locker reach and changing-room layouts are not specified.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "Lockers are provided for your convenience at all YMCA of Greater Cincinnati locations. Lockers are for day use by members and guests.",
+     "It is important to secure your personal belongings by bringing your own lock and removing it at the end of each visit. Items cannot be left overnight unless you have rented the locker. Check with your local YMCA branch to see if locker rentals are available."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The association’s 2026 holiday page says all YMCA locations close for Thanksgiving, November 26, and Christmas Day, December 25. Confirm other holiday hours with the branch.",
+    "url": "https://myy.org/holiday-hours/",
+    "quote": [
+     "THANKSGIVING November 26, 2026. All YMCA locations CLOSED",
+     "CHRISTMAS DAY Friday, December 25, 2026 All YMCA locations closed"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5eb425829b64f6bfc3dace0ad2841b711f91eb2d7250c4f9d317a60668042c3b"
+   },
+   {
+    "domain": "cognitive",
+    "text": "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "First, you can visit your local Y and any of our member service staff will be happy to help you get started.",
+     "Or, you can call your local Y to schedule an appointment with a member engagement specialist who will walk you through the joining process.",
+     "You can also join online and receive your membership card when you first use the branch."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   }
+  ],
+  "address_quote": "1437 S. Ft. Thomas Avenue Fort Thomas, Kentucky 41075",
+  "address_url": "https://myy.org/location/campbell-county-ymca/"
+ },
+ {
+  "slug": "central-parkway-ymca",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "Building hours are Monday–Thursday 5:30 a.m.–9 p.m., Friday 5:30 a.m.–8 p.m., Saturday 7 a.m.–6 p.m. and Sunday 10 a.m.–6 p.m. Call 513-362-9622 for the branch; these hours do not establish the availability of every facility.",
+    "url": "https://myy.org/location/central-parkway-ymca/",
+    "quote": [
+     "Monday - Thursday 5:30 a.m. - 9 p.m. Friday 5:30 a.m. - 8 p.m. Saturday 7 a.m. - 6 p.m. Sunday 10 a.m. - 6 p.m.",
+     "(513) 362-9622"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "825ca81a9e8e5e68ee99bc9dbee8dde2ca02e7557f21a137fa598453640114c2"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The branch page offers reservations for a class, lap lane or open-swim slot, opening 48 hours before the desired time. The shared Nationwide Member policy has a separate restriction; a posted timetable alone does not reserve a place.",
+    "url": "https://myy.org/location/central-parkway-ymca/",
+    "quote": "Reserve a class, lap lane, or open swim slot to guarantee your space. Reservations open 48 hours before desired time.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "825ca81a9e8e5e68ee99bc9dbee8dde2ca02e7557f21a137fa598453640114c2"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The YMCA of Greater Cincinnati says visiting Nationwide Members should identify themselves at the Welcome Desk for barcode check-in. They cannot reserve classes or lap swim, but may try to attend a class that is not full. Confirm pool availability directly.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "For participating YMCAs, let our Welcome Desk know you are scanning in as a Nationwide Member and we will switch the check-in for your barcode to check that you are up-to-date.",
+     "Nationwide Members are welcome to use our facilities. Class or lap swim reservations are not available but you are welcome to try to attend if a class isn't full."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Under the shared guest policy, all guests must be registered in Daxko and complete a waiver before entry. Guests aged 16 or older need photo ID on their first visit; individual guests may visit at most three times per calendar year.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "All guests must be entered in Daxko and waiver complete prior to entry.",
+     "All guests 16 years of age and older must present a photo ID upon their first visit. Individual guests are welcome to visit the YMCA of Greater Cincinnati a maximum of 3 times per calendar year."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The shared FAQ allows members aged 18 or older to bring guests. Guests using a six-punch guest pass must stay with an active YMCA member at all times. It says day passes are not sold and guests must be accompanied by a member or have a complimentary guest pass; ask the branch which guest arrangement applies.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "Members 18 years of age and older may bring in guests.",
+     "Guests using a “6-punch guest pass” must be accompanied at ALL times by an active YMCA Member.",
+     "Can I purchase a day pass? No. All guests must be accompanied by a member or have a complimentary guest pass."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "chronic",
+    "text": "The shared FAQ provides day-use lockers for members and guests at every YMCA of Greater Cincinnati location. Bring your own lock and remove it after each visit; overnight storage requires a rented locker, whose availability must be checked with the branch. Locker reach and changing-room layouts are not specified.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "Lockers are provided for your convenience at all YMCA of Greater Cincinnati locations. Lockers are for day use by members and guests.",
+     "It is important to secure your personal belongings by bringing your own lock and removing it at the end of each visit. Items cannot be left overnight unless you have rented the locker. Check with your local YMCA branch to see if locker rentals are available."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The association’s 2026 holiday page says all YMCA locations close for Thanksgiving, November 26, and Christmas Day, December 25. Confirm other holiday hours with the branch.",
+    "url": "https://myy.org/holiday-hours/",
+    "quote": [
+     "THANKSGIVING November 26, 2026. All YMCA locations CLOSED",
+     "CHRISTMAS DAY Friday, December 25, 2026 All YMCA locations closed"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5eb425829b64f6bfc3dace0ad2841b711f91eb2d7250c4f9d317a60668042c3b"
+   },
+   {
+    "domain": "cognitive",
+    "text": "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
+    "url": "https://myy.org/join/membership-faqs/",
+    "quote": [
+     "First, you can visit your local Y and any of our member service staff will be happy to help you get started.",
+     "Or, you can call your local Y to schedule an appointment with a member engagement specialist who will walk you through the joining process.",
+     "You can also join online and receive your membership card when you first use the branch."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9"
+   }
+  ],
+  "address_quote": "1105 Elm Street Cincinnati, Ohio 45202",
+  "address_url": "https://myy.org/location/central-parkway-ymca/"
+ },
+ {
+  "slug": "mt-auburn-indoor-pool",
+  "facts": [
+   {
+    "id": "mt-auburn-indoor-pool.chronic.1",
+    "text": "CRC lists Mt. Auburn as an indoor, year-round warm-water pool. This does not establish a particular water temperature or uninterrupted daily opening.",
+    "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/aquatics-facility/",
+    "quote": "Mt. Auburn Pool Indoor (Year Round) Mt. Auburn 2034 Young Street Cincinnati, Ohio 45219 Rectangular Standard Pool, Warm Water",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "b60b70378f1a18043493eaa4bd0f0ca94c9af321ce0f7c74e4e55a57b17844a7"
+   },
+   {
+    "id": "mt-auburn-indoor-pool.cognitive.1",
+    "text": "Pool memberships can be bought online or at the pool and last twelve months from purchase. CRC says pool programs such as lessons and water exercise require a pool membership.",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
+    "quote": "Pool memberships will be available for purchase both online and at the pool and are valid 12 months from purchase date. Pool programs (i.e. Swim Lessons, Water Exercise) require a pool membership.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "21b122c4aaa16f06e07bdbd039f75e30e7997629c067c55e0bd9905360f08bb3"
+   },
+   {
+    "id": "mt-auburn-indoor-pool.cognitive.2",
+    "text": "The pool page links separate fall and December program schedules. Check the current timetable for open-swim sessions and program dates before travelling.",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
+    "quote": "Fall PROGRAM SCHEDULE dECEMBER SCHEDULE",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "21b122c4aaa16f06e07bdbd039f75e30e7997629c067c55e0bd9905360f08bb3"
+   },
+   {
+    "id": "mt-auburn-indoor-pool.cognitive.3",
+    "text": "For pool questions, call 513-381-6780; the published weather hotline is 513-352-4033. The separate CRC Aquatics Office is 513-357-7665.",
+    "url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
+    "quote": "Pool Phone: 513-381-6780 CRC Aquatics Office: 513-357-POOL (7665) Mt. Auburn Pool Weather Hotline: 513-352-4033",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "21b122c4aaa16f06e07bdbd039f75e30e7997629c067c55e0bd9905360f08bb3"
+   },
+   {
+    "id": "mt-auburn-indoor-pool.mobility.1",
+    "text": "CRC’s systemwide inclusion program lists adaptive equipment and assistance with daily activities among possible accommodations. Request an Accommodation and Assessment Form at registration. This does not confirm specific pool equipment, transfer assistance or an approved individual arrangement at Mt. Auburn.",
+    "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+    "quote": [
+     "Types of Accommodations Changes in Rules and/or Policies Assistance with ADLs (activities of daily living) Architectural Changes Adaptive Equipment Increased Supervision Behavior Supports Specialized Training for Staff Boardmaker Tools for Communication",
+     "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b"
+   },
+   {
+    "id": "mt-auburn-indoor-pool.sensory.1",
+    "text": "CRC’s systemwide inclusion program lists Boardmaker communication tools among possible accommodations. Ask for an Accommodation and Assessment Form at registration; availability at this pool is not established.",
+    "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+    "quote": [
+     "Boardmaker Tools for Communication",
+     "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The fall 2026 guide covers September 28–November 25. Entry requires a pool membership or daily user fee; pool classes/programs require membership, with class fees due in advance. The guide says the pool is not open on holidays and schedules may change.",
+    "url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-Fall-2026-Schedule-and-Program-Info.pdf",
+    "quote": [
+     "FALL 2026 ~ SEPTEMBER 28th- NOVEMBER 25TH",
+     "Pool Membership or Daily User fee required for entry.",
+     "Participation in pool classes/ programs requires membership",
+     "Class fees due in advance",
+     "Not open on Holidays",
+     "Schedule subject to change"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "898f50e4e26aa759f3ce5f6f1fdf2a77fc669ea541d5f55a0e110f2d7abbc93f"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The December 2026 guide covers open/lap/family swimming from November 30–December 18. It does not establish opening after December 18; check the current schedule before travelling.",
+    "url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-December-26-Schedule-and-Program-Info.pdf",
+    "quote": [
+     "December 2026 ~ NOVEMBER 30TH- DECEMBER 18TH",
+     "Open, Lap, Family Swim November 30th - December 18th"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "f64f63872665a02dcadbc432b23a8ad2c81b8c6bd35968ad5f13c3fcb14a5c87"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The fall guide’s adapted-aquatics session is dated September 29–November 7, although its overview grid runs through November 25. That session has ended as of the November 14 source check. Call 513-352-4013 for specific class times and the next session; the overview alone does not confirm an active class.",
+    "url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-Fall-2026-Schedule-and-Program-Info.pdf",
+    "quote": [
+     "FALL 2026 ~ SEPTEMBER 28th- NOVEMBER 25TH",
+     "Session 1- SEPTEMBER 29 - NOVEMBER 7",
+     "Call 513-352-4013 for more information and specific class times."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "898f50e4e26aa759f3ce5f6f1fdf2a77fc669ea541d5f55a0e110f2d7abbc93f"
+   },
+   {
+    "domain": "cognitive",
+    "text": "For open/lap/family swimming, the December guide says children under 12 must be accompanied by an adult, and children aged seven or younger must always swim within an adult’s arm’s reach.",
+    "url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-December-26-Schedule-and-Program-Info.pdf",
+    "quote": "Children under 12 must be accompanied by an adult. Ages 7 and younger must always swim with an adult within arm's reach.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "f64f63872665a02dcadbc432b23a8ad2c81b8c6bd35968ad5f13c3fcb14a5c87"
+   }
+  ]
+ },
+ {
+  "slug": "cincinnati-recycling-reuse-hub",
+  "facts": [
+   {
+    "id": "cincinnati-recycling-reuse-hub.mobility.1",
+    "text": "The Hub gives 911 Evans Street as the front address but directs visitors to park in the lot off Woodrow Street behind the building. Its instructions do not establish a continuous step-free route from a particular parking bay.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+    "quote": "Park in the lot on Woodrow Street. Our address is 911 Evans Street which is the front of the building. The lot is on the backside of the building.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1e3cdf02aa89e6a6e6b30b3e0f846d6a63aeb7b56d17ef41b0c2c1efa0804f90"
+   },
+   {
+    "id": "cincinnati-recycling-reuse-hub.mobility.2",
+    "text": "For the fourth-floor Hub Shop, turn right after entering and take the elevator up. The page does not describe elevator controls, dimensions, loading assistance or current outages; confirm equipment and the entrance route before travelling.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+    "quote": "For the Hub Shop, turn right after entering and take the elevator up to the 4th floor.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1e3cdf02aa89e6a6e6b30b3e0f846d6a63aeb7b56d17ef41b0c2c1efa0804f90"
+   },
+   {
+    "id": "cincinnati-recycling-reuse-hub.cognitive.1",
+    "text": "For general plastics recycling, check in at the Customer Service desk at the rear of the facility with a Hub Club membership or purchase a 30-day pass. Electronics and universal waste go to E-Waste Plus on the left.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+    "quote": "For general plastics recycling, visit the Customer Service desk in the rear of the facility and check in with your Hub Club membership or purchase a 30-day pass . For electronics and universal waste, visit the E-Waste Plus area to the left.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1e3cdf02aa89e6a6e6b30b3e0f846d6a63aeb7b56d17ef41b0c2c1efa0804f90"
+   },
+   {
+    "id": "cincinnati-recycling-reuse-hub.cognitive.2",
+    "text": "Hub Club check-in can use an account QR code, phone number or email address, at the front Welcome Desk or rear Customer Service. The phone-number and email options do not require presenting a QR code; staff assistance and counter reach are not described.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
+    "quote": "Beginning in January 2026, customers will check in at either the Welcome Desk at the front of the Hub Club, or at Customer Service in the rear. You can check in with the QR code, phone number, or email address associated with your account.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "ed69899fda97fb736ae79ef32eb5652c630f3813e2a46f67383b09443cf21e58"
+   },
+   {
+    "id": "cincinnati-recycling-reuse-hub.chronic.1",
+    "text": "A Hub Club membership is not required to donate reusable items. Take them to rear Customer Service for a staff member or volunteer. A membership is also not required to visit the fourth-floor Hub Shop; this does not mean merchandise is free.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
+    "quote": [
+     "Customers do not need a membership to drop off reusable items.",
+     "Simply go to our Customer Service desk in the rear of the Hub Club to drop off these items with a Hub staff member or volunteer.",
+     "Is a membership required to shop at the Hub Shop? No, the Hub Shop is absolutely free to all visitors. Simply head to the right when you enter the Hub Club and take the elevator up to the 4th floor.",
+     "These items will be donated to local nonprofits or sold in our 4th floor Hub Shop"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "ed69899fda97fb736ae79ef32eb5652c630f3813e2a46f67383b09443cf21e58"
+   },
+   {
+    "id": "cincinnati-recycling-reuse-hub.chronic.2",
+    "text": "The Hub asks visitors to pre-sort recycling as much as possible and bring items clean and dry. Visitors place materials in the relevant bins, with volunteers available for questions. Unloading, lifting and carrying assistance are not promised; arrange any essential help in advance.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+    "quote": [
+     "Review our list of what we take, and pre-sort items as much as possible.",
+     "Be sure that all items are CLEAN and DRY.",
+     "Place your items into their respective bins. ( See map here .) Volunteers will help you if you have questions!"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1e3cdf02aa89e6a6e6b30b3e0f846d6a63aeb7b56d17ef41b0c2c1efa0804f90"
+   },
+   {
+    "id": "cincinnati-recycling-reuse-hub.cognitive.3",
+    "text": "Published drop-off hours are Tuesday 10 a.m.–2 p.m., Thursday noon–6 p.m. and Saturday 10 a.m.–2 p.m. The Hub asks visitors to check its calendar for closures and the website for last-minute changes.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+    "quote": [
+     "Cincinnati Recycling & Reuse Hub is open 3 days a week: Tuesdays 10-2, Thursdays 12-6, and Saturdays 10-2. Please refer to our calendar for any planned closures.",
+     "Check the website for any up-to-the-minute updates to our regular hours"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1e3cdf02aa89e6a6e6b30b3e0f846d6a63aeb7b56d17ef41b0c2c1efa0804f90"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Hub Club membership can be arranged online or in person at the Customer Service Center during a visit. The page does not describe counter reach or communication assistance.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
+    "quote": "Sign up for a Hub Club membership online or by visiting the Customer Service Center at the Hub on your next visit.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "ed69899fda97fb736ae79ef32eb5652c630f3813e2a46f67383b09443cf21e58"
+   },
+   {
+    "domain": "chronic",
+    "text": "The Hub says financial assistance with membership fees is available through its Hub Club Assistance Program. Contact the Hub for the process; eligibility, amount and approval timing are not specified.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
+    "quote": [
+     "Need financial assistance?",
+     "We have financial assistance available! Contact us for more information about our Hub Club Assistance Program."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "ed69899fda97fb736ae79ef32eb5652c630f3813e2a46f67383b09443cf21e58"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The drop-off page checked November 14, 2026 lists closures for November 26–28 and December 22–January 1. The footer does not print years beside these ranges; confirm the applicable holiday dates before travelling.",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+    "quote": "Closed 5/23, 7/4, 9/5, 11/26–11/28, 12/22–1/1",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1e3cdf02aa89e6a6e6b30b3e0f846d6a63aeb7b56d17ef41b0c2c1efa0804f90"
+   }
+  ]
+ }
+]

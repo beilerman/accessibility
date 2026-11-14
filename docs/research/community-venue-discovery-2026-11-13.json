@@ -26,7 +26,13 @@
     "https://www.reddit.com/r/cincinnati/comments/1j7j2mu/advice_on_most_accessible_way_to_visit_findlay/",
     "https://www.tripadvisor.ca/FAQ_Answers-g60993-d281513-t8743164-Is_this_accessible_for_someone_in_mobility.html",
     "https://www.tripadvisor.ca/FAQ_Answers-g50322-d5994686-t1772541-Do_they_have_motorized_carts_for_elderly_or.html",
-    "https://www.reddit.com/r/cincinnati/comments/14ua7zd/if_youre_passionate_about_recycling_reducing/"
+    "https://www.reddit.com/r/cincinnati/comments/14ua7zd/if_youre_passionate_about_recycling_reducing/",
+    "https://www.reddit.com/r/cincinnati/comments/1husaah/indoor_basketball_courts_in_nky/",
+    "https://www.reddit.com/r/cincinnati/comments/1plbefo/central_parkway_ymca_thoughts_from_regulars/",
+    "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
+    "https://www.reddit.com/r/cincinnati/comments/1i6cp93/is_a_ymca_membership_worth_it/",
+    "https://dsacincy.org/resources/accessibility",
+    "https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g50787-d24006551-i788730022-Ford_s_Garage_Norwood-Norwood_Ohio.html"
   ],
   "candidates": [
     {
@@ -81,9 +87,9 @@
       "name": "Ford’s Garage — Norwood",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Current official location page read at https://fordsgarageusa.com/locations/norwood/:2692 Madison Road Suite115, reservation and carryout/delivery links. Still needs exact access/assistance procedures and location-specific imagery; do not promote aggregator wheelchair tags."
+      "status": "added",
+      "slug": "fords-garage-norwood",
+      "nextStep": "Official Norwood listing and separately qualified recommendation added. Door-hardware photo is all rights reserved; current physical entrance and toilets remain gaps."
     },
     {
       "name": "Streetside Brewing",
@@ -97,9 +103,9 @@
       "name": "Fifty West",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Current official www.fiftywestbrew.com homepage read: distinguish Wooster Pike7605 from Deerfield and Chillicothe, and Burger Bar from Brewpub. It describes window ordering/text pickup, first-come seating and indoor/covered options. Read location/FAQ details, fresh-gate every claim and inspect site-specific route/toilet photos before import; do not infer carrying help or use aggregator access tags."
+      "status": "added",
+      "slug": "fifty-west-wooster-pike",
+      "nextStep": "Official 7605 Wooster Pike listing added; discussion does not identify the branch, so no branch-specific visitor report imported. Confirm physical entrance, toilets and seasonal arrangements."
     },
     {
       "name": "Little Miami Brewing — Milford",
@@ -576,6 +582,66 @@
       "status": "held",
       "slug": null,
       "nextStep": "A visitor/donor describes Saturday shopping, but current official public hours, entrance and collection procedures remain unsupported. A 2022 Maple Knoll article only confirms historical volunteering; do not promote commenter hours as current official."
+    },
+    {
+      "name": "Campbell County YMCA",
+      "slug": "campbell-county-ymca",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1husaah/indoor_basketball_courts_in_nky/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "nextStep": "Official branch and association policy evidence added. Seek current entrance, pool lift/transfer, changing and toilet information."
+    },
+    {
+      "name": "Central Parkway YMCA",
+      "slug": "central-parkway-ymca",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1plbefo/central_parkway_ymca_thoughts_from_regulars/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "nextStep": "Official branch and association policy evidence, original interior guide and CC0 2019 arrival view added. Confirm elevator route, current pool operation and changing facilities."
+    },
+    {
+      "name": "Alexandria city building basketball court",
+      "slug": null,
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1husaah/indoor_basketball_courts_in_nky/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "nextStep": "Direct official fetches disagree: community-center page lists Calvin A. Perry at 8236 West Main Street; current event-venue page lists 8822 Constable Drive. New-campus page still gives estimated completion August 2026. Do not infer the move is complete or apply old photos/routes to the newer address. Resolve location and which gym/track operates now before adding. Distinguish walking membership, rental-only gym access and scheduled activities. Current official pages are readable, so this is an identity/scope lead, not a blocked-source failure.",
+      "officialSourceLeads": [
+        "https://alexandriaky.gov/community-center/",
+        "https://alexandriaky.gov/venue/alexandria-community-center/",
+        "https://alexandriaky.gov/new-city-campus/"
+      ]
+    },
+    {
+      "name": "Norwood Recreation Center",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Official facility listing has 2039 Sherman Ave and names locker room, parking, restrooms, swimming pool and basketball. It supplies no access measurements or current swimming admission/schedule in the reviewed section. Read current recreation department/program pages; keep indoor Sherman Avenue distinct from Waterworks outdoor pool.",
+      "officialSourceLeads": [
+        "https://norwoodohio.gov/Facilities/Facility/Details/Norwood-Recreation-Center-4"
+      ]
+    },
+    {
+      "name": "TriHealth Fitness & Health Pavilion",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Official location 6200 Pfeiffer Road; indoor pool page names gender-neutral rooms and a seasonal zero-entry outdoor pool, separately from the indoor lap/warm-water pools. Directions describe a driveway, not a wheelchair route. Page links an aquatics tour and current schedule; the body also contains a Getty stock image reference. Inspect original tour, current member/guest policies and pool schedules. Do not reuse the stock image as a venue photograph or assume zero-entry applies indoors. Preserve locker-room age policies and seasonal restrictions when researched.",
+      "officialSourceLeads": [
+        "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools",
+        "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions"
+      ]
+    },
+    {
+      "name": "Powel Crosley Jr. YMCA (Winton Road)",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1i6cp93/is_a_ymca_membership_worth_it/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Confirm current official branch identity/location and access. Public reports conflict about lap reservations; one reports pickup vehicles obstructing entrance and hallway items. Keep these historical attributed reports, not current certification or a claim about other branches."
     }
   ],
   "addedVenues": 25,

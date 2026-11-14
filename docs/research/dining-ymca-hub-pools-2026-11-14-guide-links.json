@@ -1,0 +1,56 @@
+[
+  {
+    "id": "fifty-west-wooster-pike-official-gallery",
+    "url": "https://www.fiftywestbrew.com/locations",
+    "finalUrl": "https://www.fiftywestbrew.com/locations",
+    "status": 200,
+    "bytes": 67339,
+    "sha256": "2e299b9b328c706af26ab1e9a48176742092b21f852b485a2afe6fea38cb4be7",
+    "contentType": "text/html; charset=utf-8"
+  },
+  {
+    "id": "campbell-county-ymca-official-interiors",
+    "url": "https://myy.org/location/campbell-county-ymca/",
+    "finalUrl": "https://myy.org/location/campbell-county-ymca/",
+    "status": 200,
+    "bytes": 111498,
+    "sha256": "e8507e923202f844df00436a9a575a7d970bb45e95afbf0ff78bba33d17f46a9",
+    "contentType": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "central-parkway-ymca-official-interiors",
+    "url": "https://myy.org/location/central-parkway-ymca/",
+    "finalUrl": "https://myy.org/location/central-parkway-ymca/",
+    "status": 200,
+    "bytes": 106101,
+    "sha256": "48ff92ac7f40a08433041081ccb9d6ade02a38e41e0fbdb18a1ff6d784221627",
+    "contentType": "text/html; charset=UTF-8"
+  },
+  {
+    "id": "recycling-reuse-hub-drop-off-floor-plan",
+    "url": "https://www.cincinnatirecyclingandreusehub.org/s/The-Hub-Drop-off-Floor-Plan-20251202.pdf",
+    "finalUrl": "https://static1.squarespace.com/static/5ecd724f782c903df8dbd2bc/t/69541c78c94d2e019249d7ee/1767119992977/The+Hub+Drop+off+Floor+Plan-20251202.pdf",
+    "status": 200,
+    "bytes": 318938,
+    "sha256": "1f3682a6e1c239e17c62883097c63ec847059dbc320522e6663942034b519f7f",
+    "contentType": "application/pdf"
+  },
+  {
+    "id": "fifty-west-wooster-skating-photos",
+    "url": "https://www.fiftywestbrew.com/ice-skating",
+    "finalUrl": "https://www.fiftywestbrew.com/ice-skating",
+    "status": 200,
+    "bytes": 52699,
+    "sha256": "bc616c6f7606a0e7260125ba0bdc509f619b401dd3432f73147ab1723b6f821f",
+    "contentType": "text/html; charset=utf-8"
+  },
+  {
+    "id": "recycling-reuse-hub-epa-arrival-2023",
+    "url": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/34/document/general/Cinci%20Recycle-Reuse%20Hub_Final%20Ohio%20EPA%20presentation%20Dec%202023.pdf",
+    "finalUrl": "https://dam.assets.ohio.gov/image/upload/epa.ohio.gov/Portals/34/document/general/Cinci%20Recycle-Reuse%20Hub_Final%20Ohio%20EPA%20presentation%20Dec%202023.pdf",
+    "status": 200,
+    "bytes": 41566489,
+    "sha256": "f7392127b5d98c4a9d175b9cb5bc3f3924dea4aef05d729b92a1e6fc2d2a4b88",
+    "contentType": "application/pdf"
+  }
+]

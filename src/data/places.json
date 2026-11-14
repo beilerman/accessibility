@@ -34092,7 +34092,7 @@
     "website": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
     "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
     "limitations": "Public website information; no on-site audit. CRC describes an indoor warm-water pool and links seasonal schedules. Year-round is a facility description, not a guarantee of daily operation. Confirm the current open-swim timetable, fees, program registration and closures. Parking-to-door continuity, thresholds, door controls, changing and toilet layouts, adult-changing equipment, pool-entry equipment, capacity, transfer methods, assistance and quiet spaces remain unverified. CRC’s inclusion policy is systemwide and does not establish a particular accommodation at Mt. Auburn. The page’s embedded map names 5545 Belmont Avenue, ZIP 45224, while its printed pool address and the CRC facility register say 2034 Young Street, ZIP 45219; confirm the destination instead of relying on that map.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-14",
     "slug": "mt-auburn-indoor-pool",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -34103,7 +34103,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/aquatics-facility/",
         "id": "mt-auburn-indoor-pool.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34112,6 +34112,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -34121,7 +34126,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
         "id": "mt-auburn-indoor-pool.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34130,6 +34135,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -34139,7 +34149,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
         "id": "mt-auburn-indoor-pool.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34148,6 +34158,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -34157,7 +34172,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/aquatics/mt-auburn-indoor-pool/",
         "id": "mt-auburn-indoor-pool.cognitive.3",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34166,6 +34181,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -34175,7 +34195,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
         "id": "mt-auburn-indoor-pool.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34184,6 +34204,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -34193,13 +34218,90 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
         "id": "mt-auburn-indoor-pool.sensory.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The fall 2026 guide covers September 28–November 25. Entry requires a pool membership or daily user fee; pool classes/programs require membership, with class fees due in advance. The guide says the pool is not open on holidays and schedules may change.",
+        "source_url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-Fall-2026-Schedule-and-Program-Info.pdf",
+        "id": "mt-auburn-indoor-pool.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The December 2026 guide covers open/lap/family swimming from November 30–December 18. It does not establish opening after December 18; check the current schedule before travelling.",
+        "source_url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-December-26-Schedule-and-Program-Info.pdf",
+        "id": "mt-auburn-indoor-pool.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The fall guide’s adapted-aquatics session is dated September 29–November 7, although its overview grid runs through November 25. That session has ended as of the November 14 source check. Call 513-352-4013 for specific class times and the next session; the overview alone does not confirm an active class.",
+        "source_url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-Fall-2026-Schedule-and-Program-Info.pdf",
+        "id": "mt-auburn-indoor-pool.cognitive.6",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For open/lap/family swimming, the December guide says children under 12 must be accompanied by an adult, and children aged seven or younger must always swim within an adult’s arm’s reach.",
+        "source_url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-December-26-Schedule-and-Program-Info.pdf",
+        "id": "mt-auburn-indoor-pool.cognitive.7",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -34983,7 +35085,7 @@
     "website": "https://www.cincinnatirecyclingandreusehub.org/",
     "source_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
     "limitations": "Public website information; no on-site audit. The Hub publishes rear-lot arrival, check-in and fourth-floor elevator directions, but parking-bay designations, continuous parking-to-door routes, thresholds, door controls, lift dimensions and operation, toilet and changing facilities, seating and quiet spaces remain unverified. Ask about any essential unloading, lifting, carrying or communication help. The linked December 2023 presentation is historical and predates the 2026 Hub Club program; use current venue pages for prices, accepted materials, shop sales and procedures. Membership prices depend on the plan; confirm the applicable current charge before travelling.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-14",
     "slug": "cincinnati-recycling-reuse-hub",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -34994,7 +35096,7 @@
         "source_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
         "id": "cincinnati-recycling-reuse-hub.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -35003,6 +35105,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -35012,7 +35119,7 @@
         "source_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
         "id": "cincinnati-recycling-reuse-hub.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -35021,6 +35128,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -35030,7 +35142,7 @@
         "source_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
         "id": "cincinnati-recycling-reuse-hub.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -35039,6 +35151,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -35048,7 +35165,7 @@
         "source_url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
         "id": "cincinnati-recycling-reuse-hub.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -35057,6 +35174,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -35066,7 +35188,7 @@
         "source_url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
         "id": "cincinnati-recycling-reuse-hub.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -35075,16 +35197,21 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "The Hub asks visitors to pre-sort recycling and bring items clean and dry. Visitors place materials in the relevant bins, with volunteers available for questions. Unloading, lifting and carrying assistance are not promised; arrange any essential help in advance.",
+        "text": "The Hub asks visitors to pre-sort recycling as much as possible and bring items clean and dry. Visitors place materials in the relevant bins, with volunteers available for questions. Unloading, lifting and carrying assistance are not promised; arrange any essential help in advance.",
         "source_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
         "id": "cincinnati-recycling-reuse-hub.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -35093,6 +35220,16 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Retained the source’s “as much as possible” qualifier for pre-sorting; assistance remains limited to questions."
           }
         ]
       },
@@ -35102,13 +35239,72 @@
         "source_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
         "id": "cincinnati-recycling-reuse-hub.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Hub Club membership can be arranged online or in person at the Customer Service Center during a visit. The page does not describe counter reach or communication assistance.",
+        "source_url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
+        "id": "cincinnati-recycling-reuse-hub.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Hub says financial assistance with membership fees is available through its Hub Club Assistance Program. Contact the Hub for the process; eligibility, amount and approval timing are not specified.",
+        "source_url": "https://www.cincinnatirecyclingandreusehub.org/hub-club",
+        "id": "cincinnati-recycling-reuse-hub.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The drop-off page checked November 14, 2026 lists closures for November 26–28 and December 22–January 1. The footer does not print years beside these ranges; confirm the applicable holiday dates before travelling.",
+        "source_url": "https://www.cincinnatirecyclingandreusehub.org/how-to-drop-off",
+        "id": "cincinnati-recycling-reuse-hub.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -44176,6 +44372,656 @@
         "text": "The hours page gives normal opening as 9 a.m.–9 p.m. daily, with closures on Easter Sunday, Thanksgiving and Christmas Day. Holiday opening times need a fresh check; the listed phone number is 513-874-7855.",
         "source_url": "https://www.ohiovalleyantiques.com/hours/",
         "id": "ohio-valley-antique-mall.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fifty West Burger Bar — Wooster Pike",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "7605 Wooster Pike, Cincinnati, OH 45227",
+    "website": "https://www.fiftywestbrew.com/",
+    "source_url": "https://www.fiftywestbrew.com/locations",
+    "limitations": "Public website information; no on-site audit. This listing is the Wooster Pike Burger Bar, not the separate Brewpub or the Deerfield and Chillicothe locations. The shared FAQ refers to “both locations” for seating and parking even though the directory lists three; confirm those arrangements at Wooster Pike. Entrance thresholds, door controls, designated parking, continuous routes across the different outdoor surfaces, table clearance, toilets/changing, quiet spaces and help carrying orders are unverified. Text notification does not establish an alternative for visitors without a phone.",
+    "checked_at": "2026-11-14",
+    "slug": "fifty-west-wooster-pike",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Order food at the order window, then collect it from the pick-up window after a text message says it is ready. An alternative notification method and help carrying food are not described.",
+        "source_url": "https://www.fiftywestbrew.com/locations",
+        "id": "fifty-west-wooster-pike.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Fifty West’s homepage describes self-service: food is ordered at a window and drinks at a walk-up bar, with no servers. This does not promise table delivery or carrying assistance.",
+        "source_url": "https://www.fiftywestbrew.com/",
+        "id": "fifty-west-wooster-pike.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shared FAQ says ordinary dining reservations are not taken and seating is first come, first served. Party cabanas can be reserved for a fee in two-hour blocks; this does not establish a particular cabana’s route or seating layout.",
+        "source_url": "https://www.fiftywestbrew.com/locations",
+        "id": "fifty-west-wooster-pike.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Wooster Pike lists Monday–Saturday 11 a.m.–11 p.m. and Sunday 11 a.m.–9 p.m.; the kitchen closes one hour earlier and holiday hours may differ. The local phone is 513-834-8789, extension 1.",
+        "source_url": "https://www.fiftywestbrew.com/locations",
+        "id": "fifty-west-wooster-pike.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shared FAQ describes mostly outdoor seating, indoor seats, covered patios and cold-weather heaters/seasonal amenities. It says “both locations” although the directory lists three; confirm which indoor and covered areas are available at Wooster Pike.",
+        "source_url": "https://www.fiftywestbrew.com/locations",
+        "id": "fifty-west-wooster-pike.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The shared FAQ says “both locations” have on-site parking and that lots can fill during peak times and special events. Because the directory lists three locations, confirm Wooster Pike’s current parking and entrance route; designated spaces and distances are not specified.",
+        "source_url": "https://www.fiftywestbrew.com/locations",
+        "id": "fifty-west-wooster-pike.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The live skating page checked November 14, 2026 lists Wooster Pike’s opening date as November 15 and closing date as January 2, with opening and all skating availability dependent on weather. The dates do not confirm that the rink is operating before a visit.",
+        "source_url": "https://www.fiftywestbrew.com/ice-skating",
+        "id": "fifty-west-wooster-pike.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Wooster Pike’s posted public skating hours are Monday–Saturday 11 a.m.–10 p.m. and Sunday 11 a.m.–9 p.m., with ice-maintenance breaks from 2–3 p.m. and 6–7 p.m. Public skating is first come, first served without online reservations; private rink rentals can still be booked ahead. Availability depends on weather.",
+        "source_url": "https://www.fiftywestbrew.com/ice-skating",
+        "id": "fifty-west-wooster-pike.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shared skating instructions direct visitors to the League Station, or to ask a team member for directions, then sign a waiver, pay and collect skates. Admission is $10 for skate rental and one hour of ice time; children aged four or younger skate free. The instructions do not establish a step-free rink entrance, transfer help or adaptive-skating arrangements.",
+        "source_url": "https://www.fiftywestbrew.com/ice-skating",
+        "id": "fifty-west-wooster-pike.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ford’s Garage — Norwood",
+    "city": "Norwood",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "2692 Madison Road, Suite 115, Norwood, OH 45208",
+    "website": "https://fordsgarageusa.com/locations/norwood/",
+    "source_url": "https://fordsgarageusa.com/locations/norwood/",
+    "limitations": "Public website information; no on-site audit. Current official location and service information is separate from the community recommendation. The chain’s accessibility statement concerns its website, not the building. Entrance route, thresholds, door controls, parking, table/companion arrangements, toilets, changing facilities, quiet spaces and assistance remain unverified. The shared patio policy does not confirm that Norwood permits pet dogs. No-live-music wording does not establish low sound levels.",
+    "checked_at": "2026-11-14",
+    "slug": "fords-garage-norwood",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Norwood page links a reservation service and lists 513-643-3673 for the restaurant. Confirm any seating or companion arrangement directly; a reservation link does not establish the requested table layout.",
+        "source_url": "https://fordsgarageusa.com/locations/norwood/",
+        "id": "fords-garage-norwood.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Norwood page offers a Carryout or Delivery ordering link. It does not describe the collection point, a vehicle handoff or help carrying an order.",
+        "source_url": "https://fordsgarageusa.com/locations/norwood/",
+        "id": "fords-garage-norwood.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Published Norwood hours are Monday–Thursday 11 a.m.–10 p.m., Friday–Saturday 11 a.m.–11 p.m. and Sunday 11 a.m.–9 p.m. Confirm holiday changes before travelling.",
+        "source_url": "https://fordsgarageusa.com/locations/norwood/",
+        "id": "fords-garage-norwood.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The chain FAQ says its restaurants do not currently feature live music. This is not a promise of quiet: television, recorded music and crowd sound levels are not specified.",
+        "source_url": "https://fordsgarageusa.com/our-story/",
+        "id": "fords-garage-norwood.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The chain FAQ links nutrition and allergen information and asks visitors to tell their server about allergen or nutritional needs before ordering. It does not guarantee an allergen-free meal.",
+        "source_url": "https://fordsgarageusa.com/our-story/",
+        "id": "fords-garage-norwood.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "In its patio FAQ, Ford’s Garage says service animals are allowed; pet-friendly patios are limited to selected locations. Contact the restaurant about Norwood’s patio arrangements.",
+        "source_url": "https://fordsgarageusa.com/our-story/",
+        "id": "fords-garage-norwood.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For problems using the website or assistive technology on it, the chain lists 813-761-3752 and accessibility@fordsgarageusa.com, aiming to respond within five business days. This is a digital-access contact, not a promise of an in-person accommodation.",
+        "source_url": "https://fordsgarageusa.com/accessibility/",
+        "id": "fords-garage-norwood.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Campbell County YMCA",
+    "city": "Fort Thomas",
+    "state": "KY",
+    "category": "Recreation & fitness",
+    "address": "1437 S. Ft. Thomas Avenue, Fort Thomas, KY 41075",
+    "website": "https://myy.org/location/campbell-county-ymca/",
+    "source_url": "https://myy.org/location/campbell-county-ymca/",
+    "limitations": "Public website information; no on-site audit. Branch-specific location and reservation information is paired with explicitly association-wide member/guest policies. Entrance, designated parking, door controls, elevators, pool-entry lift/ramp, transfer assistance, toilet/changing layouts, adult changing equipment and quiet spaces are not verified. The indoor-pool photograph does not establish pool-entry equipment or current operation. Outdoor-pool hours on the branch page have no season dates; they are not confirmation of November opening. The holiday page’s New Year’s Day year/weekday do not agree, so no January 2027 hours are inferred.",
+    "checked_at": "2026-11-14",
+    "slug": "campbell-county-ymca",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Building hours are Monday–Friday 6 a.m.–9 p.m., Saturday 7 a.m.–6 p.m. and Sunday noon–6 p.m. The branch phone is 859-781-1814. These are building hours, not a guarantee that the pool or a particular activity is open throughout.",
+        "source_url": "https://myy.org/location/campbell-county-ymca/",
+        "id": "campbell-county-ymca.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Campbell County pool-schedule page says reservations open 48 hours before class time and can be made through the MyY app or a member-account login. Check the schedule for the specific swim session.",
+        "source_url": "https://myy.org/schedule/campbell-county-ymca/pool-schedule/",
+        "id": "campbell-county-ymca.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The YMCA of Greater Cincinnati says visiting Nationwide Members should identify themselves at the Welcome Desk for barcode check-in. They cannot reserve classes or lap swim, but may try to attend a class that is not full. Confirm pool availability directly.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "campbell-county-ymca.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the shared guest policy, all guests must be registered in Daxko and complete a waiver before entry. Guests aged 16 or older need photo ID on their first visit; individual guests may visit at most three times per calendar year.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "campbell-county-ymca.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shared FAQ allows members aged 18 or older to bring guests. Guests using a six-punch guest pass must stay with an active YMCA member at all times. It says day passes are not sold and guests must be accompanied by a member or have a complimentary guest pass; ask the branch which guest arrangement applies.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "campbell-county-ymca.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Included the host member’s minimum age from the guest-policy heading during prepublication review."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shared FAQ provides day-use lockers for members and guests at every YMCA of Greater Cincinnati location. Bring your own lock and remove it after each visit; overnight storage requires a rented locker, whose availability must be checked with the branch. Locker reach and changing-room layouts are not specified.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "campbell-county-ymca.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The association’s 2026 holiday page says all YMCA locations close for Thanksgiving, November 26, and Christmas Day, December 25. Confirm other holiday hours with the branch.",
+        "source_url": "https://myy.org/holiday-hours/",
+        "id": "campbell-county-ymca.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "campbell-county-ymca.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Central Parkway YMCA",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "1105 Elm Street, Cincinnati, OH 45202",
+    "website": "https://myy.org/location/central-parkway-ymca/",
+    "source_url": "https://myy.org/location/central-parkway-ymca/",
+    "limitations": "Public website information; no on-site audit. Branch information and association-wide guest policies are distinguished. Current parking, entrance/door controls, elevator routes between levels, toilet/changing layouts, pool lift operation, transfer assistance and quiet spaces are not verified. A historical photo cannot establish today’s route or equipment. Confirm current pool operation and the session schedule before travelling. The association holiday page has an inconsistent New Year’s Day year/weekday; no January 2027 hours are inferred.",
+    "checked_at": "2026-11-14",
+    "slug": "central-parkway-ymca",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Building hours are Monday–Thursday 5:30 a.m.–9 p.m., Friday 5:30 a.m.–8 p.m., Saturday 7 a.m.–6 p.m. and Sunday 10 a.m.–6 p.m. Call 513-362-9622 for the branch; these hours do not establish the availability of every facility.",
+        "source_url": "https://myy.org/location/central-parkway-ymca/",
+        "id": "central-parkway-ymca.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The branch page offers reservations for a class, lap lane or open-swim slot, opening 48 hours before the desired time. The shared Nationwide Member policy has a separate restriction; a posted timetable alone does not reserve a place.",
+        "source_url": "https://myy.org/location/central-parkway-ymca/",
+        "id": "central-parkway-ymca.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The YMCA of Greater Cincinnati says visiting Nationwide Members should identify themselves at the Welcome Desk for barcode check-in. They cannot reserve classes or lap swim, but may try to attend a class that is not full. Confirm pool availability directly.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "central-parkway-ymca.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the shared guest policy, all guests must be registered in Daxko and complete a waiver before entry. Guests aged 16 or older need photo ID on their first visit; individual guests may visit at most three times per calendar year.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "central-parkway-ymca.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shared FAQ allows members aged 18 or older to bring guests. Guests using a six-punch guest pass must stay with an active YMCA member at all times. It says day passes are not sold and guests must be accompanied by a member or have a complimentary guest pass; ask the branch which guest arrangement applies.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "central-parkway-ymca.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Included the host member’s minimum age from the guest-policy heading during prepublication review."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shared FAQ provides day-use lockers for members and guests at every YMCA of Greater Cincinnati location. Bring your own lock and remove it after each visit; overnight storage requires a rented locker, whose availability must be checked with the branch. Locker reach and changing-room layouts are not specified.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "central-parkway-ymca.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The association’s 2026 holiday page says all YMCA locations close for Thanksgiving, November 26, and Christmas Day, December 25. Confirm other holiday hours with the branch.",
+        "source_url": "https://myy.org/holiday-hours/",
+        "id": "central-parkway-ymca.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "central-parkway-ymca.cognitive.7",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-14",
         "published_at": null,

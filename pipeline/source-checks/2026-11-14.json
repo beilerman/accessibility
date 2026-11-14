@@ -4651,6 +4651,114 @@
       "sha256": "5e427989479bf8c6f093d45ca07ebb6fca5a5ac939d1cd0fb00e8c3b3379b242",
       "fingerprint_version": 6,
       "chars": 14811
+    },
+    "https://fordsgarageusa.com/accessibility/": {
+      "status": 200,
+      "final_url": "https://fordsgarageusa.com/accessibility/",
+      "last_modified": "Sat, 14 Nov 2026 08:04:28 GMT",
+      "sha256": "06f9a716a8212159b42be94c6cf3c49714fa1e0b56da76b58c0b63461585ce28",
+      "fingerprint_version": 6,
+      "chars": 3349
+    },
+    "https://fordsgarageusa.com/locations/norwood/": {
+      "status": 200,
+      "final_url": "https://fordsgarageusa.com/locations/norwood/",
+      "last_modified": "Sat, 14 Nov 2026 08:04:28 GMT",
+      "sha256": "816f75c3afc94ef3869670a2b3940fae7f3b9889e0965c223481f741b33621a1",
+      "fingerprint_version": 6,
+      "chars": 1756
+    },
+    "https://fordsgarageusa.com/our-story/": {
+      "status": 200,
+      "final_url": "https://fordsgarageusa.com/our-story/",
+      "last_modified": "Sat, 14 Nov 2026 07:55:39 GMT",
+      "sha256": "cc7f050cf465733afc51c677d38cfef11060041862d822a8ea5bd75dcd71794a",
+      "fingerprint_version": 6,
+      "chars": 6855
+    },
+    "https://myy.org/holiday-hours/": {
+      "status": 200,
+      "final_url": "https://myy.org/holiday-hours/",
+      "last_modified": "Sat, 14 Nov 2026 06:51:26 GMT",
+      "sha256": "5eb425829b64f6bfc3dace0ad2841b711f91eb2d7250c4f9d317a60668042c3b",
+      "fingerprint_version": 6,
+      "chars": 1032
+    },
+    "https://myy.org/join/membership-faqs/": {
+      "status": 200,
+      "final_url": "https://myy.org/join/membership-faqs/",
+      "last_modified": null,
+      "sha256": "0e60b1f63b94c2a580c8a0fa48dcaf7acae078a85ec99185d8d79339efb394a9",
+      "fingerprint_version": 6,
+      "chars": 4451
+    },
+    "https://myy.org/location/campbell-county-ymca/": {
+      "status": 200,
+      "final_url": "https://myy.org/location/campbell-county-ymca/",
+      "last_modified": "Sat, 14 Nov 2026 07:54:47 GMT",
+      "sha256": "0715a4d547b25100b064be3526ff6961099aeec45ba70f176a3fb32300c2a576",
+      "fingerprint_version": 6,
+      "chars": 3272
+    },
+    "https://myy.org/location/central-parkway-ymca/": {
+      "status": 200,
+      "final_url": "https://myy.org/location/central-parkway-ymca/",
+      "last_modified": "Sat, 14 Nov 2026 07:51:55 GMT",
+      "sha256": "825ca81a9e8e5e68ee99bc9dbee8dde2ca02e7557f21a137fa598453640114c2",
+      "fingerprint_version": 6,
+      "chars": 1944
+    },
+    "https://myy.org/schedule/campbell-county-ymca/pool-schedule/": {
+      "status": 200,
+      "final_url": "https://myy.org/schedule/campbell-county-ymca/pool-schedule/",
+      "last_modified": "Sat, 14 Nov 2026 07:48:19 GMT",
+      "sha256": "1a9e54c46e37081c7f852994c19103f5b08364838056475f4eadd218ea51b3a3",
+      "fingerprint_version": 6,
+      "chars": 296
+    },
+    "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-December-26-Schedule-and-Program-Info.pdf": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-December-26-Schedule-and-Program-Info.pdf",
+      "last_modified": "Tue, 03 Nov 2026 14:50:05 GMT",
+      "sha256": "f64f63872665a02dcadbc432b23a8ad2c81b8c6bd35968ad5f13c3fcb14a5c87",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 3881,
+      "pages": 3
+    },
+    "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-Fall-2026-Schedule-and-Program-Info.pdf": {
+      "status": 200,
+      "final_url": "https://www.cincinnati-oh.gov/sites/crc/assets/Mt.-Auburn-Fall-2026-Schedule-and-Program-Info.pdf",
+      "last_modified": "Wed, 14 Oct 2026 12:28:37 GMT",
+      "sha256": "898f50e4e26aa759f3ce5f6f1fdf2a77fc669ea541d5f55a0e110f2d7abbc93f",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 4347,
+      "pages": 2
+    },
+    "https://www.fiftywestbrew.com/": {
+      "status": 200,
+      "final_url": "https://www.fiftywestbrew.com/",
+      "last_modified": null,
+      "sha256": "373384a11cae50f101a7f90505725e023693c9a1afb9114ff315a9db38de8102",
+      "fingerprint_version": 6,
+      "chars": 6400
+    },
+    "https://www.fiftywestbrew.com/locations": {
+      "status": 200,
+      "final_url": "https://www.fiftywestbrew.com/locations",
+      "last_modified": null,
+      "sha256": "8ae9a571131b888074ce9010b3777a723ca9a520f6f19f8861057f667a7e0350",
+      "fingerprint_version": 6,
+      "chars": 4762
+    },
+    "https://www.fiftywestbrew.com/ice-skating": {
+      "status": 200,
+      "final_url": "https://www.fiftywestbrew.com/ice-skating",
+      "last_modified": null,
+      "sha256": "a649c9a68f8193bd92c9912e2df881b127b20373f26b342231c8c8a1d1214e7b",
+      "fingerprint_version": 6,
+      "chars": 5513
     }
   },
   "findings": {

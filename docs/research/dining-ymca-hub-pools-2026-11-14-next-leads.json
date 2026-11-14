@@ -1,0 +1,110 @@
+{
+  "checkedAt": "2026-11-14",
+  "scope": "Read-only preflight for the next batch; no listings or source_checked facts created from these leads.",
+  "leads": [
+    {
+      "name": "Norwood Recreation Center",
+      "sources": [
+        {
+          "url": "https://norwoodohio.gov/Facilities/Facility/Details/Norwood-Recreation-Center-4",
+          "status": 200,
+          "sha256": "3172a5057db55ba5abed3fbaf6205d426b693065d2ae2c0470114f72bd44b702",
+          "finalUrl": "https://norwoodohio.gov/Facilities/Facility/Details/Norwood-Recreation-Center-4",
+          "textAvailable": true
+        }
+      ],
+      "observations": "Official facility listing has 2039 Sherman Ave and names locker room, parking, restrooms, swimming pool and basketball. It supplies no access measurements or current swimming admission/schedule in the reviewed section.",
+      "next": "Read current recreation department/program pages; keep indoor Sherman Avenue distinct from Waterworks outdoor pool."
+    },
+    {
+      "name": "Alexandria city-building court / Community Center",
+      "sources": [
+        {
+          "url": "https://alexandriaky.gov/community-center/",
+          "status": 200,
+          "sha256": "ba042f46f838e939f523950f5fadcb9fbe635094bbdf60317fd44e300755f9da",
+          "finalUrl": "https://alexandriaky.gov/community-center/",
+          "textAvailable": true
+        },
+        {
+          "url": "https://alexandriaky.gov/venue/alexandria-community-center/",
+          "status": 200,
+          "sha256": "0785ea79d900759dc8e6d66edca13832290963be4c44b2edf57bad4a2a9279b2",
+          "finalUrl": "https://alexandriaky.gov/venue/alexandria-community-center/",
+          "textAvailable": true
+        },
+        {
+          "url": "https://alexandriaky.gov/new-city-campus/",
+          "status": 200,
+          "sha256": "a3aa4004e3b0b42b95d6ea8dc5370b6f3f5ea62a43bc82723b8e8d4c17eadbc3",
+          "finalUrl": "https://alexandriaky.gov/new-city-campus/",
+          "textAvailable": true
+        }
+      ],
+      "observations": "Direct official fetches disagree: community-center page lists Calvin A. Perry at 8236 West Main Street; current event-venue page lists 8822 Constable Drive. New-campus page still gives estimated completion August 2026. Do not infer the move is complete or apply old photos/routes to the newer address.",
+      "next": "Resolve location and which gym/track operates now before adding. Distinguish walking membership, rental-only gym access and scheduled activities. Current official pages are readable, so this is an identity/scope lead, not a blocked-source failure.",
+      "follow_up_links": [
+        {
+          "title": "Walker Membership Form – Fillable",
+          "url": "https://alexandriaky.gov/wp-content/uploads/2026/01/CC-WALKER-MBRSHP-FORM.2026_sales-tax-Fillable.pdf",
+          "review": "Linked by freshly fetched official parent; destination and content not reviewed in this pass."
+        }
+      ],
+      "form_caveat": "Parent also links legacy 2021 and 2017 forms. The 2026 filename alone does not resolve the operating address or establish current membership conditions."
+    },
+    {
+      "name": "TriHealth Fitness & Health Pavilion",
+      "sources": [
+        {
+          "url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools",
+          "status": 200,
+          "sha256": "64dbcf04d068c4b326671c38c5f47bb4d13e083a63350ecb155dd5110f90f005",
+          "finalUrl": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools",
+          "textAvailable": true
+        },
+        {
+          "url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions",
+          "status": 200,
+          "sha256": "bb87bb5a81c9c0b84c57f5c65da0b311ef8f5126ae67ea59ebdf059cbc3e1f1d",
+          "finalUrl": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions",
+          "textAvailable": true
+        }
+      ],
+      "observations": "Official location 6200 Pfeiffer Road; indoor pool page names gender-neutral rooms and a seasonal zero-entry outdoor pool, separately from the indoor lap/warm-water pools. Directions describe a driveway, not a wheelchair route. Page links an aquatics tour and current schedule; the body also contains a Getty stock image reference.",
+      "next": "Inspect original tour, current member/guest policies and pool schedules. Do not reuse the stock image as a venue photograph or assume zero-entry applies indoors. Preserve locker-room age policies and seasonal restrictions when researched.",
+      "follow_up_links": [
+        {
+          "title": "Take a Virtual Tour",
+          "url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/membership/looking-to-join/take-a-virtual-tour",
+          "review": "Linked by freshly fetched official parent; destination and content not reviewed in this pass."
+        },
+        {
+          "title": "Membership Forms and Information",
+          "url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/membership/im-a-member/member-resources",
+          "review": "Linked by freshly fetched official parent; destination and content not reviewed in this pass."
+        },
+        {
+          "title": "Terms and Conditions",
+          "url": "https://www.trihealth.com/-/media/trihealth/documents/institutes-and-services/trihealth-fitness-and-health-pavilion/membership/looking-to-join/terms-and-conditions-and-privacy-policy-final_10121.pdf",
+          "review": "Linked by freshly fetched official parent; destination and content not reviewed in this pass."
+        },
+        {
+          "title": "Membership Financial Assistance",
+          "url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/membership/membership-financial-assistance",
+          "review": "Linked by freshly fetched official parent; destination and content not reviewed in this pass."
+        },
+        {
+          "title": "Group Fitness, Arena and Pool Schedules",
+          "url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/fitness-and-group-exercise/classes-and-group-fitness",
+          "review": "Linked by freshly fetched official parent; destination and content not reviewed in this pass."
+        }
+      ],
+      "visual_tour_embed_leads": [
+        {
+          "url": "https://www.google.com/maps/embed?pb=!4v1621340520690!6m8!1m7!1sn0n9OM1qd6UAAAQfCRO_7A!2m2!1d39.256317792316!2d-84.364673701529!3f307.23!4f-24.849999999999994!5f0.7820865974627469",
+          "review": "Embedded on official indoor-pools page; panoramic imagery not opened or visually inspected this pass. Inspect capture date, exact feature and current-condition limits before linking as a guide."
+        }
+      ]
+    }
+  ]
+}

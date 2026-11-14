@@ -144,7 +144,7 @@ export function AccessMedia({ slug }: { slug?: string }) {
                 >
                   {guide.format === "web"
                     ? webGuideLabel(guide)
-                    : `Open photo guide (PDF, ${guide.pageCount} pages, ${guide.sizeLabel})`}
+                    : `Open ${guide.imageType === "map" ? "map" : "photo"} guide (PDF, ${guide.pageCount} ${guide.pageCount === 1 ? "page" : "pages"}, ${guide.sizeLabel})`}
                   <span className="sr-only">
                     {" "}
                     — {guide.title} (opens in a new tab)

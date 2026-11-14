@@ -1,0 +1,133 @@
+{
+  "checkedAt": "2026-11-14",
+  "base": "5b66d4a4ee056e14842c00d6d6929cd7948bc503",
+  "newVenues": [
+    {
+      "slug": "campbell-county-ymca",
+      "notes": 8
+    },
+    {
+      "slug": "central-parkway-ymca",
+      "notes": 8
+    },
+    {
+      "slug": "fifty-west-wooster-pike",
+      "notes": 9
+    },
+    {
+      "slug": "fords-garage-norwood",
+      "notes": 7
+    }
+  ],
+  "newNoteIds": 39,
+  "newVenueNotes": 32,
+  "existingVenueNewNotes": 7,
+  "oldNoteTextsChanged": [
+    "cincinnati-recycling-reuse-hub.chronic.2"
+  ],
+  "oldNoteSourceUrlsChanged": [],
+  "oldNotesRefreshed": [
+    "mt-auburn-indoor-pool.chronic.1",
+    "mt-auburn-indoor-pool.cognitive.1",
+    "mt-auburn-indoor-pool.cognitive.2",
+    "mt-auburn-indoor-pool.cognitive.3",
+    "mt-auburn-indoor-pool.mobility.1",
+    "mt-auburn-indoor-pool.sensory.1",
+    "cincinnati-recycling-reuse-hub.mobility.1",
+    "cincinnati-recycling-reuse-hub.mobility.2",
+    "cincinnati-recycling-reuse-hub.cognitive.1",
+    "cincinnati-recycling-reuse-hub.cognitive.2",
+    "cincinnati-recycling-reuse-hub.chronic.1",
+    "cincinnati-recycling-reuse-hub.chronic.2",
+    "cincinnati-recycling-reuse-hub.cognitive.3"
+  ],
+  "oldIdsAndHistoryPrefixesPreserved": true,
+  "unrelatedPlaceRecordsPreserved": 188,
+  "fullRechecks": [
+    {
+      "slug": "mt-auburn-indoor-pool",
+      "before": "2026-11-12",
+      "after": "2026-11-14",
+      "oldNotes": 6
+    },
+    {
+      "slug": "cincinnati-recycling-reuse-hub",
+      "before": "2026-11-12",
+      "after": "2026-11-14",
+      "oldNotes": 7
+    }
+  ],
+  "partialReviews": [],
+  "passageRecordsRefined": [
+    "cincinnati-recycling-reuse-hub.chronic.1",
+    "cincinnati-recycling-reuse-hub.chronic.2",
+    "cincinnati-recycling-reuse-hub.cognitive.3",
+    "mt-auburn-indoor-pool.mobility.1",
+    "mt-auburn-indoor-pool.sensory.1"
+  ],
+  "missingQuoteIdsUnchanged": [
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.sensory.1",
+    "molly-malones-covington.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.chronic.1",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.sensory.1",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.2"
+  ],
+  "selectedSources": 18,
+  "newSourceBaselines": 13,
+  "unselectedBaselinesPreserved": 574,
+  "finalEvidenceChecks": 56,
+  "finalEvidenceMatchesCatalog": true,
+  "priorMediaRecordsPreserved": true,
+  "mediaGrowth": {
+    "src/data/access-photos.json": 1,
+    "src/data/access-guides.json": 6,
+    "src/data/visitor-reports-community.json": 7
+  },
+  "totals": {
+    "venues": 194,
+    "activeNotes": 2018,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1998,
+    "missingQuoteRecords": 20,
+    "licensedPhotos": 88,
+    "guides": 121,
+    "communityReports": 68
+  },
+  "categories": {
+    "Museums & attractions": 21,
+    "Arts & performances": 33,
+    "Parks & outdoors": 34,
+    "Libraries": 15,
+    "Transportation": 8,
+    "Food & drink": 30,
+    "Shopping": 25,
+    "Public services": 16,
+    "Recreation & fitness": 12
+  },
+  "communityQueue": {
+    "names": 74,
+    "statusCounts": {
+      "lead_only": 35,
+      "added": 29,
+      "held_contact_conflict": 1,
+      "held_unextractable_official_site": 2,
+      "held_source_blocked": 2,
+      "held": 5
+    }
+  }
+}

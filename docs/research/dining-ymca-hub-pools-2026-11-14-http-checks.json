@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2026-11-14",
+  "scope": "Local HTTP response and rendered HTML checks, not browser, visual-layout or axe proof.",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 178813,
+      "sha256": "5b86b60108f4a78d2baa172ccc6d2837c9a5a031d542a7517191dd4807dc63c2"
+    },
+    {
+      "path": "/access-in-pictures",
+      "status": 200,
+      "bytes": 863277,
+      "sha256": "53e5601ffb96486b8236a0abf97f2ed983d4a79a6b96ebd08638eef18ec7a6c9"
+    },
+    {
+      "path": "/visitor-reports",
+      "status": 200,
+      "bytes": 401095,
+      "sha256": "1b9d71c82dd92ed8f469abd88eacf4003520966da60313100e297978624eb2a0"
+    },
+    {
+      "path": "/updates",
+      "status": 200,
+      "bytes": 507659,
+      "sha256": "89f19a6aa0ef61e24e6dbf758f321d8d18be017ffec17e5d223d138c842ee80e"
+    },
+    {
+      "path": "/venues/fifty-west-wooster-pike",
+      "status": 200,
+      "bytes": 94334,
+      "sha256": "c82e904e281090d2c9b32ffdfc7e2c8d771be6eefc5dcb334a2fa980dc8ad369",
+      "allVenueNotesInRenderedHtml": true
+    },
+    {
+      "path": "/venues/fords-garage-norwood",
+      "status": 200,
+      "bytes": 89525,
+      "sha256": "b4c61ef39d0a8275b3ab981a6a2ecf8b0c15a9a3bbd2a7749b563aeb9e8fb36b",
+      "allVenueNotesInRenderedHtml": true
+    },
+    {
+      "path": "/venues/campbell-county-ymca",
+      "status": 200,
+      "bytes": 90838,
+      "sha256": "834c39378348d22640958f3c57afa4227e66427c5f3218461a16edabacedd51d",
+      "allVenueNotesInRenderedHtml": true
+    },
+    {
+      "path": "/venues/central-parkway-ymca",
+      "status": 200,
+      "bytes": 100097,
+      "sha256": "82327205db52c564c050b2663de49a5838f6e0705aadaea6099abd2904159c20",
+      "allVenueNotesInRenderedHtml": true,
+      "photoDateAndLicenceInHtml": true
+    },
+    {
+      "path": "/venues/mt-auburn-indoor-pool",
+      "status": 200,
+      "bytes": 96317,
+      "sha256": "392830f748f6fd2cb74611a993c0e93b4d564803895cdf1912871f2f72dddf99",
+      "allVenueNotesInRenderedHtml": true
+    },
+    {
+      "path": "/venues/cincinnati-recycling-reuse-hub",
+      "status": 200,
+      "bytes": 110664,
+      "sha256": "a1925c90acfa0895a3878e7328bc04f266f370f329ec191ac46ddcd91b630a94",
+      "allVenueNotesInRenderedHtml": true,
+      "mapLabelAndHistoricalGuide": true
+    },
+    {
+      "path": "/venues?q=Fifty+West+Burger+Bar+%E2%80%94+Wooster+Pike&category=Food+%26+drink&region=OH",
+      "status": 200,
+      "bytes": 45622,
+      "sha256": "dcb3086b140b347939ff4e6d6a92265ccd0e6e82918c988c63b625c59349b2f2",
+      "filteredResults": 1
+    },
+    {
+      "path": "/venues?q=Ford%E2%80%99s+Garage+%E2%80%94+Norwood&category=Food+%26+drink&region=OH",
+      "status": 200,
+      "bytes": 46120,
+      "sha256": "3e699ecd10d7ab4af391ffe39e6d5fbc0862cc88ae2fc1c5d37bc909af7bec56",
+      "filteredResults": 1
+    },
+    {
+      "path": "/venues?q=Campbell+County+YMCA&category=Recreation+%26+fitness&region=KY",
+      "status": 200,
+      "bytes": 46037,
+      "sha256": "a961ce359f38976d508d4217121fc4aa46b7cec12edebd42240d8b31746bf8c7",
+      "filteredResults": 1
+    },
+    {
+      "path": "/venues?q=Central+Parkway+YMCA&category=Recreation+%26+fitness&region=OH",
+      "status": 200,
+      "bytes": 46021,
+      "sha256": "08c6cf80fbd8a6da770485003f6774385be452d27c0ff4bc9a63cccd01e05911",
+      "filteredResults": 1
+    },
+    {
+      "path": "/images/access/central-parkway-ymca-street-approach-2019.webp",
+      "status": 200,
+      "bytes": 212592,
+      "sha256": "106bfa813f8c5f4622a7f521c5387de18b51ae8e6a1dfe0176db913025d9798a",
+      "matchesLocalAsset": true
+    }
+  ]
+}

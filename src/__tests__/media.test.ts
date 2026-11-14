@@ -32,6 +32,11 @@ describe("Public image provenance", () => {
     const mapHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "arco-arts-community" }));
     expect(mapHtml).toContain("Open map guide (web page, 3 maps)");
     expect(mapHtml).not.toContain("3 photos");
+    const pdfMapHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "cincinnati-recycling-reuse-hub" }));
+    const pdfMapDoc = new DOMParser().parseFromString(pdfMapHtml, "text/html");
+    const pdfMapLink = pdfMapDoc.querySelector('a[href="https://www.cincinnatirecyclingandreusehub.org/s/The-Hub-Drop-off-Floor-Plan-20251202.pdf"]');
+    expect(pdfMapLink?.textContent).toContain("Open map guide (PDF, 1 page, 319 kB)");
+    expect(pdfMapLink?.textContent).not.toContain("photo guide");
     const tourHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "little-miami-brewing-company" }));
     expect(tourHtml).toContain("Open virtual tour (web page, 2 inspected panoramas)");
   });

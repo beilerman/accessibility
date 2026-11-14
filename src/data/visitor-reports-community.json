@@ -1073,5 +1073,130 @@
     ],
     "summary": "A visitor describes a gated parking area and volunteers in green shirts helping first-timers understand the layout. They report an employee-operated freight elevator to the reuse level and say the Hub can be crowded during its limited opening hours.",
     "caveat": "The thread displays a relative age of three years; exact publication and visit dates were not established. No elevator dimensions, operating procedure or continuous step-free route were documented. Historical staffing, free-item descriptions and opening arrangements cannot establish today’s services, prices or membership rules. The current official notes remain separate. Forum photos are not reused."
+  },
+  {
+    "id": "fords-norwood-reddit-access-recommendation",
+    "placeSlug": "fords-garage-norwood",
+    "sourceTitle": "Accessible restaurants discussion — Ford’s Garage Norwood recommendation",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "mobility"
+    ],
+    "summary": "A commenter who identifies as a wheelchair user includes Ford’s Garage in Norwood among places they like in a discussion seeking restaurants for watching football.",
+    "caveat": "This is a recommendation, not a dated account of a particular visit or a route/toilet assessment. The page displays a relative age; exact publication and visit dates are unconfirmed. No lifting advice, chain-wide access claim or legal conclusion from the discussion is adopted. Current physical arrangements need confirmation."
+  },
+  {
+    "id": "campbell-ymca-reddit-indoor-court",
+    "placeSlug": "campbell-county-ymca",
+    "sourceTitle": "Indoor basketball courts in NKY — Campbell County YMCA suggestion",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1husaah/indoor_basketball_courts_in_nky/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "cognitive"
+    ],
+    "summary": "A local discussion names the Campbell County YMCA in Fort Thomas as having a full indoor basketball court and describes adult pickup sessions.",
+    "caveat": "The comment does not explicitly describe an actual visit or assess building access. Exact publication and visit dates are unconfirmed. Historical pickup times are omitted; check the official current schedule, admission rules and court availability. No entrance, toilet or adaptive-sport provision is established."
+  },
+  {
+    "id": "central-ymca-reddit-member-crowds-parking",
+    "placeSlug": "central-parkway-ymca",
+    "sourceTitle": "Central Parkway YMCA — long-term member’s crowd and parking experience",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1plbefo/central_parkway_ymca_thoughts_from_regulars/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "firsthand_review",
+    "domains": [
+      "sensory",
+      "chronic",
+      "mobility"
+    ],
+    "summary": "A self-described long-term member reports a spacious locker room with showers, quieter visits between 11 a.m. and 4 p.m., and more people from 5–7 p.m. while still completing workouts without waiting. They describe parking about two blocks away on Central Avenue or Charles Street.",
+    "caveat": "One member’s experience at an uncertain date, not a noise measurement or current crowd forecast. The page supplies relative dates; exact publication and visit dates are unconfirmed. Street parking is not a verified designated space or continuous accessible route, and spaciousness does not establish accessible toilets or showers. The thread’s separate roughly 2005 recollection is not treated as current."
+  },
+  {
+    "id": "mt-auburn-reddit-changing-and-lanes",
+    "placeSlug": "mt-auburn-indoor-pool",
+    "sourceTitle": "Indoor pools discussion — Mt. Auburn swimming and changing experience",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "firsthand_review",
+    "domains": [
+      "mobility",
+      "cognitive",
+      "chronic"
+    ],
+    "summary": "A swimmer comparing facilities reports that Mt. Auburn had no locker room but did have a shower in the bathroom. They also describe swimming without lane lines, confusing schedules and positive experiences with the lifeguards.",
+    "caveat": "This is an undated historical visitor account; exact publication and visit dates were not established from the relative age shown. Bathroom layout, shower access, assistance and current lane arrangements are unverified. The old price is omitted. Use the current dated official schedules; the report is not a facility audit."
+  },
+  {
+    "id": "central-ymca-reddit-lane-sharing-difficulty",
+    "placeSlug": "central-parkway-ymca",
+    "sourceTitle": "Indoor pools discussion — contrasting Elm Street YMCA lane experience",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "firsthand_review",
+    "domains": [
+      "sensory",
+      "chronic",
+      "cognitive"
+    ],
+    "summary": "A commenter describing the downtown YMCA on Elm Street praises the dressing room but reports difficulty sharing a swim lane and says they raised an encounter with another swimmer with management.",
+    "caveat": "Attributed visitor experience at an uncertain date; neither the incident nor management’s response was independently verified. The Elm Street location corresponds to Central Parkway’s official address. Retained alongside a separate member’s easier workout/crowding account; the posts concern different activities and unknown visit times, so neither predicts every visit. No present safety conclusion or private health detail is inferred."
+  },
+  {
+    "placeSlug": "fords-garage-norwood",
+    "author": null,
+    "checkedAt": "2026-11-14",
+    "kind": "reported_experience",
+    "domains": [
+      "mobility"
+    ],
+    "id": "fords-norwood-flickr-door-handles-2023",
+    "sourceTitle": "Ford’s Garage Norwood — dated door-hardware photograph",
+    "sourceUrl": "https://www.flickr.com/photos/10707024@N04/53596518378/",
+    "publisher": "Flickr · photographer’s public photo page",
+    "publishedAt": "2024-03-18",
+    "visitedAt": null,
+    "summary": "A photograph identified as Ford’s Garage in Norwood shows two gas-pump-shaped metal handles attached to glazed wooden doors. A narrow strip of the doorway’s base is visible, but the full approach is outside the frame.",
+    "caveat": "The photographer records capture on July 31, 2023 and upload on March 18, 2024; a separate visit date is not established. This historical close-up cannot establish present door force, operating method, width, threshold height or another entrance. All rights reserved: the photograph stays on its original page."
+  },
+  {
+    "placeSlug": "fords-garage-norwood",
+    "author": null,
+    "checkedAt": "2026-11-14",
+    "kind": "reported_experience",
+    "domains": [
+      "mobility"
+    ],
+    "id": "fords-norwood-tripadvisor-basin-photo-2025",
+    "sourceTitle": "Ford’s Garage Norwood — visitor restroom-basin photograph",
+    "sourceUrl": "https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g50787-d24006551-i788730022-Ford_s_Garage_Norwood-Norwood_Ohio.html",
+    "publisher": "Tripadvisor · public visitor photograph",
+    "publishedAt": null,
+    "visitedAt": null,
+    "summary": "The linked visitor photograph shows two wall-mounted, tire-framed washbasins, projecting metal taps and exposed plumbing below. No toilet, stall or full room approach is visible.",
+    "caveat": "The associated review gives February 2025 for publication and visit, but no exact day or independent capture date is confirmed. The image does not establish basin height, knee clearance, tap operation, toilet access or current conditions. No reuse licence was found; the image remains on Tripadvisor. The page’s separate front-of-restaurant truck photograph is not evidence of an accessible entrance."
   }
 ]

@@ -1,0 +1,358 @@
+[
+  {
+    "slug": "fifty-west-wooster-pike",
+    "name": "Fifty West Burger Bar — Wooster Pike",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "7605 Wooster Pike, Cincinnati, OH 45227",
+    "website": "https://www.fiftywestbrew.com/",
+    "source_url": "https://www.fiftywestbrew.com/locations",
+    "limitations": "Public website information; no on-site audit. This listing is the Wooster Pike Burger Bar, not the separate Brewpub or the Deerfield and Chillicothe locations. The shared FAQ refers to “both locations” for seating and parking even though the directory lists three; confirm those arrangements at Wooster Pike. Entrance thresholds, door controls, designated parking, continuous routes across the different outdoor surfaces, table clearance, toilets/changing, quiet spaces and help carrying orders are unverified. Text notification does not establish an alternative for visitors without a phone.",
+    "facts": [
+      [
+        "cognitive",
+        "Order food at the order window, then collect it from the pick-up window after a text message says it is ready. An alternative notification method and help carrying food are not described.",
+        "https://www.fiftywestbrew.com/locations",
+        "venue_official",
+        null,
+        "Guests can place an order at the order window and grab a seat! When your food is ready, you'll receive a text message and can pick it up at the pick-up window."
+      ],
+      [
+        "cognitive",
+        "Fifty West’s homepage describes self-service: food is ordered at a window and drinks at a walk-up bar, with no servers. This does not promise table delivery or carrying assistance.",
+        "https://www.fiftywestbrew.com/",
+        "venue_official",
+        null,
+        "No servers here. Order food at the window and drinks at the walk-up bar, and we'll text you when it's ready."
+      ],
+      [
+        "cognitive",
+        "The shared FAQ says ordinary dining reservations are not taken and seating is first come, first served. Party cabanas can be reserved for a fee in two-hour blocks; this does not establish a particular cabana’s route or seating layout.",
+        "https://www.fiftywestbrew.com/locations",
+        "venue_official",
+        null,
+        "We don't take traditional dining reservations, and seating is first come, first served. Looking to guarantee a space for your group? Party cabanas are available to reserve in 2-hour increments for a small fee."
+      ],
+      [
+        "cognitive",
+        "Wooster Pike lists Monday–Saturday 11 a.m.–11 p.m. and Sunday 11 a.m.–9 p.m.; the kitchen closes one hour earlier and holiday hours may differ. The local phone is 513-834-8789, extension 1.",
+        "https://www.fiftywestbrew.com/locations",
+        "venue_official",
+        null,
+        [
+          "Wooster Pike 7605 Wooster Pike, Cincinnati, OH 45227",
+          "Mon 11am–11pm Tue 11am–11pm Wed 11am–11pm Thu 11am–11pm Fri 11am–11pm Sat 11am–11pm Sun 11am–9pm",
+          "Kitchen closes one hour before close. Hours may vary on holidays.",
+          "513-834-8789 · Ext 1"
+        ]
+      ],
+      [
+        "chronic",
+        "The shared FAQ describes mostly outdoor seating, indoor seats, covered patios and cold-weather heaters/seasonal amenities. It says “both locations” although the directory lists three; confirm which indoor and covered areas are available at Wooster Pike.",
+        "https://www.fiftywestbrew.com/locations",
+        "venue_official",
+        null,
+        [
+          "While most of our seating is outdoors, both locations offer indoor seating as well as covered patio spaces.",
+          "During colder months, you'll also find heaters and seasonal amenities to help keep everyone comfortable."
+        ]
+      ],
+      [
+        "mobility",
+        "The shared FAQ says “both locations” have on-site parking and that lots can fill during peak times and special events. Because the directory lists three locations, confirm Wooster Pike’s current parking and entrance route; designated spaces and distances are not specified.",
+        "https://www.fiftywestbrew.com/locations",
+        "venue_official",
+        null,
+        "Both locations offer on-site parking. Lots can fill up during peak times and special events, so arriving a little early is never a bad idea."
+      ]
+    ]
+  },
+  {
+    "slug": "fords-garage-norwood",
+    "name": "Ford’s Garage — Norwood",
+    "city": "Norwood",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "2692 Madison Road, Suite 115, Norwood, OH 45208",
+    "website": "https://fordsgarageusa.com/locations/norwood/",
+    "source_url": "https://fordsgarageusa.com/locations/norwood/",
+    "limitations": "Public website information; no on-site audit. Current official location and service information is separate from the community recommendation. The chain’s accessibility statement concerns its website, not the building. Entrance route, thresholds, door controls, parking, table/companion arrangements, toilets, changing facilities, quiet spaces and assistance remain unverified. The shared patio policy does not confirm that Norwood permits pet dogs. No-live-music wording does not establish low sound levels.",
+    "facts": [
+      [
+        "cognitive",
+        "The Norwood page links a reservation service and lists 513-643-3673 for the restaurant. Confirm any seating or companion arrangement directly; a reservation link does not establish the requested table layout.",
+        "https://fordsgarageusa.com/locations/norwood/",
+        "venue_official",
+        null,
+        [
+          "make a reservation",
+          "513-643-3673"
+        ]
+      ],
+      [
+        "cognitive",
+        "The Norwood page offers a Carryout or Delivery ordering link. It does not describe the collection point, a vehicle handoff or help carrying an order.",
+        "https://fordsgarageusa.com/locations/norwood/",
+        "venue_official",
+        null,
+        "Carryout or Delivery"
+      ],
+      [
+        "cognitive",
+        "Published Norwood hours are Monday–Thursday 11 a.m.–10 p.m., Friday–Saturday 11 a.m.–11 p.m. and Sunday 11 a.m.–9 p.m. Confirm holiday changes before travelling.",
+        "https://fordsgarageusa.com/locations/norwood/",
+        "venue_official",
+        null,
+        [
+          "Monday - Thursday 11AM - 10PM",
+          "Friday - Saturday 11AM - 11PM",
+          "Sunday 11AM – 9PM"
+        ]
+      ],
+      [
+        "sensory",
+        "The chain FAQ says its restaurants do not currently feature live music. This is not a promise of quiet: television, recorded music and crowd sound levels are not specified.",
+        "https://fordsgarageusa.com/our-story/",
+        "venue_official",
+        null,
+        "We do not currently feature live music at any of our Ford’s Garage locations."
+      ],
+      [
+        "chronic",
+        "The chain FAQ links nutrition and allergen information and asks visitors to tell their server about allergen or nutritional needs before ordering. It does not guarantee an allergen-free meal.",
+        "https://fordsgarageusa.com/our-story/",
+        "venue_official",
+        null,
+        [
+          "We have provided the nutrition information HERE and allergen guide HERE",
+          "Please inform your server of any allergen or nutritional needs before ordering."
+        ]
+      ],
+      [
+        "sensory",
+        "In its patio FAQ, Ford’s Garage says service animals are allowed; pet-friendly patios are limited to selected locations. Contact the restaurant about Norwood’s patio arrangements.",
+        "https://fordsgarageusa.com/our-story/",
+        "venue_official",
+        null,
+        [
+          "Can you have dogs on the patio?",
+          "Service animals are allowed. Select LOCATIONS have dog-friendly patios. Please contact the restaurant directly for more information."
+        ]
+      ],
+      [
+        "cognitive",
+        "For problems using the website or assistive technology on it, the chain lists 813-761-3752 and accessibility@fordsgarageusa.com, aiming to respond within five business days. This is a digital-access contact, not a promise of an in-person accommodation.",
+        "https://fordsgarageusa.com/accessibility/",
+        "venue_official",
+        null,
+        [
+          "If you notice aspects of our site that aren’t working for you or your assistive technology, please let us know.",
+          "Call us at: (813) 761-3752",
+          "Email us: accessibility@fordsgarageusa.com",
+          "We aim to respond to feedback within 5 business days."
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "campbell-county-ymca",
+    "name": "Campbell County YMCA",
+    "city": "Fort Thomas",
+    "state": "KY",
+    "category": "Recreation & fitness",
+    "address": "1437 S. Ft. Thomas Avenue, Fort Thomas, KY 41075",
+    "website": "https://myy.org/location/campbell-county-ymca/",
+    "source_url": "https://myy.org/location/campbell-county-ymca/",
+    "limitations": "Public website information; no on-site audit. Branch-specific location and reservation information is paired with explicitly association-wide member/guest policies. Entrance, designated parking, door controls, elevators, pool-entry lift/ramp, transfer assistance, toilet/changing layouts, adult changing equipment and quiet spaces are not verified. The indoor-pool photograph does not establish pool-entry equipment or current operation. Outdoor-pool hours on the branch page have no season dates; they are not confirmation of November opening. The holiday page’s New Year’s Day year/weekday do not agree, so no January 2027 hours are inferred.",
+    "facts": [
+      [
+        "cognitive",
+        "Building hours are Monday–Friday 6 a.m.–9 p.m., Saturday 7 a.m.–6 p.m. and Sunday noon–6 p.m. The branch phone is 859-781-1814. These are building hours, not a guarantee that the pool or a particular activity is open throughout.",
+        "https://myy.org/location/campbell-county-ymca/",
+        "venue_official",
+        null,
+        [
+          "Building Hours Monday - Friday 6 a.m. - 9 p.m. Saturday 7 a.m. - 6 p.m. Sunday Noon - 6 p.m.",
+          "(859) 781-1814"
+        ]
+      ],
+      [
+        "cognitive",
+        "The Campbell County pool-schedule page says reservations open 48 hours before class time and can be made through the MyY app or a member-account login. Check the schedule for the specific swim session.",
+        "https://myy.org/schedule/campbell-county-ymca/pool-schedule/",
+        "venue_official",
+        null,
+        "Reservations open 48 hours before class time and can be made on the MyY App or by logging in to your member account ."
+      ],
+      [
+        "cognitive",
+        "The YMCA of Greater Cincinnati says visiting Nationwide Members should identify themselves at the Welcome Desk for barcode check-in. They cannot reserve classes or lap swim, but may try to attend a class that is not full. Confirm pool availability directly.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "For participating YMCAs, let our Welcome Desk know you are scanning in as a Nationwide Member and we will switch the check-in for your barcode to check that you are up-to-date.",
+          "Nationwide Members are welcome to use our facilities. Class or lap swim reservations are not available but you are welcome to try to attend if a class isn't full."
+        ]
+      ],
+      [
+        "cognitive",
+        "Under the shared guest policy, all guests must be registered in Daxko and complete a waiver before entry. Guests aged 16 or older need photo ID on their first visit; individual guests may visit at most three times per calendar year.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "All guests must be entered in Daxko and waiver complete prior to entry.",
+          "All guests 16 years of age and older must present a photo ID upon their first visit. Individual guests are welcome to visit the YMCA of Greater Cincinnati a maximum of 3 times per calendar year."
+        ]
+      ],
+      [
+        "cognitive",
+        "The shared FAQ allows members aged 18 or older to bring guests. Guests using a six-punch guest pass must stay with an active YMCA member at all times. It says day passes are not sold and guests must be accompanied by a member or have a complimentary guest pass; ask the branch which guest arrangement applies.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "Members 18 years of age and older may bring in guests.",
+          "Guests using a “6-punch guest pass” must be accompanied at ALL times by an active YMCA Member.",
+          "Can I purchase a day pass? No. All guests must be accompanied by a member or have a complimentary guest pass."
+        ]
+      ],
+      [
+        "chronic",
+        "The shared FAQ provides day-use lockers for members and guests at every YMCA of Greater Cincinnati location. Bring your own lock and remove it after each visit; overnight storage requires a rented locker, whose availability must be checked with the branch. Locker reach and changing-room layouts are not specified.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "Lockers are provided for your convenience at all YMCA of Greater Cincinnati locations. Lockers are for day use by members and guests.",
+          "It is important to secure your personal belongings by bringing your own lock and removing it at the end of each visit. Items cannot be left overnight unless you have rented the locker. Check with your local YMCA branch to see if locker rentals are available."
+        ]
+      ],
+      [
+        "cognitive",
+        "The association’s 2026 holiday page says all YMCA locations close for Thanksgiving, November 26, and Christmas Day, December 25. Confirm other holiday hours with the branch.",
+        "https://myy.org/holiday-hours/",
+        "venue_official",
+        null,
+        [
+          "THANKSGIVING November 26, 2026. All YMCA locations CLOSED",
+          "CHRISTMAS DAY Friday, December 25, 2026 All YMCA locations closed"
+        ]
+      ],
+      [
+        "cognitive",
+        "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "First, you can visit your local Y and any of our member service staff will be happy to help you get started.",
+          "Or, you can call your local Y to schedule an appointment with a member engagement specialist who will walk you through the joining process.",
+          "You can also join online and receive your membership card when you first use the branch."
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "central-parkway-ymca",
+    "name": "Central Parkway YMCA",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "1105 Elm Street, Cincinnati, OH 45202",
+    "website": "https://myy.org/location/central-parkway-ymca/",
+    "source_url": "https://myy.org/location/central-parkway-ymca/",
+    "limitations": "Public website information; no on-site audit. Branch information and association-wide guest policies are distinguished. Current parking, entrance/door controls, elevator routes between levels, toilet/changing layouts, pool lift operation, transfer assistance and quiet spaces are not verified. A historical photo cannot establish today’s route or equipment. Confirm current pool operation and the session schedule before travelling. The association holiday page has an inconsistent New Year’s Day year/weekday; no January 2027 hours are inferred.",
+    "facts": [
+      [
+        "cognitive",
+        "Building hours are Monday–Thursday 5:30 a.m.–9 p.m., Friday 5:30 a.m.–8 p.m., Saturday 7 a.m.–6 p.m. and Sunday 10 a.m.–6 p.m. Call 513-362-9622 for the branch; these hours do not establish the availability of every facility.",
+        "https://myy.org/location/central-parkway-ymca/",
+        "venue_official",
+        null,
+        [
+          "Monday - Thursday 5:30 a.m. - 9 p.m. Friday 5:30 a.m. - 8 p.m. Saturday 7 a.m. - 6 p.m. Sunday 10 a.m. - 6 p.m.",
+          "(513) 362-9622"
+        ]
+      ],
+      [
+        "cognitive",
+        "The branch page offers reservations for a class, lap lane or open-swim slot, opening 48 hours before the desired time. The shared Nationwide Member policy has a separate restriction; a posted timetable alone does not reserve a place.",
+        "https://myy.org/location/central-parkway-ymca/",
+        "venue_official",
+        null,
+        "Reserve a class, lap lane, or open swim slot to guarantee your space. Reservations open 48 hours before desired time."
+      ],
+      [
+        "cognitive",
+        "The YMCA of Greater Cincinnati says visiting Nationwide Members should identify themselves at the Welcome Desk for barcode check-in. They cannot reserve classes or lap swim, but may try to attend a class that is not full. Confirm pool availability directly.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "For participating YMCAs, let our Welcome Desk know you are scanning in as a Nationwide Member and we will switch the check-in for your barcode to check that you are up-to-date.",
+          "Nationwide Members are welcome to use our facilities. Class or lap swim reservations are not available but you are welcome to try to attend if a class isn't full."
+        ]
+      ],
+      [
+        "cognitive",
+        "Under the shared guest policy, all guests must be registered in Daxko and complete a waiver before entry. Guests aged 16 or older need photo ID on their first visit; individual guests may visit at most three times per calendar year.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "All guests must be entered in Daxko and waiver complete prior to entry.",
+          "All guests 16 years of age and older must present a photo ID upon their first visit. Individual guests are welcome to visit the YMCA of Greater Cincinnati a maximum of 3 times per calendar year."
+        ]
+      ],
+      [
+        "cognitive",
+        "The shared FAQ allows members aged 18 or older to bring guests. Guests using a six-punch guest pass must stay with an active YMCA member at all times. It says day passes are not sold and guests must be accompanied by a member or have a complimentary guest pass; ask the branch which guest arrangement applies.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "Members 18 years of age and older may bring in guests.",
+          "Guests using a “6-punch guest pass” must be accompanied at ALL times by an active YMCA Member.",
+          "Can I purchase a day pass? No. All guests must be accompanied by a member or have a complimentary guest pass."
+        ]
+      ],
+      [
+        "chronic",
+        "The shared FAQ provides day-use lockers for members and guests at every YMCA of Greater Cincinnati location. Bring your own lock and remove it after each visit; overnight storage requires a rented locker, whose availability must be checked with the branch. Locker reach and changing-room layouts are not specified.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "Lockers are provided for your convenience at all YMCA of Greater Cincinnati locations. Lockers are for day use by members and guests.",
+          "It is important to secure your personal belongings by bringing your own lock and removing it at the end of each visit. Items cannot be left overnight unless you have rented the locker. Check with your local YMCA branch to see if locker rentals are available."
+        ]
+      ],
+      [
+        "cognitive",
+        "The association’s 2026 holiday page says all YMCA locations close for Thanksgiving, November 26, and Christmas Day, December 25. Confirm other holiday hours with the branch.",
+        "https://myy.org/holiday-hours/",
+        "venue_official",
+        null,
+        [
+          "THANKSGIVING November 26, 2026. All YMCA locations CLOSED",
+          "CHRISTMAS DAY Friday, December 25, 2026 All YMCA locations closed"
+        ]
+      ],
+      [
+        "cognitive",
+        "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
+        "https://myy.org/join/membership-faqs/",
+        "venue_official",
+        null,
+        [
+          "First, you can visit your local Y and any of our member service staff will be happy to help you get started.",
+          "Or, you can call your local Y to schedule an appointment with a member engagement specialist who will walk you through the joining process.",
+          "You can also join online and receive your membership card when you first use the branch."
+        ]
+      ]
+    ]
+  }
+]

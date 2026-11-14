@@ -1,0 +1,164 @@
+{
+  "checked_at": "2026-11-14",
+  "prepared_at_utc": "2026-11-14T08:27:14.735650+00:00",
+  "base": "5b66d4a4ee056e14842c00d6d6929cd7948bc503",
+  "publish_ready": true,
+  "status": "ready_for_runner_validation",
+  "publication": "Reviewed local batch; runner must pass its full suite and visual browser checks before atomic pushes. No agent Git writes, deployment, preview or live verification.",
+  "start_state": {
+    "pending_edits": 0,
+    "conflict_markers": 0,
+    "prior_validation_failure": "No unresolved failure in prepared base; previous summary reviewed."
+  },
+  "progress": {
+    "new_venues": [
+      {
+        "slug": "campbell-county-ymca",
+        "notes": 8
+      },
+      {
+        "slug": "central-parkway-ymca",
+        "notes": 8
+      },
+      {
+        "slug": "fifty-west-wooster-pike",
+        "notes": 9
+      },
+      {
+        "slug": "fords-garage-norwood",
+        "notes": 7
+      }
+    ],
+    "new_note_ids": 39,
+    "new_venue_notes": 32,
+    "existing_venue_new_notes": 7,
+    "old_notes_reviewed": 13,
+    "full_rechecks": [
+      {
+        "slug": "mt-auburn-indoor-pool",
+        "before": "2026-11-12",
+        "after": "2026-11-14",
+        "oldNotes": 6
+      },
+      {
+        "slug": "cincinnati-recycling-reuse-hub",
+        "before": "2026-11-12",
+        "after": "2026-11-14",
+        "oldNotes": 7
+      }
+    ],
+    "partial_reviews": [],
+    "weekly_unique_progress": "Two repeat venues; weekly minimum previously met, no new unique-week total claimed.",
+    "old_note_semantic_revisions": 1,
+    "new_listing_condition_refinements": 2,
+    "source_url_corrections": 0,
+    "previously_absent_quote_repairs": 0,
+    "existing_evidence_records_refined": 5,
+    "licensed_photos": 1,
+    "linked_guides": 6,
+    "community_reports": 7,
+    "stills_graphics_inspected": 31,
+    "pdf_pages_inspected": 21,
+    "sampled_video_frames_inspected": 20
+  },
+  "checks": {
+    "final_evidence_passed": 56,
+    "unit_tests_passed": 118,
+    "pipeline_tests_passed": 79,
+    "lint": "passed",
+    "types": "passed",
+    "build": "passed",
+    "build_warning": "Atkinson Hyperlegible Next fallback font override could not be generated.",
+    "selected_source_baselines": 18,
+    "new_source_baselines": 13,
+    "unselected_baselines_preserved": 574,
+    "guide_links_200": 6,
+    "http_200_checks": 15,
+    "image_bytes_match": true,
+    "browser_tests_discovered": 182,
+    "browser_tests_passed": 0,
+    "browser_attempt": "One new-route test attempted; browser failed at launch, before navigation.",
+    "browser_blocker": "Chromium MachPortRendezvousServer permission denied (1100).",
+    "cua_fallback": "The browser access host is unavailable.",
+    "browser_and_visual_layout_gate": "Runner required; HTTP/HTML checks and original/final image inspection are separate evidence.",
+    "diff_check": "passed",
+    "all_old_ids_history_and_prior_media_preserved": true,
+    "unrelated_place_records_preserved": 188
+  },
+  "resolved_local_failures": [
+    "Two initial whitespace passage matches corrected without bypassing gate.",
+    "Seasonal initial three checks failed: outdated web-search dates/maintenance and punctuation; live official fetch used, then all three passed before helper import.",
+    "Initial pipeline baseline-coverage failure resolved by baselining new sources.",
+    "Scratch HTTP checker corrected nonexistent /photos path to /access-in-pictures and long-month expectation to actual machine-readable date; final 15 checks pass."
+  ],
+  "held": [
+    "20 legacy missing quote records unchanged.",
+    "YMCA January year/weekday mismatch; Campbell outdoor-pool season unstated.",
+    "Current Central pool operation and poolside apparatus identity/operation unconfirmed.",
+    "Fifty West shared FAQ scope and discussion branch ambiguous.",
+    "Hub yearless closures, unverified unloading/transfer and public toilet access.",
+    "Historical media and visitor reports do not establish current routes, facilities or conditions.",
+    "Alexandria current operating location unresolved between two readable official pages; preflight only."
+  ],
+  "totals": {
+    "venues": 194,
+    "activeNotes": 2018,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1998,
+    "missingQuoteRecords": 20,
+    "licensedPhotos": 88,
+    "guides": 121,
+    "communityReports": 68
+  },
+  "community_queue": {
+    "names": 74,
+    "statusCounts": {
+      "lead_only": 35,
+      "added": 29,
+      "held_contact_conflict": 1,
+      "held_unextractable_official_site": 2,
+      "held_source_blocked": 2,
+      "held": 5
+    }
+  },
+  "next_batch": "Norwood Recreation Center, resolve Alexandria facility identity, TriHealth Pavilion, or Powel Crosley YMCA; pair with full Covington/Newport library review and entrance/toilet/changing photo follow-through.",
+  "reviewed_file_sha256": {
+    "docs/HANDOFF-2026-11-10.md": "fd062fc40246de3a7124ada44aab21089dd097b483931536d026a4404c276dc0",
+    "docs/research/community-venue-discovery-2026-11-13.json": "114788bb4c762c1308475ff8485c3777b0eb1d0c9e8a14053f8ba22e8d05cc99",
+    "docs/research/coverage-queue.md": "7a70dbb756ebcefb13734ab708cec3dd2dce888a8f93a9ea5aa3552eb93d87de",
+    "e2e/accessibility.spec.ts": "ec7b507e22ed7200e75b068848fd8143ea1c4acd7a435c0a23f1d058fbf16d14",
+    "pipeline/evidence/quotes.json": "af47760c3a66ae927bad0b6757fadf2127669686989ec954713a715fa0d4796d",
+    "pipeline/source-checks/2026-11-14.json": "0b5aca8cc7ed9aeffc2b56d1f8b86117de4ad051946ed4288210bc0e548887d9",
+    "src/__tests__/media.test.ts": "8c1a6b836aeddf728b0dab031dc0d60954022bf75a84146b566555867b023f45",
+    "src/__tests__/venue-expansion.test.ts": "38876c94a1bfc011252296725e7b2f17d5bb577d574b2c3b49ec0b337b9a658d",
+    "src/components/catalog/AccessMedia.tsx": "9929b80badae99bf39c8e840647165150995a2046f0a266aaaf5c63ffe51e113",
+    "src/data/access-guides.json": "cb8d00d57259a856205275906ca4b18ac2ef920e55645a09acf4967e55959172",
+    "src/data/access-photos.json": "72d8779bd0434d262ec014202eede04d39019fcb721425cc4aa08cabf4c49bde",
+    "src/data/places.json": "a1a14056ec0accf957e58f49e1a82d0b70afaec51d09fdd0aca4ff501f609701",
+    "src/data/visitor-reports-community.json": "98bce2066a13f3b92c97f599a8272bd554a85521c8ec7eec6e48f52c4f434918",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-add.json": "7c911ae84966b49d16fb5cb66d68e3515129ebff55bbaaa409aecf3c4a4967ff",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-catalog-audit.json": "db905a791238ecee40fb065491830ff120b5fc34f056b5f9a349d5d05ed61b8b",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-community-review.json": "670886abf1e388e7704abd811dfd1c35852cfb9b510dd2e90bd7e52df2148576",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-depth.json": "c7020a3ad9dd1a6adf104a825c061635e3c923b1bf80c0c41d6c9e8154d2b3f7",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-evidence.json": "b5b6c7503e2a22c8a0c4d957adcba5f7918caf48296c3b4fc93fb23cd288c907",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-evidence.verified.json": "3b541b7c3760db3d2ded48e0199393c5c7541937bcb2d6ee67db45d617680b9c",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-final-evidence.json": "301c278ed54d00d2d26d40d7917645071a31e56c30f3f6da27df24ce00581bb5",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-final-evidence.verified.json": "dd05b70dfe5ab5dec5affe8267f6408e8e3430d53f0ff82b6e3e11de8eeec5e7",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-guide-links.json": "c67d5d66956590914fbd2c6efa6cadf7d54914fc8532bb4403058fb3048c0026",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-http-checks.json": "48451c9ab9cac854baaf6c75783d7246a4af49a22ebcd76001d0c6f985d4d630",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-initial-evidence.verified.json": "9ff10df61d5a74de01c7cbc5fccfbf468ce61f0360396bcc863143dd38987a54",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-media-review.json": "187da9e3fd653eb931cd4951e602db73c55fa628921458cf3a69c17d31395ad8",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-new-listing-refinements.json": "0b8aa2eb7bef6b421fd6b02bc4b019e528cf35939e542856ca3cbf46ce86d82b",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-next-leads.json": "1ddeb8503c5248fdac901fe6acc739e02f04d3bd561190d5c14b0f4139b0e0b4",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-recheck.json": "6dee244cacddcf023149af4c47e085749a1c40e04c10f1edfd9f206edf095587",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-revisions.json": "7a2abad65e7cb9b1b61af0b7af089526554462c9258c620bf2cf7ff4413ab88f",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-seasonal-depth.json": "78610f69498fff4fda9038d875eafc231c950504dcd4e06c6315e87c32837042",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-seasonal-evidence.json": "f14bdf0b6bc88ff3bce495dd2a2dfed5fa65547d92bd777be09d85e064687e29",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-seasonal-evidence.verified.json": "84c001f6d58ccecce07350b6445e2ec7ed264269c66cdd8b78b4f4145fbf17c6",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-seasonal-initial-evidence.json": "21dfd72e9b65d76696597f7e9b630efe8296f9e4f640721c325c872ce6e6ec8d",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-seasonal-initial-evidence.verified.json": "3cf4734adb5b53e4f34efddaed09dc767ddd51412454e1cb1590968673f3d66e",
+    "docs/research/dining-ymca-hub-pools-2026-11-14-source-urls.txt": "b582893e4a651b2c403c29683cee606d5207fac661f31ed32b1b35d91d994bbe",
+    "docs/research/dining-ymca-hub-pools-2026-11-14.md": "5ca3c2ec1ad9f27efb95d2b6c1f526b643cc45403d89f15ac5b8d1f320b264b5",
+    "public/images/access/central-parkway-ymca-street-approach-2019.webp": "106bfa813f8c5f4622a7f521c5387de18b51ae8e6a1dfe0176db913025d9798a"
+  }
+}

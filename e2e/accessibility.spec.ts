@@ -5,6 +5,10 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/fifty-west-wooster-pike",
+  "/venues/fords-garage-norwood",
+  "/venues/campbell-county-ymca",
+  "/venues/central-parkway-ymca",
   "/venues/ohio-valley-antique-mall",
   "/venues/handzy-shop-studio-covington",
   "/venues/kentucky-driver-licensing-burlington",
