@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13",
+  "checkedAt": "2026-11-14",
   "scope": "Public discussion research only; no posting, private group access or external messages.",
   "discussionsRead": [
     "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
@@ -16,7 +16,17 @@
     "https://www.reddit.com/r/cincinnati/comments/1n23gsr/artsy_shop_cafe_recs_in_cincinnati/",
     "https://www.reddit.com/r/cincinnati/comments/1w855w9/little_libraries/",
     "https://www.reddit.com/r/cincinnati/comments/x7foo3/seeking_recommendations_for_nonchain/",
-    "https://www.reddit.com/r/Kentucky/comments/z58c4k/please_share_some_of_your_favorite_kentucky/"
+    "https://www.reddit.com/r/Kentucky/comments/z58c4k/please_share_some_of_your_favorite_kentucky/",
+    "https://www.reddit.com/r/Kentucky/comments/1keeoe2/are_there_any_plans_for_ky_to_expand_their_dmvs/",
+    "https://www.reddit.com/r/cincinnati/comments/1mcdd93/it_is_too_hot_anyplace_i_can_walk_my_dog_with_ac/",
+    "https://www.reddit.com/r/cincinnati/comments/1ncog7n/east_side_classic_name_this_spot_who_shops_here/",
+    "https://www.reddit.com/r/cincinnati/comments/1vs6odh/looking_for_good_value_used_household_items/",
+    "https://www.reddit.com/r/Kentucky/comments/1k4cdjm/ky_permit_website/",
+    "https://www.reddit.com/r/cincinnati/comments/1gor23o/where_do_yall_grocery_shop/",
+    "https://www.reddit.com/r/cincinnati/comments/1j7j2mu/advice_on_most_accessible_way_to_visit_findlay/",
+    "https://www.tripadvisor.ca/FAQ_Answers-g60993-d281513-t8743164-Is_this_accessible_for_someone_in_mobility.html",
+    "https://www.tripadvisor.ca/FAQ_Answers-g50322-d5994686-t1772541-Do_they_have_motorized_carts_for_elderly_or.html",
+    "https://www.reddit.com/r/cincinnati/comments/14ua7zd/if_youre_passionate_about_recycling_reducing/"
   ],
   "candidates": [
     {
@@ -73,7 +83,7 @@
       "underlyingDiscussionRead": true,
       "status": "lead_only",
       "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "nextStep": "Current official location page read at https://fordsgarageusa.com/locations/norwood/:2692 Madison Road Suite115, reservation and carryout/delivery links. Still needs exact access/assistance procedures and location-specific imagery; do not promote aggregator wheelchair tags."
     },
     {
       "name": "Streetside Brewing",
@@ -89,7 +99,7 @@
       "underlyingDiscussionRead": true,
       "status": "lead_only",
       "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "nextStep": "Current official www.fiftywestbrew.com homepage read: distinguish Wooster Pike7605 from Deerfield and Chillicothe, and Burger Bar from Brewpub. It describes window ordering/text pickup, first-come seating and indoor/covered options. Read location/FAQ details, fresh-gate every claim and inspect site-specific route/toilet photos before import; do not infer carrying help or use aggregator access tags."
     },
     {
       "name": "Little Miami Brewing — Milford",
@@ -421,7 +431,7 @@
       "underlyingDiscussionRead": true,
       "status": "held",
       "slug": null,
-      "nextStep": "Current official location fetch succeeds but supplies no precise access or collection procedure beyond an undated store listing. Original winter storefront photograph was inspected again; no reusable licence or capture date established. Current entrance/route/aisle/toilet and pickup assistance evidence is still needed. Community signage report remains a lead, not a measured assessment."
+      "nextStep": "Official Evendale address/hours fetched 200; winter entrance photograph undated and unlicensed. Seek current collection/access procedure and entrance-to-aisle images before import."
     },
     {
       "name": "Meijer — Cold Spring",
@@ -493,7 +503,7 @@
       "underlyingDiscussionRead": true,
       "status": "held",
       "slug": null,
-      "nextStep": "The public discussion does not specify Vine Street versus Beechmont. Official branch/contact pages provide addresses but no precise access or collection support; do not assign the recommendation or third-party curbside claims to a branch. Investigate current entrance, checkout, assistance and order workflow."
+      "nextStep": "Both current official branch pages read. Shared gallery branch attribution unresolved; preorder and products do not establish curbside collection or physical access. Read Vine/Hartwell and Beechmont community threads separately; avoid merging their layouts."
     },
     {
       "name": "Deer Park IGA / Dillonvale IGA — identity unresolved",
@@ -515,13 +525,61 @@
       "name": "Handzy Shop + Studio — Covington",
       "discussionUrl": "https://www.reddit.com/r/Kentucky/comments/z58c4k/please_share_some_of_your_favorite_kentucky/",
       "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "handzy-shop-studio-covington",
+      "nextStep": "Current West 6th address, holiday hours, local pickup and workshop limit added. Older tourism Pike address superseded. Physical entrance, toilets, fitting room, pickup point and workshop clearance remain unknown."
+    },
+    {
+      "name": "Kentucky Driver Licensing Regional Office — Burlington",
+      "discussionUrl": "https://www.reddit.com/r/Kentucky/comments/1keeoe2/are_there_any_plans_for_ky_to_expand_their_dmvs/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "kentucky-driver-licensing-burlington",
+      "nextStep": "Ten official notes include KYTC check-in and separate KSP testing supports. Historical quick and long wait accounts retained separately. Seek exact entrances, Suite 200 route, seating, toilets and branch photos."
+    },
+    {
+      "name": "Kentucky Driver Licensing Regional Office — Independence",
+      "discussionUrl": "https://www.reddit.com/r/Kentucky/comments/1keeoe2/are_there_any_plans_for_ky_to_expand_their_dmvs/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "kentucky-driver-licensing-independence",
+      "nextStep": "Official regional directory follow-through, not a community accessibility certification. Ten notes; branch physical route, toilets and photos unknown."
+    },
+    {
+      "name": "Ohio Valley Antique Mall — Fairfield",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1mcdd93/it_is_too_hot_anyplace_i_can_walk_my_dog_with_ac/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "ohio-valley-antique-mall",
+      "nextStep": "Seven official notes; historical motorized-cart sighting separate from current generic wheelchair offer. Christmas Eve 9/10 a.m. opening conflict. Seek equipment procedures, current entrance, lounge and toilets."
+    },
+    {
+      "name": "Kremer’s Market — Crescent Springs",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1ncog7n/east_side_classic_name_this_spot_who_shops_here/",
+      "underlyingDiscussionRead": true,
+      "status": "held",
+      "slug": null,
+      "nextStep": "Official homepage/contact/menu helpers 403; do not bypass despite browser-style fetch 200. Correct community Erlanger shorthand to actual Crescent Springs only with passing location evidence. Two official entrance views inspected; Matterport walkthrough still unreviewed."
+    },
+    {
+      "name": "Gramer’s Market — Erlanger lead",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1ncog7n/east_side_classic_name_this_spot_who_shops_here/",
+      "underlyingDiscussionRead": true,
       "status": "lead_only",
       "slug": null,
-      "nextStep": "Read public Kentucky shop recommendation; it is not a dated access visit. Fresh official location page identifies 421 West 6th Street with separate shop/coffee hours and event exceptions. Search-indexed product text mentions Covington pickup, but the current helper fetch returns 429: pickup is unresolved, not fresh-verified or curbside evidence. Investigate current entrance, fitting rooms, seating/toilets and collection help before listing."
+      "nextStep": "Comment names venue; current official operation/location and access services not established. Keep distinct from Kremer’s."
+    },
+    {
+      "name": "Re-Run Shop — Maple Knoll/Springdale",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1vs6odh/looking_for_good_value_used_household_items/",
+      "underlyingDiscussionRead": true,
+      "status": "held",
+      "slug": null,
+      "nextStep": "A visitor/donor describes Saturday shopping, but current official public hours, entrance and collection procedures remain unsupported. A 2022 Maple Knoll article only confirms historical volunteering; do not promote commenter hours as current official."
     }
   ],
-  "addedVenues": 17,
-  "remainingVenueLeads": 39,
+  "addedVenues": 25,
+  "remainingVenueLeads": 43,
   "uncertainty": "Recommendations are not measured access assessments. Comment dates and visit dates remain null unless independently established. Preserve source identity, separate actual outing accounts from conjecture and keep community reports separate from official facts.",
   "otherSources": [
     {
@@ -548,6 +606,11 @@
       "url": "https://www.cincinnatimagazine.com/article/major-minor-books/",
       "status": "read_firsthand_reporting",
       "nextStep": "Separate dated report added, exact visit date unknown. No article photographs republished."
+    },
+    {
+      "url": "https://www.reddit.com/r/cincinnati/comments/14ua7zd/if_youre_passionate_about_recycling_reducing/",
+      "status": "underlying_discussion_read",
+      "nextStep": "Historical visitor account added separately. Follow its linked virtual-tour lead during next full Hub review; current operation, controls and routes require fresh official evidence."
     }
   ],
   "holds": [
@@ -585,6 +648,11 @@
       "url": "https://biketrailbooks.com/",
       "status": 200,
       "reason": "Official page yields zero readable text; no source_checked facts saved."
+    },
+    {
+      "url": "https://kremersmarket.com/",
+      "status": 403,
+      "reason": "November 14 helper gate remains blocked; different-user-agent HTML and storefront images do not bypass it. No source_checked note imported."
     }
   ],
   "searchScope": [
@@ -597,15 +665,17 @@
     "Public December 2024 r/cincinnati reading-place discussion",
     "Visit Cincy / meetNKY first-person Olla visit, published June 25, 2021",
     "November 13 parks/post/truist pass: r/cincinnati, r/covington, Northern Kentucky, Tripadvisor and City-Data public searches; underlying wheelchair-path thread reread, four narrow reports retained; no private groups or messages.",
-    "November 13 grocery/transit/LeBlond pass: public Cincinnati/Covington/Northern Kentucky and Tripadvisor searches; underlying arts-shop and Fabled opening-period threads read, plus specialist magazine visit and official bookstore-crawl directory. No private material or messages."
+    "November 13 grocery/transit/LeBlond pass: public Cincinnati/Covington/Northern Kentucky and Tripadvisor searches; underlying arts-shop and Fabled opening-period threads read, plus specialist magazine visit and official bookstore-crawl directory. No private material or messages.",
+    "November 14 shopping/licensing pass: public Cincinnati/Northern Kentucky/Kentucky, Tripadvisor and local forum searches; underlying licensing, grocery, Findlay, antique-mall and Re-Run threads/Q&A read. No private groups or messages."
   ],
-  "candidateCount": 56,
+  "candidateCount": 68,
   "statusCounts": {
-    "lead_only": 34,
-    "added": 17,
+    "lead_only": 33,
+    "added": 25,
     "held_contact_conflict": 1,
     "held_unextractable_official_site": 2,
-    "held_source_blocked": 2
+    "held_source_blocked": 2,
+    "held": 5
   },
   "priorBatchCounters": {
     "communityReportsAdded": 8,
@@ -613,11 +683,11 @@
     "scope": "Original dining batches only; these were not cumulative queue totals."
   },
   "latestBatch": {
-    "report": "grocery-transit-leblond-2026-11-13.md",
+    "report": "handzy-licensing-findlay-pricehill-2026-11-14.md",
     "communityLedVenuesAdded": 3,
-    "otherVenuesAdded": 2,
-    "communityReportsAdded": 3,
-    "officialNotesInCommunityVenues": 15,
-    "note": "Remke Taylor Mill came from official grocery research. Galbraith Road bus station came from Commons photographer research. Major Minor came through the crawl organizer and a separately read magazine visit. Five new venues total; 28 new-venue notes plus 12 existing-venue additions."
+    "otherVenuesAdded": 1,
+    "communityReportsAdded": 8,
+    "officialNotesInCommunityVenues": 21,
+    "note": "Handzy, Burlington and Ohio Valley followed public discussions. Independence followed the current official regional directory from the licensing lead. Four new venues with 31 notes plus 7 existing-venue additions; 38 total new IDs. The community source is discovery, not accessibility certification."
   }
 }

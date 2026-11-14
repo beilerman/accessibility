@@ -1,0 +1,599 @@
+{
+  "checkedAt": "2026-11-14",
+  "candidateViewsInspected": 68,
+  "distinctHashes": 68,
+  "documentaryPhotoCandidates": 65,
+  "promotionalGraphicsInspected": 3,
+  "licensedPhotosSelected": 1,
+  "originalGuidesAdded": 4,
+  "selectedGuideViews": 23,
+  "notes": "No forum-photo reuse. All candidates visually inspected; only one licensed full-frame image republished. Dates, vendor/public scope and current-condition limits retained. The KSP one-page table is separately reviewed and not an access-photo guide.",
+  "views": [
+    {
+      "id": "findlay-project-5",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/222ab3a7-5c77-4a73-ac9d-145fe0085965/DSC01094.jpg",
+      "alt": "Public Restrooms",
+      "bytes": 485055,
+      "sha256": "fe347d2130b386bb582e3bbdd3bf5a798c8dd3aecbff35a72eab64e74a434a82",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "findlay-project-9",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/0c999d2b-f93c-40ed-bfa8-ab9e59d2f54f/IndoorSeating.jpg",
+      "alt": "",
+      "bytes": 980778,
+      "sha256": "8e5774d6ef26381e1268b41043d85c4754b47596df2558f6381661f61a1d65d6",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "findlay-project-10",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/d2d17b30-2118-4052-8268-4909c881e225/OutdootSeating2.jpg",
+      "alt": "",
+      "bytes": 693007,
+      "sha256": "11581c85dd09b0e1f96e8de6b75ac6159b18fe7a46ac2d4e8b23f10e5338a3f0",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "findlay-project-11",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/68baf6eb-ef30-408b-822e-ecb5bb5566e5/ADADoors.jpg",
+      "alt": "",
+      "bytes": 814724,
+      "sha256": "c706ea5f400a69f354ea1d32e82cd2f1e1390889057bcee15c4680e53ee77a4f",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "findlay-project-13",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/7b01ff86-dad1-4bdb-9209-abfa28892f9a/4G8A2573.jpg",
+      "alt": "",
+      "bytes": 300553,
+      "sha256": "5fdca5e74e3c30ad1c4413ba4bb572f9c97e5668ade5fad5fbf408d26a3ab150",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "findlay-project-16",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/a01a7cc9-ed80-4c1d-8090-4eb4f380f851/FarmShed2.jpg",
+      "alt": "",
+      "bytes": 914806,
+      "sha256": "f849668223ba181de629f3b8e38a59ce5c69e714dbd3f9e8473f113daf13951b",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "findlay-project-17",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/6c9779a1-6860-4474-ba72-84ae763ab0f1/FarmShedWinter2+%281%29.jpg",
+      "alt": "",
+      "bytes": 945680,
+      "sha256": "69d1438efc0c71e23519f470705e0f838f56915d84e0ab2a7999f60ccae8be06",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "findlay-project-18",
+      "url": "https://images.squarespace-cdn.com/content/v1/69d564971104956cf43ed6e0/6499cf44-7f0b-4653-ba72-a6d3378a82ab/PublicRestroom.jpg",
+      "alt": "",
+      "bytes": 690047,
+      "sha256": "1f5b8fcfdb10c52632f4c858e920df67787f3c0182d7fcf8bb8ac49862f3c6a3",
+      "visuallyInspected": true,
+      "decision": "Original guide linked: completed public toilet photo distinguished from Before Photos gallery; vendor toilet not public/adult changing proof."
+    },
+    {
+      "id": "price-project-1",
+      "url": "https://chpl.org/wp-content/uploads/sites/84/2022/02/Price-Hill-Branch-Library-Next-Generation-Library-scaled.jpg",
+      "alt": "",
+      "bytes": 403311,
+      "sha256": "106d4de3356cd36fd14b682d96662c2e14053b0d2ad4ca891fa4cd9f93761ffe",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-2",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-k.jpg",
+      "alt": "",
+      "bytes": 86903,
+      "sha256": "c612e1721c5a7e8c5a62c221590b750580271b106ab8ec7b2ddb29a8c85894ea",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-3",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-j.jpg",
+      "alt": "",
+      "bytes": 90914,
+      "sha256": "4a0f43ef17c27a1c080fcd6223ccb202b53306b94733ab2b3fb55390e05a4c05",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-4",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-i.jpg",
+      "alt": "",
+      "bytes": 69061,
+      "sha256": "9a8541fcc266ff297d554e81a1595ea294de3b284974da46fb08467e2d09c97a",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-5",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-h.jpg",
+      "alt": "",
+      "bytes": 72210,
+      "sha256": "efdcafab4adfd9381c9a660d2892362bb4cddc846d2c78a1789d0c99f852372b",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-6",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-g.jpg",
+      "alt": "",
+      "bytes": 77593,
+      "sha256": "419f4479a8d6a2026c332e45a34770079a246ea1988b380f4a7f513a51357388",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-7",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-f.jpg",
+      "alt": "",
+      "bytes": 75245,
+      "sha256": "eff5ee4425af9ab6dd6314d65ed844b8f51afc0881a2f3b2cd4fb97becb875c8",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-8",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-e.jpg",
+      "alt": "",
+      "bytes": 68157,
+      "sha256": "0756eba521e64dfcf2c3f79049af4ad8a4b9b0f92a8a92175cbd8a078faea239",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-9",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-d.jpg",
+      "alt": "",
+      "bytes": 43407,
+      "sha256": "c4d0d1a42d10ecf06fa1181d6f0110ac51b3637226621cda7e4945031cd8c8e3",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-10",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-c.jpg",
+      "alt": "",
+      "bytes": 59603,
+      "sha256": "b2fc3b3e2b65d38513f17b9d0c25bd5b0f85336982af53c650c9e4dad5d9fe79",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-11",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-b.jpg",
+      "alt": "",
+      "bytes": 68726,
+      "sha256": "9af9404af76a01d8762c22314d9271d19430f88e4cf87d3b8515db5ef9d0e789",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "price-project-12",
+      "url": "https://cdn-web-main.bibliocms.com/wp-content/uploads/sites/84/2021/04/PRI-3-29-21-a.jpg",
+      "alt": "",
+      "bytes": 63813,
+      "sha256": "bb3d06a833f3655eff7243dbda310e6e830dec54a2985d44d03455692d2edad9",
+      "visuallyInspected": true,
+      "decision": "Historical official guide linked; 2021 filenames not confirmed capture dates; project rendering excluded."
+    },
+    {
+      "id": "country-home-1",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481380947-8O1CZ46K1SQKQFSMWQV3/Adjustments.jpeg",
+      "alt": "Adjustments.jpeg",
+      "bytes": 1438064,
+      "sha256": "085fa9feabdee5f16a4db572a3bb559fe067bf92f827b40d53923faca38ab21d",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-3",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481385293-XDMQUW78QXV8A50KVPPP/Adjustments.jpeg",
+      "alt": "Adjustments.jpeg",
+      "bytes": 1267233,
+      "sha256": "166d7f3868ddad43ec1a47e98a264736a4511d58cad9278f71993e6b6f277e32",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-5",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481388424-JG6MBWBJBE7AP43TSKSP/IMG_0475.jpeg",
+      "alt": "IMG_0475.jpeg",
+      "bytes": 871930,
+      "sha256": "1fb565b6e71878451e4ce0afc1a783c419a99981c86c92afbd3723a63b5d3e66",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-7",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481391815-KWZAQ9EHK0KGH615WF96/IMG_2493.jpeg",
+      "alt": "IMG_2493.jpeg",
+      "bytes": 927355,
+      "sha256": "5eff413944e993191d5c2efe58e81354e89762a31f54a5dbce84367b5ad6ab85",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-9",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481393657-HNXLO1375UAGG4O3RD7Q/Adjustments.jpeg",
+      "alt": "Adjustments.jpeg",
+      "bytes": 431085,
+      "sha256": "7c3204b91bcc26bb3f2cd02873c962e1a21c0f9874e94b5196fa3501b3a4a5c9",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-11",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481396316-HFNNCHYCIL2UGYEZTDPQ/Adjustments.jpeg",
+      "alt": "Adjustments.jpeg",
+      "bytes": 879760,
+      "sha256": "6fe9473ff27a499fd183bbb95bcf279b5513c04f302edf85fdd60faea2935d27",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-13",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481398462-2IESQBOBKL8X8MPLBAIB/Adjustments.jpeg",
+      "alt": "Adjustments.jpeg",
+      "bytes": 625174,
+      "sha256": "8101fd79a4049d4f76175e56351e3f71a8e2add882096e08115cd9475f200208",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-15",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481400169-5BUCXGSMS5789PEEA90Z/Adjustments.jpeg",
+      "alt": "Adjustments.jpeg",
+      "bytes": 523143,
+      "sha256": "631963b60a46f9874a75a84f6476079eaf4bf9a50bf94f47d2e083ef1d2d618a",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-17",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481403060-6JTOPWVCHZT1DN2BDDS5/IMG_2489.jpeg",
+      "alt": "IMG_2489.jpeg",
+      "bytes": 866486,
+      "sha256": "49f7c19844fcbaad43f4956f4599d0709fdec208f59d21236bf6dd0d68a86f25",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-19",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481404299-NDU08B9QONU830FTO7YC/IMG_0968.jpeg",
+      "alt": "IMG_0968.jpeg",
+      "bytes": 65641,
+      "sha256": "605b3b13db84279b9b263ef730b0ee0340f6e9630561b7f33f3997a9c3131b71",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-21",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481407261-HBXY5H91O9BU8Z1JM3KR/IMG_1822.jpeg",
+      "alt": "IMG_1822.jpeg",
+      "bytes": 1021607,
+      "sha256": "b0cfcda9138cf4f504bed343d264fe9b152ee57b2cf805c588efeaac51f9df57",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "country-home-23",
+      "url": "https://images.squarespace-cdn.com/content/v1/5afb641eb105980307b892d1/1601481410661-NRP9N1LW490H6KN6FKB9/Adjustments.jpeg",
+      "alt": "Adjustments.jpeg",
+      "bytes": 697212,
+      "sha256": "bc00fa036c4b7b8b837370d346ddb9bfb8b997a88d8c38a8075f2e9e37b92416",
+      "visuallyInspected": true,
+      "decision": "Held: branch attribution unresolved, no reuse licence."
+    },
+    {
+      "id": "handzy-home-26",
+      "url": "https://handzyshopstudio.com/cdn/shop/files/ACS_6335.jpg?v=1792077570&width=3200",
+      "alt": "",
+      "bytes": 1257480,
+      "sha256": "b48789c12281f1ad6625947ba61288960a793962898e2edb8b1503451db445e8",
+      "visuallyInspected": true,
+      "decision": "Workshop view linked; other views not selected for access evidence."
+    },
+    {
+      "id": "handzy-home-27",
+      "url": "https://handzyshopstudio.com/cdn/shop/files/ACS_5504.jpg?v=1753457177&width=3200",
+      "alt": "",
+      "bytes": 543276,
+      "sha256": "0d01e53e4c7d019a6831b92427143f62fdb784f596e03afe872252018c80dd60",
+      "visuallyInspected": true,
+      "decision": "Workshop view linked; other views not selected for access evidence."
+    },
+    {
+      "id": "handzy-home-28",
+      "url": "https://handzyshopstudio.com/cdn/shop/files/IMG_0543.jpg?v=1793212194&width=3840",
+      "alt": "",
+      "bytes": 2760254,
+      "sha256": "582ced7068ccd9b4c6f1999bba4078a43e4ca77e503c3b4fa95cf282f18ad695",
+      "visuallyInspected": true,
+      "decision": "Workshop view linked; other views not selected for access evidence."
+    },
+    {
+      "id": "handzy-home-33",
+      "url": "https://handzyshopstudio.com/cdn/shop/files/ACS_4577.jpg?v=1743168092&width=1500",
+      "alt": "",
+      "bytes": 465285,
+      "sha256": "aba33839fef908de4b0b34080863a1353ed2f0c231d5cba5eb487556304b25dc",
+      "visuallyInspected": true,
+      "decision": "Workshop view linked; other views not selected for access evidence."
+    },
+    {
+      "id": "cam-11",
+      "url": "https://www.huaxin.us/images/Location/2.jpg",
+      "alt": null,
+      "bytes": 67332,
+      "sha256": "6ec1f58048073ef2c71a1b853de8270c44a28a3c39fe8e4bcafdc01ffea4ac6d",
+      "visuallyInspected": true,
+      "decision": "Held: dated winter condition unknown, no licence and service evidence thin."
+    },
+    {
+      "id": "kremer-9",
+      "url": "https://kremersmarket.com/wp-content/uploads/2024/02/Kremers_front-entrance-edited-scaled.jpg",
+      "alt": "",
+      "bytes": 827681,
+      "sha256": "0a41d80b090488cccc1f90949125ae42318904bdfc14fee7b20c68559d2626b0",
+      "visuallyInspected": true,
+      "decision": "Held: source helper403; Matterport not interactively inspected."
+    },
+    {
+      "id": "kremer-10",
+      "url": "https://my.matterport.com/api/v1/player/models/j9u4FEB8mCo/thumb/?width=900",
+      "alt": null,
+      "bytes": 140550,
+      "sha256": "b4e90fb42491f3b9529aa56c126fc2210f116b85401db6ade0989ff700e23961",
+      "visuallyInspected": true,
+      "decision": "Held: source helper403; Matterport not interactively inspected."
+    },
+    {
+      "id": "commons-0",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market_View_3.JPG",
+      "sha256": "c465b9048c240f7a7873d152d3fbe6ef53263c6d5422f3424f057c198cfbf0d9",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "commons-1",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market_View_4.JPG",
+      "sha256": "4259a2d9a114b0716ae7dc44b23bd05d8176f4c3a11cbd3d476bb353924ad6e8",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "id": "commons-2",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market_interior.jpg",
+      "sha256": "f22c684d3af188e5e7fc24ca950977040be9cfedfe47252097c641b0aba9f0d1",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC BY 2.0"
+    },
+    {
+      "id": "commons-3",
+      "url": "https://commons.wikimedia.org/wiki/File:Inside-findlay-market.jpg",
+      "sha256": "d579715de0d09ad48d8c6d350ac5a09dab3e1a367081969d7c126d7d5004307f",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC BY 3.0"
+    },
+    {
+      "id": "more-0",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225932958).jpg",
+      "sha256": "c79bd7469ebed871d42b0dc6b3cd78f332c9c83fe5ef8e183ee172d4cc8d84d7",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-1",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225934608).jpg",
+      "sha256": "984601a6e934b7bbbad0d6eb2c99203851f76b0759a1e9bfea13657b3bc53387",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-2",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225935668).jpg",
+      "sha256": "689e70d0b62da343cccaceb20e1ebd1f357d639dc2186ec1a0e0f6a3bb9552c2",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-3",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225937968).jpg",
+      "sha256": "9d753d75a1e7e450054dbf1285bbc132a75f15de94998bb78bd72e210cd4d44c",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-4",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225940168).jpg",
+      "sha256": "6d851dfd1fd9afb6351ffa10e7fa2bfe3567c4dd0a6a789183b4dfe880e1b165",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-5",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225941748).jpg",
+      "sha256": "b9899aa4b750f86057a794f67b9929296bae26eab9efcaa5340d14409286deee",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-6",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225944168).jpg",
+      "sha256": "9b7657bde3a4f8cc22da9dce3b1d92fc2b993145d52d7eb9e5b03ad55ec1144a",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-7",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(28225945438).jpg",
+      "sha256": "74a835ce881f5cc0baf49e9189c8329a62363b2ec58d7f8c4868378d8faf9cfa",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-8",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(40608265293).jpg",
+      "sha256": "ddcbb857a6cd359b0a3a5487b7fe836276036ccd9e2a8e33487ca17ce87bbe7a",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-9",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(46658831375).jpg",
+      "sha256": "b31a42a692ccc4669fab6a4e0f2dec6a6e74985ecf596a9830848843c259ea3f",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "more-10",
+      "url": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(47574377201).jpg",
+      "sha256": "edbfc3eb6d77f23e5b7fe4a1ee6e17496af53076f3fef43471c93f055a308248",
+      "visuallyInspected": true,
+      "decision": "Selected full-frame seating photograph only for file40608265293; other views held as redundant frontage/interior context, people-dense views or limited route evidence. Metadata checked before selection.",
+      "license": "CC0"
+    },
+    {
+      "id": "ovam-3",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2026/11/Ohio_Valley_Antique_Mall_Thanksgiving_Banner-1-960x320.jpg",
+      "bytes": 88126,
+      "sha256": "40d96ff3027a2c1307abdad5f32803f11de17fd4e71d2cabb0aa88fc687781b9",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-4",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2026/11/Ohio_Valley_Antique_Mall_Christmas_Banner-960x320.jpg",
+      "bytes": 132009,
+      "sha256": "652711a4957097d6778c106cc250de951197a32357bb4244b122efcdb0068418",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-5",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2026/09/Ohio_Valley_Antique_Mall_Cafe_Banner_Under_2MB-960x320.jpg",
+      "bytes": 80845,
+      "sha256": "2ef683b85b7fb3d77830d80bbb104ebe4cad79aa8539022c11910dcae1435fdc",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-about-5",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/04/ohio-valley-antique-mall-front.jpg",
+      "bytes": 95973,
+      "sha256": "16e9a567f18ac49698d712074c375f8a05a1760623824f4dd313994831aad472",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-seasonal-2",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/03/DSC01959-e1502816888946.jpg",
+      "bytes": 158872,
+      "sha256": "34be53330abfd078069757e2f40d557dfd7fe3f8232f48c3991890d2a5c8b11f",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-seasonal-3",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/03/DSC00871-e1502816957408.jpg",
+      "bytes": 146905,
+      "sha256": "c63f0ea782d1e604a8428d6a16c96a7bc04c590ea6dab6bfb1bf92ee5abe3fde",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-seasonal-4",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/03/DSC01568-e1502816939455.jpg",
+      "bytes": 136667,
+      "sha256": "fbb3af3e5cba31e93f6e154d0163f4644929b23099f071ee47627a5c39d1377b",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-seasonal-5",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/03/DSC06654-e1502995555753.jpg",
+      "bytes": 123662,
+      "sha256": "a4c876a8ddfa8c6329601c1d3f7ddf3a441c9488a63e4df42690d8a9a176769b",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-seasonal-6",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/04/DSC013931-e1502995373239.jpg",
+      "bytes": 95493,
+      "sha256": "e6062167aa839f8773a7f637efaab7d0e45269fe31087392804c332f0fc6dbfe",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-furniture-2",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/03/IMG_9587-940x691.jpg",
+      "bytes": 165060,
+      "sha256": "2521a681cbe06bb81f0c1c653f6fe17e89543ea3436d586f9ea7f1fbfa7541c9",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-furniture-3",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/04/optimized-for-web2.jpg",
+      "bytes": 250564,
+      "sha256": "a860751c82ae401a46c3f82dc3bec4662229fbf3ba978a984334cbaf84153d63",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-furniture-4",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/03/optimized-for-web.jpg",
+      "bytes": 247591,
+      "sha256": "4059e06d580c6621a6e848d024edec23be09b46a4b20824a2c5e3770181754ba",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "ovam-furniture-6",
+      "url": "https://www.ohiovalleyantiques.com/wp-content/uploads/2013/04/IMG_9748-e1502996219345.jpg",
+      "bytes": 142676,
+      "sha256": "0e7c9b19370784e48fd62b47036407a33f42006499d165d4a383664b572d06d1",
+      "visuallyInspected": true,
+      "decision": "Seasonal display original linked for floor obstacles and furniture context; front entrance obscured by parked vehicle; furniture closeups unselected. Three homepage banners inspected as graphics, not documentary access photographs."
+    },
+    {
+      "id": "handzy-news-interior",
+      "url": "https://i0.wp.com/linknky.com/wp-content/uploads/2025/11/IMG_3273.jpg?resize=780%2C585&ssl=1",
+      "sourceUrl": "https://linknky.com/business/2025/11/18/handzy-shop-studio-covington-profile/",
+      "sha256": "842391479ecd2c75f321f0de4966ac1510447dd02aa008c2f54cc698532e6af3",
+      "visuallyInspected": true,
+      "decision": "Historical news photograph retained as a lead; no reuse licence, no official access facts or new guide record."
+    }
+  ],
+  "lateReview": "See separate late-visual-review receipt for the additional Handzy interior (included in 68 still-image count) and 23 sampled PriceHill video frames (counted separately).",
+  "totalStillImageViewsInspected": 68,
+  "additionalVideoFramesInspected": 23
+}

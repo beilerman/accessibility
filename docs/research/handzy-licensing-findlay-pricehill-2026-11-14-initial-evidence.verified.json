@@ -1,0 +1,499 @@
+[
+ {
+  "slug": "handzy-shop-studio-covington",
+  "address_quote": "421 w. 6th st. covington, ky 41011",
+  "address_url": "https://handzyshopstudio.com/pages/hours-address",
+  "facts": [
+   {
+    "text": "The hours page currently labels Handzy’s hours as holiday hours: every day, 10 a.m.–7 p.m. It separately lists Goose Girl Coffee at 10 a.m.–2 p.m. every day and warns that special events may change hours. No holiday end date is given; call 859-431-2883 before a time-sensitive visit.",
+    "url": "https://handzyshopstudio.com/pages/hours-address",
+    "quote": [
+     "handzy holiday hours every day 10a–7p goose girl coffee hours every day 10a–2p hours may change for special events. please check google for the most accurate info!",
+     "421 w. 6th st. covington, ky 41011 859-431-2883"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "98e662d17b4162a681bb340ee94e37099c953efa4d135e5e7c46c90c1bc62e4a"
+   },
+   {
+    "text": "The shopping cart offers free local pickup selected at checkout. It does not explain the collection point or promise delivery to a vehicle.",
+    "url": "https://handzyshopstudio.com/cart",
+    "quote": "or select free local pickup at checkout!",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "471c754c70dcbe2b48dbd170f186d2deaa97e0d67e057801482c211aef7b4826"
+   },
+   {
+    "text": "To switch an order between shipping and local pickup, the shipping policy says to email hello@handzyshopstudio.com immediately to request cancellation, then place a new order with the desired method. An order already processed and shipped cannot be changed.",
+    "url": "https://handzyshopstudio.com/policies/shipping-policy",
+    "quote": [
+     "Once an order has been placed we cannot change the fulfillment method.",
+     "If you have placed an order and paid for shipping but you would like to pick it up instead, please email us at hello@handzyshopstudio.com immediately so that we can cancel your original order. If the order has already been processed and shipped, we will not be able to make any changes. You’ll then need to place a new order for local pickup.",
+     "If you have placed an order for local pickup but you would like to have it shipped instead, please email us at hello@handzyshopstudio.com immediately so that we can cancel your original order. You’ll then need to place a new order and select shipping during checkout."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "13239448678477a24d405cf9b3c1b6e117d75366264e2e24601666dcc8568992"
+   },
+   {
+    "text": "Handzy’s workshop-host information states a maximum of eight attendees. This is a group-size limit, not a description of wheelchair spaces, companion arrangements or a quiet session.",
+    "url": "https://handzyshopstudio.com/pages/host-a-workshop",
+    "quote": "We can accommodate up to 8 attendees.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "1546dc1e41c98987c2670cc68eeba285744ac2523db707b704875cb97ec303f2"
+   }
+  ]
+ },
+ {
+  "slug": "kentucky-driver-licensing-burlington",
+  "address_quote": "\"burlington\": { \"name\": \"Burlington Regional Office\", \"lat\": 39.022033725328335, \"lng\": -84.71188388296737, \"address\": \"6159 1ST FINANCIAL DR\\nSTE 200\\nBURLINGTON, KY 41005-7892\", \"hours\": \"Mon-Fri • 8:00 AM-4:00 PM (ET)\", \"email\": \"KYTC.DDLBurlington@ky.gov\" }",
+  "address_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+  "facts": [
+   {
+    "text": "KYTC lists normal regional-office hours as Monday–Friday, 8 a.m.–4 p.m. Appointments are recommended; walk-ins are welcome. Check the current office page and holiday schedule before travelling.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "If you need to visit an office, appointments are recommended, and walk-ins are welcome at all locations.",
+     "Office Hours: Monday through Friday 8 am to 4 pm"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Appointments can be scheduled only online, with new slots released weekly. The confirmation email and text include the date, time, location and a link to cancel or reschedule. An appointment is not a promised waiting time.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "Appointments can only be scheduled online and new time slots are released weekly.",
+     "After booking, you’ll receive a confirmation email and text message with your appointment date, time, location, and a link to cancel or reschedule if needed."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "For an appointment, KYTC sends check-in instructions by text on the day. After checking in by phone, customers may wait in their car or inside until a text says it is their turn. This does not describe curbside licensing or assistance between the car and office.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": "On the day of your appointment, you’ll receive a text message with check-in instructions. You can check in on your phone and wait in your car or inside the office until you receive a text letting you know it is your turn.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Customers without a mobile device can check in at an indoor kiosk or with a staff member, then wait in the lobby until their number is called. Kiosk reach, audio features and alternative communication arrangements are not specified.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": "If you don’t have a mobile device, check in at a kiosk inside the office or with a staff member, then wait in the lobby until your number is called.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Walk-ins are served first come, first served. KYTC describes check-in at a self-service kiosk, followed by text updates, or by scanning a QR code posted at the office.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "Walk-in customers are served on a first-come, first-served basis at all offices. Customers can check in at a self-service kiosk to receive a place in line. Once checked in, you will receive text updates and a notification when it’s your turn.",
+     "Customers may also scan QR codes posted at each Regional office to check in from their phone."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Regional offices offer walk-in service one Saturday each month, 8–11:30 a.m., without an appointment. These sessions exclude Kentucky State Police written and road testing. Consult the live page for the next date; this is not an every-Saturday schedule.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "All Regional Offices offer walk-in services one Saturday each month from 8:00 a.m. to 11:30 a.m. No appointment is required.",
+     "Note: This does not include written or road testing services provided by the Kentucky State Police"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "KYTC distinguishes driver licensing from vehicle titles, registration renewals, title-history requests and personalized plates, which are handled by the local County Clerk. Its contact page warns that walk-ins are accepted at limited capacity.",
+    "url": "https://drive.ky.gov/Pages/Contact-Us.aspx",
+    "quote": [
+     "Walk-ins are welcomed at a limited capacity.",
+     "Did you know that vehicle services like titles, registration renewals, title history requests and personalized license plates are handled by your local County Clerk’s office?"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8e28e17cd911746adb54453ebb9d52d3a50ca95dc63afb1fec0c70df980e9ea0"
+   }
+  ]
+ },
+ {
+  "slug": "kentucky-driver-licensing-independence",
+  "address_quote": "\"independence\": { \"name\": \"Independence Regional Office\", \"lat\": 38.92963141153585, \"lng\": -84.54884704200948, \"address\": \"1655 DELAWARE CROSSING\\nINDEPENDENCE, KY 41051-7561\", \"hours\": \"Mon-Fri • 8:00 AM-4:00 PM (ET)\", \"email\": \"KYTC.DDLIndependence@ky.gov\" }",
+  "address_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+  "facts": [
+   {
+    "text": "KYTC lists normal regional-office hours as Monday–Friday, 8 a.m.–4 p.m. Appointments are recommended; walk-ins are welcome. Check the current office page and holiday schedule before travelling.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "If you need to visit an office, appointments are recommended, and walk-ins are welcome at all locations.",
+     "Office Hours: Monday through Friday 8 am to 4 pm"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Appointments can be scheduled only online, with new slots released weekly. The confirmation email and text include the date, time, location and a link to cancel or reschedule. An appointment is not a promised waiting time.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "Appointments can only be scheduled online and new time slots are released weekly.",
+     "After booking, you’ll receive a confirmation email and text message with your appointment date, time, location, and a link to cancel or reschedule if needed."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "For an appointment, KYTC sends check-in instructions by text on the day. After checking in by phone, customers may wait in their car or inside until a text says it is their turn. This does not describe curbside licensing or assistance between the car and office.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": "On the day of your appointment, you’ll receive a text message with check-in instructions. You can check in on your phone and wait in your car or inside the office until you receive a text letting you know it is your turn.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Customers without a mobile device can check in at an indoor kiosk or with a staff member, then wait in the lobby until their number is called. Kiosk reach, audio features and alternative communication arrangements are not specified.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": "If you don’t have a mobile device, check in at a kiosk inside the office or with a staff member, then wait in the lobby until your number is called.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Walk-ins are served first come, first served. KYTC describes check-in at a self-service kiosk, followed by text updates, or by scanning a QR code posted at the office.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "Walk-in customers are served on a first-come, first-served basis at all offices. Customers can check in at a self-service kiosk to receive a place in line. Once checked in, you will receive text updates and a notification when it’s your turn.",
+     "Customers may also scan QR codes posted at each Regional office to check in from their phone."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "Regional offices offer walk-in service one Saturday each month, 8–11:30 a.m., without an appointment. These sessions exclude Kentucky State Police written and road testing. Consult the live page for the next date; this is not an every-Saturday schedule.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "All Regional Offices offer walk-in services one Saturday each month from 8:00 a.m. to 11:30 a.m. No appointment is required.",
+     "Note: This does not include written or road testing services provided by the Kentucky State Police"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "KYTC distinguishes driver licensing from vehicle titles, registration renewals, title-history requests and personalized plates, which are handled by the local County Clerk. Its contact page warns that walk-ins are accepted at limited capacity.",
+    "url": "https://drive.ky.gov/Pages/Contact-Us.aspx",
+    "quote": [
+     "Walk-ins are welcomed at a limited capacity.",
+     "Did you know that vehicle services like titles, registration renewals, title history requests and personalized license plates are handled by your local County Clerk’s office?"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8e28e17cd911746adb54453ebb9d52d3a50ca95dc63afb1fec0c70df980e9ea0"
+   }
+  ]
+ },
+ {
+  "slug": "price-hill-branch-library",
+  "facts": [
+   {
+    "id": "price-hill-branch-library.mobility.1",
+    "text": "The library describes the branch as accessible to wheelchairs, walkers and strollers. Entrance and internal route details are not specified.",
+    "url": "https://chpl.org/locations/pr/",
+    "quote": [
+     "Accessible to wheelchairs, walkers, and strollers"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6e73b4aadbae76a0e6e0aaddbd53e66d72723fe18e3ce16649d832976fb05160"
+   },
+   {
+    "id": "price-hill-branch-library.sensory.1",
+    "text": "The branch lists designated quiet areas; their locations and noise conditions are not described.",
+    "url": "https://chpl.org/locations/pr/",
+    "quote": [
+     "Designated q uiet areas"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6e73b4aadbae76a0e6e0aaddbd53e66d72723fe18e3ce16649d832976fb05160"
+   },
+   {
+    "id": "price-hill-branch-library.cognitive.1",
+    "text": "Spanish signage is included in the branch’s bilingual approach.",
+    "url": "https://chpl.org/locations/pr/",
+    "quote": [
+     "Bilingual approach, including signage in Spanish"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6e73b4aadbae76a0e6e0aaddbd53e66d72723fe18e3ce16649d832976fb05160"
+   },
+   {
+    "id": "price-hill-branch-library.mobility.2",
+    "text": "The branch lists curbside service. Collection locations and procedures are not described on the branch page.",
+    "url": "https://chpl.org/locations/pr/",
+    "quote": [
+     "Curbside Service"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6e73b4aadbae76a0e6e0aaddbd53e66d72723fe18e3ce16649d832976fb05160"
+   },
+   {
+    "id": "price-hill-branch-library.cognitive.2",
+    "text": "For visit planning at the Purcell Avenue branch, call 513-369-4490 or email pricehill@chpl.org.",
+    "url": "https://chpl.org/locations/pr/",
+    "quote": [
+     "970 Purcell Avenue Cincinnati, Ohio 45205 Get Directions , opens a new window Transit Directions , opens a new window Phone: (513) 369-4490 Email: pricehill@chpl.org"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6e73b4aadbae76a0e6e0aaddbd53e66d72723fe18e3ce16649d832976fb05160"
+   },
+   {
+    "id": "price-hill-branch-library.cognitive.3",
+    "text": "For library-system accommodation questions, call 513-369-6968 and choose option 5, or email accessibility@chpl.org. During a visit, the library asks anyone needing assistance to notify a staff member.",
+    "url": "https://chpl.org/accessibility-services/",
+    "quote": [
+     "If you need any assistance during your visit to the Library, please notify any staff member. If you are unable to come to the Library or have a question about our accessibility, please call 513-369-6968 (Option 5) or email us at accessibility@chpl.org ."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "310d809e19be802c6eb51429c28bfdb1350104232459c9f69e04be0463a932a3"
+   }
+  ]
+ },
+ {
+  "slug": "findlay-market",
+  "facts": [
+   {
+    "id": "findlay-market.mobility.1",
+    "text": "The market’s parking page identifies northbound streetcar service at Station 10 on Elm Street and southbound service at Station 12 on Race Street. It does not describe the complete route from either platform to a market door.",
+    "url": "https://www.findlaymarket.org/parking",
+    "quote": [
+     "The streetcar stops at Findlay Market going North at Station 10 on Elm Street and stops again going South at Station 12 on Race Street."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "77047f6ae6b054a051b71d209b5d22bb5ae3be9f22985d9114e07cd92508b5a1"
+   },
+   {
+    "id": "findlay-market.mobility.2",
+    "text": "Findlay Market manages two surface parking lots, North and South. The North Lot has two pay stations north of the Farm Shed; the South Lot pay station is on the west side of Pleasant Street.",
+    "url": "https://www.findlaymarket.org/parking",
+    "quote": [
+     "Findlay Market manages 2 surface lots - the North Lot and the South Lot.",
+     "North Lot Pay Stations - There are two pay stations located North of the Farm Shed.",
+     "South Lot Pay Stations - There is one pay station in the South Lot. It is located on the west side of Pleasant Street."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "77047f6ae6b054a051b71d209b5d22bb5ae3be9f22985d9114e07cd92508b5a1"
+   },
+   {
+    "id": "findlay-market.cognitive.1",
+    "text": "Parking pay stations accept credit and debit cards and use the vehicle’s licence plate. Parking discounts validated by a merchant are applied through the Cincy EZPark app only.",
+    "url": "https://www.findlaymarket.org/parking",
+    "quote": [
+     "Validation through app only. Only 1 code can be used per parking session. Make a purchase at the market Receive discount code from merchant Enter code in app under \"Session Options\" Pay Stations Automated pay stations are located in each lot Pay stations are pay by license plate Pay stations accept credit and debit cards"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "77047f6ae6b054a051b71d209b5d22bb5ae3be9f22985d9114e07cd92508b5a1"
+   },
+   {
+    "id": "findlay-market.mobility.3",
+    "text": "The market’s Findlay Forward campaign lists its market-house door project under work in progress. This is a project status, not confirmation that new door controls or a particular step-free entrance are available.",
+    "url": "https://www.findlayforward.org/progress",
+    "quote": [
+     "In Progress Renovated Race Street Community Esplanade HVAC Indoor and Outdoor Seating Emergency Communication and Music System Merchant Display Refrigeration Operations Center Merchant and Findlay Kitchen Walk-In Cooler, Freezer and Dry Storage ADA Market House Doors"
+    ],
+    "verified": false,
+    "source_status": 200,
+    "source_sha256": "e1979fa282ce1ae6075bcf40e65c363de8d592fcdab157913a18dc831ea36c4d"
+   },
+   {
+    "id": "findlay-market.chronic.1",
+    "text": "Findlay Forward lists public-restroom work among completed projects. The page does not identify cubicle dimensions, adult changing equipment or a current step-free route to the restrooms.",
+    "url": "https://www.findlayforward.org/progress",
+    "quote": [
+     "Completed Projects Ceiling-Mounted Outlets in Findlay Kitchen’s Classroom Kitchen Economic Impact Study Findlay Market Market House Signs Public Restrooms"
+    ],
+    "verified": false,
+    "source_status": 200,
+    "source_sha256": "e1979fa282ce1ae6075bcf40e65c363de8d592fcdab157913a18dc831ea36c4d"
+   },
+   {
+    "id": "findlay-market.chronic.2",
+    "text": "The campaign still lists indoor and outdoor seating work in progress. Confirm current seating and rest options with the market; a planned improvement does not establish a particular seating arrangement.",
+    "url": "https://www.findlayforward.org/progress",
+    "quote": [
+     "In Progress Renovated Race Street Community Esplanade HVAC Indoor and Outdoor Seating"
+    ],
+    "verified": false,
+    "source_status": 200,
+    "source_sha256": "e1979fa282ce1ae6075bcf40e65c363de8d592fcdab157913a18dc831ea36c4d"
+   },
+   {
+    "id": "findlay-market.sensory.1",
+    "text": "The market describes weekend farmers’ and outdoor markets, street performers and special events. It does not publish sound levels or designated quiet hours on this page.",
+    "url": "https://www.findlaymarket.org/",
+    "quote": [
+     "On weekends, the Market also hosts a thriving Farmers Market, a vibrant Outdoor Market, numerous street performers and several special events."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "13121b1748d6329b4aa29406b00ee08d855a08a510f736f288666859e05d1e4b"
+   },
+   {
+    "id": "findlay-market.mobility.4",
+    "text": "The shopping-service FAQ offers Tuesday–Friday pickup windows of 3–4, 4–5 and 5–6 p.m. It directs drivers to reserved spaces under the Farm Shed in the North lot, then to call 513-744-8010 so staff can bring the order to the vehicle.",
+    "url": "https://shop.findlaymarket.org/pages/how-it-works",
+    "quote": [
+     "Pick up is available Tuesday through Friday. When finalizing your order, you will select your pickup date & time. The windows are from 3-4pm, 4-5pm, and 5-6pm. You will receive a notification when your order is ready on the day of your selected pickup with instructions to park under The Shed in the North parking lot . There are reserved parking spaces for pickup orders. Call (513) 744-8010 when you arrive and your order will be brought out to your vehicle."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c89ff92d966e62a1327be60382468ac83b32d025a926f483e1f7d40f1d7c7bf2"
+   },
+   {
+    "id": "findlay-market.cognitive.2",
+    "text": "The market’s main shopping-app page instead lists Tuesday–Friday fulfillment from 4–7 p.m., with orders accepted until 5 p.m. the previous day. Confirm the time shown for your selected order before travelling.",
+    "url": "https://www.findlaymarket.org/shoppingapp",
+    "quote": [
+     "The Findlay Market Shopping App operates on a Tuesday-Friday fulfillment schedule. Orders can be placed as late as 5pm the night before you'd like your order, and are available for local delivery or pickup at Findlay Market between 4pm-7pm on your selected day of fulfillment."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "4faf74e9c7febdd46fd4d47ef54540d901fdad5715d84149a078e8c47014161e"
+   },
+   {
+    "id": "findlay-market.chronic.3",
+    "text": "The service FAQ offers contactless delivery if requested when staff contact the customer on the order day. Customers paying with an EBT card must be present to pay and receive the order. Delivery is limited to the service’s listed postal codes.",
+    "url": "https://shop.findlaymarket.org/pages/how-it-works",
+    "quote": [
+     "Is contactless delivery available? Yes! When we contact you on the day of your order, let us know that you would prefer contactless delivery.",
+     "Customers paying with EBT Cards will need to be present to process full payment and receive the order.",
+     "What is your delivery radius? We are currently delivering to the following zip codes:"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c89ff92d966e62a1327be60382468ac83b32d025a926f483e1f7d40f1d7c7bf2"
+   },
+   {
+    "id": "findlay-market.chronic.4",
+    "text": "The shopping FAQ warns that orders are packed in a shared space that may contain milk, eggs, wheat, soybean, fish, shellfish, tree nuts or peanuts, even when an order does not contain those items.",
+    "url": "https://shop.findlaymarket.org/pages/how-it-works",
+    "quote": [
+     "Please be advised that even though your order may not contain common allergen items, many of our orders that are packed in the same space could contain milk, eggs, wheat, soybean, fish, shellfish, tree nuts, and/or peanuts."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c89ff92d966e62a1327be60382468ac83b32d025a926f483e1f7d40f1d7c7bf2"
+   },
+   {
+    "id": "findlay-market.cognitive.3",
+    "text": "The main shopping page says delivery and service fees are waived when an EBT card pays for at least part of an order containing SNAP-eligible products. Fees may appear in the cart before being waived at pickup or delivery.",
+    "url": "https://www.findlaymarket.org/shoppingapp",
+    "quote": [
+     "Shop on the Findlay Market Shopping App & Get FREE Delivery & NO Service Fees if you utilize SNAP/EBT Benefits HOW? During checkout, the delivery and service fees will be visible in carts, but these fees will be waived at the time of pickup or delivery. An EBT card must be used for at least a portion of the order to have the fees waived. Orders eligible for the waiver must contain SNAP-eligible products"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "4faf74e9c7febdd46fd4d47ef54540d901fdad5715d84149a078e8c47014161e"
+   }
+  ]
+ },
+ {
+  "slug": "findlay-market",
+  "facts": [
+   {
+    "text": "For an order paid with SNAP benefits, the service FAQ requires the cardholder to be present with the physical EBT card and a valid state ID or passport. A friend or family member cannot simply accept the SNAP order instead.",
+    "url": "https://shop.findlaymarket.org/pages/how-it-works",
+    "quote": "Can a friend, family member, or significant-other accept my order on my behalf? The SNAP Benefits cardholder must be present with the physical EBT card and a valid state ID or passport in order to complete the transaction.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c89ff92d966e62a1327be60382468ac83b32d025a926f483e1f7d40f1d7c7bf2"
+   },
+   {
+    "text": "If pickup timing, the date or the delivery method needs to change, the shopping service asks customers to call or text 513-744-8010 or email shoppingapp@findlaymarket.org. The FAQ offers to work with customers; a particular change is not guaranteed.",
+    "url": "https://shop.findlaymarket.org/pages/how-it-works",
+    "quote": "Can I modify my pickup time, date or delivery method? Yes. We are happy to work with you to adjust your retrieval method. Please call or text (513) 744-8010 or email shoppingapp@findlaymarket.org with any request.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c89ff92d966e62a1327be60382468ac83b32d025a926f483e1f7d40f1d7c7bf2"
+   },
+   {
+    "text": "The shopping FAQ sets the cancellation cutoff at 5 p.m. the night before fulfillment. If unable to collect an order, contact the service to arrange another pickup; abandoned orders are charged in full and may incur additional fees.",
+    "url": "https://shop.findlaymarket.org/pages/how-it-works",
+    "quote": [
+     "What happens if I need to cancel an order? The cutoff time for cancellations is 5pm, the night before your fulfillment day to allow for ample time to make adjustments with our many local merchants. Please call or text (513) 744-8010 or email shoppingapp@findlaymarket.org if you need to cancel.",
+     "What happens if I am unable to pick up my order? Please call or text (513) 744-8010 or email shoppingapp@findlaymarket.org to make other pickup arrangements. All customers who abandon orders will be charged for the entirety of their order and may additionally be charged with incidental fees or charges."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "c89ff92d966e62a1327be60382468ac83b32d025a926f483e1f7d40f1d7c7bf2"
+   }
+  ]
+ },
+ {
+  "slug": "price-hill-branch-library",
+  "facts": [
+   {
+    "text": "The branch lists three study rooms, four meeting rooms and a meeting space for up to 100 people. This does not establish that any room is unbooked, a designated quiet area or suitable for a particular group.",
+    "url": "https://chpl.org/locations/pr/",
+    "quote": "Re-envisioned spaces for adults, teens, kids including three study rooms, four meeting rooms, and a meeting space accommodating up to 100 people",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6e73b4aadbae76a0e6e0aaddbd53e66d72723fe18e3ce16649d832976fb05160"
+   },
+   {
+    "text": "The branch’s posted holiday schedule closes the library all day on November 26 and December 24–25, 2026, and January 1, 2027. It closes at 5 p.m. on December 31, 2026. Recheck the branch calendar before travel.",
+    "url": "https://chpl.org/locations/pr/",
+    "quote": [
+     "Thanksgiving Day Thursday, November 26, 2026 Closed All Day",
+     "Christmas Eve Thursday, December 24, 2026 Closed All Day",
+     "Christmas Day Friday, December 25, 2026 Closed All Day",
+     "New Year’s Eve Thursday, December 31, 2026 Closes early: 5:00pm",
+     "New Year’s Day Friday, January 1, 2027 Closed All Day"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "6e73b4aadbae76a0e6e0aaddbd53e66d72723fe18e3ce16649d832976fb05160"
+   }
+  ]
+ },
+ {
+  "slug": "kenton-county-government-center",
+  "facts": [
+   {
+    "text": "KYTC’s current directory identifies its Covington Driver Licensing Regional Office at 1840 Simon Kenton Way, with weekday hours of 8 a.m.–4 p.m. Eastern. These are driver-licensing hours, separate from the County Clerk’s hours elsewhere in this listing.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": "\"covington\": { \"name\": \"Covington Regional Office\", \"lat\": 39.07659040105409, \"lng\": -84.51820847645907, \"address\": \"1840 SIMON KENTON WAY\\nCOVINGTON, KY 41011-3679\", \"hours\": \"Mon-Fri • 8:00 AM-4:00 PM (ET)\", \"email\": \"KYTC.DDLCovington@ky.gov\" }",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   },
+   {
+    "text": "For driver-licensing appointments, KYTC allows phone check-in and waiting in a car or inside until a text calls the customer. Without a mobile device, check in at an indoor kiosk or with staff and wait in the lobby. These are regional-office procedures, not a promise of curbside service or an elevator route.",
+    "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "quote": [
+     "On the day of your appointment, you’ll receive a text message with check-in instructions. You can check in on your phone and wait in your car or inside the office until you receive a text letting you know it is your turn.",
+     "If you don’t have a mobile device, check in at a kiosk inside the office or with a staff member, then wait in the lobby until your number is called."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "a43fda3b43fd30289f101ff7ba4e825a28204fce9fef4e229a6042a63ef7a26b"
+   }
+  ]
+ }
+]

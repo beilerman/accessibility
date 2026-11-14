@@ -1,0 +1,69 @@
+{
+  "findlay-market": [
+    [
+      "cognitive",
+      "For an order paid with SNAP benefits, the service FAQ requires the cardholder to be present with the physical EBT card and a valid state ID or passport. A friend or family member cannot simply accept the SNAP order instead.",
+      "https://shop.findlaymarket.org/pages/how-it-works",
+      "venue_official",
+      "Can a friend, family member, or significant-other accept my order on my behalf? The SNAP Benefits cardholder must be present with the physical EBT card and a valid state ID or passport in order to complete the transaction."
+    ],
+    [
+      "cognitive",
+      "If pickup timing, the date or the delivery method needs to change, the shopping service asks customers to call or text 513-744-8010 or email shoppingapp@findlaymarket.org. The FAQ offers to work with customers; a particular change is not guaranteed.",
+      "https://shop.findlaymarket.org/pages/how-it-works",
+      "venue_official",
+      "Can I modify my pickup time, date or delivery method? Yes. We are happy to work with you to adjust your retrieval method. Please call or text (513) 744-8010 or email shoppingapp@findlaymarket.org with any request."
+    ],
+    [
+      "cognitive",
+      "The shopping FAQ sets the cancellation cutoff at 5 p.m. the night before fulfillment. If unable to collect an order, contact the service to arrange another pickup; abandoned orders are charged in full and may incur additional fees.",
+      "https://shop.findlaymarket.org/pages/how-it-works",
+      "venue_official",
+      [
+        "What happens if I need to cancel an order? The cutoff time for cancellations is 5pm, the night before your fulfillment day to allow for ample time to make adjustments with our many local merchants. Please call or text (513) 744-8010 or email shoppingapp@findlaymarket.org if you need to cancel.",
+        "What happens if I am unable to pick up my order? Please call or text (513) 744-8010 or email shoppingapp@findlaymarket.org to make other pickup arrangements. All customers who abandon orders will be charged for the entirety of their order and may additionally be charged with incidental fees or charges."
+      ]
+    ]
+  ],
+  "price-hill-branch-library": [
+    [
+      "cognitive",
+      "The branch lists three study rooms, four meeting rooms and a meeting space for up to 100 people. This does not establish that any room is unbooked, a designated quiet area or suitable for a particular group.",
+      "https://chpl.org/locations/pr/",
+      "public_agency",
+      "Re-envisioned spaces for adults, teens, kids including three study rooms, four meeting rooms, and a meeting space accommodating up to 100 people"
+    ],
+    [
+      "cognitive",
+      "The branch’s posted holiday schedule closes the library all day on November 26 and December 24–25, 2026, and January 1, 2027. It closes at 5 p.m. on December 31, 2026. Recheck the branch calendar before travel.",
+      "https://chpl.org/locations/pr/",
+      "public_agency",
+      [
+        "Thanksgiving Day Thursday, November 26, 2026 Closed All Day",
+        "Christmas Eve Thursday, December 24, 2026 Closed All Day",
+        "Christmas Day Friday, December 25, 2026 Closed All Day",
+        "New Year’s Eve Thursday, December 31, 2026 Closes early: 5:00pm",
+        "New Year’s Day Friday, January 1, 2027 Closed All Day"
+      ]
+    ]
+  ],
+  "kenton-county-government-center": [
+    [
+      "cognitive",
+      "KYTC’s current directory identifies its Covington Driver Licensing Regional Office at 1840 Simon Kenton Way, with weekday hours of 8 a.m.–4 p.m. Eastern. These are driver-licensing hours, separate from the County Clerk’s hours elsewhere in this listing.",
+      "https://drive.ky.gov/pages/Find-An-Office.aspx",
+      "public_agency",
+      "\"covington\": { \"name\": \"Covington Regional Office\", \"lat\": 39.07659040105409, \"lng\": -84.51820847645907, \"address\": \"1840 SIMON KENTON WAY\\nCOVINGTON, KY 41011-3679\", \"hours\": \"Mon-Fri • 8:00 AM-4:00 PM (ET)\", \"email\": \"KYTC.DDLCovington@ky.gov\" }"
+    ],
+    [
+      "chronic",
+      "For driver-licensing appointments, KYTC allows phone check-in and waiting in a car or inside until a text calls the customer. Without a mobile device, check in at an indoor kiosk or with staff and wait in the lobby. These are regional-office procedures, not a promise of curbside service or an elevator route.",
+      "https://drive.ky.gov/pages/Find-An-Office.aspx",
+      "public_agency",
+      [
+        "On the day of your appointment, you’ll receive a text message with check-in instructions. You can check in on your phone and wait in your car or inside the office until you receive a text letting you know it is your turn.",
+        "If you don’t have a mobile device, check in at a kiosk inside the office or with a staff member, then wait in the lobby until your number is called."
+      ]
+    ]
+  ]
+}

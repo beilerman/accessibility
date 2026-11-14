@@ -1,0 +1,9 @@
+{
+  "url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+  "checkedAt": "2026-11-14",
+  "method": "Read exact branch records embedded in the official page and the source code that populates the office selector/cards. No private endpoint or appointment submission.",
+  "records": {
+    "kentucky-driver-licensing-burlington": "\"burlington\": { \"name\": \"Burlington Regional Office\", \"lat\": 39.022033725328335, \"lng\": -84.71188388296737, \"address\": \"6159 1ST FINANCIAL DR\\nSTE 200\\nBURLINGTON, KY 41005-7892\", \"hours\": \"Mon-Fri • 8:00 AM-4:00 PM (ET)\", \"email\": \"KYTC.DDLBurlington@ky.gov\" }",
+    "kentucky-driver-licensing-independence": "\"independence\": { \"name\": \"Independence Regional Office\", \"lat\": 38.92963141153585, \"lng\": -84.54884704200948, \"address\": \"1655 DELAWARE CROSSING\\nINDEPENDENCE, KY 41051-7561\", \"hours\": \"Mon-Fri • 8:00 AM-4:00 PM (ET)\", \"email\": \"KYTC.DDLIndependence@ky.gov\" }"
+  }
+}

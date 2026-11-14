@@ -1,0 +1,160 @@
+{
+  "checked_at": "2026-11-14",
+  "prepared_at_utc": "2026-11-14T06:38:13.159195+00:00",
+  "base": "d49ef1aaea1667a7f17bdbcab94724cd8d9fba8c",
+  "publish_ready": true,
+  "status": "ready_for_runner_validation",
+  "publication": "Reviewed local content. Runner must pass its full suite, including browser tests, before atomic Git pushes. No agent Git write, deployment, preview or live-site verification.",
+  "start_state": {
+    "pending_edits": 0,
+    "conflict_markers": 0,
+    "prior_validation_failure": "None unresolved in prepared accepted base; previous successful summary reviewed."
+  },
+  "progress": {
+    "new_venues": [
+      {
+        "slug": "handzy-shop-studio-covington",
+        "notes": 4
+      },
+      {
+        "slug": "kentucky-driver-licensing-burlington",
+        "notes": 10
+      },
+      {
+        "slug": "kentucky-driver-licensing-independence",
+        "notes": 10
+      },
+      {
+        "slug": "ohio-valley-antique-mall",
+        "notes": 7
+      }
+    ],
+    "new_note_ids": 38,
+    "new_venue_notes": 31,
+    "existing_venue_new_notes": 7,
+    "old_notes_reviewed": 18,
+    "old_note_texts_retained": 18,
+    "old_note_semantic_revisions": 0,
+    "source_url_corrections": 0,
+    "previously_absent_quote_repairs": 0,
+    "existing_evidence_records_refined": 5,
+    "project_heading_scope_repairs": 3,
+    "narrowed_compound_passage_sets": 2,
+    "full_rechecks": [
+      {
+        "slug": "price-hill-branch-library",
+        "before": "2026-11-11",
+        "after": "2026-11-14"
+      },
+      {
+        "slug": "findlay-market",
+        "before": "2026-11-11",
+        "after": "2026-11-14"
+      }
+    ],
+    "repeat_within_rolling_week": true,
+    "partial_depth_only": [
+      {
+        "slug": "kenton-county-government-center",
+        "newNotes": 2,
+        "fullReviewDate": "2026-11-12",
+        "oldNotesReviewed": 0
+      }
+    ],
+    "licensed_photos_added": 1,
+    "linked_photo_guides_added": 4,
+    "selected_still_guide_views": 23,
+    "candidate_still_image_graphic_views_inspected": 68,
+    "distinct_still_image_hashes": 68,
+    "video_frames_sampled_and_visually_reviewed": 23,
+    "pdf_pages_visually_reviewed": 1,
+    "community_reports_added": 8
+  },
+  "totals": {
+    "venues": 190,
+    "activeNotes": 1979,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1959,
+    "missingQuoteRecords": 20,
+    "licensedPhotos": 87,
+    "guides": 115,
+    "communityReports": 61
+  },
+  "community_queue": {
+    "names": 68,
+    "added": 25,
+    "lead_only": 33,
+    "held": 10,
+    "stale_derived_counters_recomputed": true
+  },
+  "checks": {
+    "final_note_address_evidence": {
+      "passed": 60,
+      "failed": 0,
+      "notes": 56,
+      "addresses": 4
+    },
+    "initial_quote_mismatches": 3,
+    "initial_quote_mismatches_resolution": "Governing project headings were separated from item passages across intervening markup. HTML section receipt preserves attribution. Initial failed receipt retained; final gate passes.",
+    "initial_unit_failure_resolution": "Exact Public services/KY fixture updated for the two added locations; final116 pass.",
+    "factual_source_urls_baselined": 18,
+    "unselected_baselines_preserved": 561,
+    "original_guide_links_200": 4,
+    "unit_tests": 116,
+    "pipeline_tests": 79,
+    "lint": "passed",
+    "typescript": "passed",
+    "production_build": "passed",
+    "http_routes": 15,
+    "http_note_address_assertions": "All active note text, exact addresses and eight new report summaries appear in server-rendered HTML on the eight relevant venue routes, excluding script/style text. HTTP is not a browser/axe or visual-layout pass.",
+    "licensed_asset_hash": "matches inspected full-frame WebP",
+    "browser_tests_discovered": 178,
+    "browser_tests_passed_by_agent": 0,
+    "browser_status": "Required runner gate pending. One route launch attempted; Chromium failed before navigation with MachPort rendezvous permission denied1100. Independent CUA browser host unavailable. No browser/axe pass claimed.",
+    "diff_check": "passed",
+    "image_review": "Original4032x3024 and final960x720 WebP visually inspected; faithful resize/format conversion, no crop, retouching or AI.",
+    "final_evidence_matches_catalog": true,
+    "old_ids_history_media_preserved": true,
+    "unrelated_places_preserved": 183,
+    "historical_handoff_queue_sections_preserved": true
+  },
+  "holds": {
+    "missing_quote_records": 20,
+    "country_fresh": "Branch-specific access/collection and shared-gallery attribution unresolved.",
+    "kremer": "Helper403 despite browser-user-agent200; no gate bypass. Matterport unreviewed.",
+    "cam": "Location/hours read, but access/service/photo-rights evidence insufficient.",
+    "gramer": "Separate Erlanger name; current official evidence insufficient.",
+    "rerun": "Historical official volunteering mention and visitor shopping report do not establish current public hours/route.",
+    "price_hill": "Indexed old articles404 or historical2020; current curbside procedure/elevator/toilets unknown. Ribbon video sampled, not fully reviewed with audio.",
+    "licensing": "Branch entrance/toilets/parking paths and KSP local audio format/lead time unknown.",
+    "ohio_valley": "Christmas Eve9/10a opening conflict; motorized-cart sighting historical only.",
+    "handzy": "Current entrance, fitting room, toilets, pickup point and workshop clearances unknown. News interior no reuse permission."
+  },
+  "next_batch": "Fifty West and Ford’s Garage Norwood from public community queue, plus a service/recreation lead; full Recycling & Reuse Hub or Mt. Auburn Pool review. Continue access photos and do not repeatedly retry blocked groceries.",
+  "log_receipts": {
+    "unit-final.log": {
+      "sha256": "00674ca7c6020428e72b400a42710644aad3afb7b2903332972e6a89a143b74a",
+      "tail": "\n> accessibility@0.1.0 test\n> vitest run --reporter=dot\n\n(!) Your Vite config uses features that are unsupported by `configLoader: 'native'`, which is planned to become the default in a future major version of Vite:\n  - ESM syntax in a file loaded as CommonJS (vitest.config.ts:1:1). Use a `.mjs` extension or set `\"type\": \"module\"` in the closest package.json\nSet `VITE_CONFIG_NATIVE_IGNORE_WARNING=true` to suppress this warning.\n(node:8421) [DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n\n RUN  v4.1.12 /Users/bradeilerman/Library/Application Support/Threshold Updates/workspace\n\n····················································································································\n\n Test Files  7 passed (7)\n      Tests  116 passed (116)\n   Start at  01:37:57\n   Duration  1.49s (transform 1.06s, setup 1.47s, import 2.46s, tests 1.37s, environment 3.81s)\n\n"
+    },
+    "pipeline-final.log": {
+      "sha256": "2e77c938f61e0e9a818738b2c05d413dcf296ba70386c7ef89b200a99bb9bc7b",
+      "tail": "...........  200  https://reviewed.example/\n....................................EOF marker not found\n................................\n----------------------------------------------------------------------\nRan 79 tests in 0.278s\n\nOK\n1 sources checked, 0 need attention; snapshot /var/folders/yr/rw5cy2v12vb5vvwzslv_vqvc0000gn/T/tmpjkq5b7bk/snapshots/2026-11-14.json\ntest-venue + 1\ntest-venue + 1\ntest-venue + 1\n1 notes rechecked on 2026-11-12\n1 notes rechecked on 2026-11-12\n1 notes rechecked on 2026-11-12\n1 notes rechecked on 2026-11-12\n1 notes rechecked on 2026-11-12\n"
+    },
+    "build-final.log": {
+      "sha256": "1a4adcc3c860a2bd6a91f14616a24a3bb4fbdf53fca578f69ba07c55dfaa1493",
+      "tail": "DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.\n(Use `node --trace-deprecation ...` to show where the warning was created)\n✓ Compiled successfully in 551ms\n  Running TypeScript ...\n  Finished TypeScript in 871ms ...\n  Collecting page data using 9 workers ...\n  Generating static pages using 9 workers (0/205) ...\n  Generating static pages using 9 workers (51/205) \n  Generating static pages using 9 workers (102/205) \n  Generating static pages using 9 workers (153/205) \n✓ Generating static pages using 9 workers (205/205) in 810ms\nTurbopack build encountered 1 warning:\n./\nWarning: Failed to find font override values for font `Atkinson Hyperlegible Next`\nSkipping generating a fallback font.\n\n\n  Finalizing page optimization ...\n\nRoute (app)\n┌ ○ /\n├ ○ /_not-found\n├ ○ /about\n├ ○ /access-in-pictures\n├ ○ /accessibility\n├ ƒ /auth/callback\n├ ○ /login\n├ ○ /robots.txt\n├ ○ /sitemap.xml\n├ ○ /sources\n├ ○ /updates\n├ ƒ /venues\n├   /venues/[slug]\n│ ├ ● /venues/american-sign-museum\n│ ├ ● /venues/aronoff-center-for-the-arts\n│ ├ ● /venues/bb-riverboats\n│ └ ● [+187 more paths]\n└ ƒ /visitor-reports\n\n\n○  (Static)   prerendered as static content\n●  (SSG)      prerendered as static HTML (uses generateStaticParams)\nƒ  (Dynamic)  server-rendered on demand\n\n"
+    },
+    "evidence-final.log": {
+      "sha256": "a83bcae2d1e53f184c8172c4845cf954f9dd2133cea1dd4dbece4e5a1d30caf1",
+      "tail": " ohio-valley-antique-mall           | We will help you load your items if necessary. We ask that you please \nOK   ohio-valley-antique-mall           | Shipping is available for small and large items. We also have a delive\nOK   ohio-valley-antique-mall           | Customer lounge and wide-screen television to enjoy!\nOK   ohio-valley-antique-mall           | Free parking / tour groups welcome.\nOK   ohio-valley-antique-mall           | ['Open 9:00am - 9:00pm, 7 Days a week!', \"We're CLOSED Easter Sunday, \nOK   ohio-valley-antique-mall           | 7285 Dixie Highway (Route 4) Fairfield, Ohio 45014\nOK   kentucky-driver-licensing-burlingt | Burlington (502) 782-1685 Mon-Fri All Day Mon-Fri All Day Choose anoth\nOK   kentucky-driver-licensing-burlingt | ['How do I take the written permit test if I am deaf or hard of hearin\nOK   kentucky-driver-licensing-burlingt | Some locations have audio versions of the test. The test may be admini\nOK   kentucky-driver-licensing-independ | Independence (844) 253-5680 Mon-Fri All Day Mon-Fri All Day Mon-Fri 8:\nOK   kentucky-driver-licensing-independ | ['How do I take the written permit test if I am deaf or hard of hearin\nOK   kentucky-driver-licensing-independ | Some locations have audio versions of the test. The test may be admini\n60 checked, 0 failed\n"
+    },
+    "lint-final.log": {
+      "sha256": "dc4ab3e4e30b45d5359ff6bf68b86ea6e6e9332193c7db6f13dafa1c3c0be31e",
+      "tail": "\n> accessibility@0.1.0 lint\n> eslint\n\n"
+    },
+    "types-final.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "tail": ""
+    }
+  }
+}

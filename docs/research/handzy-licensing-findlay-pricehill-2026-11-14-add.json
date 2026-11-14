@@ -1,0 +1,222 @@
+[
+  {
+    "slug": "handzy-shop-studio-covington",
+    "name": "Handzy Shop + Studio",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "421 W. 6th Street, Covington, KY 41011",
+    "website": "https://handzyshopstudio.com/",
+    "source_url": "https://handzyshopstudio.com/pages/hours-address",
+    "limitations": "Public website information only; no on-site audit. The current official address is West 6th Street; older tourism listings still show West Pike Street. Holiday hours have no stated end date. Free local pickup does not establish curbside handoff, a step-free entrance, fitting-room access or carrying assistance. Entrance thresholds, door controls, aisles, toilets, changing facilities and workshop seating clearances are unverified.",
+    "facts": [
+      [
+        "cognitive",
+        "The hours page currently labels Handzy’s hours as holiday hours: every day, 10 a.m.–7 p.m. It separately lists Goose Girl Coffee at 10 a.m.–2 p.m. every day and warns that special events may change hours. No holiday end date is given; call 859-431-2883 before a time-sensitive visit.",
+        "https://handzyshopstudio.com/pages/hours-address",
+        "venue_official",
+        null,
+        [
+          "handzy holiday hours every day 10a–7p goose girl coffee hours every day 10a–2p hours may change for special events. please check google for the most accurate info!",
+          "421 w. 6th st. covington, ky 41011 859-431-2883"
+        ]
+      ],
+      [
+        "mobility",
+        "The shopping cart offers free local pickup selected at checkout. It does not explain the collection point or promise delivery to a vehicle.",
+        "https://handzyshopstudio.com/cart",
+        "venue_official",
+        null,
+        "or select free local pickup at checkout!"
+      ],
+      [
+        "cognitive",
+        "To switch an order between shipping and local pickup, the shipping policy says to email hello@handzyshopstudio.com immediately to request cancellation, then place a new order with the desired method. An order already processed and shipped cannot be changed.",
+        "https://handzyshopstudio.com/policies/shipping-policy",
+        "venue_official",
+        null,
+        [
+          "Once an order has been placed we cannot change the fulfillment method.",
+          "If you have placed an order and paid for shipping but you would like to pick it up instead, please email us at hello@handzyshopstudio.com immediately so that we can cancel your original order. If the order has already been processed and shipped, we will not be able to make any changes. You’ll then need to place a new order for local pickup.",
+          "If you have placed an order for local pickup but you would like to have it shipped instead, please email us at hello@handzyshopstudio.com immediately so that we can cancel your original order. You’ll then need to place a new order and select shipping during checkout."
+        ]
+      ],
+      [
+        "cognitive",
+        "Handzy’s workshop-host information states a maximum of eight attendees. This is a group-size limit, not a description of wheelchair spaces, companion arrangements or a quiet session.",
+        "https://handzyshopstudio.com/pages/host-a-workshop",
+        "venue_official",
+        null,
+        "We can accommodate up to 8 attendees."
+      ]
+    ]
+  },
+  {
+    "slug": "kentucky-driver-licensing-burlington",
+    "name": "Kentucky Driver Licensing Regional Office — Burlington",
+    "city": "Burlington",
+    "state": "KY",
+    "category": "Public services",
+    "address": "6159 1st Financial Drive, Suite 200, Burlington, KY 41005-7892",
+    "website": "https://drive.ky.gov/",
+    "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "limitations": "Public agency information only; no on-site audit. The official office directory identifies this location, while the check-in and appointment notes describe KYTC regional-office procedures. They do not verify parking-to-door continuity, thresholds, door controls, seating availability, toilets, adult changing equipment or assistance on site. Phone check-in is not curbside licensing. Driver testing and County Clerk vehicle services are separate; confirm the correct destination. Historical visitor reports describe both quick service and a long wait; neither predicts a current visit.",
+    "facts": [
+      [
+        "cognitive",
+        "KYTC lists normal regional-office hours as Monday–Friday, 8 a.m.–4 p.m. Appointments are recommended; walk-ins are welcome. Check the current office page and holiday schedule before travelling.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "If you need to visit an office, appointments are recommended, and walk-ins are welcome at all locations.",
+          "Office Hours: Monday through Friday 8 am to 4 pm"
+        ]
+      ],
+      [
+        "cognitive",
+        "Appointments can be scheduled only online, with new slots released weekly. The confirmation email and text include the date, time, location and a link to cancel or reschedule. An appointment is not a promised waiting time.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "Appointments can only be scheduled online and new time slots are released weekly.",
+          "After booking, you’ll receive a confirmation email and text message with your appointment date, time, location, and a link to cancel or reschedule if needed."
+        ]
+      ],
+      [
+        "chronic",
+        "For an appointment, KYTC sends check-in instructions by text on the day. After checking in by phone, customers may wait in their car or inside until a text says it is their turn. This does not describe curbside licensing or assistance between the car and office.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        "On the day of your appointment, you’ll receive a text message with check-in instructions. You can check in on your phone and wait in your car or inside the office until you receive a text letting you know it is your turn."
+      ],
+      [
+        "cognitive",
+        "Customers without a mobile device can check in at an indoor kiosk or with a staff member, then wait in the lobby until their number is called. Kiosk reach, audio features and alternative communication arrangements are not specified.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        "If you don’t have a mobile device, check in at a kiosk inside the office or with a staff member, then wait in the lobby until your number is called."
+      ],
+      [
+        "cognitive",
+        "Walk-ins are served first come, first served. KYTC describes check-in at a self-service kiosk, followed by text updates, or by scanning a QR code posted at the office.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "Walk-in customers are served on a first-come, first-served basis at all offices. Customers can check in at a self-service kiosk to receive a place in line. Once checked in, you will receive text updates and a notification when it’s your turn.",
+          "Customers may also scan QR codes posted at each Regional office to check in from their phone."
+        ]
+      ],
+      [
+        "cognitive",
+        "Regional offices offer walk-in service one Saturday each month, 8–11:30 a.m., without an appointment. These sessions exclude Kentucky State Police written and road testing. Consult the live page for the next date; this is not an every-Saturday schedule.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "All Regional Offices offer walk-in services one Saturday each month from 8:00 a.m. to 11:30 a.m. No appointment is required.",
+          "Note: This does not include written or road testing services provided by the Kentucky State Police"
+        ]
+      ],
+      [
+        "cognitive",
+        "KYTC distinguishes driver licensing from vehicle titles, registration renewals, title-history requests and personalized plates, which are handled by the local County Clerk. Its contact page warns that walk-ins are accepted at limited capacity.",
+        "https://drive.ky.gov/Pages/Contact-Us.aspx",
+        "public_agency",
+        null,
+        [
+          "Walk-ins are welcomed at a limited capacity.",
+          "Did you know that vehicle services like titles, registration renewals, title history requests and personalized license plates are handled by your local County Clerk’s office?"
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "kentucky-driver-licensing-independence",
+    "name": "Kentucky Driver Licensing Regional Office — Independence",
+    "city": "Independence",
+    "state": "KY",
+    "category": "Public services",
+    "address": "1655 Delaware Crossing, Independence, KY 41051-7561",
+    "website": "https://drive.ky.gov/",
+    "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "limitations": "Public agency information only; no on-site audit. The official office directory identifies this location, while the check-in and appointment notes describe KYTC regional-office procedures. They do not verify parking-to-door continuity, thresholds, door controls, seating availability, toilets, adult changing equipment or assistance on site. Phone check-in is not curbside licensing. Driver testing and County Clerk vehicle services are separate; confirm the correct destination. Current branch-specific visitor and access-photo evidence remains unavailable.",
+    "facts": [
+      [
+        "cognitive",
+        "KYTC lists normal regional-office hours as Monday–Friday, 8 a.m.–4 p.m. Appointments are recommended; walk-ins are welcome. Check the current office page and holiday schedule before travelling.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "If you need to visit an office, appointments are recommended, and walk-ins are welcome at all locations.",
+          "Office Hours: Monday through Friday 8 am to 4 pm"
+        ]
+      ],
+      [
+        "cognitive",
+        "Appointments can be scheduled only online, with new slots released weekly. The confirmation email and text include the date, time, location and a link to cancel or reschedule. An appointment is not a promised waiting time.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "Appointments can only be scheduled online and new time slots are released weekly.",
+          "After booking, you’ll receive a confirmation email and text message with your appointment date, time, location, and a link to cancel or reschedule if needed."
+        ]
+      ],
+      [
+        "chronic",
+        "For an appointment, KYTC sends check-in instructions by text on the day. After checking in by phone, customers may wait in their car or inside until a text says it is their turn. This does not describe curbside licensing or assistance between the car and office.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        "On the day of your appointment, you’ll receive a text message with check-in instructions. You can check in on your phone and wait in your car or inside the office until you receive a text letting you know it is your turn."
+      ],
+      [
+        "cognitive",
+        "Customers without a mobile device can check in at an indoor kiosk or with a staff member, then wait in the lobby until their number is called. Kiosk reach, audio features and alternative communication arrangements are not specified.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        "If you don’t have a mobile device, check in at a kiosk inside the office or with a staff member, then wait in the lobby until your number is called."
+      ],
+      [
+        "cognitive",
+        "Walk-ins are served first come, first served. KYTC describes check-in at a self-service kiosk, followed by text updates, or by scanning a QR code posted at the office.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "Walk-in customers are served on a first-come, first-served basis at all offices. Customers can check in at a self-service kiosk to receive a place in line. Once checked in, you will receive text updates and a notification when it’s your turn.",
+          "Customers may also scan QR codes posted at each Regional office to check in from their phone."
+        ]
+      ],
+      [
+        "cognitive",
+        "Regional offices offer walk-in service one Saturday each month, 8–11:30 a.m., without an appointment. These sessions exclude Kentucky State Police written and road testing. Consult the live page for the next date; this is not an every-Saturday schedule.",
+        "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "public_agency",
+        null,
+        [
+          "All Regional Offices offer walk-in services one Saturday each month from 8:00 a.m. to 11:30 a.m. No appointment is required.",
+          "Note: This does not include written or road testing services provided by the Kentucky State Police"
+        ]
+      ],
+      [
+        "cognitive",
+        "KYTC distinguishes driver licensing from vehicle titles, registration renewals, title-history requests and personalized plates, which are handled by the local County Clerk. Its contact page warns that walk-ins are accepted at limited capacity.",
+        "https://drive.ky.gov/Pages/Contact-Us.aspx",
+        "public_agency",
+        null,
+        [
+          "Walk-ins are welcomed at a limited capacity.",
+          "Did you know that vehicle services like titles, registration renewals, title history requests and personalized license plates are handled by your local County Clerk’s office?"
+        ]
+      ]
+    ]
+  }
+]

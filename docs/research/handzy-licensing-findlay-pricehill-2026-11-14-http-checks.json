@@ -1,0 +1,128 @@
+{
+  "checkedAt": "2026-11-14",
+  "scope": "Final local production build HTTP responses and exact active note/address text only; no browser navigation, interaction or axe pass inferred.",
+  "asset_hash_matches": true,
+  "responses": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 178813,
+      "sha256": "0804e94ab0affb115684a80a6b7fb3852a1f158ef22e8ded408a62918ef913fb",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/venues",
+      "status": 200,
+      "bytes": 1378596,
+      "sha256": "6d7dfa8e423fd478f2383d7ecfc91dbf98aa9dff1e11d6dac060a270bd8e246a",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/venues/handzy-shop-studio-covington",
+      "status": 200,
+      "bytes": 70760,
+      "sha256": "9c7ef925af7020a3747ebfa9f87b94e7c0f8e752eec08d60a8d5464b65d4516a",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 4,
+      "new_report_summaries_present": 0
+    },
+    {
+      "path": "/venues/kentucky-driver-licensing-burlington",
+      "status": 200,
+      "bytes": 99005,
+      "sha256": "653058244bcc0dcb2c63e23f624a9501d53355dabb0e73cfa31c35e128658b49",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 10,
+      "new_report_summaries_present": 2
+    },
+    {
+      "path": "/venues/kentucky-driver-licensing-independence",
+      "status": 200,
+      "bytes": 90967,
+      "sha256": "985b4bdaa53bb3919b3751e2883d10d2764b6c94238702c868f3e0695389b077",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 10,
+      "new_report_summaries_present": 0
+    },
+    {
+      "path": "/venues/ohio-valley-antique-mall",
+      "status": 200,
+      "bytes": 90256,
+      "sha256": "4a188b7f9a7295a993c7c61ac534fbad22bb6c519882c3265564306046f590ed",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 7,
+      "new_report_summaries_present": 2
+    },
+    {
+      "path": "/venues/findlay-market",
+      "status": 200,
+      "bytes": 137420,
+      "sha256": "c3dcefd8c99d732e59b6286013d66535dca416b4a5ceffc6074687e03e05180f",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 15,
+      "new_report_summaries_present": 2
+    },
+    {
+      "path": "/venues/price-hill-branch-library",
+      "status": 200,
+      "bytes": 88478,
+      "sha256": "35fb60dca8247a0cd01935a6b5d06aa0915d36198dc94022b719566057443b9b",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 8,
+      "new_report_summaries_present": 0
+    },
+    {
+      "path": "/venues/kenton-county-government-center",
+      "status": 200,
+      "bytes": 112088,
+      "sha256": "81d485eac074d81d06803bcb370345976b77306e7bea05fda0db156c8e9ed68a",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 10,
+      "new_report_summaries_present": 1
+    },
+    {
+      "path": "/venues/cincinnati-recycling-reuse-hub",
+      "status": 200,
+      "bytes": 88612,
+      "sha256": "6411034b8e95bc5ee119fbff72002c4d173d0244f4c5a8e5e7ef974eee7822ab",
+      "content_type": "text/html; charset=utf-8",
+      "all_active_note_texts_present": 7,
+      "new_report_summaries_present": 1
+    },
+    {
+      "path": "/venues?category=Shopping&region=KY",
+      "status": 200,
+      "bytes": 131279,
+      "sha256": "86b080bd07622caecbbec8057ed626dd1823a268255a923478185e70ba3c338f",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/venues?category=Shopping&region=OH",
+      "status": 200,
+      "bytes": 103576,
+      "sha256": "8507a234716bf9ce0aa42863a4cbeb092950277a0a621f3c333ef74bd94bc38c",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/venues?category=Public+services&region=KY",
+      "status": 200,
+      "bytes": 97204,
+      "sha256": "d01410fb4a80ac8f142a0838f6204db31aa868f22d08230b4ffea4572eda263b",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/visitor-reports",
+      "status": 200,
+      "bytes": 368486,
+      "sha256": "9d9d9136d2f42800fd9b76e24f2e3c58e3a14c106e736ca50cb8c8132dc693dc",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "path": "/images/access/findlay-market-outdoor-seating-2019.webp",
+      "status": 200,
+      "bytes": 105630,
+      "sha256": "98180c5f39d627d1689e2195dd15cc6a37585b486b35e658dad3fb21a98bea05",
+      "content_type": "image/webp"
+    }
+  ]
+}

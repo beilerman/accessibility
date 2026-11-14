@@ -1,9 +1,61 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after neighborhood shopping/City Hall growth, access-photo
-research and complete CTC/Fresh Thyme rechecks. These are leads and questions; new facts require fresh evidence.
+Updated November 14, 2026, after shopping/driver-licensing growth, access-photo
+research and complete Findlay/Price Hill reviews. These are leads and questions;
+new facts require fresh evidence.
 
 ## Current prepared batch
+
+Read [shopping, licensing, Findlay and Price Hill evidence](handzy-licensing-findlay-pricehill-2026-11-14.md) and its final
+evidence, catalog audit, media review, guide/HTTP and validation receipts. All mutation
+specs are already applied; the runner owns validation, Git writes and publication.
+
+**Four new venues:** Handzy Covington (4 notes), KYTC Burlington (10), KYTC Independence
+(10), Ohio Valley Antique Mall Fairfield (7). Findlay adds three, Price Hill two and
+Government Center two: **38 new IDs overall**. Keep ordinary licensing, KSP testing
+and County Clerk transactions distinct. KSP testing-table phone/schedule rows were
+visually reviewed; the table supplies no street addresses.
+
+**Accuracy/freshness:** all 18 old Findlay/Price Hill notes fully reviewed; text/source
+URLs unchanged. Two whole dates November 11 → 14 repeat venues within the rolling
+week. Government Center is partial depth only, retaining November 12. Five existing
+Findlay passage records refined: three heading/scope repairs and two narrower compound
+passage sets. No absent-quote backfill; the same 20 missing records remain held.
+Findlay pickup-hour conflict and completed-public versus before-vendor restroom scope
+remain explicit. Handzy's current West 6th address supersedes old tourism Pike listings.
+Ohio Valley Christmas Eve 9/10 a.m. opening conflict is unresolved, with both sources
+closing at 6 p.m.; motorized-cart sighting is historical community evidence only.
+
+**Imagery:** one licensed full-frame 2019 Findlay seating view (Warren LeMay, CC0);
+four original guides cover 23 selected views (Findlay restroom/before gallery, historical
+Price Hill renovation, Handzy workshop and Ohio Valley displays). **68 still-image/graphic
+views** inspected, plus 23 sampled historical Price Hill video frames and one KSP table page. No AI or copyrighted-photo republication.
+Four guide links returned 200. Eight separate community reports added.
+
+Totals: **190 venues / 1,979 active / 1,959 quoted / 20 missing / 87 licensed photos /
+115 guides / 61 community reports**. Categories: parks 34, arts 33, food 28, shopping 25,
+museums 21, public services 16, libraries 15, recreation 10, transport 8. Community queue:
+**68 names / 25 added / 33 lead-only / ten held**, including typed hold statuses.
+
+**Next concrete batch:** follow **Fifty West** and **Ford's Garage Norwood** community
+leads to exact official locations/access sources; add a fresh service/recreation lead
+where supported. Pair with a complete **Recycling & Reuse Hub** or **Mt. Auburn Pool**
+review. Seek unloading/arrival/changing/equipment details and photos. Country Fresh
+branch attribution remains unresolved, CAM has only thin access evidence, Kremer's
+helper 403 is held, and Re-Run lacks current official public-hour/route support. Do not
+spend the whole next pass retrying blocked sources or only growing bookshops.
+
+Continue entrance/toilet/equipment photos for KYTC branches, Ohio Valley, Handzy,
+Price Hill, Findlay and earlier Blue Marble/Book Bus/City Hall/CTC/Fresh Thyme/Rookwood/
+LeBlond/Chestnut gaps. A successful text fetch does not establish physical conditions.
+
+Final local checks: **60 note/address checks, 116 unit tests, 79 pipeline tests**, lint,
+types and build. Eighteen selected sources baselined; 561 unselected records preserved.
+Chromium still fails before navigation with MachPort 1100; independent browser host
+unavailable. **All 178 browser tests remain the runner's required gate.** HTTP 200 and
+matching image bytes are separate evidence. No deployment or live-site claim.
+
+## Previous neighborhood shopping batch
 
 Read [neighborhood shopping, City Hall and transport evidence](bookshops-ctc-sharonville-2026-11-13.md)
 and its canonical final evidence, media review, catalog audit, HTTP and validation receipts.

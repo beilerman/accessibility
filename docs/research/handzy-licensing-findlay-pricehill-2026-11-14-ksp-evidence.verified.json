@@ -1,0 +1,66 @@
+[
+ {
+  "slug": "kentucky-driver-licensing-burlington",
+  "facts": [
+   {
+    "text": "Separately from ordinary KYTC licensing, KSP’s currently linked testing table lists 502-782-1685 for Burlington and written/road testing Monday–Friday throughout the day. Confirm the actual test destination and appointment with KSP; the table does not give a street address or promise walk-in testing.",
+    "url": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/05/Regional-Testing-Locations-Hours-5-29-26.pdf",
+    "quote": "Burlington (502) 782-1685 Mon-Fri All Day Mon-Fri All Day Choose another location",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d0bfe9d51a0379055aabadec5a6515976c847d9b0fb0d67ba9ede11aa582cf05"
+   },
+   {
+    "text": "For a written permit test, KSP tells deaf or hard-of-hearing applicants to contact the testing site, make an appointment and request a sign-language interpreter. This is a KSP testing procedure, not a promise of an on-demand interpreter for every KYTC transaction.",
+    "url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+    "quote": [
+     "How do I take the written permit test if I am deaf or hard of hearing?",
+     "Contact your testing site to make an appointment and request a sign language interpreter."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5e427989479bf8c6f093d45ca07ebb6fca5a5ac939d1cd0fb00e8c3b3379b242"
+   },
+   {
+    "text": "KSP says some testing locations have audio versions of the written test; where unavailable, the test may be administered orally. Call 800-542-5990, option 3, to discuss arrangements. The page does not confirm which format is offered at this branch.",
+    "url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+    "quote": "Some locations have audio versions of the test. The test may be administered orally at locations where this service is not available. Please contact our office for additional information at (800) 542-5990 , Option #3.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5e427989479bf8c6f093d45ca07ebb6fca5a5ac939d1cd0fb00e8c3b3379b242"
+   }
+  ]
+ },
+ {
+  "slug": "kentucky-driver-licensing-independence",
+  "facts": [
+   {
+    "text": "Separately from ordinary KYTC licensing, KSP’s currently linked testing table lists 844-253-5680 for Independence and written/road testing Monday–Friday throughout the day. Confirm the actual test destination and appointment with KSP; the table does not give a street address or promise walk-in testing.",
+    "url": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/05/Regional-Testing-Locations-Hours-5-29-26.pdf",
+    "quote": "Independence (844) 253-5680 Mon-Fri All Day Mon-Fri All Day Mon-Fri 8:00 AM",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "d0bfe9d51a0379055aabadec5a6515976c847d9b0fb0d67ba9ede11aa582cf05"
+   },
+   {
+    "text": "For a written permit test, KSP tells deaf or hard-of-hearing applicants to contact the testing site, make an appointment and request a sign-language interpreter. This is a KSP testing procedure, not a promise of an on-demand interpreter for every KYTC transaction.",
+    "url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+    "quote": [
+     "How do I take the written permit test if I am deaf or hard of hearing?",
+     "Contact your testing site to make an appointment and request a sign language interpreter."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5e427989479bf8c6f093d45ca07ebb6fca5a5ac939d1cd0fb00e8c3b3379b242"
+   },
+   {
+    "text": "KSP says some testing locations have audio versions of the written test; where unavailable, the test may be administered orally. Call 800-542-5990, option 3, to discuss arrangements. The page does not confirm which format is offered at this branch.",
+    "url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+    "quote": "Some locations have audio versions of the test. The test may be administered orally at locations where this service is not available. Please contact our office for additional information at (800) 542-5990 , Option #3.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5e427989479bf8c6f093d45ca07ebb6fca5a5ac939d1cd0fb00e8c3b3379b242"
+   }
+  ]
+ }
+]

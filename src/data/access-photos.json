@@ -1708,5 +1708,25 @@
     "checkedAt": "2026-11-13",
     "limitations": "Historical full-frame panorama, faithfully resized and converted to WebP. Panoramic projection distorts space; no dimensions can be inferred. An elevator, entrance route, toilets and changing facilities are not identified in this view. Confirm current layout, seating availability and routes between levels.",
     "relatedFactIds": []
+  },
+  {
+    "id": "findlay-market-outdoor-seating-2019",
+    "slug": "findlay-market",
+    "title": "Outdoor seating, planters and pavement (2019)",
+    "src": "/images/access/findlay-market-outdoor-seating-2019.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Findlay Market frontage with red outdoor tables and chairs behind large planters, a black gate, adjoining pavement and parked cars to the left.",
+    "caption": "This March 2019 view shows movable outdoor furniture, large planters and a gate beside the paved market frontage. It adds seating-area context to the separate door and street-crossing views.",
+    "author": "Warren LeMay",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Findlay_Market,_Over-the-Rhine,_Cincinnati,_OH_(40608265293).jpg",
+    "photoDate": "2019-03-31",
+    "checkedAt": "2026-11-14",
+    "limitations": "Historical full frame, faithfully resized and converted to WebP. The current campaign still lists seating improvements in progress. This photograph does not establish present furniture, gate opening, available spaces, surface condition, gradient or a continuous route from parking to a seat or entrance.",
+    "relatedFactIds": [
+      "findlay-market.chronic.2"
+    ]
   }
 ]

@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-11-14",
+  "sources": [
+    {
+      "url": "https://www.ohiovalleyantiques.com/hours/",
+      "passage": "Christmas Eve - 10:00am - 6:00pm",
+      "method": "Fresh helper200; full hours-page context read."
+    },
+    {
+      "url": "https://www.ohiovalleyantiques.com/",
+      "imageUrl": "https://www.ohiovalleyantiques.com/wp-content/uploads/2026/11/Ohio_Valley_Antique_Mall_Christmas_Banner-960x320.jpg",
+      "observedText": "Open 9AM - 6PM for Christmas Eve",
+      "sha256": "652711a4957097d6778c106cc250de951197a32357bb4244b122efcdb0068418",
+      "method": "Current homepage banner downloaded and visually inspected; not a documentary venue photo."
+    }
+  ],
+  "resolution": "Opening time unresolved; both sources close at6pm. Listing flags the9/10am conflict. No inferred correction or undisclosed substitution. No holiday year printed in banner; upload path2026/11 is not a displayed event date."
+}

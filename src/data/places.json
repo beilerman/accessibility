@@ -30409,7 +30409,7 @@
     "website": "https://chpl.org/locations/pr/",
     "source_url": "https://chpl.org/locations/pr/",
     "limitations": "Public website information; no on-site audit. The library describes the renovated branch as accessible to mobility aids, but does not specify entrance thresholds, door controls, elevator routes, parking-to-door connections or restroom features on this page. Quiet-area locations and conditions are not given. Confirm arrangements with the branch.",
-    "checked_at": "2026-11-11",
+    "checked_at": "2026-11-14",
     "slug": "price-hill-branch-library",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -30420,7 +30420,7 @@
         "source_url": "https://chpl.org/locations/pr/",
         "id": "price-hill-branch-library.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30429,6 +30429,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30438,7 +30443,7 @@
         "source_url": "https://chpl.org/locations/pr/",
         "id": "price-hill-branch-library.sensory.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30447,6 +30452,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30456,7 +30466,7 @@
         "source_url": "https://chpl.org/locations/pr/",
         "id": "price-hill-branch-library.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30465,6 +30475,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30474,7 +30489,7 @@
         "source_url": "https://chpl.org/locations/pr/",
         "id": "price-hill-branch-library.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30483,6 +30498,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30492,7 +30512,7 @@
         "source_url": "https://chpl.org/locations/pr/",
         "id": "price-hill-branch-library.cognitive.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30501,6 +30521,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30510,13 +30535,54 @@
         "source_url": "https://chpl.org/accessibility-services/",
         "id": "price-hill-branch-library.cognitive.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The branch lists three study rooms, four meeting rooms and a meeting space for up to 100 people. This does not establish that any room is unbooked, a designated quiet area or suitable for a particular group.",
+        "source_url": "https://chpl.org/locations/pr/",
+        "id": "price-hill-branch-library.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The branch’s posted holiday schedule closes the library all day on November 26 and December 24–25, 2026, and January 1, 2027. It closes at 5 p.m. on December 31, 2026. Recheck the branch calendar before travel.",
+        "source_url": "https://chpl.org/locations/pr/",
+        "id": "price-hill-branch-library.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -31059,7 +31125,7 @@
     "website": "https://www.findlaymarket.org/",
     "source_url": "https://www.findlaymarket.org/parking",
     "limitations": "Public market and official campaign information; no on-site audit. Door work and seating improvements remain listed as in progress. Entrance thresholds, door controls, parking-to-door routes, designated parking spaces and restroom access features remain unverified. Completed restroom work does not establish adult changing equipment or current availability. Individual merchants may have different layouts and entry arrangements. The shopping-service FAQ gives pickup windows of 3–6 p.m.; the market’s main shopping page says 4–7 p.m. Confirm the selected order slot. These two official descriptions are not reconciled.",
-    "checked_at": "2026-11-11",
+    "checked_at": "2026-11-14",
     "slug": "findlay-market",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -31070,7 +31136,7 @@
         "source_url": "https://www.findlaymarket.org/parking",
         "id": "findlay-market.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31079,6 +31145,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31088,7 +31159,7 @@
         "source_url": "https://www.findlaymarket.org/parking",
         "id": "findlay-market.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31097,6 +31168,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31106,7 +31182,7 @@
         "source_url": "https://www.findlaymarket.org/parking",
         "id": "findlay-market.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31115,6 +31191,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31124,7 +31205,7 @@
         "source_url": "https://www.findlayforward.org/progress",
         "id": "findlay-market.mobility.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31133,6 +31214,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31142,7 +31228,7 @@
         "source_url": "https://www.findlayforward.org/progress",
         "id": "findlay-market.chronic.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31151,6 +31237,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31160,7 +31251,7 @@
         "source_url": "https://www.findlayforward.org/progress",
         "id": "findlay-market.chronic.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31169,6 +31260,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31178,7 +31274,7 @@
         "source_url": "https://www.findlaymarket.org/",
         "id": "findlay-market.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31187,6 +31283,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31196,7 +31297,7 @@
         "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
         "id": "findlay-market.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31205,6 +31306,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31214,7 +31320,7 @@
         "source_url": "https://www.findlaymarket.org/shoppingapp",
         "id": "findlay-market.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31223,6 +31329,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31232,7 +31343,7 @@
         "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
         "id": "findlay-market.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31241,6 +31352,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31250,7 +31366,7 @@
         "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
         "id": "findlay-market.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -31259,6 +31375,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -31268,13 +31389,72 @@
         "source_url": "https://www.findlaymarket.org/shoppingapp",
         "id": "findlay-market.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For an order paid with SNAP benefits, the service FAQ requires the cardholder to be present with the physical EBT card and a valid state ID or passport. A friend or family member cannot simply accept the SNAP order instead.",
+        "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
+        "id": "findlay-market.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "If pickup timing, the date or the delivery method needs to change, the shopping service asks customers to call or text 513-744-8010 or email shoppingapp@findlaymarket.org. The FAQ offers to work with customers; a particular change is not guaranteed.",
+        "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
+        "id": "findlay-market.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shopping FAQ sets the cancellation cutoff at 5 p.m. the night before fulfillment. If unable to collect an order, contact the service to arrange another pickup; abandoned orders are charged in full and may incur additional fees.",
+        "source_url": "https://shop.findlaymarket.org/pages/how-it-works",
+        "id": "findlay-market.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -32805,6 +32985,42 @@
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "KYTC’s current directory identifies its Covington Driver Licensing Regional Office at 1840 Simon Kenton Way, with weekday hours of 8 a.m.–4 p.m. Eastern. These are driver-licensing hours, separate from the County Clerk’s hours elsewhere in this listing.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kenton-county-government-center.cognitive.8",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For driver-licensing appointments, KYTC allows phone check-in and waiting in a car or inside until a text calls the customer. Without a mobile device, check in at an indoor kiosk or with staff and wait in the lobby. These are regional-office procedures, not a promise of curbside service or an elevator route.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kenton-county-government-center.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -43346,6 +43562,628 @@
         "history": [
           {
             "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Handzy Shop + Studio",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "421 W. 6th Street, Covington, KY 41011",
+    "website": "https://handzyshopstudio.com/",
+    "source_url": "https://handzyshopstudio.com/pages/hours-address",
+    "limitations": "Public website information only; no on-site audit. The current official address is West 6th Street; older tourism listings still show West Pike Street. Holiday hours have no stated end date. Free local pickup does not establish curbside handoff, a step-free entrance, fitting-room access or carrying assistance. Entrance thresholds, door controls, aisles, toilets, changing facilities and workshop seating clearances are unverified.",
+    "checked_at": "2026-11-14",
+    "slug": "handzy-shop-studio-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The hours page currently labels Handzy’s hours as holiday hours: every day, 10 a.m.–7 p.m. It separately lists Goose Girl Coffee at 10 a.m.–2 p.m. every day and warns that special events may change hours. No holiday end date is given; call 859-431-2883 before a time-sensitive visit.",
+        "source_url": "https://handzyshopstudio.com/pages/hours-address",
+        "id": "handzy-shop-studio-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The shopping cart offers free local pickup selected at checkout. It does not explain the collection point or promise delivery to a vehicle.",
+        "source_url": "https://handzyshopstudio.com/cart",
+        "id": "handzy-shop-studio-covington.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To switch an order between shipping and local pickup, the shipping policy says to email hello@handzyshopstudio.com immediately to request cancellation, then place a new order with the desired method. An order already processed and shipped cannot be changed.",
+        "source_url": "https://handzyshopstudio.com/policies/shipping-policy",
+        "id": "handzy-shop-studio-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Handzy’s workshop-host information states a maximum of eight attendees. This is a group-size limit, not a description of wheelchair spaces, companion arrangements or a quiet session.",
+        "source_url": "https://handzyshopstudio.com/pages/host-a-workshop",
+        "id": "handzy-shop-studio-covington.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kentucky Driver Licensing Regional Office — Burlington",
+    "city": "Burlington",
+    "state": "KY",
+    "category": "Public services",
+    "address": "6159 1st Financial Drive, Suite 200, Burlington, KY 41005-7892",
+    "website": "https://drive.ky.gov/",
+    "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "limitations": "Public agency information only; no on-site audit. The official office directory identifies this location, while the check-in and appointment notes describe KYTC regional-office procedures. They do not verify parking-to-door continuity, thresholds, door controls, seating availability, toilets, adult changing equipment or assistance on site. Phone check-in is not curbside licensing. Driver testing and County Clerk vehicle services are separate; confirm the correct destination. Historical visitor reports describe both quick service and a long wait; neither predicts a current visit.",
+    "checked_at": "2026-11-14",
+    "slug": "kentucky-driver-licensing-burlington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "KYTC lists normal regional-office hours as Monday–Friday, 8 a.m.–4 p.m. Appointments are recommended; walk-ins are welcome. Check the current office page and holiday schedule before travelling.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-burlington.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Appointments can be scheduled only online, with new slots released weekly. The confirmation email and text include the date, time, location and a link to cancel or reschedule. An appointment is not a promised waiting time.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-burlington.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For an appointment, KYTC sends check-in instructions by text on the day. After checking in by phone, customers may wait in their car or inside until a text says it is their turn. This does not describe curbside licensing or assistance between the car and office.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-burlington.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Customers without a mobile device can check in at an indoor kiosk or with a staff member, then wait in the lobby until their number is called. Kiosk reach, audio features and alternative communication arrangements are not specified.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-burlington.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Walk-ins are served first come, first served. KYTC describes check-in at a self-service kiosk, followed by text updates, or by scanning a QR code posted at the office.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-burlington.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Regional offices offer walk-in service one Saturday each month, 8–11:30 a.m., without an appointment. These sessions exclude Kentucky State Police written and road testing. Consult the live page for the next date; this is not an every-Saturday schedule.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-burlington.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "KYTC distinguishes driver licensing from vehicle titles, registration renewals, title-history requests and personalized plates, which are handled by the local County Clerk. Its contact page warns that walk-ins are accepted at limited capacity.",
+        "source_url": "https://drive.ky.gov/Pages/Contact-Us.aspx",
+        "id": "kentucky-driver-licensing-burlington.cognitive.6",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Separately from ordinary KYTC licensing, KSP’s currently linked testing table lists 502-782-1685 for Burlington and written/road testing Monday–Friday throughout the day. Confirm the actual test destination and appointment with KSP; the table does not give a street address or promise walk-in testing.",
+        "source_url": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/05/Regional-Testing-Locations-Hours-5-29-26.pdf",
+        "id": "kentucky-driver-licensing-burlington.cognitive.7",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For a written permit test, KSP tells deaf or hard-of-hearing applicants to contact the testing site, make an appointment and request a sign-language interpreter. This is a KSP testing procedure, not a promise of an on-demand interpreter for every KYTC transaction.",
+        "source_url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+        "id": "kentucky-driver-licensing-burlington.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "KSP says some testing locations have audio versions of the written test; where unavailable, the test may be administered orally. Call 800-542-5990, option 3, to discuss arrangements. The page does not confirm which format is offered at this branch.",
+        "source_url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+        "id": "kentucky-driver-licensing-burlington.cognitive.8",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kentucky Driver Licensing Regional Office — Independence",
+    "city": "Independence",
+    "state": "KY",
+    "category": "Public services",
+    "address": "1655 Delaware Crossing, Independence, KY 41051-7561",
+    "website": "https://drive.ky.gov/",
+    "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+    "limitations": "Public agency information only; no on-site audit. The official office directory identifies this location, while the check-in and appointment notes describe KYTC regional-office procedures. They do not verify parking-to-door continuity, thresholds, door controls, seating availability, toilets, adult changing equipment or assistance on site. Phone check-in is not curbside licensing. Driver testing and County Clerk vehicle services are separate; confirm the correct destination. Current branch-specific visitor and access-photo evidence remains unavailable.",
+    "checked_at": "2026-11-14",
+    "slug": "kentucky-driver-licensing-independence",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "KYTC lists normal regional-office hours as Monday–Friday, 8 a.m.–4 p.m. Appointments are recommended; walk-ins are welcome. Check the current office page and holiday schedule before travelling.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-independence.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Appointments can be scheduled only online, with new slots released weekly. The confirmation email and text include the date, time, location and a link to cancel or reschedule. An appointment is not a promised waiting time.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-independence.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For an appointment, KYTC sends check-in instructions by text on the day. After checking in by phone, customers may wait in their car or inside until a text says it is their turn. This does not describe curbside licensing or assistance between the car and office.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-independence.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Customers without a mobile device can check in at an indoor kiosk or with a staff member, then wait in the lobby until their number is called. Kiosk reach, audio features and alternative communication arrangements are not specified.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-independence.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Walk-ins are served first come, first served. KYTC describes check-in at a self-service kiosk, followed by text updates, or by scanning a QR code posted at the office.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-independence.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Regional offices offer walk-in service one Saturday each month, 8–11:30 a.m., without an appointment. These sessions exclude Kentucky State Police written and road testing. Consult the live page for the next date; this is not an every-Saturday schedule.",
+        "source_url": "https://drive.ky.gov/pages/Find-An-Office.aspx",
+        "id": "kentucky-driver-licensing-independence.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "KYTC distinguishes driver licensing from vehicle titles, registration renewals, title-history requests and personalized plates, which are handled by the local County Clerk. Its contact page warns that walk-ins are accepted at limited capacity.",
+        "source_url": "https://drive.ky.gov/Pages/Contact-Us.aspx",
+        "id": "kentucky-driver-licensing-independence.cognitive.6",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Separately from ordinary KYTC licensing, KSP’s currently linked testing table lists 844-253-5680 for Independence and written/road testing Monday–Friday throughout the day. Confirm the actual test destination and appointment with KSP; the table does not give a street address or promise walk-in testing.",
+        "source_url": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/05/Regional-Testing-Locations-Hours-5-29-26.pdf",
+        "id": "kentucky-driver-licensing-independence.cognitive.7",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For a written permit test, KSP tells deaf or hard-of-hearing applicants to contact the testing site, make an appointment and request a sign-language interpreter. This is a KSP testing procedure, not a promise of an on-demand interpreter for every KYTC transaction.",
+        "source_url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+        "id": "kentucky-driver-licensing-independence.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "KSP says some testing locations have audio versions of the written test; where unavailable, the test may be administered orally. Call 800-542-5990, option 3, to discuss arrangements. The page does not confirm which format is offered at this branch.",
+        "source_url": "https://www.kentuckystatepolice.ky.gov/driver-testing",
+        "id": "kentucky-driver-licensing-independence.cognitive.8",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ohio Valley Antique Mall",
+    "city": "Fairfield",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "7285 Dixie Highway, Fairfield, OH 45014",
+    "website": "https://www.ohiovalleyantiques.com/",
+    "source_url": "https://www.ohiovalleyantiques.com/about/",
+    "limitations": "Public website information only; no on-site audit. This is the Fairfield antique mall, not Ohio Valley Mall in St. Clairsville. Wheelchair provision does not establish that motorized carts are currently loaned. Individual booth layouts, entrance thresholds, door controls, toilets, adult changing, companion arrangements and current clearances are unverified. Christmas Eve opening is unresolved: the hours page says 10 a.m., while the current homepage banner says 9 a.m.; both say closing at 6 p.m. Confirm with the mall. Historical visitor accounts and undated photos cannot establish current equipment or routes.",
+    "checked_at": "2026-11-14",
+    "slug": "ohio-valley-antique-mall",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The mall’s facility page lists wheelchairs and shopping carts as available. It does not specify wheelchair type, number, reservation procedure, cost or current availability; ask before relying on a loan.",
+        "source_url": "https://www.ohiovalleyantiques.com/about/",
+        "id": "ohio-valley-antique-mall.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The free personal-shopper service helps locate a requested item: submit the contact form describing it, and the shopper will contact you if it is found in the mall. This is item-finding assistance; the page does not offer a personal care attendant or continuous shopping escort.",
+        "source_url": "https://www.ohiovalleyantiques.com/services/",
+        "id": "ohio-valley-antique-mall.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Staff offer help loading purchased items when necessary. Customers are asked to bring blankets, straps and/or cardboard to get items home safely. This refers to merchandise, not lifting or transferring visitors.",
+        "source_url": "https://www.ohiovalleyantiques.com/services/",
+        "id": "ohio-valley-antique-mall.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Shipping is available for small and large items, and the mall advertises a delivery service. Enquire through its contact page; delivery area, charges, timing and in-home placement are not specified here.",
+        "source_url": "https://www.ohiovalleyantiques.com/services/",
+        "id": "ohio-valley-antique-mall.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The services page lists a customer lounge with a wide-screen television. It may provide a place to pause, but the page does not describe it as a quiet room or specify seating or wheelchair spaces.",
+        "source_url": "https://www.ohiovalleyantiques.com/services/",
+        "id": "ohio-valley-antique-mall.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The mall advertises free parking. The source does not identify accessible bays, a drop-off point or a continuous step-free route from parking to the door.",
+        "source_url": "https://www.ohiovalleyantiques.com/services/",
+        "id": "ohio-valley-antique-mall.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The hours page gives normal opening as 9 a.m.–9 p.m. daily, with closures on Easter Sunday, Thanksgiving and Christmas Day. Holiday opening times need a fresh check; the listed phone number is 513-874-7855.",
+        "source_url": "https://www.ohiovalleyantiques.com/hours/",
+        "id": "ohio-valley-antique-mall.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }

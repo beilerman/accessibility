@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-11-14",
+  "base": "d49ef1aaea1667a7f17bdbcab94724cd8d9fba8c",
+  "newVenues": [
+    {
+      "slug": "handzy-shop-studio-covington",
+      "notes": 4
+    },
+    {
+      "slug": "kentucky-driver-licensing-burlington",
+      "notes": 10
+    },
+    {
+      "slug": "kentucky-driver-licensing-independence",
+      "notes": 10
+    },
+    {
+      "slug": "ohio-valley-antique-mall",
+      "notes": 7
+    }
+  ],
+  "newNoteIds": 38,
+  "newVenueNotes": 31,
+  "existingVenueNewNotes": 7,
+  "oldNoteTextsChanged": 0,
+  "oldNoteSourceUrlsChanged": 0,
+  "oldNotesRefreshed": 18,
+  "oldIdsAndHistoryPrefixesPreserved": true,
+  "unrelatedPlaceRecordsPreserved": 183,
+  "fullRechecks": [
+    {
+      "slug": "price-hill-branch-library",
+      "before": "2026-11-11",
+      "after": "2026-11-14"
+    },
+    {
+      "slug": "findlay-market",
+      "before": "2026-11-11",
+      "after": "2026-11-14"
+    }
+  ],
+  "partialDepthOnly": [
+    {
+      "slug": "kenton-county-government-center",
+      "newNotes": 2,
+      "fullReviewDate": "2026-11-12",
+      "oldNotesReviewed": 0
+    }
+  ],
+  "passageRecordsRefined": [
+    "findlay-market.chronic.1",
+    "findlay-market.chronic.2",
+    "findlay-market.chronic.3",
+    "findlay-market.mobility.2",
+    "findlay-market.mobility.3"
+  ],
+  "missingQuoteIdsUnchanged": [
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.sensory.1",
+    "molly-malones-covington.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.chronic.1",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.sensory.1",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.2"
+  ],
+  "selectedSources": 18,
+  "unselectedBaselinesPreserved": 561,
+  "finalEvidenceChecks": 60,
+  "finalEvidenceMatchesCatalog": true,
+  "totals": {
+    "venues": 190,
+    "activeNotes": 1979,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 1959,
+    "missingQuoteRecords": 20,
+    "licensedPhotos": 87,
+    "guides": 115,
+    "communityReports": 61
+  },
+  "categories": {
+    "Museums & attractions": 21,
+    "Arts & performances": 33,
+    "Parks & outdoors": 34,
+    "Libraries": 15,
+    "Transportation": 8,
+    "Food & drink": 28,
+    "Shopping": 25,
+    "Public services": 16,
+    "Recreation & fitness": 10
+  }
+}

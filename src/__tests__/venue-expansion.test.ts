@@ -3,6 +3,11 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "ohio-valley-antique-mall",
+  "handzy-shop-studio-covington",
+  "kentucky-driver-licensing-burlington",
+  "kentucky-driver-licensing-independence",
+
   "joseph-beth-booksellers-rookwood",
   "poor-charlottes-books-covington", "blue-marble-books-fort-thomas",
   "book-bus-depot-sharonville", "sharonville-city-hall",
@@ -29,6 +34,39 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("keeps Fairfield wheelchair provision separate from historical motorized-cart reports", () => {
+    const slug = "ohio-valley-antique-mall";
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).city).toBe("Fairfield");
+    expect(text(slug)).not.toMatch(/motorized carts/);
+    expect(text(slug)).toContain("merchandise, not lifting or transferring visitors");
+    expect(place(slug).limitations).toContain("Christmas Eve opening is unresolved");
+  });
+  it("separates regional licensing procedures from curbside service and County Clerk hours", () => {
+    const slugs = ["kentucky-driver-licensing-burlington", "kentucky-driver-licensing-independence"];
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(expect.arrayContaining(slugs));
+    for (const slug of slugs) {
+      expect(text(slug)).toContain("not an every-Saturday schedule");
+      expect(text(slug)).toContain("without a mobile device");
+      expect(place(slug).limitations).toContain("Phone check-in is not curbside licensing");
+      expect(text(slug)).toContain("KSP testing procedure");
+      expect(text(slug)).toContain("does not confirm which format is offered at this branch");
+      expect(place(slug).observed_at).toBeNull();
+    }
+    expect(place(slugs[0]).address).toContain("Suite 200");
+    expect(place(slugs[1]).address).toContain("1655 Delaware Crossing");
+    expect(text("kenton-county-government-center")).toContain("separate from the County Clerk’s hours");
+  });
+  it("finds Handzy at West 6th Street without turning local pickup into vehicle handoff", () => {
+    const slug = "handzy-shop-studio-covington";
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain(slug);
+    expect(place(slug).address).toBe("421 W. 6th Street, Covington, KY 41011");
+    expect(text(slug)).toContain("holiday hours");
+    expect(text(slug)).toContain("does not explain the collection point");
+    expect(text(slug)).toContain("maximum of eight attendees");
+    expect(place(slug).observed_at).toBeNull();
+  });
+
   it("finds Rookwood phone-order support without promoting the historical elevator report to an official fact", () => {
     const slug = "joseph-beth-booksellers-rookwood";
     expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
@@ -565,7 +603,7 @@ describe("November source-backed venue expansion", () => {
     expect(text("burnet-woods-trailside-nature-center")).toMatch(/same page says Saturday open hours/);
   });
   it("discovers public services and recreation while preserving construction and seasonal limits", () => {
-    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens", "covunity-fridge-banklick-street", "walton-post-office"]);
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens", "covunity-fridge-banklick-street", "walton-post-office", "kentucky-driver-licensing-burlington", "kentucky-driver-licensing-independence"]);
     expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("uc-campus-recreation-center");
     expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toContain("dunham-recreation-complex");
     expect(place("kenton-county-government-center").address).toBe("1840 Simon Kenton Way, Covington, KY 41011");
