@@ -1,0 +1,84 @@
+[
+ {
+  "slug": "bayley-fitness-club-delhi",
+  "address_url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+  "address_quote": "401 Farrell Court Cincinnati, OH 45233",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "The currently linked November 2026 fitness schedule gives the club address as 401 Farrell Court, Cincinnati, and phone 513-347-1400. This is the fitness-club address, distinct from the main Bayley campus contact address.",
+    "url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+    "quote": "401 Farrell Court Cincinnati, OH 45233 513-347-1400",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "03c8cd603bc15a15f35c6b05ddfeeb0b9ceefba658050ce05819df135b2999ae"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Bayley describes its fitness offering as serving adults in the greater community as well as on campus. Ask the club about current membership eligibility, prices and guest access before visiting; the page does not specify a minimum age or day-pass conditions.",
+    "url": "https://www.bayleylife.org/programs-services/fitness-club",
+    "quote": "With inspiring programs, first-rate amenities, and a welcoming neighborhood, we offer only the best for adults in the greater community and on campus.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3c17730e13b3122bb4d0a3892e36feb21200aeffeb161334c995e1e6f2b774fc"
+   },
+   {
+    "domain": "mobility",
+    "text": "The fitness page lists an aquatics center, indoor walking track, strength/cardio center and locker rooms. It does not describe a step-free entrance route, lift equipment or assisted changing facilities.",
+    "url": "https://www.bayleylife.org/programs-services/fitness-club",
+    "quote": "Aquatics Center Indoor Walking Track Strength and Cardio Center Group Fitness Classes Personal Training Locker Rooms",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "3c17730e13b3122bb4d0a3892e36feb21200aeffeb161334c995e1e6f2b774fc"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The November 2026 schedule requires registration for every class and limits class size to avoid overcrowding. Sign-ups open 72 hours before each class. If a place opens, the next person on the waitlist is automatically enrolled and notified; remove yourself from the class list if you cannot attend.",
+    "url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+    "quote": [
+     "Registration for all classes is required! All classes are available to attend. Due to popularity of classes and to avoid overcrowding class size is limited. • Sign ups for classes will open 72 hours before each class starts. • Waitlist: if a position opens and you are next on the waitlist, you will be automatically enrolled in the class and notified accordingly.",
+     "IF YOU CAN NO LONGER ATTEND THE CLASS, IT IS IMPERATIVE THAT YOU TAKE YOUR NAME OFF OF THAT CLASS LIST."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "03c8cd603bc15a15f35c6b05ddfeeb0b9ceefba658050ce05819df135b2999ae"
+   },
+   {
+    "domain": "chronic",
+    "text": "The pool closes 15 minutes before the fitness facility. The November 2026 pool schedule prohibits individual workouts and whirlpool use during scheduled classes, so check the pool timetable before planning an independent swim.",
+    "url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+    "quote": [
+     "(Pool closes 15 mins. prior to facility)",
+     "INDIVIDUAL WORKOUTS AND /OR WHIRLPOOL USE NOT PERMITTED DURING SCHEDULED CLASSES"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "03c8cd603bc15a15f35c6b05ddfeeb0b9ceefba658050ce05819df135b2999ae"
+   },
+   {
+    "domain": "cognitive",
+    "text": "The November 2026 schedule lists the club closed on Thanksgiving, Thursday November 26, and open 8 a.m.–6:30 p.m. on Friday November 27. These holiday hours differ from the usual Friday opening.",
+    "url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+    "quote": [
+     "Thursday 11/26 Closed Happy Thanksgiving Friday 11/27 8:00 am -6:30pm",
+     "Friday 6:30am-6:30pm"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "03c8cd603bc15a15f35c6b05ddfeeb0b9ceefba658050ce05819df135b2999ae"
+   },
+   {
+    "domain": "chronic",
+    "text": "The class guide distinguishes activity levels and describes Chair Pilates+ as a seated-and-standing format. A class name containing “chair” does not mean the whole class is seated; discuss your requirements with the instructor.",
+    "url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+    "quote": [
+     "Bayley Fitness Club classes are designated by level of activity and type of activity.",
+     "Seated & standing format for core based Pilates exercises for abs, back & hips."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "03c8cd603bc15a15f35c6b05ddfeeb0b9ceefba658050ce05819df135b2999ae"
+   }
+  ]
+ }
+]

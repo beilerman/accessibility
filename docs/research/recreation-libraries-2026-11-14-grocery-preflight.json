@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://www.dillonvaleiga.com/",
+    "status": 200,
+    "sha256": "63d8aff7a03dcd0d4e517746846ee10ad33106bb4a84dfb85ded5bab9c5afa67",
+    "final_url": "https://www.dillonvaleiga.com/",
+    "error": null,
+    "leadLinks": [
+      {
+        "text": "Contact Us",
+        "url": "https://www.dillonvaleiga.com/contact-us/"
+      },
+      {
+        "text": "Accessibility",
+        "url": "https://www.dillonvaleiga.com/accessibility/"
+      }
+    ],
+    "checkedAt": "2026-11-14",
+    "researchNote": "Current official homepage identifies Dillonvale IGA at 3950 East Galbraith Road. This resolves the store itself, not necessarily the informal Deer Park wording in a comment. No physical-access evidence found."
+  },
+  {
+    "url": "https://www.dillonvaleiga.com/subscriptions/",
+    "status": 200,
+    "sha256": "43bf9263c5b4ae59a36fff707ea9b30f87ab7d4c75699ca5fb546c26670410dc",
+    "final_url": "https://www.dillonvaleiga.com/subscriptions/",
+    "error": null,
+    "leadLinks": [
+      {
+        "text": "Contact Us",
+        "url": "https://www.dillonvaleiga.com/contact-us/"
+      },
+      {
+        "text": "Accessibility",
+        "url": "https://www.dillonvaleiga.com/accessibility/"
+      }
+    ],
+    "checkedAt": "2026-11-14",
+    "researchNote": "Fast Lane subscription marketing appears with unresolved widget markup; actual local pickup/delivery availability and procedures need confirmation. Do not treat template copy as a working service."
+  },
+  {
+    "url": "https://paranrealtygroup.com/portfolio-items/dillonvale/",
+    "status": 200,
+    "sha256": "969202f0bbbe263eb21ff9b75230ef686becbd0cd88466ba44f77c13f6a73f45",
+    "final_url": "https://paranrealtygroup.com/portfolio-items/dillonvale/",
+    "error": null,
+    "leadLinks": [
+      {
+        "text": "Contact",
+        "url": "https://paranrealtygroup.com/contact/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://paranrealtygroup.com/contact/"
+      },
+      {
+        "text": "Contact",
+        "url": "https://paranrealtygroup.com/contact/"
+      }
+    ],
+    "checkedAt": "2026-11-14",
+    "researchNote": "Landlord tenant list independently identifies Dillonvale IGA in the center; the center address is not the store entrance address."
+  },
+  {
+    "url": "https://www.dillonvaleiga.com/contact-us/",
+    "status": 200,
+    "sha256": "bc172c9a8677408045a3c7f1c05b65c19d2277dffd6a531e7ea56af5816eff71",
+    "final_url": "https://www.dillonvaleiga.com/contact-us/",
+    "checkedAt": "2026-11-14",
+    "researchNote": "Contact page exposes an online form only; no contact attempted."
+  },
+  {
+    "url": "https://www.dillonvaleiga.com/accessibility/",
+    "status": 200,
+    "sha256": "c8002c5224d5ababb19110a8a70472ba8fcb6db23e2655032ae0409eeef1b21e",
+    "final_url": "https://www.dillonvaleiga.com/accessibility/",
+    "checkedAt": "2026-11-14",
+    "researchNote": "June 12, 2018 statement is explicitly about website accessibility. It does not describe store access or establish physical compliance."
+  }
+]

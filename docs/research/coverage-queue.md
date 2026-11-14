@@ -1,9 +1,135 @@
 # Broad and deep research queue
 
-Updated November 14, 2026, after dining/recreation growth, Hub/pool full reviews and
-access-photo follow-through. These are leads and questions; facts require fresh evidence.
+Updated November 14, 2026 after host-test recovery, MetroNow/Mason/UC growth,
+full Metro/Access review and extensive access imagery. Leads remain questions.
 
 ## Current prepared batch
+
+Read [transport, groceries, UC and recovery](transit-groceries-uc-2026-11-14.md)
+and its final gate, audit, media/link receipts, selector repair and validation.
+All mutation specs are applied. The runner owns final tests and Git writes.
+
+**Recovery:** the preceding host run passed 185/186 browser tests. Its one failure
+was the broad two-panorama link locator matching Little Miami and Bayley. Both
+links now use their specific full accessible names, with inline-whitespace tolerance.
+Built HTML and computed accessible-name checks pass. Local Chromium fails before
+navigation (MachPort 1100); CUA browser host is unavailable. All **189 browser/axe
+checks and visual page QA remain runner-required**. These are separate from the
+actual host test failure. Preserve every recovered edit; there were no conflicts.
+
+**New this pass:** MetroNow (10 notes), Dorothy Lane Market Mason (4), UC CRC (15),
+plus three Metro/Access notes: **32 new IDs**. Preserve MetroNow's booking, Less
+Walking selection, package/child-seat assistance limits and stale zone-FAQ conflict.
+DLM's mezzanine route and Mason grocery curbside service are unverified. UC has
+**2820/2840 Bearcat Way** and weekday pool-closing conflicts; preserve both, along
+with family-versus-adult-changing scope, student-only toilets and yearless holidays.
+UC arrival evidence now covers garages, parking eligibility, barcode use and game days.
+
+**Accuracy/freshness:** all 17 old Metro/Access notes reviewed, date November 12 → 14;
+four supporting records strengthened and one proof-of-age condition clarified.
+This repeats a venue already reviewed this week, not a new unique-week count. No
+partial review was promoted to a whole date; no absent-quote backfill. **20 legacy
+evidence gaps stay held.** The combined final gate covers 102 saved public notes.
+
+**Imagery:** one CC BY 2.0 Darius Pinkston bus-door/curb photograph dated April 25,
+2017; eight original linked guides cover Metro boarding/interiors, MetroNow's zone
+map, Mason frontage/room layout, UC lockers/track, pools/hot-tub steps, campus map
+and parking-reader controls. Thirty still/graphic views and two PDF pages inspected.
+Original and final photo frames compared; recovered photos/panorama faces reviewed.
+No AI or copyrighted image republication. Three separate community reports preserve
+historical crowd, ride and transfer experiences, with dates uncertain.
+
+**Combined pending batch:** seven new venues, 69 new notes, three full existing
+reviews (33 old notes), two text corrections, nine strengthened evidence records,
+two licensed photos, twelve linked guides and nine community reports. Previous
+recreation/library batch remains in this workspace; this is not a publication claim.
+Totals: **201 venues / 2,087 active / 2,067 quoted / 20 missing / 90 licensed photos /
+133 guides / 77 community reports**. Categories: parks 34, arts 33, food 30,
+shopping 26, museums 21, recreation 17, public services 16, libraries 15, transport 9.
+Discovery queue: **82 names / 36 added / 33 lead-only / 13 held**.
+
+Local checks: 120 unit tests, 79 pipeline tests, lint, types, build, 17 HTTP checks,
+102 fresh evidence matches and unique computed tour names pass. Thirty-seven source
+URLs baselined; nine new this pass, 21 combined; 576 unselected records preserved.
+All 13 distinct guide/source links return 200. See validation receipt for limits.
+
+**Next concrete batch:** follow **Lehr's Prime Market (Milford)** and **Seafood Station
+(Loveland)** from the newly read Mason discussion to official location, order/collection,
+entrance, seating and toilet evidence. Pair with a supported Northern Kentucky
+shopping/public-service lead and a **complete TANK rolling review**, plus real boarding
+and securement imagery. Resolve UC's exact arrival point/main-lobby route and DLM's
+mezzanine elevator/toilets. Seek actual MetroNow boarding imagery, not Access vehicles.
+Do not spend the whole pass on repeated blocks: Meijer Cold Spring remains helper-403;
+Bainbridge changing facilities do not apply there. Dillonvale local Fast Lane and
+physical access, Norwood operation, Alexandria addresses, Maple Knoll public eligibility
+and TriHealth unextractable policy/schedule passages remain held. Preserve prior holds.
+
+
+Late next-batch preflight: Lehr’s official contact/sandwich pages and Seafood Station’s
+home/Find Us pages returned 200. Exact official links and four fetch receipts are saved
+in `transit-groceries-uc-2026-11-14-next-leads-preflight.json`; queue entries now
+carry these links. Arrival/access review remains unfinished; no additional listing added.
+
+## Recovered recreation and library batch
+
+Read [recreation, libraries and access imagery](recreation-libraries-2026-11-14.md)
+and its canonical final gate, audit, media, guide-link, HTTP and validation receipts.
+All mutation specs are already applied; the runner owns final tests and Git writes.
+
+**Four new venues:** TriHealth Pavilion (8 notes), Powel Crosley YMCA (10), Silverlake
+Erlanger (9) and Bayley Fitness Club Delhi (7). Newport adds three room-policy notes:
+**37 new IDs overall**. Preserve outdoor-only zero-entry scope, staff/assistant limits,
+guest eligibility, family-versus-adult-changing distinction and timetable conflicts.
+
+**Accuracy/freshness:** Covington/Newport's 16 old notes fully reviewed; two whole
+dates November 12 → 14 repeat venues within the week. Five existing evidence records
+strengthened; one expired Covington closure corrected. One new Bayley passage retains
+its class heading. No absent-quote backfill; **20 legacy gaps stay held**. No partial
+review masquerades as a whole-venue refresh.
+
+**Imagery:** one full-frame CC0 2015 library entrance/sidewalk photo; four original
+linked guides (Crosley, Silverlake, Bayley and historical Metro Access ramp).
+Twenty-six still/full-panorama-face views,
+13 PDF pages and six sampled drive-thru frames inspected. Bayley metadata is from
+2022, with capture date unknown. No AI or copyrighted-image republication. Six separate
+community reports retain room specificity, uncertain dates and contrasting crowds.
+
+Totals: **198 venues / 2,055 active / 2,035 quoted / 20 missing / 89 licensed photos /
+125 guides / 74 community reports**. Categories: parks 34, arts 33, food 30, shopping 25,
+museums 21, public services 16, recreation 16, libraries 15, transport 8. Community
+queue **78 names / 33 added / 32 lead-only / 13 held**, including typed holds; inherited
+stale counters were recomputed without deleting candidates.
+
+**Next concrete batch:** broaden everyday shopping beyond blocked leads. Resolve
+Deer Park/Dillonvale local identity; follow Gramer's and other supported grocery
+sources without importing Australian/Canadian IGA services or third-party badges.
+Investigate **MetroNow!** booking, curb-to-curb selection, companion and package
+assistance limits as distinct from Metro fixed-route/Access. Its current official
+page retains future FAQ wording, while an August 26 official announcement supports
+the launched heading. Review exact current boundaries; historical Access ramp imagery
+is not MetroNow! equipment. Metro only received a guide, with whole date unchanged.
+UC recreation is an alternate community lead. Pair with a complete Metro/
+Access or TANK review and vehicle boarding/securement imagery.
+
+Late preflight found Dillonvale’s current official homepage (3950 East Galbraith).
+The informal Deer Park attribution still needs care. Fast Lane marketing has template
+widgets and its accessibility statement is website-only; verify actual local service
+and physical access. Five fresh pages are recorded in `-grocery-preflight.json`.
+
+Norwood current operation/entry, Alexandria's conflicting official addresses and
+Maple Knoll public eligibility remain held. TriHealth policy/schedule extraction
+failed despite visual legibility; do not bypass the gate. Seek arrival, threshold,
+operating lift, toilet and adult-changing evidence at all four new clubs and prior
+shopping/service gaps. See this batch's `-next-leads.json` for concrete source paths.
+
+Local checks: **57 evidence checks, 119 unit and 79 pipeline tests**, lint/types/build.
+Eighteen sources baselined (12 new); 586 unselected records preserved. Fourteen local
+HTTP checks and exact photo bytes passed. Chromium failed before navigation (MachPort
+1100), and CUA host unavailable: **all 186 browser/axe checks and visual page QA remain
+runner-required**. No deployed/live-site claim; releases stay at 9 a.m./5 p.m. Eastern,
+maximum two/day.
+
+## Previous dining, YMCA, Hub and pool batch
 
 Read [dining, YMCA, Hub and pool evidence](dining-ymca-hub-pools-2026-11-14.md) and
 its canonical final gate, catalog audit, media review, guide-link, HTTP and validation

@@ -1,0 +1,92 @@
+{
+  "checkedAt": "2026-11-14",
+  "applied": false,
+  "failedGateReceipt": "recreation-libraries-2026-11-14-held-gate.verified.json",
+  "held": [
+    {
+      "venue": "TriHealth Pavilion",
+      "status": "unextractable_pdf_passages",
+      "detail": "Elevator/service-desk policy and November lane-sharing visually read, but required helper matches failed. No OCR or JSON bypass. Current valid assistant form was imported separately."
+    },
+    {
+      "venue": "Norwood Recreation Center",
+      "status": "current_access_unresolved",
+      "sources": [
+        "https://norwoodohio.gov/Facilities/Facility/Details/Norwood-Recreation-Center-4",
+        "https://www.norwoodohio.gov/DocumentCenter/View/3131/Newsletter-SUMMER-2026?bidId="
+      ],
+      "detail": "Facility directory locates center at 2039 Sherman, without usable physical-access details. Summer newsletter historical and oversized. Third-party lift-construction/move reports cannot confirm present operation; two official Jazzercise locations yield only Loading text. Indoor recreation center and outdoor Waterworks pool are different facilities."
+    },
+    {
+      "venue": "Alexandria Community Center",
+      "status": "official_location_conflict",
+      "sources": [
+        "https://alexandriaky.gov/community-center/",
+        "https://alexandriaky.gov/venue/alexandria-community-center/",
+        "https://alexandriaky.gov/new-city-campus/"
+      ],
+      "detail": "Fresh pages disagree 8236 West Main versus 8822 Constable; campus page still estimated August completion. No opening/operating location inferred."
+    },
+    {
+      "venue": "Maple Knoll Hemsworth Wellness Center",
+      "status": "public_eligibility_unknown",
+      "sources": [
+        "https://mapleknoll.org/health-and-wellness/"
+      ],
+      "detail": "Current page describes wide low-rise steps, rail and chair lift in resident-focused offering. Public/community eligibility not established. Old 2022 brochure 404 and cached former hours not current evidence."
+    },
+    {
+      "venue": "Bayley Fitness Club",
+      "status": "specific_class_times_held",
+      "detail": "November PDF includes conflicting AquaFit time and ended course ranges. Seven supported notes and historical panoramas published without resolving timetable conflicts."
+    },
+    {
+      "venue": "Powel Crosley YMCA",
+      "status": "yearless_seasonal_table",
+      "detail": "Back-to-school heading has no year; preserve confirm-current-season caveat. Separate lap/waterpark/bubble tables do not prove all swimming closed."
+    },
+    {
+      "venue": "Legacy evidence gaps",
+      "status": "unchanged",
+      "detail": "Twenty missing quote records remain held; no backfill claimed."
+    }
+  ],
+  "nextBatch": [
+    {
+      "lane": "Everyday shopping",
+      "venues": [
+        "Deer Park/Dillonvale IGA",
+        "Gramer’s Market Erlanger",
+        "CAM International Market Evendale"
+      ],
+      "nextStep": "Dillonvale official homepage now freshly confirms 3950 East Galbraith; keep informal Deer Park comment attribution uncertain. Follow actual local pickup/delivery workflow and entrance/toilet/assistance evidence: Fast Lane page has unresolved template widgets, and accessibility page concerns the website only. No listing imported. Continue Gramer’s/CAM or another supported grocery if access evidence remains thin.",
+      "officialLeadUrls": [
+        "https://www.dillonvaleiga.com/",
+        "https://www.dillonvaleiga.com/subscriptions/",
+        "https://www.dillonvaleiga.com/accessibility/"
+      ]
+    },
+    {
+      "lane": "Transport depth or separate service listing",
+      "venue": "MetroNow!",
+      "officialUrl": "https://www.go-metro.com/riding-metro/metronow/",
+      "status": "official_page_read_preflight_only",
+      "nextStep": "Review separately from fixed-route Metro and eligibility-based Access. August 26 official announcement confirms planned August 30 start for Bond Hill/Roselawn, supporting the current launched heading over stale future FAQ language; review exact current zone map boundaries before import. Less Walking selection, phone/companion booking and no package handling are useful current-page leads. One historical Access ramp photo linked separately; it does not show MetroNow equipment.",
+      "officialLaunchUrl": "https://www.go-metro.com/metronow-launches-service-in-bond-hill-roselawn-and-surrounding-communities/"
+    },
+    {
+      "lane": "Alternative breadth",
+      "venue": "University of Cincinnati recreation center",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1v5z77s/looking_for_a_place_to_swim/",
+      "nextStep": "Follow current official public/community eligibility, location, pool-entry equipment and changing procedures; discussion recommendation is only a lead."
+    },
+    {
+      "lane": "Full rolling recheck",
+      "venues": [
+        "Cincinnati Metro and Access paratransit",
+        "TANK"
+      ],
+      "nextStep": "Choose one complete service review alongside growth; retain individual service limits and review every old note before changing whole-venue date."
+    }
+  ]
+}

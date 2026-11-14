@@ -1,0 +1,45 @@
+[
+ {
+  "slug": "cincinnati-metro-and-access-paratransit",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "text": "The Access page gives a $4.40 fare, with a dated increase effective July 16, 2025 alongside its older $4.00 line. Pay the exact fare in cash, Access tickets or a combination; Access tickets cannot pay fares on Metro fixed routes.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "Cost: $4.40 Dollars Per Ride",
+     "Access Fare Hamilton County: $4.00 (As of April 4, 2021).",
+     "Notice: Starting July 16, 2025, Access rides will increase to $4.40.",
+     "Access fares can be paid in any combination of cash and tickets equaling the exact fare. Access tickets cannot be accepted for fares on any Metro route."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "domain": "sensory",
+    "text": "The Access contact list gives 800-750-0750 for TTY/Ohio Relay Service. The reservations line is separately listed as 513-531-8888.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "Access Reservations: 513-531-8888",
+     "TTY for hearing impaired/ Ohio Relay Service: 800-750-0750"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   },
+   {
+    "domain": "cognitive",
+    "text": "Following the functional skills assessment, Metro says applicants receive written notice of their Access eligibility decision within 21 days. An ineligibility notice includes the reasons and appeal-process information.",
+    "url": "https://www.go-metro.com/access-paratransit/",
+    "quote": [
+     "Following the functional skills assessment, applicants will receive written notice of determination of eligibility within 21 days.",
+     "If an applicant is determined ineligible for Access services, their notice of determination provides specifics related to the determination and information of an appeals process."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "e2a4c4fa292d22c4277f775e47e8dee04b277c6731040c0fff028268ec323cf8"
+   }
+  ]
+ }
+]

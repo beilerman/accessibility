@@ -1,0 +1,307 @@
+{
+  "base": "5b9a987a873bdda2b21214a1f750111def00500d",
+  "currentPass": {
+    "newVenues": [
+      {
+        "slug": "dorothy-lane-market-mason",
+        "notes": 4
+      },
+      {
+        "slug": "metronow-on-demand",
+        "notes": 10
+      },
+      {
+        "slug": "university-cincinnati-campus-recreation-center",
+        "notes": 15
+      }
+    ],
+    "newNoteIds": [
+      "cincinnati-metro-and-access-paratransit.cognitive.8",
+      "cincinnati-metro-and-access-paratransit.cognitive.9",
+      "cincinnati-metro-and-access-paratransit.sensory.2",
+      "dorothy-lane-market-mason.chronic.1",
+      "dorothy-lane-market-mason.cognitive.1",
+      "dorothy-lane-market-mason.mobility.1",
+      "dorothy-lane-market-mason.mobility.2",
+      "metronow-on-demand.chronic.1",
+      "metronow-on-demand.chronic.2",
+      "metronow-on-demand.chronic.3",
+      "metronow-on-demand.cognitive.1",
+      "metronow-on-demand.cognitive.2",
+      "metronow-on-demand.cognitive.3",
+      "metronow-on-demand.cognitive.4",
+      "metronow-on-demand.mobility.1",
+      "metronow-on-demand.mobility.2",
+      "metronow-on-demand.sensory.1",
+      "university-cincinnati-campus-recreation-center.chronic.1",
+      "university-cincinnati-campus-recreation-center.chronic.2",
+      "university-cincinnati-campus-recreation-center.chronic.3",
+      "university-cincinnati-campus-recreation-center.cognitive.1",
+      "university-cincinnati-campus-recreation-center.cognitive.2",
+      "university-cincinnati-campus-recreation-center.cognitive.3",
+      "university-cincinnati-campus-recreation-center.cognitive.4",
+      "university-cincinnati-campus-recreation-center.cognitive.5",
+      "university-cincinnati-campus-recreation-center.cognitive.6",
+      "university-cincinnati-campus-recreation-center.cognitive.7",
+      "university-cincinnati-campus-recreation-center.mobility.1",
+      "university-cincinnati-campus-recreation-center.mobility.2",
+      "university-cincinnati-campus-recreation-center.mobility.3",
+      "university-cincinnati-campus-recreation-center.mobility.4",
+      "university-cincinnati-campus-recreation-center.mobility.5"
+    ],
+    "newNoteCount": 32,
+    "oldNotesReviewed": 17,
+    "existingTextCorrections": [
+      "cincinnati-metro-and-access-paratransit.cognitive.3"
+    ],
+    "fullReviews": [
+      {
+        "slug": "cincinnati-metro-and-access-paratransit",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 17,
+        "newNotes": 20
+      }
+    ],
+    "partialReviews": [],
+    "unchangedExistingVenues": 197,
+    "preservedIdsAndHistoryPrefixes": true,
+    "media": {
+      "access-photos": {
+        "before": 89,
+        "after": 90,
+        "added": 1
+      },
+      "access-guides": {
+        "before": 125,
+        "after": 133,
+        "added": 8
+      },
+      "visitor-reports-community": {
+        "before": 74,
+        "after": 77,
+        "added": 3
+      }
+    },
+    "sourceBaselines": {
+      "selected": 37,
+      "new": 9,
+      "unchangedUnselected": 576
+    }
+  },
+  "combinedPending": {
+    "newVenues": [
+      {
+        "slug": "bayley-fitness-club-delhi",
+        "notes": 7
+      },
+      {
+        "slug": "dorothy-lane-market-mason",
+        "notes": 4
+      },
+      {
+        "slug": "metronow-on-demand",
+        "notes": 10
+      },
+      {
+        "slug": "powel-crosley-jr-ymca",
+        "notes": 10
+      },
+      {
+        "slug": "silverlake-family-place-erlanger",
+        "notes": 9
+      },
+      {
+        "slug": "trihealth-fitness-health-pavilion",
+        "notes": 8
+      },
+      {
+        "slug": "university-cincinnati-campus-recreation-center",
+        "notes": 15
+      }
+    ],
+    "newNoteIds": [
+      "bayley-fitness-club-delhi.chronic.1",
+      "bayley-fitness-club-delhi.chronic.2",
+      "bayley-fitness-club-delhi.cognitive.1",
+      "bayley-fitness-club-delhi.cognitive.2",
+      "bayley-fitness-club-delhi.cognitive.3",
+      "bayley-fitness-club-delhi.cognitive.4",
+      "bayley-fitness-club-delhi.mobility.1",
+      "campbell-county-public-library-newport-branch.chronic.4",
+      "campbell-county-public-library-newport-branch.cognitive.4",
+      "campbell-county-public-library-newport-branch.mobility.4",
+      "cincinnati-metro-and-access-paratransit.cognitive.8",
+      "cincinnati-metro-and-access-paratransit.cognitive.9",
+      "cincinnati-metro-and-access-paratransit.sensory.2",
+      "dorothy-lane-market-mason.chronic.1",
+      "dorothy-lane-market-mason.cognitive.1",
+      "dorothy-lane-market-mason.mobility.1",
+      "dorothy-lane-market-mason.mobility.2",
+      "metronow-on-demand.chronic.1",
+      "metronow-on-demand.chronic.2",
+      "metronow-on-demand.chronic.3",
+      "metronow-on-demand.cognitive.1",
+      "metronow-on-demand.cognitive.2",
+      "metronow-on-demand.cognitive.3",
+      "metronow-on-demand.cognitive.4",
+      "metronow-on-demand.mobility.1",
+      "metronow-on-demand.mobility.2",
+      "metronow-on-demand.sensory.1",
+      "powel-crosley-jr-ymca.chronic.1",
+      "powel-crosley-jr-ymca.chronic.2",
+      "powel-crosley-jr-ymca.chronic.3",
+      "powel-crosley-jr-ymca.cognitive.1",
+      "powel-crosley-jr-ymca.cognitive.2",
+      "powel-crosley-jr-ymca.cognitive.3",
+      "powel-crosley-jr-ymca.cognitive.4",
+      "powel-crosley-jr-ymca.cognitive.5",
+      "powel-crosley-jr-ymca.cognitive.6",
+      "powel-crosley-jr-ymca.cognitive.7",
+      "silverlake-family-place-erlanger.chronic.1",
+      "silverlake-family-place-erlanger.chronic.2",
+      "silverlake-family-place-erlanger.chronic.3",
+      "silverlake-family-place-erlanger.cognitive.1",
+      "silverlake-family-place-erlanger.cognitive.2",
+      "silverlake-family-place-erlanger.cognitive.3",
+      "silverlake-family-place-erlanger.mobility.1",
+      "silverlake-family-place-erlanger.mobility.2",
+      "silverlake-family-place-erlanger.sensory.1",
+      "trihealth-fitness-health-pavilion.chronic.1",
+      "trihealth-fitness-health-pavilion.chronic.2",
+      "trihealth-fitness-health-pavilion.cognitive.1",
+      "trihealth-fitness-health-pavilion.cognitive.2",
+      "trihealth-fitness-health-pavilion.mobility.1",
+      "trihealth-fitness-health-pavilion.mobility.2",
+      "trihealth-fitness-health-pavilion.mobility.3",
+      "trihealth-fitness-health-pavilion.mobility.4",
+      "university-cincinnati-campus-recreation-center.chronic.1",
+      "university-cincinnati-campus-recreation-center.chronic.2",
+      "university-cincinnati-campus-recreation-center.chronic.3",
+      "university-cincinnati-campus-recreation-center.cognitive.1",
+      "university-cincinnati-campus-recreation-center.cognitive.2",
+      "university-cincinnati-campus-recreation-center.cognitive.3",
+      "university-cincinnati-campus-recreation-center.cognitive.4",
+      "university-cincinnati-campus-recreation-center.cognitive.5",
+      "university-cincinnati-campus-recreation-center.cognitive.6",
+      "university-cincinnati-campus-recreation-center.cognitive.7",
+      "university-cincinnati-campus-recreation-center.mobility.1",
+      "university-cincinnati-campus-recreation-center.mobility.2",
+      "university-cincinnati-campus-recreation-center.mobility.3",
+      "university-cincinnati-campus-recreation-center.mobility.4",
+      "university-cincinnati-campus-recreation-center.mobility.5"
+    ],
+    "newNoteCount": 69,
+    "oldNotesReviewed": 33,
+    "existingTextCorrections": [
+      "cincinnati-metro-and-access-paratransit.cognitive.3",
+      "kenton-county-public-library-covington-branch.cognitive.1"
+    ],
+    "fullReviews": [
+      {
+        "slug": "cincinnati-metro-and-access-paratransit",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 17,
+        "newNotes": 20
+      },
+      {
+        "slug": "kenton-county-public-library-covington-branch",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 6,
+        "newNotes": 6
+      },
+      {
+        "slug": "campbell-county-public-library-newport-branch",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 10,
+        "newNotes": 13
+      }
+    ],
+    "partialReviews": [],
+    "unchangedExistingVenues": 191,
+    "preservedIdsAndHistoryPrefixes": true,
+    "media": {
+      "access-photos": {
+        "before": 88,
+        "after": 90,
+        "added": 2
+      },
+      "access-guides": {
+        "before": 121,
+        "after": 133,
+        "added": 12
+      },
+      "visitor-reports-community": {
+        "before": 68,
+        "after": 77,
+        "added": 9
+      }
+    },
+    "sourceBaselines": {
+      "selected": 37,
+      "new": 21,
+      "unchangedUnselected": 576
+    }
+  },
+  "totals": {
+    "venues": 201,
+    "activeNotes": 2087,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 2067,
+    "missingQuoteRecords": 20,
+    "licensedPhotos": 90,
+    "guides": 133,
+    "communityReports": 77,
+    "categories": {
+      "Museums & attractions": 21,
+      "Arts & performances": 33,
+      "Parks & outdoors": 34,
+      "Libraries": 15,
+      "Transportation": 9,
+      "Food & drink": 30,
+      "Shopping": 26,
+      "Public services": 16,
+      "Recreation & fitness": 17
+    }
+  },
+  "missingQuotes": [
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.sensory.1",
+    "molly-malones-covington.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.chronic.1",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.sensory.1",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.2"
+  ],
+  "communityQueue": {
+    "names": 82,
+    "statuses": {
+      "lead_only": 33,
+      "added": 36,
+      "held_contact_conflict": 1,
+      "held_unextractable_official_site": 2,
+      "held_source_blocked": 2,
+      "held": 5,
+      "held_location_conflict": 1,
+      "held_current_access": 1,
+      "held_public_eligibility": 1
+    }
+  },
+  "canonicalGateNotes": 102
+}

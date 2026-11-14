@@ -3,6 +3,9 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "metronow-on-demand", "dorothy-lane-market-mason", "university-cincinnati-campus-recreation-center",
+  "bayley-fitness-club-delhi",
+  "trihealth-fitness-health-pavilion", "powel-crosley-jr-ymca", "silverlake-family-place-erlanger",
   "fifty-west-wooster-pike", "fords-garage-norwood",
   "campbell-county-ymca", "central-parkway-ymca",
   "ohio-valley-antique-mall",
@@ -36,6 +39,39 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds transport, shopping and community recreation with service boundaries intact", () => {
+    expect(findPlaces({ category: "Transportation", region: "OH" }).map((p) => p.slug)).toContain("metronow-on-demand");
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain("dorothy-lane-market-mason");
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("university-cincinnati-campus-recreation-center");
+    expect(text("metronow-on-demand")).toContain("Less Walking");
+    expect(text("metronow-on-demand")).toContain("Operators are not permitted to help with packages");
+    expect(place("metronow-on-demand").limitations).toContain("separate from eligibility-based Access");
+    expect(text("dorothy-lane-market-mason")).toContain("mezzanine");
+    expect(place("dorothy-lane-market-mason").limitations).toContain("Washington Square pickup");
+    expect(text("university-cincinnati-campus-recreation-center")).toContain("specific to the leisure pool");
+    expect(text("university-cincinnati-campus-recreation-center")).toContain("student-only");
+    expect(place("university-cincinnati-campus-recreation-center").limitations).toContain("Pool closing information conflicts");
+  });
+
+  it("keeps recreation region, pool-entry scope and assistance conditions distinct", () => {
+    expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toEqual(expect.arrayContaining([
+      "trihealth-fitness-health-pavilion", "powel-crosley-jr-ymca", "bayley-fitness-club-delhi",
+    ]));
+    expect(findPlaces({ category: "Recreation & fitness", region: "KY" }).map((p) => p.slug)).toContain("silverlake-family-place-erlanger");
+    expect(text("bayley-fitness-club-delhi")).toContain("72 hours");
+    expect(text("bayley-fitness-club-delhi")).toContain("during scheduled classes");
+    expect(place("bayley-fitness-club-delhi").address).toContain("401 Farrell Court");
+    expect(text("trihealth-fitness-health-pavilion")).toContain("does not cover the indoor pools");
+    expect(text("trihealth-fitness-health-pavilion")).toContain("not permitted to physically assist");
+    expect(text("trihealth-fitness-health-pavilion")).toContain("at all times");
+    expect(text("powel-crosley-jr-ymca")).toContain("cannot reserve classes or lap swim");
+    expect(text("powel-crosley-jr-ymca")).toContain("table has no year");
+    expect(text("silverlake-family-place-erlanger")).toContain("24 hours ahead");
+    expect(text("silverlake-family-place-erlanger")).toContain("Water Park guests are permitted only Monday–Friday");
+    expect(text("campbell-county-public-library-newport-branch")).toContain("Presidents Room is on the lower level");
+    expect(text("kenton-county-public-library-covington-branch")).not.toContain("November 13, 2026");
+  });
+
   it("keeps branch and shared restaurant policy scope distinct", () => {
     expect(place("fifty-west-wooster-pike").address).toContain("7605 Wooster Pike");
     expect(text("fifty-west-wooster-pike")).toContain("directory lists three");

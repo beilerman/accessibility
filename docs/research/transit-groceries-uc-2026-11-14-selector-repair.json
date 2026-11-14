@@ -1,0 +1,17 @@
+{
+  "method": "dom-accessibility-api computeAccessibleName on built page HTTP response; not a browser or axe run. Full name includes title and new-tab suffix, tolerating inline whitespace.",
+  "results": [
+    {
+      "selector": "/^Open virtual tour \\(web page, 2 inspected panoramas\\)\\s*— Taproom indoor virtual tour \\(opens in a new tab\\)$/",
+      "computedName": "Open virtual tour (web page, 2 inspected panoramas)— Taproom indoor virtual tour (opens in a new tab)",
+      "href": "https://littlemiamibrewing.com/virtual-tour-of-taproom-in-out/",
+      "matches": 1
+    },
+    {
+      "selector": "/^Open virtual tour \\(web page, 2 inspected panoramas\\)\\s*— Pool deck, connecting doors and gym panoramas \\(opens in a new tab\\)$/",
+      "computedName": "Open virtual tour (web page, 2 inspected panoramas)— Pool deck, connecting doors and gym panoramas (opens in a new tab)",
+      "href": "https://www.bayleylife.org/virtual-tour",
+      "matches": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "campbell-county-public-library-newport-branch": [
+    [
+      "mobility",
+      "Newport’s Kinsella Community Room is on the main floor; the Presidents Room is on the lower level. The district’s meeting-room policy identifies those floors but does not describe elevator operation or door widths.",
+      "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf",
+      "operator_official",
+      "Newport has two large meeting rooms: the main floor Kinsella Community Room holds 65 and the lower level Presidents Room holds 85."
+    ],
+    [
+      "cognitive",
+      "Meeting-room reservations require an application and approval before the meeting, may be made up to three months ahead and are held for only 15 minutes after the reserved time. The person reserving a room must be at least 18.",
+      "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf",
+      "operator_official",
+      [
+        "The application (available online) for use of library facilities must be completed each time a meeting room is requested. The application must be received and approved by the library director (or designee) prior to the scheduled meeting. Reservations may be made up to three months in advance. Reservations will be taken on a first-come, first-served basis. A maximum of three meetings may be scheduled and active at a time across all branches. The library shall be notified 48 hours in advance in case of cancellations or changes. Rooms will only be held for 15 minutes past the reservation time.",
+        "Individuals reserving the meeting room must be at least 18 years of age."
+      ]
+    ],
+    [
+      "chronic",
+      "Study rooms are reserved in two-hour blocks, extendable to four hours if no one is waiting. Public meetings must end at least 15 minutes before closing; private social events must end at least 30 minutes before closing.",
+      "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf",
+      "operator_official",
+      "All meetings must be within regular operating hours. Public meetings must end a minimum of fifteen minutes prior to closing. Private social events must end a minimum of 30 minutes prior to closing. Study rooms are reserved in two (2) hour blocks. This time may be extended up to four (4) hours if others are not waiting to use the room."
+    ]
+  ]
+}

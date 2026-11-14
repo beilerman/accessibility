@@ -1,0 +1,169 @@
+{
+  "checked_at": "2026-11-14",
+  "prepared_at_utc": "2026-11-14T10:11:22.553048+00:00",
+  "base": "5b9a987a873bdda2b21214a1f750111def00500d",
+  "publish_ready": true,
+  "status": "ready_for_runner_validation",
+  "publication": "Reviewed local batch for runner full-suite validation, browser/axe and visual page QA before atomic pushes. No agent Git writes, deployment, preview or live-site verification.",
+  "start_state": {
+    "pending_edits": 0,
+    "conflict_markers": 0,
+    "prior_validation_failure": "None unresolved in prepared base; previous runner summary reviewed."
+  },
+  "progress": {
+    "new_venues": [
+      {
+        "slug": "bayley-fitness-club-delhi",
+        "notes": 7
+      },
+      {
+        "slug": "powel-crosley-jr-ymca",
+        "notes": 10
+      },
+      {
+        "slug": "silverlake-family-place-erlanger",
+        "notes": 9
+      },
+      {
+        "slug": "trihealth-fitness-health-pavilion",
+        "notes": 8
+      }
+    ],
+    "new_note_ids": 37,
+    "new_venue_notes": 34,
+    "existing_venue_new_notes": 3,
+    "old_notes_reviewed": 16,
+    "full_rechecks": [
+      {
+        "slug": "kenton-county-public-library-covington-branch",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 6,
+        "newNotes": 6
+      },
+      {
+        "slug": "campbell-county-public-library-newport-branch",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 10,
+        "newNotes": 13
+      }
+    ],
+    "partial_fact_reviews": [],
+    "media_only_existing_venues": [
+      "cincinnati-metro-and-access-paratransit"
+    ],
+    "media_only_whole_date_retained": "2026-11-12",
+    "weekly_unique_progress": "Two repeated venues already reviewed in this rolling week; no new unique-week total claimed.",
+    "existing_note_semantic_revisions": 1,
+    "existing_evidence_records_strengthened": 5,
+    "new_note_heading_evidence_refinement": 1,
+    "existing_compound_quote_shortened": 1,
+    "previously_absent_quote_repairs": 0,
+    "licensed_photos": 1,
+    "linked_guides": 4,
+    "community_reports": 6,
+    "stills_complete_panorama_faces_inspected": 26,
+    "partial_high_resolution_tiles_excluded_from_scene_count": 12,
+    "pdf_pages_inspected": 13,
+    "sampled_video_frames_inspected": 6
+  },
+  "checks": {
+    "final_evidence_passed": 57,
+    "checked_notes": 53,
+    "checked_addresses": 4,
+    "stored_note_quotes_equal_canonical_receipts": true,
+    "unit_tests_passed": 119,
+    "pipeline_tests_passed": 79,
+    "lint": "passed",
+    "types": "passed in production build",
+    "build": "passed after fourth guide addition",
+    "build_warning": "Known nonfatal Atkinson Hyperlegible Next fallback font override warning.",
+    "selected_source_baselines": 18,
+    "new_source_baselines": 12,
+    "unselected_baselines_preserved": 586,
+    "guide_pages_200": 4,
+    "panorama_wrapper_pages_200": 2,
+    "complete_panorama_face_images_200": 12,
+    "http_200_checks": 14,
+    "image_bytes_match": true,
+    "browser_tests_discovered": 186,
+    "browser_tests_passed": 0,
+    "browser_attempt": "Three selected new routes; first failed at Chromium launch before navigation, two did not run.",
+    "browser_blocker": "MachPortRendezvousServer permission denied (1100).",
+    "cua_fallback": "Browser access host unavailable.",
+    "browser_and_visual_layout_gate": "Runner required; HTTP/HTML checks and original/final image inspection are separate evidence.",
+    "diff_check": "passed",
+    "all_old_ids_and_history_prefixes_preserved": true,
+    "prior_media_and_visitor_reports_preserved": true,
+    "unrelated_place_records_preserved": 192,
+    "source_monitor_open_issues": 0,
+    "grocery_preflight_sources_200": 5,
+    "all_changed_and_new_files_reviewed": true,
+    "canonical_note_text_and_source_hash_alignment": true,
+    "all_new_json_parsed": true,
+    "conflict_markers": 0,
+    "modified_files": 11,
+    "new_files": 31
+  },
+  "resolved_local_failures": [
+    "Initial new-venue limitations standardized to existing no-on-site-audit contract; externally hosted library policy correctly classified operator_official.",
+    "Initial pipeline baseline coverage failure resolved by checking new official sources.",
+    "Final scratch audit corrected note-only count of 53 versus 57 including addresses; all note quote/storage comparisons passed."
+  ],
+  "held": [
+    "Twenty legacy missing quote records unchanged.",
+    "TriHealth visually legible elevator and lane-sharing passages failed extraction/matching gate; no bypass or source_checked import.",
+    "TriHealth entrance/aquatics images unavailable (403); no tour guide added.",
+    "Norwood current operation/entrance unresolved; oversized historical summer PDF not current evidence.",
+    "Alexandria conflicting official operating addresses and old completion estimate.",
+    "Maple Knoll resident-focused page does not establish public eligibility.",
+    "Bayley specific class times conflict and some printed courses have ended.",
+    "Crosley seasonal table has no year.",
+    "All historical media and community accounts retain current-condition and date uncertainty."
+  ],
+  "totals": {
+    "venues": 198,
+    "activeNotes": 2055,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 2035,
+    "missingQuoteRecords": 20,
+    "licensedPhotos": 89,
+    "guides": 125,
+    "communityReports": 74
+  },
+  "community_queue": {
+    "names": 78,
+    "statuses": {
+      "lead_only": 32,
+      "added": 33,
+      "held_contact_conflict": 1,
+      "held_unextractable_official_site": 2,
+      "held_source_blocked": 2,
+      "held": 5,
+      "held_location_conflict": 1,
+      "held_current_access": 1,
+      "held_public_eligibility": 1
+    }
+  },
+  "next_batch": "Everyday grocery identity/access research; MetroNow service scope and exact zone boundaries using current page plus August launch notice; full Metro/Access or TANK recheck; boarding, entrance, toilets and adult-changing imagery. UC recreation is an alternate community lead.",
+  "receipts": {
+    "canonical_evidence": "docs/research/recreation-libraries-2026-11-14-final-verify.verified.json",
+    "catalog_audit": "docs/research/recreation-libraries-2026-11-14-audit.json",
+    "media_review": "docs/research/recreation-libraries-2026-11-14-media-review.json",
+    "guide_links": "docs/research/recreation-libraries-2026-11-14-guide-links.json",
+    "panorama_faces": "docs/research/recreation-libraries-2026-11-14-panorama-receipts.json",
+    "http": "docs/research/recreation-libraries-2026-11-14-http.json",
+    "held_gate": "docs/research/recreation-libraries-2026-11-14-held-gate.verified.json",
+    "next_leads": "docs/research/recreation-libraries-2026-11-14-next-leads.json",
+    "transport_preflight": "docs/research/recreation-libraries-2026-11-14-transport-preflight.json",
+    "grocery_preflight": "docs/research/recreation-libraries-2026-11-14-grocery-preflight.json"
+  },
+  "mutation_specs": "Already applied; do not rerun import/recheck mutations. Held-gate proposals remain deliberately unapplied.",
+  "subsequentHostValidation": {
+    "result": "185 of 186 browser tests passed; gallery tour locator was ambiguous after Bayley was added",
+    "failure": "e2e/accessibility.spec.ts:294 matched both Little Miami and Bayley virtual-tour links",
+    "recoveryReport": "docs/research/transit-groceries-uc-2026-11-14.md",
+    "note": "Original local validation above is historical. Current combined batch, selector repair and readiness are recorded in the recovery report and its validation receipt."
+  }
+}

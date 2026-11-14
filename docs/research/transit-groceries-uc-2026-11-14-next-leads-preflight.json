@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.lehrsprime.com/contact/",
+    "status": 200,
+    "file": "9c9a495d83b3",
+    "length": 361871,
+    "error": null,
+    "sha256": "f5f6c147ca7b2ce8edaf36bcecd034178f55d01c8dc1d8b24f6272c18b05b890",
+    "final_url": "https://www.lehrsprime.com/contact/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "url": "https://www.lehrsprime.com/sandwiches/",
+    "status": 200,
+    "file": "9d3398db0bfd",
+    "length": 371981,
+    "error": null,
+    "sha256": "5165f0d663604d3c7fd6c16986edc4702f9ab5e92bc05e44debb2d31075639bb",
+    "final_url": "https://www.lehrsprime.com/sandwiches/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "url": "https://www.seafoodstationloveland.com/",
+    "status": 200,
+    "file": "5bc3b2a29d90",
+    "length": 72982,
+    "error": null,
+    "sha256": "75ea235e7ea116b0c415c2290e668ca4e624bcfeb747e9f06c9e9417ffebcc12",
+    "final_url": "https://www.seafoodstationloveland.com/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "url": "https://www.seafoodstationloveland.com/find-us",
+    "status": 200,
+    "file": "d81cde7fc397",
+    "length": 60040,
+    "error": null,
+    "sha256": "d7dc373fb024c8e28f3523e258319c8d2f65905c47707841e5e0d0709b9c4afb",
+    "final_url": "https://www.seafoodstationloveland.com/find-us",
+    "checkedAt": "2026-11-14"
+  }
+]

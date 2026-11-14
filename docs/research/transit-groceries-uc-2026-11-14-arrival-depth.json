@@ -1,0 +1,49 @@
+{
+  "university-cincinnati-campus-recreation-center": [
+    [
+      "mobility",
+      "UC names Campus Green and Woodside as the closest garages to the CRC. Proximity does not establish a step-free garage-to-lobby route.",
+      "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+      "venue_official",
+      "The Campus Recreation Center (CRC) is located in the center of campus, giving visitors several parking options. Campus Green and Woodside garages are the closest to the CRC."
+    ],
+    [
+      "cognitive",
+      "Parking is not included automatically with recreation membership. The member-parking option is available to community, affiliate and alumni members and their spouses, domestic partners and legal dependents; UC students, faculty and staff buy parking through Parking Services.",
+      "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+      "venue_official",
+      [
+        "Please note that parking is not automatically included with your membership. However, it is available for Community, Affiliate and Alumni members, as well as their spouses, domestic partners and legal dependents.",
+        "UC students, faculty and staff must purchase parking through UC Parking Services ."
+      ]
+    ],
+    [
+      "cognitive",
+      "For a Campus Rec parking card, scan in rather than taking a ticket so the card can scan out. The card covers three hours once daily while using recreation facilities; additional fees start after three hours and are charged at exit.",
+      "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+      "venue_official",
+      [
+        "You must scan the card in to be able to later scan out (do not pull a ticket on entry). Hold card under red barcode reader (see photo at the top of this page) to enter/exit the garage.",
+        "Each card entitles the designated permit holder to 3 hours of parking once per day while using Campus Rec facilities.",
+        "Additional fees will automatically begin after 3 hours and will be charged at exit."
+      ]
+    ],
+    [
+      "chronic",
+      "On game days, recreation members must use Campus Green Garage and show their card to the parking attendant; parking may be limited. For entry or exit trouble, press HELP on the card reader and report any error code to Member Services or 513-556-0604.",
+      "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+      "venue_official",
+      [
+        "Parking may be limited on game days, but members coming to work out can access the garage by showing their card to the Parking Services Attendant. Members must park in Campus Green Garage on game days.",
+        "If you have trouble entering or exiting the parking garage at the gate, press the HELP button on the card reader. If your pass did not work at the gate, please make sure to read the error code on the screen at the gate and let the Member Services Staff know about the issue at the desk or call 513-556-0604."
+      ]
+    ],
+    [
+      "cognitive",
+      "A separate UC building-directory record identifies the Campus Recreation Center at 2840 Bearcat Way. Confirm the arrival point with recreation staff before travelling.",
+      "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=RECCENTER",
+      "venue_official",
+      "Name: Campus Recreation Center (CRC) Address: 2840 Bearcat Way, Cincinnati OH 45219 Building Code: RECCENTER Campus: WEST"
+    ]
+  ]
+}

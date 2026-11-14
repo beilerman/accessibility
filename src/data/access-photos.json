@@ -1746,5 +1746,43 @@
     "checkedAt": "2026-11-14",
     "limitations": "Historical orientation only. Doorways are distant; this does not establish today’s designated entrance, door controls, curb gradients, designated parking, dimensions or a continuous step-free route. Confirm current arrival arrangements with the branch.",
     "relatedFactIds": []
+  },
+  {
+    "id": "covington-library-scott-frontage-2015",
+    "slug": "kenton-county-public-library-covington-branch",
+    "title": "Scott Boulevard entrance and sidewalk in 2015",
+    "src": "/images/access/covington-library-scott-frontage-2015.jpg",
+    "width": 1637,
+    "height": 741,
+    "alt": "Covington library frontage with glass entrance doors beneath a canopy, bollards, a sidewalk and street curb, and a bench to the right.",
+    "caption": "July 23, 2015 view of the Covington library frontage: canopy-covered doors, bollards and a bench beside the sidewalk. The foreground curb and partial entrance view do not establish a continuous step-free arrival route.",
+    "author": "Acdixon",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kenton_County_Public_Library.jpg",
+    "photoDate": "2015-07-23",
+    "checkedAt": "2026-11-14",
+    "limitations": "Historical full-frame photograph; current conditions, doorway and bollard clearances, threshold height, door controls, parking connection and toilets are unverified. A distant cyclist appears at the left. Original JPEG retained without cropping or alteration.",
+    "relatedFactIds": [
+      "kenton-county-public-library-covington-branch.mobility.1"
+    ]
+  },
+  {
+    "id": "metro-open-door-curb-2017",
+    "slug": "cincinnati-metro-and-access-paratransit",
+    "title": "Open bus doorway beside a curb in 2017",
+    "src": "/images/access/metro-open-door-curb-2017.webp",
+    "width": 1280,
+    "height": 720,
+    "alt": "Metro bus 1617 with its front door open, yellow threshold edges and handrails, parked in a road beside a curb and a grass strip separating the sidewalk.",
+    "caption": "April 25, 2017 photograph of a Metro bus with its front door open. The view shows the threshold, handrails and road-to-curb gap; no ramp is deployed.",
+    "author": "Darius Pinkston",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suburban-type_Gillig_Low_Floor_bus_1617_of_SORTA_(Metro)_in_Cincinnati_(2017).jpg",
+    "photoDate": "2017-04-25",
+    "checkedAt": "2026-11-14",
+    "limitations": "Historical orientation only. This does not establish a designated boarding stop, a continuous sidewalk-to-door route, today’s fleet or trip assignment, ramp operation, boarding clearances, slope or assistance. A driver is faintly visible behind the windscreen. Full frame retained; resized and converted to WebP without changing the scene.",
+    "relatedFactIds": []
   }
 ]

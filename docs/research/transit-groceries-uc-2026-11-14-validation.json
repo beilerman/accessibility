@@ -1,0 +1,354 @@
+{
+  "checked_at": "2026-11-14",
+  "prepared_at_utc": "2026-11-14T11:52:43.232334+00:00",
+  "base": "5b9a987a873bdda2b21214a1f750111def00500d",
+  "publish_ready": true,
+  "status": "ready_for_runner_validation",
+  "publication": "Local combined batch reviewed for runner test suite and atomic branch pushes; no deployed/live-site claim.",
+  "start_state": {
+    "modified_files": 11,
+    "new_files": 31,
+    "conflicts": 0,
+    "previous_host_error": "Strict-mode tour-link locator matched Little Miami and Bayley; 185/186 host browser tests passed."
+  },
+  "host_repair": "Specific full accessible-name patterns including guide title and new-tab suffix; whitespace tolerance; both URLs asserted. Computed-name/HTTP checks pass.",
+  "browser_limit": "Targeted Chromium attempt failed before page navigation: MachPortRendezvousServer permission denied (1100). CUA browser host unavailable. Runner must run all 189 browser/axe checks and visual page QA.",
+  "current_pass": {
+    "newVenues": [
+      {
+        "slug": "dorothy-lane-market-mason",
+        "notes": 4
+      },
+      {
+        "slug": "metronow-on-demand",
+        "notes": 10
+      },
+      {
+        "slug": "university-cincinnati-campus-recreation-center",
+        "notes": 15
+      }
+    ],
+    "newNoteIds": [
+      "cincinnati-metro-and-access-paratransit.cognitive.8",
+      "cincinnati-metro-and-access-paratransit.cognitive.9",
+      "cincinnati-metro-and-access-paratransit.sensory.2",
+      "dorothy-lane-market-mason.chronic.1",
+      "dorothy-lane-market-mason.cognitive.1",
+      "dorothy-lane-market-mason.mobility.1",
+      "dorothy-lane-market-mason.mobility.2",
+      "metronow-on-demand.chronic.1",
+      "metronow-on-demand.chronic.2",
+      "metronow-on-demand.chronic.3",
+      "metronow-on-demand.cognitive.1",
+      "metronow-on-demand.cognitive.2",
+      "metronow-on-demand.cognitive.3",
+      "metronow-on-demand.cognitive.4",
+      "metronow-on-demand.mobility.1",
+      "metronow-on-demand.mobility.2",
+      "metronow-on-demand.sensory.1",
+      "university-cincinnati-campus-recreation-center.chronic.1",
+      "university-cincinnati-campus-recreation-center.chronic.2",
+      "university-cincinnati-campus-recreation-center.chronic.3",
+      "university-cincinnati-campus-recreation-center.cognitive.1",
+      "university-cincinnati-campus-recreation-center.cognitive.2",
+      "university-cincinnati-campus-recreation-center.cognitive.3",
+      "university-cincinnati-campus-recreation-center.cognitive.4",
+      "university-cincinnati-campus-recreation-center.cognitive.5",
+      "university-cincinnati-campus-recreation-center.cognitive.6",
+      "university-cincinnati-campus-recreation-center.cognitive.7",
+      "university-cincinnati-campus-recreation-center.mobility.1",
+      "university-cincinnati-campus-recreation-center.mobility.2",
+      "university-cincinnati-campus-recreation-center.mobility.3",
+      "university-cincinnati-campus-recreation-center.mobility.4",
+      "university-cincinnati-campus-recreation-center.mobility.5"
+    ],
+    "newNoteCount": 32,
+    "oldNotesReviewed": 17,
+    "existingTextCorrections": [
+      "cincinnati-metro-and-access-paratransit.cognitive.3"
+    ],
+    "fullReviews": [
+      {
+        "slug": "cincinnati-metro-and-access-paratransit",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 17,
+        "newNotes": 20
+      }
+    ],
+    "partialReviews": [],
+    "unchangedExistingVenues": 197,
+    "preservedIdsAndHistoryPrefixes": true,
+    "media": {
+      "access-photos": {
+        "before": 89,
+        "after": 90,
+        "added": 1
+      },
+      "access-guides": {
+        "before": 125,
+        "after": 133,
+        "added": 8
+      },
+      "visitor-reports-community": {
+        "before": 74,
+        "after": 77,
+        "added": 3
+      }
+    },
+    "sourceBaselines": {
+      "selected": 37,
+      "new": 9,
+      "unchangedUnselected": 576
+    }
+  },
+  "combined_pending": {
+    "newVenues": [
+      {
+        "slug": "bayley-fitness-club-delhi",
+        "notes": 7
+      },
+      {
+        "slug": "dorothy-lane-market-mason",
+        "notes": 4
+      },
+      {
+        "slug": "metronow-on-demand",
+        "notes": 10
+      },
+      {
+        "slug": "powel-crosley-jr-ymca",
+        "notes": 10
+      },
+      {
+        "slug": "silverlake-family-place-erlanger",
+        "notes": 9
+      },
+      {
+        "slug": "trihealth-fitness-health-pavilion",
+        "notes": 8
+      },
+      {
+        "slug": "university-cincinnati-campus-recreation-center",
+        "notes": 15
+      }
+    ],
+    "newNoteIds": [
+      "bayley-fitness-club-delhi.chronic.1",
+      "bayley-fitness-club-delhi.chronic.2",
+      "bayley-fitness-club-delhi.cognitive.1",
+      "bayley-fitness-club-delhi.cognitive.2",
+      "bayley-fitness-club-delhi.cognitive.3",
+      "bayley-fitness-club-delhi.cognitive.4",
+      "bayley-fitness-club-delhi.mobility.1",
+      "campbell-county-public-library-newport-branch.chronic.4",
+      "campbell-county-public-library-newport-branch.cognitive.4",
+      "campbell-county-public-library-newport-branch.mobility.4",
+      "cincinnati-metro-and-access-paratransit.cognitive.8",
+      "cincinnati-metro-and-access-paratransit.cognitive.9",
+      "cincinnati-metro-and-access-paratransit.sensory.2",
+      "dorothy-lane-market-mason.chronic.1",
+      "dorothy-lane-market-mason.cognitive.1",
+      "dorothy-lane-market-mason.mobility.1",
+      "dorothy-lane-market-mason.mobility.2",
+      "metronow-on-demand.chronic.1",
+      "metronow-on-demand.chronic.2",
+      "metronow-on-demand.chronic.3",
+      "metronow-on-demand.cognitive.1",
+      "metronow-on-demand.cognitive.2",
+      "metronow-on-demand.cognitive.3",
+      "metronow-on-demand.cognitive.4",
+      "metronow-on-demand.mobility.1",
+      "metronow-on-demand.mobility.2",
+      "metronow-on-demand.sensory.1",
+      "powel-crosley-jr-ymca.chronic.1",
+      "powel-crosley-jr-ymca.chronic.2",
+      "powel-crosley-jr-ymca.chronic.3",
+      "powel-crosley-jr-ymca.cognitive.1",
+      "powel-crosley-jr-ymca.cognitive.2",
+      "powel-crosley-jr-ymca.cognitive.3",
+      "powel-crosley-jr-ymca.cognitive.4",
+      "powel-crosley-jr-ymca.cognitive.5",
+      "powel-crosley-jr-ymca.cognitive.6",
+      "powel-crosley-jr-ymca.cognitive.7",
+      "silverlake-family-place-erlanger.chronic.1",
+      "silverlake-family-place-erlanger.chronic.2",
+      "silverlake-family-place-erlanger.chronic.3",
+      "silverlake-family-place-erlanger.cognitive.1",
+      "silverlake-family-place-erlanger.cognitive.2",
+      "silverlake-family-place-erlanger.cognitive.3",
+      "silverlake-family-place-erlanger.mobility.1",
+      "silverlake-family-place-erlanger.mobility.2",
+      "silverlake-family-place-erlanger.sensory.1",
+      "trihealth-fitness-health-pavilion.chronic.1",
+      "trihealth-fitness-health-pavilion.chronic.2",
+      "trihealth-fitness-health-pavilion.cognitive.1",
+      "trihealth-fitness-health-pavilion.cognitive.2",
+      "trihealth-fitness-health-pavilion.mobility.1",
+      "trihealth-fitness-health-pavilion.mobility.2",
+      "trihealth-fitness-health-pavilion.mobility.3",
+      "trihealth-fitness-health-pavilion.mobility.4",
+      "university-cincinnati-campus-recreation-center.chronic.1",
+      "university-cincinnati-campus-recreation-center.chronic.2",
+      "university-cincinnati-campus-recreation-center.chronic.3",
+      "university-cincinnati-campus-recreation-center.cognitive.1",
+      "university-cincinnati-campus-recreation-center.cognitive.2",
+      "university-cincinnati-campus-recreation-center.cognitive.3",
+      "university-cincinnati-campus-recreation-center.cognitive.4",
+      "university-cincinnati-campus-recreation-center.cognitive.5",
+      "university-cincinnati-campus-recreation-center.cognitive.6",
+      "university-cincinnati-campus-recreation-center.cognitive.7",
+      "university-cincinnati-campus-recreation-center.mobility.1",
+      "university-cincinnati-campus-recreation-center.mobility.2",
+      "university-cincinnati-campus-recreation-center.mobility.3",
+      "university-cincinnati-campus-recreation-center.mobility.4",
+      "university-cincinnati-campus-recreation-center.mobility.5"
+    ],
+    "newNoteCount": 69,
+    "oldNotesReviewed": 33,
+    "existingTextCorrections": [
+      "cincinnati-metro-and-access-paratransit.cognitive.3",
+      "kenton-county-public-library-covington-branch.cognitive.1"
+    ],
+    "fullReviews": [
+      {
+        "slug": "cincinnati-metro-and-access-paratransit",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 17,
+        "newNotes": 20
+      },
+      {
+        "slug": "kenton-county-public-library-covington-branch",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 6,
+        "newNotes": 6
+      },
+      {
+        "slug": "campbell-county-public-library-newport-branch",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 10,
+        "newNotes": 13
+      }
+    ],
+    "partialReviews": [],
+    "unchangedExistingVenues": 191,
+    "preservedIdsAndHistoryPrefixes": true,
+    "media": {
+      "access-photos": {
+        "before": 88,
+        "after": 90,
+        "added": 2
+      },
+      "access-guides": {
+        "before": 121,
+        "after": 133,
+        "added": 12
+      },
+      "visitor-reports-community": {
+        "before": 68,
+        "after": 77,
+        "added": 9
+      }
+    },
+    "sourceBaselines": {
+      "selected": 37,
+      "new": 21,
+      "unchangedUnselected": 576
+    }
+  },
+  "evidence_work": {
+    "current_existing_records_strengthened": 4,
+    "combined_existing_records_strengthened": 9,
+    "current_existing_text_corrections": 1,
+    "combined_existing_text_corrections": 2,
+    "absent_quote_backfill": 0,
+    "legacy_missing_quotes_held": 20,
+    "weekly_unique": "Metro review repeats November 12 venue; recovered library reviews also repeats. No new unique-week tally claimed."
+  },
+  "totals": {
+    "venues": 201,
+    "activeNotes": 2087,
+    "retiredNotes": 1,
+    "quotedActiveNotes": 2067,
+    "missingQuoteRecords": 20,
+    "licensedPhotos": 90,
+    "guides": 133,
+    "communityReports": 77,
+    "categories": {
+      "Museums & attractions": 21,
+      "Arts & performances": 33,
+      "Parks & outdoors": 34,
+      "Libraries": 15,
+      "Transportation": 9,
+      "Food & drink": 30,
+      "Shopping": 26,
+      "Public services": 16,
+      "Recreation & fitness": 17
+    }
+  },
+  "checks": {
+    "fresh_evidence_checks": 102,
+    "recovered_preimport_checks": 57,
+    "unit_tests_passed": 120,
+    "pipeline_tests_passed": 79,
+    "lint": true,
+    "typescript": true,
+    "build": true,
+    "browser_tests_discovered": 189,
+    "browser_tests_passed": 0,
+    "prior_host_browser_tests_passed": 185,
+    "prior_host_browser_tests_failed": 1,
+    "http_checks_passed": 17,
+    "unique_computed_tour_names": true,
+    "guide_source_links_200": 13,
+    "source_baselines_selected": 37,
+    "all_changed_and_new_files_reviewed": true,
+    "conflict_markers": 0,
+    "json_syntax": true,
+    "preserved_ids_history_and_unselected_sources": true,
+    "next_lead_pages_200": 4,
+    "modified_files": 11,
+    "new_files": 66,
+    "canonical_saved_note_passage_alignment": true,
+    "media_receipt_manifest_alignment": true,
+    "temporary_local_server_stopped": true
+  },
+  "receipts": {
+    "final_evidence": "docs/research/transit-groceries-uc-2026-11-14-final-verify.verified.json",
+    "audit": "docs/research/transit-groceries-uc-2026-11-14-audit.json",
+    "media": "docs/research/transit-groceries-uc-2026-11-14-media-review.json",
+    "http": "docs/research/transit-groceries-uc-2026-11-14-local-http.json",
+    "selector": "docs/research/transit-groceries-uc-2026-11-14-selector-repair.json",
+    "links": "docs/research/transit-groceries-uc-2026-11-14-guide-links.json",
+    "images": "docs/research/transit-groceries-uc-2026-11-14-image-receipts.json",
+    "pdfs": "docs/research/transit-groceries-uc-2026-11-14-pdf-receipts.json",
+    "report": "docs/research/transit-groceries-uc-2026-11-14.md",
+    "next_leads_preflight": "docs/research/transit-groceries-uc-2026-11-14-next-leads-preflight.json",
+    "checks": "docs/research/transit-groceries-uc-2026-11-14-checks.txt"
+  },
+  "initial_failures_resolved": [
+    "Unsupported community_post enum replaced by established community_comment; unit tests pass.",
+    "New source baseline coverage completed; pipeline tests pass.",
+    "Initial UC locker quote punctuation miss fixed before import through normal fresh gate.",
+    "Arrival apply-depth list shape failed before mutation; correct existing helper spec applied after fresh verification.",
+    "Initial exact-name test refinement omitted suffix/inline whitespace; canonical patterns verified against full computed names."
+  ],
+  "held": [
+    "Meijer Cold Spring helper 403; no imported facts",
+    "UC 2820/2840 address and weekday pool closing conflicts",
+    "Mason grocery curbside and mezzanine route unverified",
+    "20 legacy missing quotes and previous venue holds retained"
+  ],
+  "prohibited_actions": {
+    "git_writes": 0,
+    "deployments": 0,
+    "previews": 0,
+    "database_writes": 0,
+    "messages": 0,
+    "private_correspondence_reads": 0
+  },
+  "local_server_cleanup": "Ctrl-C ended the agent-created server with exit 130; no listener remained and fresh HTTP request to port 3217 was refused."
+}

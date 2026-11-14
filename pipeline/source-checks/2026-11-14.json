@@ -977,9 +977,9 @@
       "status": 200,
       "final_url": "https://www.kentonlibrary.org/locations/4/",
       "last_modified": null,
-      "sha256": "57f2c72c747a6224fc82e63a53e39423e5f926f5cf9bfce600fac712c7060893",
+      "sha256": "a89d357c7b58db9d3db5f99fbae62a1546091290a76467db9935f936d8420f1c",
       "fingerprint_version": 6,
-      "chars": 4348
+      "chars": 4174
     },
     "https://www.kentonlibrary.org/locations/5/": {
       "status": 200,
@@ -2340,7 +2340,7 @@
     "https://www.uc.edu/campus-life/campus-rec/about/parking.html": {
       "status": 200,
       "final_url": "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
-      "last_modified": "Thu, 12 Nov 2026 08:18:41 GMT",
+      "last_modified": "Sat, 14 Nov 2026 08:15:36 GMT",
       "sha256": "9f79783333341e1f90f08e8c09180fe273d6815621a1ca77ecea06d4ee36b409",
       "fingerprint_version": 6,
       "chars": 3265
@@ -2348,7 +2348,7 @@
     "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html": {
       "status": 200,
       "final_url": "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
-      "last_modified": "Thu, 12 Nov 2026 10:57:06 GMT",
+      "last_modified": "Sat, 14 Nov 2026 08:22:30 GMT",
       "sha256": "9ff4a6d831285aa1c52b94f50dadbae454bb7cc0aedebae4919adf8f67ed4726",
       "fingerprint_version": 6,
       "chars": 39037
@@ -2356,7 +2356,7 @@
     "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html": {
       "status": 200,
       "final_url": "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html",
-      "last_modified": "Thu, 12 Nov 2026 11:05:51 GMT",
+      "last_modified": "Sat, 14 Nov 2026 11:34:15 GMT",
       "sha256": "568ce62f6b41ea758e17f020670ac2213875e17532d9c136f8e9ce701461bdd7",
       "fingerprint_version": 6,
       "chars": 3764
@@ -2364,7 +2364,7 @@
     "https://www.uc.edu/campus-life/campus-rec/crc/pools.html": {
       "status": 200,
       "final_url": "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
-      "last_modified": "Thu, 12 Nov 2026 07:32:04 GMT",
+      "last_modified": "Sat, 14 Nov 2026 08:35:39 GMT",
       "sha256": "89bfd810ef174898430504d7abca13d98f4a7f62ab96bd35566e6d02c09247ed",
       "fingerprint_version": 6,
       "chars": 1892
@@ -4759,6 +4759,181 @@
       "sha256": "a649c9a68f8193bd92c9912e2df881b127b20373f26b342231c8c8a1d1214e7b",
       "fingerprint_version": 6,
       "chars": 5513
+    },
+    "https://cd.trihealth.com/-/media/trihealth/documents/institutes-and-services/trihealth-fitness-and-health-pavilion/membership/membership-tools-and-forms/personal-assistant-form.pdf": {
+      "status": 200,
+      "final_url": "https://cd.trihealth.com/-/media/trihealth/documents/institutes-and-services/trihealth-fitness-and-health-pavilion/membership/membership-tools-and-forms/personal-assistant-form.pdf",
+      "last_modified": null,
+      "sha256": "1690f19b30ba872925256f8d3c76f82ecedea07ee3af97b776e37706fc7a4346",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 5206,
+      "pages": 3
+    },
+    "https://myy.org/location/powel-crosley-jr-ymca/": {
+      "status": 200,
+      "final_url": "https://myy.org/location/powel-crosley-jr-ymca/",
+      "last_modified": "Sat, 14 Nov 2026 11:33:18 GMT",
+      "sha256": "db0016d4f930e567288c27ec398160956dde3fc78a96ee086529171f25963aa3",
+      "fingerprint_version": 6,
+      "chars": 4530
+    },
+    "https://myy.org/schedule/powel-crosley-jr-ymca/pool-schedule/": {
+      "status": 200,
+      "final_url": "https://myy.org/schedule/powel-crosley-jr-ymca/pool-schedule/",
+      "last_modified": "Sat, 14 Nov 2026 11:34:10 GMT",
+      "sha256": "55814c1ae88e8cca5116a3e79a5c87a1b0228ed57606802e8cf759d0a38dcff3",
+      "fingerprint_version": 6,
+      "chars": 309
+    },
+    "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf": {
+      "status": 200,
+      "final_url": "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf",
+      "last_modified": "Fri, 19 Dec 2025 16:54:24 GMT",
+      "sha256": "603adf54cd267454d532563a50a2756bf5b3b680acd2d3ae2149ba04fdcdbd6d",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 8995,
+      "pages": 3
+    },
+    "https://www.silverlakefamily.com/contactus": {
+      "status": 200,
+      "final_url": "https://www.silverlakefamily.com/contactus",
+      "last_modified": null,
+      "sha256": "8cbe1d51f60a51877ca34b590c16a0589c93a733b9e042d7d75b370466a31c7d",
+      "fingerprint_version": 6,
+      "chars": 356
+    },
+    "https://www.silverlakefamily.com/indoor-aquatic-center": {
+      "status": 200,
+      "final_url": "https://www.silverlakefamily.com/indoor-aquatic-center",
+      "last_modified": null,
+      "sha256": "6342b76eb68a719fd7dc4a4fa120f6e3bcf67098db9d53d47092d2ac426fcd25",
+      "fingerprint_version": 6,
+      "chars": 1573
+    },
+    "https://www.silverlakefamily.com/policies": {
+      "status": 200,
+      "final_url": "https://www.silverlakefamily.com/policies",
+      "last_modified": null,
+      "sha256": "f634d85ae7d2495de42eb0869ba503876de83df076d6c3385497b95b4f497aec",
+      "fingerprint_version": 6,
+      "chars": 18726
+    },
+    "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions": {
+      "status": 200,
+      "final_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions",
+      "last_modified": null,
+      "sha256": "bb87bb5a81c9c0b84c57f5c65da0b311ef8f5126ae67ea59ebdf059cbc3e1f1d",
+      "fingerprint_version": 6,
+      "chars": 2798
+    },
+    "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools": {
+      "status": 200,
+      "final_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools",
+      "last_modified": null,
+      "sha256": "64dbcf04d068c4b326671c38c5f47bb4d13e083a63350ecb155dd5110f90f005",
+      "fingerprint_version": 6,
+      "chars": 6041
+    },
+    "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/outdoor-pool-and-recreation": {
+      "status": 200,
+      "final_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/outdoor-pool-and-recreation",
+      "last_modified": null,
+      "sha256": "b6144184a06b35616498703fe307e37160a40c1c00a7bd2a27c83b5be1460a73",
+      "fingerprint_version": 6,
+      "chars": 5566
+    },
+    "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf": {
+      "status": 200,
+      "final_url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+      "last_modified": "Wed, 11 Nov 2026 14:02:49 GMT",
+      "sha256": "03c8cd603bc15a15f35c6b05ddfeeb0b9ceefba658050ce05819df135b2999ae",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 10413,
+      "pages": 2
+    },
+    "https://www.bayleylife.org/programs-services/fitness-club": {
+      "status": 200,
+      "final_url": "https://www.bayleylife.org/programs-services/fitness-club",
+      "last_modified": "Fri, 13 Nov 2026 23:44:58 GMT",
+      "sha256": "3c17730e13b3122bb4d0a3892e36feb21200aeffeb161334c995e1e6f2b774fc",
+      "fingerprint_version": 6,
+      "chars": 2360
+    },
+    "https://www.dorothylane.com/culinary-center/private-events": {
+      "status": 200,
+      "final_url": "https://www.dorothylane.com/culinary-center/private-events",
+      "last_modified": null,
+      "sha256": "a7e210a084f91145c1f085130751a6fe9e9f53b5103ae8225232cc67bb92a9cb",
+      "fingerprint_version": 6,
+      "chars": 3200
+    },
+    "https://www.dorothylane.com/locations/CulinaryCenter": {
+      "status": 200,
+      "final_url": "https://www.dorothylane.com/locations/CulinaryCenter",
+      "last_modified": null,
+      "sha256": "b89f545c85aaa1f88c9fc29843233e035e08dd68578e2424935b81ac6b862016",
+      "fingerprint_version": 6,
+      "chars": 2273
+    },
+    "https://www.dorothylane.com/locations/mason": {
+      "status": 200,
+      "final_url": "https://www.dorothylane.com/locations/mason",
+      "last_modified": null,
+      "sha256": "7f3950b9a7bef7742ba7c014b62db643206046f3e06707f37cca13aae46fd09a",
+      "fingerprint_version": 6,
+      "chars": 2981
+    },
+    "https://www.go-metro.com/riding-metro/metronow/": {
+      "status": 200,
+      "final_url": "https://www.go-metro.com/riding-metro/metronow/",
+      "last_modified": null,
+      "sha256": "5f19240c2c33ae0499444d305a9f4698d6af1d1a28d12c237fd90c663c9b42ce",
+      "fingerprint_version": 6,
+      "chars": 8742
+    },
+    "https://www.uc.edu/about/admin-finance/planning-design-construction/maps-space-management/single-occupancy-restroom-locations.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/about/admin-finance/planning-design-construction/maps-space-management/single-occupancy-restroom-locations.html",
+      "last_modified": "Sat, 14 Nov 2026 11:18:45 GMT",
+      "sha256": "251d249d0df4ccb41fa7007f915847c454b84a122fae8336692920ae7be8707e",
+      "fingerprint_version": 6,
+      "chars": 4390
+    },
+    "https://www.uc.edu/campus-life/campus-rec/about/hours-of-operation/alternate-hours-of-operation.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/about/hours-of-operation/alternate-hours-of-operation.html",
+      "last_modified": "Sat, 14 Nov 2026 08:19:15 GMT",
+      "sha256": "e0135aa95eddc6a8463e0b65255e8b6d38e213aa527586553d1a0969382574af",
+      "fingerprint_version": 6,
+      "chars": 1350
+    },
+    "https://www.uc.edu/campus-life/campus-rec/crc.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/crc.html",
+      "last_modified": "Sat, 14 Nov 2026 08:07:56 GMT",
+      "sha256": "f937121ef9d42dc712246dd5b86d52e821871ca205c3f18ebf55091e4a18143c",
+      "fingerprint_version": 6,
+      "chars": 1742
+    },
+    "https://www.uc.edu/campus-life/campus-rec/membership.html": {
+      "status": 200,
+      "final_url": "https://www.uc.edu/campus-life/campus-rec/membership.html",
+      "last_modified": "Sat, 14 Nov 2026 08:07:15 GMT",
+      "sha256": "7c41dff05b533e265dad3fe1d4c129bd9535afaae0c5afa5e7a86ae5832e7d9d",
+      "fingerprint_version": 6,
+      "chars": 2653
+    },
+    "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=RECCENTER": {
+      "status": 200,
+      "final_url": "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=RECCENTER",
+      "last_modified": null,
+      "sha256": "4596cfaa07c72475beca8b292d9a8fba4189cc83328177db9363066d364b8841",
+      "fingerprint_version": 6,
+      "chars": 2123,
+      "transport": "curl_tls_verified"
     }
   },
   "findings": {

@@ -1,0 +1,139 @@
+[
+  {
+    "path": "/venues/trihealth-fitness-health-pavilion",
+    "status": 200,
+    "checks": {
+      "not permitted to physically assist": true,
+      "does not cover the indoor pools": true,
+      "at all times": true,
+      "h1": true,
+      "all-note-ids": true
+    }
+  },
+  {
+    "path": "/venues/powel-crosley-jr-ymca",
+    "status": 200,
+    "checks": {
+      "cannot reserve classes or lap swim": true,
+      "table has no year": true,
+      "Open photo guide (web page, 3 photos)": true,
+      "h1": true,
+      "all-note-ids": true
+    }
+  },
+  {
+    "path": "/venues/silverlake-family-place-erlanger",
+    "status": 200,
+    "checks": {
+      "Water Park guests are permitted only Monday\u2013Friday": true,
+      "24 hours ahead": true,
+      "a crowded visit": true,
+      "a contrasting weekday visit": true,
+      "Open photo guide (web page, 4 photos)": true,
+      "h1": true,
+      "all-note-ids": true
+    }
+  },
+  {
+    "path": "/venues/bayley-fitness-club-delhi",
+    "status": 200,
+    "checks": {
+      "72 hours": true,
+      "during scheduled classes": true,
+      "401 Farrell Court": true,
+      "Open virtual tour (web page, 2 inspected panoramas)": true,
+      "h1": true,
+      "all-note-ids": true
+    }
+  },
+  {
+    "path": "/venues/kenton-county-public-library-covington-branch",
+    "status": 200,
+    "checks": {
+      "November 26\u201327, 2026": true,
+      "Scott Boulevard entrance and sidewalk in 2015": true,
+      "CC0 1.0": true,
+      "Truist room": true,
+      "h1": true,
+      "all-note-ids": true,
+      "ended-closure-absent": true
+    }
+  },
+  {
+    "path": "/venues/campbell-county-public-library-newport-branch",
+    "status": 200,
+    "checks": {
+      "Presidents Room is on the lower level": true,
+      "at least 18": true,
+      "Kinsella Room": true,
+      "h1": true,
+      "all-note-ids": true
+    }
+  },
+  {
+    "path": "/venues/cincinnati-metro-and-access-paratransit",
+    "status": 200,
+    "checks": {
+      "Access vehicle boarding ramp in 2024": true,
+      "not evidence of the current fleet": true,
+      "MetroNow! equipment": true,
+      "Open photo guide (web page, 1 photo)": true,
+      "h1": true,
+      "all-note-ids": true
+    }
+  },
+  {
+    "path": "/venues?category=Recreation+%26+fitness&region=KY",
+    "status": 200,
+    "checks": {
+      "included": true,
+      "excluded": true
+    }
+  },
+  {
+    "path": "/venues?category=Recreation+%26+fitness&region=OH",
+    "status": 200,
+    "checks": {
+      "included": true,
+      "excluded": true
+    }
+  },
+  {
+    "path": "/access-in-pictures",
+    "status": 200,
+    "checks": {
+      "Scott Boulevard entrance and sidewalk in 2015": true
+    }
+  },
+  {
+    "path": "/updates",
+    "status": 200,
+    "checks": {
+      "Bayley Fitness Club": true,
+      "November 26\u201327, 2026": true
+    }
+  },
+  {
+    "path": "/visitor-reports?q=Silverlake",
+    "status": 200,
+    "checks": {
+      "a crowded visit": true,
+      "a contrasting weekday visit": true
+    }
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "checks": {
+      "bayley-fitness-club-delhi": true
+    }
+  },
+  {
+    "path": "/images/access/covington-library-scott-frontage-2015.jpg",
+    "status": 200,
+    "sha256": "335ac173b859752c5c811c1d636c95b31034f800b09bbc899435ee7709bff75a",
+    "checks": {
+      "exact_original_bytes": true
+    }
+  }
+]

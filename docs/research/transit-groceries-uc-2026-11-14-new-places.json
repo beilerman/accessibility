@@ -1,0 +1,275 @@
+[
+  {
+    "slug": "metronow-on-demand",
+    "name": "MetroNow! on-demand service",
+    "city": "Hamilton County",
+    "state": "OH",
+    "category": "Transportation",
+    "website": "https://www.go-metro.com/",
+    "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+    "limitations": "Public website information; no on-site audit. Trips are limited to specific zones, not all of Hamilton County. The page’s launched-zone heading and its older future-tense FAQ differ; confirm both trip addresses in the app or by phone. This service is separate from eligibility-based Access paratransit. Boarding-device dimensions, transfer assistance and individual curb conditions remain unverified.",
+    "facts": [
+      [
+        "cognitive",
+        "MetroNow! is open to the public, but every trip must be booked beforehand through its app or 513-551-5555. Book a child or companion as an additional rider too.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        "No. While MetroNow! is completely open to the public, you must schedule a trip beforehand. Trips can be scheduled via the MetroNow app, or by calling 513-551-5555. If you are bringing a child or companion, their ride must also be scheduled."
+      ],
+      [
+        "mobility",
+        "Request “Less Walking” for curb-to-curb service. Metro directs riders who have difficulty walking or use a wheelchair to select this option; “Less Waiting” uses corner-to-corner pickup and may involve walking a block or two.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        [
+          "You can either request “Less Walking” which will provide curb-to-curb service or “Less Waiting” which will provide corner-to-corner service depending on your needs.",
+          "Note: “Less Waiting” or corner-to-corner service is the faster option if you’re able and willing to walk a block or two to a designated pick-up point.",
+          "If you have difficulty walking or use a mobility aid such as a wheelchair, please select “Less Walking” for curb-to-curb."
+        ]
+      ],
+      [
+        "mobility",
+        "Metro says each MetroNow! vehicle has space for two mobility aids, such as wheelchairs or strollers. Indicate wheelchair use in your account settings.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        "Yes, each MetroNow! vehicle has onboard space for two mobility aids (such as wheelchairs or strollers). Let us know you will be traveling with a wheelchair in your account settings."
+      ],
+      [
+        "chronic",
+        "Packages are permitted aboard MetroNow!, but may not occupy a seat. Operators are not permitted to help with packages.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        "Yes, you may bring packages onboard MetroNow! vehicles; however, packages may not take up a seat, and operators are not permitted to assist customers with packages."
+      ],
+      [
+        "cognitive",
+        "The page’s launched-zone heading lists Bond Hill/Roselawn, Springdale/Sharonville, Northgate/Mt. Healthy, Forest Park/Pleasant Run and Blue Ash/Montgomery. Its FAQ still describes Bond Hill/Roselawn as future service; confirm exact pickup and destination coverage rather than relying on a neighborhood name.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        [
+          "The Bond Hill/Roselawn zone has officially launched! This latest addition joins the existing MetroNow! zones in Springdale/Sharonville, Northgate/Mt. Healthy, Forest Park/Pleasant Run, and Blue Ash/Montgomery.",
+          "Once completely rolled out, MetroNow! will serve the following additional Hamilton County communities: Monfort Heights/Finneytown Bond Hill/Roselawn"
+        ]
+      ],
+      [
+        "cognitive",
+        "The app asks for pickup and destination addresses or map pins. It displays an “out of zone” message when the destination is outside the service zone; confirm coverage before planning a connection.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        "Add your origin location address or adjust the pin to set it. Click “Confirm.” Add your destination address or adjust the pin, then click “Set Destination.” If the destination is outside the service zone, you'll receive an \"out of zone\" message."
+      ],
+      [
+        "chronic",
+        "Published MetroNow! hours are weekdays 6 a.m.–10 p.m. and weekends 8 a.m.–9 p.m. Its holiday policy uses weekend service on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving and Christmas.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        [
+          "Weekdays: 6 a.m. to 10 p.m. | Weekends: 8 a.m. to 9 p.m.",
+          "MetroNow! operates weekend service in observance of the following holidays: New Year’s Day Memorial Day Independence Day Labor Day Thanksgiving Day Christmas Day"
+        ]
+      ],
+      [
+        "cognitive",
+        "MetroNow! lists a $2.50 fare. Its FAQ says Fare Deal, MVP and other Metro discount cards, fixed-route passes and transfers are not accepted for this service.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        [
+          "$2.50 Dollars Per Ride",
+          "At this time, MetroNow! does not accept Fare Deal, MVP or any other Metro discount program cards. This includes transfers and passes from regular Metro fixed-route service."
+        ]
+      ],
+      [
+        "sensory",
+        "The MetroNow! app is offered in English and Spanish.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        "The app is available in both English and Spanish."
+      ],
+      [
+        "chronic",
+        "Metro’s child-seat policy makes riders responsible for bringing a seat that meets local requirements. Drivers may refuse a ride without it; Metro does not provide seats or operator help with installation.",
+        "https://www.go-metro.com/riding-metro/metronow/",
+        "venue_official",
+        null,
+        "Metro requires car seats for children based on applicable local laws. Riders are responsible for providing a car seat that meets local requirements, and drivers may refuse rides if a car seat is not provided. Four seats in each vehicle are equipped with child safety seat hooks. Car seats will not be provided and operators may not assist with installation."
+      ]
+    ]
+  },
+  {
+    "slug": "dorothy-lane-market-mason",
+    "name": "Dorothy Lane Market — Mason",
+    "city": "Mason",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "7200 Mason Montgomery Road, Mason, OH 45040",
+    "website": "https://www.dorothylane.com/",
+    "source_url": "https://www.dorothylane.com/locations/mason",
+    "limitations": "Public website information; no on-site audit. Entrance thresholds, door operation, elevator route to the mezzanine, toilets, changing facilities and shopping assistance remain unverified. The linked frontage photo and historical visitor account do not confirm current conditions. DLM Drive-Up’s linked ordering site identifies Washington Square pickup; Mason grocery curbside service has not been established.",
+    "facts": [
+      [
+        "cognitive",
+        "The Mason store lists 7200 Mason Montgomery Road, daily hours of 6 a.m.–9 p.m. and phone 513-229-2500. Confirm holiday hours before travelling.",
+        "https://www.dorothylane.com/locations/mason",
+        "venue_official",
+        null,
+        "Hours Mon - Sun: 6:00AM - 9:00PM Location 7200 Mason Montgomery Road Mason, OH 45040 Contact Us Send us a message Or call us at (513) 229-2500"
+      ],
+      [
+        "mobility",
+        "Mason’s Culinary Center is on the mezzanine level at the same store address; its contact number is 513-229-2510. The location description does not explain an elevator or step-free route.",
+        "https://www.dorothylane.com/locations/CulinaryCenter",
+        "venue_official",
+        null,
+        "Mason Location 7200 Mason Montgomery Road Mason, Ohio 45040 513-229-2510 Located on mezzanine level."
+      ],
+      [
+        "mobility",
+        "For private Culinary Center events, DLM says tables and chairs can be repositioned. Discuss the needed arrangement when booking; this is not a measured-clearance or step-free-access guarantee.",
+        "https://www.dorothylane.com/culinary-center/private-events",
+        "venue_official",
+        null,
+        [
+          "Plus, tables and chairs can be repositioned to best fit your needs.",
+          "Mason 7200 Mason Montgomery Rd. Mason, Ohio 45040 (513) 229-2510 Located on mezzanine level inside DLM Mason."
+        ]
+      ],
+      [
+        "chronic",
+        "The Mason page offers frittata orders in-store or by phone for pickup. It does not describe vehicle handoff or grocery curbside collection.",
+        "https://www.dorothylane.com/locations/mason",
+        "venue_official",
+        null,
+        [
+          "Frittatas",
+          "Get a delicious start to your day and order yours in-store or via phone for pick-up."
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "university-cincinnati-campus-recreation-center",
+    "name": "University of Cincinnati Campus Recreation Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "2820 Bearcat Way, Cincinnati, OH 45219",
+    "website": "https://www.uc.edu/campus-life/campus-rec.html",
+    "source_url": "https://www.uc.edu/campus-life/campus-rec/crc.html",
+    "limitations": "Public website information; no on-site audit. This listing covers the Uptown West Campus CRC, not CARE/Crawley or the residence hall. Membership and facility rules apply. The leisure pool’s zero-depth entry does not establish lap-pool or hot-tub access, an operating lift, transfer assistance or adult changing. Pool closing information conflicts: the pool table says 10 p.m. Monday–Thursday, while “30 minutes before” the main building’s 11 p.m. close would mean 10:30 p.m.; confirm with staff. Seasonal tables omit a year. Door controls, elevator route and toilet dimensions remain unknown.",
+    "facts": [
+      [
+        "cognitive",
+        "The Campus Recreation Center lists its address as 2820 Bearcat Way and phone 513-556-0604. It is on UC’s Uptown West Campus.",
+        "https://www.uc.edu/campus-life/campus-rec/crc.html",
+        "venue_official",
+        null,
+        [
+          "About the CRC 2820 Bearcat Way Cincinnati, OH 45219 513-556-0604",
+          "Cincinnati’s Campus Recreation Center (CRC) is a state-of-the-art fitness and recreation facility on its Uptown West Campus."
+        ]
+      ],
+      [
+        "cognitive",
+        "Community members may buy memberships for themselves and their families. To join, bring photo ID or a Bearcat Card and a credit or debit card to Member Services for help with the application.",
+        "https://www.uc.edu/campus-life/campus-rec/membership.html",
+        "venue_official",
+        null,
+        [
+          "UC faculty and staff (current and retired), alumni and community members are also eligible to purchase memberships for themselves and their families.",
+          "Bring your photo ID or Bearcat Card and a credit or debit card for payment.",
+          "Come in to the Member Services Desk at the Campus Recreation or Fitness Center at CARE/Crawley and our Member Services Team will walk you through the application and sign-up process."
+        ]
+      ],
+      [
+        "mobility",
+        "Except in an emergency, members must enter and leave the CRC through the main lobby. The policy does not describe that entrance’s thresholds or door controls.",
+        "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+        "venue_official",
+        null,
+        "Except in the case of an emergency, members must enter and exit the Campus Recreation Center through the main lobby."
+      ],
+      [
+        "cognitive",
+        "UC requires a valid physical photo ID at Member Services for facility access; pictures and photocopies are not accepted.",
+        "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+        "venue_official",
+        null,
+        "All individuals must present a valid, physical photo ID (no pictures or photocopies) at the Member Services Desk to obtain access to the facility."
+      ],
+      [
+        "mobility",
+        "The leisure pool has a zero-depth entry and a maximum depth of 3.5 feet. This description is specific to the leisure pool, not the lap pool or hot tub.",
+        "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
+        "venue_official",
+        null,
+        "The shallow-water Leisure Pool has a zero-depth entry with a maximum depth of 3.5 feet and is typically 84 degrees."
+      ],
+      [
+        "chronic",
+        "The pool page lists lap-pool closure every Wednesday 8 a.m.–noon and leisure-pool cleaning every Monday 8 a.m.–noon. Lane availability changes during the day because of practices and meets; check the lane schedule.",
+        "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
+        "venue_official",
+        null,
+        [
+          "Lane availability changes throughout the day - click the hotbutton below to view lane availability by day.",
+          "The pool also plays host to our UC Swim and Dive teams for practices and meets.",
+          "Note: The Lap Pool is closed every Wednesday 8 a.m. - 12 p.m.",
+          "Note: the Leisure Pool is closed for cleaning every Monday 8 a.m. - 12 p.m."
+        ]
+      ],
+      [
+        "mobility",
+        "UC’s locker-room rules offer family changing rooms for members with small children of the opposite sex. Children aged four or older may not enter the opposite-sex locker room. Adult assisted-changing equipment is not described.",
+        "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+        "venue_official",
+        null,
+        "Children 4 years of age and older may not enter the locker room of the opposite sex. Family changing rooms are available for members with small children of the opposite sex. Please use discretion when bringing younger children of the opposite sex into the locker room."
+      ],
+      [
+        "mobility",
+        "UC’s single-occupancy restroom directory lists CRC rooms including 0222A–0222D, 0M300B–0M300C, 1223 and 1224. It marks rooms 3356, 4356, 5356 and 6356 as student-only. Confirm the route and permission to enter; the directory does not establish toilet dimensions or changing equipment.",
+        "https://www.uc.edu/about/admin-finance/planning-design-construction/maps-space-management/single-occupancy-restroom-locations.html",
+        "venue_official",
+        null,
+        [
+          "Single Occupancy Restroom Locations",
+          "*All room numbers followed by an asterisk are only accessible to UC students (not the entire UC community)",
+          "Campus Recreation Center 0222A, 0222B, 0222C, 0222D, 0M300B, 0M300C, 1223, 1224, 1352, 1353, 2100A, 2100B, 2355, 3356*, 4356*, 5356*, 6356*"
+        ]
+      ],
+      [
+        "cognitive",
+        "Day-use lockers are free and first-come. UC describes built-in combination locks in CRC locker rooms and at gym courts; ask Member Services which lock is needed for your chosen locker type.",
+        "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html",
+        "venue_official",
+        null,
+        [
+          "There is no fee for day-use lockers; they can be utilized on a first-come, first-served basis.",
+          "When using a locker at the Campus Recreation Center , a member will either use the built-in combination lock (in locker rooms and at gym courts) or use a personal lock (fitness floor and climbing wall) depending on locker type.",
+          "Visit the Member Services Desk for locker rental and towel service."
+        ]
+      ],
+      [
+        "chronic",
+        "The published fall alternate-hours table lists the CRC and Aquatic Complex closed November 26. It lists November 27–28 CRC hours of 10 a.m.–2 p.m. and pool hours of 10 a.m.–1:30 p.m. The table omits a year; confirm the applicable season.",
+        "https://www.uc.edu/campus-life/campus-rec/about/hours-of-operation/alternate-hours-of-operation.html",
+        "venue_official",
+        null,
+        [
+          "Fall Semester",
+          "Date CRC CARE/Crawley Aquatic Complex Climbing Wall",
+          "November 26 Closed Closed Closed Closed November 27 10 a.m. - 2 p.m. Closed 10 a.m. - 1:30 p.m. Closed November 28 10 a.m. - 2 p.m. Closed 10 a.m. - 1:30 p.m. Closed"
+        ]
+      ]
+    ]
+  }
+]

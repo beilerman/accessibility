@@ -1198,5 +1198,165 @@
     "visitedAt": null,
     "summary": "The linked visitor photograph shows two wall-mounted, tire-framed washbasins, projecting metal taps and exposed plumbing below. No toilet, stall or full room approach is visible.",
     "caveat": "The associated review gives February 2025 for publication and visit, but no exact day or independent capture date is confirmed. The image does not establish basin height, knee clearance, tap operation, toilet access or current conditions. No reuse licence was found; the image remains on Tripadvisor. The page’s separate front-of-restaurant truck photograph is not evidence of an accessible entrance."
+  },
+  {
+    "id": "newport-presidents-room-dsa-account",
+    "placeSlug": "campbell-county-public-library-newport-branch",
+    "sourceTitle": "Presidents Room: elevator, toilets and seating",
+    "sourceUrl": "https://dsacincy.org/resources/accessibility",
+    "publisher": "Metro Cincinnati & Northern Kentucky DSA",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "reported_experience",
+    "domains": [
+      "mobility",
+      "chronic"
+    ],
+    "summary": "The chapter reports using the lower-level Presidents Room without stairs and finding its elevator working on their visits. It describes nearby single-person gender-neutral toilets, seating, a chilly room and inconvenient charging access.",
+    "caveat": "Undated room-specific account by a chapter member, expressly not library-endorsed. Current conditions and dimensions are unverified."
+  },
+  {
+    "id": "newport-kinsella-room-dsa-account",
+    "placeSlug": "campbell-county-public-library-newport-branch",
+    "sourceTitle": "Kinsella Room: main-floor access and nearby toilets",
+    "sourceUrl": "https://dsacincy.org/resources/accessibility",
+    "publisher": "Metro Cincinnati & Northern Kentucky DSA",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "reported_experience",
+    "domains": [
+      "mobility",
+      "sensory"
+    ],
+    "summary": "The chapter describes reaching the main-floor Kinsella Room without stairs, a ramp or an elevator, with two single-person gender-neutral toilets nearby. Its movie-night note mentions popcorn smell; that is event-specific.",
+    "caveat": "Undated room-specific account by a chapter member, expressly not library-endorsed. Current conditions and dimensions are unverified."
+  },
+  {
+    "id": "covington-truist-room-dsa-account",
+    "placeSlug": "kenton-county-public-library-covington-branch",
+    "sourceTitle": "Truist room: location, seating and temperature",
+    "sourceUrl": "https://dsacincy.org/resources/accessibility",
+    "publisher": "Metro Cincinnati & Northern Kentucky DSA",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "reported_experience",
+    "domains": [
+      "mobility",
+      "chronic"
+    ],
+    "summary": "The chapter places the Truist room behind first-floor reception and describes chairs, outlets and a room that can feel warm.",
+    "caveat": "Undated room-specific account by a chapter member, expressly not library-endorsed. Current conditions and dimensions are unverified."
+  },
+  {
+    "id": "silverlake-lap-pool-crowded-visit",
+    "placeSlug": "silverlake-family-place-erlanger",
+    "sourceTitle": "Lap pool: a crowded visit",
+    "sourceUrl": "https://www.reddit.com/r/Kentucky/comments/1v89mnq/who_goes_to_silverlake_in_erlanger/",
+    "publisher": "Reddit · r/Kentucky",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "sensory",
+      "cognitive"
+    ],
+    "summary": "The original poster says they visited the lap pool that day and found it very crowded. They wanted to avoid asking other swimmers to share lanes.",
+    "caveat": "Exact publication and visit dates are unavailable in the retrieved page. A reply in the same thread describes a much quieter weekday visit; neither account predicts current crowding. The poster’s summer-vacation explanation is speculation."
+  },
+  {
+    "id": "silverlake-lap-pool-weekday-contrast",
+    "placeSlug": "silverlake-family-place-erlanger",
+    "sourceTitle": "Lap pool: a contrasting weekday visit",
+    "sourceUrl": "https://www.reddit.com/r/Kentucky/comments/1v89mnq/who_goes_to_silverlake_in_erlanger/",
+    "publisher": "Reddit · r/Kentucky",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "sensory",
+      "cognitive"
+    ],
+    "summary": "A respondent says their recent weekday visit around 10 a.m. left them with the lap pool almost to themselves.",
+    "caveat": "Exact publication and visit dates are unknown. This conflicts with the original poster’s crowded experience; it is not a designated quiet session or a reliable occupancy forecast."
+  },
+  {
+    "id": "trihealth-pavilion-outages-member-account",
+    "placeSlug": "trihealth-fitness-health-pavilion",
+    "sourceTitle": "Pavilion member account: temporary equipment outages",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1os2g1x/trihealth_health_fitness_pavilion/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "chronic"
+    ],
+    "summary": "A commenter identifying themselves as a member describes machines, pools and the hot tub being out of order, with repairs they considered quick.",
+    "caveat": "The retrieved page gives only a relative publication age; specific visit dates are unknown. This is an individual experience, not a current outage notice or repair-time guarantee."
+  },
+  {
+    "id": "dlm-mason-opening-crowds-evening-contrast",
+    "placeSlug": "dorothy-lane-market-mason",
+    "sourceTitle": "Opening-period crowds and a later evening visit",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "sensory",
+      "cognitive"
+    ],
+    "summary": "A poster describes three visits after Mason opened: crowds during the opening week and weekend, followed by a visit around 7:30 p.m. when they could browse at leisure.",
+    "caveat": "Historical opening-period account. The retrieved page gives only a relative publication age; exact publication and visit dates are unknown. This is not a designated quiet session or a forecast of current crowding. No forum photographs are republished."
+  },
+  {
+    "id": "metronow-colerain-historical-ride",
+    "placeSlug": "metronow-on-demand",
+    "sourceTitle": "A historical MetroNow ride in Colerain",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/15h3wc7/cincinnati_metro_public_transportation_system_map/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "chronic"
+    ],
+    "summary": "A commenter says they used MetroNow in Colerain and describes a comfortable, smooth ride after a five-minute wait.",
+    "caveat": "The retrieved discussion gives a relative age of three years; exact publication and ride dates are unknown. This single ride does not establish present zone coverage, wait times, wheelchair boarding or operator assistance."
+  },
+  {
+    "id": "metro-east-price-hill-uc-historical-transfer",
+    "placeSlug": "cincinnati-metro-and-access-paratransit",
+    "sourceTitle": "Historical transfer burden between East Price Hill and UC",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/15h3wc7/cincinnati_metro_public_transportation_system_map/",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-14",
+    "kind": "community_comment",
+    "domains": [
+      "chronic",
+      "cognitive"
+    ],
+    "summary": "A rider describes their former East Price Hill-to-UC journey taking about an hour because of a downtown transfer, including waits of 20–30 minutes for the next bus.",
+    "caveat": "Historical personal account; exact publication and travel dates are unknown. Routes and frequencies may have changed. This is not a current journey planner; the commenter’s speculation about staffing causes is omitted."
   }
 ]

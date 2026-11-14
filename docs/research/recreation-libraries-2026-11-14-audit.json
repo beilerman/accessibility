@@ -1,0 +1,172 @@
+{
+  "base": "5b9a987a873bdda2b21214a1f750111def00500d",
+  "newVenues": [
+    {
+      "slug": "bayley-fitness-club-delhi",
+      "notes": 7
+    },
+    {
+      "slug": "powel-crosley-jr-ymca",
+      "notes": 10
+    },
+    {
+      "slug": "silverlake-family-place-erlanger",
+      "notes": 9
+    },
+    {
+      "slug": "trihealth-fitness-health-pavilion",
+      "notes": 8
+    }
+  ],
+  "newNoteCount": 37,
+  "newNoteIds": [
+    "bayley-fitness-club-delhi.chronic.1",
+    "bayley-fitness-club-delhi.chronic.2",
+    "bayley-fitness-club-delhi.cognitive.1",
+    "bayley-fitness-club-delhi.cognitive.2",
+    "bayley-fitness-club-delhi.cognitive.3",
+    "bayley-fitness-club-delhi.cognitive.4",
+    "bayley-fitness-club-delhi.mobility.1",
+    "campbell-county-public-library-newport-branch.chronic.4",
+    "campbell-county-public-library-newport-branch.cognitive.4",
+    "campbell-county-public-library-newport-branch.mobility.4",
+    "powel-crosley-jr-ymca.chronic.1",
+    "powel-crosley-jr-ymca.chronic.2",
+    "powel-crosley-jr-ymca.chronic.3",
+    "powel-crosley-jr-ymca.cognitive.1",
+    "powel-crosley-jr-ymca.cognitive.2",
+    "powel-crosley-jr-ymca.cognitive.3",
+    "powel-crosley-jr-ymca.cognitive.4",
+    "powel-crosley-jr-ymca.cognitive.5",
+    "powel-crosley-jr-ymca.cognitive.6",
+    "powel-crosley-jr-ymca.cognitive.7",
+    "silverlake-family-place-erlanger.chronic.1",
+    "silverlake-family-place-erlanger.chronic.2",
+    "silverlake-family-place-erlanger.chronic.3",
+    "silverlake-family-place-erlanger.cognitive.1",
+    "silverlake-family-place-erlanger.cognitive.2",
+    "silverlake-family-place-erlanger.cognitive.3",
+    "silverlake-family-place-erlanger.mobility.1",
+    "silverlake-family-place-erlanger.mobility.2",
+    "silverlake-family-place-erlanger.sensory.1",
+    "trihealth-fitness-health-pavilion.chronic.1",
+    "trihealth-fitness-health-pavilion.chronic.2",
+    "trihealth-fitness-health-pavilion.cognitive.1",
+    "trihealth-fitness-health-pavilion.cognitive.2",
+    "trihealth-fitness-health-pavilion.mobility.1",
+    "trihealth-fitness-health-pavilion.mobility.2",
+    "trihealth-fitness-health-pavilion.mobility.3",
+    "trihealth-fitness-health-pavilion.mobility.4"
+  ],
+  "existingNoteReviews": 16,
+  "existingTextCorrections": [
+    "kenton-county-public-library-covington-branch.cognitive.1"
+  ],
+  "fullReviews": [
+    {
+      "slug": "kenton-county-public-library-covington-branch",
+      "oldDate": "2026-11-12",
+      "newDate": "2026-11-14",
+      "oldNotes": 6,
+      "newNotes": 6
+    },
+    {
+      "slug": "campbell-county-public-library-newport-branch",
+      "oldDate": "2026-11-12",
+      "newDate": "2026-11-14",
+      "oldNotes": 10,
+      "newNotes": 13
+    }
+  ],
+  "partialReviews": [],
+  "strengthenedEvidenceRecords": [
+    "kenton-county-public-library-covington-branch.mobility.1",
+    "kenton-county-public-library-covington-branch.chronic.1",
+    "kenton-county-public-library-covington-branch.cognitive.1",
+    "campbell-county-public-library-newport-branch.sensory.1",
+    "campbell-county-public-library-newport-branch.chronic.2"
+  ],
+  "shortenedCompoundEvidence": [
+    "campbell-county-public-library-newport-branch.chronic.3"
+  ],
+  "absentQuoteBackfill": 0,
+  "missingQuotes": [
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.sensory.1",
+    "molly-malones-covington.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.chronic.1",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.sensory.1",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.2"
+  ],
+  "preservedOriginalIds": true,
+  "preservedHistoryPrefixes": true,
+  "unchangedExistingVenues": 192,
+  "media": {
+    "access-photos": {
+      "before": 88,
+      "after": 89,
+      "added": 1
+    },
+    "access-guides": {
+      "before": 121,
+      "after": 125,
+      "added": 4
+    },
+    "visitor-reports-community": {
+      "before": 68,
+      "after": 74,
+      "added": 6
+    }
+  },
+  "sourceBaselines": {
+    "selected": 18,
+    "new": 12,
+    "unchangedUnselected": 586,
+    "allSelectedPresent": true
+  },
+  "totals": {
+    "venues": 198,
+    "activeNotes": 2055,
+    "retiredNotes": 1,
+    "quotedNotes": 2035,
+    "categories": {
+      "Museums & attractions": 21,
+      "Arts & performances": 33,
+      "Parks & outdoors": 34,
+      "Libraries": 15,
+      "Transportation": 8,
+      "Food & drink": 30,
+      "Shopping": 25,
+      "Public services": 16,
+      "Recreation & fitness": 16
+    }
+  },
+  "communityQueue": {
+    "names": 78,
+    "statuses": {
+      "lead_only": 32,
+      "added": 33,
+      "held_contact_conflict": 1,
+      "held_unextractable_official_site": 2,
+      "held_source_blocked": 2,
+      "held": 5,
+      "held_location_conflict": 1,
+      "held_current_access": 1,
+      "held_public_eligibility": 1
+    }
+  }
+}

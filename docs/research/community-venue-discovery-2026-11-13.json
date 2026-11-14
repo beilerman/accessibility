@@ -32,7 +32,13 @@
     "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
     "https://www.reddit.com/r/cincinnati/comments/1i6cp93/is_a_ymca_membership_worth_it/",
     "https://dsacincy.org/resources/accessibility",
-    "https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g50787-d24006551-i788730022-Ford_s_Garage_Norwood-Norwood_Ohio.html"
+    "https://www.tripadvisor.co.uk/LocationPhotoDirectLink-g50787-d24006551-i788730022-Ford_s_Garage_Norwood-Norwood_Ohio.html",
+    "https://www.reddit.com/r/cincinnati/comments/1v5z77s/looking_for_a_place_to_swim/",
+    "https://www.reddit.com/r/cincinnati/comments/1uzts3n/indoor_swimming/",
+    "https://www.reddit.com/r/Kentucky/comments/1v89mnq/who_goes_to_silverlake_in_erlanger/",
+    "https://www.reddit.com/r/cincinnati/comments/1os2g1x/trihealth_health_fitness_pavilion/",
+    "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
+    "https://www.reddit.com/r/cincinnati/comments/15h3wc7/cincinnati_metro_public_transportation_system_map/"
   ],
   "candidates": [
     {
@@ -445,7 +451,10 @@
       "underlyingDiscussionRead": true,
       "status": "held_source_blocked",
       "slug": null,
-      "nextStep": "The specific store is named in a public shopping recommendation. Official locator 168 is readable through web search/open but the factual helper returns 403; keep held for source-gated import. Do not apply separate generic Meijer wide-aisle comments to this branch. Check pickup procedures, equipment availability, entrances and toilets."
+      "nextStep": "Location page readable in web search, but fresh research-helper fetch returned 403. No source_checked listing imported. General shopping remarks are not branch access evidence; Bainbridge changing facility does not apply to Cold Spring.",
+      "officialLeadUrls": [
+        "https://www.meijer.com/shopping/store-locator/168"
+      ]
     },
     {
       "name": "Deer Park IGA — exact branch to confirm",
@@ -453,7 +462,12 @@
       "underlyingDiscussionRead": true,
       "status": "lead_only",
       "slug": null,
-      "nextStep": "Public commenter describes staffed checkout and deli service but names only Deer Park IGA. Dillonvale IGA at 3950 East Galbraith Road is a plausible match with a readable branded site; do not treat identity as resolved. Verify exact branch, current checkout/help, entrances and toilets before listing or importing the account."
+      "nextStep": "November 14 late preflight found current official Dillonvale homepage at 3950 East Galbraith. Informal Deer Park discussion identity remains uncertain. Fast Lane marketing contains unresolved widgets; confirm actual local pickup/delivery. Accessibility statement is website-only, not physical access. Five fresh official/landlord pages in recreation-libraries grocery-preflight receipt; no listing imported.",
+      "officialLeadUrls": [
+        "https://www.dillonvaleiga.com/",
+        "https://www.dillonvaleiga.com/subscriptions/",
+        "https://www.dillonvaleiga.com/accessibility/"
+      ]
     },
     {
       "name": "iNK — indie northern kentucky, Dayton",
@@ -517,7 +531,12 @@
       "underlyingDiscussionRead": true,
       "status": "held",
       "slug": null,
-      "nextStep": "Dillonvale’s official page identifies 3950 East Galbraith Road, but the discussion’s Deer Park identity remains unresolved. Its subscriptions page contains unrendered shortcodes and generic FastLane template content; no working branch collection workflow verified. Do not import aisle/checkout comments across locations."
+      "nextStep": "November 14 late preflight found current official Dillonvale homepage at 3950 East Galbraith. Informal Deer Park discussion identity remains uncertain. Fast Lane marketing contains unresolved widgets; confirm actual local pickup/delivery. Accessibility statement is website-only, not physical access. Five fresh official/landlord pages in recreation-libraries grocery-preflight receipt; no listing imported.",
+      "officialLeadUrls": [
+        "https://www.dillonvaleiga.com/",
+        "https://www.dillonvaleiga.com/subscriptions/",
+        "https://www.dillonvaleiga.com/accessibility/"
+      ]
     },
     {
       "name": "Joseph-Beth Booksellers — Rookwood",
@@ -604,9 +623,14 @@
       "slug": null,
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1husaah/indoor_basketball_courts_in_nky/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "nextStep": "Direct official fetches disagree: community-center page lists Calvin A. Perry at 8236 West Main Street; current event-venue page lists 8822 Constable Drive. New-campus page still gives estimated completion August 2026. Do not infer the move is complete or apply old photos/routes to the newer address. Resolve location and which gym/track operates now before adding. Distinguish walking membership, rental-only gym access and scheduled activities. Current official pages are readable, so this is an identity/scope lead, not a blocked-source failure.",
+      "status": "held_location_conflict",
+      "nextStep": "November 14 fresh pages still disagree: community-center page 8236 West Main, event-venue record 8822 Constable; campus page estimates August 2026 completion without confirming operation. Resolve current operating facility and entrance before import.",
       "officialSourceLeads": [
+        "https://alexandriaky.gov/community-center/",
+        "https://alexandriaky.gov/venue/alexandria-community-center/",
+        "https://alexandriaky.gov/new-city-campus/"
+      ],
+      "officialLeadUrls": [
         "https://alexandriaky.gov/community-center/",
         "https://alexandriaky.gov/venue/alexandria-community-center/",
         "https://alexandriaky.gov/new-city-campus/"
@@ -616,9 +640,9 @@
       "name": "Norwood Recreation Center",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
+      "status": "held_current_access",
       "slug": null,
-      "nextStep": "Official facility listing has 2039 Sherman Ave and names locker room, parking, restrooms, swimming pool and basketball. It supplies no access measurements or current swimming admission/schedule in the reviewed section. Read current recreation department/program pages; keep indoor Sherman Avenue distinct from Waterworks outdoor pool.",
+      "nextStep": "Official facility directory confirms 2039 Sherman Avenue, but current passenger-lift construction and temporary program moves are unresolved. Third-party mirrors/bid notices are leads only. Summer 2026 newsletter is historical and exceeds the evidence-fetch size gate; do not infer an operating lift or current pool hours.",
       "officialSourceLeads": [
         "https://norwoodohio.gov/Facilities/Facility/Details/Norwood-Recreation-Center-4"
       ]
@@ -627,11 +651,14 @@
       "name": "TriHealth Fitness & Health Pavilion",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1h5zwxd/gyms_with_indoor_pools/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Official location 6200 Pfeiffer Road; indoor pool page names gender-neutral rooms and a seasonal zero-entry outdoor pool, separately from the indoor lap/warm-water pools. Directions describe a driveway, not a wheelchair route. Page links an aquatics tour and current schedule; the body also contains a Getty stock image reference. Inspect original tour, current member/guest policies and pool schedules. Do not reuse the stock image as a venue photograph or assume zero-entry applies indoors. Preserve locker-room age policies and seasonal restrictions when researched.",
+      "status": "added",
+      "slug": "trihealth-fitness-health-pavilion",
+      "nextStep": "Added November 14 with freshly checked official location and visit notes. Seek arrival thresholds, door controls, pool lifts, adult changing, toilets and assistance procedures; no community certification implied.",
       "officialSourceLeads": [
         "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools",
+        "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions"
+      ],
+      "officialLeadUrls": [
         "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions"
       ]
     },
@@ -639,13 +666,103 @@
       "name": "Powel Crosley Jr. YMCA (Winton Road)",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1i6cp93/is_a_ymca_membership_worth_it/",
       "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "powel-crosley-jr-ymca",
+      "nextStep": "Added November 14 with freshly checked official location and visit notes. Seek arrival thresholds, door controls, pool lifts, adult changing, toilets and assistance procedures; no community certification implied.",
+      "officialLeadUrls": [
+        "https://myy.org/location/powel-crosley-jr-ymca/"
+      ]
+    },
+    {
+      "name": "Silverlake — The Family Place",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1v5z77s/looking_for_a_place_to_swim/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "silverlake-family-place-erlanger",
+      "officialLeadUrls": [
+        "https://www.silverlakefamily.com/contactus"
+      ],
+      "nextStep": "Added November 14 with freshly checked official location and visit notes. Seek arrival thresholds, door controls, pool lifts, adult changing, toilets and assistance procedures; no community certification implied."
+    },
+    {
+      "name": "Bayley Fitness Club (Delhi)",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1v5z77s/looking_for_a_place_to_swim/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "bayley-fitness-club-delhi",
+      "nextStep": "Added November 14 from current official page and November 2026 schedule. Current entry route, pool lift/assistance and adult changing remain unknown. Two original 2022-metadata panoramas inspected and linked; some printed course ranges have ended and class times conflict.",
+      "officialLeadUrls": [
+        "https://www.bayleylife.org/programs-services/fitness-club"
+      ]
+    },
+    {
+      "name": "University of Cincinnati recreation center",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1v5z77s/looking_for_a_place_to_swim/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "university-cincinnati-campus-recreation-center",
+      "nextStep": "Added fifteen official notes and four linked guides. Resolve 2820/2840 Bearcat Way address conflict and weekday pool-close conflict. Seek main-lobby approach, elevator route, current lift/transfer arrangements and adult-changing evidence; parking-card controls now documented."
+    },
+    {
+      "name": "Hemsworth Wellness Center — Maple Knoll",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1v5z77s/looking_for_a_place_to_swim/",
+      "underlyingDiscussionRead": true,
+      "status": "held_public_eligibility",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://mapleknoll.org/health-and-wellness/"
+      ],
+      "nextStep": "Fresh official page confirms wide low-rise steps/handrail and chair lift, but frames pool access for residents. Community membership is not established; do not import as a public swim option yet. Old 2022 brochure returns 404 and cached old opening hours are absent from redesigned live page."
+    },
+    {
+      "name": "Dorothy Lane Market — Mason",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "dorothy-lane-market-mason",
+      "officialLeadUrls": [
+        "https://www.dorothylane.com/locations/mason"
+      ],
+      "nextStep": "Four official notes, two linked galleries and one separate historical crowd report. Seek entrance controls, mezzanine elevator and toilets; Drive-Up ordering identifies Washington Square, not Mason."
+    },
+    {
+      "name": "MetroNow! on-demand service",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/15h3wc7/cincinnati_metro_public_transportation_system_map/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "metronow-on-demand",
+      "officialLeadUrls": [
+        "https://www.go-metro.com/riding-metro/metronow/"
+      ],
+      "nextStep": "Ten official booking, eligibility and assistance notes plus zone-map link. Resolve stale FAQ zone wording; seek actual MetroNow boarding, securement and device-size evidence."
+    },
+    {
+      "name": "Lehr’s Prime Market — Milford",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
+      "underlyingDiscussionRead": true,
       "status": "lead_only",
       "slug": null,
-      "nextStep": "Confirm current official branch identity/location and access. Public reports conflict about lap reservations; one reports pickup vehicles obstructing entrance and hallway items. Keep these historical attributed reports, not current certification or a claim about other branches."
+      "officialLeadUrls": [
+        "https://www.lehrsprime.com/contact/",
+        "https://www.lehrsprime.com/sandwiches/"
+      ],
+      "nextStep": "Official contact and sandwiches pages fetched 200 at final preflight: 740 Main Street, Milford; a call-ahead sandwich option is a promising access detail. Review every condition, inspect entrance/seating images and seek toilets/collection arrangements before adding a listing. Web-reader 429 did not affect the separate fresh helper fetch. No listing or official note added in this preflight."
+    },
+    {
+      "name": "Seafood Station — Loveland",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://www.seafoodstationloveland.com/",
+        "https://www.seafoodstationloveland.com/find-us"
+      ],
+      "nextStep": "Official homepage and Find Us freshly return 200 and identify 10488 Loveland-Madeira Road. Follow official visuals and order/collection arrangements; entrance, aisles and toilets remain unreviewed. Do not use third-party wheelchair-accessible badges or older conflicting directory hours. No listing added in this preflight."
     }
   ],
-  "addedVenues": 25,
-  "remainingVenueLeads": 43,
+  "addedVenues": 36,
+  "remainingVenueLeads": 46,
   "uncertainty": "Recommendations are not measured access assessments. Comment dates and visit dates remain null unless independently established. Preserve source identity, separate actual outing accounts from conjecture and keep community reports separate from official facts.",
   "otherSources": [
     {
@@ -719,6 +836,11 @@
       "url": "https://kremersmarket.com/",
       "status": 403,
       "reason": "November 14 helper gate remains blocked; different-user-agent HTML and storefront images do not bypass it. No source_checked note imported."
+    },
+    {
+      "url": "https://www.meijer.com/shopping/store-locator/168",
+      "status": 403,
+      "reason": "Fresh helper fetch blocked despite readable web result; no source_checked listing added."
     }
   ],
   "searchScope": [
@@ -732,16 +854,21 @@
     "Visit Cincy / meetNKY first-person Olla visit, published June 25, 2021",
     "November 13 parks/post/truist pass: r/cincinnati, r/covington, Northern Kentucky, Tripadvisor and City-Data public searches; underlying wheelchair-path thread reread, four narrow reports retained; no private groups or messages.",
     "November 13 grocery/transit/LeBlond pass: public Cincinnati/Covington/Northern Kentucky and Tripadvisor searches; underlying arts-shop and Fabled opening-period threads read, plus specialist magazine visit and official bookstore-crawl directory. No private material or messages.",
-    "November 14 shopping/licensing pass: public Cincinnati/Northern Kentucky/Kentucky, Tripadvisor and local forum searches; underlying licensing, grocery, Findlay, antique-mall and Re-Run threads/Q&A read. No private groups or messages."
+    "November 14 shopping/licensing pass: public Cincinnati/Northern Kentucky/Kentucky, Tripadvisor and local forum searches; underlying licensing, grocery, Findlay, antique-mall and Re-Run threads/Q&A read. No private groups or messages.",
+    "November 14 recreation/library pass: underlying Cincinnati swimming and TriHealth discussions, Kentucky Silverlake discussion and public DSA room reports read. Original accounts remain separate from official notes; no private groups, posting or messages. Shopping follow-up searches did not resolve Deer Park/Dillonvale identity.",
+    "November 14 transport/grocery/UC pass: public Cincinnati, Covington, Northern Kentucky, Tripadvisor and local-interest searches; underlying Metro-system, Mason-opening, grocery and swimming threads read. Tripadvisor retrieval remained throttled. Community ride and crowd reports kept separate; no posting or private sources."
   ],
-  "candidateCount": 68,
+  "candidateCount": 82,
   "statusCounts": {
     "lead_only": 33,
-    "added": 25,
+    "added": 36,
     "held_contact_conflict": 1,
     "held_unextractable_official_site": 2,
     "held_source_blocked": 2,
-    "held": 5
+    "held": 5,
+    "held_location_conflict": 1,
+    "held_current_access": 1,
+    "held_public_eligibility": 1
   },
   "priorBatchCounters": {
     "communityReportsAdded": 8,
@@ -749,11 +876,13 @@
     "scope": "Original dining batches only; these were not cumulative queue totals."
   },
   "latestBatch": {
-    "report": "handzy-licensing-findlay-pricehill-2026-11-14.md",
+    "report": "transit-groceries-uc-2026-11-14.md",
     "communityLedVenuesAdded": 3,
-    "otherVenuesAdded": 1,
-    "communityReportsAdded": 8,
-    "officialNotesInCommunityVenues": 21,
-    "note": "Handzy, Burlington and Ohio Valley followed public discussions. Independence followed the current official regional directory from the licensing lead. Four new venues with 31 notes plus 7 existing-venue additions; 38 total new IDs. The community source is discovery, not accessibility certification."
+    "otherVenuesAdded": 0,
+    "communityReportsAdded": 3,
+    "officialNotesInCommunityVenues": 29,
+    "existingVenueNewNotes": 3,
+    "newNoteIds": 32,
+    "note": "MetroNow, Mason DLM and UC CRC added from fresh official evidence. Full Metro/Access review covers all 17 old notes. Previous pending recreation/library batch preserved; host selector failure repaired."
   }
 }

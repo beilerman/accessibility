@@ -3488,7 +3488,7 @@
     "category": "Transportation",
     "website": "https://www.go-metro.com/",
     "source_url": "https://www.go-metro.com/accessibility",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-14",
     "facts": [
       {
         "domain": "mobility",
@@ -3496,7 +3496,7 @@
         "source_url": "https://www.go-metro.com/accessibility",
         "id": "cincinnati-metro-and-access-paratransit.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3508,6 +3508,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -3519,7 +3524,7 @@
         "source_url": "https://www.go-metro.com/accessibility",
         "id": "cincinnati-metro-and-access-paratransit.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3531,6 +3536,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -3542,7 +3552,7 @@
         "source_url": "https://www.go-metro.com/access",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3554,6 +3564,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -3565,7 +3580,7 @@
         "source_url": "https://www.go-metro.com/access",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3577,6 +3592,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -3588,7 +3608,7 @@
         "source_url": "https://www.go-metro.com/access",
         "id": "cincinnati-metro-and-access-paratransit.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3602,16 +3622,21 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "Fare Deal ID cards give half-price fares on Metro fixed routes. Riders 65+ or with Medicare qualify automatically; riders with disabilities under 65 without Medicare must apply and be certified.",
+        "text": "Fare Deal ID cards give half-price fares on Metro fixed routes. Riders aged 65 or older qualify automatically but must provide proof of age; Medicare card holders of any age also qualify automatically. Riders with disabilities under 65 without Medicare must apply and be certified.",
         "source_url": "https://www.go-metro.com/fares-passes/fare-deal-program/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3625,6 +3650,16 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Made the official proof-of-age condition explicit; automatic eligibility does not remove documentation requirements."
           }
         ]
       },
@@ -3634,7 +3669,7 @@
         "source_url": "https://www.go-metro.com/fares-passes/fare-information/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3646,6 +3681,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -3657,7 +3697,7 @@
         "source_url": "https://www.go-metro.com/accessibility/",
         "id": "cincinnati-metro-and-access-paratransit.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3671,6 +3711,11 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3680,7 +3725,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3694,6 +3739,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Corrected the omitted service-area condition on free transportation to the eligibility assessment; retained phone and app booking evidence."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3703,7 +3753,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3717,6 +3767,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Expanded the visitor-service note with the operator’s advance-contact, documentation and 21-day conditions; this summarizes Metro’s published policy, not an independent legal interpretation."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3726,7 +3781,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3735,6 +3790,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3744,7 +3804,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3753,6 +3813,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3762,7 +3827,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3771,6 +3836,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3780,7 +3850,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3789,6 +3859,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3798,7 +3873,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3807,6 +3882,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3816,7 +3896,7 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.mobility.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -3825,6 +3905,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -3834,13 +3919,72 @@
         "source_url": "https://www.go-metro.com/access-paratransit/",
         "id": "cincinnati-metro-and-access-paratransit.cognitive.7",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Access page gives a $4.40 fare, with a dated increase effective July 16, 2025 alongside its older $4.00 line. Pay the exact fare in cash, Access tickets or a combination; Access tickets cannot pay fares on Metro fixed routes.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.8",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The Access contact list gives 800-750-0750 for TTY/Ohio Relay Service. The reservations line is separately listed as 513-531-8888.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Following the functional skills assessment, Metro says applicants receive written notice of their Access eligibility decision within 21 days. An ineligibility notice includes the reasons and appeal-process information.",
+        "source_url": "https://www.go-metro.com/access-paratransit/",
+        "id": "cincinnati-metro-and-access-paratransit.cognitive.9",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -10583,7 +10727,7 @@
     "address": "502 Scott Blvd., Covington, KY 41011",
     "website": "https://www.kentonlibrary.org/locations/4",
     "source_url": "https://www.kentonlibrary.org/locations/4",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-14",
     "facts": [
       {
         "domain": "mobility",
@@ -10591,7 +10735,7 @@
         "source_url": "https://www.kentonlibrary.org/locations/4",
         "id": "kenton-county-public-library-covington-branch.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10608,6 +10752,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -10619,7 +10768,7 @@
         "source_url": "https://www.kentonlibrary.org/locations/4",
         "id": "kenton-county-public-library-covington-branch.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10636,6 +10785,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -10647,7 +10801,7 @@
         "source_url": "https://www.kentonlibrary.org/homebound/",
         "id": "kenton-county-public-library-covington-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10661,6 +10815,11 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -10670,7 +10829,7 @@
         "source_url": "https://www.kentonlibrary.org/locations/4",
         "id": "kenton-county-public-library-covington-branch.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10687,6 +10846,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -10698,7 +10862,7 @@
         "source_url": "https://www.kentonlibrary.org/locations/4",
         "id": "kenton-county-public-library-covington-branch.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10717,16 +10881,21 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "The branch lists an all-day staff-development closure for Friday, November 13, 2026, and Thanksgiving closures November 26–27. Check its current calendar before travelling.",
+        "text": "The branch lists all-day Thanksgiving closures on November 26–27, 2026, and Christmas closures on December 24–25. Check its current calendar before travelling.",
         "source_url": "https://www.kentonlibrary.org/locations/4",
         "id": "kenton-county-public-library-covington-branch.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -10735,6 +10904,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Removed the ended November 13 staff-development closure after reviewing the live calendar; retained Thanksgiving and added the current Christmas closure with complete supporting dates."
           }
         ]
       }
@@ -28321,7 +28495,7 @@
     "website": "https://www.cc-pl.org/locations",
     "source_url": "https://www.cc-pl.org/adult-outreach-services",
     "limitations": "Public website information; no on-site audit. Outreach and event-accommodation procedures are district policies, not observations at Newport. The July 2022 photograph shows the entrance approach, parking signs and return bin historically; it does not establish current parking allocation, door controls, thresholds, gradients or bin reach. Current curbside-bay locations, interior routes, toilets and quiet spaces remain unknown. Call the branch before your visit.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-14",
     "slug": "campbell-county-public-library-newport-branch",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -28332,7 +28506,7 @@
         "source_url": "https://www.cc-pl.org/adult-outreach-services",
         "id": "campbell-county-public-library-newport-branch.chronic.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28346,6 +28520,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Fresh full review confirms the wording; updated the old redirecting outreach citation to the current official Adult Outreach Services URL. No field observation implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28355,7 +28534,7 @@
         "source_url": "https://www.cc-pl.org/adult-outreach-services",
         "id": "campbell-county-public-library-newport-branch.sensory.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28369,6 +28548,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Fresh full review confirms the wording; updated the old redirecting outreach citation to the current official Adult Outreach Services URL. No field observation implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28378,7 +28562,7 @@
         "source_url": "https://www.cc-pl.org/curbside-pickup",
         "id": "campbell-county-public-library-newport-branch.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28387,6 +28571,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28396,7 +28585,7 @@
         "source_url": "https://www.cc-pl.org/curbside-pickup",
         "id": "campbell-county-public-library-newport-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28405,6 +28594,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28414,7 +28608,7 @@
         "source_url": "https://www.cc-pl.org/curbside-pickup",
         "id": "campbell-county-public-library-newport-branch.cognitive.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28423,6 +28617,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28432,7 +28631,7 @@
         "source_url": "https://www.cc-pl.org/curbside-pickup",
         "id": "campbell-county-public-library-newport-branch.chronic.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28441,6 +28640,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28450,7 +28654,7 @@
         "source_url": "https://www.cc-pl.org/curbside-pickup",
         "id": "campbell-county-public-library-newport-branch.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28459,6 +28663,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28468,7 +28677,7 @@
         "source_url": "https://www.cc-pl.org/curbside-pickup",
         "id": "campbell-county-public-library-newport-branch.mobility.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28477,6 +28686,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28486,7 +28700,7 @@
         "source_url": "https://www.cc-pl.org/library-policies",
         "id": "campbell-county-public-library-newport-branch.cognitive.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -28495,6 +28709,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -28504,13 +28723,72 @@
         "source_url": "https://www.cc-pl.org/adult-outreach-services",
         "id": "campbell-county-public-library-newport-branch.chronic.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Newport’s Kinsella Community Room is on the main floor; the Presidents Room is on the lower level. The district’s meeting-room policy identifies those floors but does not describe elevator operation or door widths.",
+        "source_url": "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf",
+        "id": "campbell-county-public-library-newport-branch.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Meeting-room reservations require an application and approval before the meeting, may be made up to three months ahead and are held for only 15 minutes after the reserved time. The person reserving a room must be at least 18.",
+        "source_url": "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf",
+        "id": "campbell-county-public-library-newport-branch.cognitive.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Study rooms are reserved in two-hour blocks, extendable to four hours if no one is waiting. Public meetings must end at least 15 minutes before closing; private social events must end at least 30 minutes before closing.",
+        "source_url": "https://static.libnet.info/frontend-images/pdfs/ccpl/Library_Policies/Meeting_Room_Policy.pdf",
+        "id": "campbell-county-public-library-newport-branch.chronic.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -45022,6 +45300,1251 @@
         "text": "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
         "source_url": "https://myy.org/join/membership-faqs/",
         "id": "central-parkway-ymca.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TriHealth Fitness & Health Pavilion",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "6200 Pfeiffer Road, Cincinnati, OH 45242",
+    "website": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions",
+    "source_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions",
+    "limitations": "Public website research; no on-site audit. Official sources describe membership, pools and assistance procedures, not a field access audit. Parking-to-door continuity, thresholds, door controls, pool lifts and transfer arrangements, toilet dimensions and adult changing equipment remain unverified. Confirm current elevator and locker-room procedures with Member Services. Zero entry is specified only for the seasonal outdoor pool.",
+    "checked_at": "2026-11-14",
+    "slug": "trihealth-fitness-health-pavilion",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Pavilion is at 6200 Pfeiffer Road. Its driving directions describe a long driveway on the north side of Pfeiffer Road, just west of I-71; this does not establish a step-free pedestrian route.",
+        "source_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions",
+        "id": "trihealth-fitness-health-pavilion.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Membership includes three heated pools: an indoor 25-meter lap pool, an indoor 2,000-square-foot warm-water therapy pool and a seasonal outdoor leisure pool. The outdoor pool is described as zero-entry; that description does not cover the indoor pools.",
+        "source_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools",
+        "id": "trihealth-fitness-health-pavilion.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The pool page lists men’s and women’s locker rooms, each with a sauna, steam room and whirlpool, and says gender-neutral rooms are also available. It does not describe toilet clearances or adult changing equipment.",
+        "source_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/indoor-pools",
+        "id": "trihealth-fitness-health-pavilion.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Pavilion’s personal-assistant policy says staff are not permitted to physically assist members using equipment or facilities. Members who need this help must plan their own assistance through the personal-assistant process.",
+        "source_url": "https://cd.trihealth.com/-/media/trihealth/documents/institutes-and-services/trihealth-fitness-and-health-pavilion/membership/membership-tools-and-forms/personal-assistant-form.pdf",
+        "id": "trihealth-fitness-health-pavilion.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A member must identify their personal assistant, and management must approve that person as capable of providing adequate assistance throughout the visit. The form includes member and assistant agreements.",
+        "source_url": "https://cd.trihealth.com/-/media/trihealth/documents/institutes-and-services/trihealth-fitness-and-health-pavilion/membership/membership-tools-and-forms/personal-assistant-form.pdf",
+        "id": "trihealth-fitness-health-pavilion.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "An approved personal assistant agrees to remain with the member at all times on the premises and check in at the service desk before every visit; the assistant check-in has no fee.",
+        "source_url": "https://cd.trihealth.com/-/media/trihealth/documents/institutes-and-services/trihealth-fitness-and-health-pavilion/membership/membership-tools-and-forms/personal-assistant-form.pdf",
+        "id": "trihealth-fitness-health-pavilion.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For the seasonal outdoor pool, inclement weather triggers closure until 30 minutes after the last lightning or thunder. During a weather closure, members may use the indoor pools during open swim, but not during classes.",
+        "source_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/pools-and-recreation/outdoor-pool-and-recreation",
+        "id": "trihealth-fitness-health-pavilion.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Member Services can be reached at 513-246-2611 to discuss visit arrangements. Its published hours may change on holidays.",
+        "source_url": "https://www.trihealth.com/services/trihealth-fitness-and-health-pavilion/discover-the-trihealth-fitness-pavillion/hours-directions",
+        "id": "trihealth-fitness-health-pavilion.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Powel Crosley, Jr. YMCA",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "9601 Winton Road, Cincinnati, OH 45231",
+    "website": "https://myy.org/location/powel-crosley-jr-ymca/",
+    "source_url": "https://myy.org/location/powel-crosley-jr-ymca/",
+    "limitations": "Public website research; no on-site audit. Official branch information and shared YMCA policies do not establish a step-free arrival route, door controls, pool lift availability, changing/toilet dimensions or physical-assistance provision. Pool tables distinguish the bubble pool, indoor lap pool and indoor waterpark, but the back-to-school heading gives no year. Confirm the exact pool and current session before travelling; photographs have no published capture dates.",
+    "checked_at": "2026-11-14",
+    "slug": "powel-crosley-jr-ymca",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Winton Road branch is at 9601 Winton Road; call 513-521-7112 about the exact pool and session you intend to use.",
+        "source_url": "https://myy.org/location/powel-crosley-jr-ymca/",
+        "id": "powel-crosley-jr-ymca.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The branch’s back-to-school table says the baby pool is closed for the season and the outdoor pool is for lap swimming only. The table has no year, so confirm current seasonal arrangements with the branch.",
+        "source_url": "https://myy.org/location/powel-crosley-jr-ymca/",
+        "id": "powel-crosley-jr-ymca.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The pool-schedule page says reservations open 48 hours before class time through the MyY app or by logging in to a member account.",
+        "source_url": "https://myy.org/schedule/powel-crosley-jr-ymca/pool-schedule/",
+        "id": "powel-crosley-jr-ymca.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The outdoor bubble-pool lap-swimming table requires reservations. The indoor lap-pool table says Monday–Friday is closed for open swim, while a separate indoor-waterpark table offers family splash sessions. These are separate listings, not evidence that all indoor swimming is closed.",
+        "source_url": "https://myy.org/location/powel-crosley-jr-ymca/",
+        "id": "powel-crosley-jr-ymca.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Children under 16 must wear a swim band. Yellow and green bands require a completed swim test and must be presented on each visit.",
+        "source_url": "https://myy.org/location/powel-crosley-jr-ymca/",
+        "id": "powel-crosley-jr-ymca.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The YMCA of Greater Cincinnati says visiting Nationwide Members should identify themselves at the Welcome Desk for barcode check-in. They cannot reserve classes or lap swim, but may try to attend a class that is not full. Confirm pool availability directly.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "powel-crosley-jr-ymca.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the shared guest policy, all guests must be registered in Daxko and complete a waiver before entry. Guests aged 16 or older need photo ID on their first visit; individual guests may visit at most three times per calendar year.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "powel-crosley-jr-ymca.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shared FAQ allows members aged 18 or older to bring guests. Guests using a six-punch guest pass must stay with an active YMCA member at all times. It says day passes are not sold and guests must be accompanied by a member or have a complimentary guest pass; ask the branch which guest arrangement applies.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "powel-crosley-jr-ymca.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The shared FAQ provides day-use lockers for members and guests at every YMCA of Greater Cincinnati location. Bring your own lock and remove it after each visit; overnight storage requires a rented locker, whose availability must be checked with the branch. Locker reach and changing-room layouts are not specified.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "powel-crosley-jr-ymca.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To join, the shared FAQ offers help from branch member-service staff or a phone appointment with a member engagement specialist. Online joining is also offered, with the membership card collected on the first branch visit.",
+        "source_url": "https://myy.org/join/membership-faqs/",
+        "id": "powel-crosley-jr-ymca.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Silverlake — The Family Place",
+    "city": "Erlanger",
+    "state": "KY",
+    "category": "Recreation & fitness",
+    "address": "301 Kenton Lands Road, Erlanger, KY 41018",
+    "website": "https://www.silverlakefamily.com/",
+    "source_url": "https://www.silverlakefamily.com/",
+    "limitations": "Public website research; no on-site audit. Official policies and pool descriptions do not establish step-free arrival, automatic doors, pool lifts, transfer help, toilet clearances or adult changing equipment. The website mentions family locker rooms for families with children; it does not describe assisted adult changing. Pool hours vary by activity and season. Undated gallery images are visual orientation only; check present arrangements with the club.",
+    "checked_at": "2026-11-14",
+    "slug": "silverlake-family-place-erlanger",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "Silverlake is at 301 Kenton Lands Road in Erlanger; the club’s contact number is 859-426-7777.",
+        "source_url": "https://www.silverlakefamily.com/contactus",
+        "id": "silverlake-family-place-erlanger.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "To use Silverlake, you must be a member, a guest or a participant in a facility program or event. Membership cards are used for entry.",
+        "source_url": "https://www.silverlakefamily.com/policies",
+        "id": "silverlake-family-place-erlanger.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Guests must accompany a member; guests under 18 must accompany an adult member over 18. The same guest is limited to one visit per 30 days, with a $15 guest fee. More than two guests requires prior arrangement, some days may restrict guests, and Water Park guests are permitted only Monday–Friday.",
+        "source_url": "https://www.silverlakefamily.com/policies",
+        "id": "silverlake-family-place-erlanger.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A fee-waiving guest pass requires a local resident aged at least 23 who is visiting for the first time, and must be arranged through a membership representative at least 24 hours ahead. Blackout dates apply.",
+        "source_url": "https://www.silverlakefamily.com/policies",
+        "id": "silverlake-family-place-erlanger.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The indoor aquatic-center page lists direct access from the locker rooms, but does not give doorway widths, thresholds or pool-entry equipment.",
+        "source_url": "https://www.silverlakefamily.com/indoor-aquatic-center",
+        "id": "silverlake-family-place-erlanger.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The club provides family locker rooms for families with opposite-gender children. Day-use locker contents must be removed when leaving; monthly rental lockers are available for items left at the club.",
+        "source_url": "https://www.silverlakefamily.com/policies",
+        "id": "silverlake-family-place-erlanger.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Members using the pool must first check in at the front desk. Lap lanes are reserved for people aged 18 or older unless a lifeguard approves otherwise; pool hours before 11 a.m. are reserved for members aged 18 or older except programmed activities.",
+        "source_url": "https://www.silverlakefamily.com/policies",
+        "id": "silverlake-family-place-erlanger.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Activity hours vary by season and may change for weather or advisories; current area-hour handouts are available at the front desk. Events and programs may restrict parts of the facility, and Clippers practice uses part of the pool during operating hours.",
+        "source_url": "https://www.silverlakefamily.com/policies",
+        "id": "silverlake-family-place-erlanger.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The indoor aquatic center lists a lap pool, a warm-water pool, a water slide and splash features with separate activity times. The page does not promise a quiet session; consult the activity schedule when planning around water-play activity.",
+        "source_url": "https://www.silverlakefamily.com/indoor-aquatic-center",
+        "id": "silverlake-family-place-erlanger.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bayley Fitness Club (Delhi)",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "401 Farrell Court, Cincinnati, OH 45233",
+    "website": "https://www.bayleylife.org/programs-services/fitness-club",
+    "source_url": "https://www.bayleylife.org/programs-services/fitness-club",
+    "limitations": "Public website research; no on-site audit. Current arrival route, doorway controls, the route to the track, pool lifts and transfer assistance, toilet dimensions and adult changing equipment remain unverified. Membership and guest eligibility need confirmation. November’s timetable contains inconsistent class times and some course ranges ending before this review; do not assume every printed class is currently offered. The campus address at 990 Bayley Drive is separate from the fitness schedule’s 401 Farrell Court address.",
+    "checked_at": "2026-11-14",
+    "slug": "bayley-fitness-club-delhi",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The currently linked November 2026 fitness schedule gives the club address as 401 Farrell Court, Cincinnati, and phone 513-347-1400.",
+        "source_url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+        "id": "bayley-fitness-club-delhi.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Bayley describes its fitness offering as serving adults in the greater community as well as on campus. Ask the club about current membership eligibility, prices and guest access before visiting; the page does not specify a minimum age or day-pass conditions.",
+        "source_url": "https://www.bayleylife.org/programs-services/fitness-club",
+        "id": "bayley-fitness-club-delhi.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The fitness page lists an aquatics center, indoor walking track, strength/cardio center and locker rooms. It does not describe a step-free entrance route, lift equipment or assisted changing facilities.",
+        "source_url": "https://www.bayleylife.org/programs-services/fitness-club",
+        "id": "bayley-fitness-club-delhi.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The November 2026 schedule requires registration for every class and limits class size to avoid overcrowding. Sign-ups open 72 hours before each class. If a place opens, the next person on the waitlist is automatically enrolled and notified; remove yourself from the class list if you cannot attend.",
+        "source_url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+        "id": "bayley-fitness-club-delhi.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The pool closes 15 minutes before the fitness facility. The November 2026 pool schedule prohibits individual workouts and whirlpool use during scheduled classes, so check the pool timetable before planning an independent swim.",
+        "source_url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+        "id": "bayley-fitness-club-delhi.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The November 2026 schedule lists the club closed on Thanksgiving, Thursday November 26, and open 8 a.m.–6:30 p.m. on Friday November 27. These holiday hours differ from the usual Friday opening.",
+        "source_url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+        "id": "bayley-fitness-club-delhi.cognitive.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The class guide distinguishes activity levels and describes Chair Pilates+ as a seated-and-standing format. A class name containing “chair” does not mean the whole class is seated; discuss your requirements with the instructor.",
+        "source_url": "https://cdn.prod.website-files.com/64d296374af3daee6c056cbb/6af475887471de5b9627aa75_Class%20Schedule%20November%202026.pdf",
+        "id": "bayley-fitness-club-delhi.chronic.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MetroNow! on-demand service",
+    "city": "Hamilton County",
+    "state": "OH",
+    "category": "Transportation",
+    "website": "https://www.go-metro.com/",
+    "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+    "limitations": "Public website information; no on-site audit. Trips are limited to specific zones, not all of Hamilton County. The page’s launched-zone heading and its older future-tense FAQ differ; confirm both trip addresses in the app or by phone. This service is separate from eligibility-based Access paratransit. Boarding-device dimensions, transfer assistance and individual curb conditions remain unverified.",
+    "checked_at": "2026-11-14",
+    "slug": "metronow-on-demand",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "MetroNow! is open to the public, but every trip must be booked beforehand through its app or 513-551-5555. Book a child or companion as an additional rider too.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Request “Less Walking” for curb-to-curb service. Metro directs riders who have difficulty walking or use a wheelchair to select this option; “Less Waiting” uses corner-to-corner pickup and may involve walking a block or two.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Metro says each MetroNow! vehicle has space for two mobility aids, such as wheelchairs or strollers. Indicate wheelchair use in your account settings.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Packages are permitted aboard MetroNow!, but may not occupy a seat. Operators are not permitted to help with packages.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The page’s launched-zone heading lists Bond Hill/Roselawn, Springdale/Sharonville, Northgate/Mt. Healthy, Forest Park/Pleasant Run and Blue Ash/Montgomery. Its FAQ still describes Bond Hill/Roselawn as future service; confirm exact pickup and destination coverage rather than relying on a neighborhood name.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The app asks for pickup and destination addresses or map pins. It displays an “out of zone” message when the destination is outside the service zone; confirm coverage before planning a connection.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Published MetroNow! hours are weekdays 6 a.m.–10 p.m. and weekends 8 a.m.–9 p.m. Its holiday policy uses weekend service on New Year’s Day, Memorial Day, Independence Day, Labor Day, Thanksgiving and Christmas.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "MetroNow! lists a $2.50 fare. Its FAQ says Fare Deal, MVP and other Metro discount cards, fixed-route passes and transfers are not accepted for this service.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The MetroNow! app is offered in English and Spanish.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Metro’s child-seat policy makes riders responsible for bringing a seat that meets local requirements. Drivers may refuse a ride without it; Metro does not provide seats or operator help with installation.",
+        "source_url": "https://www.go-metro.com/riding-metro/metronow/",
+        "id": "metronow-on-demand.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dorothy Lane Market — Mason",
+    "city": "Mason",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "7200 Mason Montgomery Road, Mason, OH 45040",
+    "website": "https://www.dorothylane.com/",
+    "source_url": "https://www.dorothylane.com/locations/mason",
+    "limitations": "Public website information; no on-site audit. Entrance thresholds, door operation, elevator route to the mezzanine, toilets, changing facilities and shopping assistance remain unverified. The linked frontage photo and historical visitor account do not confirm current conditions. DLM Drive-Up’s linked ordering site identifies Washington Square pickup; Mason grocery curbside service has not been established.",
+    "checked_at": "2026-11-14",
+    "slug": "dorothy-lane-market-mason",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Mason store lists 7200 Mason Montgomery Road, daily hours of 6 a.m.–9 p.m. and phone 513-229-2500. Confirm holiday hours before travelling.",
+        "source_url": "https://www.dorothylane.com/locations/mason",
+        "id": "dorothy-lane-market-mason.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Mason’s Culinary Center is on the mezzanine level at the same store address; its contact number is 513-229-2510. The location description does not explain an elevator or step-free route.",
+        "source_url": "https://www.dorothylane.com/locations/CulinaryCenter",
+        "id": "dorothy-lane-market-mason.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For private Culinary Center events, DLM says tables and chairs can be repositioned. Discuss the needed arrangement when booking; this is not a measured-clearance or step-free-access guarantee.",
+        "source_url": "https://www.dorothylane.com/culinary-center/private-events",
+        "id": "dorothy-lane-market-mason.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Mason page offers frittata orders in-store or by phone for pickup. It does not describe vehicle handoff or grocery curbside collection.",
+        "source_url": "https://www.dorothylane.com/locations/mason",
+        "id": "dorothy-lane-market-mason.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Cincinnati Campus Recreation Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Recreation & fitness",
+    "address": "2820 Bearcat Way, Cincinnati, OH 45219",
+    "website": "https://www.uc.edu/campus-life/campus-rec.html",
+    "source_url": "https://www.uc.edu/campus-life/campus-rec/crc.html",
+    "limitations": "Public website information; no on-site audit. This listing covers the Uptown West Campus CRC, not CARE/Crawley or the residence hall. Membership and facility rules apply. The leisure pool’s zero-depth entry does not establish lap-pool or hot-tub access, an operating lift, transfer assistance or adult changing. Pool closing information conflicts: the pool table says 10 p.m. Monday–Thursday, while “30 minutes before” the main building’s 11 p.m. close would mean 10:30 p.m.; confirm with staff. Seasonal tables omit a year. Door controls, elevator route and toilet dimensions remain unknown. Official address conflict: the recreation page says 2820 Bearcat Way, while UC’s building directory says 2840. Confirm the main-lobby arrival point; neither number establishes a designated accessible entrance.",
+    "checked_at": "2026-11-14",
+    "slug": "university-cincinnati-campus-recreation-center",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Campus Recreation Center lists its address as 2820 Bearcat Way and phone 513-556-0604. It is on UC’s Uptown West Campus.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/crc.html",
+        "id": "university-cincinnati-campus-recreation-center.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Community members may buy memberships for themselves and their families. To join, bring photo ID or a Bearcat Card and a credit or debit card to Member Services for help with the application.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/membership.html",
+        "id": "university-cincinnati-campus-recreation-center.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Except in an emergency, members must enter and leave the CRC through the main lobby. The policy does not describe that entrance’s thresholds or door controls.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+        "id": "university-cincinnati-campus-recreation-center.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "UC requires a valid physical photo ID at Member Services for facility access; pictures and photocopies are not accepted.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+        "id": "university-cincinnati-campus-recreation-center.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The leisure pool has a zero-depth entry and a maximum depth of 3.5 feet. This description is specific to the leisure pool, not the lap pool or hot tub.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
+        "id": "university-cincinnati-campus-recreation-center.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The pool page lists lap-pool closure every Wednesday 8 a.m.–noon and leisure-pool cleaning every Monday 8 a.m.–noon. Lane availability changes during the day because of practices and meets; check the lane schedule.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
+        "id": "university-cincinnati-campus-recreation-center.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "UC’s locker-room rules offer family changing rooms for members with small children of the opposite sex. Children aged four or older may not enter the opposite-sex locker room. Adult assisted-changing equipment is not described.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/rules-regulations.html",
+        "id": "university-cincinnati-campus-recreation-center.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "UC’s single-occupancy restroom directory lists CRC rooms including 0222A–0222D, 0M300B–0M300C, 1223 and 1224. It marks rooms 3356, 4356, 5356 and 6356 as student-only. Confirm the route and permission to enter; the directory does not establish toilet dimensions or changing equipment.",
+        "source_url": "https://www.uc.edu/about/admin-finance/planning-design-construction/maps-space-management/single-occupancy-restroom-locations.html",
+        "id": "university-cincinnati-campus-recreation-center.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Day-use lockers are free and first-come. UC describes built-in combination locks in CRC locker rooms and at gym courts; ask Member Services which lock is needed for your chosen locker type.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/crc/front-desk/locker-rentals.html",
+        "id": "university-cincinnati-campus-recreation-center.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The published fall alternate-hours table lists the CRC and Aquatic Complex closed November 26. It lists November 27–28 CRC hours of 10 a.m.–2 p.m. and pool hours of 10 a.m.–1:30 p.m. The table omits a year; confirm the applicable season.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/hours-of-operation/alternate-hours-of-operation.html",
+        "id": "university-cincinnati-campus-recreation-center.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "UC names Campus Green and Woodside as the closest garages to the CRC. Proximity does not establish a step-free garage-to-lobby route.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+        "id": "university-cincinnati-campus-recreation-center.mobility.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Parking is not included automatically with recreation membership. The member-parking option is available to community, affiliate and alumni members and their spouses, domestic partners and legal dependents; UC students, faculty and staff buy parking through Parking Services.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+        "id": "university-cincinnati-campus-recreation-center.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For a Campus Rec parking card, scan in rather than taking a ticket so the card can scan out. The card covers three hours once daily while using recreation facilities; additional fees start after three hours and are charged at exit.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+        "id": "university-cincinnati-campus-recreation-center.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "On game days, recreation members must use Campus Green Garage and show their card to the parking attendant; parking may be limited. For entry or exit trouble, press HELP on the card reader and report any error code to Member Services or 513-556-0604.",
+        "source_url": "https://www.uc.edu/campus-life/campus-rec/about/parking.html",
+        "id": "university-cincinnati-campus-recreation-center.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A separate UC building-directory record identifies the Campus Recreation Center at 2840 Bearcat Way. Confirm the arrival point with recreation staff before travelling.",
+        "source_url": "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=RECCENTER",
+        "id": "university-cincinnati-campus-recreation-center.cognitive.7",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-14",
         "published_at": null,

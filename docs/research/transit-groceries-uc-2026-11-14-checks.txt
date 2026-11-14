@@ -1,0 +1,16 @@
+November 14 final local checks
+102 final saved note IDs: fresh quote gate passed
+120 unit tests passed
+79 pipeline tests passed
+ESLint passed
+TypeScript --noEmit passed
+Production build passed (existing Atkinson fallback warning)
+189 browser tests discovered; execution requires runner
+17 local HTTP checks passed
+2 unique computed accessible-name patterns matched correct tour URLs
+13 guide/source links HTTP 200
+4 next-lead preflight pages HTTP 200
+Old IDs/history prefixes and 576 unselected source records preserved
+No conflict markers; all changed/new JSON parsed
+Browser constraints: Chromium MachPort 1100 before navigation; CUA browser host unavailable
+Prior host result: 185/186 browser tests passed; ambiguous two-panorama selector repaired
