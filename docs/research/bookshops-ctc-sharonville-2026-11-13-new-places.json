@@ -1,0 +1,296 @@
+[
+  {
+    "slug": "poor-charlottes-books-covington",
+    "name": "Poor Charlotte’s Books",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "112 West Pike Street, Covington, KY 41011",
+    "website": "https://www.poorcharlottes.com/",
+    "source_url": "https://www.poorcharlottes.com/",
+    "limitations": "Current shop and bookstore-crawl organizer information; no on-site audit. The organizer’s broad wheelchair-access and restroom descriptions do not establish entrance choice, threshold, powered doors, aisle clearances, transfer space or changing equipment. Street/public-lot parking does not establish designated bays or a continuous route. Shop photographs have unknown capture dates and do not resolve entrance or toilet details. The reading lounge is not a verified quiet space; crawl hours are event-specific and differ from regular shop hours.",
+    "facts": [
+      [
+        "mobility",
+        "The Cincy Bookstore Crawl organizer lists street parking and a public parking lot for Poor Charlotte’s at 112 West Pike Street. It does not identify the lot, designated spaces or a continuous parking-to-door route.",
+        "https://cincybookstorecrawl.com/crawl-bookstores",
+        "partner_official",
+        null,
+        [
+          "Poor Charlotte’s Books",
+          "112 West Pike St. Covington, KY",
+          "Street parking and public parking lot. Wheelchair accessible. Accessible restrooms."
+        ]
+      ],
+      [
+        "mobility",
+        "The crawl organizer describes wheelchair access and accessible restrooms at this shop. Those are the organizer’s descriptions; doorway, toilet layout and adult changing equipment remain unverified.",
+        "https://cincybookstorecrawl.com/crawl-bookstores",
+        "partner_official",
+        null,
+        [
+          "Poor Charlotte’s Books",
+          "112 West Pike St. Covington, KY",
+          "Street parking and public parking lot. Wheelchair accessible. Accessible restrooms."
+        ]
+      ],
+      [
+        "cognitive",
+        "The shop’s contact page lists Wednesday–Saturday, 11 a.m.–7 p.m., and Sunday, 11 a.m.–5 p.m., at 112 West Pike Street. Use regular shop information rather than the crawl’s event timetable when planning a visit.",
+        "https://www.poorcharlottes.com/pages/contact",
+        "venue_official",
+        null,
+        "Hours Wednesday - Saturday 11am - 7pm Sunday 11am - 5pm Visit Us 112 West Pike Street Covington, KY 41011"
+      ],
+      [
+        "cognitive",
+        "The shop advertises book clubs and a reading lounge and links to its events. Seating availability, access to the lounge and sound levels during events have not been established.",
+        "https://www.poorcharlottes.com/",
+        "venue_official",
+        null,
+        "Book Clubs and Reading Lounge See Events"
+      ]
+    ]
+  },
+  {
+    "slug": "blue-marble-books-fort-thomas",
+    "name": "Blue Marble Books",
+    "city": "Fort Thomas",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "1356 S. Fort Thomas Avenue, Fort Thomas, KY 41075",
+    "website": "https://www.bluemarblebooks.com/",
+    "source_url": "https://www.bluemarblebooks.com/",
+    "limitations": "Current shop and crawl-organizer information, plus a separately attributed January 2023 ramp report; no on-site audit. The homepage exterior photograph has an unknown capture date and shows front steps, while the dated news photograph shows a side ramp. Neither establishes today’s route, ramp dimensions, door operation, upper-floor access, toilet facilities or changing equipment. The Great Green Room is not a verified quiet retreat or step-free destination. The homepage includes Sunday hours; the contact page lists only Tuesday–Saturday. Confirm Sunday opening and YMCA parking permission outside the crawl.",
+    "facts": [
+      [
+        "mobility",
+        "The bookstore-crawl organizer lists street and YMCA parking for Blue Marble and describes wheelchair access. It does not identify a designated bay, crossing route, entrance or ramp measurements; confirm parking arrangements outside the event.",
+        "https://cincybookstorecrawl.com/crawl-bookstores",
+        "partner_official",
+        null,
+        [
+          "Blue Marble Books",
+          "1356 S. Fort Thomas Ave. Fort Thomas, KY",
+          "Parking on street and at YMCA. Wheelchair accessible."
+        ]
+      ],
+      [
+        "cognitive",
+        "The shop homepage lists Tuesday–Saturday, 10 a.m.–5 p.m., and Sunday, noon–5 p.m., with phone 859-781-0602. Confirm hours before visiting.",
+        "https://www.bluemarblebooks.com/",
+        "venue_official",
+        null,
+        [
+          "Hours Tuesday - Saturday 10:00am-5:00pm Sunday 12:00pm-5:00pm",
+          "Phone 859-781-0602"
+        ]
+      ],
+      [
+        "cognitive",
+        "The contact page lists Tuesday–Saturday, 10 a.m.–5 p.m., at 1356 S. Fort Thomas Avenue and phone 859-781-0602. It gives no Sunday hours; this omission does not establish a Sunday closure.",
+        "https://www.bluemarblebooks.com/contacts-and-directions",
+        "venue_official",
+        null,
+        [
+          "Hours Tuesday- Saturday 10:00am-5:00pm",
+          "Address 1356 S. Ft Thomas Ave Ft Thomas, Kentucky 41075 Phone 859-781-0602"
+        ]
+      ],
+      [
+        "cognitive",
+        "The Great Green Room recreates the bedroom from Goodnight Moon. The shop says visitors can see it except when a scheduled event closes the room. Its route and level access are unverified, and it is not described as a quiet room.",
+        "https://www.bluemarblebooks.com/services-and-attractions",
+        "venue_official",
+        null,
+        "The Great Green Room is a recreation of the main bedroom in the book Goodnight Moon by Margaret Wise Brown. It is one of only two that exist. We also shelve our collectible books, most specially wrapped, in the Great Green room. Stop in any time to visit this magical space! The only time the Great Green Room is closed is if we have a scheduled event planned."
+      ],
+      [
+        "cognitive",
+        "The shop distinguishes its linked Bookshop ordering service from in-store stock: Bookshop ships from its own inventory. Call the store for in-store availability; an online listing does not establish a local pickup order.",
+        "https://www.bluemarblebooks.com/",
+        "venue_official",
+        null,
+        "Bookshop is separate from in-store inventory. Bookshop ships directly to you from their own inventory. Please call us for information on in-store inventory!"
+      ],
+      [
+        "chronic",
+        "Blue Marble accepts requests to order titles by phone or in person. This is an ordering option, not a promise of curbside collection, home delivery by the store or carrying assistance.",
+        "https://www.bluemarblebooks.com/services-and-attractions",
+        "venue_official",
+        null,
+        [
+          "We can order almost anything, children's literature through adult.",
+          "Give us a call or stop in to order a title!"
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "book-bus-depot-sharonville",
+    "name": "Book Bus Depot",
+    "city": "Sharonville",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "10936 Reading Road, Cincinnati, OH 45241",
+    "website": "https://cincybookbus.com/",
+    "source_url": "https://cincybookbus.com/",
+    "limitations": "Current store, event-organizer and city information; no on-site audit. This is the fixed Sharonville shop, not the mobile book truck or a transit station. The shop’s overflow-parking FAQ gives City Hall as 10090 Reading Road; the city gives 10900. Confirm the intended parking area and route rather than navigating to the disputed number. The crawl’s access/restroom labels do not establish measured clearances, toilet configuration or adult changing equipment. Exterior and interior photographs have unknown capture dates. No door controls, continuous arrival route, access inside the display vehicle, lifting help or guaranteed quiet space is established. Moonflower is a separate business. The shop’s official postal address uses Cincinnati; the crawl identifies this location as Sharonville.",
+    "facts": [
+      [
+        "mobility",
+        "The crawl organizer lists on-site parking and City Hall parking a few blocks south for Book Bus Depot at 10936 Reading Road. Designated spaces, crossings and the complete route to the shop are unverified.",
+        "https://cincybookstorecrawl.com/crawl-bookstores",
+        "partner_official",
+        null,
+        [
+          "Book Bus Depot",
+          "10936 Reading Road Sharonville, OH",
+          "Parking onsite and at City Hall a few blocks South. Wheelchair accessible. Accessible restrooms."
+        ]
+      ],
+      [
+        "mobility",
+        "If the shop lot is full, its FAQ suggests free on-street parking in front of City Hall, three doors south, and gives the address as 10090 Reading Road. Confirm the intended parking location before travel and compare the separate city address note.",
+        "https://cincybookbus.com/about/",
+        "venue_official",
+        null,
+        "Where can I park if your lot is full? There is free, on-street parking in front of the Sharonville City Hall, 3 doors south of us (10090 Reading Rd)."
+      ],
+      [
+        "cognitive",
+        "The city identifies City Hall and Council Chambers at 10900 Reading Road. This is the city’s address, not confirmation that a particular space there is available for bookstore visitors.",
+        "https://www.sharonville.org/117/3878/City-Council",
+        "public_agency",
+        null,
+        "City Hall Council Chambers 10900 Reading Road Sharonville, OH 45241"
+      ],
+      [
+        "mobility",
+        "The crawl organizer describes wheelchair access and accessible restrooms at Book Bus Depot. It gives no doorway or restroom measurements, transfer layout or changing-table details.",
+        "https://cincybookstorecrawl.com/crawl-bookstores",
+        "partner_official",
+        null,
+        [
+          "Book Bus Depot",
+          "10936 Reading Road Sharonville, OH",
+          "Parking onsite and at City Hall a few blocks South. Wheelchair accessible. Accessible restrooms."
+        ]
+      ],
+      [
+        "cognitive",
+        "The shop says it has no phone number. It accepts store questions and book-order enquiries at cincybookbus@gmail.com or through its public social pages; a reply time is not promised.",
+        "https://cincybookbus.com/about/",
+        "venue_official",
+        null,
+        [
+          "Do you have a phone number? We do not.",
+          "Email cincybookbus@gmail.com or message through the Instagram or FB pages.",
+          "Have a question about the store, idea for a charitable recipient, you want to order a book or something else on your mind?"
+        ]
+      ],
+      [
+        "chronic",
+        "For donations of more than two boxes, the shop prefers Wednesdays, 11:30 a.m.–2:30 p.m., when its used-book team is present. Smaller donations are welcome during opening hours. This is a timing preference, not a promise of unloading or carrying help.",
+        "https://cincybookbus.com/about/",
+        "venue_official",
+        null,
+        "If you have more than 2 boxes of books, we prefer that you bring them to us on Wednesdays between 11:30-2:30 because our used book team is in house at that time. Smaller donations are welcome any time the store is open."
+      ],
+      [
+        "cognitive",
+        "The shop says neighboring Moonflower has its own opening hours and is a separate business, although they co-host events. Do not assume the café will be open during a bookstore visit.",
+        "https://cincybookbus.com/about/",
+        "venue_official",
+        null,
+        "Moonflower Coffee Collection has been next door since winter 2023. We love having them as neighbors and we frequently co host events, however, they are a separate business and have their own hours."
+      ]
+    ]
+  },
+  {
+    "slug": "sharonville-city-hall",
+    "name": "Sharonville City Hall",
+    "city": "Sharonville",
+    "state": "OH",
+    "category": "Public services",
+    "address": "10900 Reading Road, Sharonville, OH 45241",
+    "website": "https://www.sharonville.org/",
+    "source_url": "https://www.sharonville.org/117/3878/City-Council",
+    "limitations": "Current city service information; no on-site audit. The tax page labels an accessible entrance near the employee entrance, but parking-to-door continuity, doorway dimensions, powered opening, internal routes, council seating, toilets and changing facilities remain unverified. Original city entrance/counter photos have unknown capture dates. The linked transition plan contains unfinished inventories and an unfilled adoption date; it is not a completed access audit or evidence of legal compliance. Its old Chester Road tax-office listing is superseded by the current tax page’s City Hall move. The council’s recurring timetable differs from its displayed upcoming calendar; confirm the specific meeting date. A service request or video link does not guarantee an accommodation or remote public participation.",
+    "facts": [
+      [
+        "cognitive",
+        "The city lists Council Chambers at City Hall, 10900 Reading Road. Check the current meeting calendar before traveling; a recurring timetable alone is insufficient to establish a particular meeting date.",
+        "https://www.sharonville.org/117/3878/City-Council",
+        "public_agency",
+        null,
+        "City Hall Council Chambers 10900 Reading Road Sharonville, OH 45241"
+      ],
+      [
+        "sensory",
+        "For hearing-related or other requirements to attend a council meeting, the city asks visitors to call 513-563-1144 at least one week before that meeting. The page does not specify which aids or services will be supplied.",
+        "https://www.sharonville.org/117/3878/City-Council",
+        "public_agency",
+        null,
+        "For the hard of hearing or those who have special requirements to attend a meeting, call 513-563-1144 at least one week before each meeting."
+      ],
+      [
+        "cognitive",
+        "The council page links to live meeting viewing and says agendas are available before meetings. A viewing link does not establish captions, remote speaking rights or a substitute for arranging attendance support.",
+        "https://www.sharonville.org/117/3878/City-Council",
+        "public_agency",
+        null,
+        [
+          "Meetings can be watched and viewed live here",
+          "Agendas are available prior to the meetings. Minutes are available following approval."
+        ]
+      ],
+      [
+        "mobility",
+        "The tax department places its document/payment drop box outside the employee entrance, near the entrance it calls the Accessible Entrance. The box is only for tax documents and payments. Its reach height, operating force and the complete approach are not established.",
+        "https://sharonville.org/133/Tax",
+        "public_agency",
+        null,
+        [
+          "Residents can now drop off tax documents and payments at the secure drop box located outside the Employee Entrance of the City of Sharonville building.",
+          "The drop box is marked “City of Sharonville Income Tax Department” and is intended for tax documents and payments only. Please do not place other items in the box.",
+          "Location: In front of the Employee Entrance (near the Accessible Entrance)"
+        ]
+      ],
+      [
+        "cognitive",
+        "The tax office says it has moved to City Hall and gives Suite 142 at 10900 Reading Road as its mailing address. It lists Monday–Friday, 8:30 a.m.–5 p.m., and phone 513-563-1169. Confirm the visitor entrance and route to the desk separately.",
+        "https://sharonville.org/133/Tax",
+        "public_agency",
+        null,
+        [
+          "Our Tax Office has moved to City Hall at 10900 Reading Road. We will receive mail at: City of Sharonville Tax Office 10900 Reading Rd, Suite 142 Sharonville, OH 45241 Our number remains the same – 513-563-1169.",
+          "Hours Monday - Friday 8:30 a.m. - 5 p.m."
+        ]
+      ],
+      [
+        "chronic",
+        "The tax office asks visitors to make an appointment for return-preparation help and call 513-563-1169 for an extended appointment involving multiple years. Preparation assistance ends at 4:30 p.m., before the listed office closing time.",
+        "https://sharonville.org/133/Tax",
+        "public_agency",
+        null,
+        [
+          "Please make an appointment for tax return preparation in our office at: cityofsharonvilletaxoffice.setmore.com . If you have multiple years to file, please call us at 513-563-1169 to make an extended appointment.",
+          "Tax return preparation assistance will only be provided until 4:30 p.m."
+        ]
+      ],
+      [
+        "cognitive",
+        "The city’s disability-access page directs inquiries to City Hall at 10900 Reading Road and lists 513-563-1144 for its ADA coordinator. Use this contact to ask about an accommodation or physical route; the page does not establish that a requested arrangement is already in place.",
+        "https://www.sharonville.org/507/Americans-with-Disabilities-Act",
+        "public_agency",
+        null,
+        [
+          "Inquiries may be directed to the City of Sharonville, City Hall, 10900 Reading Road, Sharonville, Ohio 45241.",
+          "by phone at 513.563.1144",
+          "The ADA Coordinator for the City of Sharonville"
+        ]
+      ]
+    ]
+  }
+]

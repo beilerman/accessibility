@@ -1,0 +1,212 @@
+{
+  "checkedAt": "2026-11-13",
+  "host": "localhost:3218",
+  "scope": "Final production build; HTTP and parsed server-rendered HTML/links only. Not browser, axe, keyboard or visual-layout testing.",
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "checks": []
+    },
+    {
+      "route": "/venues",
+      "status": 200,
+      "checks": []
+    },
+    {
+      "route": "/venues?category=Shopping",
+      "status": 200,
+      "checks": []
+    },
+    {
+      "route": "/venues?category=Public%20services",
+      "status": 200,
+      "checks": []
+    },
+    {
+      "route": "/access-in-pictures",
+      "status": 200,
+      "checks": [
+        {
+          "name": "licensed photo link",
+          "passed": true
+        },
+        {
+          "name": "author credit",
+          "passed": true
+        },
+        {
+          "name": "licence link",
+          "passed": true
+        },
+        {
+          "name": "historical photo date",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "route": "/visitor-reports",
+      "status": 200,
+      "checks": []
+    },
+    {
+      "route": "/venues/poor-charlottes-books-covington",
+      "status": 200,
+      "checks": [
+        {
+          "name": "venue name",
+          "passed": true
+        },
+        {
+          "name": "address",
+          "passed": true
+        },
+        {
+          "name": "guide poor-charlottes-entrance-2025",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "route": "/venues/blue-marble-books-fort-thomas",
+      "status": 200,
+      "checks": [
+        {
+          "name": "venue name",
+          "passed": true
+        },
+        {
+          "name": "address",
+          "passed": true
+        },
+        {
+          "name": "guide blue-marble-front-steps",
+          "passed": true
+        },
+        {
+          "name": "guide blue-marble-side-ramp-2023",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "route": "/venues/book-bus-depot-sharonville",
+      "status": 200,
+      "checks": [
+        {
+          "name": "venue name",
+          "passed": true
+        },
+        {
+          "name": "address",
+          "passed": true
+        },
+        {
+          "name": "guide book-bus-front-and-interior",
+          "passed": true
+        },
+        {
+          "name": "guide book-bus-shelves-and-displays",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "route": "/venues/sharonville-city-hall",
+      "status": 200,
+      "checks": [
+        {
+          "name": "venue name",
+          "passed": true
+        },
+        {
+          "name": "address",
+          "passed": true
+        },
+        {
+          "name": "guide sharonville-tax-counter-dropbox",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "route": "/venues/joseph-beth-booksellers-rookwood",
+      "status": 200,
+      "checks": [
+        {
+          "name": "venue name",
+          "passed": true
+        },
+        {
+          "name": "address",
+          "passed": true
+        },
+        {
+          "name": "guide joseph-beth-rookwood-shop-floor",
+          "passed": true
+        },
+        {
+          "name": "licensed photo link",
+          "passed": true
+        },
+        {
+          "name": "author credit",
+          "passed": true
+        },
+        {
+          "name": "licence link",
+          "passed": true
+        },
+        {
+          "name": "historical photo date",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "route": "/venues/clermont-transportation-connection-dial-a-ride",
+      "status": 200,
+      "checks": [
+        {
+          "name": "venue name",
+          "passed": true
+        },
+        {
+          "name": "address",
+          "passed": true
+        },
+        {
+          "name": "guide ctc-service-vehicle-photos",
+          "passed": true
+        },
+        {
+          "name": "guide ctc-dial-a-ride-brochure-2023",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "route": "/venues/fresh-thyme-market-newport",
+      "status": 200,
+      "checks": [
+        {
+          "name": "venue name",
+          "passed": true
+        },
+        {
+          "name": "address",
+          "passed": true
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "path": "/images/access/joseph-beth-rookwood-interior-2022.webp",
+    "status": 200,
+    "contentType": "image/webp",
+    "bytes": 476656,
+    "sha256": "b08b7f04eb9e0b21030d42aac28300af06dfc474aa9b0c3c42e5f1eec97713af",
+    "matchesReviewedAsset": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "clermont-transportation-connection-dial-a-ride": [
+    [
+      "cognitive",
+      "The currently linked discount-fare application asks senior applicants for a copy of a driver’s license showing age/date of birth or a Medicare card. For the disability fare, a physician must complete and sign the relevant section. These are CTC’s application requirements, not automatic approval or separate ADA-paratransit eligibility.",
+      "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf",
+      "venue_official",
+      [
+        "For Senior Fare: Attach a copy of Drivers License showing age/birth date or Medicare Card.",
+        "For Disabled Fare: physician must complete and sign the lower part of this form"
+      ]
+    ],
+    [
+      "cognitive",
+      "The discount-fare application says the standard $4.75 one-way adult fare applies before verification and lists $2.35 after proof of eligibility is received. It accepts the form by mail to 4003 Filager Road, Batavia, OH 45103, or fax to 513-732-7490. Confirm approval before relying on the discounted fare.",
+      "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf",
+      "venue_official",
+      [
+        "Clermont Transportation Connection 4003 Filager Road – Batavia, OH 45103 – 513.732.7433",
+        "Before verification, the adult fare will be the standard $ 4.75 each way. Once proof of eligibility has been received by the Clermont Transportation Connection , the fare will be reduced by half to $2.35 each way.",
+        "You may mail this form to the above address or fax it to: 513-732-7490."
+      ]
+    ],
+    [
+      "sensory",
+      "CTC’s linked brochure, marked Revised 1-2023, gives 513-732-7433 for requesting an alternative format. It also lists Ohio Relay at 1-800-750-0750. These are historical brochure instructions; confirm current format availability when contacting CTC.",
+      "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf",
+      "venue_official",
+      [
+        "Revised 1-2023",
+        "This brochure is available in an alternative format, for information call 513.732.7433",
+        "Ohio Relay 1.800.750.0750"
+      ]
+    ],
+    [
+      "cognitive",
+      "The linked January 2023 brochure treats a third cancellation made less than two hours before pickup within 30 days as a no-show. This is historical brochure wording; confirm current enforcement with dispatch instead of treating it as the current policy.",
+      "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf",
+      "venue_official",
+      [
+        "Revised 1-2023",
+        "If a passenger calls under 2 hours in advance, they will receive a “Late Cancellation”. If they call under 2 hours a 3rd time within 30 days, they will receive a “NO SHOW.”"
+      ]
+    ]
+  ],
+  "fresh-thyme-market-newport": [
+    [
+      "cognitive",
+      "The pickup FAQ currently linked from Newport says customers may change an order online until a team member begins picking it. It does not guarantee changes after picking starts.",
+      "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
+      "venue_official",
+      "You can make changes to your order online anytime before a team member begins picking it."
+    ],
+    [
+      "cognitive",
+      "The chain FAQ linked from Newport directs delivery orders to DoorDash, Instacart or Uber Eats and says MyThyme coupons and deals do not apply through those partners. Delivery eligibility, a time slot and any carrying assistance still need confirmation for the actual address.",
+      "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
+      "venue_official",
+      [
+        "To place a delivery order visit our third-party delivery partners: DoorDash , Instacart , or Uber Eats .",
+        "At this time, MyThyme coupons and deals do not apply to purchases made through third-party delivery partners."
+      ]
+    ]
+  ]
+}

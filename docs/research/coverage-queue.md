@@ -1,9 +1,51 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after the grocery/bookshop/transport expansion and complete
-BCRTA/LeBlond rechecks. These are leads and questions; new facts require fresh evidence.
+Updated November 13, 2026, after neighborhood shopping/City Hall growth, access-photo
+research and complete CTC/Fresh Thyme rechecks. These are leads and questions; new facts require fresh evidence.
 
 ## Current prepared batch
+
+Read [neighborhood shopping, City Hall and transport evidence](bookshops-ctc-sharonville-2026-11-13.md)
+and its canonical final evidence, media review, catalog audit, HTTP and validation receipts.
+**Five new venues:** Poor Charlotte’s Covington (4 notes), Blue Marble Fort Thomas (6),
+Book Bus Depot Sharonville (7), Sharonville City Hall (7), Joseph-Beth Rookwood (3).
+CTC’s four and Fresh Thyme’s two additions bring growth to **33 new IDs**. All mutation
+specs are already applied; the runner owns Git writes, final validation and publication.
+
+**Accuracy/freshness:** all 15 old CTC/Fresh Thyme notes fully reviewed; text unchanged.
+Five Fresh Thyme FAQ pointers now follow the current Newport-page link (`rsid/104`).
+Two full dates move November 12 → 13, repeating venues already reviewed this week.
+No partial review, old-text semantic revision or missing-record backfill. The same
+20 missing records remain held. CTC brochure/current cancellation and child-fare
+conflicts remain explicit. Poor Charlotte’s is in Covington; the old queue’s Madisonville
+label was incorrect. Crawl CSS-column attribution must be preserved.
+
+**Imagery:** one licensed full-frame Rookwood interior panorama (Antony-22, October 16,
+2022, CC BY-SA 4.0); nine original guides covering 14 selected views. 32 candidate
+image views and three PDF pages were visually reviewed. Preserve front steps versus
+historical side ramp at Blue Marble, CTC medical-lift versus Dial-A-Ride service, and
+unknown photo dates/current conditions. Three separate community reports were added.
+
+Totals: **186 venues / 1,941 active / 1,921 quoted / 20 missing / 86 licensed photos /
+111 guides**. Categories: parks 34, arts 33, food 28, shopping 23, museums 21, libraries
+15, public services 14, recreation 10, transport 8. Community queue: **62 names /
+21 added / 33 lead-only / eight held**.
+
+**Next concrete batch:** Handzy (current holiday hours differ from indexed regular
+hours; product-page pickup fetch is 429), plus branch-specific Country Fresh/CAM or
+another grocery/service lead. Dillonvale’s generic FastLane template and unresolved
+Deer Park identity are held. Pair growth with a due usable full review such as Findlay
+Market or Price Hill Library. Continue current entrance/toilet/collection imagery:
+Blue Marble side entrance, Poor Charlotte threshold, Book Bus parking crossing,
+City Hall door/counter/toilets, CTC boarding, Fresh Thyme pickup and Rookwood elevator.
+Do not let this useful bookshop batch displace other everyday categories next pass.
+
+Final local checks: 53 note/address checks, 113 unit tests, 79 pipeline tests,
+lint/types/build. The agent’s Chromium launch fails with MachPort permission denied
+1100 and the independent browser host is unavailable. **174 browser tests remain
+required on the runner.** No deployment or live-site claim.
+
+## Previous grocery, bookshop and transport batch
 
 Read [groceries, neighborhood bookshops and transport research](grocery-transit-leblond-2026-11-13.md)
 and its canonical final evidence, catalog audit, media review, HTTP and validation

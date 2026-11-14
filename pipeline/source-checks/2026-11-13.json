@@ -2630,7 +2630,7 @@
       "status": 200,
       "final_url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
       "last_modified": null,
-      "sha256": "4b1c0595616c7eef72c9c32cf44d957971b7800159c58dab46875b33d60794c1",
+      "sha256": "4cafb2acc1de8bcdc170aafd104174ef245dab7934b32ecc2e87299682c362c4",
       "fingerprint_version": 6,
       "chars": 536
     },
@@ -4453,6 +4453,114 @@
       "sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
       "fingerprint_version": 6,
       "chars": 11201
+    },
+    "https://cincybookbus.com/about/": {
+      "status": 200,
+      "final_url": "https://cincybookbus.com/about/",
+      "last_modified": null,
+      "sha256": "9807518f366748b33b8d4b2c026041ca6e34f75fdb2c7ec7fbbeae5e22569595",
+      "fingerprint_version": 6,
+      "chars": 6242
+    },
+    "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf": {
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf",
+      "last_modified": "Sat, 04 Apr 2026 19:41:12 GMT",
+      "sha256": "15a3a1c72bd168cc091d5e68c569c090e2911a47cd309a0036e20d92d242e3f3",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 1669,
+      "pages": 1
+    },
+    "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf": {
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf",
+      "last_modified": "Sat, 04 Apr 2026 19:46:28 GMT",
+      "sha256": "4d02013faa415edb228a9910c3edd0092d4cab7bd14a3f2483c72edb01bcc8bd",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 5272,
+      "pages": 2
+    },
+    "https://sharonville.org/133/Tax": {
+      "status": 200,
+      "final_url": "https://sharonville.org/133/Tax",
+      "last_modified": null,
+      "sha256": "9b17b44dc4b9aa29a4bf7cb519f0f80816d025916b76361c81b79db2428170b4",
+      "fingerprint_version": 6,
+      "chars": 4465
+    },
+    "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery": {
+      "status": 200,
+      "final_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
+      "last_modified": null,
+      "sha256": "bda6568d84f43208fb245987c3549ed8eb865ed06d4cd6388e5c351d0b4f31b9",
+      "fingerprint_version": 6,
+      "chars": 3006
+    },
+    "https://www.bluemarblebooks.com/": {
+      "status": 200,
+      "final_url": "https://www.bluemarblebooks.com/",
+      "last_modified": null,
+      "sha256": "57bc87d2b967f984855ccb0010efca0b9f44c3250defa0d0f6db57de6d8af2a0",
+      "fingerprint_version": 6,
+      "chars": 733
+    },
+    "https://www.bluemarblebooks.com/contacts-and-directions": {
+      "status": 200,
+      "final_url": "https://www.bluemarblebooks.com/contacts-and-directions",
+      "last_modified": null,
+      "sha256": "c44ecea958a965c4106b5568a96a44a95c82861658c13ad2b32bdc59a3a45631",
+      "fingerprint_version": 6,
+      "chars": 264
+    },
+    "https://www.bluemarblebooks.com/services-and-attractions": {
+      "status": 200,
+      "final_url": "https://www.bluemarblebooks.com/services-and-attractions",
+      "last_modified": null,
+      "sha256": "5504b2aa5acdc612c5abab8ec501aa8a967823dfba564a1a6210468fef28d627",
+      "fingerprint_version": 6,
+      "chars": 2432
+    },
+    "https://www.poorcharlottes.com/": {
+      "status": 200,
+      "final_url": "https://www.poorcharlottes.com/",
+      "last_modified": null,
+      "sha256": "6abc55a3b58be61b1a6751936d529492d6e30abb540f3d8e75091d3da31dec57",
+      "fingerprint_version": 6,
+      "chars": 993
+    },
+    "https://www.poorcharlottes.com/pages/contact": {
+      "status": 200,
+      "final_url": "https://www.poorcharlottes.com/pages/contact",
+      "last_modified": null,
+      "sha256": "d1903935e4d8350653596fa88197ce95749901c4b1f87c8e6e4147d976da64ba",
+      "fingerprint_version": 6,
+      "chars": 662
+    },
+    "https://www.sharonville.org/117/3878/City-Council": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/117/3878/City-Council",
+      "last_modified": null,
+      "sha256": "78495e949d164de0393a1214cc9964392755f3e26ac105da4173db61d86aa0f7",
+      "fingerprint_version": 6,
+      "chars": 1366
+    },
+    "https://www.sharonville.org/507/Americans-with-Disabilities-Act": {
+      "status": 200,
+      "final_url": "https://www.sharonville.org/507/Americans-with-Disabilities-Act",
+      "last_modified": null,
+      "sha256": "614d5907cca84e1b67dd71be96a36cdeb901c5e33a619ff0c1edf56904cc3736",
+      "fingerprint_version": 6,
+      "chars": 1549
+    },
+    "https://www.josephbeth.com/": {
+      "status": 200,
+      "final_url": "https://www.josephbeth.com/",
+      "last_modified": null,
+      "sha256": "862c9a394b88df11206464ffd8bfee5bb0becfc1acfe339ccecc6c08e15e84ba",
+      "fingerprint_version": 6,
+      "chars": 1330
     }
   },
   "findings": {
@@ -4463,7 +4571,8 @@
     "https://www.walmart.com/store/2967-ft-wright-ky": "supported",
     "https://www.kentonlibrary.org/locations/105/": "supported",
     "https://www.mlb.com/reds/hall-of-fame/visit/accessibility": "supported",
-    "https://www.kenwoodtownecentre.com/en/visit/": "supported"
+    "https://www.kenwoodtownecentre.com/en/visit/": "supported",
+    "https://ww2.freshthyme.com/store-location/newport-kentucky-41071": "supported"
   },
   "missing_quotes": {}
 }

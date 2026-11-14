@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://www.josephbeth.com/",
+    "status": 200,
+    "final_url": "https://www.josephbeth.com/",
+    "last_modified": null,
+    "sha256": "862c9a394b88df11206464ffd8bfee5bb0becfc1acfe339ccecc6c08e15e84ba",
+    "fingerprint_version": 6,
+    "chars": 1330
+  },
+  {
+    "url": "https://handzyshopstudio.com/pages/hours-address",
+    "status": 200,
+    "final_url": "https://handzyshopstudio.com/pages/hours-address",
+    "last_modified": null,
+    "sha256": "98e662d17b4162a681bb340ee94e37099c953efa4d135e5e7c46c90c1bc62e4a",
+    "fingerprint_version": 6,
+    "chars": 424
+  },
+  {
+    "url": "https://handzyshopstudio.com/products/follow-me-to-the-thrift-store-keychain-1",
+    "status": 429,
+    "error": "Too Many Requests"
+  }
+]

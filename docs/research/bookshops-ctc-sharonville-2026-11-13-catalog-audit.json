@@ -1,0 +1,88 @@
+{
+  "base": "0186dafdac223eda22c96bb0363978fef678d7f5",
+  "new_venues": [
+    {
+      "slug": "blue-marble-books-fort-thomas",
+      "notes": 6
+    },
+    {
+      "slug": "book-bus-depot-sharonville",
+      "notes": 7
+    },
+    {
+      "slug": "joseph-beth-booksellers-rookwood",
+      "notes": 3
+    },
+    {
+      "slug": "poor-charlottes-books-covington",
+      "notes": 4
+    },
+    {
+      "slug": "sharonville-city-hall",
+      "notes": 7
+    }
+  ],
+  "existing_places_changed": [
+    "clermont-transportation-connection-dial-a-ride",
+    "fresh-thyme-market-newport"
+  ],
+  "unrelated_places_preserved": 179,
+  "new_note_ids": 33,
+  "new_venue_notes": 27,
+  "existing_venue_new_notes": 6,
+  "old_notes_text_unchanged": true,
+  "source_url_corrections": [
+    "fresh-thyme-market-newport.cognitive.2",
+    "fresh-thyme-market-newport.chronic.1",
+    "fresh-thyme-market-newport.cognitive.3",
+    "fresh-thyme-market-newport.chronic.2",
+    "fresh-thyme-market-newport.cognitive.4"
+  ],
+  "permanent_ids_preserved": true,
+  "history_prefixes_preserved": true,
+  "totals": {
+    "venues": 186,
+    "active_notes": 1941,
+    "retired_notes": 1,
+    "quoted_active_notes": 1921,
+    "missing_quote_records": 20,
+    "licensed_photos": 86,
+    "guides": 111,
+    "community_reports": 53
+  },
+  "category_counts": {
+    "Museums & attractions": 21,
+    "Arts & performances": 33,
+    "Parks & outdoors": 34,
+    "Libraries": 15,
+    "Transportation": 8,
+    "Food & drink": 28,
+    "Shopping": 23,
+    "Public services": 14,
+    "Recreation & fitness": 10
+  },
+  "missing_quote_ids": [
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.sensory.1",
+    "molly-malones-covington.cognitive.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.chronic.1",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.sensory.1",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.2"
+  ],
+  "unselected_source_baselines_preserved": 550,
+  "prior_guides_reports_photos_preserved": true
+}

@@ -880,5 +880,57 @@
     "sourceUrl": "https://www.cincinnatimagazine.com/article/major-minor-books/",
     "summary": "The writer describes a crowded recent Sunday visit, reading nooks with plush seats, and a rear café area where visitors can bring food or drinks and use power and Wi-Fi.",
     "caveat": "The visit date is not given. This is a published visitor account, not an official access assessment or a prediction of current crowds. Seating clearances, the route to the café, entrance ramp and toilets were not assessed. Confirm current food and café arrangements with the shop."
+  },
+  {
+    "id": "blue-marble-reported-side-ramp-2023",
+    "placeSlug": "blue-marble-books-fort-thomas",
+    "publisher": "Spectrum News 1",
+    "author": "Katie Forcade",
+    "publishedAt": "2023-01-21",
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "reported_experience",
+    "domains": [
+      "mobility"
+    ],
+    "sourceTitle": "Historical report of a newly installed ramp",
+    "sourceUrl": "https://spectrumnews1.com/ky/louisville/news/2023/01/21/blue-marble-books-accessibility-ramp-built",
+    "summary": "A January 2023 report describes the bookstore installing a ramp with help from a Fort Thomas city grant. Its photograph shows the wooden ramp along the building toward a side doorway.",
+    "caveat": "This is a dated news report with staff comments, not a present-day access inspection or a documented wheelchair visit. The photograph’s capture date is unknown. Current route availability, slope, clearances, door controls, other rooms and toilets remain unverified; the front steps are a separate entrance view."
+  },
+  {
+    "id": "book-bus-reddit-donation-recommendation",
+    "placeSlug": "book-bus-depot-sharonville",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment",
+    "domains": [
+      "cognitive"
+    ],
+    "sourceTitle": "Public recommendation for donating books in Sharonville",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1w855w9/little_libraries/",
+    "summary": "A commenter recommends Book Bus Depot in Sharonville for book donations, and another endorses the suggestion.",
+    "caveat": "This is a recommendation, not an explicitly reported visit or an accessibility assessment. The underlying discussion shows a relative age of two months; exact publication and visit dates are unresolved. Use the shop’s current donation instructions. Carrying help, doorway access and parking routes are not established by these comments."
+  },
+  {
+    "id": "joseph-beth-reddit-seating-elevator-2022",
+    "placeSlug": "joseph-beth-booksellers-rookwood",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment",
+    "domains": [
+      "mobility",
+      "chronic"
+    ],
+    "sourceTitle": "Historical seating recommendation and upstairs-elevator comment",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/x7foo3/seeking_recommendations_for_nonchain/",
+    "summary": "Commenters recommend the Rookwood bookstore for places to sit. A reply says there is an elevator to the upstairs history section.",
+    "caveat": "The thread is indexed to September 2022 and currently displays a relative age of four years; exact comment and visit dates are unresolved. These are recommendations and an asserted feature, not an explicitly described access visit. Current elevator location, operation, dimensions and route to seating are unverified. The separately dated interior photo shows stairs but does not identify the elevator."
   }
 ]

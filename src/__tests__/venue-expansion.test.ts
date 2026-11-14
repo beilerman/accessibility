@@ -3,6 +3,9 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "joseph-beth-booksellers-rookwood",
+  "poor-charlottes-books-covington", "blue-marble-books-fort-thomas",
+  "book-bus-depot-sharonville", "sharonville-city-hall",
   "cincinnati-bus-station-galbraith",
   "ink-dayton", "major-minor-books-silverton",
   "fabled-brew-works", "remke-markets-taylor-mill",
@@ -26,6 +29,39 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds Rookwood phone-order support without promoting the historical elevator report to an official fact", () => {
+    const slug = "joseph-beth-booksellers-rookwood";
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(text(slug)).toContain("online orders are temporarily paused");
+    expect(text(slug)).not.toMatch(/elevator/i);
+    expect(place(slug).limitations).toContain("current location, operation and dimensions remain unverified");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("keeps neighborhood bookshops in their actual regions with source scope intact", () => {
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toEqual(expect.arrayContaining([
+      "poor-charlottes-books-covington", "blue-marble-books-fort-thomas",
+    ]));
+    expect(place("poor-charlottes-books-covington").address).toContain("Covington, KY");
+    expect(text("blue-marble-books-fort-thomas")).not.toMatch(/accessible restrooms/i);
+    expect(text("blue-marble-books-fort-thomas")).toContain("not described as a quiet room");
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain("book-bus-depot-sharonville");
+    expect(text("book-bus-depot-sharonville")).toContain("10090 Reading Road");
+    expect(text("book-bus-depot-sharonville")).toContain("10900 Reading Road");
+    expect(text("book-bus-depot-sharonville")).toContain("not a promise of unloading or carrying help");
+  });
+  it("finds City Hall services without treating the drop box as a building access audit", () => {
+    expect(findPlaces({ category: "Public services", region: "OH" }).map((p) => p.slug)).toContain("sharonville-city-hall");
+    expect(text("sharonville-city-hall")).toContain("only for tax documents and payments");
+    expect(text("sharonville-city-hall")).toContain("at least one week");
+    expect(place("sharonville-city-hall").limitations).toContain("unfilled adoption date");
+    expect(place("sharonville-city-hall").observed_at).toBeNull();
+  });
+  it("separates historical CTC instructions and the Newport-linked grocery FAQ", () => {
+    expect(text("clermont-transportation-connection-dial-a-ride")).toContain("historical brochure wording");
+    const faq = place("fresh-thyme-market-newport").facts.filter((f) => f.source_url.includes("pickup-and-delivery"));
+    expect(faq).toHaveLength(7);
+    expect(faq.every((f) => f.source_url.includes("/rsid/104/"))).toBe(true);
+  });
   it("separates the Galbraith station from national assistance and carrier limits", () => {
     const slug = "cincinnati-bus-station-galbraith";
     expect(findPlaces({ category: "Transportation", region: "OH" }).map((p) => p.slug)).toContain(slug);

@@ -5,6 +5,11 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/joseph-beth-booksellers-rookwood",
+  "/venues/poor-charlottes-books-covington",
+  "/venues/blue-marble-books-fort-thomas",
+  "/venues/book-bus-depot-sharonville",
+  "/venues/sharonville-city-hall",
   "/venues/cincinnati-bus-station-galbraith",
   "/venues/ink-dayton",
   "/venues/major-minor-books-silverton",

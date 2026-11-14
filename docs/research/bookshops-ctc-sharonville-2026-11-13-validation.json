@@ -1,0 +1,168 @@
+{
+  "checked_at": "2026-11-13",
+  "prepared_at_utc": "2026-11-14T04:58:12.328807+00:00",
+  "base": "0186dafdac223eda22c96bb0363978fef678d7f5",
+  "publish_ready": true,
+  "status": "ready_for_runner_validation",
+  "publication": "Local reviewed batch. Runner must pass its full suite before atomic Git pushes. No agent Git write, deployment, preview or live-site verification.",
+  "start_state": {
+    "pending_edits": 0,
+    "conflict_markers": 0,
+    "prior_validation_failure": "Prior Walton test repair already present in accepted base; no unresolved validation defect at start."
+  },
+  "progress": {
+    "new_venues": [
+      {
+        "slug": "blue-marble-books-fort-thomas",
+        "notes": 6
+      },
+      {
+        "slug": "book-bus-depot-sharonville",
+        "notes": 7
+      },
+      {
+        "slug": "joseph-beth-booksellers-rookwood",
+        "notes": 3
+      },
+      {
+        "slug": "poor-charlottes-books-covington",
+        "notes": 4
+      },
+      {
+        "slug": "sharonville-city-hall",
+        "notes": 7
+      }
+    ],
+    "new_note_ids": 33,
+    "new_venue_notes": 27,
+    "existing_venue_new_notes": 6,
+    "old_notes_reviewed": 15,
+    "old_note_texts_retained": 15,
+    "old_note_semantic_revisions": 0,
+    "source_url_corrections": 5,
+    "previously_absent_quote_repairs": 0,
+    "new_note_context_passages_strengthened": 2,
+    "queue_location_correction": "Poor Charlotte’s: Madisonville -> Covington",
+    "full_rechecks": [
+      {
+        "slug": "clermont-transportation-connection-dial-a-ride",
+        "before": "2026-11-12",
+        "after": "2026-11-13",
+        "repeat_within_rolling_week": true
+      },
+      {
+        "slug": "fresh-thyme-market-newport",
+        "before": "2026-11-12",
+        "after": "2026-11-13",
+        "repeat_within_rolling_week": true
+      }
+    ],
+    "partial_rechecks": [],
+    "licensed_photos_added": 1,
+    "linked_photo_guides_added": 9,
+    "selected_guide_views": 14,
+    "candidate_image_views_inspected": 32,
+    "distinct_candidate_image_hashes": 32,
+    "pdf_pages_visually_reviewed": 3,
+    "community_reports_added": 3
+  },
+  "totals": {
+    "venues": 186,
+    "active_notes": 1941,
+    "retired_notes": 1,
+    "quoted_active_notes": 1921,
+    "missing_quote_records": 20,
+    "licensed_photos": 86,
+    "guides": 111,
+    "community_reports": 53
+  },
+  "community_queue": {
+    "names": 62,
+    "added": 21,
+    "lead_only": 33,
+    "held": 8
+  },
+  "checks": {
+    "final_note_address_evidence": {
+      "passed": 53,
+      "failed": 0,
+      "notes": 48,
+      "addresses": 5
+    },
+    "initial_quote_mismatches": 3,
+    "initial_quote_mismatches_resolution": "Corrected text-boundary/PDF-space passages against fresh sources; final gate supersedes diagnostic receipt.",
+    "factual_source_urls_baselined": 18,
+    "original_guide_links_200": 9,
+    "unit_tests": 113,
+    "pipeline_tests": 79,
+    "lint": "passed",
+    "typescript": "passed",
+    "production_build": "passed",
+    "http_routes": 13,
+    "licensed_asset_hash": "matched reviewed WebP",
+    "browser_tests_discovered": 174,
+    "browser_tests_passed_by_agent": 0,
+    "browser_status": "Required runner gate pending. One route launch attempted; Chromium failed before navigation with MachPort rendezvous permission denied 1100. Independent CUA inventory reported browser host unavailable.",
+    "diff_check": "passed",
+    "image_review": "Original full frame and final 2560 x 613 WebP visually inspected; no retouching, crop or AI.",
+    "final_evidence_matches_catalog": true,
+    "licensed_source_page": "200; author and CC BY-SA 4.0 link freshly confirmed",
+    "crawl_section_column_associations": 3
+  },
+  "holds": {
+    "missing_quotes_unchanged": 20,
+    "country_fresh": "Branch unspecified and no current access/collection procedure established",
+    "cam": "Undated location/winter photo lacks precise current access and reuse permission",
+    "dillonvale": "Generic broken FastLane template; community Deer Park identity unresolved",
+    "handzy_pickup": "Product helper fetch 429; indexed pickup text not promoted",
+    "tripadvisor": "Underlying pages unavailable; no snippet imports",
+    "blue_marble": "Current ramp/elevator/toilet routes and Sunday hours unresolved",
+    "book_bus": "Overflow City Hall address conflict retained",
+    "ctc": "Current webpage versus January 2023 brochure conflicts retained"
+  },
+  "preservation": {
+    "unrelated_existing_places": 179,
+    "prior_photo_assets": 85,
+    "unselected_source_baselines": 550,
+    "permanent_ids_and_history_prefixes": "preserved",
+    "prior_guide_report_entries": "preserved"
+  },
+  "file_sha256": {
+    "docs/HANDOFF-2026-11-10.md": "9942e83e80b77341486c2f52abee09d983b918a0863a7c2440ba88f6c0831d89",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-address-review.json": "c61690cbfbdcd67cd5d96df99766c87bdc1e557b13bf05bdc73779fdd92d6527",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-catalog-audit.json": "ac825f3e9926854d01d3695a702acd15e25abd92c819250afbd4c5b85d984b8d",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-commons-research.json": "52e540982c8e51b90e51073e39b466b0e6e6d2ec795fef97ae257de878b2d192",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-crawl-context.json": "04c3a9dd0dff4e065c75bea7513178b93a5402cf96305221d2d8fffbd596fc27",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-depth.json": "2f8ca0f672abdf26a75cb3225e665dc58664a055e433d5e8aae30b69ce1f63d7",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-evidence.json": "12854fc3df98eb668a924af524e4a285a014433d72436941c555d79bca3049a5",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-evidence.verified.json": "6799e57bbcdf0919db80194e81604ebb2b462199a42e8e20de7aca6edb762467",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-final-evidence.json": "08c0e2c787ec062970ef7f0c02a430db05f5a8f131488b67cee9911078f7e1b0",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-final-evidence.verified.json": "450115f38ddacf3ab47a9dc97e805f6c890a7d16339852d42985b06b131d76ba",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-guide-checks.json": "3c440caa20aba2955592c781142ebe11f960f7f9ab6e506ddf0fdccaf2ab5dde",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-http-checks.json": "49f86f79d42f9a9522fb6a197b8793d692665feaf83dcfdd1b0f4af47dc191ea",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-initial-gate.verified.json": "d0533b7bfd911ae412636196e7c049151da6987069614b3094d133774cfea930",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-joseph-evidence.json": "aa56d4da7a879dbb6003c231cde8abe86b68504283675414853b5369d92d9dea",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-joseph-evidence.verified.json": "bfb5a665392f9492d8a4c11f5fbb56d64d3ea7586f1fd3eabde7d250eaad77ca",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-joseph-place.json": "8430a7b35a2b843151fb9f6639a3a348c704c5290ad256344c565f94d3d87c36",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-licensed-photo.json": "51e67cf7580089b0232cba9b35529c95840c684098b27f6e85bf9dd8148c4374",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-media-review.json": "cf41521eccbff06b25a828f5228e181fcffaa350cab0818660d2451f745ec03b",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-new-places.json": "ee33ed7093959ef33bc9b0fd48b19e23826b6af46e37f08114376c5db655eeed",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-next-leads.json": "19ce6ce8c938b0347da64d32cccad8a301459035429523f0ee3e8524a1b23377",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-recheck.json": "66c7086951a185632cca3ec04fcda4d6cbe449272a79684e452b26457c7d36e5",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-source-corrections.json": "36a8f5bd422bcc97aaec4921f0646a7136ed1cb35a40f5c6b784a1a62e045a3a",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-source-fetches.json": "070184172e422b146b7ffca482e3c77cb1ee76eabdb369e497bc750fd533db07",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13-source-urls.txt": "e49a1541ae4ec7f8db6e1f8a4e983d21338b62ecf0ace05a750ea411700596c0",
+    "docs/research/bookshops-ctc-sharonville-2026-11-13.md": "83c4907397069ac0ffc060cded08bc2f04ebbcc73717eb1dd613ff7b55955341",
+    "docs/research/community-venue-discovery-2026-11-13.json": "0be80581b9baca3415d25cb545382cb7bfc4b7754b06088c2710805522954767",
+    "docs/research/coverage-queue.md": "62f0b945607aad203f64d218d3df11f80c3d30b0afb360d533f605b36cd07a5e",
+    "e2e/accessibility.spec.ts": "b24a92fa31dd2be3ae5b17c5a17c02e4b7317dfdd7390437f02d955c20ea02a0",
+    "pipeline/evidence/quotes.json": "af1b34edfe80c3eeb2b3f47dd14fd0b24d766e4e3cf5f5ab318e7fdc7a09f47a",
+    "pipeline/source-checks/2026-11-13.json": "5756061f29e287ef2002adad951279aa29a900227f75da140c6905c4e4db1708",
+    "public/images/access/joseph-beth-rookwood-interior-2022.webp": "b08b7f04eb9e0b21030d42aac28300af06dfc474aa9b0c3c42e5f1eec97713af",
+    "src/__tests__/venue-expansion.test.ts": "38c5ba4e53c749549e351e7b3deca1a15e55d0fa4958267c7a95ff2002c812bc",
+    "src/data/access-guides.json": "106908ae268eb63d903efa256f2c6d3cb000a5c280d06afa33378250ea5d7855",
+    "src/data/access-photos.json": "03792a4a263acb2d37431f93dcf7b37d53780710d8a1ab05482d131501418ee3",
+    "src/data/places.json": "d822da5a4f3f21d52bb86544744dd3ea9d4c8f86720988cd1a999b369eff3970",
+    "src/data/visitor-reports-community.json": "87792ac01e6e13ed0841f699a7f475c032c8fcf7a40ea0b15cf1df369ca213ff"
+  }
+}

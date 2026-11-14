@@ -1,0 +1,334 @@
+{
+  "checkedAt": "2026-11-13",
+  "note": "Exploration receipts. Only final-evidence.verified.json and gated quote records establish note support. A 200 response with little text does not establish useful access evidence.",
+  "sources": [
+    {
+      "url": "https://poorcharlottes.com/pages/about-us",
+      "file": "06a1aa81b794",
+      "status": 200,
+      "final_url": "https://www.poorcharlottes.com/pages/about-us",
+      "last_modified": null,
+      "sha256": "5d0abd7071c2075d97cc08569095aa15271cdae263352be13af5cad36d9ed50d",
+      "fingerprint_version": 6,
+      "chars": 4616
+    },
+    {
+      "url": "https://poorcharlottes.com/",
+      "file": "70574abd0550",
+      "status": 200,
+      "final_url": "https://www.poorcharlottes.com/",
+      "last_modified": null,
+      "sha256": "6abc55a3b58be61b1a6751936d529492d6e30abb540f3d8e75091d3da31dec57",
+      "fingerprint_version": 6,
+      "chars": 993
+    },
+    {
+      "url": "https://countryfreshfarmmarket.com/",
+      "file": "ec44cd0583fc",
+      "status": 200,
+      "final_url": "https://countryfreshfarmmarket.com/",
+      "last_modified": null,
+      "sha256": "3832b685f3dac9153050cf181edf746caee665917db4eddc8a695e8e7755e6c4",
+      "fingerprint_version": 6,
+      "chars": 27
+    },
+    {
+      "url": "https://countryfreshfarmmarket.com/vine",
+      "file": "b8a604c3fef4",
+      "status": 200,
+      "final_url": "https://countryfreshfarmmarket.com/vine",
+      "last_modified": null,
+      "sha256": "fc9db0e7e680d3abfa06652ce7ffbeb569742e1840ae1ebf9870621e24d30219",
+      "fingerprint_version": 6,
+      "chars": 370
+    },
+    {
+      "url": "https://countryfreshfarmmarket.com/beechmont",
+      "file": "dddd3c135244",
+      "status": 200,
+      "final_url": "https://countryfreshfarmmarket.com/beechmont",
+      "last_modified": null,
+      "sha256": "8edca5bc746519e9929d3eb9c7d651adeb8cdf75a0edfe792921cd85c4773f0b",
+      "fingerprint_version": 6,
+      "chars": 387
+    },
+    {
+      "url": "https://www.huaxin.us/english/Location-Cin.html",
+      "file": "903ce3e9ac8d",
+      "status": 200,
+      "final_url": "https://www.huaxin.us/english/Location-Cin.html",
+      "last_modified": "Thu, 12 May 2016 14:56:02 GMT",
+      "sha256": "fe30e57287e0a24ce1edc20229a37f5a8c271c62a0e2fa14a14041f1a715b678",
+      "fingerprint_version": 6,
+      "chars": 217
+    },
+    {
+      "url": "https://www.huaxin.us/english/index.html",
+      "file": "a5dc36071389",
+      "status": 404,
+      "error": "Not Found"
+    },
+    {
+      "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+      "file": "c1dd83e9762f",
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
+      "last_modified": null,
+      "sha256": "d5cf96c087d6d0737c41ecc516148ace24a7e6811adc6ffcd3a15dc4ac998866",
+      "fingerprint_version": 6,
+      "chars": 2114
+    },
+    {
+      "url": "https://ctc.clermontcountyohio.gov/ctc-fares",
+      "file": "d0ec8f4f90d8",
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/ctc-fares",
+      "last_modified": null,
+      "sha256": "7bb92f0a9471be57aa988bd368c2c7d588ab9a4f8014bf38182308d8b384bce9",
+      "fingerprint_version": 6,
+      "chars": 1788
+    },
+    {
+      "url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy",
+      "file": "87ec07300333",
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy",
+      "last_modified": null,
+      "sha256": "80bbd82c689a9885b6d7fafc87cacbcb694d9a6fa7191db058c4335833f76706",
+      "fingerprint_version": 6,
+      "chars": 1348
+    },
+    {
+      "url": "https://ctc.clermontcountyohio.gov/",
+      "file": "d4b6cc21b902",
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/",
+      "last_modified": null,
+      "sha256": "2b1a06b78ff2fda851d9b703cf0d819e75ad08c875eba4f3d9009c48a428b060",
+      "fingerprint_version": 6,
+      "chars": 2232
+    },
+    {
+      "url": "https://cincybookstorecrawl.com/crawl-bookstores",
+      "file": "2a35279ece78",
+      "status": 200,
+      "final_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+      "last_modified": null,
+      "sha256": "c8aaeed721eaa19814540f4b10a6cee3656a6cec84c1b25483f739a17bf30919",
+      "fingerprint_version": 6,
+      "chars": 6395
+    },
+    {
+      "url": "https://www.dillonvaleiga.com/",
+      "file": "3092cd86bc76",
+      "status": 200,
+      "final_url": "https://www.dillonvaleiga.com/",
+      "last_modified": null,
+      "sha256": "63d8aff7a03dcd0d4e517746846ee10ad33106bb4a84dfb85ded5bab9c5afa67",
+      "fingerprint_version": 6,
+      "chars": 485
+    },
+    {
+      "url": "https://www.poorcharlottes.com/pages/contact",
+      "file": "96282c3eb57d",
+      "status": 200,
+      "final_url": "https://www.poorcharlottes.com/pages/contact",
+      "last_modified": null,
+      "sha256": "d1903935e4d8350653596fa88197ce95749901c4b1f87c8e6e4147d976da64ba",
+      "fingerprint_version": 6,
+      "chars": 662
+    },
+    {
+      "url": "https://www.bluemarblebooks.com/",
+      "file": "9c222dbb832d",
+      "status": 200,
+      "final_url": "https://www.bluemarblebooks.com/",
+      "last_modified": null,
+      "sha256": "57bc87d2b967f984855ccb0010efca0b9f44c3250defa0d0f6db57de6d8af2a0",
+      "fingerprint_version": 6,
+      "chars": 733
+    },
+    {
+      "url": "https://www.bluemarblebooks.com/services-and-attractions",
+      "file": "a90f8757976f",
+      "status": 200,
+      "final_url": "https://www.bluemarblebooks.com/services-and-attractions",
+      "last_modified": null,
+      "sha256": "5504b2aa5acdc612c5abab8ec501aa8a967823dfba564a1a6210468fef28d627",
+      "fingerprint_version": 6,
+      "chars": 2432
+    },
+    {
+      "url": "https://cincybookbus.com/",
+      "file": "a8be1b482c5f",
+      "status": 200,
+      "final_url": "https://cincybookbus.com/",
+      "last_modified": null,
+      "sha256": "dff17bcad4fb6a73e656f5fb7c024f98c93e17da762b230b2601d238f4aad056",
+      "fingerprint_version": 6,
+      "chars": 1636
+    },
+    {
+      "url": "https://cincybookbus.com/about/",
+      "file": "233375e86289",
+      "status": 200,
+      "final_url": "https://cincybookbus.com/about/",
+      "last_modified": "Sat, 14 Nov 2026 04:21:00 GMT",
+      "sha256": "9807518f366748b33b8d4b2c026041ca6e34f75fdb2c7ec7fbbeae5e22569595",
+      "fingerprint_version": 6,
+      "chars": 6242
+    },
+    {
+      "url": "https://ctc.clermontcountyohio.gov/complimentary-ada-paratransit-service/",
+      "file": "1f204a73e204",
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/complimentary-ada-paratransit-service/",
+      "last_modified": null,
+      "sha256": "60ec04672ad3dbad421dbb57e3e766bc45429b327be4b209cef19d5cc2e1ce6d",
+      "fingerprint_version": 6,
+      "chars": 1825
+    },
+    {
+      "url": "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf",
+      "file": "bc76380f5ad3",
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf",
+      "last_modified": "Sat, 04 Apr 2026 19:41:12 GMT",
+      "sha256": "15a3a1c72bd168cc091d5e68c569c090e2911a47cd309a0036e20d92d242e3f3",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 1669,
+      "pages": 1
+    },
+    {
+      "url": "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf",
+      "file": "2bbfb96b2eeb",
+      "status": 200,
+      "final_url": "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf",
+      "last_modified": "Sat, 04 Apr 2026 19:46:28 GMT",
+      "sha256": "4d02013faa415edb228a9910c3edd0092d4cab7bd14a3f2483c72edb01bcc8bd",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 5272,
+      "pages": 2
+    },
+    {
+      "url": "https://commons.wikimedia.org/wiki/File:Clermont_Transportation_Connection_bus.jpg",
+      "file": "8a04c0654f8a",
+      "status": 200,
+      "final_url": "https://commons.wikimedia.org/wiki/File:Clermont_Transportation_Connection_bus.jpg",
+      "last_modified": "Sat, 31 Oct 2026 04:20:59 GMT",
+      "sha256": "46f9a90e5b5121dc6b86c80cb51a16da3511f2c4334f82067ed935aeb5139966",
+      "fingerprint_version": 6,
+      "chars": 4608
+    },
+    {
+      "url": "https://spectrumnews1.com/ky/louisville/news/2023/01/21/blue-marble-books-accessibility-ramp-built",
+      "file": "578b32ea2980",
+      "status": 200,
+      "final_url": "https://spectrumnews1.com/ky/louisville/news/2023/01/21/blue-marble-books-accessibility-ramp-built",
+      "last_modified": null,
+      "sha256": "9598d38a51fb63ba225f2e7e6a2a5c86b4b0aa73a57285f971811dd43db4d749",
+      "fingerprint_version": 6,
+      "chars": 2682
+    },
+    {
+      "url": "https://www.bluemarblebooks.com/contacts-and-directions",
+      "file": "03ca4e250f22",
+      "status": 200,
+      "final_url": "https://www.bluemarblebooks.com/contacts-and-directions",
+      "last_modified": null,
+      "sha256": "c44ecea958a965c4106b5568a96a44a95c82861658c13ad2b32bdc59a3a45631",
+      "fingerprint_version": 6,
+      "chars": 264
+    },
+    {
+      "url": "https://www.bluemarblebooks.com/rent-our-spaces",
+      "file": "b4671ac16e39",
+      "status": 404,
+      "error": "Not Found"
+    },
+    {
+      "url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
+      "file": "3a9644e2cdc8",
+      "status": 200,
+      "final_url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
+      "last_modified": null,
+      "sha256": "4cafb2acc1de8bcdc170aafd104174ef245dab7934b32ecc2e87299682c362c4",
+      "fingerprint_version": 6,
+      "chars": 536
+    },
+    {
+      "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+      "file": "f5788f05597c",
+      "status": 200,
+      "final_url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+      "last_modified": null,
+      "sha256": "bda6568d84f43208fb245987c3549ed8eb865ed06d4cd6388e5c351d0b4f31b9",
+      "fingerprint_version": 6,
+      "chars": 3006
+    },
+    {
+      "url": "https://www.sharonville.org/",
+      "file": "af2d2107d50e",
+      "status": 200,
+      "final_url": "https://www.sharonville.org/",
+      "last_modified": null,
+      "sha256": "8d720c00e01ae5b225c557eca11c053b0cdf38e0e864471d1c3ef34737b891c0",
+      "fingerprint_version": 6,
+      "chars": 1893
+    },
+    {
+      "url": "https://www.dillonvaleiga.com/subscriptions/",
+      "file": "f551e8108b4e",
+      "status": 200,
+      "final_url": "https://www.dillonvaleiga.com/subscriptions/",
+      "last_modified": null,
+      "sha256": "43bf9263c5b4ae59a36fff707ea9b30f87ab7d4c75699ca5fb546c26670410dc",
+      "fingerprint_version": 6,
+      "chars": 942
+    },
+    {
+      "url": "https://www.sharonville.org/117/3878/City-Council",
+      "file": "b58dda754e31",
+      "status": 200,
+      "final_url": "https://www.sharonville.org/117/3878/City-Council",
+      "last_modified": null,
+      "sha256": "78495e949d164de0393a1214cc9964392755f3e26ac105da4173db61d86aa0f7",
+      "fingerprint_version": 6,
+      "chars": 1366
+    },
+    {
+      "url": "https://www.sharonville.org/507/Americans-with-Disabilities-Act",
+      "file": "f20f9bd456e2",
+      "status": 200,
+      "final_url": "https://www.sharonville.org/507/Americans-with-Disabilities-Act",
+      "last_modified": null,
+      "sha256": "614d5907cca84e1b67dd71be96a36cdeb901c5e33a619ff0c1edf56904cc3736",
+      "fingerprint_version": 6,
+      "chars": 1549
+    },
+    {
+      "url": "https://sharonville.org/133/Tax",
+      "file": "65950bee0e3f",
+      "status": 200,
+      "final_url": "https://sharonville.org/133/Tax",
+      "last_modified": null,
+      "sha256": "9b17b44dc4b9aa29a4bf7cb519f0f80816d025916b76361c81b79db2428170b4",
+      "fingerprint_version": 6,
+      "chars": 4465
+    },
+    {
+      "url": "https://sharonville.org/DocumentCenter/View/2786/ADA-Transition-Plan-",
+      "file": "22ee6726c09b",
+      "status": 200,
+      "final_url": "https://sharonville.org/DocumentCenter/View/2786/ADA-Transition-Plan-",
+      "last_modified": null,
+      "sha256": "39568c53e6f0bb1bec929dbbf5b80af4218e6780a198624fb69d0fdee81883db",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 36037,
+      "pages": 28
+    }
+  ]
+}

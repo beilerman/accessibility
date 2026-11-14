@@ -1,0 +1,8 @@
+[
+  {
+    "slug": "book-bus-depot-sharonville",
+    "streetLocationSource": "https://cincybookstorecrawl.com/crawl-bookstores",
+    "postalAddressSource": "https://cincybookbus.com/",
+    "note": "Final address follows the official footer including its Cincinnati postal city and ZIP; the crawl supports the Sharonville location. No ZIP is inferred from the crawl\u2019s shorter address."
+  }
+]

@@ -34410,7 +34410,7 @@
     "website": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
     "source_url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
     "limitations": "Public website information; no on-site audit. The local storefront and its linked pickup FAQ establish a location and ordering procedures, not a physical access audit or a confirmed pickup slot. Pickup guidance is chain policy presented in the Newport storefront. Parking bays, continuous parking-to-door routes, thresholds, door controls, mobility-cart availability, aisle widths, toilets, changing facilities, quiet times, the collection point, check-in alternatives and loading assistance remain unknown. Confirm the Newport store and collection arrangements before placing an order; the general pickup instructions do not establish curbside delivery to a vehicle. The website’s digital accessibility statement does not establish access inside the store.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-13",
     "slug": "fresh-thyme-market-newport",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -34421,7 +34421,7 @@
         "source_url": "https://ww2.freshthyme.com/store-location/newport-kentucky-41071",
         "id": "fresh-thyme-market-newport.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34430,16 +34430,21 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
         "text": "Fresh Thyme’s pickup FAQ linked in the Newport storefront offers ordering through its website or mobile app. Sign in or create a loyalty account, choose the store and add items. The page does not describe the Newport collection point, arrival check-in or loading help.",
-        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
         "id": "fresh-thyme-market-newport.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34448,16 +34453,26 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Updated the source URL to the pickup FAQ currently linked from the Newport location page (rsid/104); re-read the full unchanged text and matched every supporting passage. The older rsid/801 endpoint still carries the same FAQ, but is no longer the link observed on the Newport page."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
         "text": "The chain’s pickup rules say to collect within the selected time frame and contact the store directly if late or changing an order. If the store has not heard from the customer by the end of the day, it cancels the order without processing payment.",
-        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
         "id": "fresh-thyme-market-newport.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34466,16 +34481,26 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Updated the source URL to the pickup FAQ currently linked from the Newport location page (rsid/104); re-read the full unchanged text and matched every supporting passage. The older rsid/801 endpoint still carries the same FAQ, but is no longer the link observed on the Newport page."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
         "text": "The pickup FAQ allows scheduling up to two weeks ahead. A missing preferred time slot means that store has reached its pickup capacity for that period; choose an available slot. This does not confirm today’s Newport availability.",
-        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
         "id": "fresh-thyme-market-newport.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -34484,22 +34509,88 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Updated the source URL to the pickup FAQ currently linked from the Newport location page (rsid/104); re-read the full unchanged text and matched every supporting passage. The older rsid/801 endpoint still carries the same FAQ, but is no longer the link observed on the Newport page."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "chronic",
         "text": "The pickup FAQ says temperature-controlled products are kept in temperature-controlled storage before collection. It does not provide storage temperatures or promise a safe storage period after collection.",
-        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
+        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
         "id": "fresh-thyme-market-newport.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Updated the source URL to the pickup FAQ currently linked from the Newport location page (rsid/104); re-read the full unchanged text and matched every supporting passage. The older rsid/801 endpoint still carries the same FAQ, but is no longer the link observed on the Newport page."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Fresh Thyme’s pickup FAQ excludes alcohol from pickup and says CBD products can only be bought in-store. Plan for those exclusions before relying on pickup for a complete shopping trip.",
+        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
+        "id": "fresh-thyme-market-newport.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Updated the source URL to the pickup FAQ currently linked from the Newport location page (rsid/104); re-read the full unchanged text and matched every supporting passage. The older rsid/801 endpoint still carries the same FAQ, but is no longer the link observed on the Newport page."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The pickup FAQ currently linked from Newport says customers may change an order online until a team member begins picking it. It does not guarantee changes after picking starts.",
+        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
+        "id": "fresh-thyme-market-newport.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -34507,17 +34598,17 @@
       },
       {
         "domain": "cognitive",
-        "text": "Fresh Thyme’s pickup FAQ excludes alcohol from pickup and says CBD products can only be bought in-store. Plan for those exclusions before relying on pickup for a complete shopping trip.",
-        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
-        "id": "fresh-thyme-market-newport.cognitive.4",
+        "text": "The chain FAQ linked from Newport directs delivery orders to DoorDash, Instacart or Uber Eats and says MyThyme coupons and deals do not apply through those partners. Delivery eligibility, a time slot and any carrying assistance still need confirmation for the actual address.",
+        "source_url": "https://ww2.freshthyme.com/sm/planning/rsid/104/pickup-and-delivery",
+        "id": "fresh-thyme-market-newport.cognitive.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
-            "date": "2026-11-12",
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -37212,7 +37303,7 @@
     "website": "https://ctc.clermontcountyohio.gov/",
     "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
     "limitations": "Public operator website information; no on-site audit or ride assessment. The address is CTC’s published mailing address, not a confirmed boarding point. This listing covers general-public Dial-A-Ride, not separate ADA paratransit eligibility or Medicaid transport. The operator’s current page explicitly excludes Saturday service; a county court referral page still includes Saturday, so confirm your date with dispatch. Vehicle/lift dimensions, equipment fit, transfer or stair assistance, companion fares, toilets and changing facilities remain unverified. No inspected reusable boarding photograph is available. The cancellation webpage counts a call less than two hours before pickup as a no-show, while the linked brochure marked Revised 1-2023 counts the third such late cancellation within 30 days as a no-show. Confirm current enforcement with dispatch; the brochure also uses different child age/fare categories.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-13",
     "slug": "clermont-transportation-connection-dial-a-ride",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -37223,7 +37314,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
         "id": "clermont-transportation-connection-dial-a-ride.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37232,6 +37323,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37241,7 +37337,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
         "id": "clermont-transportation-connection-dial-a-ride.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37250,6 +37346,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37259,7 +37360,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
         "id": "clermont-transportation-connection-dial-a-ride.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37268,6 +37369,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37277,7 +37383,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
         "id": "clermont-transportation-connection-dial-a-ride.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37286,6 +37392,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37295,7 +37406,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
         "id": "clermont-transportation-connection-dial-a-ride.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37304,6 +37415,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37313,7 +37429,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
         "id": "clermont-transportation-connection-dial-a-ride.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37322,6 +37438,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37331,7 +37452,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service",
         "id": "clermont-transportation-connection-dial-a-ride.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37340,6 +37461,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37349,7 +37475,7 @@
         "source_url": "https://ctc.clermontcountyohio.gov/ctc-fares",
         "id": "clermont-transportation-connection-dial-a-ride.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -37358,6 +37484,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -37367,13 +37498,90 @@
         "source_url": "https://ctc.clermontcountyohio.gov/dial-a-ride-service/late-cancellation-no-show-policy",
         "id": "clermont-transportation-connection-dial-a-ride.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The currently linked discount-fare application asks senior applicants for a copy of a driver’s license showing age/date of birth or a Medicare card. For the disability fare, a physician must complete and sign the relevant section. These are CTC’s application requirements, not automatic approval or separate ADA-paratransit eligibility.",
+        "source_url": "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf",
+        "id": "clermont-transportation-connection-dial-a-ride.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The discount-fare application says the standard $4.75 one-way adult fare applies before verification and lists $2.35 after proof of eligibility is received. It accepts the form by mail to 4003 Filager Road, Batavia, OH 45103, or fax to 513-732-7490. Confirm approval before relying on the discounted fare.",
+        "source_url": "https://ctc.clermontcountyohio.gov/media/FormsProcedures/discounted-fare-application-02.24.24.pdf",
+        "id": "clermont-transportation-connection-dial-a-ride.cognitive.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "CTC’s linked brochure, marked Revised 1-2023, gives 513-732-7433 for requesting an alternative format. It also lists Ohio Relay at 1-800-750-0750. These are historical brochure instructions; confirm current format availability when contacting CTC.",
+        "source_url": "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf",
+        "id": "clermont-transportation-connection-dial-a-ride.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The linked January 2023 brochure treats a third cancellation made less than two hours before pickup within 30 days as a no-show. This is historical brochure wording; confirm current enforcement with dispatch instead of treating it as the current policy.",
+        "source_url": "https://ctc.clermontcountyohio.gov/media/Routes/dial-a-ride-1-2023.pdf",
+        "id": "clermont-transportation-connection-dial-a-ride.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -42565,6 +42773,572 @@
         "source_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
         "id": "cincinnati-bus-station-galbraith.sensory.1",
         "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Poor Charlotte’s Books",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "112 West Pike Street, Covington, KY 41011",
+    "website": "https://www.poorcharlottes.com/",
+    "source_url": "https://www.poorcharlottes.com/",
+    "limitations": "Current shop and bookstore-crawl organizer information; no on-site audit. The organizer’s broad wheelchair-access and restroom descriptions do not establish entrance choice, threshold, powered doors, aisle clearances, transfer space or changing equipment. Street/public-lot parking does not establish designated bays or a continuous route. Shop photographs have unknown capture dates and do not resolve entrance or toilet details. The reading lounge is not a verified quiet space; crawl hours are event-specific and differ from regular shop hours.",
+    "checked_at": "2026-11-13",
+    "slug": "poor-charlottes-books-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Cincy Bookstore Crawl organizer lists street parking and a public parking lot for Poor Charlotte’s at 112 West Pike Street. It does not identify the lot, designated spaces or a continuous parking-to-door route.",
+        "source_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+        "id": "poor-charlottes-books-covington.mobility.1",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The crawl organizer describes wheelchair access and accessible restrooms at this shop. Those are the organizer’s descriptions; doorway, toilet layout and adult changing equipment remain unverified.",
+        "source_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+        "id": "poor-charlottes-books-covington.mobility.2",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shop’s contact page lists Wednesday–Saturday, 11 a.m.–7 p.m., and Sunday, 11 a.m.–5 p.m., at 112 West Pike Street. Use regular shop information rather than the crawl’s event timetable when planning a visit.",
+        "source_url": "https://www.poorcharlottes.com/pages/contact",
+        "id": "poor-charlottes-books-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shop advertises book clubs and a reading lounge and links to its events. Seating availability, access to the lounge and sound levels during events have not been established.",
+        "source_url": "https://www.poorcharlottes.com/",
+        "id": "poor-charlottes-books-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Blue Marble Books",
+    "city": "Fort Thomas",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "1356 S. Fort Thomas Avenue, Fort Thomas, KY 41075",
+    "website": "https://www.bluemarblebooks.com/",
+    "source_url": "https://www.bluemarblebooks.com/",
+    "limitations": "Current shop and crawl-organizer information, plus a separately attributed January 2023 ramp report; no on-site audit. The homepage exterior photograph has an unknown capture date and shows front steps, while the dated news photograph shows a side ramp. Neither establishes today’s route, ramp dimensions, door operation, upper-floor access, toilet facilities or changing equipment. The Great Green Room is not a verified quiet retreat or step-free destination. The homepage includes Sunday hours; the contact page lists only Tuesday–Saturday. Confirm Sunday opening and YMCA parking permission outside the crawl.",
+    "checked_at": "2026-11-13",
+    "slug": "blue-marble-books-fort-thomas",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The bookstore-crawl organizer lists street and YMCA parking for Blue Marble and describes wheelchair access. It does not identify a designated bay, crossing route, entrance or ramp measurements; confirm parking arrangements outside the event.",
+        "source_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+        "id": "blue-marble-books-fort-thomas.mobility.1",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shop homepage lists Tuesday–Saturday, 10 a.m.–5 p.m., and Sunday, noon–5 p.m., with phone 859-781-0602. Confirm hours before visiting.",
+        "source_url": "https://www.bluemarblebooks.com/",
+        "id": "blue-marble-books-fort-thomas.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The contact page lists Tuesday–Saturday, 10 a.m.–5 p.m., at 1356 S. Fort Thomas Avenue and phone 859-781-0602. It gives no Sunday hours; this omission does not establish a Sunday closure.",
+        "source_url": "https://www.bluemarblebooks.com/contacts-and-directions",
+        "id": "blue-marble-books-fort-thomas.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Great Green Room recreates the bedroom from Goodnight Moon. The shop says visitors can see it except when a scheduled event closes the room. Its route and level access are unverified, and it is not described as a quiet room.",
+        "source_url": "https://www.bluemarblebooks.com/services-and-attractions",
+        "id": "blue-marble-books-fort-thomas.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shop distinguishes its linked Bookshop ordering service from in-store stock: Bookshop ships from its own inventory. Call the store for in-store availability; an online listing does not establish a local pickup order.",
+        "source_url": "https://www.bluemarblebooks.com/",
+        "id": "blue-marble-books-fort-thomas.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Blue Marble accepts requests to order titles by phone or in person. This is an ordering option, not a promise of curbside collection, home delivery by the store or carrying assistance.",
+        "source_url": "https://www.bluemarblebooks.com/services-and-attractions",
+        "id": "blue-marble-books-fort-thomas.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Book Bus Depot",
+    "city": "Sharonville",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "10936 Reading Road, Cincinnati, OH 45241",
+    "website": "https://cincybookbus.com/",
+    "source_url": "https://cincybookbus.com/",
+    "limitations": "Current store, event-organizer and city information; no on-site audit. This is the fixed Sharonville shop, not the mobile book truck or a transit station. The shop’s overflow-parking FAQ gives City Hall as 10090 Reading Road; the city gives 10900. Confirm the intended parking area and route rather than navigating to the disputed number. The crawl’s access/restroom labels do not establish measured clearances, toilet configuration or adult changing equipment. Exterior and interior photographs have unknown capture dates. No door controls, continuous arrival route, access inside the display vehicle, lifting help or guaranteed quiet space is established. Moonflower is a separate business. The shop’s official postal address uses Cincinnati; the crawl identifies this location as Sharonville.",
+    "checked_at": "2026-11-13",
+    "slug": "book-bus-depot-sharonville",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The crawl organizer lists on-site parking and City Hall parking a few blocks south for Book Bus Depot at 10936 Reading Road. Designated spaces, crossings and the complete route to the shop are unverified.",
+        "source_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+        "id": "book-bus-depot-sharonville.mobility.1",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "If the shop lot is full, its FAQ suggests free on-street parking in front of City Hall, three doors south, and gives the address as 10090 Reading Road. Confirm the intended parking location before travel and compare the separate city address note.",
+        "source_url": "https://cincybookbus.com/about/",
+        "id": "book-bus-depot-sharonville.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The city identifies City Hall and Council Chambers at 10900 Reading Road. This is the city’s address, not confirmation that a particular space there is available for bookstore visitors.",
+        "source_url": "https://www.sharonville.org/117/3878/City-Council",
+        "id": "book-bus-depot-sharonville.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The crawl organizer describes wheelchair access and accessible restrooms at Book Bus Depot. It gives no doorway or restroom measurements, transfer layout or changing-table details.",
+        "source_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+        "id": "book-bus-depot-sharonville.mobility.3",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shop says it has no phone number. It accepts store questions and book-order enquiries at cincybookbus@gmail.com or through its public social pages; a reply time is not promised.",
+        "source_url": "https://cincybookbus.com/about/",
+        "id": "book-bus-depot-sharonville.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "For donations of more than two boxes, the shop prefers Wednesdays, 11:30 a.m.–2:30 p.m., when its used-book team is present. Smaller donations are welcome during opening hours. This is a timing preference, not a promise of unloading or carrying help.",
+        "source_url": "https://cincybookbus.com/about/",
+        "id": "book-bus-depot-sharonville.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shop says neighboring Moonflower has its own opening hours and is a separate business, although they co-host events. Do not assume the café will be open during a bookstore visit.",
+        "source_url": "https://cincybookbus.com/about/",
+        "id": "book-bus-depot-sharonville.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sharonville City Hall",
+    "city": "Sharonville",
+    "state": "OH",
+    "category": "Public services",
+    "address": "10900 Reading Road, Sharonville, OH 45241",
+    "website": "https://www.sharonville.org/",
+    "source_url": "https://www.sharonville.org/117/3878/City-Council",
+    "limitations": "Current city service information; no on-site audit. The tax page labels an accessible entrance near the employee entrance, but parking-to-door continuity, doorway dimensions, powered opening, internal routes, council seating, toilets and changing facilities remain unverified. Original city entrance/counter photos have unknown capture dates. The linked transition plan contains unfinished inventories and an unfilled adoption date; it is not a completed access audit or evidence of legal compliance. Its old Chester Road tax-office listing is superseded by the current tax page’s City Hall move. The council’s recurring timetable differs from its displayed upcoming calendar; confirm the specific meeting date. A service request or video link does not guarantee an accommodation or remote public participation.",
+    "checked_at": "2026-11-13",
+    "slug": "sharonville-city-hall",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The city lists Council Chambers at City Hall, 10900 Reading Road. Check the current meeting calendar before traveling; a recurring timetable alone is insufficient to establish a particular meeting date.",
+        "source_url": "https://www.sharonville.org/117/3878/City-Council",
+        "id": "sharonville-city-hall.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "For hearing-related or other requirements to attend a council meeting, the city asks visitors to call 513-563-1144 at least one week before that meeting. The page does not specify which aids or services will be supplied.",
+        "source_url": "https://www.sharonville.org/117/3878/City-Council",
+        "id": "sharonville-city-hall.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The council page links to live meeting viewing and says agendas are available before meetings. A viewing link does not establish captions, remote speaking rights or a substitute for arranging attendance support.",
+        "source_url": "https://www.sharonville.org/117/3878/City-Council",
+        "id": "sharonville-city-hall.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The tax department places its document/payment drop box outside the employee entrance, near the entrance it calls the Accessible Entrance. The box is only for tax documents and payments. Its reach height, operating force and the complete approach are not established.",
+        "source_url": "https://sharonville.org/133/Tax",
+        "id": "sharonville-city-hall.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The tax office says it has moved to City Hall and gives Suite 142 at 10900 Reading Road as its mailing address. It lists Monday–Friday, 8:30 a.m.–5 p.m., and phone 513-563-1169. Confirm the visitor entrance and route to the desk separately.",
+        "source_url": "https://sharonville.org/133/Tax",
+        "id": "sharonville-city-hall.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The tax office asks visitors to make an appointment for return-preparation help and call 513-563-1169 for an extended appointment involving multiple years. Preparation assistance ends at 4:30 p.m., before the listed office closing time.",
+        "source_url": "https://sharonville.org/133/Tax",
+        "id": "sharonville-city-hall.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The city’s disability-access page directs inquiries to City Hall at 10900 Reading Road and lists 513-563-1144 for its ADA coordinator. Use this contact to ask about an accommodation or physical route; the page does not establish that a requested arrangement is already in place.",
+        "source_url": "https://www.sharonville.org/507/Americans-with-Disabilities-Act",
+        "id": "sharonville-city-hall.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Joseph-Beth Booksellers — Rookwood",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "2692 Madison Road, Cincinnati, OH 45208",
+    "website": "https://www.josephbeth.com/",
+    "source_url": "https://www.josephbeth.com/",
+    "limitations": "Current official location and phone-order information; no on-site audit. The October 2022 panorama shows stairs between shop levels and upper-level seating, but does not identify an elevator or establish today’s layout. A separate historical community comment mentions an upstairs elevator; current location, operation and dimensions remain unverified. Parking, the entrance route, thresholds, door controls, shelf and aisle clearances, toilets, changing facilities, quiet areas and assistance limits still need evidence. Book set-aside service does not establish curbside collection or carrying help. Online ordering is subject to an undated temporary pause.",
+    "checked_at": "2026-11-13",
+    "slug": "joseph-beth-booksellers-rookwood",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Rookwood shop lists 2692 Madison Road, phone 513-396-8960, and store hours Monday–Saturday, 8 a.m.–9 p.m., and Sunday, 9 a.m.–8 p.m. Confirm current hours before traveling; these are store hours, not a separate bistro timetable.",
+        "source_url": "https://www.josephbeth.com/",
+        "id": "joseph-beth-booksellers-rookwood.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Joseph-Beth says customers can call the store to check title availability, have books set aside or place special orders. The page does not promise curbside handoff, carrying help or a particular collection route.",
+        "source_url": "https://www.josephbeth.com/",
+        "id": "joseph-beth-booksellers-rookwood.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The website currently says online orders are temporarily paused during system upgrades and directs customers to call for help. It gives no reopening date for online ordering; check the current notice before relying on that option.",
+        "source_url": "https://www.josephbeth.com/",
+        "id": "joseph-beth-booksellers-rookwood.cognitive.3",
+        "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,

@@ -1,0 +1,43 @@
+[
+  {
+    "slug": "joseph-beth-booksellers-rookwood",
+    "name": "Joseph-Beth Booksellers — Rookwood",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "2692 Madison Road, Cincinnati, OH 45208",
+    "website": "https://www.josephbeth.com/",
+    "source_url": "https://www.josephbeth.com/",
+    "limitations": "Current official location and phone-order information; no on-site audit. The October 2022 panorama shows stairs between shop levels and upper-level seating, but does not identify an elevator or establish today’s layout. A separate historical community comment mentions an upstairs elevator; current location, operation and dimensions remain unverified. Parking, the entrance route, thresholds, door controls, shelf and aisle clearances, toilets, changing facilities, quiet areas and assistance limits still need evidence. Book set-aside service does not establish curbside collection or carrying help. Online ordering is subject to an undated temporary pause.",
+    "facts": [
+      [
+        "cognitive",
+        "The Rookwood shop lists 2692 Madison Road, phone 513-396-8960, and store hours Monday–Saturday, 8 a.m.–9 p.m., and Sunday, 9 a.m.–8 p.m. Confirm current hours before traveling; these are store hours, not a separate bistro timetable.",
+        "https://www.josephbeth.com/",
+        "venue_official",
+        null,
+        "Rookwood Pavilion 2692 Madison Rd Cincinnati, OH 45208 (513) 396-8960 - Store Hours Mon-Sat: 8am-9pm Sunday: 9am-8pm"
+      ],
+      [
+        "cognitive",
+        "Joseph-Beth says customers can call the store to check title availability, have books set aside or place special orders. The page does not promise curbside handoff, carrying help or a particular collection route.",
+        "https://www.josephbeth.com/",
+        "venue_official",
+        null,
+        "The best way to check if we have a book in stock is to give us a call! We're always happy to check availability, set titles aside, place special orders, and answer questions."
+      ],
+      [
+        "cognitive",
+        "The website currently says online orders are temporarily paused during system upgrades and directs customers to call for help. It gives no reopening date for online ordering; check the current notice before relying on that option.",
+        "https://www.josephbeth.com/",
+        "venue_official",
+        null,
+        [
+          "Over the next few weeks, we're giving our store systems and website a bit of love along with some exciting new upgrades.",
+          "While we tidy things up online orders will be temporarily paused.",
+          "The best way to check if we have a book in stock is to give us a call!"
+        ]
+      ]
+    ]
+  }
+]

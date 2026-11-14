@@ -13,7 +13,10 @@
     "https://www.reddit.com/r/cincinnati/comments/1sajidj/accessible_activities_around_town/",
     "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/",
     "https://www.reddit.com/r/cincinnatibeer/comments/13ztpjl/fabeled_brew_works/",
-    "https://www.reddit.com/r/cincinnati/comments/1n23gsr/artsy_shop_cafe_recs_in_cincinnati/"
+    "https://www.reddit.com/r/cincinnati/comments/1n23gsr/artsy_shop_cafe_recs_in_cincinnati/",
+    "https://www.reddit.com/r/cincinnati/comments/1w855w9/little_libraries/",
+    "https://www.reddit.com/r/cincinnati/comments/x7foo3/seeking_recommendations_for_nonchain/",
+    "https://www.reddit.com/r/Kentucky/comments/z58c4k/please_share_some_of_your_favorite_kentucky/"
   ],
   "candidates": [
     {
@@ -416,9 +419,9 @@
       "name": "CAM International Market — Evendale",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/comment/ovwzbfx/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
+      "status": "held",
       "slug": null,
-      "nextStep": "Official location page at huaxin.us lists 10400 Reading Road #145 and hours; doorway/aisles/toilets/pickup help need research. Original winter storefront photograph inspected: entrance, carts, designated-parking signs, curb/islands and snow; capture date and continuous route unknown. A public commenter reports visits and helpful signage, not a measured access visit. Follow the linked preflight before listing."
+      "nextStep": "Current official location fetch succeeds but supplies no precise access or collection procedure beyond an undated store listing. Original winter storefront photograph was inspected again; no reusable licence or capture date established. Current entrance/route/aisle/toilet and pickup assistance evidence is still needed. Community signage report remains a lead, not a measured assessment."
     },
     {
       "name": "Meijer — Cold Spring",
@@ -461,12 +464,60 @@
       "nextStep": "Crawl guide names 113 Karl Brown Way and says a single step with staff-contact ramp. Branded site returns HTTP 200 with zero extractable text; older second-floor Railroad Avenue listing conflicts with the new address. Resolve current official location and procedures before import."
     },
     {
-      "name": "Poor Charlotte’s — Madisonville",
+      "name": "Poor Charlotte’s Books — Covington",
       "discussionUrl": "https://cincybookstorecrawl.com/crawl-bookstores",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "poor-charlottes-books-covington",
+      "nextStep": "Corrected the queue’s mistaken Madisonville identity using current official address evidence. Four notes and a historical entrance-photo link added. Confirm threshold, door controls, lot location and toilet/changing layout; the crawl’s broad labels are attributed, not certification."
+    },
+    {
+      "name": "Blue Marble Books — Fort Thomas",
+      "discussionUrl": "https://spectrumnews1.com/ky/louisville/news/2023/01/21/blue-marble-books-accessibility-ramp-built",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "blue-marble-books-fort-thomas",
+      "nextStep": "Six official/partner notes, separate historical ramp report, and front-step/side-ramp photo links added. Confirm current ramp route and doorway, Great Green Room level access, toilets and Sunday hours."
+    },
+    {
+      "name": "Book Bus Depot — Sharonville",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1w855w9/little_libraries/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "book-bus-depot-sharonville",
+      "nextStep": "Seven notes, two original photo pages and separate public donation recommendation added. City Hall overflow-address discrepancy retained; check actual parking route, door and toilet layout. Fixed shop is separate from the mobile bookstore."
+    },
+    {
+      "name": "Country Fresh Farm Market — branch unspecified",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/",
+      "underlyingDiscussionRead": true,
+      "status": "held",
+      "slug": null,
+      "nextStep": "The public discussion does not specify Vine Street versus Beechmont. Official branch/contact pages provide addresses but no precise access or collection support; do not assign the recommendation or third-party curbside claims to a branch. Investigate current entrance, checkout, assistance and order workflow."
+    },
+    {
+      "name": "Deer Park IGA / Dillonvale IGA — identity unresolved",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/",
+      "underlyingDiscussionRead": true,
+      "status": "held",
+      "slug": null,
+      "nextStep": "Dillonvale’s official page identifies 3950 East Galbraith Road, but the discussion’s Deer Park identity remains unresolved. Its subscriptions page contains unrendered shortcodes and generic FastLane template content; no working branch collection workflow verified. Do not import aisle/checkout comments across locations."
+    },
+    {
+      "name": "Joseph-Beth Booksellers — Rookwood",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/x7foo3/seeking_recommendations_for_nonchain/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "joseph-beth-booksellers-rookwood",
+      "nextStep": "Three current official location/phone-order notes, a separately bounded historical seating/elevator comment and the full-frame October 16, 2022 Antony-22 panorama (CC BY-SA 4.0) added. Confirm current entrance, elevator location/operation, toilets, changing facilities and assistance; photo shows stairs and upper seating but no identified elevator. No cropped derivative used."
+    },
+    {
+      "name": "Handzy Shop + Studio — Covington",
+      "discussionUrl": "https://www.reddit.com/r/Kentucky/comments/z58c4k/please_share_some_of_your_favorite_kentucky/",
       "underlyingDiscussionRead": true,
       "status": "lead_only",
       "slug": null,
-      "nextStep": "Official About page is readable at poorcharlottes.com/pages/about-us. Follow current location, arrival/entrance/toilet and image evidence; verify CSS grid association in the multi-column crawl directory before assigning its access statements."
+      "nextStep": "Read public Kentucky shop recommendation; it is not a dated access visit. Fresh official location page identifies 421 West 6th Street with separate shop/coffee hours and event exceptions. Search-indexed product text mentions Covington pickup, but the current helper fetch returns 429: pickup is unresolved, not fresh-verified or curbside evidence. Investigate current entrance, fitting rooms, seating/toilets and collection help before listing."
     }
   ],
   "addedVenues": 17,
