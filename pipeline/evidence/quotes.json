@@ -1096,33 +1096,122 @@
  },
  "boone-county-public-library-hebron-branch.chronic.1": {
   "url": "https://www.bcpl.org/locations",
-  "quote": "Each library location is smoke-free . Please see our Smoke and Tobacco-Free Policy for more detail.",
-  "verified_at": "2026-11-10"
+  "quote": "Each library location is smoke-free",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "bfc7fe3b817328e1625e9984a1ea0b9128e447380c0134df75fe34d77d7b9c07",
+  "source_sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42",
+  "final_url": "https://www.bcpl.org/locations"
  },
  "boone-county-public-library-hebron-branch.chronic.2": {
   "url": "https://www.bcpl.org/locations/hebron",
-  "quote": "Only staff may reserve this outdoor and uncovered space, and patrons should bring blankets and chairs to events scheduled in the Amphitheater.",
-  "verified_at": "2026-11-10"
+  "quote": "It also includes an Amphitheater for large events. Only staff may reserve this outdoor and uncovered space, and patrons should bring blankets and chairs to events scheduled in the Amphitheater.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a38f81eac8499d2a73459d7b1b0e93da2d774532752164fe68a7a5d4c50c270f",
+  "source_sha256": "d7d69822f10ff7480bf10dca02a5f5155fc5f98dfed812482078b7917997b65c",
+  "final_url": "https://www.bcpl.org/locations/hebron"
+ },
+ "boone-county-public-library-hebron-branch.chronic.3": {
+  "url": "https://www.bcpl.org/outreach",
+  "quote": "All Boone County residents - regardless of age - are eligible for outreach services if they are unable to visit the Library due to a temporary or permanent physical limitation and to those who lack transportation.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Our Outreach Services staff will contact you to discuss the types of materials you like and to make arrangements for delivery. Materials will be delivered and picked-up every four to six weeks until you no longer need this service.",
+   "Visits may be canceled for inclement weather or mechanical issues.",
+   "Complete the registration form linked below or call 859-292-3394 ."
+  ],
+  "claim_sha256": "768bf231486aa1054f8be2074b93e7fbe420c7dfbdeaed26d1c3c5a803cca9b0",
+  "source_sha256": "c735f69947beff99ba5ab6493c76d50c4d5b1207d3ca8b9127cc6aff5da521dc",
+  "final_url": "https://www.bcpl.org/outreach"
  },
  "boone-county-public-library-hebron-branch.cognitive.1": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
-  "quote": "And of course, a phone call in advance to discuss additional accommodations is always welcome.",
-  "verified_at": "2026-11-10"
+  "quote": "Every branch also has translation devices to improve communication with non-English-speaking patrons. And of course, a phone call in advance to discuss additional accommodations is always welcome.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ff8790b28c32ae342d05361f3fd9cf2d2aacfe4390c94ca7afe5539e2715712b",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
+ },
+ "boone-county-public-library-hebron-branch.cognitive.2": {
+  "url": "https://www.bcpl.org/meeting-study-rooms",
+  "quote": "Hebron Branch Study Rooms (Reserve by phone or in person only) Room Name Cost Capacity Study Room 1 None 4 Study Room 2 None 4 Study Room 3 None 4 Study Room 4 None 4",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Study Rooms are available on a first-come, first-serve basis.",
+   "Request a study room at the customer service desk .",
+   "All requests are subject to our Study Room Policy ."
+  ],
+  "claim_sha256": "3c12832c6824a4a2d18809a0f4f56d26b4f783f588944f8ebb74b0fe7e87a8de",
+  "source_sha256": "fbcceb57551fd5694cce1d783b34b6503c6810c4434098dddce366f79ea53ba6",
+  "final_url": "https://www.bcpl.org/meeting-study-rooms"
+ },
+ "boone-county-public-library-hebron-branch.cognitive.3": {
+  "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+  "quote": "Approved 10/2023",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Study rooms vary across the system; call the specific branch to learn about specific reservation procedures, time limits, and availability.",
+   "A library card is not required for reservation.",
+   "A single customer may only reserve 1 study room at a time."
+  ],
+  "claim_sha256": "d5389921add4a5ef7dc957fd22aef319c7484380e81744618bad01ee72e53eb9",
+  "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+  "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf"
+ },
+ "boone-county-public-library-hebron-branch.cognitive.4": {
+  "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+  "quote": "Approved 10/2023",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "All room usage must conclude 15 minutes prior to the Library's posted closing time.",
+   "If a person/group does not show up for their scheduled reservation of the study room, after 15 minutes the Library holds the right to give the room away to a customer who might be waiting.",
+   "Library sponsored activities take precedence over non-Library uses of the study rooms.",
+   "The Library reserves the right to change or cancel any study room reservation if circumstances at the Library so demand, including room reassignment based upon size of the group."
+  ],
+  "claim_sha256": "bfe5ba1ec8c62a1a3211fadb21166e640e99dcb1fb06cf543d22ac0137b63698",
+  "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+  "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf"
  },
  "boone-county-public-library-hebron-branch.mobility.1": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
-  "quote": "Stop by the front desk to sign a waiver and borrow a wheelchair.",
-  "verified_at": "2026-11-10"
+  "quote": "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Stop by the front desk to sign a waiver and borrow a wheelchair."
+  ],
+  "claim_sha256": "0ff05a23ffa06e697b1665e16a9032ebb7d2fe9b5e756a5c2e3b3d993a1b7234",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-county-public-library-hebron-branch.mobility.2": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
-  "quote": "If you prefer to come inside and browse, accessible parking is available at every location.",
-  "verified_at": "2026-11-10"
+  "quote": "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton. If you prefer to come inside and browse, accessible parking is available at every location.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3eb2019c226190c64c64fabf62a991522f398b8d63fd541c2783355e77a950b4",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-county-public-library-hebron-branch.mobility.3": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
   "quote": "The Hebron Branch has a height-adjustable computer desk that can be raised or lowered with the press of a button, and accessible computer stations are coming soon to the Florence Branch.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Visitors can use the wheelchairs throughout our wide-aisle buildings as well as our outside property, such as the Storywalk at our Hebron location or the patio at the Walton Branch."
+  ],
+  "claim_sha256": "293be10743febae018cb18f6878e49ee086734f6f47562a23bc6a5212c9909b5",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
+ },
+ "boone-county-public-library-hebron-branch.mobility.4": {
+  "url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+  "quote": "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Remember to bring your library card for a smooth transaction.",
+   "At the Hebron Branch and Walton Branch, skip curbside and pull up to the convenient drive-thru."
+  ],
+  "claim_sha256": "8eded8563500a4bb754329dcff8ec68eb9b734e7be446eec89680e0c473f7e93",
+  "source_sha256": "ccb21d6f5c75f03782a1b5dbd3fb258c9016e40b3ff45656208e1e2ac0f83116",
+  "final_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/"
  },
  "boone-county-public-library-main-library.chronic.1": {
   "url": "https://www.bcpl.org/locations",
@@ -1257,53 +1346,243 @@
  },
  "boone-county-public-library-scheben-branch.chronic.1": {
   "url": "https://www.bcpl.org/locations",
-  "quote": "Each library location is smoke-free . Please see our Smoke and Tobacco-Free Policy for more detail.",
-  "verified_at": "2026-11-10"
+  "quote": "Each library location is smoke-free",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "bfc7fe3b817328e1625e9984a1ea0b9128e447380c0134df75fe34d77d7b9c07",
+  "source_sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42",
+  "final_url": "https://www.bcpl.org/locations"
+ },
+ "boone-county-public-library-scheben-branch.chronic.2": {
+  "url": "https://www.bcpl.org/outreach",
+  "quote": "All Boone County residents - regardless of age - are eligible for outreach services if they are unable to visit the Library due to a temporary or permanent physical limitation and to those who lack transportation.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Our Outreach Services staff will contact you to discuss the types of materials you like and to make arrangements for delivery. Materials will be delivered and picked-up every four to six weeks until you no longer need this service.",
+   "Visits may be canceled for inclement weather or mechanical issues.",
+   "Complete the registration form linked below or call 859-292-3394 ."
+  ],
+  "claim_sha256": "768bf231486aa1054f8be2074b93e7fbe420c7dfbdeaed26d1c3c5a803cca9b0",
+  "source_sha256": "c735f69947beff99ba5ab6493c76d50c4d5b1207d3ca8b9127cc6aff5da521dc",
+  "final_url": "https://www.bcpl.org/outreach"
  },
  "boone-county-public-library-scheben-branch.cognitive.1": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
   "quote": "The Scheben Branch also hosts Thrive Together , a program where adults with disabilities and their caregivers can build friendships, share experiences and enjoy time together in a welcoming environment.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "228e834379c11ddd5a773ff1487d115cce3fb0dae6324292bf386dd37adbbcbb",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
+ },
+ "boone-county-public-library-scheben-branch.cognitive.2": {
+  "url": "https://www.bcpl.org/meeting-study-rooms",
+  "quote": "Scheben Branch Study Rooms (Reserve by phone or in person only) Room Name Cost Capacity Study Room 1 None 4 Study Room 2 None 4 Study Room 3 None 4 Study Room 4 None 4",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Study Rooms are available on a first-come, first-serve basis.",
+   "Request a study room at the customer service desk .",
+   "All requests are subject to our Study Room Policy ."
+  ],
+  "claim_sha256": "ee19d5ab3c873f3fdae22d28cedfccb01f2c7be2e194d3ebf00a5ad06eddcab0",
+  "source_sha256": "fbcceb57551fd5694cce1d783b34b6503c6810c4434098dddce366f79ea53ba6",
+  "final_url": "https://www.bcpl.org/meeting-study-rooms"
+ },
+ "boone-county-public-library-scheben-branch.cognitive.3": {
+  "url": "https://bcplundiscovered.org/accessibilityoptions/",
+  "quote": "Every branch also has translation devices to improve communication with non-English-speaking patrons. And of course, a phone call in advance to discuss additional accommodations is always welcome.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b88856f843bc3c04f33b8c3a6d6b8044bcc06bc55e7d557764ac1759bb123369",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
+ },
+ "boone-county-public-library-scheben-branch.cognitive.4": {
+  "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+  "quote": "Approved 10/2023",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Study rooms vary across the system; call the specific branch to learn about specific reservation procedures, time limits, and availability.",
+   "A library card is not required for reservation.",
+   "A single customer may only reserve 1 study room at a time."
+  ],
+  "claim_sha256": "d5389921add4a5ef7dc957fd22aef319c7484380e81744618bad01ee72e53eb9",
+  "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+  "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf"
+ },
+ "boone-county-public-library-scheben-branch.cognitive.5": {
+  "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+  "quote": "Approved 10/2023",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "All room usage must conclude 15 minutes prior to the Library's posted closing time.",
+   "If a person/group does not show up for their scheduled reservation of the study room, after 15 minutes the Library holds the right to give the room away to a customer who might be waiting.",
+   "Library sponsored activities take precedence over non-Library uses of the study rooms.",
+   "The Library reserves the right to change or cancel any study room reservation if circumstances at the Library so demand, including room reassignment based upon size of the group."
+  ],
+  "claim_sha256": "bfe5ba1ec8c62a1a3211fadb21166e640e99dcb1fb06cf543d22ac0137b63698",
+  "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+  "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf"
  },
  "boone-county-public-library-scheben-branch.mobility.1": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
-  "quote": "Stop by the front desk to sign a waiver and borrow a wheelchair.",
-  "verified_at": "2026-11-10"
+  "quote": "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Stop by the front desk to sign a waiver and borrow a wheelchair."
+  ],
+  "claim_sha256": "0ff05a23ffa06e697b1665e16a9032ebb7d2fe9b5e756a5c2e3b3d993a1b7234",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-county-public-library-scheben-branch.mobility.2": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
-  "quote": "If you prefer to come inside and browse, accessible parking is available at every location.",
-  "verified_at": "2026-11-10"
+  "quote": "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton. If you prefer to come inside and browse, accessible parking is available at every location.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "475c2b160830175429298691977758d5d7bb3a53dfc3da183a49327bf194ec05",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
+ },
+ "boone-county-public-library-scheben-branch.mobility.3": {
+  "url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+  "quote": "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Remember to bring your library card for a smooth transaction.",
+   "Once your items are ready, head to your selected location and park in a designated curbside space. Call 859-342-BOOK and select Main, Scheben or Florence to notify our staff of your arrival. We’ll swiftly check out your items and bring them to your vehicle, all while you stay warm!"
+  ],
+  "claim_sha256": "2cdc729ba7de1563a72a453fbee5c06d53e2288c04bf715c31f2a41f18974178",
+  "source_sha256": "ccb21d6f5c75f03782a1b5dbd3fb258c9016e40b3ff45656208e1e2ac0f83116",
+  "final_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/"
  },
  "boone-county-public-library-walton-branch.chronic.1": {
   "url": "https://www.bcpl.org/locations",
-  "quote": "Each library location is smoke-free . Please see our Smoke and Tobacco-Free Policy for more detail.",
-  "verified_at": "2026-11-10"
+  "quote": "Each library location is smoke-free",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "bfc7fe3b817328e1625e9984a1ea0b9128e447380c0134df75fe34d77d7b9c07",
+  "source_sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42",
+  "final_url": "https://www.bcpl.org/locations"
+ },
+ "boone-county-public-library-walton-branch.chronic.2": {
+  "url": "https://www.bcpl.org/outreach",
+  "quote": "All Boone County residents - regardless of age - are eligible for outreach services if they are unable to visit the Library due to a temporary or permanent physical limitation and to those who lack transportation.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Our Outreach Services staff will contact you to discuss the types of materials you like and to make arrangements for delivery. Materials will be delivered and picked-up every four to six weeks until you no longer need this service.",
+   "Visits may be canceled for inclement weather or mechanical issues.",
+   "Complete the registration form linked below or call 859-292-3394 ."
+  ],
+  "claim_sha256": "768bf231486aa1054f8be2074b93e7fbe420c7dfbdeaed26d1c3c5a803cca9b0",
+  "source_sha256": "c735f69947beff99ba5ab6493c76d50c4d5b1207d3ca8b9127cc6aff5da521dc",
+  "final_url": "https://www.bcpl.org/outreach"
+ },
+ "boone-county-public-library-walton-branch.cognitive.1": {
+  "url": "https://www.bcpl.org/meeting-study-rooms",
+  "quote": "Room Name Cost Capacity Study Room 1 None 4 Study Room 2 None 2 Study Room 3 None 4 Study Room 4 None 4 Study Room 5 None 4 Walton Branch Study Rooms (Reserve by phone or in person only)",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Study Rooms are available on a first-come, first-serve basis.",
+   "Request a study room at the customer service desk .",
+   "All requests are subject to our Study Room Policy ."
+  ],
+  "claim_sha256": "3381320bb0108924b76b149877aef6b6032ef7d3c0c03f2855c64a4f5f027c11",
+  "source_sha256": "fbcceb57551fd5694cce1d783b34b6503c6810c4434098dddce366f79ea53ba6",
+  "final_url": "https://www.bcpl.org/meeting-study-rooms"
+ },
+ "boone-county-public-library-walton-branch.cognitive.2": {
+  "url": "https://bcplundiscovered.org/accessibilityoptions/",
+  "quote": "Every branch also has translation devices to improve communication with non-English-speaking patrons. And of course, a phone call in advance to discuss additional accommodations is always welcome.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b88856f843bc3c04f33b8c3a6d6b8044bcc06bc55e7d557764ac1759bb123369",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
+ },
+ "boone-county-public-library-walton-branch.cognitive.3": {
+  "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+  "quote": "Approved 10/2023",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Study rooms vary across the system; call the specific branch to learn about specific reservation procedures, time limits, and availability.",
+   "A library card is not required for reservation.",
+   "A single customer may only reserve 1 study room at a time."
+  ],
+  "claim_sha256": "d5389921add4a5ef7dc957fd22aef319c7484380e81744618bad01ee72e53eb9",
+  "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+  "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf"
+ },
+ "boone-county-public-library-walton-branch.cognitive.4": {
+  "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+  "quote": "Approved 10/2023",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "All room usage must conclude 15 minutes prior to the Library's posted closing time.",
+   "If a person/group does not show up for their scheduled reservation of the study room, after 15 minutes the Library holds the right to give the room away to a customer who might be waiting.",
+   "Library sponsored activities take precedence over non-Library uses of the study rooms.",
+   "The Library reserves the right to change or cancel any study room reservation if circumstances at the Library so demand, including room reassignment based upon size of the group."
+  ],
+  "claim_sha256": "bfe5ba1ec8c62a1a3211fadb21166e640e99dcb1fb06cf543d22ac0137b63698",
+  "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+  "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf"
  },
  "boone-county-public-library-walton-branch.mobility.1": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
-  "quote": "Stop by the front desk to sign a waiver and borrow a wheelchair.",
-  "verified_at": "2026-11-10"
+  "quote": "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Stop by the front desk to sign a waiver and borrow a wheelchair."
+  ],
+  "claim_sha256": "0ff05a23ffa06e697b1665e16a9032ebb7d2fe9b5e756a5c2e3b3d993a1b7234",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-county-public-library-walton-branch.mobility.2": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
   "quote": "Additionally, the Walton Branch has a family-friendly restroom with an adult changing table and sensory-friendly blue lighting.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a27bb192705bad455503a7f35475c188d22255c6c9328f1ccb348e4c1d46e163",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-county-public-library-walton-branch.mobility.3": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
-  "quote": "If you prefer to come inside and browse, accessible parking is available at every location.",
-  "verified_at": "2026-11-10"
+  "quote": "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton. If you prefer to come inside and browse, accessible parking is available at every location.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3eb2019c226190c64c64fabf62a991522f398b8d63fd541c2783355e77a950b4",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
+ },
+ "boone-county-public-library-walton-branch.mobility.4": {
+  "url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+  "quote": "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Remember to bring your library card for a smooth transaction.",
+   "At the Hebron Branch and Walton Branch, skip curbside and pull up to the convenient drive-thru."
+  ],
+  "claim_sha256": "da82e0754953304e256ffcfc1224f96eb2f17e63f88eab8948f6c37ec397649f",
+  "source_sha256": "ccb21d6f5c75f03782a1b5dbd3fb258c9016e40b3ff45656208e1e2ac0f83116",
+  "final_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/"
+ },
+ "boone-county-public-library-walton-branch.mobility.5": {
+  "url": "https://bcplundiscovered.org/accessibilityoptions/",
+  "quote": "Visitors can use the wheelchairs throughout our wide-aisle buildings as well as our outside property, such as the Storywalk at our Hebron location or the patio at the Walton Branch.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "cedfdef49b8ec7ab6785dbb45822754c9c3770b2a8517cc35e6da53835828893",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-county-public-library-walton-branch.sensory.1": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
   "quote": "For patrons with hearing aids or cochlear implants, the Walton Branch offers hearing loops to assist during programs, with plans to expand the service to additional locations.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "38d71503577c408e919ca5b80e4e100b330968aeae38a35e5b5cf869f08bc09c",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-county-public-library-walton-branch.sensory.2": {
   "url": "https://bcplundiscovered.org/accessibilityoptions/",
   "quote": "Additionally, the Walton Branch has a family-friendly restroom with an adult changing table and sensory-friendly blue lighting.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "6bce891daf188872c469a3e11d041a4433bb63f80c4c1a3a1e55299df0c057d3",
+  "source_sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
+  "final_url": "https://bcplundiscovered.org/accessibilityoptions/"
  },
  "boone-woods-park.chronic.1": {
   "url": "https://www.boonecountyky.org/business_detail_T35_R58.php",
@@ -5958,6 +6237,67 @@
   "source_sha256": "ee66566e39faa21ee5da6e835770b6457748259a731b23217cb11d3a8505175c",
   "final_url": "https://florenceyalls.com/pages/yalls-a-z"
  },
+ "fort-thomas-coffee.cognitive.1": {
+  "url": "https://fortthomascoffee.com/faq",
+  "quote": "Yes, we offer mobile ordering. Head to the order tab on this website, then order online. You are all set!",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "6f790adf613e976f0718e28b2cbc828ab78e94d14b253e398f345274ead6eba5",
+  "source_sha256": "a686426f4a60bc42da400f09c4661d28eb4350132a2226446cba06f4a949fc78",
+  "final_url": "https://fortthomascoffee.com/faq"
+ },
+ "fort-thomas-coffee.cognitive.2": {
+  "url": "https://fortthomascoffee.com/faq",
+  "quote": "Yes, we have Wi-Fi and are laptop friendly. Our space can be used for studying, business work, dates, meeting with friends, etc. We just ask that upon using our Wi-Fi, you are a paying customer!",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "9a190eb7c1a321180661374d0d2c30999f60a2ec854de6b2e41eb001df7f2880",
+  "source_sha256": "a686426f4a60bc42da400f09c4661d28eb4350132a2226446cba06f4a949fc78",
+  "final_url": "https://fortthomascoffee.com/faq"
+ },
+ "fort-thomas-coffee.cognitive.3": {
+  "url": "https://fortthomascoffee.com/faq",
+  "quote": "Monday-Saturday 6:30am-9pm",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Sunday 6:30am-2pm",
+   "859.999.8080"
+  ],
+  "claim_sha256": "c0877737d99f395dcb4620f178f0ea6ff7340e3e8f082b203fa33bb54cf3d40a",
+  "source_sha256": "a686426f4a60bc42da400f09c4661d28eb4350132a2226446cba06f4a949fc78",
+  "final_url": "https://fortthomascoffee.com/faq"
+ },
+ "fort-thomas-coffee.cognitive.4": {
+  "url": "https://fortthomascoffee.com/community",
+  "quote": "Saturday, November 14, 2026",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "By community request, Saturday nights become ADULT ONLY after 7pm.",
+   "Thanksgiving | OPEN until 11am",
+   "Thursday, November 26, 2026"
+  ],
+  "claim_sha256": "5a3a7ad23774ef1e6c6df070e1eea3e34914facb2e874e5e6aa6e8240e1a882a",
+  "source_sha256": "6ebbbc501172aaf430bfe97a448769e195c484a5565e6234eb0c9cfaf6e56d7f",
+  "final_url": "https://fortthomascoffee.com/community"
+ },
+ "fort-thomas-coffee.mobility.1": {
+  "url": "https://fortthomascoffee.com/connect-rentals",
+  "quote": "Fort Thomas Connect offers complimentary parking, exceptional hospitality, and a full food and beverage menu with direct-to-table service",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "35d1e86a977bc6434d7fe6e9842be8cc819458ec81a1749797f000e81be23c19",
+  "source_sha256": "310ca99761bbce7447d500d5cb224e0d3a70f1e9c180ba8ae895abed814b9a65",
+  "final_url": "https://fortthomascoffee.com/connect-rentals"
+ },
+ "fort-thomas-coffee.sensory.1": {
+  "url": "https://fortthomascoffee.com/cowork",
+  "quote": "Cowork Space at FTC | $25/Day",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Buy a Day Pass or become a Tower Member to access our quiet, closed-door co-work space when the Cannon Event Suite is not rented.",
+   "Walk-Ins are welcome. Seats can be reserved online up to one week in advance. Priority booking is reserved for business off-sites and event rentals."
+  ],
+  "claim_sha256": "b768831bd3ac978097bf65288ba08b39ccd1b1287be5cd91bb236c7f6b6eb7cb",
+  "source_sha256": "a3d61543650f93675f3c81a7c9e8d4b9fb654f6e03a145585c10ca9a9c0556bc",
+  "final_url": "https://fortthomascoffee.com/cowork"
+ },
  "fountain-square.chronic.1": {
   "url": "https://myfountainsquare.com/amenities/",
   "quote": "Public restrooms are located on the west ramp leading up from Vine Street toward the parking garage portal.",
@@ -7560,6 +7900,65 @@
   "quote": "Tasty food samples as you tour the store. • $2.00 Jungle Jim’s International Market Gift Certificates. • Tour Guide w/ microphone.",
   "verified_at": "2026-11-12"
  },
+ "junipers-gin-bar-covington.chronic.1": {
+  "url": "https://www.junipersginbar.net/bookanevent",
+  "quote": "Guests under 21 are welcome for a meal, but we don’t offer high chairs, changing tables, or children’s menus.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a2306c37ebe3750cb9605422a9cb9ab4445e4d7cc980a5e5340d93a913ee9467",
+  "source_sha256": "554a4cdc8c5318f5805013fe0347a904daf475f48471c361199d15452b94b81e",
+  "final_url": "https://www.junipersginbar.net/bookanevent"
+ },
+ "junipers-gin-bar-covington.cognitive.1": {
+  "url": "https://www.junipersginbar.net/reservations-20",
+  "quote": "Party Bigger than 16?",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Book your Juniper's Gin and Tapas reservation on Resy"
+  ],
+  "claim_sha256": "0dc369cd9509f46eccc1e3f2a3374187a665c24c8275003039157d4a294b06f9",
+  "source_sha256": "59653346a6c478480ad0413300dcd8a8e015170f9c614e20992ea4875470eeff",
+  "final_url": "https://www.junipersginbar.net/reservations-20"
+ },
+ "junipers-gin-bar-covington.cognitive.2": {
+  "url": "https://www.junipersginbar.net/",
+  "quote": "Phone Number (859) 291-4466",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0d1e4236591ecca6529e9f82bb7a15858289c9e4e8565ab69f90a0ceb514db79",
+  "source_sha256": "58af307dd0dc96786e287dedd5eb5a106725b37d50d889f50721879d072608e3",
+  "final_url": "https://www.junipersginbar.net/"
+ },
+ "junipers-gin-bar-covington.cognitive.3": {
+  "url": "https://www.junipersginbar.net/reservations-20",
+  "quote": "Monday & Tuesday - Closed",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Wednesday - Thursday: 4PM - Close",
+   "Kitchen closes at 9PM",
+   "Friday & Saturday: 4PM to 12AM",
+   "Kitchen closes at 10PM",
+   "Sunday Brunch: 10AM to 2PM",
+   "Sunday Bar Service: 2PM to 9PM"
+  ],
+  "claim_sha256": "435da84e974c3cc2e33a029ef2b7e8fcae0693dcb939d4be0d05f7c8a4134b1b",
+  "source_sha256": "59653346a6c478480ad0413300dcd8a8e015170f9c614e20992ea4875470eeff",
+  "final_url": "https://www.junipersginbar.net/reservations-20"
+ },
+ "junipers-gin-bar-covington.sensory.1": {
+  "url": "https://www.junipersginbar.net/",
+  "quote": "Live Jazz Friday/Saturday : 8-11pm",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "9c9be515e6d68f9fe59fb70f83e19185b3c625daa1f9fab09e7db5f4a74b874b",
+  "source_sha256": "58af307dd0dc96786e287dedd5eb5a106725b37d50d889f50721879d072608e3",
+  "final_url": "https://www.junipersginbar.net/"
+ },
+ "junipers-gin-bar-covington.sensory.2": {
+  "url": "https://www.junipersginbar.net/bookanevent",
+  "quote": "For groups of 17–50, our lounge reservations offer dedicated space to celebrate, enjoy cocktails, and share small bites while the bar remains open to the public.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c53acc63de4ee53575b436e37078f593109a535ad04494c12024966e635d7951",
+  "source_sha256": "554a4cdc8c5318f5805013fe0347a904daf475f48471c361199d15452b94b81e",
+  "final_url": "https://www.junipersginbar.net/bookanevent"
+ },
  "kenton-county-government-center.cognitive.1": {
   "url": "https://www.kentoncountyky.gov/CivicAlerts.aspx?AID=604",
   "quote": "Residents are encouraged to allow extra travel time and follow posted signage as traffic patterns adjust during construction.",
@@ -9092,6 +9491,49 @@
   "source_sha256": "a99651cbd54a1614cb12eeef75f35c4acebfc399c93dc9fa3972fd5e3e0cd66b",
   "final_url": "https://promowestlive.com/cincinnati/megacorp-pavilion/accessibility"
  },
+ "mellow-mushroom-wilder.chronic.1": {
+  "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+  "quote": "Many of our pizzas can be made gluten-free or vegan.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "efb026bac0cc39c173306952d0243166ff8cc68a1c1be6be60bdf3f6250665fa",
+  "source_sha256": "f32535bc0ac0b79404709a179a47b506da967aefaca968ece6322addf008f3d7",
+  "final_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/"
+ },
+ "mellow-mushroom-wilder.cognitive.1": {
+  "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+  "quote": "Delivery",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Order Now"
+  ],
+  "claim_sha256": "9bb4d6e804795c600379c46230b10d8079711253b9ec3cfab329a5f55f34fa5a",
+  "source_sha256": "f32535bc0ac0b79404709a179a47b506da967aefaca968ece6322addf008f3d7",
+  "final_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/"
+ },
+ "mellow-mushroom-wilder.cognitive.2": {
+  "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+  "quote": "Monday-Thursday 11:00 AM - 9:00 PM",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Friday-Saturday 11:00 AM - 10:00 PM",
+   "Sunday 11:00 AM - 9:00 PM"
+  ],
+  "claim_sha256": "335642f2a40d5717c1161e3750e4d21fe25d47b29d2c1966d6362a61357af860",
+  "source_sha256": "f32535bc0ac0b79404709a179a47b506da967aefaca968ece6322addf008f3d7",
+  "final_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/"
+ },
+ "mellow-mushroom-wilder.mobility.1": {
+  "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+  "quote": "Patio",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Private Room Available",
+   "(859) 441-6600"
+  ],
+  "claim_sha256": "ec4547a1360509fdfda697c84a339c178e05e3f0de1be6ae48c8d84aa28b80ab",
+  "source_sha256": "f32535bc0ac0b79404709a179a47b506da967aefaca968ece6322addf008f3d7",
+  "final_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/"
+ },
  "memorial-hall-otr.cognitive.1": {
   "url": "https://www.memorialhallotr.com/plan-your-visit/",
   "quote": "Hours: Tue through Fri 1 PM – 6 PM",
@@ -10395,6 +10837,38 @@
   "claim_sha256": "8df352868508a2e31bf33181a55427aac695f55e933bc1aa84b4a665ff7032f8",
   "source_sha256": "ac2d03fe11a6d9799dcf46a32b4178485fdc600ecc05185ace8420841d65d8c9",
   "final_url": "https://renfestival.com/the-event/themed-weekends/"
+ },
+ "olla-taqueria-covington.cognitive.1": {
+  "url": "https://ollacov.com/",
+  "quote": "Order Delivery or Carry Out Below",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "we’ve switched to compostable carryout packaging.",
+   "A 5% fee is applied to to-go orders to help offset the higher cost of these sustainable containers."
+  ],
+  "claim_sha256": "49e455ce6838499b5ee0f06eab512209faf04260a69c7da0c69d1b5c818d8019",
+  "source_sha256": "20f0d2f7b5d1a5b9a1a3d8690b8ad80f6a6159ff01df97d90fec571aa3342fc8",
+  "final_url": "https://ollacov.com/"
+ },
+ "olla-taqueria-covington.cognitive.2": {
+  "url": "https://ollacov.com/",
+  "quote": "(859)-261-6552",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Thur, Fri, Sat 11:00 AM - 11:00 PM",
+   "Sun, Tue, Wed 11:00 AM - 8:45 PM"
+  ],
+  "claim_sha256": "ba14c9316a96f59aa8918b5cc0531f7ff14fe2c1db09b70644747771e6634603",
+  "source_sha256": "20f0d2f7b5d1a5b9a1a3d8690b8ad80f6a6159ff01df97d90fec571aa3342fc8",
+  "final_url": "https://ollacov.com/"
+ },
+ "olla-taqueria-covington.mobility.1": {
+  "url": "https://www.kentuckytourism.com/explore/olla-taqueria-19205",
+  "quote": "Patio dining (heated in the winter) is available.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8f416b91dd39c95a2a0ac99cfe8c5aed4580beeb0c80932cf42ba66501b309ef",
+  "source_sha256": "5500b2d9620c79c18cd77d41abca0c2e6297eb4dc87ca054dc644c331308c405",
+  "final_url": "https://www.kentuckytourism.com/explore/olla-taqueria-19205"
  },
  "oxford-aquatic-center.chronic.1": {
   "url": "https://www.cityofoxford.org/departments/parks_recreation/facilities/oxford_aquatic_center.php",

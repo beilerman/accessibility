@@ -3,6 +3,7 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "fort-thomas-coffee", "junipers-gin-bar-covington", "mellow-mushroom-wilder", "olla-taqueria-covington",
   "element-eatery", "schoolhouse-restaurant-camp-dennison",
   "fretboard-brewing-blue-ash", "wabi-sabi-covington",
   "ludlow-garage", "florence-yalls-thomas-more-stadium", "molly-malones-covington",
@@ -13,6 +14,20 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds the new NKY dining locations with physical and sensory limits intact", () => {
+    const slugs = ["junipers-gin-bar-covington", "mellow-mushroom-wilder", "olla-taqueria-covington"];
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toEqual(expect.arrayContaining(slugs));
+    expect(text(slugs[0])).toContain("while the bar remains open to the public");
+    expect(place(slugs[0]).limitations).toContain("adult changing equipment separately");
+    expect(place(slugs[1]).address).toBe("1014 Town Drive, Wilder, KY 41076");
+    expect(text(slugs[1])).toContain("does not establish curbside handoff");
+    expect(text(slugs[2])).toContain("does not establish step-free patio access");
+    expect(text(slugs[2])).toContain("5% fee");
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain("fort-thomas-coffee");
+    expect(text("fort-thomas-coffee")).toContain("only when the Cannon Event Suite is not rented");
+    expect(place("fort-thomas-coffee").limitations).toContain("not a guaranteed quiet retreat");
+    for (const slug of [...slugs, "fort-thomas-coffee"]) expect(place(slug).observed_at).toBeNull();
+  });
   it("finds Edmondson Road groceries without assuming branch curbside or personal assistance", () => {
     const slug = "whole-foods-market-cincinnati";
     expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain(slug);
@@ -710,6 +725,7 @@ describe("November source-backed venue expansion", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
       "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "second-sight-spirits", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
       "element-eatery", "schoolhouse-restaurant-camp-dennison", "fretboard-brewing-blue-ash", "wabi-sabi-covington",
+      "fort-thomas-coffee", "junipers-gin-bar-covington", "mellow-mushroom-wilder", "olla-taqueria-covington",
     ].sort());
     const art = artForCategory("Food & drink")!;
     expect(art.alt).toMatch(/^AI artwork/);

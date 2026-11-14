@@ -12,7 +12,7 @@
     "https://bcplundiscovered.org/accessibilityoptions/": {
       "status": 200,
       "final_url": "https://bcplundiscovered.org/accessibilityoptions/",
-      "last_modified": "Fri, 13 Nov 2026 22:28:32 GMT",
+      "last_modified": "Sat, 14 Nov 2026 00:46:10 GMT",
       "sha256": "6826791318c8a8478fe4cd3dd9777907e697c79d4ec1464b526395e7b4d495e3",
       "fingerprint_version": 6,
       "chars": 6225
@@ -476,7 +476,7 @@
     "https://www.bcpl.org/locations": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations",
-      "last_modified": "Fri, 13 Nov 2026 22:32:13 GMT",
+      "last_modified": "Sat, 14 Nov 2026 00:46:10 GMT",
       "sha256": "25f05d936c87817683d49004883082804f0f8f66ed8d82f305b2f9182cc1ed42",
       "fingerprint_version": 6,
       "chars": 2141
@@ -484,10 +484,10 @@
     "https://www.bcpl.org/locations/hebron": {
       "status": 200,
       "final_url": "https://www.bcpl.org/locations/hebron",
-      "last_modified": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "sha256": "a1530940904c623addd241aad9071fc73b57b4db36bf0398d9105ea9ebd81388",
-      "fingerprint_version": 5,
-      "chars": 740
+      "last_modified": "Sat, 14 Nov 2026 00:46:11 GMT",
+      "sha256": "d7d69822f10ff7480bf10dca02a5f5155fc5f98dfed812482078b7917997b65c",
+      "fingerprint_version": 6,
+      "chars": 608
     },
     "https://www.bcpl.org/sensory-room": {
       "status": 200,
@@ -3975,7 +3975,7 @@
     "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/": {
       "status": 200,
       "final_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
-      "last_modified": "Fri, 13 Nov 2026 22:32:13 GMT",
+      "last_modified": null,
       "sha256": "ccb21d6f5c75f03782a1b5dbd3fb258c9016e40b3ff45656208e1e2ac0f83116",
       "fingerprint_version": 6,
       "chars": 3295
@@ -4069,6 +4069,112 @@
       "sha256": "e0dcd23c4e0e4fa25b5315d226b54e3ef89c0767dc52edf490809c4a0535e639",
       "fingerprint_version": 6,
       "chars": 1321
+    },
+    "https://ollacov.com/": {
+      "status": 200,
+      "final_url": "https://ollacov.com/",
+      "last_modified": null,
+      "sha256": "20f0d2f7b5d1a5b9a1a3d8690b8ad80f6a6159ff01df97d90fec571aa3342fc8",
+      "fingerprint_version": 6,
+      "chars": 3503
+    },
+    "https://www.bcpl.org/meeting-study-rooms": {
+      "status": 200,
+      "final_url": "https://www.bcpl.org/meeting-study-rooms",
+      "last_modified": "Sat, 14 Nov 2026 00:46:13 GMT",
+      "sha256": "fbcceb57551fd5694cce1d783b34b6503c6810c4434098dddce366f79ea53ba6",
+      "fingerprint_version": 6,
+      "chars": 3764
+    },
+    "https://www.bcpl.org/outreach": {
+      "status": 200,
+      "final_url": "https://www.bcpl.org/outreach",
+      "last_modified": "Sat, 14 Nov 2026 00:46:14 GMT",
+      "sha256": "c735f69947beff99ba5ab6493c76d50c4d5b1207d3ca8b9127cc6aff5da521dc",
+      "fingerprint_version": 6,
+      "chars": 1876
+    },
+    "https://www.junipersginbar.net/": {
+      "status": 200,
+      "final_url": "https://www.junipersginbar.net/",
+      "last_modified": null,
+      "sha256": "58af307dd0dc96786e287dedd5eb5a106725b37d50d889f50721879d072608e3",
+      "fingerprint_version": 6,
+      "chars": 2681
+    },
+    "https://www.junipersginbar.net/bookanevent": {
+      "status": 200,
+      "final_url": "https://www.junipersginbar.net/bookanevent",
+      "last_modified": null,
+      "sha256": "554a4cdc8c5318f5805013fe0347a904daf475f48471c361199d15452b94b81e",
+      "fingerprint_version": 6,
+      "chars": 6508
+    },
+    "https://www.junipersginbar.net/reservations-20": {
+      "status": 200,
+      "final_url": "https://www.junipersginbar.net/reservations-20",
+      "last_modified": null,
+      "sha256": "59653346a6c478480ad0413300dcd8a8e015170f9c614e20992ea4875470eeff",
+      "fingerprint_version": 6,
+      "chars": 321
+    },
+    "https://www.kentuckytourism.com/explore/olla-taqueria-19205": {
+      "status": 200,
+      "final_url": "https://www.kentuckytourism.com/explore/olla-taqueria-19205",
+      "last_modified": "Wed, 11 Nov 2026 08:16:22 GMT",
+      "sha256": "5500b2d9620c79c18cd77d41abca0c2e6297eb4dc87ca054dc644c331308c405",
+      "fingerprint_version": 6,
+      "chars": 20
+    },
+    "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/": {
+      "status": 200,
+      "final_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "last_modified": null,
+      "sha256": "f32535bc0ac0b79404709a179a47b506da967aefaca968ece6322addf008f3d7",
+      "fingerprint_version": 6,
+      "chars": 1508
+    },
+    "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf": {
+      "status": 200,
+      "final_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+      "last_modified": "Thu, 19 Oct 2023 14:49:03 GMT",
+      "sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 3183,
+      "pages": 2
+    },
+    "https://fortthomascoffee.com/connect-rentals": {
+      "status": 200,
+      "final_url": "https://fortthomascoffee.com/connect-rentals",
+      "last_modified": null,
+      "sha256": "310ca99761bbce7447d500d5cb224e0d3a70f1e9c180ba8ae895abed814b9a65",
+      "fingerprint_version": 6,
+      "chars": 2470
+    },
+    "https://fortthomascoffee.com/cowork": {
+      "status": 200,
+      "final_url": "https://fortthomascoffee.com/cowork",
+      "last_modified": null,
+      "sha256": "a3d61543650f93675f3c81a7c9e8d4b9fb654f6e03a145585c10ca9a9c0556bc",
+      "fingerprint_version": 6,
+      "chars": 708
+    },
+    "https://fortthomascoffee.com/faq": {
+      "status": 200,
+      "final_url": "https://fortthomascoffee.com/faq",
+      "last_modified": null,
+      "sha256": "a686426f4a60bc42da400f09c4661d28eb4350132a2226446cba06f4a949fc78",
+      "fingerprint_version": 6,
+      "chars": 2583
+    },
+    "https://fortthomascoffee.com/community": {
+      "status": 200,
+      "final_url": "https://fortthomascoffee.com/community",
+      "last_modified": null,
+      "sha256": "6ebbbc501172aaf430bfe97a448769e195c484a5565e6234eb0c9cfaf6e56d7f",
+      "fingerprint_version": 6,
+      "chars": 18552
     }
   },
   "findings": {

@@ -5,7 +5,9 @@
     "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
     "https://www.reddit.com/r/cincinnati/comments/1dzi23v/need_help_to_find_a/",
     "https://www.reddit.com/r/cincinnati/comments/1uac40u/spacioushandicap_accessible_restaurant/",
-    "https://www.reddit.com/r/covington/comments/1rwfznk/check_this_out_before_going_somewhere_new_in_the/"
+    "https://www.reddit.com/r/covington/comments/1rwfznk/check_this_out_before_going_somewhere_new_in_the/",
+    "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
+    "https://www.reddit.com/r/NorthernKY/comments/1rw883i/going_to_a_new_restaurant_bar_or_coffee_shop/"
   ],
   "candidates": [
     {
@@ -180,9 +182,9 @@
       "name": "Junipers — Covington",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1uac40u/spacioushandicap_accessible_restaurant/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "status": "added",
+      "slug": "junipers-gin-bar-covington",
+      "nextStep": "November 13 19:06 batch: current official location and visit evidence plus original photographic links added. Physical routes remain unverified. Juniper’s and Olla have separately bounded reports; Mellow was a named lead only."
     },
     {
       "name": "Mitas",
@@ -196,17 +198,17 @@
       "name": "Olla — Covington",
       "discussionUrl": "https://www.reddit.com/r/covington/comments/1rwfznk/check_this_out_before_going_somewhere_new_in_the/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "status": "added",
+      "slug": "olla-taqueria-covington",
+      "nextStep": "November 13 19:06 batch: current official location and visit evidence plus original photographic links added. Physical routes remain unverified. Juniper’s and Olla have separately bounded reports; Mellow was a named lead only."
     },
     {
       "name": "Mellow Mushroom — Wilder",
       "discussionUrl": "https://www.reddit.com/r/covington/comments/1rwfznk/check_this_out_before_going_somewhere_new_in_the/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "status": "added",
+      "slug": "mellow-mushroom-wilder",
+      "nextStep": "November 13 19:06 batch: current official location and visit evidence plus original photographic links added. Physical routes remain unverified. Juniper’s and Olla have separately bounded reports; Mellow was a named lead only."
     },
     {
       "name": "New China Buffet — Newport",
@@ -228,9 +230,9 @@
       "name": "El Ocho Loco — Erlanger",
       "discussionUrl": "https://www.reddit.com/r/covington/comments/1rwfznk/check_this_out_before_going_somewhere_new_in_the/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
+      "status": "held_contact_conflict",
       "slug": null,
-      "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+      "nextStep": "Two restaurant-branded sites give 621 Stevenson Road but different phones: elocholocomexican.com gives 859-815-8348 and contains unrelated Fusion Wok India template copy; elocholocomexicanrestaurantky.com gives 859-780-5109. Resolve authority and collection procedure before adding a listing. No phone or access fact imported."
     },
     {
       "name": "Jade Buffet — Cincinnati",
@@ -255,12 +257,64 @@
       "status": "lead_only",
       "slug": null,
       "nextStep": "Confirm current operation, exact location, official visit arrangements and the scope/date of any access account before import."
+    },
+    {
+      "name": "Fort Thomas Coffee",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "fort-thomas-coffee",
+      "nextStep": "Added six official notes, a linked coworking-room photograph and a separate community recommendation; paid coworking and event priority conditions retained. Dated November 14 Saturday age restriction and November 26 Thanksgiving closing are included."
+    },
+    {
+      "name": "The Hidden Chapter Bookstore — Fort Thomas",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
+      "underlyingDiscussionRead": true,
+      "status": "held_unextractable_official_site",
+      "slug": null,
+      "nextStep": "Official thehiddenchapter.com fetched HTTP 200 but extracted only a title/JavaScript shell. Bookshop operator profile and March 2026 reporting identify 118 N. Fort Thomas Avenue; the reported accessibility commitment concerns affordability, not wheelchair access. Investigate official visit/entrance/toilet evidence and the wardrobe passage; third-party labels are not an access assessment."
+    },
+    {
+      "name": "Roebling Books & Coffee — Dayton",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Current official homepage identifies Dayton as Outsiders by Roebling, 301 6th Ave, 859-279-1820, with a different Thu–Mon schedule from Covington/Newport. The 2024 community recommendation predates an October 2025 reported reopening. Confirm current store use, entry/seating/toilets and photos before import; do not carry old café assumptions across the changed format. Official October 2026 Silent Book Club listings are Newport, not Dayton.",
+      "officialLeadUrls": [
+        "https://www.roeblingbooks.com/",
+        "https://www.roeblingbooks.com/community-events"
+      ]
+    },
+    {
+      "name": "Somerset — Over-the-Rhine",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Preserve the discussion’s weeknight quiet/uncrowded account alongside weekend/DJ crowding cautions. Check current calendar, entrance and separate room availability; do not label the whole venue quiet."
+    },
+    {
+      "name": "Fabled Brew Works — Northern Kentucky",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Named as a fantasy-themed brewery/meadery recommendation. Check exact location, current operation, physical arrival/seating and noise; no measured access account in this comment."
+    },
+    {
+      "name": "Northwood Cider — Norwood",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "December 2024 thread mentions silent book clubs. Confirm current operation and dated event schedule before treating this historical lead as an available quieter session."
     }
   ],
-  "addedVenues": 4,
-  "remainingVenueLeads": 27,
-  "communityReportsAdded": 4,
-  "officialNotesAdded": 17,
+  "addedVenues": 8,
+  "remainingVenueLeads": 29,
+  "communityReportsAdded": 8,
+  "officialNotesAdded": 36,
   "uncertainty": "A recommendation is not a measured access assessment. No community physical-access claim imported as venue_official. Exact comment and visit dates remain null in the public reports; indexed thread dates are qualified in their caveats.",
   "otherSources": [
     {
@@ -272,6 +326,11 @@
       "url": "https://www.tripadvisor.com/Restaurant_Review-g60993-d330984-Reviews-or60-The_Precinct_by_Jeff_Ruby-Cincinnati_Ohio.html",
       "status": "review_search_lead",
       "nextStep": "Potential toilet/entrance barrier report. Read original review and verify current venue before publication."
+    },
+    {
+      "url": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
+      "status": "read_and_images_visually_inspected",
+      "nextStep": "Four original historical images linked and a separate June 2021 firsthand report added. Current alternative entry, patio route and toilets remain unresolved."
     }
   ],
   "holds": [
@@ -284,6 +343,21 @@
       "url": "https://www.element-eatery.com/faqs/",
       "status": 404,
       "reason": "Guessed FAQ URL absent; the actual About page contains readable FAQ and is the cited source."
+    },
+    {
+      "url": "https://thehiddenchapter.com/",
+      "status": 200,
+      "reason": "Only title extractable from the JavaScript page; no source_checked facts saved."
+    },
+    {
+      "url": "https://my.matterport.com/show/?m=hZqLJd3d9kk",
+      "status": "interactive_uninspected",
+      "reason": "Fort Thomas Coffee official embed identified; browser host unavailable. No tour guide or route claim added."
+    },
+    {
+      "url": "https://www.reddit.com/r/NorthernKY/comments/1rw883i/going_to_a_new_restaurant_bar_or_coffee_shop/",
+      "status": "read_no_independent_assessment",
+      "reason": "Same project author as Covington thread describes AI-assisted collection and double-checking reviews. No generated descriptions imported as official or independent firsthand evidence."
     }
   ],
   "searchScope": [
@@ -291,6 +365,9 @@
     "Reddit r/covington",
     "Tripadvisor public forum/review search",
     "City-Data Cincinnati forum search (no usable source selected)",
-    "Disboards Cincinnati wheelchair search (no usable source selected)"
+    "Disboards Cincinnati wheelchair search (no usable source selected)",
+    "Reddit r/NorthernKY (underlying discussion read; same project author cross-posting, not independent corroboration)",
+    "Public December 2024 r/cincinnati reading-place discussion",
+    "Visit Cincy / meetNKY first-person Olla visit, published June 25, 2021"
   ]
 }

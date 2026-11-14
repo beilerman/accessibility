@@ -1,0 +1,189 @@
+{
+  "checked_at_utc": "2026-11-14T00:47:26.207435+00:00",
+  "base_commit": "6179358e1dfadc0dc80d67760b14e6fc120b1b1b",
+  "workspace": "dedicated Threshold Updates workspace",
+  "publication_state": "Prepared for runner test suite and atomic Git publication; not deployed",
+  "publish_ready": true,
+  "progress": {
+    "new_venues": 4,
+    "new_venue_slugs": [
+      "junipers-gin-bar-covington",
+      "mellow-mushroom-wilder",
+      "olla-taqueria-covington",
+      "fort-thomas-coffee"
+    ],
+    "new_note_ids": 37,
+    "new_venue_notes": 19,
+    "existing_venue_new_notes": 18,
+    "old_notes_revised": 2,
+    "old_notes_unchanged_rechecked": 14,
+    "existing_records_missing_clause_support_backfilled": 8,
+    "absent_quote_records_backfilled": 0,
+    "all_old_reviewed_claim_source_bindings_refreshed": 16,
+    "old_passage_records_changed_including_context_edits": 12,
+    "new_draft_packaging_passage_completed": 1,
+    "fully_rechecked_venues": [
+      "boone-county-public-library-hebron-branch",
+      "boone-county-public-library-scheben-branch",
+      "boone-county-public-library-walton-branch"
+    ],
+    "partly_rechecked_venues": [],
+    "rolling_week_credit": "Three repeat full reviews within the week; do not count as three extra unique venues.",
+    "licensed_photos_added": 0,
+    "original_guide_links_added": 9,
+    "linked_web_guide_views": 49,
+    "linked_pdf_pages": 9,
+    "community_reports_added": 4,
+    "remaining_unquoted_notes": 20,
+    "totals": {
+      "places": 168,
+      "active_notes": 1803,
+      "retired_notes": 1,
+      "quoted_active": 1783,
+      "missing_passages": 20,
+      "access_photos": 83,
+      "guide_entries": 83,
+      "community_report_entries": 42
+    }
+  },
+  "checks": {
+    "unit": {
+      "passed": 105,
+      "failed": 0,
+      "command": "npm test"
+    },
+    "pipeline": {
+      "passed": 79,
+      "failed": 0,
+      "command": "UV_CACHE_DIR=/tmp/threshold-uv-cache uv run --python 3.11 --with-requirements pipeline/requirements.txt python -m unittest discover -s pipeline"
+    },
+    "lint": {
+      "exit_code": 0,
+      "command": "npm run lint"
+    },
+    "typescript": {
+      "exit_code": 0,
+      "command": "npx tsc --noEmit"
+    },
+    "production_build": {
+      "exit_code": 0,
+      "generated_pages": 183,
+      "command": "npm run build",
+      "warnings": "Atkinson Hyperlegible fallback metrics warning and Node deprecated registration warning; build succeeded."
+    },
+    "final_evidence": {
+      "checked": 57,
+      "failed": 0,
+      "note_claims": 53,
+      "addresses": 4,
+      "editorial_scope_conditions_and_dates_reviewed": true,
+      "canonical_matches_catalog_and_quote_ledger": true
+    },
+    "selected_source_baselines": {
+      "http_200": 17,
+      "attention_findings": 0,
+      "unselected_baselines_preserved": 504,
+      "existing_findings_preserved": 8
+    },
+    "original_media": {
+      "fresh_http_200": 9,
+      "web_candidate_files_screened": 133,
+      "all_selected_views_visually_inspected": true,
+      "pdf_pages_visually_inspected": 11,
+      "pdf_page_scope": "Nine impact-report pages plus two study-room-policy pages; five embedded Walton photos also inspected."
+    },
+    "local_production_http": {
+      "routes": 10,
+      "active_fact_texts": 53,
+      "new_guide_links": 9,
+      "new_reports": 4,
+      "directory_and_report_filters": true,
+      "receipt": "docs/research/bcpl-nky-dining-2026-11-13-http-checks.json",
+      "interactive_browser_equivalence": false
+    },
+    "browser": {
+      "status": "blocked_by_host_launch",
+      "passed": 0,
+      "attempted_new_routes": 3,
+      "discovered_final_tests": 156,
+      "reason": "Chromium MachPortRendezvousServer bootstrap_check_in: Permission denied (1100), before page loading",
+      "cua_reason": "Browser access host unavailable",
+      "runner_browser_checks_required": true,
+      "no_browser_layout_or_axe_success_claimed": true
+    },
+    "catalog_integrity": {
+      "all_existing_ids": true,
+      "all_history_prefixes": true,
+      "retired_notes": true,
+      "unrelated_places": 161,
+      "unrelated_quotes": true,
+      "existing_guide_and_report_prefixes": true,
+      "licensed_photo_collection": true,
+      "missing_evidence_set_unchanged": true
+    },
+    "git_diff_check": {
+      "exit_code": 0
+    },
+    "conflict_markers": {
+      "found": 0
+    },
+    "all_changed_and_new_json_parse": true
+  },
+  "held_findings": [
+    "Prior 20 missing-passage notes unchanged: Heritage 8, Molly 4, AMC 6, CSO 2; full dates and flags preserved.",
+    "New food venues retain unknown physical entry/toilet routes; community recommendations are not certification.",
+    "Walton changing table has no established dimensions/load/hoist/transfer help/door controls; report photos are historical context.",
+    "Olla June 2021 raised doorway photo does not rule out another entrance or establish current arrangements.",
+    "El Ocho Loco branded sites conflict on phones; Hidden Chapter official page is unextractable.",
+    "Fort Thomas official Matterport tour remains interactively uninspected.",
+    "Walton Post Office February 2023 CC BY-SA 2.0 entrance photograph held pending current official location and service research."
+  ],
+  "scope": {
+    "git_writes": 0,
+    "deployments": 0,
+    "previews": 0,
+    "hosting_changes": 0,
+    "scheduler_changes": 0,
+    "database_changes": 0,
+    "external_messages": 0,
+    "private_correspondence_read": false
+  },
+  "sha256": {
+    "docs/HANDOFF-2026-11-10.md": "d140ff17f625a70c56c0d61fd8b6d53c3107d68c3a44aaa3b024c86c726681c8",
+    "docs/research/bcpl-nky-dining-2026-11-13-calendar-depth.json": "65c174f8eefb828f8cb988e16ac48d2ad0fa04ba605a54848096a779c41c5f8c",
+    "docs/research/bcpl-nky-dining-2026-11-13-catalog-audit.json": "2a8aaa82f1f5e3c0b63840ca33684c6555a8380d6bab5b826fa391d19cb498bd",
+    "docs/research/bcpl-nky-dining-2026-11-13-depth.json": "cbdb8843bc36637af4fa39a9316e5cff97a263370e0e689943b01f1305cd50a7",
+    "docs/research/bcpl-nky-dining-2026-11-13-evidence.json": "101b44e5d71d053f82ae991eb560348836af9ed0ae7b4e95395977ae3800f57f",
+    "docs/research/bcpl-nky-dining-2026-11-13-evidence.verified.json": "48b15b1ba174854999be927035e2a8c8240fa6f24aa6869234bca71d3c443c0f",
+    "docs/research/bcpl-nky-dining-2026-11-13-final-evidence.json": "d2a61ad585d6537a4a6d72a15e0706bb2cdd9eaeecb411a3a99608e76e63adde",
+    "docs/research/bcpl-nky-dining-2026-11-13-final-evidence.verified.json": "35c5b2532887ca7e946ac0ce9fae125c7a5abb6de8aa6628aec497212fbc9d3a",
+    "docs/research/bcpl-nky-dining-2026-11-13-fort-evidence.json": "7eef296702668f90291f8d3059de3f0fe717a3bc187580446774c7bb663114a6",
+    "docs/research/bcpl-nky-dining-2026-11-13-fort-evidence.verified.json": "d795895ec47fbc9063a449938b70ececa3a6c2ab6f32dc8687b44398ff3fed7f",
+    "docs/research/bcpl-nky-dining-2026-11-13-fort-places.json": "a01fc7bc95963a9184eded4bdbc3384c1be8c78fcbe5be456dabb21184cf150d",
+    "docs/research/bcpl-nky-dining-2026-11-13-guides.json": "e0f22c20f4c4d438c5855a6aa704cf91e7263eadf7f216e945446a2292f9a2f4",
+    "docs/research/bcpl-nky-dining-2026-11-13-http-checks.json": "ce507798e2888bce37998cf4ba20b810a78b5ef9b815ff1cd098de62b5150a2b",
+    "docs/research/bcpl-nky-dining-2026-11-13-media-review.json": "0eebcfaaed028e44849eaed1ebe0d85124528abdbdfb4f54f95c8505a72837e0",
+    "docs/research/bcpl-nky-dining-2026-11-13-olla-evidence.json": "0d0472830ff4792ac45da586a0931114c70b386e37ea23bd160890df1e61cead",
+    "docs/research/bcpl-nky-dining-2026-11-13-olla-evidence.verified.json": "ba675822f93bf32b57417112f320a395a0518cdd8a032483048fe8885043520f",
+    "docs/research/bcpl-nky-dining-2026-11-13-olla-places.json": "e8766dc6ea5f4ff4125b23823fc930a16e762961d6b1b9df07fa40ca45651038",
+    "docs/research/bcpl-nky-dining-2026-11-13-places.json": "afd11dcabbcb311b69436e501800a8c03bd19fe28bb73006e0ee8b704b930b5e",
+    "docs/research/bcpl-nky-dining-2026-11-13-policy-depth.json": "a1801492cd640f4b42932030945700eda6f190a918f928087708538c651a05d8",
+    "docs/research/bcpl-nky-dining-2026-11-13-policy-evidence.json": "5ae44382433644d22147f8e18c2daad652d89d47ec83392357fef97b678e7e47",
+    "docs/research/bcpl-nky-dining-2026-11-13-policy-evidence.verified.json": "608825168ab652fce1bec0542b8ab3d67dfde0bc9ee6620a9ddd61453c7c3848",
+    "docs/research/bcpl-nky-dining-2026-11-13-recheck.json": "589ef5876e14b402ba8c59828a76998a63a4a9c4dfefb89c3d9d86c5f0e01261",
+    "docs/research/bcpl-nky-dining-2026-11-13-reports.json": "6b9b53c0bbee7a0fdfb4ebda40f13c2357fd2fff789c30a4cee029dc4ce68800",
+    "docs/research/bcpl-nky-dining-2026-11-13-revisions.json": "24daf4e110de5b0d2999477ad8b0eafe241ce954681be07706d6282a68253b58",
+    "docs/research/bcpl-nky-dining-2026-11-13-room-refinements.json": "fbdffe22158d4f0f4c0aab4a577df93c44b0ccae6c5638e0c96cbf02dcfce4c4",
+    "docs/research/bcpl-nky-dining-2026-11-13-source-urls.txt": "73825f23f673d348244f8fae0fc88540833184c3c902dfa4583bda164f78b74f",
+    "docs/research/bcpl-nky-dining-2026-11-13.md": "7f43ca58ffc9b44d2db014d2c20ef34653ccef591d91ea5dcad3b8c86126cfee",
+    "docs/research/community-venue-discovery-2026-11-13.json": "3f24e9bac081a0e4e478342ce22cf4ef870eeca93ce6056be30b455e3d5537c3",
+    "docs/research/coverage-queue.md": "9e5338e71d5e929deee9c43d588f67f20a111794f76a9a324a6920d8ff0e2c54",
+    "e2e/accessibility.spec.ts": "9fdc1d547c4ced19e11213d1a9ecfd3c084669c632f1bbef161157b850d891a0",
+    "pipeline/evidence/quotes.json": "1e47f313e029d2282637275d7ee362fffaa48c1c7cb8df20cb95a72130090a6d",
+    "pipeline/source-checks/2026-11-13.json": "3029d6f412dcf4eb48ffa5399797512142f551029ffddfcab901a66f0154841b",
+    "src/__tests__/venue-expansion.test.ts": "bc463f92be90fea369a02b1bba9ddb5357d8be6ed21687aabd12aebdc30a4559",
+    "src/data/access-guides.json": "b4b194c31652f9a6b4a0136eb93bf4688daa055342ed83e4e4af91bee5a25d47",
+    "src/data/places.json": "f2bc57d8b1874d1a7aa32e1d7c1bb1e4496d34bc24192e4eb01020994299ef16",
+    "src/data/visitor-reports-community.json": "e4197fbc15c9fa8cf0dd26f3da61e7fb968b9d59a800ae2645e88a60799f00f2"
+  }
+}

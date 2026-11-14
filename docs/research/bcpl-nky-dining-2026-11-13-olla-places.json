@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "olla-taqueria-covington",
+    "name": "Olla Taqueria Gutierrez",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "302 W 12th Street, Covington, KY 41011",
+    "website": "https://ollacov.com/",
+    "source_url": "https://ollacov.com/",
+    "limitations": "Official restaurant and Kentucky tourism information, plus a separately attributed public visitor comment; no on-site audit. The tourism listing calls the same location 302 W. MLK Jr Blvd. Entrance steps and thresholds, door controls, parking-to-door routes, table clearance, toilet/changing facilities and personal assistance remain unverified. Patio heating is an undated tourism description, not confirmation that the patio is open, heated or step-free on a particular day. A visitor’s impression of the atmosphere does not establish measured noise or present crowding.",
+    "facts": [
+      [
+        "mobility",
+        "Kentucky Tourism lists patio dining and describes the patio as heated in winter. Confirm seasonal opening, heating and the route before visiting; this does not establish step-free patio access.",
+        "https://www.kentuckytourism.com/explore/olla-taqueria-19205",
+        "public_agency",
+        null,
+        "Patio dining (heated in the winter) is available."
+      ],
+      [
+        "cognitive",
+        "Olla offers delivery and carryout ordering links. Its site says a 5% fee applies to to-go orders for compostable packaging; collection arrangements and any other charges need checking with the selected order.",
+        "https://ollacov.com/",
+        "venue_official",
+        null,
+        [
+          "Order Delivery or Carry Out Below",
+          "A 5% fee is applied to to-go orders to help offset the higher cost of these sustainable containers."
+        ]
+      ],
+      [
+        "cognitive",
+        "The restaurant lists (859) 261-6552 for questions. Posted hours are 11 a.m.–11 p.m. Thursday–Saturday and 11 a.m.–8:45 p.m. Sunday, Tuesday and Wednesday; the displayed schedule does not list Monday. Confirm before travelling.",
+        "https://ollacov.com/",
+        "venue_official",
+        null,
+        [
+          "(859)-261-6552",
+          "Thur, Fri, Sat 11:00 AM - 11:00 PM",
+          "Sun, Tue, Wed 11:00 AM - 8:45 PM"
+        ]
+      ]
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "slug": "boone-county-public-library-hebron-branch",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "claim": "BCPL’s currently linked Study Room Policy, approved October 2023, does not require a library card to reserve a room. Procedures, time limits and availability vary by branch; call the branch before relying on a room. One customer may reserve one study room at a time.",
+    "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+    "quote": [
+     "Approved 10/2023",
+     "Study rooms vary across the system; call the specific branch to learn about specific reservation procedures, time limits, and availability.",
+     "A library card is not required for reservation.",
+     "A single customer may only reserve 1 study room at a time."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75"
+   },
+   {
+    "domain": "cognitive",
+    "claim": "Under the linked October 2023 policy, study-room use must finish 15 minutes before closing. A reservation may be given to someone waiting after a 15-minute no-show; library activities take priority and reservations may be changed or cancelled. Do not rely on a study room as a guaranteed retreat.",
+    "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+    "quote": [
+     "Approved 10/2023",
+     "All room usage must conclude 15 minutes prior to the Library's posted closing time.",
+     "If a person/group does not show up for their scheduled reservation of the study room, after 15 minutes the Library holds the right to give the room away to a customer who might be waiting.",
+     "Library sponsored activities take precedence over non-Library uses of the study rooms.",
+     "The Library reserves the right to change or cancel any study room reservation if circumstances at the Library so demand, including room reassignment based upon size of the group."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75"
+   }
+  ]
+ },
+ {
+  "slug": "boone-county-public-library-scheben-branch",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "claim": "BCPL’s currently linked Study Room Policy, approved October 2023, does not require a library card to reserve a room. Procedures, time limits and availability vary by branch; call the branch before relying on a room. One customer may reserve one study room at a time.",
+    "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+    "quote": [
+     "Approved 10/2023",
+     "Study rooms vary across the system; call the specific branch to learn about specific reservation procedures, time limits, and availability.",
+     "A library card is not required for reservation.",
+     "A single customer may only reserve 1 study room at a time."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75"
+   },
+   {
+    "domain": "cognitive",
+    "claim": "Under the linked October 2023 policy, study-room use must finish 15 minutes before closing. A reservation may be given to someone waiting after a 15-minute no-show; library activities take priority and reservations may be changed or cancelled. Do not rely on a study room as a guaranteed retreat.",
+    "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+    "quote": [
+     "Approved 10/2023",
+     "All room usage must conclude 15 minutes prior to the Library's posted closing time.",
+     "If a person/group does not show up for their scheduled reservation of the study room, after 15 minutes the Library holds the right to give the room away to a customer who might be waiting.",
+     "Library sponsored activities take precedence over non-Library uses of the study rooms.",
+     "The Library reserves the right to change or cancel any study room reservation if circumstances at the Library so demand, including room reassignment based upon size of the group."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75"
+   }
+  ]
+ },
+ {
+  "slug": "boone-county-public-library-walton-branch",
+  "facts": [
+   {
+    "domain": "cognitive",
+    "claim": "BCPL’s currently linked Study Room Policy, approved October 2023, does not require a library card to reserve a room. Procedures, time limits and availability vary by branch; call the branch before relying on a room. One customer may reserve one study room at a time.",
+    "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+    "quote": [
+     "Approved 10/2023",
+     "Study rooms vary across the system; call the specific branch to learn about specific reservation procedures, time limits, and availability.",
+     "A library card is not required for reservation.",
+     "A single customer may only reserve 1 study room at a time."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75"
+   },
+   {
+    "domain": "cognitive",
+    "claim": "Under the linked October 2023 policy, study-room use must finish 15 minutes before closing. A reservation may be given to someone waiting after a 15-minute no-show; library activities take priority and reservations may be changed or cancelled. Do not rely on a study room as a guaranteed retreat.",
+    "url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+    "quote": [
+     "Approved 10/2023",
+     "All room usage must conclude 15 minutes prior to the Library's posted closing time.",
+     "If a person/group does not show up for their scheduled reservation of the study room, after 15 minutes the Library holds the right to give the room away to a customer who might be waiting.",
+     "Library sponsored activities take precedence over non-Library uses of the study rooms.",
+     "The Library reserves the right to change or cancel any study room reservation if circumstances at the Library so demand, including room reassignment based upon size of the group."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75"
+   }
+  ]
+ }
+]

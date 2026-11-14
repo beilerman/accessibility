@@ -1708,7 +1708,7 @@
     "address": "1863 North Bend Road, Hebron, KY 41048",
     "website": "https://www.bcpl.org/locations/hebron",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -1717,7 +1717,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-hebron-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1734,6 +1734,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -1745,7 +1750,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-hebron-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1764,6 +1769,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -1773,7 +1783,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-hebron-branch.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1787,16 +1797,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "The branch has a computer desk that raises and lowers at the push of a button. Borrowed wheelchairs can be used throughout the wide-aisle building and outside, including on the Hebron Storywalk.",
+        "text": "BCPL says Hebron has a computer desk that raises and lowers at the push of a button. It describes its buildings as having wide aisles and allows borrowed wheelchairs inside and on library grounds, including the Hebron Storywalk; route measurements are not supplied.",
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-hebron-branch.mobility.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1810,6 +1825,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attributed the unmeasured wide-aisle description and separated permission to use equipment from a measured route assessment."
           }
         ]
       },
@@ -1819,7 +1839,7 @@
         "source_url": "https://www.bcpl.org/locations/hebron",
         "id": "boone-county-public-library-hebron-branch.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1831,6 +1851,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -1842,7 +1867,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-hebron-branch.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -1856,11 +1881,111 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Place holds through BCPL’s website or app, choose Hebron, and wait for the ready notification. Use the drive-thru and bring your library card.",
+        "source_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "id": "boone-county-public-library-hebron-branch.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Hebron lists four study rooms, each for up to four people, with no room charge. Reserve by phone or in person only, or request a room at the customer service desk. Rooms are first come, first served and subject to BCPL’s Study Room Policy; availability and space for mobility equipment need confirming.",
+        "source_url": "https://www.bcpl.org/meeting-study-rooms",
+        "id": "boone-county-public-library-hebron-branch.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Pre-publication follow-through: branch-specific room capacities, no-charge listing and phone/in-person reservation restriction added from the current room table; capacity is not a route-clearance measurement."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "BCPL offers home delivery to Boone County residents of any age who cannot visit because of a temporary or permanent physical limitation or lack of transportation. Staff arrange delivery and collection every four to six weeks; weather or mechanical problems can cancel visits. Register through Outreach or call 859-292-3394.",
+        "source_url": "https://www.bcpl.org/outreach",
+        "id": "boone-county-public-library-hebron-branch.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCPL’s currently linked Study Room Policy, approved October 2023, does not require a library card to reserve a room. Procedures, time limits and availability vary by branch; call the branch before relying on a room. One customer may reserve one study room at a time.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+        "id": "boone-county-public-library-hebron-branch.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the linked October 2023 policy, study-room use must finish 15 minutes before closing. A reservation may be given to someone waiting after a 15-minute no-show; library activities take priority and reservations may be changed or cancelled. Do not rely on a study room as a guaranteed retreat.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+        "id": "boone-county-public-library-hebron-branch.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
+    "limitations": "Public library website/blog reporting; no on-site audit. Permission to use a borrowed wheelchair on the Storywalk does not establish its gradients, surface condition or a complete route. Equipment, study rooms and drive-thru availability may vary. The architect’s gallery is undated and includes a raised indoor platform with steps; no alternative platform route, toilet/changing details or measured parking-to-door route is established.",
     "slug": "boone-county-public-library-hebron-branch",
     "observed_at": null
   },
@@ -2207,7 +2332,7 @@
     "address": "8899 U.S. 42, Union, KY 41091",
     "website": "https://www.bcpl.org/locations/scheben",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -2216,7 +2341,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-scheben-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2233,6 +2358,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -2244,7 +2374,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-scheben-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2261,6 +2391,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -2272,7 +2407,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-scheben-branch.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2291,6 +2426,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2300,7 +2440,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-scheben-branch.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2314,6 +2454,124 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Place holds through BCPL’s website or app, choose Scheben, and wait for the ready notification. Park in a designated curbside space, call 859-342-BOOK and select Scheben; staff check out the items and bring them to your vehicle. Bring your library card.",
+        "source_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "id": "boone-county-public-library-scheben-branch.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Scheben lists four study rooms, each for up to four people, with no room charge. Reserve by phone or in person only, or request a room at the customer service desk. Rooms are first come, first served and subject to BCPL’s Study Room Policy; availability and space for mobility equipment need confirming.",
+        "source_url": "https://www.bcpl.org/meeting-study-rooms",
+        "id": "boone-county-public-library-scheben-branch.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Pre-publication follow-through: branch-specific room capacities, no-charge listing and phone/in-person reservation restriction added from the current room table; capacity is not a route-clearance measurement."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "BCPL offers home delivery to Boone County residents of any age who cannot visit because of a temporary or permanent physical limitation or lack of transportation. Staff arrange delivery and collection every four to six weeks; weather or mechanical problems can cancel visits. Register through Outreach or call 859-292-3394.",
+        "source_url": "https://www.bcpl.org/outreach",
+        "id": "boone-county-public-library-scheben-branch.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCPL says every branch has translation devices for communication with non-English-speaking patrons and welcomes advance phone calls about other accommodations.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-scheben-branch.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCPL’s currently linked Study Room Policy, approved October 2023, does not require a library card to reserve a room. Procedures, time limits and availability vary by branch; call the branch before relying on a room. One customer may reserve one study room at a time.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+        "id": "boone-county-public-library-scheben-branch.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the linked October 2023 policy, study-room use must finish 15 minutes before closing. A reservation may be given to someone waiting after a 15-minute no-show; library activities take priority and reservations may be changed or cancelled. Do not rely on a study room as a guaranteed retreat.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+        "id": "boone-county-public-library-scheben-branch.cognitive.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -2330,7 +2588,7 @@
     "address": "13000 Towne Center Drive, Walton, KY 41094",
     "website": "https://www.bcpl.org/locations/walton",
     "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
@@ -2339,7 +2597,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2356,6 +2614,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -2367,7 +2630,7 @@
         "source_url": "https://www.bcpl.org/locations",
         "id": "boone-county-public-library-walton-branch.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2384,6 +2647,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -2391,11 +2659,11 @@
       },
       {
         "domain": "sensory",
-        "text": "Hearing loops support participation in programs.",
+        "text": "BCPL says Walton offers hearing loops for patrons with hearing aids or cochlear implants during programs. Confirm the room and equipment arrangements before attending.",
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.sensory.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2414,6 +2682,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Made the source's intended equipment users and program scope explicit; no room coverage or device compatibility is inferred."
           }
         ]
       },
@@ -2423,7 +2696,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2440,6 +2713,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -2451,7 +2729,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.sensory.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2470,6 +2748,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -2479,7 +2762,7 @@
         "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
         "id": "boone-county-public-library-walton-branch.mobility.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -2493,11 +2776,147 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Place holds through BCPL’s website or app, choose Walton, and wait for the ready notification. Use the drive-thru and bring your library card.",
+        "source_url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "id": "boone-county-public-library-walton-branch.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Walton lists five study rooms with no room charge: Room 2 holds two people; Rooms 1, 3, 4 and 5 hold four each. Reserve by phone or in person only, or request a room at the customer service desk. Rooms are first come, first served and subject to BCPL’s Study Room Policy; availability and space for mobility equipment need confirming.",
+        "source_url": "https://www.bcpl.org/meeting-study-rooms",
+        "id": "boone-county-public-library-walton-branch.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Pre-publication follow-through: branch-specific room capacities, no-charge listing and phone/in-person reservation restriction added from the current room table; capacity is not a route-clearance measurement."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "BCPL offers home delivery to Boone County residents of any age who cannot visit because of a temporary or permanent physical limitation or lack of transportation. Staff arrange delivery and collection every four to six weeks; weather or mechanical problems can cancel visits. Register through Outreach or call 859-292-3394.",
+        "source_url": "https://www.bcpl.org/outreach",
+        "id": "boone-county-public-library-walton-branch.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCPL says every branch has translation devices for communication with non-English-speaking patrons and welcomes advance phone calls about other accommodations.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-walton-branch.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "BCPL permits borrowed wheelchairs inside the library and on its outdoor property, including Walton’s patio. This is permission to use the equipment, not a measurement of the patio route.",
+        "source_url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "id": "boone-county-public-library-walton-branch.mobility.5",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCPL’s currently linked Study Room Policy, approved October 2023, does not require a library card to reserve a room. Procedures, time limits and availability vary by branch; call the branch before relying on a room. One customer may reserve one study room at a time.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+        "id": "boone-county-public-library-walton-branch.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the linked October 2023 policy, study-room use must finish 15 minutes before closing. A reservation may be given to someone waiting after a 15-minute no-show; library activities take priority and reservations may be changed or cancelled. Do not rely on a study room as a guaranteed retreat.",
+        "source_url": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+        "id": "boone-county-public-library-walton-branch.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. Branch-specific entrance and route measurements were not documented in the inspected sources.",
+    "limitations": "Public library website/blog reporting; no on-site audit. Equipment and room availability may vary. The source names an adult changing table and blue lighting but does not give table size or load limit, hoist availability, transfer assistance, restroom location or door controls. Hearing-loop room coverage and device compatibility need confirmation. Branch-specific entrance and route measurements were not documented in the inspected sources.",
     "slug": "boone-county-public-library-walton-branch",
     "observed_at": null
   },
@@ -39381,6 +39800,412 @@
         "text": "The restaurant offers dine-in, take-out and DoorDash delivery. These are food-service options, not confirmation of curbside collection or carrying assistance.",
         "source_url": "https://wabisabiky.com/",
         "id": "wabi-sabi-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Juniper’s Gin Bar",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "409 West 6th Street, Suite 100, Covington, KY 41011",
+    "website": "https://www.junipersginbar.net/",
+    "source_url": "https://www.junipersginbar.net/",
+    "limitations": "Current official visit and event information, with a separate public community impression; no on-site audit. Doorway width, entrance steps, parking-to-door route, table clearances and toilet layout remain unverified. The absence of changing tables is stated in the venue’s family-amenities guidance, which does not describe adult changing equipment separately. A lounge reservation does not guarantee a quiet space or suitable seating; live music and changing layouts may affect a visit.",
+    "checked_at": "2026-11-13",
+    "slug": "junipers-gin-bar-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "sensory",
+        "text": "The homepage advertises live jazz on Fridays and Saturdays from 8–11 p.m. Check the calendar before choosing a visit time; this is not a quiet-hours promise.",
+        "source_url": "https://www.junipersginbar.net/",
+        "id": "junipers-gin-bar-covington.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The reservations page links to Resy and directs parties larger than 16 to its event-booking page. Confirm seating requirements with the venue before booking.",
+        "source_url": "https://www.junipersginbar.net/reservations-20",
+        "id": "junipers-gin-bar-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Juniper’s says guests under 21 are welcome for a meal, but it does not offer high chairs, changing tables or children’s menus. This statement appears in its event page’s family-amenities guidance.",
+        "source_url": "https://www.junipersginbar.net/bookanevent",
+        "id": "junipers-gin-bar-covington.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Lounge reservations for groups of 17–50 provide dedicated space while the bar remains open to the public. They do not provide exclusive use of the venue.",
+        "source_url": "https://www.junipersginbar.net/bookanevent",
+        "id": "junipers-gin-bar-covington.sensory.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The venue lists (859) 291-4466 for advance questions. Entrance, toilet and seating arrangements need direct confirmation.",
+        "source_url": "https://www.junipersginbar.net/",
+        "id": "junipers-gin-bar-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The posted schedule closes Monday and Tuesday. Wednesday and Thursday open at 4 p.m. with the kitchen closing at 9 p.m.; Friday and Saturday run 4 p.m.–midnight with the kitchen closing at 10 p.m. Sunday brunch is 10 a.m.–2 p.m. and bar service 2–9 p.m. Recheck before travel.",
+        "source_url": "https://www.junipersginbar.net/reservations-20",
+        "id": "junipers-gin-bar-covington.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mellow Mushroom — Wilder",
+    "city": "Wilder",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "1014 Town Drive, Wilder, KY 41076",
+    "website": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+    "source_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+    "limitations": "Official location information and an inspected linked photo gallery; no on-site audit. A public discussion supplied the venue name but did not describe an access visit. Entrance thresholds, door controls, parking-to-door connections, toilet/changing facilities, companion seating and table clearances remain unverified. Patio and private-room labels do not establish a step-free route, quiet space or availability on a particular date. Dietary-option labels do not establish freedom from cross-contact.",
+    "checked_at": "2026-11-13",
+    "slug": "mellow-mushroom-wilder",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The Wilder location lists a patio and an available private room. Ask the branch at (859) 441-6600 about the route and seating configuration; neither is described as a verified step-free or quiet space.",
+        "source_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "id": "mellow-mushroom-wilder.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Delivery and online ordering are listed for this location. Confirm the order’s collection or delivery arrangements; the page does not establish curbside handoff.",
+        "source_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "id": "mellow-mushroom-wilder.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The location page says many pizzas can be made gluten-free or vegan. Ask about ingredients and preparation for the selected order; these labels do not establish absence of cross-contact.",
+        "source_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "id": "mellow-mushroom-wilder.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Posted hours are 11 a.m.–9 p.m. Monday–Thursday and Sunday, and 11 a.m.–10 p.m. Friday–Saturday. Recheck branch hours before travelling.",
+        "source_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "id": "mellow-mushroom-wilder.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Olla Taqueria Gutierrez",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "302 W 12th Street, Covington, KY 41011",
+    "website": "https://ollacov.com/",
+    "source_url": "https://ollacov.com/",
+    "limitations": "Official restaurant and Kentucky tourism information, plus a separately attributed public visitor comment; no on-site audit. The tourism listing calls the same location 302 W. MLK Jr Blvd. A linked June 2021 tourism photo shows a raised corner doorway with railings; present arrangements and any alternative entrance are unresolved. Current entrance steps and thresholds, door controls, parking-to-door routes, table clearance, toilet/changing facilities and personal assistance remain unverified. Patio heating is an undated tourism description, not confirmation that the patio is open, heated or step-free on a particular day. A visitor’s impression of the atmosphere does not establish measured noise or present crowding.",
+    "checked_at": "2026-11-13",
+    "slug": "olla-taqueria-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Kentucky Tourism lists patio dining and describes the patio as heated in winter. Confirm seasonal opening, heating and the route before visiting; this does not establish step-free patio access.",
+        "source_url": "https://www.kentuckytourism.com/explore/olla-taqueria-19205",
+        "id": "olla-taqueria-covington.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Olla offers delivery and carryout ordering links. Its site says a 5% fee applies to to-go orders for compostable packaging; collection arrangements and any other charges need checking with the selected order.",
+        "source_url": "https://ollacov.com/",
+        "id": "olla-taqueria-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The restaurant lists (859) 261-6552 for questions. Posted hours are 11 a.m.–11 p.m. Thursday–Saturday and 11 a.m.–8:45 p.m. Sunday, Tuesday and Wednesday; the displayed schedule does not list Monday. Confirm before travelling.",
+        "source_url": "https://ollacov.com/",
+        "id": "olla-taqueria-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fort Thomas Coffee",
+    "city": "Fort Thomas",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "1 Highland Avenue, Suite A, Fort Thomas, KY",
+    "website": "https://fortthomascoffee.com/",
+    "source_url": "https://fortthomascoffee.com/faq",
+    "limitations": "Current official visit and coworking information; no on-site audit. A public discussion suggested several seating options, but did not measure access. Entrance thresholds, door controls, parking-to-door route, toilets/changing facilities and table clearance remain unverified. Coworking is a paid, availability-dependent service, not a guaranteed quiet retreat. Event space descriptions do not establish personal assistance or an accessible route to every room.",
+    "checked_at": "2026-11-13",
+    "slug": "fort-thomas-coffee",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The café offers mobile ordering through its Order tab. The FAQ does not specify curbside handoff or carrying assistance; check collection arrangements before ordering.",
+        "source_url": "https://fortthomascoffee.com/faq",
+        "id": "fort-thomas-coffee.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Wi-Fi and laptop use are welcome for paying customers. This is a shared café space, not a promise of quiet conditions.",
+        "source_url": "https://fortthomascoffee.com/faq",
+        "id": "fort-thomas-coffee.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The venue describes its closed-door coworking space as quiet, but access requires a day pass ($25 advertised) or Tower Membership and is available only when the Cannon Event Suite is not rented. Walk-ins are welcome; seats may be reserved online up to one week ahead, with priority for business off-sites and event rentals.",
+        "source_url": "https://fortthomascoffee.com/cowork",
+        "id": "fort-thomas-coffee.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The meeting and event business center advertises complimentary parking and food and drink service directly to the table. This service description does not establish accessible parking bays, a step-free entrance or personal assistance; check the room and route when booking.",
+        "source_url": "https://fortthomascoffee.com/connect-rentals",
+        "id": "fort-thomas-coffee.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ lists 6:30 a.m.–9 p.m. Monday–Saturday and 6:30 a.m.–2 p.m. Sunday, with 859-999-8080 for questions. Check current hours and any event arrangements before travel.",
+        "source_url": "https://fortthomascoffee.com/faq",
+        "id": "fort-thomas-coffee.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The calendar’s November 14, 2026 music listing says Saturday nights become adults-only after 7 p.m. Its Thanksgiving listing for November 26, 2026 closes at 11 a.m. Check the dated calendar before travel; the regular café schedule and a reading recommendation do not establish quiet hours or all-age access.",
+        "source_url": "https://fortthomascoffee.com/community",
+        "id": "fort-thomas-coffee.cognitive.4",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,

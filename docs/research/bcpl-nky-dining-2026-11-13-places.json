@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "junipers-gin-bar-covington",
+    "name": "Juniper’s Gin Bar",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "409 West 6th Street, Suite 100, Covington, KY 41011",
+    "website": "https://www.junipersginbar.net/",
+    "source_url": "https://www.junipersginbar.net/",
+    "limitations": "Current official visit and event information, with a separate public community impression; no on-site audit. Doorway width, entrance steps, parking-to-door route, table clearances and toilet layout remain unverified. The absence of changing tables is stated in the venue’s family-amenities guidance, which does not describe adult changing equipment separately. A lounge reservation does not guarantee a quiet space or suitable seating; live music and changing layouts may affect a visit.",
+    "facts": [
+      [
+        "sensory",
+        "The homepage advertises live jazz on Fridays and Saturdays from 8–11 p.m. Check the calendar before choosing a visit time; this is not a quiet-hours promise.",
+        "https://www.junipersginbar.net/",
+        "venue_official",
+        null,
+        "Live Jazz Friday/Saturday : 8-11pm"
+      ],
+      [
+        "cognitive",
+        "The reservations page links to Resy and directs parties larger than 16 to its event-booking page. Confirm seating requirements with the venue before booking.",
+        "https://www.junipersginbar.net/reservations-20",
+        "venue_official",
+        null,
+        [
+          "Party Bigger than 16?",
+          "Book your Juniper's Gin and Tapas reservation on Resy"
+        ]
+      ],
+      [
+        "chronic",
+        "Juniper’s says guests under 21 are welcome for a meal, but it does not offer high chairs, changing tables or children’s menus. This statement appears in its event page’s family-amenities guidance.",
+        "https://www.junipersginbar.net/bookanevent",
+        "venue_official",
+        null,
+        "Guests under 21 are welcome for a meal, but we don’t offer high chairs, changing tables, or children’s menus."
+      ],
+      [
+        "sensory",
+        "Lounge reservations for groups of 17–50 provide dedicated space while the bar remains open to the public. They do not provide exclusive use of the venue.",
+        "https://www.junipersginbar.net/bookanevent",
+        "venue_official",
+        null,
+        "For groups of 17–50, our lounge reservations offer dedicated space to celebrate, enjoy cocktails, and share small bites while the bar remains open to the public."
+      ],
+      [
+        "cognitive",
+        "The venue lists (859) 291-4466 for advance questions. Entrance, toilet and seating arrangements need direct confirmation.",
+        "https://www.junipersginbar.net/",
+        "venue_official",
+        null,
+        "Phone Number (859) 291-4466"
+      ],
+      [
+        "cognitive",
+        "The posted schedule closes Monday and Tuesday. Wednesday and Thursday open at 4 p.m. with the kitchen closing at 9 p.m.; Friday and Saturday run 4 p.m.–midnight with the kitchen closing at 10 p.m. Sunday brunch is 10 a.m.–2 p.m. and bar service 2–9 p.m. Recheck before travel.",
+        "https://www.junipersginbar.net/reservations-20",
+        "venue_official",
+        null,
+        [
+          "Monday & Tuesday - Closed",
+          "Wednesday - Thursday: 4PM - Close",
+          "Kitchen closes at 9PM",
+          "Friday & Saturday: 4PM to 12AM",
+          "Kitchen closes at 10PM",
+          "Sunday Brunch: 10AM to 2PM",
+          "Sunday Bar Service: 2PM to 9PM"
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "mellow-mushroom-wilder",
+    "name": "Mellow Mushroom — Wilder",
+    "city": "Wilder",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "1014 Town Drive, Wilder, KY 41076",
+    "website": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+    "source_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+    "limitations": "Official location information and an inspected linked photo gallery; no on-site audit. A public discussion supplied the venue name but did not describe an access visit. Entrance thresholds, door controls, parking-to-door connections, toilet/changing facilities, companion seating and table clearances remain unverified. Patio and private-room labels do not establish a step-free route, quiet space or availability on a particular date. Dietary-option labels do not establish freedom from cross-contact.",
+    "facts": [
+      [
+        "mobility",
+        "The Wilder location lists a patio and an available private room. Ask the branch at (859) 441-6600 about the route and seating configuration; neither is described as a verified step-free or quiet space.",
+        "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "venue_official",
+        null,
+        [
+          "Patio",
+          "Private Room Available",
+          "(859) 441-6600"
+        ]
+      ],
+      [
+        "cognitive",
+        "Delivery and online ordering are listed for this location. Confirm the order’s collection or delivery arrangements; the page does not establish curbside handoff.",
+        "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "venue_official",
+        null,
+        [
+          "Delivery",
+          "Order Now"
+        ]
+      ],
+      [
+        "chronic",
+        "The location page says many pizzas can be made gluten-free or vegan. Ask about ingredients and preparation for the selected order; these labels do not establish absence of cross-contact.",
+        "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "venue_official",
+        null,
+        "Many of our pizzas can be made gluten-free or vegan."
+      ],
+      [
+        "cognitive",
+        "Posted hours are 11 a.m.–9 p.m. Monday–Thursday and Sunday, and 11 a.m.–10 p.m. Friday–Saturday. Recheck branch hours before travelling.",
+        "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "venue_official",
+        null,
+        [
+          "Monday-Thursday 11:00 AM - 9:00 PM",
+          "Friday-Saturday 11:00 AM - 10:00 PM",
+          "Sunday 11:00 AM - 9:00 PM"
+        ]
+      ]
+    ]
+  }
+]

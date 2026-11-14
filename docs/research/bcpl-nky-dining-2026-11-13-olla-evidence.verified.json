@@ -1,0 +1,44 @@
+[
+ {
+  "slug": "olla-taqueria-covington",
+  "address_url": "https://ollacov.com/",
+  "address_quote": "302 W 12th St Covington, KY 41011",
+  "facts": [
+   {
+    "domain": "mobility",
+    "claim": "Kentucky Tourism lists patio dining and describes the patio as heated in winter. Confirm seasonal opening, heating and the route before visiting; this does not establish step-free patio access.",
+    "url": "https://www.kentuckytourism.com/explore/olla-taqueria-19205",
+    "quote": "Patio dining (heated in the winter) is available.",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "5500b2d9620c79c18cd77d41abca0c2e6297eb4dc87ca054dc644c331308c405"
+   },
+   {
+    "domain": "cognitive",
+    "claim": "Olla offers delivery and carryout ordering links. Its site says a 5% fee applies to to-go orders for compostable packaging; collection arrangements and any other charges need checking with the selected order.",
+    "url": "https://ollacov.com/",
+    "quote": [
+     "Order Delivery or Carry Out Below",
+     "we’ve switched to compostable carryout packaging.",
+     "A 5% fee is applied to to-go orders to help offset the higher cost of these sustainable containers."
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "20f0d2f7b5d1a5b9a1a3d8690b8ad80f6a6159ff01df97d90fec571aa3342fc8"
+   },
+   {
+    "domain": "cognitive",
+    "claim": "The restaurant lists (859) 261-6552 for questions. Posted hours are 11 a.m.–11 p.m. Thursday–Saturday and 11 a.m.–8:45 p.m. Sunday, Tuesday and Wednesday; the displayed schedule does not list Monday. Confirm before travelling.",
+    "url": "https://ollacov.com/",
+    "quote": [
+     "(859)-261-6552",
+     "Thur, Fri, Sat 11:00 AM - 11:00 PM",
+     "Sun, Tue, Wed 11:00 AM - 8:45 PM"
+    ],
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "20f0d2f7b5d1a5b9a1a3d8690b8ad80f6a6159ff01df97d90fec571aa3342fc8"
+   }
+  ]
+ }
+]

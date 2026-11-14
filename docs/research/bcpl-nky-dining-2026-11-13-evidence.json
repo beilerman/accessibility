@@ -1,0 +1,340 @@
+[
+  {
+    "slug": "existing-libraries",
+    "facts": [
+      {
+        "id": "boone-county-public-library-hebron-branch.mobility.1",
+        "claim": "A wheelchair may be borrowed after signing a waiver at the front desk.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": [
+          "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+          "Stop by the front desk to sign a waiver and borrow a wheelchair."
+        ]
+      },
+      {
+        "id": "boone-county-public-library-hebron-branch.chronic.1",
+        "claim": "The library's locations page lists all branches as smoke-free.",
+        "url": "https://www.bcpl.org/locations",
+        "quote": "Each library location is smoke-free"
+      },
+      {
+        "id": "boone-county-public-library-hebron-branch.mobility.2",
+        "claim": "The library says accessible parking is available at every location. This branch offers drive-thru service.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton. If you prefer to come inside and browse, accessible parking is available at every location."
+      },
+      {
+        "id": "boone-county-public-library-scheben-branch.mobility.1",
+        "claim": "A wheelchair may be borrowed after signing a waiver at the front desk.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": [
+          "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+          "Stop by the front desk to sign a waiver and borrow a wheelchair."
+        ]
+      },
+      {
+        "id": "boone-county-public-library-scheben-branch.chronic.1",
+        "claim": "The library's locations page lists all branches as smoke-free.",
+        "url": "https://www.bcpl.org/locations",
+        "quote": "Each library location is smoke-free"
+      },
+      {
+        "id": "boone-county-public-library-scheben-branch.mobility.2",
+        "claim": "The library says accessible parking is available at every location. This branch offers curbside pick-up.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton. If you prefer to come inside and browse, accessible parking is available at every location."
+      },
+      {
+        "id": "boone-county-public-library-walton-branch.mobility.1",
+        "claim": "A wheelchair may be borrowed after signing a waiver at the front desk.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": [
+          "Although the Main Library in Burlington and the Scheben Branch in Union already have wheelchairs , they are now available at the Hebron Branch, Florence Branch and Walton Branch.",
+          "Stop by the front desk to sign a waiver and borrow a wheelchair."
+        ]
+      },
+      {
+        "id": "boone-county-public-library-walton-branch.chronic.1",
+        "claim": "The library's locations page lists all branches as smoke-free.",
+        "url": "https://www.bcpl.org/locations",
+        "quote": "Each library location is smoke-free"
+      },
+      {
+        "id": "boone-county-public-library-walton-branch.mobility.3",
+        "claim": "The library says accessible parking is available at every location. This branch offers drive-thru service.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Curbside Pick-up is available at Main, Scheben and Florence, while drive-thru service is available at Hebron and Walton. If you prefer to come inside and browse, accessible parking is available at every location."
+      },
+      {
+        "id": "boone-county-public-library-hebron-branch.chronic.2",
+        "claim": "The amphitheater is outdoors and uncovered; bring blankets or chairs to events there.",
+        "url": "https://www.bcpl.org/locations/hebron",
+        "quote": "It also includes an Amphitheater for large events. Only staff may reserve this outdoor and uncovered space, and patrons should bring blankets and chairs to events scheduled in the Amphitheater."
+      },
+      {
+        "id": "boone-county-public-library-hebron-branch.cognitive.1",
+        "claim": "The library welcomes a phone call in advance to discuss other accommodations. Every branch has translation devices for talking with patrons who don't speak English.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Every branch also has translation devices to improve communication with non-English-speaking patrons. And of course, a phone call in advance to discuss additional accommodations is always welcome."
+      },
+      {
+        "id": "boone-county-public-library-scheben-branch.cognitive.1",
+        "claim": "Thrive Together is a program for adults with disabilities and their caregivers; check the current event schedule.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "The Scheben Branch also hosts Thrive Together , a program where adults with disabilities and their caregivers can build friendships, share experiences and enjoy time together in a welcoming environment."
+      },
+      {
+        "id": "boone-county-public-library-walton-branch.mobility.2",
+        "claim": "A family restroom has an adult changing table.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Additionally, the Walton Branch has a family-friendly restroom with an adult changing table and sensory-friendly blue lighting."
+      },
+      {
+        "id": "boone-county-public-library-walton-branch.sensory.2",
+        "claim": "The family restroom has sensory-friendly blue lighting.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Additionally, the Walton Branch has a family-friendly restroom with an adult changing table and sensory-friendly blue lighting."
+      },
+      {
+        "id": "boone-county-public-library-walton-branch.sensory.1",
+        "claim": "BCPL says Walton offers hearing loops for patrons with hearing aids or cochlear implants during programs. Confirm the room and equipment arrangements before attending.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "For patrons with hearing aids or cochlear implants, the Walton Branch offers hearing loops to assist during programs, with plans to expand the service to additional locations."
+      },
+      {
+        "id": "boone-county-public-library-hebron-branch.mobility.3",
+        "claim": "BCPL says Hebron has a computer desk that raises and lowers at the push of a button. It describes its buildings as having wide aisles and allows borrowed wheelchairs inside and on library grounds, including the Hebron Storywalk; route measurements are not supplied.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": [
+          "The Hebron Branch has a height-adjustable computer desk that can be raised or lowered with the press of a button, and accessible computer stations are coming soon to the Florence Branch.",
+          "Visitors can use the wheelchairs throughout our wide-aisle buildings as well as our outside property, such as the Storywalk at our Hebron location or the patio at the Walton Branch."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "boone-county-public-library-hebron-branch",
+    "facts": [
+      {
+        "domain": "mobility",
+        "claim": "Place holds through BCPL’s website or app, choose Hebron, and wait for the ready notification. Use the drive-thru and bring your library card.",
+        "url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "quote": [
+          "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+          "Remember to bring your library card for a smooth transaction.",
+          "At the Hebron Branch and Walton Branch, skip curbside and pull up to the convenient drive-thru."
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "For a private place to work, request a study room at the customer service desk. BCPL describes study rooms as first come, first served, subject to its Study Room Policy; a room is not guaranteed.",
+        "url": "https://www.bcpl.org/meeting-study-rooms",
+        "quote": [
+          "Study Rooms are available for individuals or small groups who need a private space to work.",
+          "Study Rooms are available on a first-come, first-serve basis.",
+          "Request a study room at the customer service desk .",
+          "All requests are subject to our Study Room Policy ."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "BCPL offers home delivery to Boone County residents of any age who cannot visit because of a temporary or permanent physical limitation or lack of transportation. Staff arrange delivery and collection every four to six weeks; weather or mechanical problems can cancel visits. Register through Outreach or call 859-292-3394.",
+        "url": "https://www.bcpl.org/outreach",
+        "quote": [
+          "All Boone County residents - regardless of age - are eligible for outreach services if they are unable to visit the Library due to a temporary or permanent physical limitation and to those who lack transportation.",
+          "Our Outreach Services staff will contact you to discuss the types of materials you like and to make arrangements for delivery. Materials will be delivered and picked-up every four to six weeks until you no longer need this service.",
+          "Visits may be canceled for inclement weather or mechanical issues.",
+          "Complete the registration form linked below or call 859-292-3394 ."
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "boone-county-public-library-scheben-branch",
+    "facts": [
+      {
+        "domain": "mobility",
+        "claim": "Place holds through BCPL’s website or app, choose Scheben, and wait for the ready notification. Park in a designated curbside space, call 859-342-BOOK and select Scheben; staff check out the items and bring them to your vehicle. Bring your library card.",
+        "url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "quote": [
+          "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+          "Remember to bring your library card for a smooth transaction.",
+          "Once your items are ready, head to your selected location and park in a designated curbside space. Call 859-342-BOOK and select Main, Scheben or Florence to notify our staff of your arrival. We’ll swiftly check out your items and bring them to your vehicle, all while you stay warm!"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "For a private place to work, request a study room at the customer service desk. BCPL describes study rooms as first come, first served, subject to its Study Room Policy; a room is not guaranteed.",
+        "url": "https://www.bcpl.org/meeting-study-rooms",
+        "quote": [
+          "Study Rooms are available for individuals or small groups who need a private space to work.",
+          "Study Rooms are available on a first-come, first-serve basis.",
+          "Request a study room at the customer service desk .",
+          "All requests are subject to our Study Room Policy ."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "BCPL offers home delivery to Boone County residents of any age who cannot visit because of a temporary or permanent physical limitation or lack of transportation. Staff arrange delivery and collection every four to six weeks; weather or mechanical problems can cancel visits. Register through Outreach or call 859-292-3394.",
+        "url": "https://www.bcpl.org/outreach",
+        "quote": [
+          "All Boone County residents - regardless of age - are eligible for outreach services if they are unable to visit the Library due to a temporary or permanent physical limitation and to those who lack transportation.",
+          "Our Outreach Services staff will contact you to discuss the types of materials you like and to make arrangements for delivery. Materials will be delivered and picked-up every four to six weeks until you no longer need this service.",
+          "Visits may be canceled for inclement weather or mechanical issues.",
+          "Complete the registration form linked below or call 859-292-3394 ."
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "BCPL says every branch has translation devices for communication with non-English-speaking patrons and welcomes advance phone calls about other accommodations.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Every branch also has translation devices to improve communication with non-English-speaking patrons. And of course, a phone call in advance to discuss additional accommodations is always welcome."
+      }
+    ]
+  },
+  {
+    "slug": "boone-county-public-library-walton-branch",
+    "facts": [
+      {
+        "domain": "mobility",
+        "claim": "Place holds through BCPL’s website or app, choose Walton, and wait for the ready notification. Use the drive-thru and bring your library card.",
+        "url": "https://bcplundiscovered.org/access-your-holds-with-the-convenience-of-curbside-pick-up-or-drive-thru/",
+        "quote": [
+          "Browse our catalog online and place holds with your library card through BCPL’s website or app. Choose the library location of your choice for pick-up, and we’ll notify you as soon as your items are available.",
+          "Remember to bring your library card for a smooth transaction.",
+          "At the Hebron Branch and Walton Branch, skip curbside and pull up to the convenient drive-thru."
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "For a private place to work, request a study room at the customer service desk. BCPL describes study rooms as first come, first served, subject to its Study Room Policy; a room is not guaranteed.",
+        "url": "https://www.bcpl.org/meeting-study-rooms",
+        "quote": [
+          "Study Rooms are available for individuals or small groups who need a private space to work.",
+          "Study Rooms are available on a first-come, first-serve basis.",
+          "Request a study room at the customer service desk .",
+          "All requests are subject to our Study Room Policy ."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "BCPL offers home delivery to Boone County residents of any age who cannot visit because of a temporary or permanent physical limitation or lack of transportation. Staff arrange delivery and collection every four to six weeks; weather or mechanical problems can cancel visits. Register through Outreach or call 859-292-3394.",
+        "url": "https://www.bcpl.org/outreach",
+        "quote": [
+          "All Boone County residents - regardless of age - are eligible for outreach services if they are unable to visit the Library due to a temporary or permanent physical limitation and to those who lack transportation.",
+          "Our Outreach Services staff will contact you to discuss the types of materials you like and to make arrangements for delivery. Materials will be delivered and picked-up every four to six weeks until you no longer need this service.",
+          "Visits may be canceled for inclement weather or mechanical issues.",
+          "Complete the registration form linked below or call 859-292-3394 ."
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "BCPL says every branch has translation devices for communication with non-English-speaking patrons and welcomes advance phone calls about other accommodations.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Every branch also has translation devices to improve communication with non-English-speaking patrons. And of course, a phone call in advance to discuss additional accommodations is always welcome."
+      },
+      {
+        "domain": "mobility",
+        "claim": "BCPL permits borrowed wheelchairs inside the library and on its outdoor property, including Walton’s patio. This is permission to use the equipment, not a measurement of the patio route.",
+        "url": "https://bcplundiscovered.org/accessibilityoptions/",
+        "quote": "Visitors can use the wheelchairs throughout our wide-aisle buildings as well as our outside property, such as the Storywalk at our Hebron location or the patio at the Walton Branch."
+      }
+    ]
+  },
+  {
+    "slug": "junipers-gin-bar-covington",
+    "address_url": "https://www.junipersginbar.net/",
+    "address_quote": "409 West 6th St, Suite 100 Covington, KY 41011",
+    "facts": [
+      {
+        "domain": "sensory",
+        "claim": "The homepage advertises live jazz on Fridays and Saturdays from 8–11 p.m. Check the calendar before choosing a visit time; this is not a quiet-hours promise.",
+        "url": "https://www.junipersginbar.net/",
+        "quote": "Live Jazz Friday/Saturday : 8-11pm"
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The reservations page links to Resy and directs parties larger than 16 to its event-booking page. Confirm seating requirements with the venue before booking.",
+        "url": "https://www.junipersginbar.net/reservations-20",
+        "quote": [
+          "Party Bigger than 16?",
+          "Book your Juniper's Gin and Tapas reservation on Resy"
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "Juniper’s says guests under 21 are welcome for a meal, but it does not offer high chairs, changing tables or children’s menus. This statement appears in its event page’s family-amenities guidance.",
+        "url": "https://www.junipersginbar.net/bookanevent",
+        "quote": "Guests under 21 are welcome for a meal, but we don’t offer high chairs, changing tables, or children’s menus."
+      },
+      {
+        "domain": "sensory",
+        "claim": "Lounge reservations for groups of 17–50 provide dedicated space while the bar remains open to the public. They do not provide exclusive use of the venue.",
+        "url": "https://www.junipersginbar.net/bookanevent",
+        "quote": "For groups of 17–50, our lounge reservations offer dedicated space to celebrate, enjoy cocktails, and share small bites while the bar remains open to the public."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The venue lists (859) 291-4466 for advance questions. Entrance, toilet and seating arrangements need direct confirmation.",
+        "url": "https://www.junipersginbar.net/",
+        "quote": "Phone Number (859) 291-4466"
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The posted schedule closes Monday and Tuesday. Wednesday and Thursday open at 4 p.m. with the kitchen closing at 9 p.m.; Friday and Saturday run 4 p.m.–midnight with the kitchen closing at 10 p.m. Sunday brunch is 10 a.m.–2 p.m. and bar service 2–9 p.m. Recheck before travel.",
+        "url": "https://www.junipersginbar.net/reservations-20",
+        "quote": [
+          "Monday & Tuesday - Closed",
+          "Wednesday - Thursday: 4PM - Close",
+          "Kitchen closes at 9PM",
+          "Friday & Saturday: 4PM to 12AM",
+          "Kitchen closes at 10PM",
+          "Sunday Brunch: 10AM to 2PM",
+          "Sunday Bar Service: 2PM to 9PM"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "mellow-mushroom-wilder",
+    "address_url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+    "address_quote": "1014 Town Dr, Wilder KY 41076",
+    "facts": [
+      {
+        "domain": "mobility",
+        "claim": "The Wilder location lists a patio and an available private room. Ask the branch at (859) 441-6600 about the route and seating configuration; neither is described as a verified step-free or quiet space.",
+        "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "quote": [
+          "Patio",
+          "Private Room Available",
+          "(859) 441-6600"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "Delivery and online ordering are listed for this location. Confirm the order’s collection or delivery arrangements; the page does not establish curbside handoff.",
+        "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "quote": [
+          "Delivery",
+          "Order Now"
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "The location page says many pizzas can be made gluten-free or vegan. Ask about ingredients and preparation for the selected order; these labels do not establish absence of cross-contact.",
+        "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "quote": "Many of our pizzas can be made gluten-free or vegan."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "Posted hours are 11 a.m.–9 p.m. Monday–Thursday and Sunday, and 11 a.m.–10 p.m. Friday–Saturday. Recheck branch hours before travelling.",
+        "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+        "quote": [
+          "Monday-Thursday 11:00 AM - 9:00 PM",
+          "Friday-Saturday 11:00 AM - 10:00 PM",
+          "Sunday 11:00 AM - 9:00 PM"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "boone-county-public-library-walton-branch.sensory.1": {
+    "text": "BCPL says Walton offers hearing loops for patrons with hearing aids or cochlear implants during programs. Confirm the room and equipment arrangements before attending.",
+    "quote": "For patrons with hearing aids or cochlear implants, the Walton Branch offers hearing loops to assist during programs, with plans to expand the service to additional locations.",
+    "reason": "Made the source's intended equipment users and program scope explicit; no room coverage or device compatibility is inferred."
+  },
+  "boone-county-public-library-hebron-branch.mobility.3": {
+    "text": "BCPL says Hebron has a computer desk that raises and lowers at the push of a button. It describes its buildings as having wide aisles and allows borrowed wheelchairs inside and on library grounds, including the Hebron Storywalk; route measurements are not supplied.",
+    "quote": [
+      "The Hebron Branch has a height-adjustable computer desk that can be raised or lowered with the press of a button, and accessible computer stations are coming soon to the Florence Branch.",
+      "Visitors can use the wheelchairs throughout our wide-aisle buildings as well as our outside property, such as the Storywalk at our Hebron location or the patio at the Walton Branch."
+    ],
+    "reason": "Attributed the unmeasured wide-aisle description and separated permission to use equipment from a measured route assessment."
+  }
+}

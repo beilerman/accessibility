@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "fort-thomas-coffee",
+    "name": "Fort Thomas Coffee",
+    "city": "Fort Thomas",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "1 Highland Avenue, Suite A, Fort Thomas, KY",
+    "website": "https://fortthomascoffee.com/",
+    "source_url": "https://fortthomascoffee.com/faq",
+    "limitations": "Current official visit and coworking information; no on-site audit. A public discussion suggested several seating options, but did not measure access. Entrance thresholds, door controls, parking-to-door route, toilets/changing facilities and table clearance remain unverified. Coworking is a paid, availability-dependent service, not a guaranteed quiet retreat. Event space descriptions do not establish personal assistance or an accessible route to every room.",
+    "facts": [
+      [
+        "cognitive",
+        "The café offers mobile ordering through its Order tab. The FAQ does not specify curbside handoff or carrying assistance; check collection arrangements before ordering.",
+        "https://fortthomascoffee.com/faq",
+        "venue_official",
+        null,
+        "Yes, we offer mobile ordering. Head to the order tab on this website, then order online. You are all set!"
+      ],
+      [
+        "cognitive",
+        "Wi-Fi and laptop use are welcome for paying customers. This is a shared café space, not a promise of quiet conditions.",
+        "https://fortthomascoffee.com/faq",
+        "venue_official",
+        null,
+        "Yes, we have Wi-Fi and are laptop friendly. Our space can be used for studying, business work, dates, meeting with friends, etc. We just ask that upon using our Wi-Fi, you are a paying customer!"
+      ],
+      [
+        "sensory",
+        "The venue describes its closed-door coworking space as quiet, but access requires a day pass ($25 advertised) or Tower Membership and is available only when the Cannon Event Suite is not rented. Walk-ins are welcome; seats may be reserved online up to one week ahead, with priority for business off-sites and event rentals.",
+        "https://fortthomascoffee.com/cowork",
+        "venue_official",
+        null,
+        [
+          "Cowork Space at FTC | $25/Day",
+          "Buy a Day Pass or become a Tower Member to access our quiet, closed-door co-work space when the Cannon Event Suite is not rented.",
+          "Walk-Ins are welcome. Seats can be reserved online up to one week in advance. Priority booking is reserved for business off-sites and event rentals."
+        ]
+      ],
+      [
+        "mobility",
+        "The meeting and event business center advertises complimentary parking and food and drink service directly to the table. This service description does not establish accessible parking bays, a step-free entrance or personal assistance; check the room and route when booking.",
+        "https://fortthomascoffee.com/connect-rentals",
+        "venue_official",
+        null,
+        "Fort Thomas Connect offers complimentary parking, exceptional hospitality, and a full food and beverage menu with direct-to-table service"
+      ],
+      [
+        "cognitive",
+        "The FAQ lists 6:30 a.m.–9 p.m. Monday–Saturday and 6:30 a.m.–2 p.m. Sunday, with 859-999-8080 for questions. Check current hours and any event arrangements before travel.",
+        "https://fortthomascoffee.com/faq",
+        "venue_official",
+        null,
+        [
+          "Monday-Saturday 6:30am-9pm",
+          "Sunday 6:30am-2pm",
+          "859.999.8080"
+        ]
+      ]
+    ]
+  }
+]

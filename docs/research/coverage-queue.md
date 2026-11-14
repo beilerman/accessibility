@@ -1,42 +1,53 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after Renaissance Festival, BCPL Main/Florence and
-Brady full reviews; AMC partial review; Whole Foods Cincinnati; one licensed
-photograph, seven original links and one refreshed guide.
+Updated November 13, 2026, after the Hebron/Scheben/Walton full reviews and
+community-led Juniper’s, Mellow Mushroom Wilder, Olla and Fort Thomas Coffee batch.
 These are research leads and questions. New facts require fresh evidence before
 they enter the public catalog.
 
-## Accuracy follow-up before large expansion
+## Latest completed batch and accuracy lane
 
-Read [the November 12 review](adversarial-accuracy-2026-11-12.md) and
-[the implemented follow-up](accuracy-follow-up-2026-11-12.md). The missing-passage
-backlog is **20 notes**, down from 27. This pass supports **31 old notes: 21
-unchanged and 10 revised**, including seven missing-evidence repairs. Four full
-reviews cover Renaissance Festival (8 old notes), BCPL Main (8), BCPL Florence (4)
-and Brady (9); AMC is partial (2 of 8). Brady is a repeat in the rolling period,
-not an additional unique weekly review. **25 new IDs** are separate growth; two
-relocate old festival food/first-aid clauses.
+Read [the batch report](bcpl-nky-dining-2026-11-13.md), canonical evidence,
+media review, catalog audit and validation receipts. Four new venues carry 19
+notes; 18 further notes deepen the three libraries. **37 new IDs** are separate
+from **16 old-note reviews: 14 unchanged / 2 revised**. Three full reviews advance
+Hebron, Scheben and Walton from November 10 to November 13; all three are repeat
+reviews within the rolling week. No partial venue review was claimed. Fort Thomas’s final calendar note retains
+November 14 Saturday adults-only-after-7-p.m. wording and November 26 Thanksgiving
+closing at 11 a.m.; check dated event/holiday restrictions alongside regular hours.
 
-**Held manual-review lane:** Heritage Village (8 missing), Molly Malone’s (4),
-AMC/IMAX (6) and Music Hall CSO (2). Heritage/Molly/AMC helper requests return 403;
-CSO returns an empty shared-session response. Eighteen notes were newly flagged,
-not verified. Whole-venue dates remain unchanged. A successful Heritage media-link
-fetch does not override the factual evidence gate. Preserve its homepage/FAQ
-winter-hours conflict and the uncertain scope of building access.
+**Evidence repairs:** eight old records gained missing branch/collection/translation/
+outdoor-use support; all 16 now have freshly bound claim/source evidence. No
+previously absent quote record was repaired: **20 notes remain missing**. Minor
+quote-span edits are not counted as new facts. Hebron’s unmeasured wide-aisle and
+Storywalk wording is attributed; Walton hearing-loop user/program scope is explicit.
+The current room table and linked October 2023 policy now distinguish branch room
+capacities, no-charge rooms, phone/in-person reservations, first-come availability,
+program priority and closing/no-show limits. Home outreach eligibility and four-to-six-
+week delivery/weather conditions remain separate from branch collection.
 
-**Next substantive existing batch: BCPL Hebron, Scheben and Walton.** Review every
-clause and deepen collection, equipment and changing-facility procedures with
-branch-specific photographs. Pair with an everyday grocery/service lead where
-location and useful access evidence are actually available. Avoid repeatedly
-spending a whole cycle on the same blocked URLs. Keep the blocked lane available
-for legitimate manual review when source access changes.
+**Photos:** nine new original links, including eight web guides (49 selected views)
+and a nine-page FY2024–25 BCPL report. Its page 7 shows Walton’s adult changing
+table/restroom and front approach. This is historical photographic context, not
+current equipment dimensions, loading/hoist/transfer support or door controls.
+Hebron’s architect gallery preserves the stepped indoor platform; Olla’s June 2021
+raised corner doorway is historical and does not rule out another entrance.
+No licensed photograph was added; 83 existing assets are unchanged.
 
-Renaissance Festival’s October 2026 guide is historical beside its 2027 calendar;
-undated premium-joust terms are not guaranteed for 2027. Brady still reports its
-nearest garage elevator out of service and gives conflicting elevator directions.
-See [the current batch report](heritage-renfest-2026-11-13.md), canonical evidence,
-media review and validation receipts. Previous Taft and Heritage Bank Center
-policy conflicts remain unresolved; do not erase them.
+Read [the November 12 accuracy review](adversarial-accuracy-2026-11-12.md) and
+[its follow-up](accuracy-follow-up-2026-11-12.md). **Held manual-review lane:**
+Heritage Village (8), Molly Malone’s (4), AMC/IMAX (6) and Music Hall CSO (2).
+These previous blocked sources were not represented as newly verified. Their
+full-review dates and flagged notes remain unchanged. Avoid spending whole cycles
+on repeated blocked fetches. Historical guides and successful media fetches do not
+override failed factual gates. Heritage winter-hours, Brady’s closed garage elevator
+and conflicting directions, Taft and Heritage Bank Center policy conflicts remain.
+
+**Next existing batch:** Newport Aquarium, Southgate House Revival and Truist Arena
+have the oldest unblocked full-review dates (November 10). Review complete note
+sets and seek arrival, companion seating, toilets/changing and assistance limits;
+pair with community-led neighborhood shopping/service growth below. A full review
+must cover every active clause, not only a new photograph or matching passage.
 
 ## Breadth
 
@@ -55,6 +66,14 @@ assistance remain unresolved. Do not re-import the older lead file.
 **COVUnity Fridge — Banklick Street is now added**, with five notes, independent
 location evidence, category/route tests and a linked original night photo. The
 fridge interior, door force, shelf reach and continuous approach remain unknown.
+
+**New public-service/photo lead: Walton Post Office.** A February 25, 2023
+[Warren LeMay Commons photograph](https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Main_Street,_Walton,_KY.jpg)
+(CC BY-SA 2.0) was visually inspected: paired entrance doors, pull handles, front
+concrete apron beside asphalt, yellow curb and collection boxes. Verify current
+USPS location, service/collection procedures and entrance details before listing;
+no dimensions, powered opening or continuous parking route are established. The
+photo is held, not yet imported. See the latest media receipt.
 
 Concrete next everyday lead: **Kroger Latonia, 4303 Winston Avenue, Covington**.
 Fresh store/location fetches timed out; the generic pickup FAQ was readable but
@@ -83,8 +102,8 @@ See `heritage-renfest-2026-11-13-clifton-lead.json`.
 delivery notes at 82 Carothers Road. Physical arrival, collection bay and in-store
 access remain unknown; no trunk-loading or indoor carrying service is inferred.
 
-The prepared catalog has 160 places: 32 arts venues, 31 parks/outdoors, 21 museums/
-attractions, 15 libraries, seven transport, sixteen food/drink, sixteen shopping,
+The prepared catalog has 168 places: 32 arts venues, 31 parks/outdoors, 21 museums/
+attractions, 15 libraries, seven transport, 24 food/drink, sixteen shopping,
 twelve public-service and ten recreation/fitness listings. Continue seeking
 concrete access information for everyday activities and less represented neighborhoods.
 
@@ -1739,12 +1758,29 @@ references and known differences; never infer route facts or erase a barrier.
 Brad requested more venues and message-board/Reddit research. Read
 [the recurring candidate queue](community-venue-discovery-2026-11-13.json) and
 [the first community-led expansion report](community-venues-2026-11-13.md).
-Four listings are prepared: Element Eatery, Schoolhouse Restaurant, Fretboard
-Blue Ash and Wabi Sabi Covington, with current official notes and separate
-qualified community accounts. Twenty-seven further named leads remain staged.
-Prioritize Northern Kentucky examples such as Junipers, Olla, El Ocho Loco,
-Mellow Mushroom Wilder and the Alexandria/Newport restaurant leads alongside
-Brink, Little Miami, Streetside, Mitas and the Mariemont restaurants.
+Eight community-led listings are now prepared across the November 13 batches:
+Element Eatery, Schoolhouse, Fretboard Blue Ash, Wabi Sabi, Juniper’s, Olla,
+Mellow Mushroom Wilder and Fort Thomas Coffee. The queue has **37 candidates,
+8 added and 29 remaining**; six new names came from the December 2024 reading-place
+thread. Four separately attributed reports were added this pass (three forum
+comments and one historical tourism visit); Mellow is only a named community lead.
+
+Next concrete breadth leads: The Hidden Chapter Bookstore in Fort Thomas and
+Roebling Books & Coffee in Dayton (now branded Outsiders by Roebling), followed by
+Northwood Cider and Fabled Brew Works. The current official Roebling site distinguishes
+Dayton’s format/hours from Covington/Newport; October silent-book-club events were
+at Newport. Do not import the 2024 café account as post-reopening layout evidence.
+Hidden Chapter’s official site is a title-only JavaScript shell; its reported
+“accessibility” commitment concerns book affordability. Third-party wheelchair
+labels do not prove a route. Somerset’s weeknight quiet account must stay alongside
+weekend/DJ crowding reports. El Ocho Loco has conflicting restaurant-branded phone
+numbers and unrelated template copy; resolve authority/collection before import.
+Continue groceries/public services/recreation to balance the 24 food listings.
+
+Fort Thomas’s official Matterport tour remains a useful arrival/toilet/room lead
+for a functioning browser host: https://my.matterport.com/show/?m=hZqLJd3d9kk.
+It has not been interactively inspected or imported as a guide. Linked coworking
+photography and paid booking/event-priority rules are separate verified material.
 
 Confirm exact locations/current operation, entrance and table arrangements,
 toilets, sensory conditions, arrival and photographs. The 2024 Moerlein name and

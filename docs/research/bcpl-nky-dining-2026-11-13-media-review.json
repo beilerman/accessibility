@@ -1,0 +1,1680 @@
+{
+  "checkedAt": "2026-11-13",
+  "reviewedAtUtc": "2026-11-14T00:34:50.356952+00:00",
+  "initialGuideCheckFailure": "Visit Cincy returned HTTP 403 with generic Mozilla user agent; original identified Threshold research fetch and web source reader were readable. Final checks below use the identified research user agent.",
+  "newLicensedPhotographs": 0,
+  "newGuides": 9,
+  "webGuideImageCount": 49,
+  "webCandidateFilesScreened": 133,
+  "candidateCountCaveat": "Includes duplicate views, logos, posters, collages and food-only images; not a count of unique access photographs.",
+  "linkedGuideChecks": [
+    {
+      "guideId": "bcpl-hebron-hbm-photo-gallery",
+      "url": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "status": 200,
+      "finalUrl": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 1248710,
+      "sha256": "d7f9a5036c9941042b7d41bbe3c15e8193202430324de4501dad0abae3afdb0f"
+    },
+    {
+      "guideId": "bcpl-scheben-branch-entrance-photo",
+      "url": "https://www.bcpl.org/locations/scheben",
+      "status": 200,
+      "finalUrl": "https://www.bcpl.org/locations/scheben",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 52310,
+      "sha256": "5f16c6296073e6852e9d2f23ea48e357675b3864acf85b05d17d53db5ee9fc4f"
+    },
+    {
+      "guideId": "bcpl-walton-engineer-photo-gallery",
+      "url": "https://www.brownkubican.com/bcpl-waltonbranch",
+      "status": 200,
+      "finalUrl": "https://www.brownkubican.com/bcpl-waltonbranch",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 1622509,
+      "sha256": "18c5d3ec2a090394e6ae527c6e056fc83b7fcd05afcf4c03e678da834e2b7b66"
+    },
+    {
+      "guideId": "mellow-wilder-official-photo-gallery",
+      "url": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "status": 200,
+      "finalUrl": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "contentType": "text/html; charset=UTF-8",
+      "bytes": 315512,
+      "sha256": "874246f8e52896ba14c5d2666932ac6d2bdf2878f0259c5d3f85be20077ef42f"
+    },
+    {
+      "guideId": "junipers-reservation-lounge-photo",
+      "url": "https://www.junipersginbar.net/reservations-20",
+      "status": 200,
+      "finalUrl": "https://www.junipersginbar.net/reservations-20",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 661273,
+      "sha256": "d23e7ef07c10e8e5ec90e2e11a397b42b1939580d1c35c21fb56d38cf805a5cc"
+    },
+    {
+      "guideId": "junipers-homepage-table-photo",
+      "url": "https://www.junipersginbar.net/",
+      "status": 200,
+      "finalUrl": "https://www.junipersginbar.net/",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 258545,
+      "sha256": "354d53f11a3555205e1245a8841a05cac06b4d1f55e5ea552cebee05f3b39681"
+    },
+    {
+      "guideId": "olla-2021-tourism-visit-photos",
+      "url": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
+      "status": 200,
+      "finalUrl": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 295603,
+      "sha256": "4f096e6ba074b0658f71f00385d35b9649b48c1441b2497d81137f2634a6f239"
+    },
+    {
+      "guideId": "fort-thomas-coffee-cowork-room-photo",
+      "url": "https://fortthomascoffee.com/cowork",
+      "status": 200,
+      "finalUrl": "https://fortthomascoffee.com/cowork",
+      "contentType": "text/html;charset=utf-8",
+      "bytes": 97311,
+      "sha256": "b05e33b42e05089e7fc7a9cc3802910ca9c88bdf5f84fd3f3c11dcfefdf5983f"
+    },
+    {
+      "guideId": "bcpl-walton-2024-25-restroom-photo-report",
+      "url": "https://www.bcpl.org/media/711",
+      "status": 200,
+      "finalUrl": "https://www.bcpl.org/media/711",
+      "contentType": "application/pdf",
+      "bytes": 14534815,
+      "sha256": "e7100c2267a62c49292a268f5d32669391ff1d79659110a92f6029d5410f8321"
+    }
+  ],
+  "visualReviewGroups": [
+    {
+      "ids": [
+        "hbm-3",
+        "hbm-4",
+        "hbm-6",
+        "hbm-7",
+        "hbm-8",
+        "hbm-9",
+        "hbm-10",
+        "hbm-11",
+        "hbm-12",
+        "hbm-13",
+        "hbm-14",
+        "hbm-15",
+        "hbm-16",
+        "hbm-17",
+        "hbm-18",
+        "hbm-19",
+        "hbm-20",
+        "hbm-21",
+        "hbm-22",
+        "hbm-23",
+        "hbm-24",
+        "hbm-25",
+        "hbm-26",
+        "hbm-27",
+        "hbm-28",
+        "hbm-29",
+        "hbm-30"
+      ],
+      "result": "Linked 27 actual project views. hbm-29 shows parking/curb transition; hbm-20 shows a raised indoor platform with steps. Other views cover entrance frontage, information desk, shelf aisles, glass room doors, seating and patio. Future-tense design prose is not current operations or bus-service evidence; no licensed reuse."
+    },
+    {
+      "ids": [
+        "mellow-2",
+        "mellow-3",
+        "mellow-4",
+        "mellow-5",
+        "mellow-6",
+        "mellow-7",
+        "mellow-8",
+        "mellow-9",
+        "mellow-10",
+        "mellow-11",
+        "mellow-12",
+        "mellow-13"
+      ],
+      "result": "Linked 11 venue photos; excluded catering poster. Host/entry area, tables/booths/high stools, colorful lighting, patio/fireplace and snow in exterior view. Publisher entrance label does not establish an exterior door or measurements."
+    },
+    {
+      "ids": [
+        "scheben-1",
+        "hebron-1",
+        "walton-1",
+        "commons-scheben"
+      ],
+      "result": "Scheben official wide frontage view linked. Hebron/Walton frontage images alone were superseded by deeper galleries. Commons Scheben rear facade (Mhuy222, December 31 2019, CC BY-SA 4.0) inspected and not republished: does not show useful arrival/entry continuity. Union Kentucky category and photographer page followed; no better documented licensed route photograph selected."
+    },
+    {
+      "ids": [
+        "bk-walton-2",
+        "bk-walton-3",
+        "bk-walton-4",
+        "bk-walton-6",
+        "omni-0",
+        "omni-1",
+        "omni-2",
+        "omni-3",
+        "omni-4",
+        "omni-news-0",
+        "omni-news-1"
+      ],
+      "result": "Three Brown + Kubican ground-level views selected: front approach with bollards, service desk, exterior seating. Roof view excluded; credited Frank Doring, project 2024, capture unknown. Omni candidates include logos, non-Walton project cards and people-focused views; no extra guide. No reuse licence found."
+    },
+    {
+      "ids": [
+        "junipers-2",
+        "junipers-reserve-2"
+      ],
+      "result": "Both original venue photographs linked. Long table/bar stools and low lounge table with closely surrounding chairs, sofa, rugs and piano. No entrance or toilet proof; furniture movement and route clearance remain questions."
+    },
+    {
+      "ids": [
+        "olla-4",
+        "olla-5",
+        "olla-6",
+        "olla-legacy-gallery-38",
+        "olla-legacy-gallery-48",
+        "olla-legacy-gallery-52",
+        "olla-legacy-gallery-54",
+        "olla-everything-14",
+        "olla-everything-15",
+        "olla-everything-18",
+        "olla-original-4",
+        "olla-original-5",
+        "olla-original-6",
+        "olla-original-13"
+      ],
+      "result": "Current site carousel is food-only. Legacy Squarespace gallery contains screenshots, old promotions, people-focused exterior and limited bar image, so no guide selected. Everything Cincy images led to the original June 25 2021 Visit Cincy/meetNKY account; four original images inspected and linked: raised corner doorway with railings, room seating, window-counter passage, covered patio. No current alternative-entrance or winter-operation inference. Tourism image URLs from the Kentucky listing returned 403 and were not inspected."
+    },
+    {
+      "ids": [
+        "fort-gallery-0",
+        "fort-gallery-1",
+        "fort-gallery-2",
+        "fort-gallery-3",
+        "fort-gallery-4",
+        "fort-gallery-5",
+        "fort-gallery-6",
+        "fort-gallery-7",
+        "fort-gallery-8",
+        "fort-gallery-9",
+        "fort-gallery-10",
+        "fort-gallery-11",
+        "fort-gallery-12",
+        "fort-gallery-13",
+        "fort-gallery-14",
+        "fort-gallery-15",
+        "fort-gallery-16",
+        "fort-gallery-17",
+        "fort-gallery-18",
+        "fort-gallery-19",
+        "fort-gallery-20",
+        "fort-gallery-21",
+        "fort-gallery-22",
+        "fort-gallery-23",
+        "fort-gallery-24",
+        "fort-gallery-25",
+        "fort-gallery-26",
+        "fort-gallery-27",
+        "fort-gallery-28",
+        "fort-gallery-29",
+        "fort-gallery-30",
+        "fort-gallery-31",
+        "fort-gallery-33",
+        "fort-gallery-34",
+        "fort-gallery-35",
+        "fort-gallery-36",
+        "fort-gallery-37",
+        "fort-gallery-38",
+        "fort-gallery-39",
+        "fort-gallery-40",
+        "fort-gallery-41",
+        "fort-gallery-42",
+        "fort-gallery-43",
+        "fort-gallery-44",
+        "fort-gallery-45",
+        "fort-gallery-46",
+        "fort-gallery-47",
+        "fort-gallery-48",
+        "fort-gallery-49",
+        "fort-rentals-0",
+        "fort-rentals-1",
+        "fort-rentals-2",
+        "fort-rentals-3",
+        "fort-rentals-4",
+        "fort-cowork-0",
+        "fort-cowork-1",
+        "fort-cowork-2",
+        "fort-rules-0",
+        "fort-rules-1"
+      ],
+      "result": "59 candidate files screened, including logos, collages, food and people-focused social views. Selected only the unoccupied coworking room photo (fort-cowork-2) for the guide: freestanding tables/chairs, banquette, high counter/stools, drinks counter and doors. No measured clearance or sound-level inference. Rules graphic was visually read but not imported as a source_checked factual note: quiet-hours/playhouse scope is not whole-café quiet, and live-music calendar differs. Official Matterport embed identified but not interactively inspected because browser host unavailable."
+    },
+    {
+      "ids": [
+        "bcpl-storywalk-2",
+        "bcpl-storywalk-3"
+      ],
+      "result": "Storywalk graphic/photo composite and logo inspected; no documentary route image or length/gradient claim selected."
+    }
+  ],
+  "pdfReviews": [
+    {
+      "sourceUrl": "https://www.bcpl.org/sites/default/files/content/policies/policy-study-room.pdf",
+      "pages": 2,
+      "bytes": 126256,
+      "sha256": "92caa4cebcb261857d4a0754be11cd75dfba748ef4ba199e06e11ac7c65b6b75",
+      "visualReview": "Both pages rendered and visually inspected. Approved October 2023, currently linked; no-charge branch tables and first-come/reservation limitations separately fetched. No photo guide for this text policy."
+    },
+    {
+      "sourceUrl": "https://www.bcpl.org/media/711",
+      "pages": 9,
+      "bytes": 14534815,
+      "sha256": "e7100c2267a62c49292a268f5d32669391ff1d79659110a92f6029d5410f8321",
+      "visualReview": "All nine PDF pages rendered and visually inspected; many are two-page spreads. Page 7 Walton entrance and labeled restroom/table, courtyard, EV and BIL images inspected, including five embedded images at native resolution. Restroom shows padded table, two toilets and grab rails; no dimensions, load limit, adjustment/hoist, transfer-help or current-condition inference. Source report remains external. Metadata January 29 2026; fiscal year 2024–25; exact captures unknown."
+    }
+  ],
+  "candidates": [
+    {
+      "id": "hbm-3",
+      "url": "https://static.wixstatic.com/media/eb681a_c0b9afe50f934ccca195a117fa333054~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 1012436,
+      "sha256": "e4aec2d258364cc17b5ea18797cdc26e79c065b59c32298203574506e9d521d4",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-4",
+      "url": "https://static.wixstatic.com/media/eb681a_1d3c3710fc354aee9be094c096431ff5~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 1129906,
+      "sha256": "6296b3e24d2c6d09c39e8da75fff9b04c8ba62b00b43f3dd1994337afe3880f2",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-6",
+      "url": "https://static.wixstatic.com/media/eb681a_fe3aaa3e1aa54f18aa3c8eeba7ad16c4~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 956340,
+      "sha256": "d13cdf96a66794162854da9e359f935d9dec3e14dd5b5d31ea01e7c63b17cfc8",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-7",
+      "url": "https://static.wixstatic.com/media/eb681a_d7dc1dffa3454a51ac6af0158468acb7~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 654222,
+      "sha256": "537803aa03076800371341449e4aab692aefcc4dbb1e554d0590d7383861c539",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-8",
+      "url": "https://static.wixstatic.com/media/eb681a_70c1279a6ff54c69acfa32a2c08f1901~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 682475,
+      "sha256": "4351fe8b3f9833fa6b370aeaa887a75e873bdafda890744b46acfcc3eac5e483",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-9",
+      "url": "https://static.wixstatic.com/media/eb681a_2c5f1369f0794c74b4665e389b8f763b~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 824991,
+      "sha256": "90ad2a96649c4f5141740fc72cd7bdd74bcdcebfa97f21fa838c2a85edb20adf",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-10",
+      "url": "https://static.wixstatic.com/media/eb681a_1e6e1da3249f4cbbb16de608aff40d64~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 924201,
+      "sha256": "b857d40874d6988ccecb8e518189798da81c7fd2c96a5d9825369111d09c7095",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-11",
+      "url": "https://static.wixstatic.com/media/eb681a_2f064375bc354b2b900b847d3b9d4ba4~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 1041748,
+      "sha256": "d90a5bb5a10ddee82c61285d3e55046d206edf3dc6c19642f75112da1a8cdc9b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-12",
+      "url": "https://static.wixstatic.com/media/eb681a_c0b7a2f39dc6478ab0280d8e4732fa6f~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 854291,
+      "sha256": "80dfdea3eb61945d59a0eaa74c0813f9e1da70bbfb573922ead0d51c1bbf61d4",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-13",
+      "url": "https://static.wixstatic.com/media/eb681a_204ff1f03aac49b3b9c2c6e9fe886486~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 568605,
+      "sha256": "bd3f2284fa555e30099b0760306e2fad432a5445feb36e181444eaa76a385137",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-14",
+      "url": "https://static.wixstatic.com/media/eb681a_3b490e3bf75c44b2b3775d5ccd61f34e~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 913518,
+      "sha256": "d108bc6dd02dde1f75eaca28336a32b1c4f25b556d2b2ccb3b938cc4ca9acf13",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-15",
+      "url": "https://static.wixstatic.com/media/eb681a_b528307c1f1b4623910916afe13fdd60~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 973076,
+      "sha256": "23afa08d6947e0524c8ad01cce86181667e084f608ea0353828e3a299c5b7c3f",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-16",
+      "url": "https://static.wixstatic.com/media/eb681a_122fe2b7da374d07a566b4379e3cccab~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 1040820,
+      "sha256": "c8b9b6b138496e61f985be5be1cdc76901e1e3ada136a8d28ceda82228978259",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-17",
+      "url": "https://static.wixstatic.com/media/eb681a_575f07eb225e4a6286ed63488c9b32ec~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 797282,
+      "sha256": "bb487fda6c33adb0527a43b04fc8532e956cc22f8e552d8dfc7d562baa7bda00",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-18",
+      "url": "https://static.wixstatic.com/media/eb681a_00cd62970848458cb4598e29ce8b8612~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 876220,
+      "sha256": "65e478ed31514adfd2131a1c772601f4aee1cea13b3ab0844aad927f50f3db3f",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-19",
+      "url": "https://static.wixstatic.com/media/eb681a_ed5fc33c570f42199ecef26d85dbe887~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 1141802,
+      "sha256": "d12ff9db8500d3db4e37a5ad6eb554d2339a68cf7b9391157cc2634b20e7e74e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-20",
+      "url": "https://static.wixstatic.com/media/eb681a_85eea6c59c2f42c49d0d0adde49b9db3~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 760491,
+      "sha256": "b8496b8789efa25738650e464944b959dbc8a597e2e5d74e31b5b52ad527c5f0",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-21",
+      "url": "https://static.wixstatic.com/media/eb681a_ad3d3b38c70344db860f977f6cf99802~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 1123354,
+      "sha256": "63482d853dba59140efb973b473a1a7755ba28e8159f02cc76a6b4c402af8f05",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-22",
+      "url": "https://static.wixstatic.com/media/eb681a_02d6353b1eed453f8e676544dfee165e~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 591227,
+      "sha256": "963431db1e9f9cc33d62bd62c2c6f0d59ee189a9e8eaab26b626d53974ae3097",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-23",
+      "url": "https://static.wixstatic.com/media/eb681a_ea89d8e6b97c45ffaa74d8221dade4c5~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 849539,
+      "sha256": "392bd715b0ed0fa2b868dda92c5a7f966240fa6e442146e1787a2c3dfad51aa0",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-24",
+      "url": "https://static.wixstatic.com/media/eb681a_851a0eeb2a444d5499c70536a7300e91~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 892077,
+      "sha256": "d30cc68f53c91d6bbbe49b3d53ac45279863059fe63adddcecb64da12915dd15",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-25",
+      "url": "https://static.wixstatic.com/media/eb681a_c7051b36043e42f8afff0121ae13ef75~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 902505,
+      "sha256": "71ac860369e8c0cca32c79710ff403f116f95472db645fb57c6fe6209603c8c6",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-26",
+      "url": "https://static.wixstatic.com/media/eb681a_d59ff5c686fe4da0975b879eee6a276d~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 670363,
+      "sha256": "a1274694ac74d12160f9824d1da1678c21aac63c3bd1997b2091f7c7af8576b6",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-27",
+      "url": "https://static.wixstatic.com/media/eb681a_36d06e72748041e880c73845682d9e4a~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 478095,
+      "sha256": "a477f3ea9558e68ecd39a56d12501c49f898454b6d5e37c7638b5dae21494eda",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-28",
+      "url": "https://static.wixstatic.com/media/eb681a_762b103f8ab74261b705bbe0517a067c~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 553039,
+      "sha256": "ab2d807b68dff6bf5ef40e1d70a705af645586ae7d3a40473b52c9968332048e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-29",
+      "url": "https://static.wixstatic.com/media/eb681a_2c348e6d405e49818151eedbf10d4ada~mv2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 558035,
+      "sha256": "d22ce657aadf06ca4dc200e3204e441510da67b1b1dda1d218da314c3b4bf8b2",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hbm-30",
+      "url": "https://static.wixstatic.com/media/eb681a_a1e9b799ecd742b5a5caad5f14cc2017~mv2_d_1920_1280_s_2.jpg",
+      "source": "https://www.hbmarchitects.com/libraries-portfolio/hebron-branch/boone-county-public-library",
+      "alt": "",
+      "status": 200,
+      "bytes": 704885,
+      "sha256": "1c89266792dddce4d38be6d212091a7b28aaa99648f6743d8818c88909d458fd",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-2",
+      "url": "https://a.mktgcdn.com/p/P7biCSXggKp2JXQ4-ljfy4iF4iMoSjfvVqXjwF-SUgY/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER host stand",
+      "status": 200,
+      "bytes": 889912,
+      "sha256": "3fb6e20925e080aa76257438fa58dfcb8885e223284a37ef56a5e3c05f925206",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-3",
+      "url": "https://a.mktgcdn.com/p/rTBOMPJt_3AhCIjnSjeuIvmtrly-QeE6iG5-QEU3FJY/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER dining room",
+      "status": 200,
+      "bytes": 843475,
+      "sha256": "ad304e30f26dff70210888e74a37ae22f9adae5cbe41e13a886e7e4045371496",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-4",
+      "url": "https://a.mktgcdn.com/p/EZCSyBeQEWYIdCyEJMb9kFeVSyAJitymbZUCFHXnDrA/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER entrance",
+      "status": 200,
+      "bytes": 848694,
+      "sha256": "119092c81790116608742c8424c6fd9057954b20098adca66d95021475e70eb0",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-5",
+      "url": "https://a.mktgcdn.com/p/pZoRLd5jWzJXXW7Tb_TNic1VSIaMva_NiMVO6MQHyuQ/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER exterior with snow and Mel (mascot) statue",
+      "status": 200,
+      "bytes": 956718,
+      "sha256": "a59a112dde635b32575d6ed36ff4cd89cd5548868cbdafcd88c54ee8c407cae4",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-6",
+      "url": "https://a.mktgcdn.com/p/jU0kVCXGnc8BSEb-p4D0aLMe-fOeQHxUO_2i2-Jlo7M/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER dining room",
+      "status": 200,
+      "bytes": 761076,
+      "sha256": "8d4d245425c69dcf014846fea780f468b31ef9f39e407c543bfda2dbe265a3b3",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-7",
+      "url": "https://a.mktgcdn.com/p/cX_k_8WdjGgiwJyEAJ8yCVSH9aNtsD2sOGqryTHYSuI/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER art made out of recycled straws",
+      "status": 200,
+      "bytes": 1087598,
+      "sha256": "717fe4ffc59d8c6822c09c84009f32095487f5a36db03dac386aabc931d84ae2",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-8",
+      "url": "https://a.mktgcdn.com/p/9BauAPyQdP7mEzhMI_0jKx1IxT71inUylAfaclyx1sk/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER patio",
+      "status": 200,
+      "bytes": 929716,
+      "sha256": "f416ae00fc9074fee613384c23fd232b1d48c53ef58a75329407da725cb1d6c9",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-9",
+      "url": "https://a.mktgcdn.com/p/SUzBaq2eq4y1GhCyegQTLOsF0wBIkyiZNHkVYoBRaXo/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER dining room",
+      "status": 200,
+      "bytes": 914959,
+      "sha256": "494cc16aad9eab8cb51a10b27a04132ceb05d30048932899347915628051697a",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-10",
+      "url": "https://a.mktgcdn.com/p/MIoSYzu5hRQqobc7Cjz82UIVr94LdhXyb0l7tAljMZA/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER patio and fireplace with batman statue",
+      "status": 200,
+      "bytes": 1034263,
+      "sha256": "308a12633bb985142aa1b73b0a3cfcd94215afde0b7615f26f497bb409633190",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-11",
+      "url": "https://a.mktgcdn.com/p/Rjs8LtB5Nyl2jaOU_wg7BU3rEpDuF-UkliaQmNYOt0I/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER bar",
+      "status": 200,
+      "bytes": 1161505,
+      "sha256": "463b3c2ed0793729768da394ff083b054deb1290ee17e52496269098d60eb742",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-12",
+      "url": "https://a.mktgcdn.com/p/6fcgh_jR5jJY7PbnKaxSE4E03d2PXXfeLB4NM_V3uYA/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER dining room",
+      "status": 200,
+      "bytes": 1100799,
+      "sha256": "e9f72087f8d1e63258ecf6e729ac52138134dddd8f5d77de2c1e0d33f577b980",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "mellow-13",
+      "url": "https://a.mktgcdn.com/p/bErF4ihGnHRk85r-k7HodpiRO2b4HXS29AOFfQG4IU4/4096x2730.jpg",
+      "source": "https://www.mellowmushroom.com/locations/ky/wilder/1014-town-dr/",
+      "alt": "MELLOW MUSHROOM WILDER catering poster",
+      "status": 200,
+      "bytes": 1020460,
+      "sha256": "6c4ac5e228469c7464f39afe93b1e87698913b66f81d74b6f403857d01b8214e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "hebron-1",
+      "url": "https://www.bcpl.org/sites/default/files/2023-06/hebron.jpg",
+      "source": "https://www.bcpl.org/locations/hebron",
+      "alt": "Hebron Branch building",
+      "status": 200,
+      "bytes": 341635,
+      "sha256": "b14f730ee1f08842e24f548b1c92dc409aa01de577d21d8ae7c5d29d7adbae74",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "scheben-1",
+      "url": "https://www.bcpl.org/sites/default/files/2023-06/scheben.jpg",
+      "source": "https://www.bcpl.org/locations/scheben",
+      "alt": "Scheben Branch building",
+      "status": 200,
+      "bytes": 471584,
+      "sha256": "4997899096d694b9c71b5b82937146706d4e7d1bc73ec1e6ae039586b973e6cf",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "walton-1",
+      "url": "https://www.bcpl.org/sites/default/files/2024-08/walton-1200x400.jpg",
+      "source": "https://www.bcpl.org/locations/walton",
+      "alt": "Walton Branch - 13000 Towne Center Dr",
+      "status": 200,
+      "bytes": 107178,
+      "sha256": "eca2077b70240d21187697d25fff9d9e0c633a8575d9a17cedbf2ac963fb7b14",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "junipers-2",
+      "url": "https://images.squarespace-cdn.com/content/v1/64679f7e751430310362b2ed/1330e6d9-de5a-487f-8bb3-b591972af1ef/Bar+%26+C+Table.jpg",
+      "source": "https://www.junipersginbar.net/",
+      "alt": "",
+      "status": 200,
+      "bytes": 249957,
+      "sha256": "29512a9805cd94aef1098ef1f6c5f92a73105ed9ebc9995e8b2d1932f8cb4bf6",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "junipers-reserve-2",
+      "url": "https://images.squarespace-cdn.com/content/v1/64679f7e751430310362b2ed/83cd6e22-21fb-4dcc-96df-33fbcfecb6d8/Gin%26Blossoms2025-11.jpg",
+      "source": "https://www.junipersginbar.net/reservations-20",
+      "alt": "",
+      "status": 200,
+      "bytes": 695043,
+      "sha256": "cd4b4f9737944ba3689535dc25facf50f0caab53d7800ad055c787870fdf0a20",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "omni-0",
+      "url": "https://cdn.prod.website-files.com/66cf73dd6700d082db1126df/66d6875ded2dbcdd8b95370b_Omni%20Logo%20-%20Equal%20Gaps.svg",
+      "source": "https://www.omniarchitects.com/projects/boone-county-public-library---boone-county",
+      "alt": "",
+      "status": 200,
+      "bytes": 8126,
+      "sha256": "fb4f26239e2fb07cb6095212e3b0a4fc639b2cf008b38ba2d8eeecbfcdddc4a1",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "omni-1",
+      "url": "https://cdn.prod.website-files.com/66d7d5d91453caa5517b43fb/67acf0f92a64c5ce4a689171__Z629168-Edit.avif",
+      "source": "https://www.omniarchitects.com/projects/boone-county-public-library---boone-county",
+      "alt": "",
+      "status": 200,
+      "bytes": 134187,
+      "sha256": "6c865849a63e5970629dd4edba3bd8aa81930ea6292fc3683b175e1119da3990",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "omni-2",
+      "url": "https://cdn.prod.website-files.com/66d7d5d91453caa5517b43fb/66f45dc2b5bd923fd7363688_Boone%20Library%20Process%20(11).avif",
+      "source": "https://www.omniarchitects.com/projects/boone-county-public-library---boone-county",
+      "alt": "",
+      "status": 200,
+      "bytes": 242733,
+      "sha256": "bb2a638dbf8edec5e5748f003917ec906222fa837c4b0a37518cdff4ab59573b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "omni-3",
+      "url": "https://cdn.prod.website-files.com/66d7d5d91453caa5517b43fb/67a50f25c94b240cc84e9818_ULext2.avif",
+      "source": "https://www.omniarchitects.com/projects/boone-county-public-library---boone-county",
+      "alt": "",
+      "status": 200,
+      "bytes": 212089,
+      "sha256": "86c8b5336c748ef1a246e57fae52a470774d7d7cc19af10c3e8bd8d57d53044c",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "omni-4",
+      "url": "https://cdn.prod.website-files.com/66d7d5d91453caa5517b43fb/67894cba3cb8a0ec4e440a5d__Z843566-HDR-Edit-medium.avif",
+      "source": "https://www.omniarchitects.com/projects/boone-county-public-library---boone-county",
+      "alt": "",
+      "status": 200,
+      "bytes": 19027,
+      "sha256": "d76dd9ae327c47a2165f0aff58e43bb3413b50f8776963d19556c7014905982d",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "omni-news-0",
+      "url": "https://cdn.prod.website-files.com/66cf73dd6700d082db1126df/66d6875ded2dbcdd8b95370b_Omni%20Logo%20-%20Equal%20Gaps.svg",
+      "source": "https://www.omniarchitects.com/news/boone-county-public-library-walton-branch-receives-iida-honor-award",
+      "alt": "",
+      "status": 200,
+      "bytes": 8126,
+      "sha256": "fb4f26239e2fb07cb6095212e3b0a4fc639b2cf008b38ba2d8eeecbfcdddc4a1",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "omni-news-1",
+      "url": "https://cdn.prod.website-files.com/66d7d5d91453caa5517b43fb/698f76c951500690f033f70f__Z843737-Edit-no%20candy.jpg",
+      "source": "https://www.omniarchitects.com/news/boone-county-public-library-walton-branch-receives-iida-honor-award",
+      "alt": "",
+      "status": 200,
+      "bytes": 2363972,
+      "sha256": "46fe667b9406dc45aab8f3c8c971bce882d0632d6aba4fe0aea6b085a6e2fa2d",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "bcpl-storywalk-2",
+      "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2021/04/Storywalk-2.jpg?resize=616%2C411&ssl=1",
+      "source": "https://bcplundiscovered.org/storywalks/",
+      "alt": "",
+      "status": 200,
+      "bytes": 64663,
+      "sha256": "450cdcc92b98b7a143337075851eecd7ea82c8ac08b81d023a08407ddaf27038",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "bcpl-storywalk-3",
+      "url": "https://i0.wp.com/bcplundiscovered.org/wp-content/uploads/2021/04/Storywalk-3.jpg?resize=616%2C411&ssl=1",
+      "source": "https://bcplundiscovered.org/storywalks/",
+      "alt": "",
+      "status": 200,
+      "bytes": 64633,
+      "sha256": "14769a905a27d441d2cf327cec9b655ea64e9358d997656476631b47c0b7b27d",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "commons-scheben",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Boone_County_Public_Library_-_Scheben_Branch.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Boone_County_Public_Library_-_Scheben_Branch.jpg",
+      "status": 200,
+      "bytes": 1435783,
+      "sha256": "7e6d151b38d11aaa9e6ab587e1e772aa605e4e6203254492d69e14b662bcbca8",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "bk-walton-2",
+      "url": "https://static.wixstatic.com/media/a20112_6b7c311d43f24c14889fe554f0fd9fe7~mv2.jpg",
+      "source": "https://www.brownkubican.com/bcpl-waltonbranch",
+      "bytes": 912534,
+      "status": 200,
+      "sha256": "385053f374c21f8cd9832f90579fff727e9d8550c8ea79f56d90cd63c892325c",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "bk-walton-3",
+      "url": "https://static.wixstatic.com/media/a20112_ed3f04c5ec16479489e8abca173e1c44~mv2.jpg",
+      "source": "https://www.brownkubican.com/bcpl-waltonbranch",
+      "bytes": 755392,
+      "status": 200,
+      "sha256": "fdbde3b2f8f2c75eb6ec0c1b5997abae8098be706cc8c2db7bf385ea04319795",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "bk-walton-4",
+      "url": "https://static.wixstatic.com/media/a20112_823f0a8361c645d682ef9bda14f7841f~mv2.jpg",
+      "source": "https://www.brownkubican.com/bcpl-waltonbranch",
+      "bytes": 984318,
+      "status": 200,
+      "sha256": "0e947e0d50eea2ea4c6376ec020ac151082ee06d971bec5a8ddfa417696e2ddc",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "bk-walton-6",
+      "url": "https://static.wixstatic.com/media/a20112_af0782f87fa640db92856b667a55a708~mv2.jpg",
+      "source": "https://www.brownkubican.com/bcpl-waltonbranch",
+      "bytes": 870869,
+      "status": 200,
+      "sha256": "429460cd23b49a43bd526b4271c5b6a48a137a3095cb8fbff50862fc9addd06b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-4",
+      "url": "https://cdn.spotapps.co/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/8a/c4f76fbd724ef7b38003f979836e02/:original",
+      "source": "https://ollacov.com/",
+      "bytes": 425249,
+      "status": 200,
+      "sha256": "302f8adab3f9e61cbd78069277fe8eaaa93eee7907d23d0c148cef179a75e9f3",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-5",
+      "url": "https://cdn.spotapps.co/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/ae/1bac4a431e4943806d9730cd9483e9/:original",
+      "source": "https://ollacov.com/",
+      "bytes": 127968,
+      "status": 200,
+      "sha256": "f236b0f855256442bcc1635a35c3d2b0cb46cfd5b3764293576b11c836b4290b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-6",
+      "url": "https://cdn.spotapps.co/spothopper/image/fetch/f_auto,q_auto:best,c_fit,h_1200/http://static.spotapps.co/spots/9f/492c950d764480abdd0380514a41a8/:original",
+      "source": "https://ollacov.com/",
+      "bytes": 267132,
+      "status": 200,
+      "sha256": "1c7cb8c02d3037884ebff191d9381ff3a88886c5d4844ad1f39b2300e8db466b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-legacy-gallery-38",
+      "url": "https://images.squarespace-cdn.com/content/v1/655c03d9126d5b057b0b4d78/1701646020496-5DUHYMA6WDF6R1UEZ4T9/IMG_8362.jpg",
+      "status": 200,
+      "bytes": 571405,
+      "sha256": "cf89976eecd29599dbd829bf2e01a4f2e722464a1e9db40a88d68b3d495a06fa",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-legacy-gallery-48",
+      "url": "https://images.squarespace-cdn.com/content/v1/655c03d9126d5b057b0b4d78/1701646016670-EZIVSYC9ZNEYL6ISNT0G/IMG_8385.jpg",
+      "status": 200,
+      "bytes": 1427598,
+      "sha256": "13cf3cd1036a52a745772d14f763fa0e3847d4ca8cc4cb0f4b6e299da9338562",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-legacy-gallery-52",
+      "url": "https://images.squarespace-cdn.com/content/v1/655c03d9126d5b057b0b4d78/1701646009096-U9CD3TKL1DIP6K0MZ5IL/IMG_8152.jpg",
+      "status": 200,
+      "bytes": 1189490,
+      "sha256": "127c21fe9d073ef02fce2e82529c7004f92be989b26319986e3bd2974d763aaf",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-legacy-gallery-54",
+      "url": "https://images.squarespace-cdn.com/content/v1/655c03d9126d5b057b0b4d78/1701646006313-KLB16NRILBMY38VPIWCC/IMG_8435.jpg",
+      "status": 200,
+      "bytes": 1084937,
+      "sha256": "7531d2cbe867ecb4ef56db27c3319b72f1402bf210255538828fbcf1af029548",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-everything-14",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_600,q_75,w_450/v1/clients/northkentucky/PXL_20210603_165148901_0738b833-486d-4563-9afa-542fe15a850e.jpg",
+      "status": 200,
+      "bytes": 57223,
+      "sha256": "d3bcbd26a72904658fdd99dab88558fe5d953a40cb3000fc8b4facb9a9b74860",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-everything-15",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_338,q_75,w_451/v1/clients/northkentucky/PXL_20210603_155709202_aa7c5be8-85ca-4557-82b3-c272890d188e.jpg",
+      "status": 200,
+      "bytes": 35208,
+      "sha256": "aa7d1db5210193dc9c7fc4f467b5f85041284cb6879bc36a59ca2ad58f43428f",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-everything-18",
+      "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_600,q_75,w_450/v1/clients/northkentucky/PXL_20210603_160503116_7c7ad54e-7552-4d36-a192-f0f07b0c2344.jpg",
+      "status": 200,
+      "bytes": 36879,
+      "sha256": "3f67e8a8e53ce7244660f795a9215b939a95ae7e0e2081bf92d87bb8a617e470",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-original-4",
+      "source": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
+      "url": "https://assets.simpleviewinc.com/sv-cincy/image/upload/c_fill,h_600,q_75,w_450/v1/cms_resources/clients/cincy-content/olla_196dbde7-29c2-4ecd-b051-58c554e97ecf.jpg",
+      "status": 200,
+      "bytes": 57223,
+      "sha256": "d3bcbd26a72904658fdd99dab88558fe5d953a40cb3000fc8b4facb9a9b74860",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-original-5",
+      "source": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
+      "url": "https://assets.simpleviewinc.com/sv-cincy/image/upload/c_fill,h_338,q_75,w_450/v1/cms_resources/clients/cincy-content/olla_covington_interior_5bf92b82-562b-4228-9d99-c3b3569b11b2.jpg",
+      "status": 200,
+      "bytes": 35106,
+      "sha256": "3aaee458f4e387f675cfa6f7f78584a92f67d719a189b7a61c0624fc88e17bc2",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-original-6",
+      "source": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
+      "url": "https://assets.simpleviewinc.com/sv-cincy/image/upload/c_fill,q_75,w_450/v1/cms_resources/clients/cincy-content/olla_hallway_25ffac46-0648-4d98-b3e7-c57e807d99b7.jpg",
+      "status": 200,
+      "bytes": 36879,
+      "sha256": "3f67e8a8e53ce7244660f795a9215b939a95ae7e0e2081bf92d87bb8a617e470",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "olla-original-13",
+      "source": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
+      "url": "https://assets.simpleviewinc.com/sv-cincy/image/upload/c_fill,h_338,q_75,w_451/v1/cms_resources/clients/cincy-content/PXL_20210603_165352291_443c5d0b_ca6e_43d4_9960_9fd8f27299d0_84b1c327-a5c9-4aa7-b1eb-e87d1b0a97bd.jpg",
+      "status": 200,
+      "bytes": 34411,
+      "sha256": "f054371d5db34275e499cabd0da2b113b40dc40d25c1dc06f58145e7a7a87a42",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-0",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/20925956-f8a5-4bf8-9a95-d7edb81ee395/Asset+59%403x.png?format=1500w",
+      "status": 200,
+      "bytes": 13137,
+      "sha256": "8e101c3a560a19ddd41a9700d3eb9cf415a21b2323d4dc2bd05cf9595da291ed",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-1",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/0bbfe66b-fef9-467a-9af9-d5893b6d17ad/542677923_1334414282022445_9184570960411890399_n.jpg",
+      "status": 200,
+      "bytes": 199613,
+      "sha256": "2c6ba3caf215e58b3f6699063eabaf3be2eab244ee0f109b8cd2893d1f503c0c",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-2",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/f1d3a36e-b7d8-428f-a71b-1899021b8b3e/working+on+mondays.jpg",
+      "status": 200,
+      "bytes": 96815,
+      "sha256": "21ba557e0710c3e3fb1dcec762259786166e57e7774d55964c9f7c3c975d490e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-3",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/f535809f-0983-46f9-ada4-269f6f8cfff1/living+room+with+friends.jpg",
+      "status": 200,
+      "bytes": 80951,
+      "sha256": "94d9ee636548edf7ae4a6b9dc4833c716d0cb2be579c580b13a1aefe06389f1f",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-4",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/c8a9155b-8048-4c44-b76a-3fc091d935d1/496010228_1232030245594183_7699041883801638770_n.jpg",
+      "status": 200,
+      "bytes": 192971,
+      "sha256": "5238b85c0c55cf140817437718cc9e0c56d700c763850507180b4ad087d431f6",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-5",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/92fd1efe-1d65-473c-a0bc-492242dbdfb2/shop+grandparents.jpg",
+      "status": 200,
+      "bytes": 58656,
+      "sha256": "275a6225ab9134e7cb30ad8a6f6dba1c163bb3bb3d1745a62c61d1ab004fb99b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-6",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/b0c17359-d654-4264-b86a-e1510a508db4/friends+laughing.jpg",
+      "status": 200,
+      "bytes": 67131,
+      "sha256": "bb74e1e04527a6b2fabc1ef9be91443b07d3b38b31ac13a9011625a7ded37def",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-7",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/e38fc99b-a576-4221-ae3a-c1cbffc32cc7/cozy+book+reading.jpg",
+      "status": 200,
+      "bytes": 75611,
+      "sha256": "21ccd9dccd839d27808671df9de1daa1e65e0a745ec9b186a8adfe6ee3f9509f",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-8",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/ed690c83-4ba3-4648-accc-65a0e8977d86/travel+planning.jpg",
+      "status": 200,
+      "bytes": 73483,
+      "sha256": "48600ab577fa8eae2ca519339fc85f2a6e07ed6692785703927266d34963f499",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-9",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/e2dae356-6701-4ef9-8655-bd5047a715d2/teacher+friends.jpg",
+      "status": 200,
+      "bytes": 56883,
+      "sha256": "7c76b17b01880d8b08cad0f61d15ad331953d23733698ec6fce39558d1158609",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-10",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/494c7a2e-79e9-47c4-aa77-9765a925ebd5/pete+and+ryan.jpg",
+      "status": 200,
+      "bytes": 83080,
+      "sha256": "62b1fe36d8c7597d9bb3124eb4d4dd04c8ca5677e4a2f3af53e9a4defc984cd0",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-11",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/15380353-e7c7-40e4-b45c-8bc78277579b/IMG_5527.jpg",
+      "status": 200,
+      "bytes": 88988,
+      "sha256": "92ee5e3b25014915f3fcc925885bb93f3e5c243e0199589639d5e296df0d818e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-12",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/f9b7d234-f925-4b7e-bd1d-67b7684097ae/keep+the+lights.jpg",
+      "status": 200,
+      "bytes": 101106,
+      "sha256": "c095af6f698d905f460091dba33e824958e3c5c743c6a2e17729f2c755304aa6",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-13",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/6ee32e82-ade5-4041-9c30-fe170223ed45/covington+student+friends.jpg",
+      "status": 200,
+      "bytes": 63168,
+      "sha256": "de02eea1b4e41bd05840a10fd60537f73393074f42fd9fa0686afcfb0305457a",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-14",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/1180a94d-9aee-41cc-81b2-9c07e88446d1/626301388_18561040015032781_6769691323952475575_n.jpg",
+      "status": 200,
+      "bytes": 277451,
+      "sha256": "5de47f6e1ac7f56efcbdf2ae3e7cc9bb65f792f1cb25f1b47ead529018c2d896",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-15",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/b0d3d07c-5dec-4186-b32a-fb9b173a2f3d/game+on+grandma.jpg",
+      "status": 200,
+      "bytes": 71478,
+      "sha256": "40476aa274b929f29ef7c721f9d029184b379a75e2e84ff9125837e446e5f2ba",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-16",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/d925b9b6-6255-451f-b065-17838edcd1e1/math+monday.jpg",
+      "status": 200,
+      "bytes": 72256,
+      "sha256": "439c83f16c2891145c51b5ce3b0acc467547e48ec8783bc27c8defd6df2d629d",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-17",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/9a472d9e-3f07-4ec4-bf28-9e22a4290a0a/coffee+bus.jpg",
+      "status": 200,
+      "bytes": 67998,
+      "sha256": "23fb53b33c147044364def2b91465accdeb6788fa57ad058356eefc5e74ff763",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-18",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/c952fd93-e9c9-4b65-9def-a333f9bb27d5/game+day.jpg",
+      "status": 200,
+      "bytes": 53523,
+      "sha256": "9802523bd654d8b9d3704336870fa84d8ab45ffdb0efd74ebbe112263b3087a7",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-19",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/b721d01f-9183-4ca0-93f2-56ecc5efcfdd/generations+playing+games.jpg",
+      "status": 200,
+      "bytes": 73019,
+      "sha256": "078c90f9d9e453e4d351d9268398b43a4658d7f48a4fe9695ad93dde1c4feff4",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-20",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/bc1d0016-dc98-45f6-886e-7ba3a108d5d5/city+employees+fun.jpg",
+      "status": 200,
+      "bytes": 76982,
+      "sha256": "66c5255fc286cf8d99cbdcd4fed95c91e1650e6056ea90eae8682ec2554f3558",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-21",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/108c8e0c-b484-4bb9-9736-0b34fe888ec1/early+risers+in+the+snow.jpg",
+      "status": 200,
+      "bytes": 62301,
+      "sha256": "daf991b6e7f530e2ff8c1e145155ba81a03f67305185c3b9ca80b85e7b6c1c6f",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-22",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/9d2d023e-24eb-46de-9dc3-cacde5c4a387/airmail+bartender.jpg",
+      "status": 200,
+      "bytes": 63610,
+      "sha256": "bf153a452c4aead941bbd0019ad651ff67aae7abd08d81554bd7059c4fbf8f57",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-23",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/7a0d1665-1762-4405-b6ed-25aff8237665/beautiful+sky.jpg",
+      "status": 200,
+      "bytes": 78747,
+      "sha256": "069f7d975d8cd103ec6625d5188778d83df039545b8228241078ddad8a4f6be4",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-24",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/d575938e-8d0d-4cbb-a017-dc4f6d641de6/espresso+martini.jpg",
+      "status": 200,
+      "bytes": 54214,
+      "sha256": "63c601469df2b0d96cf921494995038d0ce05464e5f054c6e36bbd0b84795adb",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-25",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/73a4230e-79ff-4966-938b-1629f7e81a00/tea+tasting.jpg",
+      "status": 200,
+      "bytes": 44345,
+      "sha256": "deef23056e8a16b7c14c6e733010c424d7967fb1dad624883ee0d4432a481799",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-26",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/5671f161-0e22-4101-8afd-384e7f50892d/wine+and+justin.jpg",
+      "status": 200,
+      "bytes": 45038,
+      "sha256": "96eb7d3d42e32c2757bc9db1a1aed006295e44efd5a4d6fe5bb4dc050c50b809",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-27",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/45255d3f-8a6f-4db6-bee2-f39bea7438e0/1000+donuts.jpg",
+      "status": 200,
+      "bytes": 69457,
+      "sha256": "99a0beddb50ea8906e49244854ac8d285bd75ed946d560c8a21e7e995bc6fc73",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-28",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/1708356973835-DMESPGTQZFC2PWXCW2S9/eli+back.jpg",
+      "status": 200,
+      "bytes": 139622,
+      "sha256": "d4f42c2921ee9cde4aa765ce19c49cd28f00fa8b50c5656282acee55f73aeab0",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-29",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/9000f059-3d74-4100-a640-cd2f59fd3e6e/port+affogato.jpg",
+      "status": 200,
+      "bytes": 57380,
+      "sha256": "5f99a9ffe04b8bf78264b0b49b75771a765ea143e85485af003640c5eae68c5c",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-30",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/6f077b3b-34e1-4209-86d1-fc546bd7356f/john+matatrese.jpg",
+      "status": 200,
+      "bytes": 100557,
+      "sha256": "7294282962876baaf15433c4c332ba959e2a770980074aa6de40c0d79b24a38e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-31",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/065d8226-2c86-4d2b-9c38-51eea9d92567/date+night+with+the+kids.jpg",
+      "status": 200,
+      "bytes": 67488,
+      "sha256": "bcd099d7ab9cf21051b37d6b1d045e51d32cb17a2e860b79d8c66aa0df969ac7",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-33",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/780c6cc5-a4a7-4670-bc4d-d4c04535bc57/525706775_18522387769032781_9089699041126327808_n.jpg",
+      "status": 200,
+      "bytes": 409424,
+      "sha256": "f8b30782711961bcfebd300c55747fab499bc3dd3c8f65cf7b644f4e3fa4cce2",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-34",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/73087b47-5c9f-44fe-b7c8-f2b5f2c46303/559345095_18534511636032781_9002201629998423033_n.jpg",
+      "status": 200,
+      "bytes": 326432,
+      "sha256": "2a4797702f1a140aa33165b7958b8db7d3e3155260b323bf83cdc0eede8e1993",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-35",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/983e1696-59bc-4a6c-8836-c849bfab6b40/work+at+bar.jpg",
+      "status": 200,
+      "bytes": 69732,
+      "sha256": "4cd4e2ca62ca31f8d797652179182b700d6d335be9cffe63e3d60eb104b24126",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-36",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/445658e5-c172-4802-8c9f-23234ff43f62/IMG_5376.jpg",
+      "status": 200,
+      "bytes": 82946,
+      "sha256": "1be8b47592a5ae57c70c6a67f040d8babb053a49f409c51a793688a25978ed4d",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-37",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/116a824d-9cfe-4f34-b38a-f578bb39e387/top+customers.jpg",
+      "status": 200,
+      "bytes": 69159,
+      "sha256": "2b49fbb7c58801cf2796dc91af2967c379ab66b426ad9a643cc36a849126ed3b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-38",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/11f5e035-4f85-419e-ae79-49c48b888695/605535471_1439022424894963_7831513478044447190_n.jpg",
+      "status": 200,
+      "bytes": 210776,
+      "sha256": "6f92536c509b665bfa9c79260e2eca44387b61fb56127152b20c720c2a5e37e1",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-39",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/757fcd98-b479-4656-be10-ce99c3509248/poke+stop.jpg",
+      "status": 200,
+      "bytes": 57574,
+      "sha256": "7cb3bb914fa940905341fd2edd0db6e94a874991938f2fd747e9a435e21dbb75",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-40",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/b2f52e67-8ae9-4495-83b1-5def9bbb542f/561384379_1371839188279954_2629648008020212177_n.jpg",
+      "status": 200,
+      "bytes": 166941,
+      "sha256": "01672f23780e9e579e7c189207f4b04bd7347f3960cb0a858db98dd64d8f5c9b",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-41",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/9d04860b-f352-4fc0-b930-725c9d24d275/532036752_1315803760550164_6537681506692081060_n.jpg",
+      "status": 200,
+      "bytes": 268011,
+      "sha256": "be157af43dbf27137c609cc353489737742be3b1d25b84545f7f80c65d3d2569",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-42",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/8368eb33-1c5d-40ec-b398-cd00e243d0a9/625162541_1469936728470199_1791268540149022657_n.jpg",
+      "status": 200,
+      "bytes": 331496,
+      "sha256": "e08e7c601c1c00aa2c3b77ffb230339439afc8b1dd0eda6aa9713137bbac4090",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-43",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/acfb7fe1-246a-4fb3-b6fc-0434eb39d0f6/new+hats.jpg",
+      "status": 200,
+      "bytes": 73749,
+      "sha256": "131198765758a078e213c7519a108fb5eac0e1598ffb4dde9cf5a11b2a545845",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-44",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/287db1c1-ba69-45b2-b8dd-8117249abb71/cheerleader.jpg",
+      "status": 200,
+      "bytes": 72543,
+      "sha256": "7d6e9721498759a3d3d73956a5287b36098a2a0366f478584b46298f2325d397",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-45",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/c8771514-c63b-4c14-b680-27efd1d89db6/496936612_1234640228666518_7678545673638242821_n.jpg",
+      "status": 200,
+      "bytes": 501805,
+      "sha256": "3ae26ec6b8d2fb061fd64579e3e94093619f5b03b76bc5137d3482b8593c9108",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-46",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/65bb9b20-6f34-4ca3-9a23-ac9b38aadd96/641211243_18571695997032781_9158387679278924481_n.jpg",
+      "status": 200,
+      "bytes": 204476,
+      "sha256": "fb60f3d11d8d24dfd63a1eea2ac2c9177227879987d3fc3819b591237cd66e50",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-47",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/a5f1db3b-1c63-439a-be98-7b8c9e30734f/569034233_1381350103995529_1307775775539234965_n.jpg",
+      "status": 200,
+      "bytes": 104060,
+      "sha256": "2b4621282954870bb5314e7198d738ebc2f60a182bf9c7d6691cf7ba48361486",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-48",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/a534a97c-3687-456e-8973-524999366bb3/571166909_1381350107328862_1234101281232985295_n.jpg",
+      "status": 200,
+      "bytes": 112042,
+      "sha256": "409b816a12ffffb8d28f7f1d4ee20f2d40d38506f5cf2364cccb904c0b0b7f76",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-gallery-49",
+      "source": "https://fortthomascoffee.com/photogallery",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/47b7b32f-a45d-4827-99d6-b2c2120e6206/601869784_18551457730032781_3139318311499549184_n.jpg",
+      "status": 200,
+      "bytes": 221919,
+      "sha256": "66fd0266f78d99a73da0eabe89ab8bf36910146c55f574853cb77462066e633e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-rentals-0",
+      "source": "https://fortthomascoffee.com/connect-rentals",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/20925956-f8a5-4bf8-9a95-d7edb81ee395/Asset+59%403x.png?format=1500w",
+      "status": 200,
+      "bytes": 13137,
+      "sha256": "8e101c3a560a19ddd41a9700d3eb9cf415a21b2323d4dc2bd05cf9595da291ed",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-rentals-1",
+      "source": "https://fortthomascoffee.com/connect-rentals",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/878beebb-7ff2-48f6-8938-30c4b1dad455/KING9902.jpg",
+      "status": 200,
+      "bytes": 527246,
+      "sha256": "034d10e1c66bb3a654181bb248fc5e1cfe16fd2f10c9ad26d22cf12f26cfdf48",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-rentals-2",
+      "source": "https://fortthomascoffee.com/connect-rentals",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/e9acf0c6-eb04-4bc2-b7e4-25c850e8babd/KING9656.jpg",
+      "status": 200,
+      "bytes": 485892,
+      "sha256": "3f639e0372f32d3a16ce98c8021483fb5d2eb3892389b05a4ac645a99e5adfa2",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-rentals-3",
+      "source": "https://fortthomascoffee.com/connect-rentals",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/b2f003aa-41bb-4851-a5d4-c33dd29085db/KING9226.jpg",
+      "status": 200,
+      "bytes": 356500,
+      "sha256": "f6067ea3d4a713acf37e02fcc048f63a961c9464a8fbdade3adf3fdac387fb46",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-rentals-4",
+      "source": "https://fortthomascoffee.com/connect-rentals",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/172058f7-1ee8-463d-9d44-d7f7dcd77ef5/Connect+Brochure.png",
+      "status": 200,
+      "bytes": 20154,
+      "sha256": "0ba96b076d6d173f1e84a323c56115f786129b966f36bbf4688845b9fcaaa996",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-cowork-0",
+      "source": "https://fortthomascoffee.com/cowork",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/20925956-f8a5-4bf8-9a95-d7edb81ee395/Asset+59%403x.png?format=1500w",
+      "status": 200,
+      "bytes": 13137,
+      "sha256": "8e101c3a560a19ddd41a9700d3eb9cf415a21b2323d4dc2bd05cf9595da291ed",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-cowork-1",
+      "source": "https://fortthomascoffee.com/cowork",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/51b2defd-f8f7-4af5-b4b9-24b10f5d22da/KING9072+%281%29.jpg",
+      "status": 200,
+      "bytes": 430792,
+      "sha256": "2eb7b332c5947e44bd4e69bc181063ce08696cafc425761b1446c0a35c223554",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-cowork-2",
+      "source": "https://fortthomascoffee.com/cowork",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/a436a315-bf19-44db-95fc-e7af5330fa1f/WhatsApp+Image+2026-06-17+at+12.49.21+PM.jpeg",
+      "status": 200,
+      "bytes": 254421,
+      "sha256": "e8a3e296defb0abdabd540282037e7c3a6cc2edd954624b31c451b9ac2c706d7",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-rules-0",
+      "source": "https://fortthomascoffee.com/house-rules",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/20925956-f8a5-4bf8-9a95-d7edb81ee395/Asset+59%403x.png?format=1500w",
+      "status": 200,
+      "bytes": 13137,
+      "sha256": "8e101c3a560a19ddd41a9700d3eb9cf415a21b2323d4dc2bd05cf9595da291ed",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    },
+    {
+      "id": "fort-rules-1",
+      "source": "https://fortthomascoffee.com/house-rules",
+      "url": "https://images.squarespace-cdn.com/content/v1/524eed6ce4b045601e24cd72/027c5f1f-8f86-47cb-8b59-db88e7b1234d/10.jpg",
+      "status": 200,
+      "bytes": 307790,
+      "sha256": "21f1be7114e15ecabae5c1e7d56738f3c28070e10f6d8303d3c89675a725f43e",
+      "visuallyInspected": true,
+      "disposition": "Original link or held candidate only; not republished"
+    }
+  ],
+  "holds": [
+    "No source-provided photo reuse licence established for official/architect/tourism images. None copied into public/images/access; existing access-photos.json preserved.",
+    "Fort Thomas official tour https://my.matterport.com/show/?m=hZqLJd3d9kk remains uninspected.",
+    "Walton changing-table controls/load/size/transfer support and route/door remain unknown despite the historical photograph.",
+    "Olla webpage Google direction coordinates appear inconsistent with its Covington address; no coordinates imported.",
+    "LINK nky December 20 2024 interview describes Walton restroom fittings without automatic triggers. Original article read; no new current official fact inferred from historical reporting.",
+    "2022 Walton construction plans and 2020 Hebron case study are historical design/context leads, not current-route proof."
+  ],
+  "followupCommons": {
+    "categoryPagesRead": [
+      "https://commons.wikimedia.org/wiki/Category:Hebron,_Kentucky",
+      "https://commons.wikimedia.org/wiki/Category:Walton,_Kentucky",
+      "https://commons.wikimedia.org/wiki/Category:Fort_Thomas_Commercial_District"
+    ],
+    "scope": "Category and file-page follow-through; not an exhaustive search of all Commons files. Walton category pagination followed. Two additional original files visually inspected; no public asset imported.",
+    "candidates": [
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Main_Street,_Walton,_KY.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/United_States_Post_Office%2C_Main_Street%2C_Walton%2C_KY.jpg",
+        "author": "Warren LeMay (w_lemay)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "photoDate": "2023-02-25",
+        "sha256": "8afc0af36a9a138bdcdf3eec6c5cc6d055e43b38b1a1ae2140df5c9c89fed9e1",
+        "visualReview": "Walton Post Office lettering, glazed paired doors with pull handles, shallow concrete front apron beside asphalt, yellow curb at the adjoining wall and collection boxes. No incidental people visible. Threshold dimensions, powered opening and a parking-to-door route cannot be established.",
+        "status": "Held for next public-service venue batch; current USPS location/service evidence not yet investigated."
+      },
+      {
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Thomas_Commercial_1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Fort_Thomas_Commercial_1.jpg",
+        "author": "Bill Eichelberger",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "photoDate": "2010-07-23",
+        "sha256": "720693a3e4c8574260ebb0dcd0fb823d033d607eaf6347da90b4c7fa3d171512",
+        "visualReview": "Historic streetscape, barber/pizza storefronts, curb/sidewalk and several stepped shop doors. Does not identify the current Fort Thomas Coffee entrance at 1 Highland Avenue.",
+        "status": "Rejected for this venue; not a location match."
+      }
+    ]
+  }
+}

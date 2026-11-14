@@ -5,6 +5,10 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/fort-thomas-coffee",
+  "/venues/junipers-gin-bar-covington",
+  "/venues/mellow-mushroom-wilder",
+  "/venues/olla-taqueria-covington",
   "/venues/element-eatery",
   "/venues/schoolhouse-restaurant-camp-dennison",
   "/venues/fretboard-brewing-blue-ash",
@@ -214,16 +218,19 @@ test("search, combined filters, details, sources and empty state work", async ({
   await expect(
     page.getByText("From official public websites", { exact: true }),
   ).toBeVisible();
-  await expect(
-    page
-      .getByText(
-        "Not documented in the sources we checked. Confirm with the venue.",
-      )
-      .first(),
-  ).toBeVisible();
   expect(
     await page.getByRole("link", { name: /Official source for/ }).count(),
   ).toBeGreaterThan(0);
+  // Expansion can fill every domain at Walton. Exercise the unknown-state
+  // contract on a listing that currently has a genuine documented gap.
+  const placeWithGap = places.find((place) =>
+    ["mobility", "sensory", "cognitive", "chronic"].some((domain) =>
+      !place.facts.some((fact) => fact.domain === domain && fact.review_status !== "retired"),
+    ),
+  );
+  expect(placeWithGap).toBeDefined();
+  await page.goto(`/venues/${placeWithGap!.slug}`);
+  await expect(page.getByText("Not documented in the sources we checked. Confirm with the venue.").first()).toBeVisible();
   await page.goto("/venues?q=zz-no-such-place");
   await expect(
     page.getByRole("heading", { name: "No places match these filters." }),
