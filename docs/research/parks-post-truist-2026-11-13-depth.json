@@ -1,0 +1,64 @@
+{
+  "truist-arena": [
+    [
+      "chronic",
+      "The FAQ says baby changing stations are in most public restrooms; its restroom section says a select number have diaper-changing stations. Confirm the nearest equipped restroom. Neither statement establishes adult changing provision.",
+      "https://thetruistarena.com/plan-your-visit/faq",
+      "venue_official",
+      [
+        "Baby changing stations are available in most of the public restrooms at Truist Arena.",
+        "A select number of restrooms include diaper-changing stations."
+      ]
+    ],
+    [
+      "mobility",
+      "The main public entrance is on the north side of the building, with the main box office. The FAQ separately places the box office and Will-Call windows on the event level. Confirm the route between your entrance, ticket collection and seat.",
+      "https://thetruistarena.com/plan-your-visit/faq",
+      "venue_official",
+      [
+        "Truist Arena has two main entrances for the general public located just off of Nunn Drive. The main entrance is located on the north side of the building, where the main Box Office is also located. The secondary, East Concourse entrance, is located on the east side of the building next to Lot O.",
+        "Both the Truist Arena's Box Office and the Will-Call windows are located in the event level of Truist Arena."
+      ]
+    ],
+    [
+      "chronic",
+      "The First Aid station is on the main concourse by section 112. The arena says trained emergency personnel are on site for most events; ask the nearest officer or staff member for help in an emergency.",
+      "https://thetruistarena.com/plan-your-visit/faq",
+      "venue_official",
+      "For your safety, Truist Arena has professionally trained emergency personnel from Central Campbell County Fire Department are on site for most events. First Aid station is located on the main concourse by section 112. In the event of an emergency, please go to the first available officer or staff member for assistance."
+    ],
+    [
+      "cognitive",
+      "Payment information conflicts within the FAQ: the concessions section says all stands are cashless and accept cards and mobile payments, while the ATM answer says some stands and portable vendors do not accept cards. Confirm the arrangements for your event before relying on one payment method.",
+      "https://thetruistarena.com/plan-your-visit/faq",
+      "venue_official",
+      [
+        "All concession stands in Truist Arena are CASHLESS. All concessions inside Truist Arena accept: credit cards, debit cards and mobile payments (Apple Pay, Google Pay and Samsung Pay), but not cash",
+        "Please note that some concession stands and portable vendors do not accept debit or credit cards."
+      ]
+    ],
+    [
+      "cognitive",
+      "Doors generally open one hour before show time. Check your event’s instructions; this is the arena’s general timing, not an event-specific arrival guarantee.",
+      "https://thetruistarena.com/plan-your-visit/faq",
+      "venue_official",
+      "Generally, the doors for all events at Truist Arena open one hour prior to show time."
+    ]
+  ],
+  "southgate-house-revival": [
+    [
+      "cognitive",
+      "Tickets can be bought in person at the lounge bar when the venue is open for a show. The venue lists its usual show-opening hours as Wednesday–Saturday, 5 p.m.–2 a.m.; cash purchases have no service fee. Check the show schedule before travelling.",
+      "https://www.southgatehouse.com/about/",
+      "venue_official",
+      "Tickets can also be purchased in person in the lounge bar any time we're open for a show (usually Wed-Sat 5pm-2am). There are NO service fees when paying with cash."
+    ],
+    [
+      "chronic",
+      "The published general policy prohibits outside drinks. It does not state a medical-drink exception; confirm any required arrangements before attending.",
+      "https://www.southgatehouse.com/about/",
+      "venue_official",
+      "No outside drinks permitted."
+    ]
+  ]
+}

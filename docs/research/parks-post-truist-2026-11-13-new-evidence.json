@@ -1,0 +1,269 @@
+[
+  {
+    "slug": "walton-post-office",
+    "address_url": "https://tools.usps.com/locations/details/1386341",
+    "address_quote": "\"locationID\":\"1386341\",\"locationName\":\"WALTON\",\"locationType\":\"PO\",\"address1\":\"52 S MAIN ST\",\"address2\":null,\"city\":\"WALTON\",\"state\":\"KY\",\"zip5\":\"41094\"",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Walton office lists 859-485-4023 as its local phone number. Contact the office to check the entrance and any assistance needed before travelling.",
+        "url": "https://tools.usps.com/locations/details/1386341",
+        "quote": [
+          "\"locationID\":\"1386341\",\"locationName\":\"WALTON\",\"locationType\":\"PO\",\"address1\":\"52 S MAIN ST\",\"address2\":null,\"city\":\"WALTON\",\"state\":\"KY\",\"zip5\":\"41094\"",
+          "\"phone\":\"8594854023\""
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "USPS lists a parking lot for this location. Designated spaces, the parking-to-door route and door controls are not established by that listing.",
+        "url": "https://tools.usps.com/locations/details/1386341",
+        "quote": [
+          "\"locationID\":\"1386341\",\"locationName\":\"WALTON\",\"locationType\":\"PO\",\"address1\":\"52 S MAIN ST\",\"address2\":null,\"city\":\"WALTON\",\"state\":\"KY\",\"zip5\":\"41094\"",
+          "\"parking\":\"LOT\",\"passportApptRequired\":null,\"siteComment\":\"EXIT 171 FROM I-75 TURN LEFT (EAST) TO MAIN ST (US 25) TURN LEFT THE POST OFFICE IS 2 BLOCKS NORTH ON THE RIGHT.\""
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The office lists window service and pickup of held mail or items with a delivery notice Monday–Friday, 8:30 a.m.–5 p.m., and Saturday, 8:30 a.m.–noon; no Sunday service is listed for these counters. Check holiday changes before travelling.",
+        "url": "https://tools.usps.com/locations/details/1386341",
+        "quote": [
+          "\"locationID\":\"1386341\",\"locationName\":\"WALTON\",\"locationType\":\"PO\",\"address1\":\"52 S MAIN ST\",\"address2\":null,\"city\":\"WALTON\",\"state\":\"KY\",\"zip5\":\"41094\"",
+          "{\"name\":\"WINDOWSSERVICE\",\"starting\":null,\"ending\":null,\"hours\":[{\"day\":\"MO\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TU\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"WE\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TH\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"FR\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"SA\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"12:00:00\"}]},{\"day\":\"SU\",\"times\":[]}]}",
+          "{\"name\":\"PICKUPHOLDMAIL\",\"starting\":null,\"ending\":null,\"hours\":[{\"day\":\"MO\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TU\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"WE\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TH\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"FR\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"SA\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"12:00:00\"}]},{\"day\":\"SU\",\"times\":[]}]}",
+          "{\"name\":\"PICKUPNOTICELEFT\",\"starting\":null,\"ending\":null,\"hours\":[{\"day\":\"MO\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TU\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"WE\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TH\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"FR\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"SA\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"12:00:00\"}]},{\"day\":\"SU\",\"times\":[]}]}"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "USPS’s national Hold Mail rules require acceptable identification for in-person pickup. Accumulated mail must be collected within 10 days or it will be returned to senders. Use the locator’s Pickup Hold Mail filter to confirm where your mail is held.",
+        "url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics",
+        "quote": [
+          "Pick up your accumulated mail at your local Post Office™ location. Mail must be picked up within 10 days or it will be returned to the senders. Use our Post Office locator tool and select the \"Pickup Hold Mail\" box to find your specific pickup location.",
+          "You must present one of the Acceptable Forms of Identification if you choose to pick up your mail in person."
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the national Hold Mail rules, you can authorize someone else to collect your held mail by giving written permission to the appropriate post office. That person must present acceptable identification; this is pickup authorization, not a staff assistance service.",
+        "url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics",
+        "quote": "You have the option to authorize a third party to pick up your held mail by providing written permission to the appropriate Post Office™ location. The third party that you authorize will need to present Acceptable Forms of Identification ."
+      }
+    ]
+  },
+  {
+    "slug": "farbach-werner-nature-preserve",
+    "address_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+    "address_quote": "Address Farbach-Werner Nature Preserve 3455 Poole Road Cincinnati, OH 45251",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The preserve is listed as open daily from dawn to dusk. Its local contact number is 513-385-4811.",
+        "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+        "quote": [
+          "Open daily from dawn until dusk",
+          "Phone: 513-385-4811"
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The preserve lists parking among its amenities. The page does not locate designated spaces or describe the connection to the barn or trail.",
+        "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+        "quote": "Amenities Open Daily Parking Restrooms"
+      },
+      {
+        "domain": "chronic",
+        "text": "Ellenwood Nature Barn lists restrooms. The barn page does not describe toilet fittings, adult changing equipment or a step-free entrance.",
+        "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/ellenwood-nature-barn",
+        "quote": [
+          "Ellenwood Nature Barn",
+          "Amenities Parking Restrooms"
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The current Pin Oak Trail page lists 1.1 miles and rates it easy. It describes forest and prairie habitats, but does not give measured gradients or a trail-surface specification. ",
+        "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail",
+        "quote": [
+          "Winds through three habitats: shady second-growth forest with beeches, maples and pin oaks; open prairie with towering big bluestem grasses that attract birds, voles and deer. Amenities 1.1 Miles Nature Trail Easy"
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The operator’s 2026 Trail Challenge log lists Pin Oak as a 0.6-mile loop with a natural surface. The log does not supply measured gradients or confirm the surface of every connecting path.",
+        "url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en",
+        "quote": [
+          "2026 Great Parks Trail Challenge",
+          "Farbach- Werner Nature Preserve Pin Oak 0.6 Natural Loop"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Motor Vehicle Permit is required for vehicle entry under Great Parks’ published policy. This concerns vehicle entry; check the permit arrangements before driving to the preserve.",
+        "url": "https://www.greatparks.org/about/motor-vehicle-permit",
+        "quote": "A valid Motor Vehicle Permit (MVP) is required for vehicle entry at Great Parks' parks and conservation areas across Hamilton County."
+      },
+      {
+        "domain": "cognitive",
+        "text": "For special events and educational programs, Great Parks asks for two weeks’ advance notice of accommodation needs. Contact Guest Relations at 513-521-7275, Voice/TDD. The policy promises efforts to provide accommodations, not guaranteed personal assistance or equipment at this preserve.",
+        "url": "https://www.greatparks.org/about/accessibility",
+        "quote": "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs . People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD."
+      }
+    ]
+  },
+  {
+    "slug": "glenwood-gardens",
+    "address_url": "https://www.greatparks.org/parks/glenwood-gardens",
+    "address_quote": "Address Glenwood Gardens 10397 Springfield Pike Cincinnati, OH 45215",
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "A notice read on November 13, 2026 says both men’s and women’s restroom access will be restricted November 12–17 for maintenance, with a portable toilet near the Gatehouse. The notice gives no year or portable-toilet access details; confirm the current arrangements before visiting.",
+        "url": "https://www.greatparks.org/parks/glenwood-gardens",
+        "quote": "From November 12--17, contractors will be performing maintenance on both the men's and women's restrooms. Access to both will be restricted for the duration of the project. A portable toilet will be provided near the Gatehouse."
+      },
+      {
+        "domain": "cognitive",
+        "text": "The wider park is listed as open daily from dawn to dusk, with parking. This does not establish the opening hours of the visitor center or Highfield Discovery Garden.",
+        "url": "https://www.greatparks.org/parks/glenwood-gardens",
+        "quote": [
+          "Amenities Open Daily Parking Restrooms Playground",
+          "Open daily from dawn until dusk"
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Garden Loop Trail page lists 1.1 miles, an easy rating, a route past the Legacy Garden and gazebo overlook, and a stone bridge. The rating is the operator’s description, not a measured gradient assessment.",
+        "url": "https://www.greatparks.org/parks/glenwood-gardens/garden-loop-trail",
+        "quote": [
+          "This trail passes the Legacy Garden and a scenic overlook with a gazebo and listings of memorial trees planted in the fields below. The inner loop follows the Mill Creek, which flows to the Ohio River. A stone bridge built with local rock features visible fossils from ancient sea life that once inhabited the area. Amenities 1.1 miles Nature Trail Easy Parking Restrooms"
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The operator’s 2026 Trail Challenge log lists Garden Loop as a 1-mile paved loop and Wetland Loop as a 1.6-mile natural-surface loop. Confirm the intended route and surface conditions.",
+        "url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en",
+        "quote": [
+          "2026 Great Parks Trail Challenge",
+          "Glenwood Gardens Garden Loop 1 Paved Loop Wetland Loop 1.6 Natural Loop"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cotswold Visitor Center’s cool-season hours, November–March, are Wednesday–Saturday 10:30 a.m.–4:30 p.m. and Sunday noon–4:30 p.m.; Monday and Tuesday are closed. It also lists New Year’s Day, Thanksgiving, Christmas Eve, Christmas Day and New Year’s Eve as closures.",
+        "url": "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center",
+        "quote": [
+          "Cool Season (November - March): Mon. & Tues.: Closed Wed. - Sat.: 10:30 a.m. - 4:30 p.m. Sunday: Noon-4:30 p.m.",
+          "Closed: New Year's Day, Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Highfield Discovery Garden lists general admission at $7 per person. Its November–March hours are Wednesday–Saturday 10:30 a.m.–4:30 p.m. and Sunday noon–4:30 p.m., closed Monday and Tuesday. Check the listed holiday closures before visiting.",
+        "url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+        "quote": [
+          "General Admission: $7 / person",
+          "Cool Season (November - March): Mon. & Tues.: Closed Wed. - Sat.: 10:30 a.m. - 4:30 p.m. Sunday: Noon-4:30 p.m.",
+          "Closed: New Year's Day, Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve"
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Highfield’s Music Garden has outdoor instruments visitors can play. This is an interactive sound-producing area, not a confirmed quiet retreat.",
+        "url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+        "quote": "The Music Garden adds another playful element, where guests can make music on a collection of outdoor instruments."
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks requires a Motor Vehicle Permit for vehicle entry. Check the permit arrangements before driving to Glenwood Gardens.",
+        "url": "https://www.greatparks.org/about/motor-vehicle-permit",
+        "quote": "A valid Motor Vehicle Permit (MVP) is required for vehicle entry at Great Parks' parks and conservation areas across Hamilton County."
+      },
+      {
+        "domain": "cognitive",
+        "text": "For special events and educational programs, Great Parks asks for two weeks’ advance notice of accommodation needs through Guest Relations, 513-521-7275, Voice/TDD. It says it will make every effort; specific staff support or equipment at Glenwood is not guaranteed by this general policy.",
+        "url": "https://www.greatparks.org/about/accessibility",
+        "quote": "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs . People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD."
+      }
+    ]
+  },
+  {
+    "slug": "fernald-preserve",
+    "address_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+    "address_quote": "Fernald Preserve, Ohio, Site 7400 Willey Road Hamilton, OH 45013",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Visitors Center is free and accepts walk-in visitors during its normal opening hours. It lists Wednesday–Saturday 9 a.m.–5 p.m. and Sunday noon–5 p.m., with closure on federal holidays. The outdoor preserve has a different schedule: daily from 7 a.m. to dusk.",
+        "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "quote": "The Fernald Preserve Visitors Center is free and open to all. Walk-in visitors are welcome during normal open hours with scheduled programs, available daily, evenings, and weekends. Hours of Operation Visitors Center Wednesday through Saturday: 9:00 a.m. to 5:00 p.m. Sunday: 12:00 p.m. to 5:00 p.m. Closed federal holidays. Fernald Preserve Monday through Sunday: 7:00 a.m. to dusk"
+      },
+      {
+        "domain": "mobility",
+        "text": "The published arrival directions approach the preserve from Willey Road, a quarter mile from State Route 128. The directions do not describe designated parking or the parking-to-door connection.",
+        "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "quote": "From Eastern Cincinnati West on I-275 to Exit 33A, U.S. 27 (Colerain Avenue). North (right) on U.S. 27 for 5 miles to the Hamilton-Ross exit. Left on State Route 128 (Hamilton-Cleves Highway) through Ross for 4 miles to Willey Road. Right on Willey Road ¼ mile to the Fernald Preserve entrance on the right."
+      },
+      {
+        "domain": "cognitive",
+        "text": "For visitor information or to discuss programs, contact 513-648-3330 or fernald@lm.doe.gov.",
+        "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "quote": [
+          "Fernald Preserve Visitors Center (513) 648-3330",
+          "fernald@LM.doe.gov"
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The visitor page prohibits smoking, fires and open flames, and says the no-pets policy does not apply to visitors with service animals.",
+        "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "quote": [
+          "Fires, open flames, or smoking.",
+          "Our no pets allowed policy does not apply to visitors with service animals."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The September 2024 meeting policy places restrooms inside the Visitors Center for Program Shelter users. It does not document their fittings or adult changing facilities; do not assume outdoor-hours access when the center is closed.",
+        "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "quote": [
+          "September 2024",
+          "4.5 Program Shelter The Program Shelter maximum capacity is 58 at four standard 8-foot tables with benches and two standard 8-foot ADA-compliant tables with benches. Users may not reconfigure the tables. Restrooms are available inside the Visitors Center."
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The September 2024 meeting policy describes the Program Shelter as seating up to 58, with four standard 8-foot tables and two 8-foot tables it calls ADA-compliant, all with benches. Users may not rearrange these tables. Clearances and a continuous route to them are not documented in this statement.",
+        "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "quote": "The Program Shelter maximum capacity is 58 at four standard 8-foot tables with benches and two standard 8-foot ADA-compliant tables with benches. Users may not reconfigure the tables."
+      },
+      {
+        "domain": "cognitive",
+        "text": "The September 2024 meeting policy asks for room or program applications at least 21 calendar days ahead, permits reservations up to one year ahead and schedules them first come, first served. Advance approval is required; an acknowledgement is not final confirmation, and an approved booking can be displaced for site work or safety.",
+        "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "quote": [
+          "Applications for the use of the meeting spaces or to schedule a program require advance LM permission and approval. To use a meeting space or to schedule a program, an application must be filled out and submitted. Applications can be obtained by emailing fernald@lm.doe.gov. A completed application must be submitted by an authorized representative of the requesting group; this person is responsible for sharing this policy with other members of the group as needed, supervising the group, and being present during the requested event. Applications will receive an email acknowledgement within 3 business days. After the request is reviewed and approved, a final confirmation will be emailed. Applications should be submitted at least 21 calendar days before the requested date. Reservations can be made up to 1 year in advance. Reservations are scheduled on a first-come, first-served basis. LM reserves the right to preempt an approved reservation to conduct business, maintenance, repair, or construction or as needed to ensure the safety of staff and visitors. Applications may be denied if the meeting space or staff is unavailable, the application is incomplete, or the proposed use is contrary to the general use terms and conditions stated above. If an application is denied, the applicant will be informed of the denial and the reason for the denial."
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The September 2024 policy lists the Community Meeting Room at 120 people in theater layout, 80 in classroom layout or 40 in conference layout. Alternative arrangements require prior application approval and staff supervision; return the room to its original layout afterward.",
+        "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "quote": "The Community Meeting Room maximum capacity is 120 for theater seating, 80 for classroom seating, and 40 for conference room seating. Chairs and up to 18 tables are available for users. Users can reconfigure the room under the supervision of staff if alternate layouts are requested on the application and approved by LM. Before departure, the room must be returned to its original configuration under the supervision of staff."
+      },
+      {
+        "domain": "cognitive",
+        "text": "The programs webpage lists the Community Meeting Room at 120 for theater seating and 80 for conference seating, and says application review could take up to two weeks. Confirm capacity and approval directly; a webpage capacity listing is not a confirmed booking.",
+        "url": "https://www.energy.gov/lm/explore-programs-and-meetings-fernald-preserve-visitors-center",
+        "quote": [
+          "Seating capacity for the Community Meeting Room is 120 for theater seating and 80 for conference seating. Seating capacity at standard tables in the outdoor Program Shelter is 58. The seating capacity in the Resource Room is 8 (at a conference table). The application review process to reserve these facilities could take up to two weeks."
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The September 2024 policy says escorted driving tours with stops at points of interest are available. Ask about booking and vehicle access: the policy does not specify wheelchair carriage, boarding equipment or transfer assistance.",
+        "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "quote": "Escorted driving tours of the site with stops at points of interest are available."
+      }
+    ]
+  }
+]

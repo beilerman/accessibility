@@ -3,6 +3,10 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "walton-post-office",
+  "farbach-werner-nature-preserve",
+  "glenwood-gardens",
+  "fernald-preserve",
   "arco-arts-community",
   "brink-brewing-college-hill",
   "little-miami-brewing-company",
@@ -19,6 +23,17 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("finds the postal service and outdoor additions in their location categories", () => {
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toContain("walton-post-office");
+    expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toEqual(expect.arrayContaining([
+      "farbach-werner-nature-preserve", "glenwood-gardens", "fernald-preserve",
+    ]));
+    expect(place("walton-post-office").address).toBe("52 S Main Street, Walton, KY 41094");
+    expect(text("walton-post-office")).toContain("written permission");
+    expect(place("farbach-werner-nature-preserve").limitations).toContain("descriptions are unresolved");
+    expect(text("glenwood-gardens")).toContain("notice gives no year");
+    expect(place("fernald-preserve").limitations).toContain("disagree on conference-style room capacity");
+  });
   it("finds the new NKY dining locations with physical and sensory limits intact", () => {
     const slugs = ["junipers-gin-bar-covington", "mellow-mushroom-wilder", "olla-taqueria-covington"];
     expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toEqual(expect.arrayContaining(slugs));
@@ -483,7 +498,7 @@ describe("November source-backed venue expansion", () => {
     expect(text("burnet-woods-trailside-nature-center")).toMatch(/same page says Saturday open hours/);
   });
   it("discovers public services and recreation while preserving construction and seasonal limits", () => {
-    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens", "covunity-fridge-banklick-street"]);
+    expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toEqual(["kenton-county-government-center", "be-concerned-covington", "brighton-center-family-center", "mary-rose-mission", "covunity-fridge-redden-gardens", "covunity-fridge-banklick-street", "walton-post-office"]);
     expect(findPlaces({ category: "Recreation & fitness", region: "OH" }).map((p) => p.slug)).toContain("uc-campus-recreation-center");
     expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toContain("dunham-recreation-complex");
     expect(place("kenton-county-government-center").address).toBe("1840 Simon Kenton Way, Covington, KY 41011");

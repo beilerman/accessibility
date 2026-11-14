@@ -1,0 +1,236 @@
+{
+  "checked_at": "2026-11-13",
+  "base": "9890e39bf8d59968a412bc69408d3984a6aee3dc",
+  "status": "ready_for_runner_validation",
+  "publication": "No agent Git writes, push or deployment; runner must pass its suite before publishing.",
+  "prior_host_failure": {
+    "cause": "Walton has all four documented domains; old test incorrectly expected an unknown placeholder.",
+    "repair": "Already present in accepted base: select a catalog place with an actual gap for unknown-state assertion.",
+    "base_receipt_hashes_verified": 7,
+    "pending_edits_at_start": 0,
+    "conflicts_at_start": 0
+  },
+  "progress": {
+    "new_venues": [
+      {
+        "slug": "walton-post-office",
+        "notes": 5
+      },
+      {
+        "slug": "farbach-werner-nature-preserve",
+        "notes": 7
+      },
+      {
+        "slug": "glenwood-gardens",
+        "notes": 11
+      },
+      {
+        "slug": "fernald-preserve",
+        "notes": 10
+      }
+    ],
+    "new_note_ids": 42,
+    "new_venue_notes": 33,
+    "existing_venue_new_notes": 9,
+    "old_notes_reviewed": 24,
+    "old_notes_unchanged": 18,
+    "old_notes_revised": 6,
+    "compound_evidence_repairs": 8,
+    "additional_emergency_context_clarification": 1,
+    "previously_absent_quote_repairs": 0,
+    "full_rechecks": [
+      {
+        "slug": "southgate-house-revival",
+        "before": "2026-11-10",
+        "after": "2026-11-13",
+        "repeat_within_rolling_week": true
+      },
+      {
+        "slug": "truist-arena",
+        "before": "2026-11-10",
+        "after": "2026-11-13",
+        "repeat_within_rolling_week": true
+      },
+      {
+        "slug": "kenwood-towne-centre",
+        "before": "2026-11-11",
+        "after": "2026-11-13",
+        "repeat_within_rolling_week": true
+      }
+    ],
+    "partial_rechecks": [],
+    "licensed_photos_added": 1,
+    "linked_guides_added": 10,
+    "guide_types": {
+      "photographic_web": 6,
+      "historical_photo_pdf": 1,
+      "web_maps": 2,
+      "pdf_map": 1
+    },
+    "community_reports_added": 4,
+    "additional_grocery_leads": 3,
+    "totals": {
+      "places": 176,
+      "active_notes": 1868,
+      "retired_notes": 1,
+      "quoted_active": 1848,
+      "missing_quotes": 20,
+      "licensed_photos": 84,
+      "guides": 97
+    }
+  },
+  "checks": {
+    "unit": {
+      "passed": 106,
+      "failed": 0
+    },
+    "pipeline": {
+      "passed": 79,
+      "failed": 0
+    },
+    "lint": "passed",
+    "typescript": "passed",
+    "build": {
+      "status": "passed",
+      "static_pages": 191,
+      "existing_nonblocking_warnings": [
+        "Atkinson Hyperlegible Next fallback metrics unavailable",
+        "Node module.register deprecation; Vite config-loader warning"
+      ]
+    },
+    "final_evidence": {
+      "checked": 70,
+      "note_claims": 66,
+      "addresses": 4,
+      "failed": 0
+    },
+    "source_baselines": {
+      "selected": 20,
+      "http_200": 20,
+      "need_attention": 0,
+      "untouched": 524
+    },
+    "guide_links": {
+      "checked": 10,
+      "http_200": 10
+    },
+    "http": {
+      "scope": "Generated HTML and asset checks only; not browser interaction, layout or axe validation.",
+      "routes": [
+        "/venues/truist-arena",
+        "/venues/southgate-house-revival",
+        "/venues/kenwood-towne-centre",
+        "/venues/walton-post-office",
+        "/venues/farbach-werner-nature-preserve",
+        "/venues/glenwood-gardens",
+        "/venues/fernald-preserve",
+        "/access-in-pictures",
+        "/venues?region=KY&category=Public+services",
+        "/venues?region=OH&category=Parks+%26+outdoors&q=Farbach",
+        "/visitor-reports?region=OH&domain=mobility&q=initial+incline",
+        "/venues?q=zz-no-such-place"
+      ],
+      "route_count": 12,
+      "counts": {
+        "note_claims": 66,
+        "guide_links": 10,
+        "reports": 4
+      },
+      "photo_asset_hash_matches": true,
+      "category_and_report_filters": true
+    },
+    "browser": {
+      "discovered": 164,
+      "agent_execution": "blocked before page load",
+      "reason": "Chromium macOS bootstrap_check_in MachPort permission denied 1100; separate CUA host unavailable",
+      "runner_required": true,
+      "not_the_prior_host_assertion_failure": true
+    },
+    "diff_check": "passed",
+    "conflict_scan": "passed",
+    "prior_photo_asset_bytes_unchanged": 83,
+    "existing_place_records_unchanged": 169,
+    "all_previous_ids_and_history_preserved": true
+  },
+  "corrected_validation_failures": [
+    {
+      "check": "pipeline baseline coverage",
+      "correction": "Created fresh baselines for newly added source URLs, then 79 tests passed."
+    },
+    {
+      "check": "unit publisher-domain contract",
+      "correction": "Reclassified two NKU commencement notes as public_agency; refreshed quote bindings; 106 tests passed."
+    }
+  ],
+  "held": {
+    "missing_quote_ids": [
+      "cincinnati-music-hall.sensory.2",
+      "cincinnati-music-hall.sensory.3",
+      "molly-malones-covington.mobility.1",
+      "molly-malones-covington.chronic.1",
+      "molly-malones-covington.sensory.1",
+      "molly-malones-covington.cognitive.1",
+      "amc-newport-on-the-levee-20.mobility.1",
+      "amc-newport-on-the-levee-20.sensory.1",
+      "amc-newport-on-the-levee-20.sensory.2",
+      "amc-newport-on-the-levee-20.sensory.3",
+      "amc-newport-on-the-levee-20.mobility.3",
+      "amc-newport-on-the-levee-20.chronic.1",
+      "heritage-village-museum.mobility.1",
+      "heritage-village-museum.mobility.2",
+      "heritage-village-museum.chronic.1",
+      "heritage-village-museum.sensory.1",
+      "heritage-village-museum.cognitive.1",
+      "heritage-village-museum.mobility.3",
+      "heritage-village-museum.chronic.2",
+      "heritage-village-museum.cognitive.2"
+    ],
+    "newport_aquarium": {
+      "status": 403,
+      "notes_unchanged": 8,
+      "date_unchanged": true
+    },
+    "meijer_cold_spring": {
+      "status": 403,
+      "catalog_imported": false
+    },
+    "deer_park_iga": "Exact branch identity unresolved",
+    "cam_market": "Service/physical-access details incomplete; photo capture date/reuse rights unknown",
+    "fort_thomas_tour": "Interactive tour uninspected; working browser needed"
+  },
+  "sha256": {
+    "docs/HANDOFF-2026-11-10.md": "d1e8c2d9342fcd9dd7612331bd44735e1ef1f1cc6b6b2bba832d0eaf738cb5f7",
+    "docs/research/community-venue-discovery-2026-11-13.json": "8b84791ed71337e0b79378da08edeac3af38977f89ce180c07ba4ae7b4839501",
+    "docs/research/coverage-queue.md": "82cffb9b346a8aeff161801e5aaeca5bed3497e6d0f55fbbeb50911723e1477e",
+    "docs/research/parks-post-truist-2026-11-13-arrival-depth.json": "337bdd4262208859523567a051cc4293b5a4ffa25a6c1bb201f95c580fa6a3f8",
+    "docs/research/parks-post-truist-2026-11-13-catalog-audit.json": "d598618217f1d24fb47aa6b7e5a8720bdb8991c7b0d6cdcf7a1c3175598787ea",
+    "docs/research/parks-post-truist-2026-11-13-commencement-depth.json": "09b26915f77da20cdd9e89b0461a8dcef0b63c3dd2826b5654227a76034e105e",
+    "docs/research/parks-post-truist-2026-11-13-depth.json": "70971c9c207f50abbfb2c3b86b482a622bd10e12a43e3291797d1c9c7d958f6c",
+    "docs/research/parks-post-truist-2026-11-13-existing-evidence.json": "d5fc19aed8e001b6ab28f0adafc7ab1863dc433f2e78e3d3f67e454b163826a2",
+    "docs/research/parks-post-truist-2026-11-13-existing-evidence.verified.json": "02167e3b32e1c339e87f5ecffd9330bbe16be9b859ef1c2c428aa79ecdee14df",
+    "docs/research/parks-post-truist-2026-11-13-final-evidence.json": "e5ac229cc1f54bf681fda8056e739cdd76fe135d08a21587fa54192bc274a64c",
+    "docs/research/parks-post-truist-2026-11-13-final-evidence.verified.json": "60856866970b32d19c6177b3513e89fd3d24d1f877c72ac895491b33a3dc8590",
+    "docs/research/parks-post-truist-2026-11-13-grocery-preflight.json": "34973c57eea1fd3cbbddada35d769446ee964fa74d06828ec57ef641ff1ee25f",
+    "docs/research/parks-post-truist-2026-11-13-guide-additions.json": "ba60b71df53663f3c81dd9d14d2516ef908fdc13c7e66c64bab3ffbb2b7e7b4a",
+    "docs/research/parks-post-truist-2026-11-13-http-checks.json": "9ddbd0e0dd2d290d97441c06be52b013ff1539fec1b050fb23bbbe4f1a2f4352",
+    "docs/research/parks-post-truist-2026-11-13-kenwood-review.json": "25f27d72df4ed29db68a424bb3660c892c51d74ee37ac1e5af8de6b1dc3f2a59",
+    "docs/research/parks-post-truist-2026-11-13-late-revisions.json": "1e42d3a47d553ba73dce8d09e5fa79cf41f5c55f79797fafd48cc2e3d2fca90d",
+    "docs/research/parks-post-truist-2026-11-13-media-review.json": "f2b647e9d3ca08abe556ccd9ccc2355307d6b43d27c5c288d91be088feb851c7",
+    "docs/research/parks-post-truist-2026-11-13-new-evidence.json": "8c650ad2b26bbd467b5256d80438170a3deb33bf0ec3ab32b6733013f5b2a8f9",
+    "docs/research/parks-post-truist-2026-11-13-new-evidence.verified.json": "90e4f2dd16d34a91265ab646b44057d3d73f3a23372c6efe0f478164494491eb",
+    "docs/research/parks-post-truist-2026-11-13-new-places.json": "1a3150e9e9b0dd08cbb0b93f7270ce05b85bc8d532c064a04e59d75801623b10",
+    "docs/research/parks-post-truist-2026-11-13-recheck.json": "0ba4a6302671e76d709d347b965133bd88fbac77c41d15adc1beb8d185c95a67",
+    "docs/research/parks-post-truist-2026-11-13-revisions.json": "c532b425e67108995faaab7c57843a05d26f6ed8b167d268c1fbc4785e754d4b",
+    "docs/research/parks-post-truist-2026-11-13-sources.txt": "2b64e39bcca55e932f976cee7736751d6ed92337e406de128d2b7f1aed9aa988",
+    "docs/research/parks-post-truist-2026-11-13.md": "e63081895ed09342db00690c03d9c3db9cb2348b170c4c4ae7b9b9a1f2f56872",
+    "e2e/accessibility.spec.ts": "1a834d3af5a99921cf4b12fcabae89cccaeb5a93f23210e81953ce903b16c491",
+    "pipeline/evidence/quotes.json": "1984b0d6e54be0441aa96a0ced4c7dbfccc0762509f2750ccf8820b02bb89607",
+    "pipeline/source-checks/2026-11-13.json": "b69d8727717e0f0aba8fd8c0afb80a67b8535854f57d0414fc20535bf8df4364",
+    "public/images/access/walton-post-office-entrance-2023.webp": "2568bc94084a05c71906e557263784659c5a772663e833582f7ca2fd790c65e4",
+    "src/__tests__/venue-expansion.test.ts": "c93f56aad4ada776a32d04a30092e89819150a7cc43423481992c61c9ec0f780",
+    "src/data/access-guides.json": "3192c4c99bccfcdaac3951eb7276c8ff6ed669454627fc2952e87805ecb7a2a7",
+    "src/data/access-photos.json": "503542878d3d10b79766a07bf1c9dd8ad9aa8076df9b84b0868ed6a9602cfae8",
+    "src/data/places.json": "bd482601aa31514742a814d77dc174522b4a7dbde9ecd7569fc7cfec431b34e1",
+    "src/data/visitor-reports-community.json": "854a9de51581e45e8767c39a412b702e589f7e95f44b08cc4a367276e2ddfcde"
+  }
+}

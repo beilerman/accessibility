@@ -1,0 +1,354 @@
+{
+  "checked_at": "2026-11-13",
+  "licensed_photo_added": {
+    "id": "walton-post-office-entrance-2023",
+    "slug": "walton-post-office",
+    "title": "Entrance doors and front apron in 2023",
+    "src": "/images/access/walton-post-office-entrance-2023.webp",
+    "width": 960,
+    "height": 720,
+    "alt": "Glass double entrance doors at Walton Post Office face a concrete apron beside cracked asphalt; blue collection boxes stand beside a yellow-painted curb to the left.",
+    "caption": "The February 25, 2023 full-frame photograph shows the front doors, pull handles, concrete apron, collection boxes and adjoining asphalt. Converted to WebP without cropping or changing the scene.",
+    "author": "w_lemay",
+    "photoDate": "2023-02-25",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Main_Street,_Walton,_KY.jpg",
+    "checkedAt": "2026-11-13",
+    "limitations": "This historical view does not establish threshold height, doorway width, door force, powered opening, designated parking or a complete parking-to-counter route. The yellow curb and asphalt condition are visible; current arrangements may differ.",
+    "relatedFactIds": [
+      "walton-post-office.mobility.1"
+    ],
+    "asset_sha256": "2568bc94084a05c71906e557263784659c5a772663e833582f7ca2fd790c65e4",
+    "commons_metadata": {
+      "ImageDescription": {
+        "value": "Built in 1963, this Modern Post Office was built to serve the city of Walton, Kentucky.  The building features a red brick exterior, a low-slope roof, an awning with exposed joists on the front facade, a storefront at the corner of the building’s lobby that features the main entrance door, a concrete base, a ribbon windows located high up the walls.  The building remains in use today as the Walton Post Office.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-02-25 15:05:36",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "w_lemay",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "existing_licensed_assets_preserved": 83,
+  "guide_links_added": [
+    {
+      "id": "farbach-barn-approaches",
+      "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+      "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 108609,
+      "sha256": "4620c0a960e42937c00bac1517deda199078f28f4268f49bec52f67f9bba4f3e"
+    },
+    {
+      "id": "farbach-pin-oak-path",
+      "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail",
+      "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 71850,
+      "sha256": "ba1f74734e1b8cefc9563ac54fe97936f77e1854651e050100a15f48e96c72ae"
+    },
+    {
+      "id": "glenwood-cotswold-approach",
+      "url": "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center",
+      "final_url": "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 75078,
+      "sha256": "9c0c2124f69e1d852f5aa67a1415349532c9cbf7b5d87117a7782ce5d3891966"
+    },
+    {
+      "id": "glenwood-highfield-boardwalk",
+      "url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+      "final_url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 87269,
+      "sha256": "7bf9fab9a36ea8ab29ce844233c4674c5f13b585078940c580e06fc9dfe98396"
+    },
+    {
+      "id": "fernald-entrance-interior",
+      "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+      "final_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 148215,
+      "sha256": "7ab9076a6d25bff30198d2dc005c321272b02cfa331f1d2acd7c74e2a7cfd98e"
+    },
+    {
+      "id": "fernald-historical-spaces-2024",
+      "url": "https://www.energy.gov/sites/default/files/2024-04/Successes%20and%20Challenges%20at%20LM%20Interpretive%20Centers.pdf",
+      "final_url": "https://www.energy.gov/sites/default/files/2024-04/Successes%20and%20Challenges%20at%20LM%20Interpretive%20Centers.pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 5880186,
+      "sha256": "cd4feb2c24c9d10a7da76544c1f5aa67f6b6d19ed8676b93fcdb5b0a28c22709"
+    },
+    {
+      "id": "farbach-werner-nature-preserve-orientation-map",
+      "url": "https://www.greatparks.org/getContentAsset/97f159e0-b364-445f-a415-29bae1f912c3/6bf380df-49ab-4ee8-b277-1f89e677ae10/FarbachWerner.jpg?language=en",
+      "final_url": "https://www.greatparks.org/getContentAsset/97f159e0-b364-445f-a415-29bae1f912c3/6bf380df-49ab-4ee8-b277-1f89e677ae10/FarbachWerner.jpg?language=en",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 312656,
+      "sha256": "2eb8aeec31ce2081ef01fcb60f8fe2ea6928e4038c6028f59db8d0737fef9991"
+    },
+    {
+      "id": "glenwood-gardens-orientation-map",
+      "url": "https://www.greatparks.org/getContentAsset/1ce9320a-59ec-4b48-b79d-5b11b97e45cd/6bf380df-49ab-4ee8-b277-1f89e677ae10/Glenwood-Gardens.avif?language=en",
+      "final_url": "https://www.greatparks.org/getContentAsset/1ce9320a-59ec-4b48-b79d-5b11b97e45cd/6bf380df-49ab-4ee8-b277-1f89e677ae10/Glenwood-Gardens.avif?language=en",
+      "status": 200,
+      "content_type": "image/avif",
+      "bytes": 52913,
+      "sha256": "2afbed79bac790b29cb962d37d8027a7b966cfbd56d312ed38feaba7c12550dd"
+    },
+    {
+      "id": "fernald-community-meeting-room",
+      "url": "https://www.energy.gov/lm/photos/fernald-preserve-visitors-center-explore-photo-gallery",
+      "final_url": "https://www.energy.gov/lm/photos/fernald-preserve-visitors-center-explore-photo-gallery",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 126386,
+      "sha256": "458857267ecde035bb2daada55bcecc7790f32f58ca76ef5d0e02a80b18fbe87"
+    },
+    {
+      "id": "truist-nku-campus-access-map-2025",
+      "url": "https://www.nku.edu/student-accessibility/resources/current-students/accessible-routes-parking/MC250263-NKU-CAMPUS-ACCESSIBILITY-MAP-09-19-2025.pdf",
+      "final_url": "https://www.nku.edu/student-accessibility/resources/current-students/accessible-routes-parking/MC250263-NKU-CAMPUS-ACCESSIBILITY-MAP-09-19-2025.pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 326495,
+      "sha256": "f34af64c72d32f8dab2240a008ad2851f8511c2b9fcd4c1f6fe6f848629a71db"
+    }
+  ],
+  "selected_views": [
+    {
+      "index": 5,
+      "url": "https://www.greatparks.org/getContentAsset/0deaa36b-b5d1-4760-ab67-e6ef923b4bdd/6bf380df-49ab-4ee8-b277-1f89e677ae10/FWNP-Wildflowers-2021-04-20-19.jpg?language=en",
+      "guide": "farbach-barn-approaches",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 6,
+      "url": "https://www.greatparks.org//getContentAsset/e0505c63-69d7-4cef-8e1e-38f639136aa5/6bf380df-49ab-4ee8-b277-1f89e677ae10/FullHeroBannerImage/farbach-hero_FullHeroBannerImage.avif?language=en",
+      "guide": "farbach-barn-approaches",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 15,
+      "url": "https://www.greatparks.org//getContentAsset/e073dbc3-1815-444f-b7e3-150f9ebc4210/6bf380df-49ab-4ee8-b277-1f89e677ae10/FullHeroBannerImage/Hero_PinOakTrail_FullHeroBannerImage.jpg?language=en",
+      "guide": "farbach-pin-oak-path",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 40,
+      "url": "https://www.greatparks.org//getContentAsset/a4ff9bee-6d6d-4edb-ba7d-23daece02ece/6bf380df-49ab-4ee8-b277-1f89e677ae10/FullHeroBannerImage/HERO_GG_Cotswold_FullHeroBannerImage.jpg?language=en",
+      "guide": "glenwood-cotswold-approach",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 46,
+      "url": "https://www.greatparks.org/getContentAsset/7ffb11af-7bbc-4d87-8ca5-72ddc96acba6/6bf380df-49ab-4ee8-b277-1f89e677ae10/ImageCarousel/TriThumb_GG_Highfield_3_ImageCarousel.jpg?language=en",
+      "guide": "glenwood-highfield-boardwalk",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 55,
+      "url": "https://www.energy.gov/sites/default/files/styles/photo_gallery_515_x_325_/public/2.%20Sun%20rise.jpg?itok=AUvpFIEB",
+      "guide": "fernald-entrance-interior",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 56,
+      "url": "https://www.energy.gov/sites/default/files/styles/photo_gallery_515_x_325_/public/8205D-2083.jpg?itok=opmDCbqV",
+      "guide": "fernald-entrance-interior",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 10,
+      "url": "https://www.greatparks.org/getContentAsset/97f159e0-b364-445f-a415-29bae1f912c3/6bf380df-49ab-4ee8-b277-1f89e677ae10/FarbachWerner.jpg?language=en",
+      "guide": "farbach-werner-nature-preserve-orientation-map",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "index": 33,
+      "url": "https://www.greatparks.org/getContentAsset/1ce9320a-59ec-4b48-b79d-5b11b97e45cd/6bf380df-49ab-4ee8-b277-1f89e677ae10/Glenwood-Gardens.avif?language=en",
+      "guide": "glenwood-gardens-orientation-map",
+      "visually_inspected": true,
+      "republished": false
+    },
+    {
+      "url": "https://www.energy.gov/sites/default/files/2.%20Community%20Meeting%20Room.jpg",
+      "guide": "fernald-community-meeting-room",
+      "visually_inspected": true,
+      "republished": false,
+      "capture_date": null,
+      "publisher_page_updated": "2020-04-14"
+    }
+  ],
+  "candidate_work": {
+    "official_assets_fetched": 77,
+    "official_selected_contact_sheet_candidates_inspected": 45,
+    "official_candidates_note": "Includes navigation images, alternate versions, maps and repeated banners; not 45 distinct usable access photos.",
+    "commons_walton_views_inspected": 2,
+    "additional_commons_views_inspected": 9,
+    "truist_event_gallery_views_inspected": 7,
+    "fernald_presentation_pages_screened": 23,
+    "fernald_presentation_pages_inspected_at_larger_scale": [
+      11,
+      12,
+      13
+    ],
+    "additional_fernald_room_full_frame_inspected": 1,
+    "nku_map_versions_visually_inspected": 2
+  },
+  "pdfs": {
+    "gp-log": {
+      "pages": 3,
+      "bytes": 353852,
+      "metadata": {
+        "format": "PDF 1.7",
+        "title": "Microsoft Word - 2026 Great Parks Trail Log Form",
+        "author": "Allison Cone",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Microsoft: Print To PDF",
+        "creationDate": "D:20251221142942-05'00'",
+        "modDate": "D:20251221142942-05'00'",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "gp-glenwood-map": {
+      "pages": 1,
+      "bytes": 161839,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "Adobe InDesign CC 2015 (Windows)",
+        "producer": "Adobe PDF Library 15.0",
+        "creationDate": "D:20160712114046-04'00'",
+        "modDate": "D:20160712114046-04'00'",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "fernald-visual": {
+      "pages": 23,
+      "bytes": 5880186,
+      "metadata": {
+        "format": "PDF 1.7",
+        "title": "PowerPoint Presentation",
+        "author": "Trottier, Melissa (CONTR)",
+        "subject": "",
+        "keywords": "",
+        "creator": "Microsoft® PowerPoint® for Microsoft 365",
+        "producer": "Microsoft® PowerPoint® for Microsoft 365",
+        "creationDate": "D:20240402100325-06'00'",
+        "modDate": "D:20240402100325-06'00'",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "fernald-policy": {
+      "pages": 10,
+      "bytes": 918339,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "Meeting Space and Program Request Policy Fernald Preserve, Ohio, Site",
+        "author": "LMS Contractor",
+        "subject": "Meeting Space and Program Request Policy Fernald Preserve, Ohio, Site",
+        "keywords": "contract number: 89303020DLM000001; september 2024; S05063; Fernald Meeting Space; Fernald Programs; fernald preserve meeting space program request; Fernald Preserve, Ohio, Site",
+        "creator": "Acrobat PDFMaker 24 for Word",
+        "producer": "Adobe PDF Library 24.2.13",
+        "creationDate": "D:20240912085618-06'00'",
+        "modDate": "D:20240912141246-06'00'",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "fernald-2025": {
+      "pages": 53,
+      "bytes": 17973729,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "PowerPoint Presentation",
+        "author": "Hock, Brandi (CONTR)",
+        "subject": "",
+        "keywords": "",
+        "creator": "Acrobat PDFMaker 25 for PowerPoint",
+        "producer": "Adobe PDF Library 25.1.119",
+        "creationDate": "D:20260220100023-05'00'",
+        "modDate": "D:20260220100114-05'00'",
+        "trapped": "",
+        "encryption": null
+      }
+    },
+    "nku_map_current": {
+      "pages": 1,
+      "bytes": 326495,
+      "printed_revision": "June 2025",
+      "file_name_date": "2025-09-19",
+      "metadata_creation": "2025-09-05",
+      "sha256": "f34af64c72d32f8dab2240a008ad2851f8511c2b9fcd4c1f6fe6f848629a71db"
+    }
+  },
+  "decisions": [
+    "Walton full frame converted from Commons JPEG to WebP; no crop, retouch or scene change.",
+    "Official web photographs and PDF linked at original publisher; no reuse licence inferred.",
+    "Glenwood/Farbach maps are explicitly maps, not photographs.",
+    "2024 Fernald presentation contains a raised bird-viewing blind with stairs; no alternative route established.",
+    "Glenwood photos may predate 2025 work. Metadata dates do not establish photograph capture dates.",
+    "Six CC0 Public Lands Institute Fernald wetland TIFFs from April 2026 lack useful public route views; not imported.",
+    "Fernald 2015 exterior is largely decorative; historic industrial/reception photographs do not establish today’s visitor entrance.",
+    "Glenwood Burchenal Mound result has conflicting Norwood location caption and no useful access view; not imported.",
+    "Truist event portraits/dark auditorium view and historic Southgate church postcard rejected as access imagery.",
+    "NKU current September-named PDF has construction overlays absent from the older hosted copy. Use the current Office for Student Accessibility link; printed revision is June 2025, file metadata September 5, 2025. Map is not a photograph or current operational guarantee."
+  ],
+  "remaining_gaps": [
+    "Walton threshold, door controls, designated parking and continuous approach",
+    "Farbach barn threshold, restroom interior, gradients and complete route",
+    "Glenwood portable toilet, current post-renovation boardwalk and transit-to-door route",
+    "Fernald toilet/changing fixtures, door controls, trail surfaces and alternative to raised blind stairs",
+    "Southgate and Truist entry/toilet/elevator photography",
+    "Fort Thomas Coffee Matterport tour needs working browser"
+  ]
+}

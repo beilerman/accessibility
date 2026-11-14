@@ -10,7 +10,8 @@
     "https://www.reddit.com/r/NorthernKY/comments/1rw883i/going_to_a_new_restaurant_bar_or_coffee_shop/",
     "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
     "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
-    "https://www.reddit.com/r/cincinnati/comments/1sajidj/accessible_activities_around_town/"
+    "https://www.reddit.com/r/cincinnati/comments/1sajidj/accessible_activities_around_town/",
+    "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/"
   ],
   "candidates": [
     {
@@ -349,17 +350,17 @@
       "name": "Farbach-Werner Nature Preserve",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Comment suggests a paved wooded route; verify exact trail and current surfaces. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+      "status": "added",
+      "slug": "farbach-werner-nature-preserve",
+      "nextStep": "Official listing, separate community account(s), and original visual guides added in parks-post-truist-2026-11-13. Continue precise grades, surfaces, entrance controls and toilet/changing details; preserve source conflicts and dated restrictions."
     },
     {
       "name": "Glenwood Gardens",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Comments distinguish a paved loop from gravel and warn of an initial incline; retain these distinctions. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+      "status": "added",
+      "slug": "glenwood-gardens",
+      "nextStep": "Official listing, separate community account(s), and original visual guides added in parks-post-truist-2026-11-13. Continue precise grades, surfaces, entrance controls and toilet/changing details; preserve source conflicts and dated restrictions."
     },
     {
       "name": "Woodland Mound",
@@ -373,9 +374,9 @@
       "name": "Fernald Preserve",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Comment distinguishes prairie paths and the Hickory route; check operator maps and closures. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+      "status": "added",
+      "slug": "fernald-preserve",
+      "nextStep": "Official listing, separate community account(s), and original visual guides added in parks-post-truist-2026-11-13. Continue precise grades, surfaces, entrance controls and toilet/changing details; preserve source conflicts and dated restrictions."
     },
     {
       "name": "Gilmore Ponds MetroPark",
@@ -408,13 +409,35 @@
       "status": "lead_only",
       "slug": null,
       "nextStep": "The dirt-path suggestion is conjectural and weather-dependent; no wheelchair-access claim verified. Check current official maps, closures, route measurements, toilets/rest points and access photographs before import."
+    },
+    {
+      "name": "CAM International Market — Evendale",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/comment/ovwzbfx/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Official location page at huaxin.us lists 10400 Reading Road #145 and hours; doorway/aisles/toilets/pickup help need research. Original winter storefront photograph inspected: entrance, carts, designated-parking signs, curb/islands and snow; capture date and continuous route unknown. A public commenter reports visits and helpful signage, not a measured access visit. Follow the linked preflight before listing."
+    },
+    {
+      "name": "Meijer — Cold Spring",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/comment/ovxrvdq/",
+      "underlyingDiscussionRead": true,
+      "status": "held_source_blocked",
+      "slug": null,
+      "nextStep": "The specific store is named in a public shopping recommendation. Official locator 168 is readable through web search/open but the factual helper returns 403; keep held for source-gated import. Do not apply separate generic Meijer wide-aisle comments to this branch. Check pickup procedures, equipment availability, entrances and toilets."
+    },
+    {
+      "name": "Deer Park IGA — exact branch to confirm",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/comment/ovx1n2s/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Public commenter describes staffed checkout and deli service but names only Deer Park IGA. Dillonvale IGA at 3950 East Galbraith Road is a plausible match with a readable branded site; do not treat identity as resolved. Verify exact branch, current checkout/help, entrances and toilets before listing or importing the account."
     }
   ],
-  "addedVenues": 8,
-  "remainingVenueLeads": 29,
-  "communityReportsAdded": 8,
-  "officialNotesAdded": 36,
-  "uncertainty": "A recommendation is not a measured access assessment. No community physical-access claim imported as venue_official. Exact comment and visit dates remain null in the public reports; indexed thread dates are qualified in their caveats.",
+  "addedVenues": 14,
+  "remainingVenueLeads": 38,
+  "uncertainty": "Recommendations are not measured access assessments. Comment dates and visit dates remain null unless independently established. Preserve source identity, separate actual outing accounts from conjecture and keep community reports separate from official facts.",
   "otherSources": [
     {
       "url": "https://www.tripadvisor.com/ShowTopic-g60993-i402-k8678182-Wheelchair_accessible_parks-Cincinnati_Ohio.html",
@@ -467,6 +490,30 @@
     "Disboards Cincinnati wheelchair search (no usable source selected)",
     "Reddit r/NorthernKY (underlying discussion read; same project author cross-posting, not independent corroboration)",
     "Public December 2024 r/cincinnati reading-place discussion",
-    "Visit Cincy / meetNKY first-person Olla visit, published June 25, 2021"
-  ]
+    "Visit Cincy / meetNKY first-person Olla visit, published June 25, 2021",
+    "November 13 parks/post/truist pass: r/cincinnati, r/covington, Northern Kentucky, Tripadvisor and City-Data public searches; underlying wheelchair-path thread reread, four narrow reports retained; no private groups or messages."
+  ],
+  "candidateCount": 52,
+  "statusCounts": {
+    "lead_only": 35,
+    "added": 14,
+    "held_contact_conflict": 1,
+    "held_unextractable_official_site": 1,
+    "held_source_blocked": 1
+  },
+  "priorBatchCounters": {
+    "communityReportsAdded": 8,
+    "officialNotesAdded": 36,
+    "scope": "Original dining batches only; these were not cumulative queue totals."
+  },
+  "latestBatch": {
+    "report": "parks-post-truist-2026-11-13.md",
+    "communityLedVenuesAdded": 3,
+    "otherVenuesAdded": 1,
+    "communityReportsAdded": 4,
+    "officialNotesInCommunityVenues": 28,
+    "note": "Walton Post Office came from licensed-photo discovery, not a forum recommendation.",
+    "groceryLeadsPrepared": 3,
+    "groceryPreflight": "parks-post-truist-2026-11-13-grocery-preflight.json"
+  }
 }

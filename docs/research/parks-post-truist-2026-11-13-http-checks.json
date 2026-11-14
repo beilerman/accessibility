@@ -1,0 +1,25 @@
+{
+  "scope": "Generated HTML and asset checks only; not browser interaction, layout or axe validation.",
+  "routes": [
+    "/venues/truist-arena",
+    "/venues/southgate-house-revival",
+    "/venues/kenwood-towne-centre",
+    "/venues/walton-post-office",
+    "/venues/farbach-werner-nature-preserve",
+    "/venues/glenwood-gardens",
+    "/venues/fernald-preserve",
+    "/access-in-pictures",
+    "/venues?region=KY&category=Public+services",
+    "/venues?region=OH&category=Parks+%26+outdoors&q=Farbach",
+    "/visitor-reports?region=OH&domain=mobility&q=initial+incline",
+    "/venues?q=zz-no-such-place"
+  ],
+  "route_count": 12,
+  "counts": {
+    "note_claims": 66,
+    "guide_links": 10,
+    "reports": 4
+  },
+  "photo_asset_hash_matches": true,
+  "category_and_report_filters": true
+}

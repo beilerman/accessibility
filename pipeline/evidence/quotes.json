@@ -5807,6 +5807,160 @@
   "source_sha256": "aa6268579d7c8a565d539bf374aeedad2340ecf4df40f2b3a912f291b19d31c7",
   "final_url": "https://falcontheater.net/contact-us/directions-to-falcon/"
  },
+ "farbach-werner-nature-preserve.chronic.1": {
+  "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/ellenwood-nature-barn",
+  "quote": "Ellenwood Nature Barn",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Amenities Parking Restrooms"
+  ],
+  "claim_sha256": "4d7a723426c3e7f0aa59ee51c51b18228e86be4984a33b327e79e1b2256bf652",
+  "source_sha256": "1cecc248086b969f645046306d5c6da33a132b2f6391b3ecd5ca5b80ec6c8abe",
+  "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/ellenwood-nature-barn"
+ },
+ "farbach-werner-nature-preserve.cognitive.1": {
+  "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+  "quote": "Open daily from dawn until dusk",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Phone: 513-385-4811"
+  ],
+  "claim_sha256": "97a69b44a7b1a581830b4561fd5bf7ba34de8ca6816ec30f031e1a32ba4c04c5",
+  "source_sha256": "749de6e447f6fca45b68801b78de66c4b40a445ea68e586229cf5ad84585fb79",
+  "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve"
+ },
+ "farbach-werner-nature-preserve.cognitive.2": {
+  "url": "https://www.greatparks.org/about/motor-vehicle-permit",
+  "quote": "A valid Motor Vehicle Permit (MVP) is required for vehicle entry at Great Parks' parks and conservation areas across Hamilton County.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "704d070b2e55dd3f91057f1fc2cfd0804743a6c4e75416102669ae3162fbd851",
+  "source_sha256": "2bb990e5bd3a39b2246e0c793b5e8beb8789ea2f86aa7ada21bef2dbebed45f3",
+  "final_url": "https://www.greatparks.org/about/policies/entrance-to-parks-and-facilities"
+ },
+ "farbach-werner-nature-preserve.cognitive.3": {
+  "url": "https://www.greatparks.org/about/accessibility",
+  "quote": "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs . People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "11dcd810ccfbf56847f59208ded3acc7f6d32cc17b6b4100df0b06cb0dace455",
+  "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+  "final_url": "https://www.greatparks.org/about/accessibility"
+ },
+ "farbach-werner-nature-preserve.mobility.1": {
+  "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+  "quote": "Amenities Open Daily Parking Restrooms",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "76e7346260603e007f71e35af78747cc42e55fead6d0cdb0c9bfacf5ff1c0bba",
+  "source_sha256": "749de6e447f6fca45b68801b78de66c4b40a445ea68e586229cf5ad84585fb79",
+  "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve"
+ },
+ "farbach-werner-nature-preserve.mobility.2": {
+  "url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail",
+  "quote": "Winds through three habitats: shady second-growth forest with beeches, maples and pin oaks; open prairie with towering big bluestem grasses that attract birds, voles and deer. Amenities 1.1 Miles Nature Trail Easy",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "60b753207f5db67bb310af11de13a1bfc143cf5272a0a90040cd4a7b4d2de462",
+  "source_sha256": "39602b6acfeb0f63a6dcb409578207710eba4e2a332fed969259093f52672fa4",
+  "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail"
+ },
+ "farbach-werner-nature-preserve.mobility.3": {
+  "url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en",
+  "quote": "2026 Great Parks Trail Challenge",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Farbach- Werner Nature Preserve Pin Oak 0.6 Natural Loop"
+  ],
+  "claim_sha256": "9316ee1da68d561bc424a9cf3dc34d313b4f1836b587a84e22ac011a50201279",
+  "source_sha256": "f2acf1db1d667ffdc7a7d12d6d799c59f7b3a4e2bbdefa5c447c94e1f2b90c7d",
+  "final_url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en"
+ },
+ "fernald-preserve.chronic.1": {
+  "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+  "quote": "Fires, open flames, or smoking.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Our no pets allowed policy does not apply to visitors with service animals."
+  ],
+  "claim_sha256": "1263ea03bf5e173e0b7cdc59d8ed74cd8f8bafdf6017bdb9e8f56576bbe38783",
+  "source_sha256": "31d583459e33f1fd27a793332d206323d4894b5562ae891122228eff23947549",
+  "final_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center"
+ },
+ "fernald-preserve.chronic.2": {
+  "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+  "quote": "September 2024",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "4.5 Program Shelter The Program Shelter maximum capacity is 58 at four standard 8-foot tables with benches and two standard 8-foot ADA-compliant tables with benches. Users may not reconfigure the tables. Restrooms are available inside the Visitors Center."
+  ],
+  "claim_sha256": "fcc973fbd2162c664aa10a04e7d12f0d7b31785fe048c08912dfe4ab6d7d4aa4",
+  "source_sha256": "5bc39350f8602b3e8a6a7ea581356b27c55a7a777bd6874ea81e6422c734a99a",
+  "final_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf"
+ },
+ "fernald-preserve.cognitive.1": {
+  "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+  "quote": "The Fernald Preserve Visitors Center is free and open to all. Walk-in visitors are welcome during normal open hours with scheduled programs, available daily, evenings, and weekends. Hours of Operation Visitors Center Wednesday through Saturday: 9:00 a.m. to 5:00 p.m. Sunday: 12:00 p.m. to 5:00 p.m. Closed federal holidays. Fernald Preserve Monday through Sunday: 7:00 a.m. to dusk",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0052290dfa5c0c01885802dc029723df7689cc858be0c985a4b4740e332aa00e",
+  "source_sha256": "31d583459e33f1fd27a793332d206323d4894b5562ae891122228eff23947549",
+  "final_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center"
+ },
+ "fernald-preserve.cognitive.2": {
+  "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+  "quote": "Fernald Preserve Visitors Center (513) 648-3330",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "fernald@LM.doe.gov"
+  ],
+  "claim_sha256": "6426c24b6b0089214c406b3d66d9972396fcecd7d31b0140f71fbc66b6b38231",
+  "source_sha256": "31d583459e33f1fd27a793332d206323d4894b5562ae891122228eff23947549",
+  "final_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center"
+ },
+ "fernald-preserve.cognitive.3": {
+  "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+  "quote": "Applications for the use of the meeting spaces or to schedule a program require advance LM permission and approval. To use a meeting space or to schedule a program, an application must be filled out and submitted. Applications can be obtained by emailing fernald@lm.doe.gov. A completed application must be submitted by an authorized representative of the requesting group; this person is responsible for sharing this policy with other members of the group as needed, supervising the group, and being present during the requested event. Applications will receive an email acknowledgement within 3 business days. After the request is reviewed and approved, a final confirmation will be emailed. Applications should be submitted at least 21 calendar days before the requested date. Reservations can be made up to 1 year in advance. Reservations are scheduled on a first-come, first-served basis. LM reserves the right to preempt an approved reservation to conduct business, maintenance, repair, or construction or as needed to ensure the safety of staff and visitors. Applications may be denied if the meeting space or staff is unavailable, the application is incomplete, or the proposed use is contrary to the general use terms and conditions stated above. If an application is denied, the applicant will be informed of the denial and the reason for the denial.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f2de79ad72f17412b7825cd8000ce2fdd9d95eb463d148be3a202daf371a6adb",
+  "source_sha256": "5bc39350f8602b3e8a6a7ea581356b27c55a7a777bd6874ea81e6422c734a99a",
+  "final_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf"
+ },
+ "fernald-preserve.cognitive.4": {
+  "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+  "quote": "The Community Meeting Room maximum capacity is 120 for theater seating, 80 for classroom seating, and 40 for conference room seating. Chairs and up to 18 tables are available for users. Users can reconfigure the room under the supervision of staff if alternate layouts are requested on the application and approved by LM. Before departure, the room must be returned to its original configuration under the supervision of staff.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "4796f4aaeb1b50974845d54489fcbe8484166db4dcfcbd915dbeab796e6d342d",
+  "source_sha256": "5bc39350f8602b3e8a6a7ea581356b27c55a7a777bd6874ea81e6422c734a99a",
+  "final_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf"
+ },
+ "fernald-preserve.cognitive.5": {
+  "url": "https://www.energy.gov/lm/explore-programs-and-meetings-fernald-preserve-visitors-center",
+  "quote": "Seating capacity for the Community Meeting Room is 120 for theater seating and 80 for conference seating. Seating capacity at standard tables in the outdoor Program Shelter is 58. The seating capacity in the Resource Room is 8 (at a conference table). The application review process to reserve these facilities could take up to two weeks.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "7f66d733a3d3d16b884cbd827b284013a070618928cfddbeb2781f85bac5fa26",
+  "source_sha256": "3089e5d3a75d000c4bf091f0c54e4e7a4a19747c90c5ed7b7fbbe0e3d3906cd5",
+  "final_url": "https://www.energy.gov/lm/explore-programs-and-meetings-fernald-preserve-visitors-center"
+ },
+ "fernald-preserve.mobility.1": {
+  "url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+  "quote": "From Eastern Cincinnati West on I-275 to Exit 33A, U.S. 27 (Colerain Avenue). North (right) on U.S. 27 for 5 miles to the Hamilton-Ross exit. Left on State Route 128 (Hamilton-Cleves Highway) through Ross for 4 miles to Willey Road. Right on Willey Road ¼ mile to the Fernald Preserve entrance on the right.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3ad54db697b2bcb3c72214b5b570867d55f91343275510954ff4aa5fcc4057b9",
+  "source_sha256": "31d583459e33f1fd27a793332d206323d4894b5562ae891122228eff23947549",
+  "final_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center"
+ },
+ "fernald-preserve.mobility.2": {
+  "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+  "quote": "The Program Shelter maximum capacity is 58 at four standard 8-foot tables with benches and two standard 8-foot ADA-compliant tables with benches. Users may not reconfigure the tables.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "72faeb08ce33009a35b8cfb2b4e3405e4a4674d821b23f0c485f6880faaadd3a",
+  "source_sha256": "5bc39350f8602b3e8a6a7ea581356b27c55a7a777bd6874ea81e6422c734a99a",
+  "final_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf"
+ },
+ "fernald-preserve.mobility.3": {
+  "url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+  "quote": "Escorted driving tours of the site with stops at points of interest are available.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b0e6cef80877b7c5ec181c5fa48d9e9ed4390106ef5768ab06eb02f4db121647",
+  "source_sha256": "5bc39350f8602b3e8a6a7ea581356b27c55a7a777bd6874ea81e6422c734a99a",
+  "final_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf"
+ },
  "fifth-third-arena.chronic.1": {
   "url": "https://gobearcats.com/basketball-gameday-guide",
   "quote": "Fifth Third Arena follows the University of Cincinnati's Service Animal and Emotional Support Animal Policy, which can be viewed HERE .",
@@ -6989,6 +7143,112 @@
   "url": "https://www.boonecountyky.org/business_detail_T35_R202.php",
   "quote": "Parking is available at Valley Orchards; be prepared to walk down uneven ground. Handicap accessible parking is available at Gile Conrad Park (7500 River Road), along with a paved walking path to the fields.",
   "verified_at": "2026-11-12"
+ },
+ "glenwood-gardens.chronic.1": {
+  "url": "https://www.greatparks.org/parks/glenwood-gardens",
+  "quote": "From November 12--17, contractors will be performing maintenance on both the men's and women's restrooms. Access to both will be restricted for the duration of the project. A portable toilet will be provided near the Gatehouse.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "2bd0745f2cbcf1c8f185105fb9b7aa3f3e8e922c69324ba74b4dfff6ef3e17f4",
+  "source_sha256": "5b307bccf339a92903b3daa3f918d91d6bc8e83ab855135faffc558cbf4ab7b1",
+  "final_url": "https://www.greatparks.org/parks/glenwood-gardens"
+ },
+ "glenwood-gardens.cognitive.1": {
+  "url": "https://www.greatparks.org/parks/glenwood-gardens",
+  "quote": "Amenities Open Daily Parking Restrooms Playground",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Open daily from dawn until dusk"
+  ],
+  "claim_sha256": "131acfa0eb829a1201f414c689c213d07631decc337b34622bb6d36197315fda",
+  "source_sha256": "5b307bccf339a92903b3daa3f918d91d6bc8e83ab855135faffc558cbf4ab7b1",
+  "final_url": "https://www.greatparks.org/parks/glenwood-gardens"
+ },
+ "glenwood-gardens.cognitive.2": {
+  "url": "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center",
+  "quote": "Cool Season (November - March): Mon. & Tues.: Closed Wed. - Sat.: 10:30 a.m. - 4:30 p.m. Sunday: Noon-4:30 p.m.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Closed: New Year's Day, Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve"
+  ],
+  "claim_sha256": "d6cacbfe589dff5aeca05475d6bd88619c765eb4622237d998e6d686c6486d70",
+  "source_sha256": "da11507cffab4542bad7cfa189d7fdf8a131be2b370eebcbee34e6e350ffef8c",
+  "final_url": "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center"
+ },
+ "glenwood-gardens.cognitive.3": {
+  "url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+  "quote": "General Admission: $7 / person",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Cool Season (November - March): Mon. & Tues.: Closed Wed. - Sat.: 10:30 a.m. - 4:30 p.m. Sunday: Noon-4:30 p.m.",
+   "Closed: New Year's Day, Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve"
+  ],
+  "claim_sha256": "ef9eba3d9999ad4b99af66b381c17c58315175d2efae4d508f4617848743bb85",
+  "source_sha256": "97ce8f33b521ad86f24498a182ef5ab097b91bce2369d63994dc5aa850727a18",
+  "final_url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden"
+ },
+ "glenwood-gardens.cognitive.4": {
+  "url": "https://www.greatparks.org/about/motor-vehicle-permit",
+  "quote": "A valid Motor Vehicle Permit (MVP) is required for vehicle entry at Great Parks' parks and conservation areas across Hamilton County.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8ab7a2b0ea3c185b9a62bdb4a34a3d1e75e7fb71ad68f4bc30a54eb515ff3ee4",
+  "source_sha256": "2bb990e5bd3a39b2246e0c793b5e8beb8789ea2f86aa7ada21bef2dbebed45f3",
+  "final_url": "https://www.greatparks.org/about/policies/entrance-to-parks-and-facilities"
+ },
+ "glenwood-gardens.cognitive.5": {
+  "url": "https://www.greatparks.org/about/accessibility",
+  "quote": "Great Parks will make every effort, with two weeks advance notice, to provide reasonable accommodations so that people with disabilities may participate in special events and educational programs . People with disabilities needing special accommodations for the accessibility of programs should contact Guest Relations at 513-521-7275, Voice/TDD.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c5fd1742cdcbc0bd7179438a444d6aec11ed7e1cc274cd5318ba5c66bce96b8b",
+  "source_sha256": "e7ca5f4db604a5e8010802feeb905887905a58debb52b28d899af65865143d34",
+  "final_url": "https://www.greatparks.org/about/accessibility"
+ },
+ "glenwood-gardens.mobility.1": {
+  "url": "https://www.greatparks.org/parks/glenwood-gardens/garden-loop-trail",
+  "quote": "This trail passes the Legacy Garden and a scenic overlook with a gazebo and listings of memorial trees planted in the fields below. The inner loop follows the Mill Creek, which flows to the Ohio River. A stone bridge built with local rock features visible fossils from ancient sea life that once inhabited the area. Amenities 1.1 miles Nature Trail Easy Parking Restrooms",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3e7b32440f8888c600dbc10103e1a23db449e7911b412d0c905cfa8d18307941",
+  "source_sha256": "6c25a4f8f682d7f0e6916a3afa928315a5d720d62457cd07287abff4b006438f",
+  "final_url": "https://www.greatparks.org/parks/glenwood-gardens/garden-loop-trail"
+ },
+ "glenwood-gardens.mobility.2": {
+  "url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en",
+  "quote": "2026 Great Parks Trail Challenge",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Glenwood Gardens Garden Loop 1 Paved Loop Wetland Loop 1.6 Natural Loop"
+  ],
+  "claim_sha256": "88b58ebda6d9e4bcf8910c63bb156255230741f2629d36a5d38de9afae410860",
+  "source_sha256": "f2acf1db1d667ffdc7a7d12d6d799c59f7b3a4e2bbdefa5c447c94e1f2b90c7d",
+  "final_url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en"
+ },
+ "glenwood-gardens.mobility.3": {
+  "url": "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail",
+  "quote": "Phase 1 construction included new sidewalk connections to Metro bus transit and a signalized crosswalk to improve pedestrian and bicycle safety on Springfield Pike and Glendale-Milford Road.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "ecc46b194f5e61d6b27f2643746bf0c625c377c59899e4675fe5ad4dd4c0477a",
+  "source_sha256": "e29d23f109a8a009178344d8cc801918520cba6256abcb5df5d45fdf8519f37d",
+  "final_url": "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail"
+ },
+ "glenwood-gardens.mobility.4": {
+  "url": "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail",
+  "quote": "Construction is underway on the final phase of the Glenwood Gardens to Winton Woods Trail.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Phase 2 construction will complete the trail connection between the existing West Fork Mill Creek Greenway Trail at the entrance to Glenwood Gardens and the Harbor Loop Trail at Winton Woods.",
+   "Phase 2: Fall 2025-Fall 2027",
+   "Timeline is an estimate based on the current project status and is subject to change."
+  ],
+  "claim_sha256": "ca6f5e076e7ad343cd250e2c14ef5c7ed5b50fedf817f9a2bb0c8ee2ed12b032",
+  "source_sha256": "e29d23f109a8a009178344d8cc801918520cba6256abcb5df5d45fdf8519f37d",
+  "final_url": "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail"
+ },
+ "glenwood-gardens.sensory.1": {
+  "url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+  "quote": "The Music Garden adds another playful element, where guests can make music on a collection of outdoor instruments.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c8f4772b9f53fd098ddbebf3de70768526776347480cca095aaf6a908f97670b",
+  "source_sha256": "97ce8f33b521ad86f24498a182ef5ab097b91bce2369d63994dc5aa850727a18",
+  "final_url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden"
  },
  "go-bananas-comedy-club.cognitive.1": {
   "url": "https://gobananascomedy.com/main/",
@@ -8268,53 +8528,105 @@
  },
  "kenwood-towne-centre.chronic.1": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
-  "quote": "The family restrooms at Kenwood Towne Centre are located on the lower level in the men's and women's restrooms. Where are the Baby Care lounges at Kenwood Towne Centre? The Baby Care Lounges at Kenwood Towne Centre are located on the first floor in the food court near the women's restroom. Is there a place dedicated to nursing at Kenwood Towne Centre? Yes, there is a place dedicated to nursing at Kenwood Towne Centre, as nursing rooms are located on the lower level near the Women and Family restrooms. Where are the general sitting areas at Kenwood Towne Centre? The general seating areas at Kenwood Towne Centre are located on the first and second floor near center court, on the second floor near Apple, and on the second floor in the Nordstrom's wing.",
-  "verified_at": "2026-11-11"
+  "quote": "The family restrooms at Kenwood Towne Centre are located on the lower level in the men's and women's restrooms.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The general seating areas at Kenwood Towne Centre are located on the first and second floor near center court, on the second floor near Apple, and on the second floor in the Nordstrom's wing."
+  ],
+  "claim_sha256": "4074a7df8bf79c1c5a6fad9fc22029de116ed34ddc945e7c52c6b35079256d5c",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.chronic.2": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
-  "quote": "Yes, Kenwood Towne Centre supports mall walkers as doors are unlocked one hour prior to stores opening. Where can I find job openings for Kenwood Towne Centre? You can find job openings for your mall at Kenwood Towne Centre by visiting https://www.kenwoodtownecentre.com/en/jobs/ or calling 513.745.9100. Are pets allowed at Kenwood Towne Centre? Pets are not allowed at Kenwood Towne Centre, but service dogs are permitted.",
-  "verified_at": "2026-11-11"
+  "quote": "Yes, Kenwood Towne Centre supports mall walkers as doors are unlocked one hour prior to stores opening.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Pets are not allowed at Kenwood Towne Centre, but service dogs are permitted."
+  ],
+  "claim_sha256": "62d57c97b572376e838b50a76366dfb3c8e07390283397e5f31df5fcbf3bf0c6",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.chronic.3": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
-  "quote": "The restrooms at Kenwood Towne Centre are located on the first floor in the food court, and on the second floor in the Dillard's wing and near Purple and entry four. Where are the family restrooms at Kenwood Towne Centre? The family restrooms at Kenwood Towne Centre are located on the lower level in the men's and women's restrooms. Where are the Baby Care lounges at Kenwood Towne Centre? The Baby Care Lounges at Kenwood Towne Centre are located on the first floor in the food court near the women's restroom. Is there a place dedicated to nursing at Kenwood Towne Centre? Yes, there is a place dedicated to nursing at Kenwood Towne Centre, as nursing rooms are located on the lower level near the Women and Family restrooms.",
-  "verified_at": "2026-11-11"
+  "quote": "The restrooms at Kenwood Towne Centre are located on the first floor in the food court, and on the second floor in the Dillard's wing and near Purple and entry four.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Yes, there is a place dedicated to nursing at Kenwood Towne Centre, as nursing rooms are located on the lower level near the Women and Family restrooms."
+  ],
+  "claim_sha256": "c2f3acbc341a778d605069e234d9c5be914839c199b5c64e3480e0d9a90b968d",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.cognitive.1": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
   "quote": "To contact security at Kenwood Towne Centre, which is located on the first floor near the food court, you can call 513.793.7887 or 513.713.7400. Where is the mall security office located? The security office at Kenwood Towne Centre is located on the lower level near the Womens and Family restrooms to the left of the food court.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Yes, wheelchairs are available to rent at Kenwood Towne Centre, as we offer manual wheelchairs at no charge that can be picked up at the Security office on a first come first serve basis."
+  ],
+  "claim_sha256": "09b4893073f8ae657518de4a378806b9a2fcf0f4dadac39c137a7fdbe08e29e6",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.cognitive.2": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
   "quote": "Yes, our security office at Kenwood Towne Centre offers safety escorts upon request.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "bb67c4031e64ba9d7628a6e0f0d8c9a5c83216cf33adb56e8e4ea212d643d985",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.mobility.1": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
   "quote": "Yes, wheelchairs are available to rent at Kenwood Towne Centre, as we offer manual wheelchairs at no charge that can be picked up at the Security office on a first come first serve basis.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "46bb8564fd4bd886f639554a7a7ad93a5e1d1809f2f7b571408fe12f4094926e",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.mobility.2": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
-  "quote": "Yes, there are designated drop off or pick up locations for ride share at Kenwood Towne Centre, which are located in the lower level of the Kenwood Towne Centre parking garage. Is there a movie theatre at Kenwood Towne Centre? No, there is not a movie theatre at Kenwood Towne Centre. Is there a farmers market? No, there is not a farmers market at Kenwood Towne Centre. Is there a dog park? No, there is not a dog park at Kenwood Towne Centre. Is there a carousel? No, there is not a carousel at Kenwood Towne Centre. Are there electric scooters? No, there are no electric scooters at Kenwood Towne Centre. Are there massage chairs? Yes, there are massage chairs at Kenwood Towne Centre, located on the upper level near the Dillard's and Macy's wing. Are gift wrapping services available? No, gift wrapping services are not available at Kenwood Towne Centre. Is curbside pickup available at Kenwood Towne Centre? Yes, curbside pickup is available at Kenwood Towne Centre, with Premium Parking located near entry 1, 2, 3 and 5, and restaurants in the front have curbside pickup. Where are the taxi services located at Kenwood Towne Centre? There are no taxi services located at Kenwood Towne Centre. Where are the transportation schedules located at Kenwood Towne Centre? There are no transportation schedules posted at Kenwood Towne Centre. Are there shuttle services at Kenwood Towne Centre? No, there are no shuttle services at Kenwood Towne Centre. Does Kenwood Towne Centre offer jump starts? Yes, please call the security office at 513.793.7887 or 513.713.7400 for jump services at Kenwood Towne Centre. What is the lost vehicle protocol? The lost vehicle protocol at Kenwood Towne Centre requires you to contact security at 513.793.7887 or 513.713.7400, and security will assist the customer locate their vehicle. What is the towing protocol? The towing protocol at Kenwood Towne Centre dictates that any vehicle left on property after 3 days is subject to towing at owners expense, and the security department can offer information on towing service. Do you have a foreign currency exchange? No, we do not have a foreign currency exchange at Kenwood Towne Centre. Is there a sales tax return service for international travels? No, there is no sales tax return service for international travelers at Kenwood Towne Centre. STORES & DINING OPTIONS Is there outdoor dining at Kenwood Towne Centre? Some restaurants outside of the food court offer outdoor dining at Kenwood Towne Centre. Does Kenwood Towne Centre have options for group dining? Yes, Kenwood Towne Centre does have options for group dining in the food court. PARKING & VALET How much is parking at Kenwood Towne Centre? Parking remains complimentary at Kenwood Towne Centre, with optional Preferred Paid Parking available in select spaces. Preferred Paid Parking is managed through Premium Parking. For information on parking rates, please visit www.premiumparking.com . Preferred paid parking is enforced 24 hours a day, seven days a week. Purchase a Preferred Paid Parking space at Kenwood Towne Centre today and 9% of your parking payment (less taxes and platform fees) will be donated to City Gospel Mission on behalf of Kenwood Towne Centre. For a limited time only. Parking purchases are not tax deductible. To contact or learn more about City Gospel Mission and its charitable purposes, visit www.citygospelmission.org . Who do I contact if I have questions about paid parking, the payment platform, or parking violations? If you have any questions regarding paid parking at Kenwood Towne Centre, Premium Parking offers 24/7 Customer Support for Star Spaces®. Please call 1-844-236-2011 and a US-based agents will be happy to assist. The Mall Management Office is unable to provide technical support; you must contact the parking operator directly for assistance. Is there local parking at Kenwood Towne Centre? Yes, there are three parking structures and plenty of surface parking. Parking garages are accessible from Kenwood and Galbraith roads. Surface parking is accessible from Montgomery, Kenwood, and Galbraith roads. Is valet parking available at Kenwood Towne Centre? No, valet parking is not available at Kenwood Towne Centre. Are there any electric car charging stations in the Kenwood Towne Centre parking lots? No, there are no electric car charging stations at Kenwood Towne Centre. Is there preferred family parking at Kenwood Towne Centre? No, there is no preferred family parking at Kenwood Towne Centre. SECURITY How do I contact mall security at Kenwood Towne Centre? To contact security at Kenwood Towne Centre, which is located on the first floor near the food court, you can call 513.793.7887 or 513.713.7400. Where is the mall security office located? The security office at Kenwood Towne Centre is located on the lower level near the Womens and Family restrooms to the left of the food court. Does Kenwood Towne Centre use License Plate Reader (LPR) technology? Yes, Kenwood Towne Centre uses LPR technology. More detailed information can be found here . Where is the lost and found at Kenwood Towne Centre? The lost and found at Kenwood Towne Centre is located in the Security Office to the left of the food court on the lower level. Does Kenwood Towne Centre offer safety escorts? Yes, our security office at Kenwood Towne Centre offers safety escorts upon request. Does Kenwood Towne Centre offer police assistance? Please call 911 in case of an emergency, as the Kenwood Towne Centre does not offer police assistance. Does Kenwood Towne Centre offer medical assistance? Please call 911 in case of an emergency, as the Kenwood Towne Centre does not offer medical assistance. Does Kenwood Towne Centre have a K-9/gun sniffing program? Yes, Kenwood Towne Centre does have a K-9/gun sniffing program, as we have a K-9 vapor wake dog in the mall. AMENITIES Are wheelchairs and/or electric wheelchairs available to rent at Kenwood Towne Centre? Yes, wheelchairs are available to rent at Kenwood Towne Centre, as we offer manual wheelchairs at no charge that can be picked up at the Security office on a first come first serve basis. Are strollers and/or double strollers available to rent at Kenwood Towne Centre? Yes, strollers are available to rent at Kenwood Towne Centre, with single strollers located on the upper level near Nordstrom. Where are the elevators at Kenwood Towne Centre? The elevators at Kenwood Towne Centre are located on the upper level left of Nordstrom and outside of Dillard's.",
-  "verified_at": "2026-11-11"
+  "quote": "The elevators at Kenwood Towne Centre are located on the upper level left of Nordstrom and outside of Dillard's.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Yes, there are designated drop off or pick up locations for ride share at Kenwood Towne Centre, which are located in the lower level of the Kenwood Towne Centre parking garage."
+  ],
+  "claim_sha256": "e4b013fe0cbbc9bb4a9cb278b0783f0e94ef08002b623a5dbe996edaaa359c3d",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.mobility.3": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
-  "quote": "No, there are no shuttle services at Kenwood Towne Centre. Does Kenwood Towne Centre offer jump starts? Yes, please call the security office at 513.793.7887 or 513.713.7400 for jump services at Kenwood Towne Centre. What is the lost vehicle protocol? The lost vehicle protocol at Kenwood Towne Centre requires you to contact security at 513.793.7887 or 513.713.7400, and security will assist the customer locate their vehicle. What is the towing protocol? The towing protocol at Kenwood Towne Centre dictates that any vehicle left on property after 3 days is subject to towing at owners expense, and the security department can offer information on towing service. Do you have a foreign currency exchange? No, we do not have a foreign currency exchange at Kenwood Towne Centre. Is there a sales tax return service for international travels? No, there is no sales tax return service for international travelers at Kenwood Towne Centre. STORES & DINING OPTIONS Is there outdoor dining at Kenwood Towne Centre? Some restaurants outside of the food court offer outdoor dining at Kenwood Towne Centre. Does Kenwood Towne Centre have options for group dining? Yes, Kenwood Towne Centre does have options for group dining in the food court. PARKING & VALET How much is parking at Kenwood Towne Centre? Parking remains complimentary at Kenwood Towne Centre, with optional Preferred Paid Parking available in select spaces. Preferred Paid Parking is managed through Premium Parking. For information on parking rates, please visit www.premiumparking.com . Preferred paid parking is enforced 24 hours a day, seven days a week. Purchase a Preferred Paid Parking space at Kenwood Towne Centre today and 9% of your parking payment (less taxes and platform fees) will be donated to City Gospel Mission on behalf of Kenwood Towne Centre. For a limited time only. Parking purchases are not tax deductible. To contact or learn more about City Gospel Mission and its charitable purposes, visit www.citygospelmission.org . Who do I contact if I have questions about paid parking, the payment platform, or parking violations? If you have any questions regarding paid parking at Kenwood Towne Centre, Premium Parking offers 24/7 Customer Support for Star Spaces®. Please call 1-844-236-2011 and a US-based agents will be happy to assist. The Mall Management Office is unable to provide technical support; you must contact the parking operator directly for assistance. Is there local parking at Kenwood Towne Centre? Yes, there are three parking structures and plenty of surface parking. Parking garages are accessible from Kenwood and Galbraith roads.",
-  "verified_at": "2026-11-11"
+  "quote": "Parking remains complimentary at Kenwood Towne Centre, with optional Preferred Paid Parking available in select spaces.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Yes, there are three parking structures and plenty of surface parking. Parking garages are accessible from Kenwood and Galbraith roads. Surface parking is accessible from Montgomery, Kenwood, and Galbraith roads.",
+   "No, there are no shuttle services at Kenwood Towne Centre."
+  ],
+  "claim_sha256": "9958ff0f9fbb84a3cbefa3f2120253dd9298872dfddbf75979b717f0f8f626ea",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.mobility.4": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
-  "quote": "No, there are no electric scooters at Kenwood Towne Centre. Are there massage chairs? Yes, there are massage chairs at Kenwood Towne Centre, located on the upper level near the Dillard's and Macy's wing. Are gift wrapping services available? No, gift wrapping services are not available at Kenwood Towne Centre. Is curbside pickup available at Kenwood Towne Centre? Yes, curbside pickup is available at Kenwood Towne Centre, with Premium Parking located near entry 1, 2, 3 and 5, and restaurants in the front have curbside pickup. Where are the taxi services located at Kenwood Towne Centre? There are no taxi services located at Kenwood Towne Centre. Where are the transportation schedules located at Kenwood Towne Centre? There are no transportation schedules posted at Kenwood Towne Centre. Are there shuttle services at Kenwood Towne Centre? No, there are no shuttle services at Kenwood Towne Centre. Does Kenwood Towne Centre offer jump starts? Yes, please call the security office at 513.793.7887 or 513.713.7400 for jump services at Kenwood Towne Centre. What is the lost vehicle protocol? The lost vehicle protocol at Kenwood Towne Centre requires you to contact security at 513.793.7887 or 513.713.7400, and security will assist the customer locate their vehicle. What is the towing protocol? The towing protocol at Kenwood Towne Centre dictates that any vehicle left on property after 3 days is subject to towing at owners expense, and the security department can offer information on towing service. Do you have a foreign currency exchange? No, we do not have a foreign currency exchange at Kenwood Towne Centre. Is there a sales tax return service for international travels? No, there is no sales tax return service for international travelers at Kenwood Towne Centre. STORES & DINING OPTIONS Is there outdoor dining at Kenwood Towne Centre? Some restaurants outside of the food court offer outdoor dining at Kenwood Towne Centre. Does Kenwood Towne Centre have options for group dining? Yes, Kenwood Towne Centre does have options for group dining in the food court. PARKING & VALET How much is parking at Kenwood Towne Centre? Parking remains complimentary at Kenwood Towne Centre, with optional Preferred Paid Parking available in select spaces. Preferred Paid Parking is managed through Premium Parking. For information on parking rates, please visit www.premiumparking.com . Preferred paid parking is enforced 24 hours a day, seven days a week. Purchase a Preferred Paid Parking space at Kenwood Towne Centre today and 9% of your parking payment (less taxes and platform fees) will be donated to City Gospel Mission on behalf of Kenwood Towne Centre. For a limited time only. Parking purchases are not tax deductible. To contact or learn more about City Gospel Mission and its charitable purposes, visit www.citygospelmission.org . Who do I contact if I have questions about paid parking, the payment platform, or parking violations? If you have any questions regarding paid parking at Kenwood Towne Centre, Premium Parking offers 24/7 Customer Support for Star Spaces®. Please call 1-844-236-2011 and a US-based agents will be happy to assist. The Mall Management Office is unable to provide technical support; you must contact the parking operator directly for assistance. Is there local parking at Kenwood Towne Centre? Yes, there are three parking structures and plenty of surface parking. Parking garages are accessible from Kenwood and Galbraith roads. Surface parking is accessible from Montgomery, Kenwood, and Galbraith roads. Is valet parking available at Kenwood Towne Centre? No, valet parking is not available at Kenwood Towne Centre. Are there any electric car charging stations in the Kenwood Towne Centre parking lots? No, there are no electric car charging stations at Kenwood Towne Centre. Is there preferred family parking at Kenwood Towne Centre? No, there is no preferred family parking at Kenwood Towne Centre. SECURITY How do I contact mall security at Kenwood Towne Centre? To contact security at Kenwood Towne Centre, which is located on the first floor near the food court, you can call 513.793.7887 or 513.713.7400. Where is the mall security office located? The security office at Kenwood Towne Centre is located on the lower level near the Womens and Family restrooms to the left of the food court. Does Kenwood Towne Centre use License Plate Reader (LPR) technology? Yes, Kenwood Towne Centre uses LPR technology. More detailed information can be found here . Where is the lost and found at Kenwood Towne Centre? The lost and found at Kenwood Towne Centre is located in the Security Office to the left of the food court on the lower level. Does Kenwood Towne Centre offer safety escorts? Yes, our security office at Kenwood Towne Centre offers safety escorts upon request. Does Kenwood Towne Centre offer police assistance? Please call 911 in case of an emergency, as the Kenwood Towne Centre does not offer police assistance. Does Kenwood Towne Centre offer medical assistance? Please call 911 in case of an emergency, as the Kenwood Towne Centre does not offer medical assistance. Does Kenwood Towne Centre have a K-9/gun sniffing program? Yes, Kenwood Towne Centre does have a K-9/gun sniffing program, as we have a K-9 vapor wake dog in the mall. AMENITIES Are wheelchairs and/or electric wheelchairs available to rent at Kenwood Towne Centre? Yes, wheelchairs are available to rent at Kenwood Towne Centre, as we offer manual wheelchairs at no charge that can be picked up at the Security office on a first come first serve basis.",
-  "verified_at": "2026-11-11"
+  "quote": "No, there are no electric scooters at Kenwood Towne Centre.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Yes, wheelchairs are available to rent at Kenwood Towne Centre, as we offer manual wheelchairs at no charge that can be picked up at the Security office on a first come first serve basis."
+  ],
+  "claim_sha256": "d221769a0cc5ccf72ec0ac651bfef013245ec87472c544df9394802e3ee62c87",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kenwood-towne-centre.mobility.5": {
   "url": "https://www.kenwoodtownecentre.com/en/visit/",
   "quote": "Yes, curbside pickup is available at Kenwood Towne Centre, with Premium Parking located near entry 1, 2, 3 and 5, and restaurants in the front have curbside pickup.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8bc7e2c47fd78113657ba78d3ffc13634bdc824cdb2b4cb21fec434089e3f536",
+  "source_sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
+  "final_url": "https://www.kenwoodtownecentre.com/en/visit/"
  },
  "kings-island.chronic.1": {
   "url": "https://www.sixflags.com/kingsisland/accessibility",
@@ -12266,22 +12578,56 @@
  "southgate-house-revival.chronic.1": {
   "url": "https://www.southgatehouse.com/about/",
   "quote": "No smoking or vaping in the venue.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "e2dcf1406feda19b51e2a5f4e319eeb47784b2dcec37d6e010bf941df59e909b",
+  "source_sha256": "a393509d4937c254464c29c06143cd45c9bb9512a390cdcd173bafd66b77da2e",
+  "final_url": "https://www.southgatehouse.com/about/"
+ },
+ "southgate-house-revival.chronic.2": {
+  "url": "https://www.southgatehouse.com/about/",
+  "quote": "No outside drinks permitted.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3bb177b04147eddf6de597b42544a12b26b329fd396181b48e639d8d775bc2c9",
+  "source_sha256": "a393509d4937c254464c29c06143cd45c9bb9512a390cdcd173bafd66b77da2e",
+  "final_url": "https://www.southgatehouse.com/about/"
  },
  "southgate-house-revival.cognitive.1": {
   "url": "https://www.southgatehouse.com/about/",
   "quote": "All shows are General Admission. Seating availability varies by show (some shows are standing room only, some shows are all seated, most are a mix). Seating is always first come, first serve.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Click on each show to see specific event details."
+  ],
+  "claim_sha256": "cd7e5847615f92d67bc46ca7a3320e972e9b0b05fe7d8b13ab274caf89df5cc6",
+  "source_sha256": "a393509d4937c254464c29c06143cd45c9bb9512a390cdcd173bafd66b77da2e",
+  "final_url": "https://www.southgatehouse.com/about/"
  },
  "southgate-house-revival.cognitive.2": {
   "url": "https://www.southgatehouse.com/about/",
-  "quote": "Seating availability varies by show (some shows are standing room only, some shows are all seated, most are a mix).",
-  "verified_at": "2026-11-10"
+  "quote": "Seating availability varies by show (some shows are standing room only, some shows are all seated, most are a mix). Seating is always first come, first serve.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "State issued ID is required of all guests, regardless of your age."
+  ],
+  "claim_sha256": "f8d1bd0ef14ea7afba93b5a67965e2908cc9b1b3f56db11d0250f561495ea13f",
+  "source_sha256": "a393509d4937c254464c29c06143cd45c9bb9512a390cdcd173bafd66b77da2e",
+  "final_url": "https://www.southgatehouse.com/about/"
  },
  "southgate-house-revival.cognitive.3": {
   "url": "https://www.southgatehouse.com/about/",
   "quote": "Age restrictions vary by show. Some are open to All Ages; others are open to only 18 OR 21 and over.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "167ab9ed268081fdd283153298f2fbaf0e6db36d1765f9b5496033494b44ceb8",
+  "source_sha256": "a393509d4937c254464c29c06143cd45c9bb9512a390cdcd173bafd66b77da2e",
+  "final_url": "https://www.southgatehouse.com/about/"
+ },
+ "southgate-house-revival.cognitive.4": {
+  "url": "https://www.southgatehouse.com/about/",
+  "quote": "Tickets can also be purchased in person in the lounge bar any time we're open for a show (usually Wed-Sat 5pm-2am). There are NO service fees when paying with cash.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "4c4ffe17514954f6c566a7c0e29bb41d62d36f17b622b91fb5120181e1b2ebb6",
+  "source_sha256": "a393509d4937c254464c29c06143cd45c9bb9512a390cdcd173bafd66b77da2e",
+  "final_url": "https://www.southgatehouse.com/about/"
  },
  "streetside-brewery.chronic.1": {
   "url": "https://www.streetsidebrewery.com/taproom",
@@ -13453,53 +13799,167 @@
  },
  "truist-arena.chronic.1": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
-  "quote": "Patrons may not bring food into Truist Arena. However, there are concession stands available throughout the building.",
-  "verified_at": "2026-11-10"
+  "quote": "Patrons may not bring food into Truist Arena.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "A Clear Bag Policy is in effect all shows/events.",
+   "Exceptions can be made for Medical bags/Diaper bags after a proper inspection."
+  ],
+  "claim_sha256": "f9a1591885989fbb5256ceb9fcad174f7998d0331d64d542c8816002e88411a8",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.chronic.2": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
   "quote": "Exiting and re-entering the building with the same ticket is not permitted. Exceptions are only made in the case of medical situations and emergencies.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "6ff5370b85975e1ad24d8c8e3fbdb22e74740be3294fd62af13fc5a8b3f695a4",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.chronic.3": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
   "quote": "Truist Arena offers a total of 30 restrooms including 1 unisex family restroom, all accessible to persons with disabilities.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0df38d23590a40be4f4caed7ce71b85a5332a4ff86cbb4ac47ffa85a39d6218c",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
+ },
+ "truist-arena.chronic.4": {
+  "url": "https://thetruistarena.com/plan-your-visit/faq",
+  "quote": "Baby changing stations are available in most of the public restrooms at Truist Arena.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "A select number of restrooms include diaper-changing stations."
+  ],
+  "claim_sha256": "d23d5b38a564fbb47f9412da7b6fd7065d3d415f80baeeefdcc5183ff5ecb6dc",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
+ },
+ "truist-arena.chronic.5": {
+  "url": "https://thetruistarena.com/plan-your-visit/faq",
+  "quote": "For your safety, Truist Arena has professionally trained emergency personnel from Central Campbell County Fire Department are on site for most events. First Aid station is located on the main concourse by section 112. In the event of an emergency, please go to the first available officer or staff member for assistance.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "6a8a4728627e183a4aee3aca2b5129ca9db9c7e697d2003fe52393e39e04c9e8",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.cognitive.1": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
   "quote": "A Guest Services Booth is located on the Main Concourse by Section 110 that provides guests a convenient location to obtain information, offer suggestions, voice concerns and request assistance during events.",
-  "verified_at": "2026-11-10"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "All service animals must remain on a leash or in a harness at all times within Truist Arena."
+  ],
+  "claim_sha256": "dfd73c739fcbc7578115f063bf614d22a7aa7f49d71daed4fb94bf3f3e4a1b49",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
+ },
+ "truist-arena.cognitive.2": {
+  "url": "https://thetruistarena.com/plan-your-visit/faq",
+  "quote": "All concession stands in Truist Arena are CASHLESS. All concessions inside Truist Arena accept: credit cards, debit cards and mobile payments (Apple Pay, Google Pay and Samsung Pay), but not cash",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Please note that some concession stands and portable vendors do not accept debit or credit cards."
+  ],
+  "claim_sha256": "7b4239d116a1e25b1a5ff312487e5a5fde90b87565cf11c3ae668c1fe9d8888a",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
+ },
+ "truist-arena.cognitive.3": {
+  "url": "https://thetruistarena.com/plan-your-visit/faq",
+  "quote": "Generally, the doors for all events at Truist Arena open one hour prior to show time.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "4e53680cd26e1aeeaf8fe0d904228331a523823be01e8d2d1f1b642c6d516da4",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.mobility.1": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
-  "quote": "Wheelchair accessible seats are available in all price levels. Up to three companion tickets, as available, may be purchased with each wheelchair accessible ticket. Please indicate when purchasing tickets if you require accessible seating.",
-  "verified_at": "2026-11-10"
+  "quote": "All sections may not be available due to production requirements. For event-specific information, please call the Truist Arena Box Office at: (859) 292-2889. Truist Arena meets or exceeds all structural and service requirements as stipulated by the Americans with Disabilities Act. Restrooms, drinking fountains, Truist Arena ATMs, and counters are accessible to guests with disabilities. Wheelchair accessible seats are available in all price levels. Up to three companion tickets, as available, may be purchased with each wheelchair accessible ticket. Please indicate when purchasing tickets if you require accessible seating.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "be171006c2cc7a7e967e0b388661f38e6af109f9cd8a71fd5f31c8e294d66f63",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.mobility.2": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
-  "quote": "Accessible parking spaces are located in the adjacent surface lot (Lot O) & in the Welcome Center Garage.",
-  "verified_at": "2026-11-10"
+  "quote": "Accessible parking spaces are located in the adjacent surface lot (Lot O) & in the Welcome Center Garage. You must have a valid person with a disabled parking placard to park. One should enter the campus of Northern Kentucky University from Nunn Drive in order to access accessible parking close to the arena. Click here for the NKU Campus Map. Parking is first-come first-served and spaces are limited. An early arrival is strongly recommended. Shuttle service may be offered in some circumstances. Please refer to a specific event page if shuttle service is being offered.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "55f672e91d61afaa2fe44f151fbcaebb3ff8fa03f6601cb0cc5291d2309e35ab",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.mobility.3": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
-  "quote": "Truist Arena offers wheelchair service for guests who may need assistance to and from their seats.",
-  "verified_at": "2026-11-10"
+  "quote": "Truist Arena offers wheelchair service for guests who may need assistance to and from their seats. Please contact a Guest Services representative for assistance. Wheelchair assistance is provided on a first-come, first-served basis. Due to the limited number of wheelchairs available, they may not be borrowed or rented as seating during an event. If wheelchair assistance is necessary during an event, please notify the nearest staff member.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "a6801ab5fc6f81523a2ffd612b3051f3a261105df0b9d1ed5d5792f7bf62c44d",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.mobility.4": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
-  "quote": "In general, patrons with disabilities may be dropped off at the drop-off circle in front of the arena.",
-  "verified_at": "2026-11-10"
+  "quote": "In general, patrons with disabilities may be dropped off at the drop-off circle in front of the arena. One should enter the campus of Northern Kentucky University from Nunn Drive in order to access the drop-off area. Click here for the NKU Campus Map. Some events at Truist Arena may have the Northern Kentucky Department of Public Safety directing traffic to and from Truist Arena. When an event calls for this, specific information concerning accessibility drop-off will be posted an events specific event page on the Truist Arena website. Accessible Parking Accessible parking spaces are located in the adjacent surface lot (Lot O) & in the Welcome Center Garage. You must have a valid person with a disabled parking placard to park. One should enter the campus of Northern Kentucky University from Nunn Drive in order to access accessible parking close to the arena. Click here for the NKU Campus Map. Parking is first-come first-served and spaces are limited. An early arrival is strongly recommended. Shuttle service may be offered in some circumstances. Please refer to a specific event page if shuttle service is being offered.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The secondary, East Concourse entrance, is located on the east side of the building next to Lot O."
+  ],
+  "claim_sha256": "62ec9387a02674d662726d280e5cccca1b3de757075867c8b1613828322d707f",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "truist-arena.mobility.5": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
-  "quote": "Please do not use elevators. If you are disabled, trained staff members will assist you in getting to safety.",
-  "verified_at": "2026-11-10"
+  "quote": "In the event of an emergency, please remain calm and WALK to the nearest exit in an orderly fashion. Follow posted signs and listen to announcements for specific instructions. In some circumstances you will be directed to remain in the building and staff will direct you where to go. Please do not use elevators. If you are disabled, trained staff members will assist you in getting to safety.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "59b1f65903c2e4c668eafe7d5e69a7596ecf28b589f891e9dc039d71f2bf02b1",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
+ },
+ "truist-arena.mobility.6": {
+  "url": "https://thetruistarena.com/plan-your-visit/faq",
+  "quote": "Truist Arena has two main entrances for the general public located just off of Nunn Drive. The main entrance is located on the north side of the building, where the main Box Office is also located. The secondary, East Concourse entrance, is located on the east side of the building next to Lot O.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Both the Truist Arena's Box Office and the Will-Call windows are located in the event level of Truist Arena."
+  ],
+  "claim_sha256": "3ddaaeea4a9e00ba286772985b1c96c7d1f3e118333201b77043f1dafe026c8d",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
+ },
+ "truist-arena.mobility.7": {
+  "url": "https://www.nku.edu/commencement/guests/",
+  "quote": "To aid with accessibility, guests may be dropped off in front of Truist Arena at the circle drive off Nunn Drive. Once inside, staff will direct you to the elevator for access to the 2nd-floor concourse level. Guests parking in Lot O should enter through the East Gate entrance.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Guests should enter Truist Arena through the main entrance located off the circle drive at the end of the pedestrian bridge from the Arena Parking Garage. The Vault entrance is reserved for graduates only. Guests are not permitted in this area and will be directed to the main entrance at the front of the arena."
+  ],
+  "claim_sha256": "cd4bb1d6fb808dd837206ba694d9813b1723f3b4ef22bf4b66f24b095c354c41",
+  "source_sha256": "45e8d0e5b3ab1b3872ba39966ea78c2680e777176ad17d39dddeaa9366c6fec1",
+  "final_url": "https://www.nku.edu/commencement/guests/"
+ },
+ "truist-arena.mobility.8": {
+  "url": "https://www.nku.edu/commencement/guests/",
+  "quote": "Guest seating is available on a first-come, first-served basis . Arena doors will open 90 minutes before the ceremony begins for both graduates and guests. Early admittance is not permitted, so please plan your arrival accordingly.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "In the arena, accessible seating is available in the last row of certain sections on the concourse level for any guests who should avoid stairs. Guests can visit the Guest Services booth or ask a Truist Arena usher for assistance in finding a seat that meets their mobility needs. In order to ensure the availability of accessible seating, only the guest(s) requiring accommodation and a companion may sit in the accessible seating area."
+  ],
+  "claim_sha256": "d236360fa4d4fe2c74010955f4e2c7e8ed030f10e4b892fc36a4a2429699631c",
+  "source_sha256": "45e8d0e5b3ab1b3872ba39966ea78c2680e777176ad17d39dddeaa9366c6fec1",
+  "final_url": "https://www.nku.edu/commencement/guests/"
  },
  "truist-arena.sensory.1": {
   "url": "https://thetruistarena.com/plan-your-visit/faq",
-  "quote": "These requests should be made at least one week in advance to ensure the proper device is available when you attend the event.",
-  "verified_at": "2026-11-10"
+  "quote": "Guests of the Truist Arena who are hearing impaired may request an amplification device for most events at the Arena. Please contact (859) 292-2889 or email us at info@thetruistarena.com . These requests should be made at least one week in advance to ensure the proper device is available when you attend the event. A photo ID is required when borrowing the device and all amplification devices are operable from any seat.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Truist Arena can provide sign language interpretation for guests with hearing disabilities. Requests for this service must be received three weeks prior to the event and be approved by production management. For details, please email us at info@thetruistarena.com or call the Truist Arena Office at (859) 442-2659."
+  ],
+  "claim_sha256": "856b07bbbce30838d2b7b917584eeb9e61f80a36e1458aec8e00233963986368",
+  "source_sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
+  "final_url": "https://thetruistarena.com/plan-your-visit/faq"
  },
  "uc-campus-recreation-center.chronic.1": {
   "url": "https://www.uc.edu/campus-life/campus-rec/crc/pools.html",
@@ -13953,6 +14413,60 @@
   "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/12/03/shopping-solo-walmart-and-aira-offer-greater-freedom-to-blind-customers/aira-at-walmart.pdf",
   "quote": "Is Aira available in multiple languages? Yes-English and Spanish. When is the service available? Aira Agents are available 24/7 /365-no reservations needed. ",
   "verified_at": "2026-11-12"
+ },
+ "walton-post-office.cognitive.1": {
+  "url": "https://tools.usps.com/locations/details/1386341",
+  "quote": "\"locationID\":\"1386341\",\"locationName\":\"WALTON\",\"locationType\":\"PO\",\"address1\":\"52 S MAIN ST\",\"address2\":null,\"city\":\"WALTON\",\"state\":\"KY\",\"zip5\":\"41094\"",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "\"phone\":\"8594854023\""
+  ],
+  "claim_sha256": "a44142a05b801a813f2a21480a3a8983ffecd60337abe47394cbc0467d54356f",
+  "source_sha256": "dbd09ea3311b94498b88941f2ca31fff2a23a2e6329dc7df14395eb11e1e19f3",
+  "final_url": "https://tools.usps.com/locations/details/1386341"
+ },
+ "walton-post-office.cognitive.2": {
+  "url": "https://tools.usps.com/locations/details/1386341",
+  "quote": "\"locationID\":\"1386341\",\"locationName\":\"WALTON\",\"locationType\":\"PO\",\"address1\":\"52 S MAIN ST\",\"address2\":null,\"city\":\"WALTON\",\"state\":\"KY\",\"zip5\":\"41094\"",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "{\"name\":\"WINDOWSSERVICE\",\"starting\":null,\"ending\":null,\"hours\":[{\"day\":\"MO\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TU\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"WE\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TH\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"FR\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"SA\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"12:00:00\"}]},{\"day\":\"SU\",\"times\":[]}]}",
+   "{\"name\":\"PICKUPHOLDMAIL\",\"starting\":null,\"ending\":null,\"hours\":[{\"day\":\"MO\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TU\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"WE\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TH\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"FR\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"SA\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"12:00:00\"}]},{\"day\":\"SU\",\"times\":[]}]}",
+   "{\"name\":\"PICKUPNOTICELEFT\",\"starting\":null,\"ending\":null,\"hours\":[{\"day\":\"MO\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TU\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"WE\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"TH\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"FR\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"17:00:00\"}]},{\"day\":\"SA\",\"times\":[{\"open\":\"08:30:00\",\"close\":\"12:00:00\"}]},{\"day\":\"SU\",\"times\":[]}]}"
+  ],
+  "claim_sha256": "f9ca2302b17007f3c538e173fc00447d74d1df22659ba22c34777117681c93f9",
+  "source_sha256": "dbd09ea3311b94498b88941f2ca31fff2a23a2e6329dc7df14395eb11e1e19f3",
+  "final_url": "https://tools.usps.com/locations/details/1386341"
+ },
+ "walton-post-office.cognitive.3": {
+  "url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics",
+  "quote": "Pick up your accumulated mail at your local Post Office™ location. Mail must be picked up within 10 days or it will be returned to the senders. Use our Post Office locator tool and select the \"Pickup Hold Mail\" box to find your specific pickup location.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "You must present one of the Acceptable Forms of Identification if you choose to pick up your mail in person."
+  ],
+  "claim_sha256": "22bf534aef7f01a92a3bac54edec25d859cfe7d5393b01d43e2bd95616a7bba2",
+  "source_sha256": "b822527047f089ac96c46372aaa32833615f15d3cbd5ec83a68330177c6a997d",
+  "final_url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics"
+ },
+ "walton-post-office.cognitive.4": {
+  "url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics",
+  "quote": "You have the option to authorize a third party to pick up your held mail by providing written permission to the appropriate Post Office™ location. The third party that you authorize will need to present Acceptable Forms of Identification .",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "fd227c08791149f1597bf534c54a6a6585c1150586dbfa5e3672392c639e9924",
+  "source_sha256": "b822527047f089ac96c46372aaa32833615f15d3cbd5ec83a68330177c6a997d",
+  "final_url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics"
+ },
+ "walton-post-office.mobility.1": {
+  "url": "https://tools.usps.com/locations/details/1386341",
+  "quote": "\"locationID\":\"1386341\",\"locationName\":\"WALTON\",\"locationType\":\"PO\",\"address1\":\"52 S MAIN ST\",\"address2\":null,\"city\":\"WALTON\",\"state\":\"KY\",\"zip5\":\"41094\"",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "\"parking\":\"LOT\",\"passportApptRequired\":null,\"siteComment\":\"EXIT 171 FROM I-75 TURN LEFT (EAST) TO MAIN ST (US 25) TURN LEFT THE POST OFFICE IS 2 BLOCKS NORTH ON THE RIGHT.\""
+  ],
+  "claim_sha256": "12f417da53bce0a41dc4cda935f308e828b995dc13f5f08e2ad1bb858f4c3686",
+  "source_sha256": "dbd09ea3311b94498b88941f2ca31fff2a23a2e6329dc7df14395eb11e1e19f3",
+  "final_url": "https://tools.usps.com/locations/details/1386341"
  },
  "washington-park.chronic.1": {
   "url": "https://washingtonpark.org/park-rules/",

@@ -414,7 +414,7 @@
       "final_url": "https://thetruistarena.com/plan-your-visit/faq",
       "last_modified": null,
       "sha256": "24de41bd12dab407d33ce2960df79018d2c1631aba44f47b3db03724bf7b47e1",
-      "fingerprint_version": 5,
+      "fingerprint_version": 6,
       "chars": 14975
     },
     "https://tqlstadium.com/entrances/allegiant-gate": {
@@ -1000,8 +1000,8 @@
     "https://www.kenwoodtownecentre.com/en/visit/": {
       "status": 200,
       "final_url": "https://www.kenwoodtownecentre.com/en/visit/",
-      "last_modified": "Thu, 12 Nov 2026 03:51:15 GMT",
-      "sha256": "c4e2f705d7d6f65cd7778d2b61cbd5a9251582c0d1eda8254db42ea831fc4e5e",
+      "last_modified": "Sat, 14 Nov 2026 01:36:11 GMT",
+      "sha256": "8bd83c3eb4e5aab16fc24a22681097e472be8c46fccf97eec63788a6bd7cad66",
       "fingerprint_version": 6,
       "chars": 12152
     },
@@ -1116,10 +1116,10 @@
     "https://www.southgatehouse.com/about/": {
       "status": 200,
       "final_url": "https://www.southgatehouse.com/about/",
-      "last_modified": "Wed, 11 Nov 2026 00:00:09 GMT",
-      "sha256": "b32a6660fba778cabfd5f4a3821a7775c0ef8138aea137e45df8f13c85cd5f17",
-      "fingerprint_version": 5,
-      "chars": 1926
+      "last_modified": "Sat, 14 Nov 2026 01:24:30 GMT",
+      "sha256": "a393509d4937c254464c29c06143cd45c9bb9512a390cdcd173bafd66b77da2e",
+      "fingerprint_version": 6,
+      "chars": 1957
     },
     "https://www.taftmuseum.org/visitor-information/": {
       "status": 200,
@@ -4231,17 +4231,149 @@
       "sha256": "4fc2065bc89a04703b5b23a60d279434043ccc837b12d02e2627cde5a1b4991d",
       "fingerprint_version": 6,
       "chars": 1640
+    },
+    "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics": {
+      "status": 200,
+      "final_url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics",
+      "last_modified": "Sat, 14 Nov 2026 01:36:07 GMT",
+      "sha256": "b822527047f089ac96c46372aaa32833615f15d3cbd5ec83a68330177c6a997d",
+      "fingerprint_version": 6,
+      "chars": 9620
+    },
+    "https://tools.usps.com/locations/details/1386341": {
+      "status": 200,
+      "final_url": "https://tools.usps.com/locations/details/1386341",
+      "last_modified": null,
+      "sha256": "dbd09ea3311b94498b88941f2ca31fff2a23a2e6329dc7df14395eb11e1e19f3",
+      "fingerprint_version": 6,
+      "chars": 4997
+    },
+    "https://www.energy.gov/lm/explore-programs-and-meetings-fernald-preserve-visitors-center": {
+      "status": 200,
+      "final_url": "https://www.energy.gov/lm/explore-programs-and-meetings-fernald-preserve-visitors-center",
+      "last_modified": "Sat, 14 Nov 2026 01:07:19 GMT",
+      "sha256": "3089e5d3a75d000c4bf091f0c54e4e7a4a19747c90c5ed7b7fbbe0e3d3906cd5",
+      "fingerprint_version": 6,
+      "chars": 6336
+    },
+    "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center": {
+      "status": 200,
+      "final_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+      "last_modified": "Sat, 14 Nov 2026 01:00:25 GMT",
+      "sha256": "31d583459e33f1fd27a793332d206323d4894b5562ae891122228eff23947549",
+      "fingerprint_version": 6,
+      "chars": 8814
+    },
+    "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf": {
+      "status": 200,
+      "final_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+      "last_modified": "Thu, 19 Sep 2024 21:02:10 GMT",
+      "sha256": "5bc39350f8602b3e8a6a7ea581356b27c55a7a777bd6874ea81e6422c734a99a",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 17729,
+      "pages": 10
+    },
+    "https://www.greatparks.org/about/motor-vehicle-permit": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/about/policies/entrance-to-parks-and-facilities",
+      "last_modified": null,
+      "sha256": "2bb990e5bd3a39b2246e0c793b5e8beb8789ea2f86aa7ada21bef2dbebed45f3",
+      "fingerprint_version": 6,
+      "chars": 788
+    },
+    "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail",
+      "last_modified": null,
+      "sha256": "e29d23f109a8a009178344d8cc801918520cba6256abcb5df5d45fdf8519f37d",
+      "fingerprint_version": 6,
+      "chars": 3605
+    },
+    "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en",
+      "last_modified": "Mon, 29 Dec 2025 15:48:42 GMT",
+      "sha256": "f2acf1db1d667ffdc7a7d12d6d799c59f7b3a4e2bbdefa5c447c94e1f2b90c7d",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 2093,
+      "pages": 3
+    },
+    "https://www.greatparks.org/parks/farbach-werner-nature-preserve": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+      "last_modified": null,
+      "sha256": "749de6e447f6fca45b68801b78de66c4b40a445ea68e586229cf5ad84585fb79",
+      "fingerprint_version": 6,
+      "chars": 2694
+    },
+    "https://www.greatparks.org/parks/farbach-werner-nature-preserve/ellenwood-nature-barn": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/ellenwood-nature-barn",
+      "last_modified": null,
+      "sha256": "1cecc248086b969f645046306d5c6da33a132b2f6391b3ecd5ca5b80ec6c8abe",
+      "fingerprint_version": 6,
+      "chars": 706
+    },
+    "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail",
+      "last_modified": null,
+      "sha256": "39602b6acfeb0f63a6dcb409578207710eba4e2a332fed969259093f52672fa4",
+      "fingerprint_version": 6,
+      "chars": 646
+    },
+    "https://www.greatparks.org/parks/glenwood-gardens": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/glenwood-gardens",
+      "last_modified": null,
+      "sha256": "5b307bccf339a92903b3daa3f918d91d6bc8e83ab855135faffc558cbf4ab7b1",
+      "fingerprint_version": 6,
+      "chars": 3969
+    },
+    "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center",
+      "last_modified": null,
+      "sha256": "da11507cffab4542bad7cfa189d7fdf8a131be2b370eebcbee34e6e350ffef8c",
+      "fingerprint_version": 6,
+      "chars": 1541
+    },
+    "https://www.greatparks.org/parks/glenwood-gardens/garden-loop-trail": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/glenwood-gardens/garden-loop-trail",
+      "last_modified": null,
+      "sha256": "6c25a4f8f682d7f0e6916a3afa928315a5d720d62457cd07287abff4b006438f",
+      "fingerprint_version": 6,
+      "chars": 828
+    },
+    "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden": {
+      "status": 200,
+      "final_url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+      "last_modified": null,
+      "sha256": "97ce8f33b521ad86f24498a182ef5ab097b91bce2369d63994dc5aa850727a18",
+      "fingerprint_version": 6,
+      "chars": 1959
+    },
+    "https://www.nku.edu/commencement/guests/": {
+      "status": 200,
+      "final_url": "https://www.nku.edu/commencement/guests/",
+      "last_modified": null,
+      "sha256": "45e8d0e5b3ab1b3872ba39966ea78c2680e777176ad17d39dddeaa9366c6fec1",
+      "fingerprint_version": 6,
+      "chars": 3030
     }
   },
   "findings": {
     "https://www.kentonlibrary.org/locations/5/": "supported",
-    "https://www.southgatehouse.com/about/": "supported",
     "https://www.newportaquarium.com/Plan-Your-Visit/Accessibility": "blocked",
     "https://www.target.com/sl/newport/2483": "supported",
     "https://www.bogarts.com/visit": "supported",
     "https://www.walmart.com/store/2967-ft-wright-ky": "supported",
     "https://www.kentonlibrary.org/locations/105/": "supported",
-    "https://www.mlb.com/reds/hall-of-fame/visit/accessibility": "supported"
+    "https://www.mlb.com/reds/hall-of-fame/visit/accessibility": "supported",
+    "https://www.kenwoodtownecentre.com/en/visit/": "supported"
   },
   "missing_quotes": {}
 }

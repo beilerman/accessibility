@@ -1,11 +1,50 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after the Hebron/Scheben/Walton full reviews and
-community-led Juniper’s, Mellow Mushroom Wilder, Olla and Fort Thomas Coffee batch.
-These are research leads and questions. New facts require fresh evidence before
-they enter the public catalog.
+Updated November 13, 2026, after the parks/postal-service expansion and complete
+Southgate/Truist/Kenwood rechecks. These are research leads and questions; new facts require
+fresh evidence before entering the public catalog.
 
-## Latest integrated expansion
+## Current prepared batch
+
+Read [parks, postal service and arena research](parks-post-truist-2026-11-13.md)
+and its canonical evidence, media, catalog and validation receipts. Four new venues
+(Walton Post Office, Farbach-Werner, Glenwood Gardens, Fernald Preserve) have 33
+notes; nine further notes deepen Southgate and Truist: **42 new IDs** total.
+Twenty-four old notes were fully reviewed: 18 unchanged/six revised, with eight
+compound-support repairs and an emergency-context clarification. Three full rechecks
+are repeats within the rolling week, not additional unique weekly venues. No partial
+review is claimed. Twenty missing-evidence holds remain unchanged; Aquarium's new
+403 leaves its eight quoted notes and date untouched.
+
+One full-frame licensed Walton entrance photograph, ten original visual-guide
+links (six photo webpages, one historical PDF, three maps), and four separate community reports
+are prepared. Preserve the blind's visible stairs, initial trail inclines, conflicting
+surfaces/distances/capacities/payment statements and the yearless November 12–17
+Glenwood restroom alert. Transit-sidewalk/crossing improvements do not establish a
+completed Glenwood–Winton Woods through-trail; Phase 2 remains under construction.
+
+Totals: **176 venues / 1,868 active notes / 1,848 quoted / 20 missing / 84 licensed
+photos / 97 guides**. The community queue has **52 names: 14 added, 35 lead-only,
+three held**. Current category balance: parks 34, arts 33, food 27, museums 21,
+shopping 16, libraries 15, public services 13, recreation 10, transport 7. Next pair
+Leblond or BCRTA full-note rechecks with grocery/service/transport growth;
+keep Gilmore Ponds and Wasson Way as additional outdoor leads. Continue current
+entrance, toilet, transit-to-door, boardwalk and barrier photography.
+
+The supplied host failure was already repaired in accepted base 9890e39: the
+unknown-domain test selects a real catalog gap instead of assuming one at Walton.
+The agent's Chromium/CUA launch limitations are separate; 164 browser tests remain
+the runner's gate. No Git writes or deployment occurred in this research pass.
+
+Next grocery batch: CAM International Market (Evendale), Meijer Cold Spring and
+Deer Park IGA (exact branch unresolved) now have a read discussion and official-source
+preflight in `parks-post-truist-2026-11-13-grocery-preflight.json`. CAM’s winter
+entrance photograph was inspected but has no reuse licence/capture date. Meijer’s
+helper returns 403; a generic wide-aisle comment does not identify Cold Spring.
+Dillonvale IGA is only a candidate match for the unnamed Deer Park branch. No public
+facts or visitor reports were imported from these unfinished leads.
+
+## Earlier integrated expansion
 
 The scheduled library/NKY pass and the additional Little Miami, Brink, Streetside
 and ARCO pass are integrated locally: **172 venues, 1,826 active notes, 87 linked
@@ -69,11 +108,10 @@ on repeated blocked fetches. Historical guides and successful media fetches do n
 override failed factual gates. Heritage winter-hours, Brady’s closed garage elevator
 and conflicting directions, Taft and Heritage Bank Center policy conflicts remain.
 
-**Next existing batch:** Newport Aquarium, Southgate House Revival and Truist Arena
-have the oldest unblocked full-review dates (November 10). Review complete note
-sets and seek arrival, companion seating, toilets/changing and assistance limits;
-pair with community-led neighborhood shopping/service growth below. A full review
-must cover every active clause, not only a new photograph or matching passage.
+**Next existing batch:** Southgate, Truist and Kenwood are now fully rechecked. Aquarium
+remains blocked (403); avoid another whole pass on that source. Leblond Recreation Center and BCRTA offer November 11 full-review dates to pair with
+everyday-service growth. Cover every active clause and prioritize arrival, toilets,
+booking/eligibility and assistance limits.
 
 ## Breadth
 
@@ -93,13 +131,12 @@ assistance remain unresolved. Do not re-import the older lead file.
 location evidence, category/route tests and a linked original night photo. The
 fridge interior, door force, shelf reach and continuous approach remain unknown.
 
-**New public-service/photo lead: Walton Post Office.** A February 25, 2023
-[Warren LeMay Commons photograph](https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Main_Street,_Walton,_KY.jpg)
-(CC BY-SA 2.0) was visually inspected: paired entrance doors, pull handles, front
-concrete apron beside asphalt, yellow curb and collection boxes. Verify current
-USPS location, service/collection procedures and entrance details before listing;
-no dimensions, powered opening or continuous parking route are established. The
-photo is held, not yet imported. See the latest media receipt.
+**Walton Post Office is now added**, with five official notes and a licensed
+February 25, 2023 [w_lemay entrance photograph](https://commons.wikimedia.org/wiki/File:United_States_Post_Office,_Main_Street,_Walton,_KY.jpg).
+USPS location ID 1386341 supplies the location/service record; national pickup rules
+remain explicitly national. Door dimensions, powered opening, designated bays and
+a continuous parking-to-counter route remain unverified. See the current media
+receipt; do not re-import the earlier held lead.
 
 Concrete next everyday lead: **Kroger Latonia, 4303 Winston Avenue, Covington**.
 Fresh store/location fetches timed out; the generic pickup FAQ was readable but

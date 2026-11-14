@@ -5,6 +5,10 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/walton-post-office",
+  "/venues/farbach-werner-nature-preserve",
+  "/venues/glenwood-gardens",
+  "/venues/fernald-preserve",
   "/venues/arco-arts-community",
   "/venues/brink-brewing-college-hill",
   "/venues/little-miami-brewing-company",

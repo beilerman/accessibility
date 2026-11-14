@@ -16777,16 +16777,16 @@
     "address": "500 Louie B. Nunn Drive, Highland Heights, KY 41099",
     "website": "https://thetruistarena.com/",
     "source_url": "https://thetruistarena.com/plan-your-visit/faq",
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-13",
     "evidence_type": "public_website",
     "facts": [
       {
         "domain": "mobility",
-        "text": "Wheelchair seating is offered at all price levels, with up to three companion tickets when available. Request accessible seating when buying tickets.",
+        "text": "The arena offers wheelchair seating at all price levels and up to three companion tickets when available. Some sections may be unavailable because of production requirements. Request accessible seating when buying tickets; call the box office at 859-292-2889 for event-specific arrangements.",
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16805,6 +16805,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retain production-dependent section availability and event-specific seating contact alongside price-level and companion-ticket conditions."
           }
         ]
       },
@@ -16814,7 +16819,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16831,6 +16836,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -16842,7 +16852,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16859,6 +16869,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -16866,11 +16881,11 @@
       },
       {
         "domain": "mobility",
-        "text": "Staff offer wheelchair assistance to and from seats, but venue wheelchairs cannot be borrowed as event seating.",
+        "text": "The arena offers wheelchair assistance to and from seats on a first-come, first-served basis. Ask Guest Services; during an event, notify the nearest staff member. Wheelchairs are limited and cannot be borrowed or rented as seating during the event.",
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16889,16 +16904,21 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Restore first-come availability, limited equipment and the correct assistance-request procedure."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Outside food is not allowed. Medical bags can be allowed as an exception after inspection.",
+        "text": "Outside food is not allowed. Separately, the bag policy permits exceptions for medical bags after inspection. The bag exception does not establish permission to bring outside food.",
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16912,16 +16932,26 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Distinguish the medical-bag exception from the separate outside-food prohibition; no food exception inferred."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "Patrons with disabilities can generally be dropped off at the circle in front of the arena. The East Concourse entrance is next to Lot O; a valid disability placard is required for accessible spaces.",
+        "text": "The arena generally permits disability drop-off at the front circle, reached from Nunn Drive. Event traffic arrangements may change this; check the event page. The East Concourse entrance is beside Lot O, and the arena requires a valid disability parking placard for accessible parking spaces.",
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16935,6 +16965,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Retain Nunn Drive approach and event-dependent drop-off arrangements without treating the general route as guaranteed for every event."
           }
         ]
       },
@@ -16944,7 +16979,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16956,6 +16991,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -16963,11 +17003,11 @@
       },
       {
         "domain": "chronic",
-        "text": "All 30 restrooms are accessible, including one unisex family restroom.",
+        "text": "The arena lists 30 restrooms, including one unisex family restroom, and describes all of them as accessible to people with disabilities. Dimensions, transfer arrangements and adult changing equipment are not specified in this statement.",
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -16981,6 +17021,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attribute the venue’s broad restroom description; do not convert it into an independently measured assessment or adult-changing claim."
           }
         ]
       },
@@ -16990,7 +17035,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -17002,6 +17047,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -17013,7 +17063,7 @@
         "source_url": "https://thetruistarena.com/plan-your-visit/faq",
         "id": "truist-arena.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -17027,11 +17077,142 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ says baby changing stations are in most public restrooms; its restroom section says a select number have diaper-changing stations. Confirm the nearest equipped restroom. Neither statement establishes adult changing provision.",
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The main public entrance is on the north side of the building, with the main box office. The FAQ separately places the box office and Will-Call windows on the event level. Confirm the route between your entrance, ticket collection and seat.",
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.mobility.6",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The First Aid station is on the main concourse by section 112. The arena says trained emergency personnel are on site for most events; ask the nearest officer or staff member for help in an emergency.",
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.chronic.5",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Payment information conflicts within the FAQ: the concessions section says all stands are cashless and accept cards and mobile payments, while the ATM answer says some stands and portable vendors do not accept cards. Confirm the arrangements for your event before relying on one payment method.",
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Doors generally open one hour before show time. Check your event’s instructions; this is the arena’s general timing, not an event-specific arrival guarantee.",
+        "source_url": "https://thetruistarena.com/plan-your-visit/faq",
+        "id": "truist-arena.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For NKU commencement, the university directs guests dropped off at the Nunn Drive circle to staff inside, who will direct them to the elevator to the second-floor concourse. Lot O guests should use the East Gate. Other guests use the main entrance by the Arena Garage pedestrian bridge; the Vault entrance is reserved for graduates. These are commencement instructions, not a route guarantee for other events.",
+        "source_url": "https://www.nku.edu/commencement/guests/",
+        "id": "truist-arena.mobility.7",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For NKU commencement, seating is first come, first served and doors open 90 minutes before the ceremony, with no earlier entry. Accessible seating is in the last row of certain concourse sections; ask Guest Services or an usher. The university limits that area to guests requiring accommodation and a companion. Confirm arrangements for the ceremony you will attend.",
+        "source_url": "https://www.nku.edu/commencement/guests/",
+        "id": "truist-arena.mobility.8",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website reporting; no on-site audit. Seating, drop-off arrangements and accommodations may vary by event.",
+    "limitations": "Public website reporting; no on-site audit. Seating, drop-off arrangements and accommodations may vary by event. The FAQ conflicts on concessions payment methods and on the number of restrooms with baby changing stations. Confirm those arrangements, adult changing provision, door controls and the route between parking, ticket collection and your seat. Wheelchair assistance is limited and first come, first served.",
     "slug": "truist-arena",
     "observed_at": null
   },
@@ -18596,7 +18777,7 @@
     "address": "111 E. 6th Street, Newport, KY",
     "website": "https://www.southgatehouse.com/",
     "source_url": "https://www.southgatehouse.com/about/",
-    "checked_at": "2026-11-10",
+    "checked_at": "2026-11-13",
     "facts": [
       {
         "domain": "cognitive",
@@ -18604,7 +18785,7 @@
         "source_url": "https://www.southgatehouse.com/about/",
         "id": "southgate-house-revival.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18618,6 +18799,11 @@
             "date": "2026-11-10",
             "action": "revised",
             "note": "Reworded to the source's own description of seating; removed a reference to rooms that the source does not make."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18627,7 +18813,7 @@
         "source_url": "https://www.southgatehouse.com/about/",
         "id": "southgate-house-revival.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18639,6 +18825,11 @@
           },
           {
             "date": "2026-11-10",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -18650,7 +18841,7 @@
         "source_url": "https://www.southgatehouse.com/about/",
         "id": "southgate-house-revival.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18664,6 +18855,11 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -18673,7 +18869,7 @@
         "source_url": "https://www.southgatehouse.com/about/",
         "id": "southgate-house-revival.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-10",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -18687,6 +18883,47 @@
             "date": "2026-11-10",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Tickets can be bought in person at the lounge bar when the venue is open for a show. The venue lists its usual show-opening hours as Wednesday–Saturday, 5 p.m.–2 a.m.; cash purchases have no service fee. Check the show schedule before travelling.",
+        "source_url": "https://www.southgatehouse.com/about/",
+        "id": "southgate-house-revival.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The published general policy prohibits outside drinks. It does not state a medical-drink exception; confirm any required arrangements before attending.",
+        "source_url": "https://www.southgatehouse.com/about/",
+        "id": "southgate-house-revival.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
@@ -25371,7 +25608,7 @@
     "website": "https://www.kenwoodtownecentre.com",
     "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
     "limitations": "Public website information; no on-site audit. The FAQ identifies manual-wheelchair collection at Security and says there are no electric scooters. Designated parking locations, complete parking-to-door routes, entrance thresholds, door controls, restroom access features and quiet hours remain unverified. Ask Security about current equipment availability and escort arrangements.",
-    "checked_at": "2026-11-11",
+    "checked_at": "2026-11-13",
     "slug": "kenwood-towne-centre",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -25382,7 +25619,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25396,6 +25633,11 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
@@ -25405,7 +25647,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25419,16 +25661,21 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
       {
         "domain": "chronic",
-        "text": "Family restrooms are on the lower level, inside the men's and women's restrooms. Seating areas are near center court on both floors, near Apple on the second floor, and in the Nordstrom wing.",
+        "text": "Family restrooms are on the lower level, inside the men’s and women’s restrooms. General seating areas are near center court on both floors, and on the second floor near Apple and in the Nordstrom wing.",
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25442,6 +25689,11 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Specify the second-floor location of the Nordstrom-wing seating while retaining the separate family-restroom location."
           }
         ]
       },
@@ -25451,7 +25703,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25465,6 +25717,11 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
@@ -25474,7 +25731,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25488,6 +25745,11 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
@@ -25497,7 +25759,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25511,6 +25773,11 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
@@ -25520,7 +25787,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25534,6 +25801,11 @@
             "date": "2026-11-11",
             "action": "revised",
             "note": "Added the published wheelchair-collection office location while retaining the Security contact numbers."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
@@ -25543,7 +25815,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25552,6 +25824,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
@@ -25561,7 +25838,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25570,6 +25847,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       },
@@ -25579,7 +25861,7 @@
         "source_url": "https://www.kenwoodtownecentre.com/en/visit/",
         "id": "kenwood-towne-centre.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -25588,6 +25870,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Read every active clause against the current official FAQ; retain scope and split compound supporting passages."
           }
         ]
       }
@@ -40687,6 +40974,664 @@
         "source_type": "venue_official",
         "retrieved_at": "2026-11-13",
         "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Walton Post Office",
+    "city": "Walton",
+    "state": "KY",
+    "category": "Public services",
+    "address": "52 S Main Street, Walton, KY 41094",
+    "website": "https://tools.usps.com/locations/details/1386341",
+    "source_url": "https://tools.usps.com/locations/details/1386341",
+    "limitations": "Public website reporting; no on-site audit. The postal location record, national service rules and February 2023 entrance photograph have different scopes. Confirm current door operation, thresholds, designated parking, counter reach, toilets and assistance with parcels. National pickup authorization does not promise staff carrying or curbside service. The published location page supplies no measured access assessment.",
+    "checked_at": "2026-11-13",
+    "slug": "walton-post-office",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Walton office lists 859-485-4023 as its local phone number. Contact the office to check the entrance and any assistance needed before travelling.",
+        "source_url": "https://tools.usps.com/locations/details/1386341",
+        "id": "walton-post-office.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "USPS lists a parking lot for this location. Designated spaces, the parking-to-door route and door controls are not established by that listing.",
+        "source_url": "https://tools.usps.com/locations/details/1386341",
+        "id": "walton-post-office.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The office lists window service and pickup of held mail or items with a delivery notice Monday–Friday, 8:30 a.m.–5 p.m., and Saturday, 8:30 a.m.–noon; no Sunday service is listed for these counters. Check holiday changes before travelling.",
+        "source_url": "https://tools.usps.com/locations/details/1386341",
+        "id": "walton-post-office.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "USPS’s national Hold Mail rules require acceptable identification for in-person pickup. Accumulated mail must be collected within 10 days or it will be returned to senders. Use the locator’s Pickup Hold Mail filter to confirm where your mail is held.",
+        "source_url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics",
+        "id": "walton-post-office.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Under the national Hold Mail rules, you can authorize someone else to collect your held mail by giving written permission to the appropriate post office. That person must present acceptable identification; this is pickup authorization, not a staff assistance service.",
+        "source_url": "https://faq.usps.com/articles/FAQ/USPS-Hold-Mail-The-Basics",
+        "id": "walton-post-office.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Farbach-Werner Nature Preserve",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "3455 Poole Road, Cincinnati, OH 45251",
+    "website": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+    "source_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+    "limitations": "Public website reporting; no on-site audit. The current Pin Oak page lists 1.1 miles; the 2026 operator trail log lists 0.6 miles and a natural surface, while a separate public recommendation calls a route paved. These descriptions are unresolved and may concern different routes or documentation. Confirm the intended segment, surface, gradients, resting places, barn entrance and restroom/changing provision. Photographs show only individual sections, not a continuous usable route.",
+    "checked_at": "2026-11-13",
+    "slug": "farbach-werner-nature-preserve",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The preserve is listed as open daily from dawn to dusk. Its local contact number is 513-385-4811.",
+        "source_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+        "id": "farbach-werner-nature-preserve.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The preserve lists parking among its amenities. The page does not locate designated spaces or describe the connection to the barn or trail.",
+        "source_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve",
+        "id": "farbach-werner-nature-preserve.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Ellenwood Nature Barn lists restrooms. The barn page does not describe toilet fittings, adult changing equipment or a step-free entrance.",
+        "source_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/ellenwood-nature-barn",
+        "id": "farbach-werner-nature-preserve.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The current Pin Oak Trail page lists 1.1 miles and rates it easy. It describes forest and prairie habitats, but does not give measured gradients or a trail-surface specification. ",
+        "source_url": "https://www.greatparks.org/parks/farbach-werner-nature-preserve/pin-oak-trail",
+        "id": "farbach-werner-nature-preserve.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The operator’s 2026 Trail Challenge log lists Pin Oak as a 0.6-mile loop with a natural surface. The log does not supply measured gradients or confirm the surface of every connecting path.",
+        "source_url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en",
+        "id": "farbach-werner-nature-preserve.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A Motor Vehicle Permit is required for vehicle entry under Great Parks’ published policy. This concerns vehicle entry; check the permit arrangements before driving to the preserve.",
+        "source_url": "https://www.greatparks.org/about/motor-vehicle-permit",
+        "id": "farbach-werner-nature-preserve.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For special events and educational programs, Great Parks asks for two weeks’ advance notice of accommodation needs. Contact Guest Relations at 513-521-7275, Voice/TDD. The policy promises efforts to provide accommodations, not guaranteed personal assistance or equipment at this preserve.",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "farbach-werner-nature-preserve.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Glenwood Gardens",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "10397 Springfield Pike, Cincinnati, OH 45215",
+    "website": "https://www.greatparks.org/parks/glenwood-gardens",
+    "source_url": "https://www.greatparks.org/parks/glenwood-gardens",
+    "limitations": "Public website reporting; no on-site audit. The November 12–17 restroom-maintenance notice has no printed year; it was present when checked November 13, 2026. Confirm completion and the portable toilet’s access features. Garden Loop distances differ between the current page and 2026 log. Community comments distinguish paved and gravel routes and an initial incline; they are not measurements. Verify gradients, rest stops, entrance choices and adult changing facilities. Highfield is a separately charged garden with seasonal hours.",
+    "checked_at": "2026-11-13",
+    "slug": "glenwood-gardens",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "A notice read on November 13, 2026 says both men’s and women’s restroom access will be restricted November 12–17 for maintenance, with a portable toilet near the Gatehouse. The notice gives no year or portable-toilet access details; confirm the current arrangements before visiting.",
+        "source_url": "https://www.greatparks.org/parks/glenwood-gardens",
+        "id": "glenwood-gardens.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The wider park is listed as open daily from dawn to dusk, with parking. This does not establish the opening hours of the visitor center or Highfield Discovery Garden.",
+        "source_url": "https://www.greatparks.org/parks/glenwood-gardens",
+        "id": "glenwood-gardens.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Garden Loop Trail page lists 1.1 miles, an easy rating, a route past the Legacy Garden and gazebo overlook, and a stone bridge. The rating is the operator’s description, not a measured gradient assessment.",
+        "source_url": "https://www.greatparks.org/parks/glenwood-gardens/garden-loop-trail",
+        "id": "glenwood-gardens.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The operator’s 2026 Trail Challenge log lists Garden Loop as a 1-mile paved loop and Wetland Loop as a 1.6-mile natural-surface loop. Confirm the intended route and surface conditions.",
+        "source_url": "https://www.greatparks.org/getContentAsset/8c08cf7a-81a3-429f-8a17-0cba7e4fe828/bfa9215c-2050-47cb-9579-864e5e94a158/2025-Great-Parks-Trail-Challenge-Printable-Log.pdf?language=en",
+        "id": "glenwood-gardens.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Cotswold Visitor Center’s cool-season hours, November–March, are Wednesday–Saturday 10:30 a.m.–4:30 p.m. and Sunday noon–4:30 p.m.; Monday and Tuesday are closed. It also lists New Year’s Day, Thanksgiving, Christmas Eve, Christmas Day and New Year’s Eve as closures.",
+        "source_url": "https://www.greatparks.org/parks/glenwood-gardens/cotswold-visitor-center",
+        "id": "glenwood-gardens.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Highfield Discovery Garden lists general admission at $7 per person. Its November–March hours are Wednesday–Saturday 10:30 a.m.–4:30 p.m. and Sunday noon–4:30 p.m., closed Monday and Tuesday. Check the listed holiday closures before visiting.",
+        "source_url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+        "id": "glenwood-gardens.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Highfield’s Music Garden has outdoor instruments visitors can play. This is an interactive sound-producing area, not a confirmed quiet retreat.",
+        "source_url": "https://www.greatparks.org/parks/glenwood-gardens/highfield-discovery-garden",
+        "id": "glenwood-gardens.sensory.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Great Parks requires a Motor Vehicle Permit for vehicle entry. Check the permit arrangements before driving to Glenwood Gardens.",
+        "source_url": "https://www.greatparks.org/about/motor-vehicle-permit",
+        "id": "glenwood-gardens.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For special events and educational programs, Great Parks asks for two weeks’ advance notice of accommodation needs through Guest Relations, 513-521-7275, Voice/TDD. It says it will make every effort; specific staff support or equipment at Glenwood is not guaranteed by this general policy.",
+        "source_url": "https://www.greatparks.org/about/accessibility",
+        "id": "glenwood-gardens.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The operator says the completed first phase added sidewalk connections to Metro bus transit and a signalized crossing at Springfield Pike and Glendale-Milford Road. This source does not establish current bus frequency, stop boarding conditions or a measured continuous route through the gardens.",
+        "source_url": "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail",
+        "id": "glenwood-gardens.mobility.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The Glenwood Gardens–Winton Woods connection remains under construction. Phase 2 is intended to join the West Fork Mill Creek Greenway Trail at the Glenwood entrance to Winton Woods’ Harbor Loop; the tentative timetable runs through fall 2027 and may change. Do not plan on a completed through-route.",
+        "source_url": "https://www.greatparks.org/about/projects/glenwood-gardens-to-winton-woods-trail",
+        "id": "glenwood-gardens.mobility.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fernald Preserve & Visitors Center",
+    "city": "Hamilton",
+    "state": "OH",
+    "category": "Parks & outdoors",
+    "address": "7400 Willey Road, Hamilton, OH 45013",
+    "website": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+    "source_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+    "limitations": "Public website reporting; no on-site audit. Public visitor arrangements and a currently linked September 2024 meeting policy are separate from historical photographs. The webpage and policy disagree on conference-style room capacity; confirm the layout and reservation approval. Trail grades, surfaces along a complete route, designated parking, powered doors, toilet fittings, adult changing, hearing support and personal assistance remain unverified. The historical raised bird-viewing blind has visible stairs; an alternative route is not established. General driving tours do not establish wheelchair-accessible vehicles or transfer help.",
+    "checked_at": "2026-11-13",
+    "slug": "fernald-preserve",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Visitors Center is free and accepts walk-in visitors during its normal opening hours. It lists Wednesday–Saturday 9 a.m.–5 p.m. and Sunday noon–5 p.m., with closure on federal holidays. The outdoor preserve has a different schedule: daily from 7 a.m. to dusk.",
+        "source_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "id": "fernald-preserve.cognitive.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The published arrival directions approach the preserve from Willey Road, a quarter mile from State Route 128. The directions do not describe designated parking or the parking-to-door connection.",
+        "source_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "id": "fernald-preserve.mobility.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For visitor information or to discuss programs, contact 513-648-3330 or fernald@lm.doe.gov.",
+        "source_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "id": "fernald-preserve.cognitive.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The visitor page prohibits smoking, fires and open flames, and says the no-pets policy does not apply to visitors with service animals.",
+        "source_url": "https://www.energy.gov/lm/visit-fernald-preserve-visitors-center",
+        "id": "fernald-preserve.chronic.1",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The September 2024 meeting policy places restrooms inside the Visitors Center for Program Shelter users. It does not document their fittings or adult changing facilities; do not assume outdoor-hours access when the center is closed.",
+        "source_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "id": "fernald-preserve.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2024-09-12",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The September 2024 meeting policy describes the Program Shelter as seating up to 58, with four standard 8-foot tables and two 8-foot tables it calls ADA-compliant, all with benches. Users may not rearrange these tables. Clearances and a continuous route to them are not documented in this statement.",
+        "source_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "id": "fernald-preserve.mobility.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2024-09-12",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The September 2024 meeting policy asks for room or program applications at least 21 calendar days ahead, permits reservations up to one year ahead and schedules them first come, first served. Advance approval is required; an acknowledgement is not final confirmation, and an approved booking can be displaced for site work or safety.",
+        "source_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "id": "fernald-preserve.cognitive.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2024-09-12",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The September 2024 policy lists the Community Meeting Room at 120 people in theater layout, 80 in classroom layout or 40 in conference layout. Alternative arrangements require prior application approval and staff supervision; return the room to its original layout afterward.",
+        "source_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "id": "fernald-preserve.cognitive.4",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2024-09-12",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The programs webpage lists the Community Meeting Room at 120 for theater seating and 80 for conference seating, and says application review could take up to two weeks. Confirm capacity and approval directly; a webpage capacity listing is not a confirmed booking.",
+        "source_url": "https://www.energy.gov/lm/explore-programs-and-meetings-fernald-preserve-visitors-center",
+        "id": "fernald-preserve.cognitive.5",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The September 2024 policy says escorted driving tours with stops at points of interest are available. Ask about booking and vehicle access: the policy does not specify wheelchair carriage, boarding equipment or transfer assistance.",
+        "source_url": "https://www.energy.gov/sites/default/files/2024-09/S05063.pdf",
+        "id": "fernald-preserve.mobility.3",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": "2024-09-12",
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
