@@ -4029,6 +4029,46 @@
       "sha256": "99adbfe4254345f353277217d46f9660c06b4f1c60dbee60859ea021e8ccd1af",
       "fingerprint_version": 6,
       "chars": 2107
+    },
+    "https://theschoolhousecincinnati.com/": {
+      "status": 200,
+      "final_url": "https://theschoolhousecincinnati.com/",
+      "last_modified": null,
+      "sha256": "027e88f8b11c407e060000c636a2c38903f48363a467cb2455fe1c5cc54ef57a",
+      "fingerprint_version": 6,
+      "chars": 2795
+    },
+    "https://theschoolhousecincinnati.com/contact/": {
+      "status": 200,
+      "final_url": "https://theschoolhousecincinnati.com/contact/",
+      "last_modified": null,
+      "sha256": "435adb1b72b3a904f92d41ed3606b90bb4a61c3be5c2c5efc18a67cb73a800a5",
+      "fingerprint_version": 6,
+      "chars": 686
+    },
+    "https://wabisabiky.com/": {
+      "status": 200,
+      "final_url": "https://wabisabiky.com/",
+      "last_modified": null,
+      "sha256": "558e29518a5a9af3de27137e777df1eb8614d1503f393ae0b65786d22aa88fdc",
+      "fingerprint_version": 6,
+      "chars": 3873
+    },
+    "https://www.element-eatery.com/about-us/": {
+      "status": 200,
+      "final_url": "https://www.element-eatery.com/about-us/",
+      "last_modified": "Fri, 13 Nov 2026 23:58:53 GMT",
+      "sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+      "fingerprint_version": 6,
+      "chars": 2509
+    },
+    "https://www.fretboardbrewing.com/blue-ash": {
+      "status": 200,
+      "final_url": "https://www.fretboardbrewing.com/blue-ash",
+      "last_modified": null,
+      "sha256": "e0dcd23c4e0e4fa25b5315d226b54e3ef89c0767dc52edf490809c4a0535e639",
+      "fingerprint_version": 6,
+      "chars": 1321
     }
   },
   "findings": {

@@ -79,3 +79,15 @@ does not change the release tool implicitly.
 Recovery runs receive the final host log from the previous failed pass. This gives
 the agent the actual failing assertion or command alongside its research report,
 including the distinction between agent browser-launch restrictions and host results.
+
+## Community-led venue expansion
+
+Brad added message boards, Reddit and similar public sources to the discovery
+workflow on November 13. Each pass should investigate multiple new venues when
+supporting evidence exists, while handling urgent corrections and continuing
+photos. Start from docs/research/community-venue-discovery-2026-11-13.json.
+Use public posts for leads and separately attributed visitor reports; official
+facts still pass the fresh-source evidence gate. Do not convert recommendations
+into an access rating, infer physical features from a new building or reuse
+community photos without rights review. Read public material without posting,
+joining private groups or messaging contributors.

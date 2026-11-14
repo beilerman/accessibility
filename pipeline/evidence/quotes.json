@@ -5009,6 +5009,70 @@
   "source_sha256": "67e89d9d05f476435ecbc5148f8065f54350b6459b36c63dbc66ad5b8b938022",
   "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/eden-park/"
  },
+ "element-eatery.chronic.1": {
+  "url": "https://www.element-eatery.com/about-us/",
+  "quote": "Many vendors offer plant-based and gluten-friendly choices. Check individual menus for details.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3839d872a0d60cee85f94c34a2afed5301aa4091498e118a38389c37cdaee7c0",
+  "source_sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+  "final_url": "https://www.element-eatery.com/about-us/"
+ },
+ "element-eatery.cognitive.1": {
+  "url": "https://www.element-eatery.com/about-us/",
+  "quote": "Element Eatery offers plenty of open seating, no reservations needed.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "To book reservations for groups of any size, start at our Catering and Private Events page."
+  ],
+  "claim_sha256": "ad103fde03425f0c55c6121c50ad00def1918f9c10c3e940d5afcb99e42698a3",
+  "source_sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+  "final_url": "https://www.element-eatery.com/about-us/"
+ },
+ "element-eatery.cognitive.2": {
+  "url": "https://www.element-eatery.com/about-us/",
+  "quote": "Thanksgiving, Christmas Day, New Year’s Day. May be closed for special events.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "86cc92e5e51aa1e92a74cc5cc8e353e0f8e151a67c442736e30ecc0b29af8a06",
+  "source_sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+  "final_url": "https://www.element-eatery.com/about-us/"
+ },
+ "element-eatery.cognitive.3": {
+  "url": "https://www.element-eatery.com/about-us/",
+  "quote": "Yes! Order online for quick and easy pickup from your favorite vendors.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "0a5206481e36d71144ed2aa3043c61748c9068bd41b6aa777ad1d080fd33ce2e",
+  "source_sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+  "final_url": "https://www.element-eatery.com/about-us/"
+ },
+ "element-eatery.cognitive.4": {
+  "url": "https://www.element-eatery.com/about-us/",
+  "quote": "Mon–Sun | 8:00am–2:00pm",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Mon–Fri | 7:30am–2:30pm",
+   "Mon–Thurs | 12pm – 10pm",
+   "Sun–Thurs | 11am–10pm"
+  ],
+  "claim_sha256": "8c79402750180ee8ed5a8edad982c978b2585ed4fa127c9239c215028fa6841f",
+  "source_sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+  "final_url": "https://www.element-eatery.com/about-us/"
+ },
+ "element-eatery.mobility.1": {
+  "url": "https://www.element-eatery.com/about-us/",
+  "quote": "Free garage and surface parking lots are available to all—refer to the map below for all parking options.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b127331bf6f099264ace5e5afcab1ee10a34b2a1e2458817b5886a16193deddc",
+  "source_sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+  "final_url": "https://www.element-eatery.com/about-us/"
+ },
+ "element-eatery.sensory.1": {
+  "url": "https://www.element-eatery.com/about-us/",
+  "quote": "Stay updated on live music, trivia nights, and more by checking our Events Calendar or following us on social media!",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8b41faf271ca3c6dbafb3647ab9c21b71c9730f179d9b6e25431c3056c284821",
+  "source_sha256": "ef85d54bda649553a286c3ee9bc60297b6a8882364f37c3d9b9f60ea9b4e97e0",
+  "final_url": "https://www.element-eatery.com/about-us/"
+ },
  "ensemble-theatre-cincinnati.chronic.1": {
   "url": "https://ensemblecincinnati.org/visit/accessibility/",
   "quote": "During performances, three restrooms—two of which are universal, ADA-accessible—that lock and provide privacy are available to patrons of any gender identity and expression on Levels 2 and 3.",
@@ -6352,6 +6416,44 @@
   "url": "https://ww2.freshthyme.com/sm/planning/rsid/801/pickup-and-delivery",
   "quote": "Can I purchase CBD products online? Not at this time. CBD products can only be purchased in-store. Can I purchase alcohol online? Not through pick-up at this time. Alcohol products can only be purchased in-store or through a delivery service provider like DoorDash, Instacart, or UberEats.",
   "verified_at": "2026-11-12"
+ },
+ "fretboard-brewing-blue-ash.chronic.1": {
+  "url": "https://www.fretboardbrewing.com/blue-ash",
+  "quote": "MONDAY - THURSDAY • 3PM - 9PM FRIDAY - SATURDAY • NOON - 9PM SUNDAY • NOON - 8PM",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d58ef122d79c568b4e8521ac2ffce66596a7f3c61b8bb30df1f2cb46fbee1fc1",
+  "source_sha256": "e0dcd23c4e0e4fa25b5315d226b54e3ef89c0767dc52edf490809c4a0535e639",
+  "final_url": "https://www.fretboardbrewing.com/blue-ash"
+ },
+ "fretboard-brewing-blue-ash.cognitive.1": {
+  "url": "https://www.fretboardbrewing.com/blue-ash",
+  "quote": "Dine in with us or order online below to take food to go or for delivery by DoorDash.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "206e5b20a16bd87c3ce1db88277d90fe5acc853dcc2369340d6d2b10435ea4c9",
+  "source_sha256": "e0dcd23c4e0e4fa25b5315d226b54e3ef89c0767dc52edf490809c4a0535e639",
+  "final_url": "https://www.fretboardbrewing.com/blue-ash"
+ },
+ "fretboard-brewing-blue-ash.cognitive.2": {
+  "url": "https://www.fretboardbrewing.com/blue-ash",
+  "quote": "HOURS OF OPERATION ARE SUBJECT TO CHANGE due to special events in the taproom.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "513-914-HOPS (4677)"
+  ],
+  "claim_sha256": "b73d66f353be3e1b317ea18faefabc6161a32f94bfe88921e1445701aacb51d4",
+  "source_sha256": "e0dcd23c4e0e4fa25b5315d226b54e3ef89c0767dc52edf490809c4a0535e639",
+  "final_url": "https://www.fretboardbrewing.com/blue-ash"
+ },
+ "fretboard-brewing-blue-ash.sensory.1": {
+  "url": "https://www.fretboardbrewing.com/blue-ash",
+  "quote": "Fretboard Brewing Company has live music every Friday and Saturday night.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "New acts are added each week, so check back often, as the calendar changes and performances may vary."
+  ],
+  "claim_sha256": "5fa497eb5edd590d2ebdbd49b1d344ddb942d82e882f6bef730e0aaa87cbaf78",
+  "source_sha256": "e0dcd23c4e0e4fa25b5315d226b54e3ef89c0767dc52edf490809c4a0535e639",
+  "final_url": "https://www.fretboardbrewing.com/blue-ash"
  },
  "galaxie-covington.chronic.1": {
   "url": "https://www.galaxiebar.com/faq-1-1",
@@ -11120,6 +11222,30 @@
   "quote": "At this time, Sam's Club does not offer assistive-listening telephone lines. However, you may contact us via live chat 7 days a week from 7am-11pm Central",
   "verified_at": "2026-11-12"
  },
+ "schoolhouse-restaurant-camp-dennison.cognitive.1": {
+  "url": "https://theschoolhousecincinnati.com/",
+  "quote": "All this is served in the original 1862 civil war era classroom, the menu is featured on the original blackboard, served family style on a big lazy Susan for the table to share.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "4f226738286e0548971502e19cecc7e222e651e6710c0d396ea2ce594a2ae75e",
+  "source_sha256": "027e88f8b11c407e060000c636a2c38903f48363a467cb2455fe1c5cc54ef57a",
+  "final_url": "https://theschoolhousecincinnati.com/"
+ },
+ "schoolhouse-restaurant-camp-dennison.cognitive.2": {
+  "url": "https://theschoolhousecincinnati.com/contact/",
+  "quote": "Monday : CLOSED Tuesday : CLOSED Wednesday : CLOSED Thursday : 11am-2pm, 4-8pm Friday : 11am-2pm, 4-8pm Saturday : 4-8pm Sunday : 12-8pm",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8114f246214df1c76e7d8c67ae03e02eb00216d0d27af6153ce69b4ab73ab156",
+  "source_sha256": "435adb1b72b3a904f92d41ed3606b90bb4a61c3be5c2c5efc18a67cb73a800a5",
+  "final_url": "https://theschoolhousecincinnati.com/contact/"
+ },
+ "schoolhouse-restaurant-camp-dennison.cognitive.3": {
+  "url": "https://theschoolhousecincinnati.com/contact/",
+  "quote": "Restaurant: 513.831.5753 General Store: 513.831.2247",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "115257acb22374cd5d288fac14de53e7edfed658896394fb2f2da8cb96a10b75",
+  "source_sha256": "435adb1b72b3a904f92d41ed3606b90bb4a61c3be5c2c5efc18a67cb73a800a5",
+  "final_url": "https://theschoolhousecincinnati.com/contact/"
+ },
  "second-sight-spirits.chronic.1": {
   "url": "https://www.secondsightspirits.com/faqs",
   "quote": "We do not have a restaurant but we do bring in treats from local companies like North South Baking. You are free to bring in your own food as well.",
@@ -13072,6 +13198,36 @@
   "claim_sha256": "be5412dd908db82569ec05f6d34ae8a472410de4d156a89b7516469cbbe0a67d",
   "source_sha256": "b74d8cfec1e9e362bf0e241ae3f5b4a2891e40926d66c5a0b7d55bbc36dcf930",
   "final_url": "https://www.yourmetroparks.net/news-alerts"
+ },
+ "wabi-sabi-covington.chronic.1": {
+  "url": "https://wabisabiky.com/",
+  "quote": "Our team is happy to accommodate any dietary restrictions and allergies upon request.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Call us at (859)-360-5097"
+  ],
+  "claim_sha256": "1e6c9580dcb47601275221c473fd6be4ff5cd17e7e61c21a9b95bce726126baf",
+  "source_sha256": "558e29518a5a9af3de27137e777df1eb8614d1503f393ae0b65786d22aa88fdc",
+  "final_url": "https://wabisabiky.com/"
+ },
+ "wabi-sabi-covington.cognitive.1": {
+  "url": "https://wabisabiky.com/",
+  "quote": "Hours Mon-Thu 11:00 AM - 9:30 PM Fri 11:00 AM - 10:30 PM Sat 12:00 PM - 10:30 PM Sun 12:00 PM - 8:30 PM",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "9b6407d1129734c6238b229d54b671821d60c381b9bfe8f026f03f303dbafc4b",
+  "source_sha256": "558e29518a5a9af3de27137e777df1eb8614d1503f393ae0b65786d22aa88fdc",
+  "final_url": "https://wabisabiky.com/"
+ },
+ "wabi-sabi-covington.cognitive.2": {
+  "url": "https://wabisabiky.com/",
+  "quote": "Our restaurant offers dine-in and take-out services as per your needs.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "We also offer food delivery through DoorDash for your benefit."
+  ],
+  "claim_sha256": "56883cb25672ae316cfb09dc1284f6065d6d09cc5e6d3aa7af14ed2f600fe788",
+  "source_sha256": "558e29518a5a9af3de27137e777df1eb8614d1503f393ae0b65786d22aa88fdc",
+  "final_url": "https://wabisabiky.com/"
  },
  "walmart-supercenter-fort-wright.cognitive.1": {
   "url": "https://www.walmart.com/store/2967-ft-wright-ky",

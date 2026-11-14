@@ -17,8 +17,8 @@ docs/research/coverage-queue.md and use it to choose the next substantive work.
 
 Accuracy comes first after the November 12 adversarial review. Read
 docs/research/adversarial-accuracy-2026-11-12.md and its accuracy follow-up.
-Prioritize two to four existing venues with high-impact missing or incomplete
-evidence before a large expansion. Backfill arrival/entrance, toilets/changing,
+Address high-impact missing or incomplete evidence alongside venue expansion.
+Do not spend every pass only revisiting blocked sources. Backfill arrival/entrance, toilets/changing,
 transport eligibility/booking, assistance limits and seasonal restrictions.
 For every note, compare every clause with the current source, including scope,
 conditions and date. A matching passage alone does not prove the summary.
@@ -29,6 +29,24 @@ saving source_checked data. Do not bypass a failed gate by editing the JSON to
 claim verification. Preserve blocked sources as unresolved and distinguish
 historical information from current arrangements. Report evidence backfill and
 corrections separately from new-note growth. Continue access-photo research.
+
+Brad requested more venues and discovery through message boards and Reddit on
+November 13. Make this a recurring breadth lane: search public r/cincinnati,
+r/covington, Northern Kentucky and local-interest discussions, Tripadvisor forums,
+public message boards and specialist visitor accounts for concrete venue leads
+and barriers. Investigate multiple new venues each pass where evidence allows;
+use docs/research/community-venue-discovery-2026-11-13.json as the starting queue.
+Follow promising names to current official location, visit and service sources.
+Add supported listings rather than treating community recommendations as an
+accessibility certification. Retain useful reports in visitor-reports-community.json
+with original links, source identity, publication/visit-date uncertainty and caveats;
+never merge them into venue_official facts. Preserve conflicting accounts and
+distinguish conjecture from an actual reported visit. Omit unnecessary personal
+health details and usernames. Never copy unsafe lifting advice, assume legal
+compliance, or reuse forum photos without checking rights. Read public material
+only: do not join private groups, post questions or send messages. Search snippets
+are leads until the underlying discussion is read. Continue photographs alongside
+new listings and needed corrections; no unsupported quota or fabricated gaps.
 
 Use the available 45-minute research period to investigate several venues and
 sources. Carry a useful batch through evidence review, then continue with additional

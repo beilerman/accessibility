@@ -3,6 +3,8 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "element-eatery", "schoolhouse-restaurant-camp-dennison",
+  "fretboard-brewing-blue-ash", "wabi-sabi-covington",
   "ludlow-garage", "florence-yalls-thomas-more-stadium", "molly-malones-covington",
   "smoke-justis", "falcon-theatre", "southgate-house-revival",
   "amc-newport-on-the-levee-20", "go-bananas-comedy-club",
@@ -656,7 +658,7 @@ describe("November source-backed venue expansion", () => {
     expect(text("bettman-nature-preserve")).toMatch(/These statements are not reconciled/);
     expect(place("bettman-nature-preserve").limitations).toMatch(/restroom availability are unresolved/);
   });
-  it("adds eight distinct public-source guides without implying a field visit", () => {
+  it("adds distinct public-source guides without implying a field visit", () => {
     for (const slug of newSlugs) {
       const p = place(slug);
       expect(p).toBeDefined();
@@ -707,7 +709,8 @@ describe("November source-backed venue expansion", () => {
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
       "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "second-sight-spirits", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
-    ]);
+      "element-eatery", "schoolhouse-restaurant-camp-dennison", "fretboard-brewing-blue-ash", "wabi-sabi-covington",
+    ].sort());
     const art = artForCategory("Food & drink")!;
     expect(art.alt).toMatch(/^AI artwork/);
     expect(art.caption).toMatch(/not a view or accessibility assessment/);

@@ -106,3 +106,18 @@ accessibility of a place. Continue searching for real, reusable photos and linki
 original official guides with photographs that cannot be republished. This updates
 the older blanket instruction against generating access-related imagery while
 retaining the distinction between illustrations and source evidence.
+
+## 14. Use public discussions to discover venues and preserve visitor accounts
+
+November 13: Brad requested more venues and explicitly asked for message-board,
+Reddit and similar research. Search public discussions for concrete recommendations,
+barriers and useful visit questions, then establish each listing's current identity
+and official visit/service information. Public community accounts may be summarized
+in the existing visitor-report collection, with source links, attribution, uncertain
+dates and clear limitations. They do not become venue-official facts or a global
+accessibility rating. A general recommendation does not establish entrance, toilet
+or route details; speculation about a power chair must remain speculation. Preserve
+conflicting accounts and avoid counting a single cross-venue comment as independent
+evidence for consensus. Do not collect unnecessary personal health details, treat
+public posts as permission to reuse photographs, join private groups or post/send
+messages. Failed retrieval and search-only leads stay staged for further research.

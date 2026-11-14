@@ -1733,3 +1733,24 @@ shell: find actual Madison Avenue ramp/push buttons/elevator images.
 Brad allows AI recreations of copyrighted references for clearly labeled
 illustration. DECISIONS §13 governs separation from real access evidence. Record
 references and known differences; never infer route facts or erase a barrier.
+
+## Public discussion venue discovery — November 13
+
+Brad requested more venues and message-board/Reddit research. Read
+[the recurring candidate queue](community-venue-discovery-2026-11-13.json) and
+[the first community-led expansion report](community-venues-2026-11-13.md).
+Four listings are prepared: Element Eatery, Schoolhouse Restaurant, Fretboard
+Blue Ash and Wabi Sabi Covington, with current official notes and separate
+qualified community accounts. Twenty-seven further named leads remain staged.
+Prioritize Northern Kentucky examples such as Junipers, Olla, El Ocho Loco,
+Mellow Mushroom Wilder and the Alexandria/Newport restaurant leads alongside
+Brink, Little Miami, Streetside, Mitas and the Mariemont restaurants.
+
+Confirm exact locations/current operation, entrance and table arrangements,
+toilets, sensory conditions, arrival and photographs. The 2024 Moerlein name and
+unspecified MadTree location need special identity checks. Public reports about
+El Ocho Loco order collection and Tom's Papa Dino's room/restroom layout are
+questions to investigate, not established facts. Keep Schoolhouse ramp/crowding
+accounts together; a positive ramp comment does not erase navigation barriers.
+Tripadvisor park-forum retrieval failed in this pass; search-result snippets
+were not published as visitor evidence. Use public sources only; no messages.

@@ -5,6 +5,10 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/element-eatery",
+  "/venues/schoolhouse-restaurant-camp-dennison",
+  "/venues/fretboard-brewing-blue-ash",
+  "/venues/wabi-sabi-covington",
   "/venues/whole-foods-market-cincinnati",
   "/venues/gordon-food-service-florence",
   "/venues/dunham-recreation-center-pool",

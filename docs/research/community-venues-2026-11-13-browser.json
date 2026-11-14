@@ -1,0 +1,41 @@
+{
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "results": [
+    {
+      "slug": "element-eatery",
+      "status": 200,
+      "communityLabelPresent": true,
+      "dateUncertaintyVisible": true,
+      "originalRedditLinks": 1,
+      "overflow": false
+    },
+    {
+      "slug": "schoolhouse-restaurant-camp-dennison",
+      "status": 200,
+      "communityLabelPresent": true,
+      "dateUncertaintyVisible": true,
+      "originalRedditLinks": 1,
+      "overflow": false
+    },
+    {
+      "slug": "fretboard-brewing-blue-ash",
+      "status": 200,
+      "communityLabelPresent": true,
+      "dateUncertaintyVisible": true,
+      "originalRedditLinks": 1,
+      "overflow": false
+    },
+    {
+      "slug": "wabi-sabi-covington",
+      "status": 200,
+      "communityLabelPresent": true,
+      "dateUncertaintyVisible": true,
+      "originalRedditLinks": 1,
+      "overflow": false
+    }
+  ],
+  "pageErrors": []
+}

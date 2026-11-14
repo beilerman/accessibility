@@ -7,6 +7,19 @@ import {
 } from "@/lib/visitor-reports";
 
 describe("External visitor evidence", () => {
+  it("keeps forum ramp and crowding accounts separate from official venue facts", () => {
+    const school = places.find((place) => place.slug === "schoolhouse-restaurant-camp-dennison")!;
+    expect(school).toBeDefined();
+    expect(school.facts.map((fact) => fact.text).join(" ")).not.toMatch(/wheelchair ramp/i);
+    const report = visitorReports.find((item) => item.id === "schoolhouse-reddit-ramp-table-navigation")!;
+    expect(report.kind).toBe("community_comment");
+    expect(report.summary).toContain("difficult to navigate");
+    expect(report.summary).toContain("ramp");
+    expect(report.visitedAt).toBeNull();
+    expect(report.publishedAt).toBeNull();
+    expect(report.caveat).toContain("not a current route audit");
+    expect(school.observed_at).toBeNull();
+  });
   it("retains attribution and date uncertainty without inventing firsthand site reviews", () => {
     expect(visitorReports.length).toBeGreaterThan(0);
     expect(new Set(visitorReports.map((report) => report.id)).size).toBe(

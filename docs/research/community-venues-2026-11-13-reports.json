@@ -1,0 +1,73 @@
+[
+  {
+    "id": "schoolhouse-reddit-ramp-table-navigation",
+    "placeSlug": "schoolhouse-restaurant-camp-dennison",
+    "sourceTitle": "Restaurant access discussion: ramp recommendation and table-navigation difficulty",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1dzi23v/need_help_to_find_a/",
+    "domains": [
+      "mobility",
+      "chronic"
+    ],
+    "summary": "A recommendation describes a ramp to the main dining room. Another participant, reporting a previous visit, says the table layout was difficult to navigate with a wheelchair once other diners were seated. A reply agrees that the room can become tight.",
+    "caveat": "The discussion is indexed as July 2024; exact comment and visit dates are not independently resolved. These accounts are not a current route audit. A ramp mention does not establish its dimensions, a usable toilet or room between occupied tables. Confirm the entrance and table arrangement directly.",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment"
+  },
+  {
+    "id": "element-reddit-wheelchair-outing-recommendation",
+    "placeSlug": "element-eatery",
+    "sourceTitle": "Wheelchair-user recommendation in a football-outing discussion",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
+    "domains": [
+      "mobility",
+      "cognitive"
+    ],
+    "summary": "A participant identifying as a wheelchair user lists Element Eatery among local places they like. The comment does not describe a particular entrance, toilet or seating arrangement.",
+    "caveat": "The discussion is indexed as January 2024; exact comment and visit dates are not independently resolved. This is one personal recommendation, without measurements or an established route. The same comment also supplies the Fretboard recommendation shown separately; those are not independent reports.",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment"
+  },
+  {
+    "id": "fretboard-blue-ash-reddit-wheelchair-outing-recommendation",
+    "placeSlug": "fretboard-brewing-blue-ash",
+    "sourceTitle": "Blue Ash brewery named in a wheelchair-user outing discussion",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/18x47yt/handicapped_accessible_restaurants_football/",
+    "domains": [
+      "mobility",
+      "cognitive"
+    ],
+    "summary": "A participant identifying as a wheelchair user includes Fretboard Brewing in Blue Ash in a list of places they like. No entrance, parking, seating or toilet details accompany this recommendation.",
+    "caveat": "The discussion is indexed as January 2024; exact comment and visit dates are not independently resolved. It does not establish current conditions or suitability for another visitor. This is the same comment used for Element Eatery, not a second independent access assessment.",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment"
+  },
+  {
+    "id": "wabi-sabi-reddit-roomy-table-impression",
+    "placeSlug": "wabi-sabi-covington",
+    "sourceTitle": "Covington restaurant suggested in a power-wheelchair dining discussion",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1uac40u/spacioushandicap_accessible_restaurant/",
+    "domains": [
+      "mobility"
+    ],
+    "summary": "A commenter describes Wabi Sabi’s aisles as roomy and thinks a power chair might fit at its simple tables. The commenter also expresses uncertainty about entrance steps. This is an impression of the layout, not a report of completing a visit in a power chair.",
+    "caveat": "The discussion is indexed as June 2026; exact comment and visit dates are not independently resolved. Table clearance, doorway width, thresholds, toilet access and present crowding were not measured. Confirm the actual chair and seating arrangements directly.",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment"
+  }
+]

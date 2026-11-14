@@ -39025,5 +39025,375 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Element Eatery",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "5350 Medpace Way, Cincinnati, OH 45227",
+    "website": "https://www.element-eatery.com/",
+    "source_url": "https://www.element-eatery.com/",
+    "limitations": "Public venue information with separately attributed community reports; no on-site audit. Free parking and open seating do not establish designated spaces, door thresholds, clear aisles, table knee space, toilet features or a continuous step-free route. The About page contains conflicting café/drinks schedules; confirm service for the intended date. A Reddit recommendation is not a measured access assessment. Vendor dietary choices do not establish allergy-safe preparation.",
+    "checked_at": "2026-11-13",
+    "slug": "element-eatery",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The venue lists free garage and surface parking. Designated accessible spaces, drop-off points and the route from each lot to a door are not specified here.",
+        "source_url": "https://www.element-eatery.com/about-us/",
+        "id": "element-eatery.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The FAQ describes open seating without reservations and directs group reservations to Catering and Private Events. Neither confirms a particular table or wheelchair space.",
+        "source_url": "https://www.element-eatery.com/about-us/",
+        "id": "element-eatery.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The FAQ says many vendors offer plant-based and gluten-friendly choices. Check each vendor’s menu and discuss dietary needs directly; gluten-friendly does not establish allergen-free preparation.",
+        "source_url": "https://www.element-eatery.com/about-us/",
+        "id": "element-eatery.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The venue lists Thanksgiving, Christmas Day and New Year’s Day closures and possible special-event closures. Confirm service for your date.",
+        "source_url": "https://www.element-eatery.com/about-us/",
+        "id": "element-eatery.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Online carryout ordering is available from vendors. This describes pickup, not a verified curbside collection point or carrying assistance.",
+        "source_url": "https://www.element-eatery.com/about-us/",
+        "id": "element-eatery.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The venue holds live music, trivia and other events. Check the event calendar when planning around sound or crowding; no quiet period is established.",
+        "source_url": "https://www.element-eatery.com/about-us/",
+        "id": "element-eatery.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Separate sections of the About page show different café schedules and drink opening times. Confirm the hours for the service you need rather than relying on one section.",
+        "source_url": "https://www.element-eatery.com/about-us/",
+        "id": "element-eatery.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The Schoolhouse Restaurant",
+    "city": "Camp Dennison",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "8031 Glendale Milford Rd, Camp Dennison, OH 45111",
+    "website": "https://theschoolhousecincinnati.com/",
+    "source_url": "https://theschoolhousecincinnati.com/",
+    "limitations": "Public restaurant information with a separate dated community discussion; no on-site audit. The official pages reviewed do not establish a ramp, step-free arrival route, doorway width, table knee space or accessible toilet. A community ramp recommendation is accompanied by a visitor account of difficult table navigation; neither establishes today’s layout. Confirm the entrance and a usable table arrangement before travelling.",
+    "checked_at": "2026-11-13",
+    "slug": "schoolhouse-restaurant-camp-dennison",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The menu is displayed on the classroom’s original blackboard, and food is served family style using a large table-top lazy Susan. Ask about menu-reading or serving arrangements you need.",
+        "source_url": "https://theschoolhousecincinnati.com/",
+        "id": "schoolhouse-restaurant-camp-dennison.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The published schedule closes Monday–Wednesday, splits Thursday/Friday service between lunch and dinner, and lists Saturday dinner and Sunday noon–8 p.m. Confirm current hours before travelling.",
+        "source_url": "https://theschoolhousecincinnati.com/contact/",
+        "id": "schoolhouse-restaurant-camp-dennison.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The restaurant line is 513-831-5753; the General Store has a separate line, 513-831-2247. Use the restaurant line to discuss dining arrangements.",
+        "source_url": "https://theschoolhousecincinnati.com/contact/",
+        "id": "schoolhouse-restaurant-camp-dennison.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fretboard Brewing — Blue Ash",
+    "city": "Blue Ash",
+    "state": "OH",
+    "category": "Food & drink",
+    "address": "5800 Creek Rd, Blue Ash, OH 45242",
+    "website": "https://www.fretboardbrewing.com/blue-ash",
+    "source_url": "https://www.fretboardbrewing.com/blue-ash",
+    "limitations": "Public branch information with a separately attributed community recommendation; no on-site audit. This is the Blue Ash brewery, not the Hamilton or other Fretboard locations. Official sources reviewed do not establish entrance thresholds, a continuous step-free route, seating clearances, toilet features or parking arrangements. Live music and event listings do not establish measured sound levels or quieter times. Confirm individual visit needs directly.",
+    "checked_at": "2026-11-13",
+    "slug": "fretboard-brewing-blue-ash",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "sensory",
+        "text": "The Blue Ash page advertises live music every Friday and Saturday and says performances may vary. Check the current calendar; a specific sound level or quiet period is not established.",
+        "source_url": "https://www.fretboardbrewing.com/blue-ash",
+        "id": "fretboard-brewing-blue-ash.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The BBQ kitchen lists closing at 9 p.m. Monday–Saturday and 8 p.m. Sunday, earlier than some taproom closing times. Check food service for the intended visit.",
+        "source_url": "https://www.fretboardbrewing.com/blue-ash",
+        "id": "fretboard-brewing-blue-ash.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The venue offers dine-in, online carryout and DoorDash delivery. These food-ordering options do not establish curbside collection or personal assistance.",
+        "source_url": "https://www.fretboardbrewing.com/blue-ash",
+        "id": "fretboard-brewing-blue-ash.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Hours can change for special taproom events. The Blue Ash contact number is 513-914-4677; confirm service and visit arrangements with this branch.",
+        "source_url": "https://www.fretboardbrewing.com/blue-ash",
+        "id": "fretboard-brewing-blue-ash.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wabi Sabi — Covington",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "508 Madison Avenue, Covington, KY 41011",
+    "website": "https://wabisabiky.com/",
+    "source_url": "https://wabisabiky.com/",
+    "limitations": "Public restaurant information with a separate community impression; no on-site audit. A commenter’s impression of wide aisles and potentially suitable tables is not a measured power-chair visit or confirmation of a step-free entrance. Door thresholds, clearances, toilet features and parking connections are not established. Another restaurant-branded site at wabisabicovington.com could not be freshly checked (HTTP 521); do not treat its different hours as confirmed current. Dietary requests do not guarantee an allergen-free environment.",
+    "checked_at": "2026-11-13",
+    "slug": "wabi-sabi-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "The restaurant says dietary restrictions and allergies can be discussed on request. This is an offer to discuss accommodations, not an allergen-free preparation guarantee; call 859-360-5097 about specific needs.",
+        "source_url": "https://wabisabiky.com/",
+        "id": "wabi-sabi-covington.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The wabisabiky.com site lists Monday–Thursday 11 a.m.–9:30 p.m., Friday until 10:30 p.m., Saturday noon–10:30 p.m. and Sunday noon–8:30 p.m. Confirm your date directly; other restaurant-branded web listings differ.",
+        "source_url": "https://wabisabiky.com/",
+        "id": "wabi-sabi-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The restaurant offers dine-in, take-out and DoorDash delivery. These are food-service options, not confirmation of curbside collection or carrying assistance.",
+        "source_url": "https://wabisabiky.com/",
+        "id": "wabi-sabi-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
   }
 ]

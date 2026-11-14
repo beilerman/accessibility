@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "element-eatery",
+    "address_url": "https://www.element-eatery.com/about-us/",
+    "address_quote": "Element Eatery 5350 Medpace Way Cincinnati, OH 45227",
+    "facts": [
+      {
+        "domain": "mobility",
+        "claim": "The venue lists free garage and surface parking. Designated accessible spaces, drop-off points and the route from each lot to a door are not specified here.",
+        "url": "https://www.element-eatery.com/about-us/",
+        "quote": "Free garage and surface parking lots are available to all—refer to the map below for all parking options."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The FAQ describes open seating without reservations and directs group reservations to Catering and Private Events. Neither confirms a particular table or wheelchair space.",
+        "url": "https://www.element-eatery.com/about-us/",
+        "quote": [
+          "Element Eatery offers plenty of open seating, no reservations needed.",
+          "To book reservations for groups of any size, start at our Catering and Private Events page."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "The FAQ says many vendors offer plant-based and gluten-friendly choices. Check each vendor’s menu and discuss dietary needs directly; gluten-friendly does not establish allergen-free preparation.",
+        "url": "https://www.element-eatery.com/about-us/",
+        "quote": "Many vendors offer plant-based and gluten-friendly choices. Check individual menus for details."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The venue lists Thanksgiving, Christmas Day and New Year’s Day closures and possible special-event closures. Confirm service for your date.",
+        "url": "https://www.element-eatery.com/about-us/",
+        "quote": "Thanksgiving, Christmas Day, New Year’s Day. May be closed for special events."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "Online carryout ordering is available from vendors. This describes pickup, not a verified curbside collection point or carrying assistance.",
+        "url": "https://www.element-eatery.com/about-us/",
+        "quote": "Yes! Order online for quick and easy pickup from your favorite vendors."
+      },
+      {
+        "domain": "sensory",
+        "claim": "The venue holds live music, trivia and other events. Check the event calendar when planning around sound or crowding; no quiet period is established.",
+        "url": "https://www.element-eatery.com/about-us/",
+        "quote": "Stay updated on live music, trivia nights, and more by checking our Events Calendar or following us on social media!"
+      },
+      {
+        "domain": "cognitive",
+        "claim": "Separate sections of the About page show different café schedules and drink opening times. Confirm the hours for the service you need rather than relying on one section.",
+        "url": "https://www.element-eatery.com/about-us/",
+        "quote": [
+          "Mon–Sun | 8:00am–2:00pm",
+          "Mon–Fri | 7:30am–2:30pm",
+          "Mon–Thurs | 12pm – 10pm",
+          "Sun–Thurs | 11am–10pm"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "schoolhouse-restaurant-camp-dennison",
+    "address_url": "https://theschoolhousecincinnati.com/contact/",
+    "address_quote": "8031 Glendale Milford Rd, Camp Dennison, OH 45111",
+    "facts": [
+      {
+        "domain": "cognitive",
+        "claim": "The menu is displayed on the classroom’s original blackboard, and food is served family style using a large table-top lazy Susan. Ask about menu-reading or serving arrangements you need.",
+        "url": "https://theschoolhousecincinnati.com/",
+        "quote": "All this is served in the original 1862 civil war era classroom, the menu is featured on the original blackboard, served family style on a big lazy Susan for the table to share."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The published schedule closes Monday–Wednesday, splits Thursday/Friday service between lunch and dinner, and lists Saturday dinner and Sunday noon–8 p.m. Confirm current hours before travelling.",
+        "url": "https://theschoolhousecincinnati.com/contact/",
+        "quote": "Monday : CLOSED Tuesday : CLOSED Wednesday : CLOSED Thursday : 11am-2pm, 4-8pm Friday : 11am-2pm, 4-8pm Saturday : 4-8pm Sunday : 12-8pm"
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The restaurant line is 513-831-5753; the General Store has a separate line, 513-831-2247. Use the restaurant line to discuss dining arrangements.",
+        "url": "https://theschoolhousecincinnati.com/contact/",
+        "quote": "Restaurant: 513.831.5753 General Store: 513.831.2247"
+      }
+    ]
+  },
+  {
+    "slug": "fretboard-brewing-blue-ash",
+    "address_url": "https://www.fretboardbrewing.com/blue-ash",
+    "address_quote": "5800 CREEK RD - BLUE ASH, OH 45242",
+    "facts": [
+      {
+        "domain": "sensory",
+        "claim": "The Blue Ash page advertises live music every Friday and Saturday and says performances may vary. Check the current calendar; a specific sound level or quiet period is not established.",
+        "url": "https://www.fretboardbrewing.com/blue-ash",
+        "quote": [
+          "Fretboard Brewing Company has live music every Friday and Saturday night.",
+          "New acts are added each week, so check back often, as the calendar changes and performances may vary."
+        ]
+      },
+      {
+        "domain": "chronic",
+        "claim": "The BBQ kitchen lists closing at 9 p.m. Monday–Saturday and 8 p.m. Sunday, earlier than some taproom closing times. Check food service for the intended visit.",
+        "url": "https://www.fretboardbrewing.com/blue-ash",
+        "quote": "MONDAY - THURSDAY • 3PM - 9PM FRIDAY - SATURDAY • NOON - 9PM SUNDAY • NOON - 8PM"
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The venue offers dine-in, online carryout and DoorDash delivery. These food-ordering options do not establish curbside collection or personal assistance.",
+        "url": "https://www.fretboardbrewing.com/blue-ash",
+        "quote": "Dine in with us or order online below to take food to go or for delivery by DoorDash."
+      },
+      {
+        "domain": "cognitive",
+        "claim": "Hours can change for special taproom events. The Blue Ash contact number is 513-914-4677; confirm service and visit arrangements with this branch.",
+        "url": "https://www.fretboardbrewing.com/blue-ash",
+        "quote": [
+          "HOURS OF OPERATION ARE SUBJECT TO CHANGE due to special events in the taproom.",
+          "513-914-HOPS (4677)"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wabi-sabi-covington",
+    "address_url": "https://wabisabiky.com/",
+    "address_quote": "508 Madison Avenue Covington, KY 41011",
+    "facts": [
+      {
+        "domain": "chronic",
+        "claim": "The restaurant says dietary restrictions and allergies can be discussed on request. This is an offer to discuss accommodations, not an allergen-free preparation guarantee; call 859-360-5097 about specific needs.",
+        "url": "https://wabisabiky.com/",
+        "quote": [
+          "Our team is happy to accommodate any dietary restrictions and allergies upon request.",
+          "Call us at (859)-360-5097"
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The wabisabiky.com site lists Monday–Thursday 11 a.m.–9:30 p.m., Friday until 10:30 p.m., Saturday noon–10:30 p.m. and Sunday noon–8:30 p.m. Confirm your date directly; other restaurant-branded web listings differ.",
+        "url": "https://wabisabiky.com/",
+        "quote": "Hours Mon-Thu 11:00 AM - 9:30 PM Fri 11:00 AM - 10:30 PM Sat 12:00 PM - 10:30 PM Sun 12:00 PM - 8:30 PM"
+      },
+      {
+        "domain": "cognitive",
+        "claim": "The restaurant offers dine-in, take-out and DoorDash delivery. These are food-service options, not confirmation of curbside collection or carrying assistance.",
+        "url": "https://wabisabiky.com/",
+        "quote": [
+          "Our restaurant offers dine-in and take-out services as per your needs.",
+          "We also offer food delivery through DoorDash for your benefit."
+        ]
+      }
+    ]
+  }
+]
