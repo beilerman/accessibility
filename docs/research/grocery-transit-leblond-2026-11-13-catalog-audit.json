@@ -1,0 +1,147 @@
+{
+  "base": "7ae6492a64cc85a1ca371152de7c549023a2a8f4",
+  "new_venues": [
+    {
+      "slug": "fabled-brew-works",
+      "notes": 6
+    },
+    {
+      "slug": "remke-markets-taylor-mill",
+      "notes": 4
+    },
+    {
+      "slug": "ink-dayton",
+      "notes": 5
+    },
+    {
+      "slug": "major-minor-books-silverton",
+      "notes": 4
+    },
+    {
+      "slug": "cincinnati-bus-station-galbraith",
+      "notes": 9
+    }
+  ],
+  "new_note_ids": [
+    "butler-county-regional-transit-authority.chronic.4",
+    "butler-county-regional-transit-authority.cognitive.10",
+    "butler-county-regional-transit-authority.cognitive.11",
+    "butler-county-regional-transit-authority.cognitive.12",
+    "butler-county-regional-transit-authority.cognitive.13",
+    "butler-county-regional-transit-authority.cognitive.7",
+    "butler-county-regional-transit-authority.cognitive.8",
+    "butler-county-regional-transit-authority.cognitive.9",
+    "butler-county-regional-transit-authority.mobility.8",
+    "cincinnati-bus-station-galbraith.chronic.1",
+    "cincinnati-bus-station-galbraith.cognitive.1",
+    "cincinnati-bus-station-galbraith.cognitive.2",
+    "cincinnati-bus-station-galbraith.cognitive.3",
+    "cincinnati-bus-station-galbraith.mobility.1",
+    "cincinnati-bus-station-galbraith.mobility.2",
+    "cincinnati-bus-station-galbraith.mobility.3",
+    "cincinnati-bus-station-galbraith.mobility.4",
+    "cincinnati-bus-station-galbraith.sensory.1",
+    "fabled-brew-works.chronic.1",
+    "fabled-brew-works.cognitive.1",
+    "fabled-brew-works.cognitive.2",
+    "fabled-brew-works.mobility.1",
+    "fabled-brew-works.mobility.2",
+    "fabled-brew-works.sensory.1",
+    "ink-dayton.cognitive.1",
+    "ink-dayton.cognitive.2",
+    "ink-dayton.cognitive.3",
+    "ink-dayton.mobility.1",
+    "ink-dayton.mobility.2",
+    "leblond-recreation-center.chronic.2",
+    "leblond-recreation-center.cognitive.6",
+    "leblond-recreation-center.cognitive.7",
+    "major-minor-books-silverton.chronic.1",
+    "major-minor-books-silverton.cognitive.1",
+    "major-minor-books-silverton.cognitive.2",
+    "major-minor-books-silverton.mobility.1",
+    "remke-markets-taylor-mill.chronic.1",
+    "remke-markets-taylor-mill.cognitive.1",
+    "remke-markets-taylor-mill.cognitive.2",
+    "remke-markets-taylor-mill.cognitive.3"
+  ],
+  "new_note_count": 40,
+  "new_venue_notes": 28,
+  "existing_venue_new_notes": 12,
+  "existing_notes_reviewed": 26,
+  "revised_old_notes": [
+    "butler-county-regional-transit-authority.mobility.1"
+  ],
+  "unchanged_old_notes_reviewed": 25,
+  "compound_support_repairs": [
+    "butler-county-regional-transit-authority.cognitive.4",
+    "leblond-recreation-center.cognitive.2"
+  ],
+  "previously_absent_quote_repairs": 0,
+  "full_rechecks": [
+    {
+      "slug": "butler-county-regional-transit-authority",
+      "before": "2026-11-11",
+      "after": "2026-11-13",
+      "repeat_within_rolling_week": true
+    },
+    {
+      "slug": "leblond-recreation-center",
+      "before": "2026-11-11",
+      "after": "2026-11-13",
+      "repeat_within_rolling_week": true
+    }
+  ],
+  "partial_rechecks": [],
+  "unchanged_existing_places": 174,
+  "missing_quote_ids": [
+    "amc-newport-on-the-levee-20.chronic.1",
+    "amc-newport-on-the-levee-20.mobility.1",
+    "amc-newport-on-the-levee-20.mobility.3",
+    "amc-newport-on-the-levee-20.sensory.1",
+    "amc-newport-on-the-levee-20.sensory.2",
+    "amc-newport-on-the-levee-20.sensory.3",
+    "cincinnati-music-hall.sensory.2",
+    "cincinnati-music-hall.sensory.3",
+    "heritage-village-museum.chronic.1",
+    "heritage-village-museum.chronic.2",
+    "heritage-village-museum.cognitive.1",
+    "heritage-village-museum.cognitive.2",
+    "heritage-village-museum.mobility.1",
+    "heritage-village-museum.mobility.2",
+    "heritage-village-museum.mobility.3",
+    "heritage-village-museum.sensory.1",
+    "molly-malones-covington.chronic.1",
+    "molly-malones-covington.cognitive.1",
+    "molly-malones-covington.mobility.1",
+    "molly-malones-covington.sensory.1"
+  ],
+  "unselected_source_baselines_preserved": 537,
+  "new_source_baselines": 11,
+  "existing_photo_assets_preserved": 84,
+  "existing_media_records_preserved": {
+    "src/data/access-photos.json": 84,
+    "src/data/access-guides.json": 97,
+    "src/data/visitor-reports-community.json": 47
+  },
+  "category_counts": {
+    "Museums & attractions": 21,
+    "Arts & performances": 33,
+    "Parks & outdoors": 34,
+    "Libraries": 15,
+    "Transportation": 8,
+    "Food & drink": 28,
+    "Shopping": 19,
+    "Public services": 13,
+    "Recreation & fitness": 10
+  },
+  "totals": {
+    "places": 181,
+    "active_notes": 1908,
+    "retired_notes": 1,
+    "quoted_active": 1888,
+    "missing_quotes": 20,
+    "licensed_photos": 85,
+    "guides": 102,
+    "community_reports": 50
+  }
+}

@@ -4363,6 +4363,96 @@
       "sha256": "45e8d0e5b3ab1b3872ba39966ea78c2680e777176ad17d39dddeaa9366c6fec1",
       "fingerprint_version": 6,
       "chars": 3030
+    },
+    "https://cincybookstorecrawl.com/crawl-bookstores": {
+      "status": 200,
+      "final_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+      "last_modified": null,
+      "sha256": "c8aaeed721eaa19814540f4b10a6cee3656a6cec84c1b25483f739a17bf30919",
+      "fingerprint_version": 6,
+      "chars": 6395
+    },
+    "https://fabledbrewworks.beer/faqs": {
+      "status": 200,
+      "final_url": "https://fabledbrewworks.beer/faqs",
+      "last_modified": "Fri, 13 Nov 2026 21:42:43 GMT",
+      "sha256": "4a0bbe291c41af6ec5f69bb0e05ba305f475063187f87599bada205b351ca2fc",
+      "fingerprint_version": 6,
+      "chars": 2858
+    },
+    "https://www.butlercountyrta.com/butler-county-rta-community-room-information/": {
+      "status": 200,
+      "final_url": "https://www.butlercountyrta.com/butler-county-rta-community-room-information/",
+      "last_modified": null,
+      "sha256": "0bb2f18b2b18ff1dba796f9588a588e810fc7289d7ceb7004a03bc510855e038",
+      "fingerprint_version": 6,
+      "chars": 2993
+    },
+    "https://www.indienky.com/visit-us": {
+      "status": 200,
+      "final_url": "https://www.indienky.com/visit-us",
+      "last_modified": null,
+      "sha256": "f84d3d9f02f3133e4bf435696b2dff80508a83f46eafe5abefdd6d73f493927c",
+      "fingerprint_version": 6,
+      "chars": 307
+    },
+    "https://www.indienky.com/your-events-ink": {
+      "status": 200,
+      "final_url": "https://www.indienky.com/your-events-ink",
+      "last_modified": null,
+      "sha256": "f976678b028e74dfeb14959d4b0a319dd924a19f9921e1a4866629f9cc166ce2",
+      "fingerprint_version": 6,
+      "chars": 927
+    },
+    "https://www.majorminorbooksandsuch.com/": {
+      "status": 200,
+      "final_url": "https://www.majorminorbooksandsuch.com/",
+      "last_modified": null,
+      "sha256": "d4604b04d5b7f1e8e9803ff30c35e07f9f7ba26a399e888387b7ab963029786d",
+      "fingerprint_version": 6,
+      "chars": 1569
+    },
+    "https://www.remkes.com/store-locator/": {
+      "status": 200,
+      "final_url": "https://www.remkes.com/store-locator/",
+      "last_modified": null,
+      "sha256": "f3fac5ec19fe9cf92522d83516a215aae938a678fa78b19eaad3ccf6408223e5",
+      "fingerprint_version": 6,
+      "chars": 1141
+    },
+    "https://www.remkes.com/taylor-mill/": {
+      "status": 200,
+      "final_url": "https://www.remkes.com/taylor-mill/",
+      "last_modified": null,
+      "sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+      "fingerprint_version": 6,
+      "chars": 890
+    },
+    "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf": {
+      "status": 200,
+      "final_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+      "last_modified": "Wed, 04 Nov 2026 21:53:37 GMT",
+      "sha256": "ae594d8922c8f5b1de4bb264d43ee8d55c0a244cfe0494686a68279138cb7a69",
+      "fingerprint_version": "pdf-bytes-1",
+      "format": "pdf",
+      "chars": 2899,
+      "pages": 2
+    },
+    "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station": {
+      "status": 200,
+      "final_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+      "last_modified": null,
+      "sha256": "e28d25ce1baefa30bf07570b1cad33de85d7f6f03fe2cb52992eed8cdccbb6eb",
+      "fingerprint_version": 6,
+      "chars": 1013
+    },
+    "https://www.greyhound.com/help-and-info/customers-with-disabilities": {
+      "status": 200,
+      "final_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+      "last_modified": null,
+      "sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
+      "fingerprint_version": 6,
+      "chars": 11201
     }
   },
   "findings": {

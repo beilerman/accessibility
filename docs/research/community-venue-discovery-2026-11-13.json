@@ -11,7 +11,9 @@
     "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
     "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/best_local_wheelchair_accessible_nature_paths/",
     "https://www.reddit.com/r/cincinnati/comments/1sajidj/accessible_activities_around_town/",
-    "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/"
+    "https://www.reddit.com/r/cincinnati/comments/1up3f1i/grocery_shopping/",
+    "https://www.reddit.com/r/cincinnatibeer/comments/13ztpjl/fabeled_brew_works/",
+    "https://www.reddit.com/r/cincinnati/comments/1n23gsr/artsy_shop_cafe_recs_in_cincinnati/"
   ],
   "candidates": [
     {
@@ -302,9 +304,9 @@
       "name": "Fabled Brew Works — Northern Kentucky",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1hdnpbc/good_bars_in_cincynky_to_read_a_book/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
-      "nextStep": "Named as a fantasy-themed brewery/meadery recommendation. Check exact location, current operation, physical arrival/seating and noise; no measured access account in this comment."
+      "status": "added",
+      "slug": "fabled-brew-works",
+      "nextStep": "Six official notes, two historical tourism photo links and a separate opening-period crowd account added. Current entrance threshold, door controls, toilets, table clearances and patio route remain unresolved."
     },
     {
       "name": "Northwood Cider — Norwood",
@@ -326,9 +328,9 @@
       "name": "Grainworks Brewing Company",
       "discussionUrl": "https://www.reddit.com/r/FCCincinnati/comments/1jvwc9z/a_place_to_watch_saturday/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
+      "status": "held_source_blocked",
       "slug": null,
-      "nextStep": "Confirm current exact location, official access/visit information and scope/date of the historical public comment before import."
+      "nextStep": "Current FAQ and homepage readable through web rendering, but the required factual helper returned 403 for the FAQ/home/events sources. No source_checked listing added. Revisit only when the source gate can read the material."
     },
     {
       "name": "Queen City Radio",
@@ -433,10 +435,42 @@
       "status": "lead_only",
       "slug": null,
       "nextStep": "Public commenter describes staffed checkout and deli service but names only Deer Park IGA. Dillonvale IGA at 3950 East Galbraith Road is a plausible match with a readable branded site; do not treat identity as resolved. Verify exact branch, current checkout/help, entrances and toilets before listing or importing the account."
+    },
+    {
+      "name": "iNK — indie northern kentucky, Dayton",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1n23gsr/artsy_shop_cafe_recs_in_cincinnati/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "ink-dayton",
+      "nextStep": "Current Dayton address/parking/hours and five notes added with the crawl organizer’s single-step warning. Three-photo official gallery and a separate recommendation report retained. Do not reuse old Bellevue location details; current alternative entry and toilets unknown."
+    },
+    {
+      "name": "Major Minor Books & Such — Silverton",
+      "discussionUrl": "https://www.cincinnatimagazine.com/article/major-minor-books/",
+      "underlyingDiscussionRead": true,
+      "status": "added",
+      "slug": "major-minor-books-silverton",
+      "nextStep": "Four official/operator-partner notes and a separate October 29, 2026 magazine visit account added. Organizer says request a ramp; deployment, limits, notice and toilet access unknown. Official photo is a book display, not useful route evidence."
+    },
+    {
+      "name": "Bike Trail Books — Loveland",
+      "discussionUrl": "https://cincybookstorecrawl.com/crawl-bookstores",
+      "underlyingDiscussionRead": true,
+      "status": "held_unextractable_official_site",
+      "slug": null,
+      "nextStep": "Crawl guide names 113 Karl Brown Way and says a single step with staff-contact ramp. Branded site returns HTTP 200 with zero extractable text; older second-floor Railroad Avenue listing conflicts with the new address. Resolve current official location and procedures before import."
+    },
+    {
+      "name": "Poor Charlotte’s — Madisonville",
+      "discussionUrl": "https://cincybookstorecrawl.com/crawl-bookstores",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "nextStep": "Official About page is readable at poorcharlottes.com/pages/about-us. Follow current location, arrival/entrance/toilet and image evidence; verify CSS grid association in the multi-column crawl directory before assigning its access statements."
     }
   ],
-  "addedVenues": 14,
-  "remainingVenueLeads": 38,
+  "addedVenues": 17,
+  "remainingVenueLeads": 39,
   "uncertainty": "Recommendations are not measured access assessments. Comment dates and visit dates remain null unless independently established. Preserve source identity, separate actual outing accounts from conjecture and keep community reports separate from official facts.",
   "otherSources": [
     {
@@ -453,6 +487,16 @@
       "url": "https://www.visitcincy.com/blog/post/youll-want-to-eat-everything-coming-from-this-restaurants-cooking-pot/",
       "status": "read_and_images_visually_inspected",
       "nextStep": "Four original historical images linked and a separate June 2021 firsthand report added. Current alternative entry, patio route and toilets remain unresolved."
+    },
+    {
+      "url": "https://cincybookstorecrawl.com/crawl-bookstores",
+      "status": "read_with_html_css_grid_association",
+      "nextStep": "Two-column extraction interleaves shops. Retain the section/grid receipt: iNK has the step warning; Joy and Matt has the restroom statement. The adjacent Major Minor column has the requested-ramp warning. Crawl hours are event-specific."
+    },
+    {
+      "url": "https://www.cincinnatimagazine.com/article/major-minor-books/",
+      "status": "read_firsthand_reporting",
+      "nextStep": "Separate dated report added, exact visit date unknown. No article photographs republished."
     }
   ],
   "holds": [
@@ -480,6 +524,16 @@
       "url": "https://www.reddit.com/r/NorthernKY/comments/1rw883i/going_to_a_new_restaurant_bar_or_coffee_shop/",
       "status": "read_no_independent_assessment",
       "reason": "Same project author as Covington thread describes AI-assisted collection and double-checking reviews. No generated descriptions imported as official or independent firsthand evidence."
+    },
+    {
+      "url": "https://grainworks.beer/about/faq/",
+      "status": 403,
+      "reason": "Read via web renderer, but required fresh factual helper blocked; no verified listing added."
+    },
+    {
+      "url": "https://biketrailbooks.com/",
+      "status": 200,
+      "reason": "Official page yields zero readable text; no source_checked facts saved."
     }
   ],
   "searchScope": [
@@ -491,15 +545,16 @@
     "Reddit r/NorthernKY (underlying discussion read; same project author cross-posting, not independent corroboration)",
     "Public December 2024 r/cincinnati reading-place discussion",
     "Visit Cincy / meetNKY first-person Olla visit, published June 25, 2021",
-    "November 13 parks/post/truist pass: r/cincinnati, r/covington, Northern Kentucky, Tripadvisor and City-Data public searches; underlying wheelchair-path thread reread, four narrow reports retained; no private groups or messages."
+    "November 13 parks/post/truist pass: r/cincinnati, r/covington, Northern Kentucky, Tripadvisor and City-Data public searches; underlying wheelchair-path thread reread, four narrow reports retained; no private groups or messages.",
+    "November 13 grocery/transit/LeBlond pass: public Cincinnati/Covington/Northern Kentucky and Tripadvisor searches; underlying arts-shop and Fabled opening-period threads read, plus specialist magazine visit and official bookstore-crawl directory. No private material or messages."
   ],
-  "candidateCount": 52,
+  "candidateCount": 56,
   "statusCounts": {
-    "lead_only": 35,
-    "added": 14,
+    "lead_only": 34,
+    "added": 17,
     "held_contact_conflict": 1,
-    "held_unextractable_official_site": 1,
-    "held_source_blocked": 1
+    "held_unextractable_official_site": 2,
+    "held_source_blocked": 2
   },
   "priorBatchCounters": {
     "communityReportsAdded": 8,
@@ -507,13 +562,11 @@
     "scope": "Original dining batches only; these were not cumulative queue totals."
   },
   "latestBatch": {
-    "report": "parks-post-truist-2026-11-13.md",
+    "report": "grocery-transit-leblond-2026-11-13.md",
     "communityLedVenuesAdded": 3,
-    "otherVenuesAdded": 1,
-    "communityReportsAdded": 4,
-    "officialNotesInCommunityVenues": 28,
-    "note": "Walton Post Office came from licensed-photo discovery, not a forum recommendation.",
-    "groceryLeadsPrepared": 3,
-    "groceryPreflight": "parks-post-truist-2026-11-13-grocery-preflight.json"
+    "otherVenuesAdded": 2,
+    "communityReportsAdded": 3,
+    "officialNotesInCommunityVenues": 15,
+    "note": "Remke Taylor Mill came from official grocery research. Galbraith Road bus station came from Commons photographer research. Major Minor came through the crawl organizer and a separately read magazine visit. Five new venues total; 28 new-venue notes plus 12 existing-venue additions."
   }
 }

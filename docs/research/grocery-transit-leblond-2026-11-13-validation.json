@@ -1,0 +1,192 @@
+{
+  "checked_at": "2026-11-13",
+  "prepared_at_utc": "2026-11-14T03:16:35.451641+00:00",
+  "base": "7ae6492a64cc85a1ca371152de7c549023a2a8f4",
+  "publish_ready": true,
+  "status": "ready_for_runner_validation",
+  "publication": "Local reviewed batch only. Runner must pass its full suite before atomic Git pushes. No agent Git write, deployment, preview or live-site verification.",
+  "start_state": {
+    "pending_edits": 0,
+    "conflict_markers": 0,
+    "prior_validation_failure": "Walton unknown-domain assumption already repaired in accepted base; no test weakening or further repair."
+  },
+  "progress": {
+    "new_venues": [
+      {
+        "slug": "fabled-brew-works",
+        "notes": 6
+      },
+      {
+        "slug": "remke-markets-taylor-mill",
+        "notes": 4
+      },
+      {
+        "slug": "ink-dayton",
+        "notes": 5
+      },
+      {
+        "slug": "major-minor-books-silverton",
+        "notes": 4
+      },
+      {
+        "slug": "cincinnati-bus-station-galbraith",
+        "notes": 9
+      }
+    ],
+    "new_note_ids": 40,
+    "new_venue_notes": 28,
+    "existing_venue_new_notes": 12,
+    "old_notes_reviewed": 26,
+    "old_notes_unchanged": 25,
+    "old_notes_revised": 1,
+    "compound_evidence_repairs": 2,
+    "previously_absent_quote_repairs": 0,
+    "full_rechecks": [
+      {
+        "slug": "butler-county-regional-transit-authority",
+        "before": "2026-11-11",
+        "after": "2026-11-13",
+        "repeat_within_rolling_week": true
+      },
+      {
+        "slug": "leblond-recreation-center",
+        "before": "2026-11-11",
+        "after": "2026-11-13",
+        "repeat_within_rolling_week": true
+      }
+    ],
+    "partial_rechecks": [],
+    "licensed_photos_added": 1,
+    "linked_photo_guides_added": 5,
+    "selected_guide_views": 20,
+    "candidate_image_views_inspected": 29,
+    "distinct_candidate_image_hashes": 28,
+    "pdf_pages_screened": 10,
+    "community_reports_added": 3,
+    "totals": {
+      "places": 181,
+      "active_notes": 1908,
+      "retired_notes": 1,
+      "quoted_active": 1888,
+      "missing_quotes": 20,
+      "licensed_photos": 85,
+      "guides": 102,
+      "community_reports": 50
+    }
+  },
+  "checks": {
+    "final_evidence": {
+      "passed": 71,
+      "notes": 66,
+      "addresses": 5,
+      "failed": 0,
+      "receipt": "docs/research/grocery-transit-leblond-2026-11-13-final-evidence.verified.json"
+    },
+    "crawl_context": {
+      "passed": 2,
+      "failed": 0
+    },
+    "source_urls": 18,
+    "new_baselines": 11,
+    "guide_links": {
+      "passed": 5,
+      "status": 200
+    },
+    "unit": {
+      "passed": 109,
+      "failed": 0
+    },
+    "pipeline": {
+      "passed": 79,
+      "failed": 0
+    },
+    "lint": "passed",
+    "typescript": "passed",
+    "build": {
+      "status": "passed",
+      "static_pages": 196,
+      "existing_nonblocking_warnings": [
+        "Atkinson Hyperlegible Next fallback font metrics unavailable",
+        "Node module.register deprecation and Vite config-loader warning"
+      ]
+    },
+    "http": {
+      "routes_passed": 12,
+      "photo_hash_matches": true,
+      "scope": "Server-rendered HTTP only; not browser/axe/layout verification."
+    },
+    "browser": {
+      "status": "blocked_before_page_load",
+      "attempted_new_route_tests": 4,
+      "page_assertions_run": 0,
+      "diagnostic": "Chromium MachPortRendezvousServer bootstrap_check_in: Permission denied (1100)",
+      "cua": "Browser access host unavailable; no live page inspected.",
+      "runner_required_suite": 169
+    },
+    "git_diff_check": "passed",
+    "conflict_markers": "none",
+    "reviewed_spec_matches": "all new place/photo/guide/report records match reviewed specs"
+  },
+  "holds": {
+    "missing_quotes_unchanged": 20,
+    "grainworks": "403 from required factual helper; not imported",
+    "bike_trail_books": "200 but zero extractable official text; location history unresolved",
+    "bcrta_application": "Visual 21-day clause fails text gate; not imported",
+    "remke": "Conflicting hours retained; collection procedure and current entrance unknown"
+  },
+  "preservation": {
+    "unrelated_existing_places": 174,
+    "existing_photo_assets": 84,
+    "unselected_source_baselines": 537,
+    "permanent_ids_and_history_prefixes": "preserved"
+  },
+  "file_sha256": {
+    "docs/HANDOFF-2026-11-10.md": "87476d5b0b2f6252f67dae1f7adfe2243b62b73f519295ec76d1942ebd233520",
+    "docs/research/community-venue-discovery-2026-11-13.json": "fefabd134aba908ddf2c3f2ec4260de41e264ebacd6bf4fc9bda3938687997bb",
+    "docs/research/coverage-queue.md": "0dba87a991642ae87937bf83c1a1c4c40069e08e33d058c86662ef41d4663d7c",
+    "docs/research/grocery-transit-leblond-2026-11-13-additional-media-checks.json": "ddcf23bd7bea266df7fb66878f5ac9a64035f38909b782367a54c8e83f95a0e2",
+    "docs/research/grocery-transit-leblond-2026-11-13-application-held-evidence.json": "1b5cfe8d7f479301430e7d4f35d89cb3b6500c4b1cdf6ca9e0584d81bdaab282",
+    "docs/research/grocery-transit-leblond-2026-11-13-application-held-evidence.verified.json": "62baf7aaff5b768262bd06a04a7025d4331bd0c8038ae53ceb996bdf25eca316",
+    "docs/research/grocery-transit-leblond-2026-11-13-books-evidence.json": "529147dbbf6c6ed760fb56bcef2ca8c0673f11a4a85bf55bede99a024fa6e804",
+    "docs/research/grocery-transit-leblond-2026-11-13-books-evidence.verified.json": "a97e05f34a401f9e7ac6215878e20c0d8035b678c4e7bd5f3590b2a1fa6d1abe",
+    "docs/research/grocery-transit-leblond-2026-11-13-books-guides.json": "2bc011c09f9d245d1f85ab731062984a76d7c3a5680c7e78e3530b584e9e4360",
+    "docs/research/grocery-transit-leblond-2026-11-13-books-places.json": "ba1584b1e742f048ad94a734dbebdd07fbc8f82a3bf846e08d5086ac7c0aef49",
+    "docs/research/grocery-transit-leblond-2026-11-13-books-reports.json": "5973d947ab3df54690ee7c6995228fce2b17e18b98149601579e005d20956a92",
+    "docs/research/grocery-transit-leblond-2026-11-13-bus-evidence.json": "65ac9708e2ac2bafe887842f9d5dac8282848eb92283cedde1b3197c8d233b72",
+    "docs/research/grocery-transit-leblond-2026-11-13-bus-evidence.verified.json": "bf0753648bf849e2bdd55d1d5dfa184c02e212e0b8c888b2e8b5ae27cd18367c",
+    "docs/research/grocery-transit-leblond-2026-11-13-bus-place.json": "415b46bfa9399f69bab963d8c883eca6f3d8ef82f9f5e2103cf57dc09de46d84",
+    "docs/research/grocery-transit-leblond-2026-11-13-catalog-audit.json": "4b0e0688c2bd31ff13122aec5155908de3c8d1c36e918b4400b065c48f91f5af",
+    "docs/research/grocery-transit-leblond-2026-11-13-corrections.json": "d1ea84e46886e7cf9200dc2f0c226c98a2e4f8c27037eec87237aad15d1ec4b1",
+    "docs/research/grocery-transit-leblond-2026-11-13-crawl-context-evidence.json": "69055e35fa6d2d322567496d2398451a857447f693e70ea22427f28545905680",
+    "docs/research/grocery-transit-leblond-2026-11-13-crawl-context-evidence.verified.json": "6fdcb28e0c2056ae794fbca3c783014036be1938130dd6ff7b043a27cf25296d",
+    "docs/research/grocery-transit-leblond-2026-11-13-crawl-layout.json": "e22e5b477631d7a92aefb4ec0d8a8edfb4d43679407f4d57e116aa3a82dd66a8",
+    "docs/research/grocery-transit-leblond-2026-11-13-depth.json": "6c890273d1cb22463dfedcc39b28b5d6967954d93d30738a06d5e8e20cd87d82",
+    "docs/research/grocery-transit-leblond-2026-11-13-evidence.json": "3b92952d7b3581137120eefdec467cefbc7afbf1e99dd5258143f1a7aae21e8b",
+    "docs/research/grocery-transit-leblond-2026-11-13-evidence.verified.json": "2ade58bb2f982a10d4fb128e078c01f734a7b366aa15d65d06cdec7cf6799352",
+    "docs/research/grocery-transit-leblond-2026-11-13-final-evidence.json": "24206cb6e20d2223f653a09044aabf7ccbbab29dda30e2f0d7f9f2077c72d466",
+    "docs/research/grocery-transit-leblond-2026-11-13-final-evidence.verified.json": "a7faa748c5e33e90c070cb12cb9d38a540ed457b0ca8cb5856d91b7834ba01c6",
+    "docs/research/grocery-transit-leblond-2026-11-13-guide-link-checks.json": "611d82b30b034ec3f8f34849eba4d8085a25aa31b753a7676e32a927d9a6fc12",
+    "docs/research/grocery-transit-leblond-2026-11-13-guides.json": "804f266b02b5d69c51b913e3424e541452a9e77e21a62e85b8c9715be52ff665",
+    "docs/research/grocery-transit-leblond-2026-11-13-held-findings.json": "cea9b8f2cf1896db90d22f1b8c3372b64a5ec887f1ecbd2aee12cc05e5270a2a",
+    "docs/research/grocery-transit-leblond-2026-11-13-holiday-depth.json": "140c6b7deb1230b651fef66b7c0a9639874cc51fb2a577f19c704f04110073ad",
+    "docs/research/grocery-transit-leblond-2026-11-13-holiday-evidence.json": "0fb52d08c315cf6495eb400b2f088e1947a7209adf17287000af81f7fa901ac2",
+    "docs/research/grocery-transit-leblond-2026-11-13-holiday-evidence.verified.json": "55113d4249585c790be4cf05c633eda56cfb417cc1f6fdb5d46efbc4d8a354ce",
+    "docs/research/grocery-transit-leblond-2026-11-13-http-checks.json": "989e9291ad35ac4c060088606eb60ba3d8f75ab119b3236a6a4de4e3b4a9378a",
+    "docs/research/grocery-transit-leblond-2026-11-13-licensed-photo.json": "3925ac2e2d008b9a66cdb3144b50e44e69975b4bf47cd137099ce9867bc0d43e",
+    "docs/research/grocery-transit-leblond-2026-11-13-media-review.json": "baaeed5d670df89a1a8e4107443e76b795b6f87ffde1a1016ac7597372ca762a",
+    "docs/research/grocery-transit-leblond-2026-11-13-places.json": "976d6a2428ede626dc0ce477bd7d56ae5316118b6d4f4d14ac6718994dffe914",
+    "docs/research/grocery-transit-leblond-2026-11-13-recheck.json": "3d9c12e069f288d5e004d40af25b97a00098ccc47fbc1941ae9780aa0577c0cd",
+    "docs/research/grocery-transit-leblond-2026-11-13-reports.json": "040e70bffb4667edd41b7762fe33ea891320ca0c348ad3f79c6969532a477f1d",
+    "docs/research/grocery-transit-leblond-2026-11-13-source-urls.txt": "11660d9710ca233203a427328584532a32ba76be8a72fbc1d9f88665d9eb9fd2",
+    "docs/research/grocery-transit-leblond-2026-11-13.md": "349d0d3ba3f3e73344731cf82a18e61e7edfeaf39bfed79ae5ebe6e0da6296f1",
+    "e2e/accessibility.spec.ts": "4ae71d190fe90f73e2fa63accb39cccd3e59b962ff302a611cdef8aac9de1cff",
+    "pipeline/evidence/quotes.json": "5c2390266672743330d96bd6c2fc386c588d58dac75a84d1ee7d866c7e668e70",
+    "pipeline/source-checks/2026-11-13.json": "68d3f59925942c8c94fe2d3d4a20cad0c3a541bb80882cd6ec7d993b839f2870",
+    "public/images/access/cincinnati-bus-station-entrance-2025.webp": "47790d46fe893050f3b8b3819ee7fddaa44c14d10d25a46d9401dbf7bc1f58a6",
+    "src/__tests__/venue-expansion.test.ts": "3d3c57058603765bbe6b33c5a3052ae7826f1d6e6540184685b014e5e5055ec2",
+    "src/data/access-guides.json": "87ee0cfa3c0c776ee4a9b88c403be4c85277bda51c2ce545d1d4e9f55e01e2eb",
+    "src/data/access-photos.json": "4905bf10b4c9f37ac4a965cd4b7169bfd3e04b0a91371cf81875c58489ee9086",
+    "src/data/places.json": "0309e1c8fbb3b49892fa2707b263d73723e0b5d5fd20a4db651f53efe690da62",
+    "src/data/visitor-reports-community.json": "bc6743deb190b323d763a137d178621a822cf6045a4a6e5624ab831a77b39fec"
+  }
+}

@@ -826,5 +826,59 @@
     "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1r1zxd0/comment/o4z7usv/",
     "summary": "A commenter recommends Fernald’s prairie setting and describes some paths as paved or well-graveled. They describe the Hickory route as flat as far as the forest area, without a measured grade or a specified access visit.",
     "caveat": "The thread is indexed to February 2026; exact comment and visit dates are unresolved. The claimed surface and slope are unmeasured and segment-specific. No current route, toilet, entrance or equipment assessment is established."
+  },
+  {
+    "id": "fabled-reddit-opening-week-crowding",
+    "placeSlug": "fabled-brew-works",
+    "publisher": "Reddit · r/cincinnatibeer",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment",
+    "domains": [
+      "sensory",
+      "chronic"
+    ],
+    "sourceTitle": "Opening-period account of a queue and crowded seating",
+    "sourceUrl": "https://www.reddit.com/r/cincinnatibeer/comments/13ztpjl/fabeled_brew_works/",
+    "summary": "A commenter reports visiting on a Thursday around the brewery’s opening and finding a queue outside with indoor and outdoor seating crowded. Another commenter describes crowds during a Friday-evening visit.",
+    "caveat": "The thread is indexed to June 2023, but exact comment and visit dates are unresolved. These are historical visit accounts, not a current crowd forecast or a measured access assessment. The separate later reading-place recommendation does not establish that the venue is quiet."
+  },
+  {
+    "id": "ink-dayton-reddit-neighborhood-recommendation",
+    "placeSlug": "ink-dayton",
+    "publisher": "Reddit · r/cincinnati",
+    "author": null,
+    "publishedAt": null,
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "community_comment",
+    "domains": [
+      "cognitive"
+    ],
+    "sourceTitle": "Neighborhood recommendation for a Dayton art and zine shop",
+    "sourceUrl": "https://www.reddit.com/r/cincinnati/comments/1n23gsr/artsy_shop_cafe_recs_in_cincinnati/",
+    "summary": "A commenter recommends combining a visit to Unataza with iNK nearby in Dayton and describes iNK as an art collective and zine shop.",
+    "caveat": "This is a recommendation, not an explicitly dated visit or accessibility assessment. The page shows a relative age of one year; exact publication and visit dates are unresolved. The comment’s opening-day advice is historical; use the current shop schedule. No continuous accessible route between the businesses is established."
+  },
+  {
+    "id": "major-minor-magazine-2026-visit",
+    "placeSlug": "major-minor-books-silverton",
+    "publisher": "Cincinnati Magazine",
+    "author": "Rodney Wilson",
+    "publishedAt": "2026-10-29",
+    "visitedAt": null,
+    "checkedAt": "2026-11-13",
+    "kind": "reported_experience",
+    "domains": [
+      "mobility",
+      "sensory",
+      "chronic"
+    ],
+    "sourceTitle": "Reported Sunday crowding, reading seats and rear café area",
+    "sourceUrl": "https://www.cincinnatimagazine.com/article/major-minor-books/",
+    "summary": "The writer describes a crowded recent Sunday visit, reading nooks with plush seats, and a rear café area where visitors can bring food or drinks and use power and Wi-Fi.",
+    "caveat": "The visit date is not given. This is a published visitor account, not an official access assessment or a prediction of current crowds. Seating clearances, the route to the café, entrance ramp and toilets were not assessed. Confirm current food and café arrangements with the shop."
   }
 ]

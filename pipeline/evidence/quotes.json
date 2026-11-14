@@ -1937,17 +1937,23 @@
  "butler-county-regional-transit-authority.chronic.1": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "BCRTA drivers may assist passengers with bags, but they are not permitted to enter private residences. Please do not ask. Passengers are permitted to carry-on four (4) normal size shopping bags. Bags must be secured in a cargo area to allow all passengers to be seated.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "1c42915a5347686c4635116afd7108f03538af9c1028ea17e835190a5e319209",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.chronic.2": {
   "url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
   "quote": "Butler County Regional Transit Authority operates a state-of-the-art multimodal transportation center at 97 W. Chestnut Street, on the former site of Talawanda High School. This central hub connects routes across Oxford, linking riders to Miami University, Hamilton and destinations throughout the region. The facility also supports transit operations with indoor vehicle storage, fueling, washing and maintenance. Officially named the Chestnut Street Multimodal Station and Shared Service Facility, it's built to keep Butler County moving. Take a Virtual Tour Facility Features Indoor and Outdoor Passenger Waiting Areas Accessible Public Restrooms Real-Time Transit Information Covered Bus Transfer Areas",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b8983cada53d8abbdcd86905aef98e7fed72d63a1f1c4a5161d9ec6643b3629a",
+  "source_sha256": "342cf116c7fe178c33b2ecd7890bbde53ca234bf834fc2bfb3ad9de8d0028ba3",
+  "final_url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/"
  },
  "butler-county-regional-transit-authority.chronic.3": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "Eating or drinking is not permitted on board any vehicles.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-13",
   "additional_quotes": [
    "Reasonable modifications include changes, exceptions, or adjustments to our rules, policies, practices, and procedures",
    "Reasonable Modification Requests can be made by contacting Customer Service at 513.785.5237"
@@ -1956,81 +1962,214 @@
   "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
   "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
+ "butler-county-regional-transit-authority.chronic.4": {
+  "url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+  "quote": "Make Space For Others : Bring only what you can carry in a single boarding and stow in your lap or under your seat.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "c439b78e416a5bfe668f4b453780a5502567897950227a8fbe867840a2a8f763",
+  "source_sha256": "62b8cdad8a1ad6f63bf24399e9683c3d48e4b4ef7a5b80eb2f9f5bbcefc71219",
+  "final_url": "https://www.butlercountyrta.com/customer-service/common-questions/"
+ },
  "butler-county-regional-transit-authority.cognitive.1": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "ADA requires that reservations be made the day before a trip. BCRTA/MTS does allow same-day trips as the schedule allows.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d689e533036ede75b79f02e22c139fb1c6d6d2feabc7b816b8185ae77835be81",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
+ },
+ "butler-county-regional-transit-authority.cognitive.10": {
+  "url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+  "quote": "November 26, 2026 – Thanksgiving CLOSED Contract obligations only.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "November 27, 2026 – Day After Thanksgiving CLOSED Contract obligations only.",
+   "December 25, 2026 – Christmas Day CLOSED Contract obligations only.",
+   "January 1, 2027 – New Year’s Day CLOSED Contract obligations only."
+  ],
+  "claim_sha256": "18a7344ef0dca0d2662f47f6adced5a0eec1521fbaa7a5521498ca01dd1dc712",
+  "source_sha256": "ae594d8922c8f5b1de4bb264d43ee8d55c0a244cfe0494686a68279138cb7a69",
+  "final_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf"
+ },
+ "butler-county-regional-transit-authority.cognitive.11": {
+  "url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+  "quote": "December 24, 2026 – Christmas Eve Closing at 14:30 Closing at 2:30 p.m. (or last trip following 2:30 p.m.) *No Cincylink",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "December 31, 2026 Closing at 14:30 Closing at 2:30 p.m. (or last trip following 2:30 p.m.) *No Cincylink"
+  ],
+  "claim_sha256": "871b684695bcd6fe3b9a36741f3fee9b3785c67e61f0d17480a9db48a6652a6c",
+  "source_sha256": "ae594d8922c8f5b1de4bb264d43ee8d55c0a244cfe0494686a68279138cb7a69",
+  "final_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf"
+ },
+ "butler-county-regional-transit-authority.cognitive.12": {
+  "url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+  "quote": "December 11, 2026 – Oxford Fall Service Ends Oxford Only Oxford Fall Service Ends at 7:40 p.m. Regular R3 Schedule.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "December 14, 2026 – Oxford J-Term Begins Oxford Only Oxford J-Term Service Begins at 7 a.m"
+  ],
+  "claim_sha256": "b43ce14d2b226a8a7d90d617c77aea870044f69938515c2edba90ac81a4b3130",
+  "source_sha256": "ae594d8922c8f5b1de4bb264d43ee8d55c0a244cfe0494686a68279138cb7a69",
+  "final_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf"
+ },
+ "butler-county-regional-transit-authority.cognitive.13": {
+  "url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+  "quote": "November 25–30, 2026 – Thanksgiving Break Oxford Only Service ends at 11 p.m., No SR, Oxford service will resume November 29, 2026 at 11:30 a.m.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "268b18f6e22283fb491088197d87833f623dab0becf27c4618c0a8e30b201cbc",
+  "source_sha256": "ae594d8922c8f5b1de4bb264d43ee8d55c0a244cfe0494686a68279138cb7a69",
+  "final_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf"
  },
  "butler-county-regional-transit-authority.cognitive.2": {
   "url": "https://www.butlercountyrta.com/accessibility/travel-training/",
   "quote": "Plan, navigate, and successfully ride BCRTA fixed route , paratransit , and BGo curb-to-curb options The Benefits of Travel Training Understanding transportation options Navigating the public transportation system Increasing your independence Supporting an active lifestyle It's free",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d4629c12485639f98536a39766565e519a0c03928523bcc8d30163dd02fecc78",
+  "source_sha256": "c3b2b4100237acf24fc24247bf554846e94ed2241a29c3ca701229adb6184820",
+  "final_url": "https://www.butlercountyrta.com/accessibility/travel-training/"
  },
  "butler-county-regional-transit-authority.cognitive.3": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "The approval process involves a form that must be completed by both the applicant and a clinical professional. ADA approval comes with a five-year eligibility period. Regional & Oxford Routes : $ FREE / trip Middletown Routes : $FREE / trip ADA services are for passengers with disabilities who are unable or find it challenging to ride fixed-line bus routes. ADA passengers must be certified by BCRTA in order to reserve ADA rides.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "6d417ae658243a7bb47b512853c5ae0666659ba44b1a6587396515d4cce08ed1",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.cognitive.4": {
   "url": "https://www.butlercountyrta.com/accessibility/travel-training/",
   "quote": "Destination Training Teaches an individual to travel from a specific destination and back, usually on a daily basis and greater riding instruction tailored to the needs of the individual 2 Group/Classroom Training Teaches an overview of the public transportation system, ie. reading the schedules and maps, basic navigation skills, and money handling. Bus tours and group trips are available during the training. 3 Train The Trainer Training Available to social service agencies who would like to learn about BCRTA and how to navigate the public transportation system. Interested In Travel Training? Interested in Travel Training? Please contact our Customer Service Department at 513.785.5237.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "All mobility management and training services are offered free of charge."
+  ],
+  "claim_sha256": "42a16cad873da3e844677ef8271a06b88a3db5de5612011cd9ff635dad40b8d0",
+  "source_sha256": "c3b2b4100237acf24fc24247bf554846e94ed2241a29c3ca701229adb6184820",
+  "final_url": "https://www.butlercountyrta.com/accessibility/travel-training/"
  },
  "butler-county-regional-transit-authority.cognitive.5": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "Reasonable modifications include changes, exceptions, or adjustments to our rules, policies, practices, and procedures to provide everyone with the opportunity to use all RTA services. c. Reasonable Modification Requests can be made by contacting Customer Service at 513.785.5237, Ohio Relay at 800-750-0750, or by email at request@butlercountyrta.com",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "023180aa6839f3c2cccfbab2da929fb344867481b98e5871bc1a19ae46399121",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.cognitive.6": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "During the application review process individuals will be offered 3 consecutive days of rides while they are waiting for the application to be processed. This is a one-time ride offer that is available to all of the public.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-13",
   "claim_sha256": "76f2030ffd8fa21ecd1d32e24051811695ed58ba3f92669b47b696294b0b000e",
   "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
   "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
+ "butler-county-regional-transit-authority.cognitive.7": {
+  "url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+  "quote": "During a Level 3 Snow Emergency operations will be suspended with timely notification for our riders.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f6d7dba0065dcf5b9e12f86534e8648e8fa75295c2032e6a0c51bb52d07e769f",
+  "source_sha256": "62b8cdad8a1ad6f63bf24399e9683c3d48e4b4ef7a5b80eb2f9f5bbcefc71219",
+  "final_url": "https://www.butlercountyrta.com/customer-service/common-questions/"
+ },
+ "butler-county-regional-transit-authority.cognitive.8": {
+  "url": "https://www.butlercountyrta.com/butler-county-rta-community-room-information/",
+  "quote": "Reservation requests must be made at least 48 hours in advance and may be scheduled up to three months ahead. Reservations are made on a first-come, first-served basis.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Chestnut Station community room is available Monday through Friday, 8:00 AM – 5:00 PM."
+  ],
+  "claim_sha256": "5cdb4b0bc4752fb868d6e7d6e032c78104c71a9fb11a9b66032560eb32f37b6e",
+  "source_sha256": "0bb2f18b2b18ff1dba796f9588a588e810fc7289d7ceb7004a03bc510855e038",
+  "final_url": "https://www.butlercountyrta.com/butler-county-rta-community-room-information/"
+ },
+ "butler-county-regional-transit-authority.cognitive.9": {
+  "url": "https://www.butlercountyrta.com/butler-county-rta-community-room-information/",
+  "quote": "Anyone 18 years or older may reserve the community room. No association or membership with BCRTA is required. All meetings and events held in the community room must be open to the public",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The Community Room is Not Available for: Promotion or sale of commercial services Fundraising purposes Classes or programs conducted for profit Events that charge admission, attendance fees, or request donations"
+  ],
+  "claim_sha256": "461195a3327ed0bf2312afec67f3a7a204b8fbeec924e710da79185a136197a6",
+  "source_sha256": "0bb2f18b2b18ff1dba796f9588a588e810fc7289d7ceb7004a03bc510855e038",
+  "final_url": "https://www.butlercountyrta.com/butler-county-rta-community-room-information/"
+ },
  "butler-county-regional-transit-authority.mobility.1": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "All BCRTA and MTS vehicles are mobility device lift-equipped",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "67749e851dddfe3298fc1b74ceb2be9e786dff864a5d1e1d2a444f360794326b",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.mobility.2": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
-  "quote": "A paratransit zone buffer of 3/4 mile has been created along the fixed routes to determine who might be eligible for the paratransit services. An application process has been established for individuals to apply for ADA Paratransit service. The approval process involves a form that must be completed by both the applicant and a clinical professional. ADA approval comes with a five-year eligibility period. Regional & Oxford Routes : $ FREE / trip Middletown Routes : $FREE / trip ADA services are for passengers with disabilities who are unable or find it challenging to ride fixed-line bus routes. ADA passengers must be certified by BCRTA in order to reserve ADA rides. Applicants must fill out and turn in the ADA Application Form to determine their eligibility. ADA Paratransit - PDF ADA Application - Digital ADA Temporary Application ADA Certification Process ADA services are for passengers with disabilities who are unable or find it difficult to ride fixed-line bus routes. ADA passengers must be certified by BCRTA to reserve ADA rides. All BCRTA and MTS vehicles are mobility device lift-equipped and, consequently, ADA compliant. ADA Paratransit service must be provided to all individuals who are unable, due to their disability, to use the fixed-route system. The criteria for determining eligibility are regulated by the ADA Act of 1990, and BCRTA/MTS has developed and administers a process to determine if individuals requesting service meet the regulatory requirements for eligibility. ADA requires that reservations be made the day before a trip. BCRTA/MTS does allow same-day trips as the schedule allows. If same-day trips are available, the fare is the same regardless of when a trip is scheduled. During the application review process individuals will be offered 3 consecutive days of rides while they are waiting for the application to be processed. This is a one-time ride offer that is available to all of the public. Personal care attendants (PCAs) are allowed on an ADA trip. One (1) PCA rides free, and all others must pay the same rate as the rider. Riders should notify of any PCAs that will be riding at the time of scheduling if possible.",
-  "verified_at": "2026-11-11"
+  "quote": "A paratransit zone buffer of 3/4 mile has been created along the fixed routes to determine who might be eligible for the paratransit services.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "ADA approval comes with a five-year eligibility period.",
+   "ADA passengers must be certified by BCRTA in order to reserve ADA rides.",
+   "Personal care attendants (PCAs) are allowed on an ADA trip. One (1) PCA rides free, and all others must pay the same rate as the rider. Riders should notify of any PCAs that will be riding at the time of scheduling if possible."
+  ],
+  "claim_sha256": "c7af429fe3ef8fb790217cccc1e340d0c30fc898cca6ae454164aa7d76a31972",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.mobility.3": {
   "url": "https://www.butlercountyrta.com/customer-service/common-questions/",
   "quote": "Fixed-route buses have the ability to lower to the curb to make boarding easier, and ramps extend to accommodate wheelchairs and other mobility devices.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "117bebd4bf55a3027bc4f14c8f7ef4c5103ae5e7d947487ceb41d6a624420dca",
+  "source_sha256": "62b8cdad8a1ad6f63bf24399e9683c3d48e4b4ef7a5b80eb2f9f5bbcefc71219",
+  "final_url": "https://www.butlercountyrta.com/customer-service/common-questions/"
  },
  "butler-county-regional-transit-authority.mobility.4": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "Mobility devices must be under 34″x 48″ and have a combined weight of less than 800 lbs",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "84d9dd4fd1c40121472c9a89834aef8c8de328831f5366a8428023b884da4147",
+  "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
+  "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
  "butler-county-regional-transit-authority.mobility.5": {
   "url": "https://www.butlercountyrta.com/how-to-ride/",
   "quote": "Arrive to the bus stop five (5) minutes before scheduled arrival time. 2 Fare Out And Ready - No Need! Our fixed routes are always free! Simply hop on the bus of your choice and enjoy a free ride to your destination. 3 Ask For Help Ask driver for any assistance needing in boarding such as lowering the ramp or kneeling the bus.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f525e3b0368f8b2060b73f0340e8574d6afd031e2adcfbbf0aed9f29e0404b0c",
+  "source_sha256": "76aef9d49a305b4bd37b0b620fdc9da51cf795a29ed42323585344ef13b02755",
+  "final_url": "https://www.butlercountyrta.com/how-to-ride/"
  },
  "butler-county-regional-transit-authority.mobility.6": {
   "url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
   "quote": "BCRTA does not own or control public parking facilities at the Chestnut Street Station. Visitors are encouraged to use the bus system to access the station or attend events. Public and university-permitted parking is available for a fee adjacent to the Station in Miami University's Chestnut Fields lot. For information on parking fees and payment methods, please visit ⁠ Miami University's parking information page",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "dc92e9ef1af988995937cfda4b8d139d7f1b5886355ceacaeac8bb124f340b5c",
+  "source_sha256": "342cf116c7fe178c33b2ecd7890bbde53ca234bf834fc2bfb3ad9de8d0028ba3",
+  "final_url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/"
  },
  "butler-county-regional-transit-authority.mobility.7": {
   "url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
   "quote": "All mobility devices must be secured.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-13",
   "claim_sha256": "735bbb8ae44a1b4faa87c00fa4bc1e038ba2401ee47b54aabbdbb30cd40ca9f2",
   "source_sha256": "8106d734ade6487debbca484bf09be0ce738d4e8cb334c6ff47e83e07276c54c",
   "final_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/"
  },
+ "butler-county-regional-transit-authority.mobility.8": {
+  "url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+  "quote": "Seats at the front of the bus are for seniors and riders with disabilities. Please keep these seats free or offer your seat to those who need it, or upon request of the operator.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "327c3cbec31e2ca68518dd5a6298daaa13bda6652c46a3a6fad7a045121ef9e6",
+  "source_sha256": "62b8cdad8a1ad6f63bf24399e9683c3d48e4b4ef7a5b80eb2f9f5bbcefc71219",
+  "final_url": "https://www.butlercountyrta.com/customer-service/common-questions/"
+ },
  "butler-county-regional-transit-authority.sensory.1": {
   "url": "https://www.butlercountyrta.com/customer-service/common-questions/",
   "quote": "Stops are announced inside and outside of the vehicle.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "9b39921a7c8c3288640f9f88c5981e472ae6055dcb54c09f75cb1cea0a031367",
+  "source_sha256": "62b8cdad8a1ad6f63bf24399e9683c3d48e4b4ef7a5b80eb2f9f5bbcefc71219",
+  "final_url": "https://www.butlercountyrta.com/customer-service/common-questions/"
  },
  "cain-the-market.chronic.1": {
   "url": "https://caincincy.org/themarket/",
@@ -2717,6 +2856,104 @@
   "claim_sha256": "40015e9f11b48f25168f30cab844b838d0a8034c15334392c98c8a69d311a28d",
   "source_sha256": "78e99f867b69c6973e6da21af3905ef4931fa860bf4da71e07976e7051edbe9b",
   "final_url": "https://cballet.org/sensory-friendly/"
+ },
+ "cincinnati-bus-station-galbraith.chronic.1": {
+  "url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+  "quote": "You can travel alone on Greyhound buses as long as you can travel independently and don’t need assistance of a personal nature such as help using the restroom, dispensing medication or constant care during travel. We can’t provide this level of assistance so if you need it, you should bring a support person or travel companion with you. Support persons or travel companions must obtain a seat ticket for travel.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "For passengers traveling within Canada, please contact customer service at least 48-hours before departure to obtain a complimentary seat for your support person."
+  ],
+  "claim_sha256": "d967710c6ef67031515854a24249b3b13179c8d651807d1df2824c88b8f20e91",
+  "source_sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
+  "final_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities"
+ },
+ "cincinnati-bus-station-galbraith.cognitive.1": {
+  "url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+  "quote": "Monday 12:00 AM - 12:00 PM Tuesday 12:00 AM - 12:00 PM Wednesday 12:00 AM - 12:00 PM Thursday 12:00 AM - 12:00 PM Friday 12:00 AM - 12:00 PM Saturday 12:00 AM - 12:00 PM Sunday 12:00 AM - 12:00 PM",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "df8282259e7cb9775071e7050d97a5a200bbd505cde7018f7b381fc996164168",
+  "source_sha256": "e28d25ce1baefa30bf07570b1cad33de85d7f6f03fe2cb52992eed8cdccbb6eb",
+  "final_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station"
+ },
+ "cincinnati-bus-station-galbraith.cognitive.2": {
+  "url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+  "quote": "Phone (800) 231-2222",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "83061992e175920856357fad993f97c645398ddd9a6a1efacf4087d32a067de1",
+  "source_sha256": "e28d25ce1baefa30bf07570b1cad33de85d7f6f03fe2cb52992eed8cdccbb6eb",
+  "final_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station"
+ },
+ "cincinnati-bus-station-galbraith.cognitive.3": {
+  "url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+  "quote": "If a part of your trip will be on a connecting carrier, you should know that the other carrier may require 48-hours advance notice in order to provide an accessible bus. If it is less than 48 hours between booking and the trip, an accessible bus might not be available at the transfer point.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Your ticket/itinerary will indicate if a connecting carrier other than Greyhound is operating part of your trip."
+  ],
+  "claim_sha256": "d2c70ba4d4d9e2549985ac32b12d6022d7d523eab9ccf3bf2804e0c60529c542",
+  "source_sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
+  "final_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities"
+ },
+ "cincinnati-bus-station-galbraith.mobility.1": {
+  "url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+  "quote": "398 E Galbraith Rd Cincinnati, OH 45215",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "The bus will stop on Waldman Dr separate from bus traffic.",
+   "Please note: your ticket will contain the most up-to-date address information."
+  ],
+  "claim_sha256": "cf15eea6152ca8ac1aeeaaa09c7bd12e994475fa9df10140b7c51d5312b8e3e3",
+  "source_sha256": "e28d25ce1baefa30bf07570b1cad33de85d7f6f03fe2cb52992eed8cdccbb6eb",
+  "final_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station"
+ },
+ "cincinnati-bus-station-galbraith.mobility.2": {
+  "url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+  "quote": "When you book your trip, make sure you tell us if you’re traveling with a wheelchair or mobility scooter, and if you plan to sit in it during your journey.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Each Greyhound bus can fit two passengers sitting in a wheelchair or mobility scooter. So we suggest you book your ticket as far in advance as possible to get one of the two spots on your preferred journey."
+  ],
+  "claim_sha256": "bf17f0910082062f4df4fb5f8d9c7ad566077672e3a5be20e43657c767b00316",
+  "source_sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
+  "final_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities"
+ },
+ "cincinnati-bus-station-galbraith.mobility.3": {
+  "url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+  "quote": "Weight including the passenger can range from 600 lb (272 kg) to 1000 lb (453 kg)",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Wheelchair dimensions of 30 x 48 inches (76 cm x 121 cm)",
+   "Mobility scooter with dimensions of 30 x 30 x 48 inches (76 x 76 x 122 cm)",
+   "Buses traveling cross border between US and Canada have the following weight range of 600 lb (272 kg) to 660 lb (299kg)."
+  ],
+  "claim_sha256": "02f53a92c12119fd578f15101cc47980277c7fd413fbc697fd6ab62cc4398b5e",
+  "source_sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
+  "final_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities"
+ },
+ "cincinnati-bus-station-galbraith.mobility.4": {
+  "url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+  "quote": "The maximum dimensions for a mobility aid to go in the baggage compartment is 33” x 33” x 48” (84 x 84 x 122 cm). The maximum weight for mobility aids is 200 pounds.",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Due to driver safety concerns, Bus Operators are not permitted to lift any mobility device over 50 pounds (22.6 kg) in weight."
+  ],
+  "claim_sha256": "79ebc77d71c5f82dc437ea087d2ba40b25dc2a7060ed6a922d301619d431d903",
+  "source_sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
+  "final_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities"
+ },
+ "cincinnati-bus-station-galbraith.sensory.1": {
+  "url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+  "quote": "If you are having trouble purchasing tickets electronically due to a disability, one of our customer service representatives will be happy to help you by phone at 1-800-752-4841",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "You may also email Greyhound if you are having problems due to your disability: ADA.support@greyhound.com .",
+   "TTY/TDD: 1-800-345-3109",
+   "Customers with disabilities may also request information in ADA-accessible alternative formats upon request by contacting Greyhound through the channels identified above."
+  ],
+  "claim_sha256": "8d3a283e19a2003d309b3961f921e74bfdd649a350d702c8206e59413ae397a8",
+  "source_sha256": "383b063ed3d3752ec41574426164a2c2bf0e708c01c4333492a1b30840c007b8",
+  "final_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities"
  },
  "cincinnati-city-hall.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/council/welcome-to-city-hall/city-hall-tours/",
@@ -5716,6 +5953,57 @@
   "source_sha256": "0c575c6dbc12304983f0b0cce5f4b763f8c2676563e59ef8573d7308cc74e842",
   "final_url": "https://www.cincinnati-oh.gov/cincyparks/visit-a-park/find-a-parkfacility/mt-airy-forest/"
  },
+ "fabled-brew-works.chronic.1": {
+  "url": "https://fabledbrewworks.beer/faqs",
+  "quote": "In addition, we have a few small snacks available for purchase at the bar. Guests are also welcome to bring their own food to the taproom.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "2d033d5b52a2c8337073e27df2a15a5d3907c5ef32b151e0c7eedcf8805d6ea3",
+  "source_sha256": "4a0bbe291c41af6ec5f69bb0e05ba305f475063187f87599bada205b351ca2fc",
+  "final_url": "https://fabledbrewworks.beer/faqs"
+ },
+ "fabled-brew-works.cognitive.1": {
+  "url": "https://fabledbrewworks.beer/faqs",
+  "quote": "Fabled Brew Works seeks to provide a family friendly environment where children are welcome. However, please realize that we are a brewery and children should be closely supervised for everyone's safety.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "e73c1996606cbb1bb758a3e089341baa48307c3e6dd33bc91c02da692b4ab7fa",
+  "source_sha256": "4a0bbe291c41af6ec5f69bb0e05ba305f475063187f87599bada205b351ca2fc",
+  "final_url": "https://fabledbrewworks.beer/faqs"
+ },
+ "fabled-brew-works.cognitive.2": {
+  "url": "https://fabledbrewworks.beer/faqs",
+  "quote": "331 Kenton Lands Rd Suite 300 Erlanger, KY 41018",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "(859) 727-2337"
+  ],
+  "claim_sha256": "831a2e92e75adb79826051debdf77a3e0854f77fd1c1cfc3a18bb8ca9cc58781",
+  "source_sha256": "4a0bbe291c41af6ec5f69bb0e05ba305f475063187f87599bada205b351ca2fc",
+  "final_url": "https://fabledbrewworks.beer/faqs"
+ },
+ "fabled-brew-works.mobility.1": {
+  "url": "https://fabledbrewworks.beer/faqs",
+  "quote": "Do you have parking at the taproom? Yes! We have a large parking lot with plenty of parking available.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "546cc170f5eabbde0f674bf6d255b0a475cbe6cb6defafe6a9aab7b928ee08b9",
+  "source_sha256": "4a0bbe291c41af6ec5f69bb0e05ba305f475063187f87599bada205b351ca2fc",
+  "final_url": "https://fabledbrewworks.beer/faqs"
+ },
+ "fabled-brew-works.mobility.2": {
+  "url": "https://fabledbrewworks.beer/faqs",
+  "quote": "Yes! We have a patio that can accommodate roughly 40 people. The patio is now covered with a roof that can open or close depending on the weather.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "908df96093df55adc3b1a20cc72a4420b13d0cb8c63fd7206a0475daa1473afb",
+  "source_sha256": "4a0bbe291c41af6ec5f69bb0e05ba305f475063187f87599bada205b351ca2fc",
+  "final_url": "https://fabledbrewworks.beer/faqs"
+ },
+ "fabled-brew-works.sensory.1": {
+  "url": "https://fabledbrewworks.beer/faqs",
+  "quote": "Also, please be aware that our décor could be frightening to some or exciting to others. We ask that your children refrain from playing with the scenery, as it was only built to be decorative.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "385b3065d92ca4f93780e425455b6b1e53a4300a4d8ce0525bcb24a5695d9b1f",
+  "source_sha256": "4a0bbe291c41af6ec5f69bb0e05ba305f475063187f87599bada205b351ca2fc",
+  "final_url": "https://fabledbrewworks.beer/faqs"
+ },
  "falcon-theatre.chronic.1": {
   "url": "https://falcontheater.net/tickets-information/ticket-policies/",
   "quote": "Latecomers will be seated at the discretion of the House Manager.",
@@ -8129,6 +8417,55 @@
   "quote": "For in-store pick-up: Follow signs to the Click & Collect Order Pick-Up area to the left of the store. Park in one of the designated Click & Collect spots check-in. Enter through the store exit. Turn left and proceed to the order pick-up desk.",
   "verified_at": "2026-11-12"
  },
+ "ink-dayton.cognitive.1": {
+  "url": "https://www.indienky.com/visit-us",
+  "quote": "sunday+monday+tuesday+wednesday: closed thursday, friday: 2pm-6pm saturday: 11am-4pm",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "hours will differ for in-store special events"
+  ],
+  "claim_sha256": "9c2a63b3cc768b28c52fa49bd95c4b259f5e9c11fe7eebb7156a038d5332f41d",
+  "source_sha256": "f84d3d9f02f3133e4bf435696b2dff80508a83f46eafe5abefdd6d73f493927c",
+  "final_url": "https://www.indienky.com/visit-us"
+ },
+ "ink-dayton.cognitive.2": {
+  "url": "https://www.indienky.com/your-events-ink",
+  "quote": "the creator space is set up with drawing tables and stocked with art supplies",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "with a stage, sound system, and projector for visual elements"
+  ],
+  "claim_sha256": "07d3ec145b47baaef55cf183e5fe454804b49f3c06687119fabcf63187f8774a",
+  "source_sha256": "f976678b028e74dfeb14959d4b0a319dd924a19f9921e1a4866629f9cc166ce2",
+  "final_url": "https://www.indienky.com/your-events-ink"
+ },
+ "ink-dayton.cognitive.3": {
+  "url": "https://www.indienky.com/visit-us",
+  "quote": "(513) 360-8519",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d6182af888d9a41a874fe57dcda438e50395460c47d3340593c520d0479c3a1c",
+  "source_sha256": "f84d3d9f02f3133e4bf435696b2dff80508a83f46eafe5abefdd6d73f493927c",
+  "final_url": "https://www.indienky.com/visit-us"
+ },
+ "ink-dayton.mobility.1": {
+  "url": "https://www.indienky.com/visit-us",
+  "quote": "street parking in front of the store + across the street (do not park in the space along the street with the green curb)",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "public lot parking down the road across from the fire station - on the other side of tuba baking co."
+  ],
+  "claim_sha256": "a4f7da98ba2c516723ebfe9b428b0c887b79e612c7b66e413f21cc4aef587f93",
+  "source_sha256": "f84d3d9f02f3133e4bf435696b2dff80508a83f46eafe5abefdd6d73f493927c",
+  "final_url": "https://www.indienky.com/visit-us"
+ },
+ "ink-dayton.mobility.2": {
+  "url": "https://cincybookstorecrawl.com/crawl-bookstores",
+  "quote": "Public parking lots. Older building with one step up to get into the store.",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "142fdde297c4e29b8850de46613118e406933bf418b19944ea10cc2ff67222c4",
+  "source_sha256": "c8aaeed721eaa19814540f4b10a6cee3656a6cec84c1b25483f739a17bf30919",
+  "final_url": "https://cincybookstorecrawl.com/crawl-bookstores"
+ },
  "jungle-jims-eastgate.chronic.1": {
   "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
   "quote": "We are not offering online ordering, pick up, or delivery for our regular in-store merchandise at this time.",
@@ -8988,47 +9325,104 @@
  "leblond-recreation-center.chronic.1": {
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
   "quote": "Please Note: Separate fees apply for certain programs, fitness access, and pool access.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f07d960ca40113bff6d87e2c0f63812d1a38210101e36a41d395402001b704eb",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
+ },
+ "leblond-recreation-center.chronic.2": {
+  "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+  "quote": "Assistance with ADLs (activities of daily living)",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center. This document is used to formally request additional assistance you may require."
+  ],
+  "claim_sha256": "65d722c8780bb63f4494042604e1585e56e95ade32da313edc79844645ada195",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
  },
  "leblond-recreation-center.cognitive.1": {
   "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
   "quote": "LeBlond Center is headquarters for the Division of Therapeutic Recreation. This center has a fully accessible playground, NEOS electronic playground component, outdoor accessible workout equipment, raised bed community sensory garden, an outdoor multiple sports court, and a newly renovated paved walking path along the Ohio River connecting the center to St. Rose Rec Area. It is our constant goal to provide the best quality recreation services available. Please call the Recreation Center for Annual Membership Fees",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "21aa781774f83bbce922f2eb6b32341925703e0f05e71d80ad3cdf57f223961c",
+  "source_sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
+  "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/"
  },
  "leblond-recreation-center.cognitive.2": {
   "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
   "quote": "Phone: 513-352-4013",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "Address: 2335 Riverside Dr. Cincinnati, OH 45202"
+  ],
+  "claim_sha256": "8bac3cc879b9f63444579eeb530e27a463bd40f430f0d4fdcb213fdd1849140c",
+  "source_sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
+  "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/"
  },
  "leblond-recreation-center.cognitive.3": {
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
   "quote": "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center. This document is used to formally request additional assistance you may require.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "d0d215e7dacf77db3873491eb12de0e852a8d521e2c6d58c4675216ec67ad7ee",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
  },
  "leblond-recreation-center.cognitive.4": {
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
   "quote": "Types of Accommodations Changes in Rules and/or Policies Assistance with ADLs (activities of daily living) Architectural Changes Adaptive Equipment Increased Supervision Behavior Supports Specialized Training for Staff Boardmaker Tools for Communication",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "b690ca40c0d59e93647e43936456b2f721f4ad80b87fbb58ff720c994de189c9",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
  },
  "leblond-recreation-center.cognitive.5": {
   "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
   "quote": "All individuals who register and participate in our Therapeutic Recreation and Center Programs must have a valid CRC Center Membership . Membership Benefits Entry to all CRC Recreation Centers Access to activities and programs advertised as “free with membership” Valid for 12 months from the date of purchase",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "4bebbba94cc27cb66b0053fc1a3666c57665673c2d2918add60d438cdb0de3e3",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
+ },
+ "leblond-recreation-center.cognitive.6": {
+  "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+  "quote": "Monday 12:00 PM – 8:00 PM Tuesday 12:00 PM – 8:00 PM Wednesday 12:00 PM – 8:00 PM Thursday 12:00 PM – 8:00 PM Friday 12:00 PM – 8:00 PM Saturday 9:00 AM – 2:00 PM Sunday Available for rentals",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "3e9bd547b24ee1b59730f7b278b334c3f6bc7d08442daaeebe902c8bf255975c",
+  "source_sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
+  "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/"
+ },
+ "leblond-recreation-center.cognitive.7": {
+  "url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+  "quote": "If you would like to be considered for a Center Membership Scholarship, please contact us (513) 352-4023",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8be66d25fc97de1bb9d6f9610ea8bd33ca866fe781b9bf1b91eb82f48f0fce60",
+  "source_sha256": "df1b7099a045167125f41f761e97c69dab511db6e3d833a97d99a1a73553562b",
+  "final_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/"
  },
  "leblond-recreation-center.mobility.1": {
   "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
   "quote": "a newly renovated paved walking path along the Ohio River connecting the center to St. Rose Rec Area.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "620a2980e734057b5ce5711ae6dd8e1ec805d0f43aaea8e48ee927ec5a783c79",
+  "source_sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
+  "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/"
  },
  "leblond-recreation-center.mobility.2": {
   "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
   "quote": "This center has a fully accessible playground, NEOS electronic playground component, outdoor accessible workout equipment, raised bed community sensory garden, an outdoor multiple sports court, and a newly renovated paved walking path along the Ohio River connecting the center to St. Rose Rec Area.",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "8ce1d45bfe54351b3bd7002c90bd221db360963b4494f7439d0cb1057cc28615",
+  "source_sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
+  "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/"
  },
  "leblond-recreation-center.sensory.1": {
   "url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
   "quote": "raised bed community sensory garden",
-  "verified_at": "2026-11-11"
+  "verified_at": "2026-11-13",
+  "claim_sha256": "1131941bbee8d07dab1b708ce0df0216b97d60e70b52219eb6735c5254181ee0",
+  "source_sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
+  "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/"
  },
  "licking-river-greenway-trails.cognitive.1": {
   "url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
@@ -9477,6 +9871,41 @@
   "claim_sha256": "0e786a3810fd25f2e30e715d700b5163c0184555241ba18282f7d72036cd3f9c",
   "source_sha256": "cad07eba8f84fa02a5845fd49a31d1f09adc42d323eff6f1697326e593167607",
   "final_url": "https://www.ludlowgaragecincinnati.com/faqs/"
+ },
+ "major-minor-books-silverton.chronic.1": {
+  "url": "https://www.majorminorbooksandsuch.com/",
+  "quote": "Shop Online, Ship Direct w/ Bookshop",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "441a8ad6ce5d4572872944d25ea9cf3b7ea06873bf0b382d03093702ef770ef2",
+  "source_sha256": "d4604b04d5b7f1e8e9803ff30c35e07f9f7ba26a399e888387b7ab963029786d",
+  "final_url": "https://www.majorminorbooksandsuch.com/"
+ },
+ "major-minor-books-silverton.cognitive.1": {
+  "url": "https://www.majorminorbooksandsuch.com/",
+  "quote": "Store Hours: Wednesday- 10:00a - 6:00p Thursday- 10:00a - 6:00p Friday- 10:00a - 6:00p Saturday- 10:00a - 5:00p Sunday- 10:00a - 5:00p",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "71fb9cc94a806b0fdce65a023e18682fa350dd3001e748985de9e2296fee846a",
+  "source_sha256": "d4604b04d5b7f1e8e9803ff30c35e07f9f7ba26a399e888387b7ab963029786d",
+  "final_url": "https://www.majorminorbooksandsuch.com/"
+ },
+ "major-minor-books-silverton.cognitive.2": {
+  "url": "https://www.majorminorbooksandsuch.com/",
+  "quote": "majorminorbooks@gmail.com",
+  "verified_at": "2026-11-13",
+  "additional_quotes": [
+   "513-417-8107"
+  ],
+  "claim_sha256": "ad24ce82924a7448cdb63f49663ebcd52285f2e99ae023df6f5959f7d06c39f2",
+  "source_sha256": "d4604b04d5b7f1e8e9803ff30c35e07f9f7ba26a399e888387b7ab963029786d",
+  "final_url": "https://www.majorminorbooksandsuch.com/"
+ },
+ "major-minor-books-silverton.mobility.1": {
+  "url": "https://cincybookstorecrawl.com/crawl-bookstores",
+  "quote": "Onsite parking and street parking. Wheelchair accessible (you do need to request that the ramp be provided).",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "cb4d4cd05c5dd8590c8a2c1299cba592cd6a73bc9066aa90d55b61ee9808c351",
+  "source_sha256": "c8aaeed721eaa19814540f4b10a6cee3656a6cec84c1b25483f739a17bf30919",
+  "final_url": "https://cincybookstorecrawl.com/crawl-bookstores"
  },
  "mamas-on-main.cognitive.1": {
   "url": "https://www.mamasonmain.com/contact",
@@ -11892,6 +12321,38 @@
   "claim_sha256": "e2f193b6d4e1894c4d9a9a4f775391c759b26c354317c3d107b7e8c0f37c5805",
   "source_sha256": "ce469db9a3fa22a01d744776a5c7135052bdf9e6995ea02f424ab7ea78e4d118",
   "final_url": "https://rcdurr.myy.org/"
+ },
+ "remke-markets-taylor-mill.chronic.1": {
+  "url": "https://www.remkes.com/taylor-mill/",
+  "quote": "In-Store Pickup Available",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "f47393b5537d76559737084ba3b68527c4dc7945c8ac98a6fb4e090199b7e6ad",
+  "source_sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+  "final_url": "https://www.remkes.com/taylor-mill/"
+ },
+ "remke-markets-taylor-mill.cognitive.1": {
+  "url": "https://www.remkes.com/taylor-mill/",
+  "quote": "Open Daily 6 am – 11 pm",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "2ac0c7dc8bc0b475d11804cb0a2eb0ca8d6e711bbf5dd1c585491775094de439",
+  "source_sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+  "final_url": "https://www.remkes.com/taylor-mill/"
+ },
+ "remke-markets-taylor-mill.cognitive.2": {
+  "url": "https://www.remkes.com/store-locator/",
+  "quote": "Taylor Mill 5016 Old Taylor Mill Rd Taylor Mill, KY 41015 In-Store Pickup Available Hours: Open Daily 7 am-10 pm",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "138f3bc30893a2bc898dd93f178b9866ee859b29fd4cc6981131ebadc0018f84",
+  "source_sha256": "f3fac5ec19fe9cf92522d83516a215aae938a678fa78b19eaad3ccf6408223e5",
+  "final_url": "https://www.remkes.com/store-locator/"
+ },
+ "remke-markets-taylor-mill.cognitive.3": {
+  "url": "https://www.remkes.com/taylor-mill/",
+  "quote": "Phone: (859) 491-9889",
+  "verified_at": "2026-11-13",
+  "claim_sha256": "df8d143056729b74001067bbe79fb8062e9663c347d79df552a5e4ca383ac187",
+  "source_sha256": "f69ff7ad8a8ebfaedbcbd2310d61bba39d2807256108df8590aada9d254c74c3",
+  "final_url": "https://www.remkes.com/taylor-mill/"
  },
  "rhinegeist-brewery.chronic.1": {
   "url": "https://rhinegeist.com/brewery-tours/",

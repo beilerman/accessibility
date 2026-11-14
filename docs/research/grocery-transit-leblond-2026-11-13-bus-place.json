@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "cincinnati-bus-station-galbraith",
+    "name": "Cincinnati Bus Station — Galbraith Road",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Transportation",
+    "address": "398 E Galbraith Road, Cincinnati, OH 45215",
+    "website": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+    "source_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+    "limitations": "Current operator location information and national Greyhound policies; no on-site audit. National rules do not establish station toilets, changing facilities, current staffing, waiting-room access or equipment on an assigned vehicle. The operator identifies Waldman Drive boarding separately from the building address; the complete arrival route is unverified. The August 2025 photograph is historical and shows only part of the exterior. Confirm the actual operating carrier, equipment fit, personal assistance and connections before booking. Ticketing hours must not be read as 24-hour opening.",
+    "facts": [
+      [
+        "mobility",
+        "Greyhound lists the station at 398 E Galbraith Road but says the bus stops on Waldman Drive, separate from bus traffic. Use the address on your ticket for the latest boarding location; a continuous step-free route from the building to that stop is unverified.",
+        "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+        "operator_official",
+        null,
+        [
+          "398 E Galbraith Rd Cincinnati, OH 45215",
+          "The bus will stop on Waldman Dr separate from bus traffic.",
+          "Please note: your ticket will contain the most up-to-date address information."
+        ]
+      ],
+      [
+        "cognitive",
+        "The station page lists ticketing hours as 12:00 a.m.–12:00 p.m. every day. That is the wording shown, not confirmation of 24-hour staffing, waiting-room access or bus operating hours; confirm before travel.",
+        "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+        "operator_official",
+        null,
+        "Monday 12:00 AM - 12:00 PM Tuesday 12:00 AM - 12:00 PM Wednesday 12:00 AM - 12:00 PM Thursday 12:00 AM - 12:00 PM Friday 12:00 AM - 12:00 PM Saturday 12:00 AM - 12:00 PM Sunday 12:00 AM - 12:00 PM"
+      ],
+      [
+        "cognitive",
+        "The station listing provides Greyhound’s 800-231-2222 contact number. It does not identify a direct local desk number.",
+        "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+        "operator_official",
+        null,
+        "Phone (800) 231-2222"
+      ],
+      [
+        "mobility",
+        "Greyhound asks customers to state at booking whether they use a wheelchair or scooter and will remain seated in it. Its national policy describes two occupied-device spaces per bus and recommends booking early; this is not confirmation of space on a particular departure.",
+        "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "operator_official",
+        null,
+        [
+          "When you book your trip, make sure you tell us if you’re traveling with a wheelchair or mobility scooter, and if you plan to sit in it during your journey.",
+          "Each Greyhound bus can fit two passengers sitting in a wheelchair or mobility scooter. So we suggest you book your ticket as far in advance as possible to get one of the two spots on your preferred journey."
+        ]
+      ],
+      [
+        "mobility",
+        "Greyhound publishes a combined passenger-and-device lift-weight range of 600–1,000 lb, wheelchair dimensions of 30 × 48 inches, and scooter dimensions of 30 × 30 × 48 inches. The US–Canada weight range is 600–660 lb. Confirm the assigned vehicle’s limit; 1,000 lb is not a universal allowance.",
+        "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "operator_official",
+        null,
+        [
+          "Weight including the passenger can range from 600 lb (272 kg) to 1000 lb (453 kg)",
+          "Wheelchair dimensions of 30 x 48 inches (76 cm x 121 cm)",
+          "Mobility scooter with dimensions of 30 x 30 x 48 inches (76 x 76 x 122 cm)",
+          "Buses traveling cross border between US and Canada have the following weight range of 600 lb (272 kg) to 660 lb (299kg)."
+        ]
+      ],
+      [
+        "mobility",
+        "For a mobility aid stored below the bus, Greyhound lists maximum dimensions of 33 × 33 × 48 inches and a 200 lb maximum. Drivers are not permitted to lift a device over 50 lb. Confirm a workable storage and retrieval arrangement directly; the baggage maximum does not promise staff lifting.",
+        "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "operator_official",
+        null,
+        [
+          "The maximum dimensions for a mobility aid to go in the baggage compartment is 33” x 33” x 48” (84 x 84 x 122 cm). The maximum weight for mobility aids is 200 pounds.",
+          "Due to driver safety concerns, Bus Operators are not permitted to lift any mobility device over 50 pounds (22.6 kg) in weight."
+        ]
+      ],
+      [
+        "chronic",
+        "Greyhound says it cannot provide personal help with toileting, dispensing medication or constant care during travel. Customers needing that support should travel with a support person or companion who has a seat ticket; the separate Canadian complimentary-seat wording does not describe a free US companion seat.",
+        "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "operator_official",
+        null,
+        [
+          "You can travel alone on Greyhound buses as long as you can travel independently and don’t need assistance of a personal nature such as help using the restroom, dispensing medication or constant care during travel. We can’t provide this level of assistance so if you need it, you should bring a support person or travel companion with you. Support persons or travel companions must obtain a seat ticket for travel.",
+          "For passengers traveling within Canada, please contact customer service at least 48-hours before departure to obtain a complimentary seat for your support person."
+        ]
+      ],
+      [
+        "cognitive",
+        "For a connection operated by another carrier, Greyhound warns that 48 hours’ notice may be needed for an accessible bus. Check the carrier shown on your itinerary before travel; a lift-equipped connection may be unavailable when booked with less notice.",
+        "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "operator_official",
+        null,
+        [
+          "If a part of your trip will be on a connecting carrier, you should know that the other carrier may require 48-hours advance notice in order to provide an accessible bus. If it is less than 48 hours between booking and the trip, an accessible bus might not be available at the transfer point.",
+          "Your ticket/itinerary will indicate if a connecting carrier other than Greyhound is operating part of your trip."
+        ]
+      ],
+      [
+        "sensory",
+        "Greyhound offers disability-related booking help at 800-752-4841 or ADA.support@greyhound.com, TTY/TDD at 800-345-3109, and alternative-format information on request. These are national support channels, not evidence of on-site interpretation.",
+        "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "operator_official",
+        null,
+        [
+          "If you are having trouble purchasing tickets electronically due to a disability, one of our customer service representatives will be happy to help you by phone at 1-800-752-4841",
+          "You may also email Greyhound if you are having problems due to your disability: ADA.support@greyhound.com .",
+          "TTY/TDD: 1-800-345-3109",
+          "Customers with disabilities may also request information in ADA-accessible alternative formats upon request by contacting Greyhound through the channels identified above."
+        ]
+      ]
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "slug": "crawl-year-context-only",
+  "facts": [
+   {
+    "claim": "The directory belongs to the 2026 crawl; event hours are not regular store hours.",
+    "url": "https://cincybookstorecrawl.com/participatingbookstores",
+    "quote": "27 bookstores, across NKY and Cincinnati, will participate in the 2026 Cincy Bookstore Crawl!",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "8767c098161508a75a913b3991a3606190e2780d94ab6ca37f362894ffb7c368"
+   },
+   {
+    "claim": "The crawl details give October 2-4, rather than the November check date, as the event dates.",
+    "url": "https://cincybookstorecrawl.com/crawldetails",
+    "quote": "Mark your calendar for October 2nd–4th",
+    "verified": true,
+    "source_status": 200,
+    "source_sha256": "eb5af40b5d4555e745fe901f537f5b0472ce3caebfa0428de49792943dad696b"
+   }
+  ]
+ }
+]

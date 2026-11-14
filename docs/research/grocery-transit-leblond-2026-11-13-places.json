@@ -1,0 +1,111 @@
+[
+  {
+    "slug": "fabled-brew-works",
+    "name": "Fabled Brew Works",
+    "city": "Erlanger",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "331 Kenton Lands Road, Suite 300, Erlanger, KY 41018",
+    "website": "https://www.fabledbrewworks.beer/",
+    "source_url": "https://fabledbrewworks.beer/faqs",
+    "limitations": "Official visit information only; no on-site audit. The community recommendation is not an access assessment. Entrance thresholds, door controls, designated parking, continuous routes, table clearances, toilets and adult changing facilities remain unverified. The FAQ’s dog wording does not distinguish service animals; no service-animal exclusion is inferred. Historical photographs may differ from the current covered patio.",
+    "facts": [
+      [
+        "mobility",
+        "The brewery reports an on-site parking lot. Its FAQ does not identify designated spaces or a continuous parking-to-door route.",
+        "https://fabledbrewworks.beer/faqs",
+        "venue_official",
+        null,
+        "Do you have parking at the taproom? Yes! We have a large parking lot with plenty of parking available."
+      ],
+      [
+        "mobility",
+        "The FAQ describes a patio for roughly 40 people, now covered by a roof that opens or closes with the weather. It does not specify the entry route or seating clearances.",
+        "https://fabledbrewworks.beer/faqs",
+        "venue_official",
+        null,
+        "Yes! We have a patio that can accommodate roughly 40 people. The patio is now covered with a roof that can open or close depending on the weather."
+      ],
+      [
+        "sensory",
+        "The brewery cautions that its decorative scenery may frighten or excite some children and asks visitors not to play with it. Noise levels and quieter seating are not described.",
+        "https://fabledbrewworks.beer/faqs",
+        "venue_official",
+        null,
+        "Also, please be aware that our décor could be frightening to some or exciting to others. We ask that your children refrain from playing with the scenery, as it was only built to be decorative."
+      ],
+      [
+        "chronic",
+        "Guests may bring their own food into the taproom; the FAQ also lists small snacks at the bar. Ingredient and allergy-handling arrangements are not specified.",
+        "https://fabledbrewworks.beer/faqs",
+        "venue_official",
+        null,
+        "In addition, we have a few small snacks available for purchase at the bar. Guests are also welcome to bring their own food to the taproom."
+      ],
+      [
+        "cognitive",
+        "Children are welcome, but the brewery asks that they be closely supervised for everyone’s safety.",
+        "https://fabledbrewworks.beer/faqs",
+        "venue_official",
+        null,
+        "Fabled Brew Works seeks to provide a family friendly environment where children are welcome. However, please realize that we are a brewery and children should be closely supervised for everyone's safety."
+      ],
+      [
+        "cognitive",
+        "For questions about the Suite 300 taproom and individual visit arrangements, the brewery lists 859-727-2337.",
+        "https://fabledbrewworks.beer/faqs",
+        "venue_official",
+        null,
+        [
+          "331 Kenton Lands Rd Suite 300 Erlanger, KY 41018",
+          "(859) 727-2337"
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "remke-markets-taylor-mill",
+    "name": "Remke Markets — Taylor Mill",
+    "city": "Taylor Mill",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "5016 Old Taylor Mill Road, Taylor Mill, KY 41015",
+    "website": "https://www.remkes.com/",
+    "source_url": "https://www.remkes.com/taylor-mill/",
+    "limitations": "Official store information only; no on-site audit. The branch page and store locator disagree on hours: 6 a.m.–11 p.m. versus 7 a.m.–10 p.m. Confirm before travel. In-store pickup does not establish curbside collection, a designated bay, trunk loading or carrying assistance. Entrance thresholds, door controls, aisles, mobility equipment, toilets and a continuous arrival route remain unverified. The ordering application did not yield readable collection instructions.",
+    "facts": [
+      [
+        "chronic",
+        "The Taylor Mill branch lists in-store pickup. The page does not explain where to collect an order or what carrying assistance is available.",
+        "https://www.remkes.com/taylor-mill/",
+        "venue_official",
+        null,
+        "In-Store Pickup Available"
+      ],
+      [
+        "cognitive",
+        "The branch page gives daily hours of 6 a.m.–11 p.m.; these differ from the store locator. Confirm the current hours before travelling.",
+        "https://www.remkes.com/taylor-mill/",
+        "venue_official",
+        null,
+        "Open Daily 6 am – 11 pm"
+      ],
+      [
+        "cognitive",
+        "The store locator instead gives Taylor Mill daily hours of 7 a.m.–10 p.m. This conflicts with the branch page and is not a resolved schedule.",
+        "https://www.remkes.com/store-locator/",
+        "venue_official",
+        null,
+        "Taylor Mill 5016 Old Taylor Mill Rd Taylor Mill, KY 41015 In-Store Pickup Available Hours: Open Daily 7 am-10 pm"
+      ],
+      [
+        "cognitive",
+        "The Taylor Mill store lists 859-491-9889 for questions about hours, pickup and visit arrangements.",
+        "https://www.remkes.com/taylor-mill/",
+        "venue_official",
+        null,
+        "Phone: (859) 491-9889"
+      ]
+    ]
+  }
+]

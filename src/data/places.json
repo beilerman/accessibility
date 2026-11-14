@@ -26431,18 +26431,18 @@
     "website": "https://www.butlercountyrta.com",
     "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
     "limitations": "Public operator information; no on-site audit. The address is the agency’s administrative office. The BCARE page calls all vehicles lift-equipped, while the FAQ describes fixed-route kneeling and ramp boarding; specific vehicle configurations remain unverified. Individual stop surfaces, kerb connections, routes between Chestnut Street Station’s waiting and boarding areas, restroom equipment and current vehicle equipment operation are not established. Published mobility-device limits are the agency’s statements; confirm arrangements and reasonable modifications directly.",
-    "checked_at": "2026-11-11",
+    "checked_at": "2026-11-13",
     "slug": "butler-county-regional-transit-authority",
     "evidence_type": "public_website",
     "observed_at": null,
     "facts": [
       {
         "domain": "mobility",
-        "text": "All BCRTA and MTS vehicles have lifts for mobility devices.",
+        "text": "The BCARE webpage describes all BCRTA and MTS vehicles as lift-equipped. This is the agency’s published description, not a check of the equipment on an individual vehicle.",
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.mobility.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26456,6 +26456,16 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "revised",
+            "note": "Attribute the broad vehicle-equipment claim to its source. The separate FAQ describes fixed-route ramp boarding; the venue limitations retain this distinction."
           }
         ]
       },
@@ -26465,7 +26475,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.mobility.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26479,6 +26489,11 @@
             "date": "2026-11-11",
             "action": "revised",
             "note": "Added the published request to notify the agency about accompanying personal care attendants when scheduling."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26488,7 +26503,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.cognitive.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26500,6 +26515,11 @@
           },
           {
             "date": "2026-11-11",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -26511,7 +26531,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/travel-training/",
         "id": "butler-county-regional-transit-authority.cognitive.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26525,6 +26545,11 @@
             "date": "2026-11-11",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26534,7 +26559,7 @@
         "source_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
         "id": "butler-county-regional-transit-authority.mobility.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26543,6 +26568,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26552,7 +26582,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.mobility.4",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26561,6 +26591,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26570,7 +26605,7 @@
         "source_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
         "id": "butler-county-regional-transit-authority.sensory.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26579,6 +26614,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26588,7 +26628,7 @@
         "source_url": "https://www.butlercountyrta.com/how-to-ride/",
         "id": "butler-county-regional-transit-authority.mobility.5",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26597,6 +26637,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26606,7 +26651,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.cognitive.3",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26615,6 +26660,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26624,7 +26674,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/travel-training/",
         "id": "butler-county-regional-transit-authority.cognitive.4",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26633,6 +26683,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26642,7 +26697,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.chronic.1",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26651,6 +26706,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26660,7 +26720,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.cognitive.5",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26669,6 +26729,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26678,7 +26743,7 @@
         "source_url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
         "id": "butler-county-regional-transit-authority.chronic.2",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26687,6 +26752,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26696,7 +26766,7 @@
         "source_url": "https://www.butlercountyrta.com/projects/oxford-multimodal-facility/",
         "id": "butler-county-regional-transit-authority.mobility.6",
         "source_type": "operator_official",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26705,6 +26775,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26714,7 +26789,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.cognitive.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26723,6 +26798,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26732,7 +26812,7 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.mobility.7",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -26741,6 +26821,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -26750,13 +26835,180 @@
         "source_url": "https://www.butlercountyrta.com/accessibility/bcare-paratransit/",
         "id": "butler-county-regional-transit-authority.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ reserves seats at the front of the bus for older passengers and riders with disabilities, and asks others to offer these seats when needed or requested by the driver.",
+        "source_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+        "id": "butler-county-regional-transit-authority.mobility.8",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "BCRTA’s FAQ says service is suspended during a Level 3 Snow Emergency, with notification to riders. Check current alerts before travelling in severe weather.",
+        "source_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+        "id": "butler-county-regional-transit-authority.cognitive.7",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The general passenger code asks riders to bring only what they can carry in one boarding and stow in their lap or under their seat. This is separate wording from BCARE’s four-bag cargo-area guidance; confirm which arrangements apply to your trip.",
+        "source_url": "https://www.butlercountyrta.com/customer-service/common-questions/",
+        "id": "butler-county-regional-transit-authority.chronic.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Community-room requests require at least 48 hours’ notice and can be made up to three months ahead, on a first-come basis. The Chestnut Station room is listed for Monday–Friday, 8 a.m.–5 p.m.; this is room availability, not the station’s general opening hours.",
+        "source_url": "https://www.butlercountyrta.com/butler-county-rta-community-room-information/",
+        "id": "butler-county-regional-transit-authority.cognitive.8",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "A person aged 18 or older can reserve a community room without BCRTA membership. Events must be open to the public; the policy excludes admission fees, requested donations, fundraising and for-profit programs.",
+        "source_url": "https://www.butlercountyrta.com/butler-county-rta-community-room-information/",
+        "id": "butler-county-regional-transit-authority.cognitive.9",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The dated holiday schedule lists the office closed and service limited to contract obligations on November 26–27 and December 25, 2026, and January 1, 2027. Do not assume a public trip operates on those dates; confirm your service with the agency.",
+        "source_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+        "id": "butler-county-regional-transit-authority.cognitive.10",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "On December 24 and 31, 2026, the holiday schedule says service closes at 2:30 p.m. or after the last trip following 2:30 p.m., with no CincyLink service. Confirm the final trip for your route.",
+        "source_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+        "id": "butler-county-regional-transit-authority.cognitive.11",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The 2026 schedule says Oxford fall service ends December 11 at 7:40 p.m., with the regular R3 schedule that day. Oxford J-Term service begins December 14 at 7 a.m. These Oxford entries do not establish every route’s winter timetable.",
+        "source_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+        "id": "butler-county-regional-transit-authority.cognitive.12",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Oxford’s Thanksgiving row gives November 25–30, 2026 as the break period and November 29 at 11:30 a.m. as the service resumption. It also states an 11 p.m. end time and “No SR” without expanding the abbreviation. Confirm the affected trips directly.",
+        "source_url": "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+        "id": "butler-county-regional-transit-authority.cognitive.13",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -30281,7 +30533,7 @@
     "website": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
     "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
     "limitations": "Public website information; no on-site audit. CRC describes recreation features as accessible without publishing measurements or equipment transfer procedures here. Parking-to-door routes, entrance thresholds, door controls, restrooms and indoor circulation remain unverified. The sensory garden is not described as a quiet space. Ask the center about current equipment, program availability and membership before visiting.",
-    "checked_at": "2026-11-11",
+    "checked_at": "2026-11-13",
     "slug": "leblond-recreation-center",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -30292,7 +30544,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
         "id": "leblond-recreation-center.mobility.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30301,6 +30553,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30310,7 +30567,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
         "id": "leblond-recreation-center.mobility.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30319,6 +30576,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30328,7 +30590,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
         "id": "leblond-recreation-center.sensory.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30337,6 +30599,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30346,7 +30613,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
         "id": "leblond-recreation-center.cognitive.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30355,6 +30622,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30364,7 +30636,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
         "id": "leblond-recreation-center.cognitive.2",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30373,6 +30645,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30382,7 +30659,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
         "id": "leblond-recreation-center.cognitive.3",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30391,6 +30668,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30400,7 +30682,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
         "id": "leblond-recreation-center.cognitive.4",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30409,6 +30691,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30418,7 +30705,7 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
         "id": "leblond-recreation-center.cognitive.5",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -30427,6 +30714,11 @@
             "date": "2026-11-11",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -30436,13 +30728,72 @@
         "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
         "id": "leblond-recreation-center.chronic.1",
         "source_type": "public_agency",
-        "retrieved_at": "2026-11-11",
+        "retrieved_at": "2026-11-13",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-11",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-13",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The center lists Monday–Friday hours of noon–8 p.m. and Saturday hours of 9 a.m.–2 p.m.; Sunday is listed as available for rentals. Sunday wording does not establish open drop-in access.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+        "id": "leblond-recreation-center.cognitive.6",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "CRC includes assistance with activities of daily living among possible accommodation types. Request an assessment at registration to discuss your needs; the systemwide list does not guarantee personal-care or transfer assistance at LeBlond.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "leblond-recreation-center.chronic.2",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For consideration for a CRC Center Membership Scholarship, the Therapeutic Recreation page directs visitors to call 513-352-4023. It does not state approval criteria or promise an award.",
+        "source_url": "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+        "id": "leblond-recreation-center.cognitive.7",
+        "source_type": "public_agency",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -41632,6 +41983,590 @@
         "source_type": "public_agency",
         "retrieved_at": "2026-11-13",
         "published_at": "2024-09-12",
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Fabled Brew Works",
+    "city": "Erlanger",
+    "state": "KY",
+    "category": "Food & drink",
+    "address": "331 Kenton Lands Road, Suite 300, Erlanger, KY 41018",
+    "website": "https://www.fabledbrewworks.beer/",
+    "source_url": "https://fabledbrewworks.beer/faqs",
+    "limitations": "Official visit information only; no on-site audit. The community recommendation is not an access assessment. Entrance thresholds, door controls, designated parking, continuous routes, table clearances, toilets and adult changing facilities remain unverified. The FAQ’s dog wording does not distinguish service animals; no service-animal exclusion is inferred. Historical photographs may differ from the current covered patio.",
+    "checked_at": "2026-11-13",
+    "slug": "fabled-brew-works",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The brewery reports an on-site parking lot. Its FAQ does not identify designated spaces or a continuous parking-to-door route.",
+        "source_url": "https://fabledbrewworks.beer/faqs",
+        "id": "fabled-brew-works.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The FAQ describes a patio for roughly 40 people, now covered by a roof that opens or closes with the weather. It does not specify the entry route or seating clearances.",
+        "source_url": "https://fabledbrewworks.beer/faqs",
+        "id": "fabled-brew-works.mobility.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The brewery cautions that its decorative scenery may frighten or excite some children and asks visitors not to play with it. Noise levels and quieter seating are not described.",
+        "source_url": "https://fabledbrewworks.beer/faqs",
+        "id": "fabled-brew-works.sensory.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Guests may bring their own food into the taproom; the FAQ also lists small snacks at the bar. Ingredient and allergy-handling arrangements are not specified.",
+        "source_url": "https://fabledbrewworks.beer/faqs",
+        "id": "fabled-brew-works.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Children are welcome, but the brewery asks that they be closely supervised for everyone’s safety.",
+        "source_url": "https://fabledbrewworks.beer/faqs",
+        "id": "fabled-brew-works.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For questions about the Suite 300 taproom and individual visit arrangements, the brewery lists 859-727-2337.",
+        "source_url": "https://fabledbrewworks.beer/faqs",
+        "id": "fabled-brew-works.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Remke Markets — Taylor Mill",
+    "city": "Taylor Mill",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "5016 Old Taylor Mill Road, Taylor Mill, KY 41015",
+    "website": "https://www.remkes.com/",
+    "source_url": "https://www.remkes.com/taylor-mill/",
+    "limitations": "Official store information only; no on-site audit. The branch page and store locator disagree on hours: 6 a.m.–11 p.m. versus 7 a.m.–10 p.m. Confirm before travel. In-store pickup does not establish curbside collection, a designated bay, trunk loading or carrying assistance. Entrance thresholds, door controls, aisles, mobility equipment, toilets and a continuous arrival route remain unverified. The ordering application did not yield readable collection instructions.",
+    "checked_at": "2026-11-13",
+    "slug": "remke-markets-taylor-mill",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "chronic",
+        "text": "The Taylor Mill branch lists in-store pickup. The page does not explain where to collect an order or what carrying assistance is available.",
+        "source_url": "https://www.remkes.com/taylor-mill/",
+        "id": "remke-markets-taylor-mill.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The branch page gives daily hours of 6 a.m.–11 p.m.; these differ from the store locator. Confirm the current hours before travelling.",
+        "source_url": "https://www.remkes.com/taylor-mill/",
+        "id": "remke-markets-taylor-mill.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The store locator instead gives Taylor Mill daily hours of 7 a.m.–10 p.m. This conflicts with the branch page and is not a resolved schedule.",
+        "source_url": "https://www.remkes.com/store-locator/",
+        "id": "remke-markets-taylor-mill.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Taylor Mill store lists 859-491-9889 for questions about hours, pickup and visit arrangements.",
+        "source_url": "https://www.remkes.com/taylor-mill/",
+        "id": "remke-markets-taylor-mill.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "iNK — indie northern kentucky",
+    "city": "Dayton",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "507 Sixth Avenue, Dayton, KY 41074",
+    "website": "https://www.indienky.com/",
+    "source_url": "https://www.indienky.com/visit-us",
+    "limitations": "Official store information and the 2026 bookstore-crawl organizer’s guide; no on-site audit. The crawl guide reports a single entrance step but gives no alternative route. Current step-free entry, door operation, aisle widths, stage access, toilets and changing facilities remain unverified. Crawl hours are event-specific and are not used as regular opening hours. The store is now in Dayton; older Bellevue accounts describe a different location.",
+    "checked_at": "2026-11-13",
+    "slug": "ink-dayton",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The shop directs visitors to street parking in front and across the street, excluding the green-curb space. It also identifies a public lot across from the fire station, beyond Tuba Baking Co.; designated spaces and the complete route are unverified.",
+        "source_url": "https://www.indienky.com/visit-us",
+        "id": "ink-dayton.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "The 2026 Cincy Bookstore Crawl guide describes one step into the older building. It gives no alternative entrance or ramp arrangement; confirm current entry options before travel.",
+        "source_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+        "id": "ink-dayton.mobility.2",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "Regular hours are Thursday–Friday 2–6 p.m. and Saturday 11 a.m.–4 p.m.; Sunday through Wednesday are listed as closed. In-store special events can have different hours.",
+        "source_url": "https://www.indienky.com/visit-us",
+        "id": "ink-dayton.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The creator space has drawing tables and art supplies, plus a stage, sound system and projector for events. The shop does not describe stage access, captioning or quieter sessions.",
+        "source_url": "https://www.indienky.com/your-events-ink",
+        "id": "ink-dayton.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The Dayton shop lists 513-360-8519 for visit questions, including confirming entry arrangements.",
+        "source_url": "https://www.indienky.com/visit-us",
+        "id": "ink-dayton.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Major Minor Books & Such",
+    "city": "Silverton",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "6718 Montgomery Road, Cincinnati, OH 45236",
+    "website": "https://www.majorminorbooksandsuch.com/",
+    "source_url": "https://www.majorminorbooksandsuch.com/",
+    "limitations": "Official store information and the 2026 bookstore-crawl organizer’s guide; no on-site audit. The crawl guide says a ramp must be requested, but does not describe deployment, advance notice, grade, width or load limits. Confirm suitability and availability directly. Toilet access, changing facilities, internal circulation and door controls remain unverified. Event-specific hours and an undated sold-out performance are not treated as the regular schedule. A separate magazine visit account is not an official access assessment.",
+    "checked_at": "2026-11-13",
+    "slug": "major-minor-books-silverton",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The 2026 Cincy Bookstore Crawl guide lists on-site and street parking and says a ramp must be requested. It does not give ramp dimensions, load limits or notice requirements; confirm arrangements directly before travel.",
+        "source_url": "https://cincybookstorecrawl.com/crawl-bookstores",
+        "id": "major-minor-books-silverton.mobility.1",
+        "source_type": "partner_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The shop lists Wednesday–Friday hours of 10 a.m.–6 p.m. and Saturday–Sunday hours of 10 a.m.–5 p.m. Its regular schedule does not list Monday or Tuesday hours.",
+        "source_url": "https://www.majorminorbooksandsuch.com/",
+        "id": "major-minor-books-silverton.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The store lists 513-417-8107 and majorminorbooks@gmail.com for questions about the shop and individual visit arrangements.",
+        "source_url": "https://www.majorminorbooksandsuch.com/",
+        "id": "major-minor-books-silverton.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The official website links to online shopping with direct shipping through Bookshop. This does not establish in-store pickup or delivery times.",
+        "source_url": "https://www.majorminorbooksandsuch.com/",
+        "id": "major-minor-books-silverton.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cincinnati Bus Station — Galbraith Road",
+    "city": "Cincinnati",
+    "state": "OH",
+    "category": "Transportation",
+    "address": "398 E Galbraith Road, Cincinnati, OH 45215",
+    "website": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+    "source_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+    "limitations": "Current operator location information and national Greyhound policies; no on-site audit. National rules do not establish station toilets, changing facilities, current staffing, waiting-room access or equipment on an assigned vehicle. The operator identifies Waldman Drive boarding separately from the building address; the complete arrival route is unverified. The August 2025 photograph is historical and shows only part of the exterior. Confirm the actual operating carrier, equipment fit, personal assistance and connections before booking. Ticketing hours must not be read as 24-hour opening.",
+    "checked_at": "2026-11-13",
+    "slug": "cincinnati-bus-station-galbraith",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "Greyhound lists the station at 398 E Galbraith Road but says the bus stops on Waldman Drive, separate from bus traffic. Use the address on your ticket for the latest boarding location; a continuous step-free route from the building to that stop is unverified.",
+        "source_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+        "id": "cincinnati-bus-station-galbraith.mobility.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The station page lists ticketing hours as 12:00 a.m.–12:00 p.m. every day. That is the wording shown, not confirmation of 24-hour staffing, waiting-room access or bus operating hours; confirm before travel.",
+        "source_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+        "id": "cincinnati-bus-station-galbraith.cognitive.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The station listing provides Greyhound’s 800-231-2222 contact number. It does not identify a direct local desk number.",
+        "source_url": "https://www.greyhound.com/bus/cincinnati-oh/cincinnati-bus-station",
+        "id": "cincinnati-bus-station-galbraith.cognitive.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Greyhound asks customers to state at booking whether they use a wheelchair or scooter and will remain seated in it. Its national policy describes two occupied-device spaces per bus and recommends booking early; this is not confirmation of space on a particular departure.",
+        "source_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "id": "cincinnati-bus-station-galbraith.mobility.2",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "Greyhound publishes a combined passenger-and-device lift-weight range of 600–1,000 lb, wheelchair dimensions of 30 × 48 inches, and scooter dimensions of 30 × 30 × 48 inches. The US–Canada weight range is 600–660 lb. Confirm the assigned vehicle’s limit; 1,000 lb is not a universal allowance.",
+        "source_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "id": "cincinnati-bus-station-galbraith.mobility.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "For a mobility aid stored below the bus, Greyhound lists maximum dimensions of 33 × 33 × 48 inches and a 200 lb maximum. Drivers are not permitted to lift a device over 50 lb. Confirm a workable storage and retrieval arrangement directly; the baggage maximum does not promise staff lifting.",
+        "source_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "id": "cincinnati-bus-station-galbraith.mobility.4",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Greyhound says it cannot provide personal help with toileting, dispensing medication or constant care during travel. Customers needing that support should travel with a support person or companion who has a seat ticket; the separate Canadian complimentary-seat wording does not describe a free US companion seat.",
+        "source_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "id": "cincinnati-bus-station-galbraith.chronic.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For a connection operated by another carrier, Greyhound warns that 48 hours’ notice may be needed for an accessible bus. Check the carrier shown on your itinerary before travel; a lift-equipped connection may be unavailable when booked with less notice.",
+        "source_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "id": "cincinnati-bus-station-galbraith.cognitive.3",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-13",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "Greyhound offers disability-related booking help at 800-752-4841 or ADA.support@greyhound.com, TTY/TDD at 800-345-3109, and alternative-format information on request. These are national support channels, not evidence of on-site interpretation.",
+        "source_url": "https://www.greyhound.com/help-and-info/customers-with-disabilities",
+        "id": "cincinnati-bus-station-galbraith.sensory.1",
+        "source_type": "operator_official",
+        "retrieved_at": "2026-11-13",
+        "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [

@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "ink-dayton",
+    "name": "iNK — indie northern kentucky",
+    "city": "Dayton",
+    "state": "KY",
+    "category": "Shopping",
+    "address": "507 Sixth Avenue, Dayton, KY 41074",
+    "website": "https://www.indienky.com/",
+    "source_url": "https://www.indienky.com/visit-us",
+    "limitations": "Official store information and the 2026 bookstore-crawl organizer’s guide; no on-site audit. The crawl guide reports a single entrance step but gives no alternative route. Current step-free entry, door operation, aisle widths, stage access, toilets and changing facilities remain unverified. Crawl hours are event-specific and are not used as regular opening hours. The store is now in Dayton; older Bellevue accounts describe a different location.",
+    "facts": [
+      [
+        "mobility",
+        "The shop directs visitors to street parking in front and across the street, excluding the green-curb space. It also identifies a public lot across from the fire station, beyond Tuba Baking Co.; designated spaces and the complete route are unverified.",
+        "https://www.indienky.com/visit-us",
+        "venue_official",
+        null,
+        [
+          "street parking in front of the store + across the street (do not park in the space along the street with the green curb)",
+          "public lot parking down the road across from the fire station - on the other side of tuba baking co."
+        ]
+      ],
+      [
+        "mobility",
+        "The 2026 Cincy Bookstore Crawl guide describes one step into the older building. It gives no alternative entrance or ramp arrangement; confirm current entry options before travel.",
+        "https://cincybookstorecrawl.com/crawl-bookstores",
+        "partner_official",
+        null,
+        "Public parking lots. Older building with one step up to get into the store."
+      ],
+      [
+        "cognitive",
+        "Regular hours are Thursday–Friday 2–6 p.m. and Saturday 11 a.m.–4 p.m.; Sunday through Wednesday are listed as closed. In-store special events can have different hours.",
+        "https://www.indienky.com/visit-us",
+        "venue_official",
+        null,
+        [
+          "sunday+monday+tuesday+wednesday: closed thursday, friday: 2pm-6pm saturday: 11am-4pm",
+          "hours will differ for in-store special events"
+        ]
+      ],
+      [
+        "cognitive",
+        "The creator space has drawing tables and art supplies, plus a stage, sound system and projector for events. The shop does not describe stage access, captioning or quieter sessions.",
+        "https://www.indienky.com/your-events-ink",
+        "venue_official",
+        null,
+        [
+          "the creator space is set up with drawing tables and stocked with art supplies",
+          "with a stage, sound system, and projector for visual elements"
+        ]
+      ],
+      [
+        "cognitive",
+        "The Dayton shop lists 513-360-8519 for visit questions, including confirming entry arrangements.",
+        "https://www.indienky.com/visit-us",
+        "venue_official",
+        null,
+        "(513) 360-8519"
+      ]
+    ]
+  },
+  {
+    "slug": "major-minor-books-silverton",
+    "name": "Major Minor Books & Such",
+    "city": "Silverton",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "6718 Montgomery Road, Cincinnati, OH 45236",
+    "website": "https://www.majorminorbooksandsuch.com/",
+    "source_url": "https://www.majorminorbooksandsuch.com/",
+    "limitations": "Official store information and the 2026 bookstore-crawl organizer’s guide; no on-site audit. The crawl guide says a ramp must be requested, but does not describe deployment, advance notice, grade, width or load limits. Confirm suitability and availability directly. Toilet access, changing facilities, internal circulation and door controls remain unverified. Event-specific hours and an undated sold-out performance are not treated as the regular schedule. A separate magazine visit account is not an official access assessment.",
+    "facts": [
+      [
+        "mobility",
+        "The 2026 Cincy Bookstore Crawl guide lists on-site and street parking and says a ramp must be requested. It does not give ramp dimensions, load limits or notice requirements; confirm arrangements directly before travel.",
+        "https://cincybookstorecrawl.com/crawl-bookstores",
+        "partner_official",
+        null,
+        "Onsite parking and street parking. Wheelchair accessible (you do need to request that the ramp be provided)."
+      ],
+      [
+        "cognitive",
+        "The shop lists Wednesday–Friday hours of 10 a.m.–6 p.m. and Saturday–Sunday hours of 10 a.m.–5 p.m. Its regular schedule does not list Monday or Tuesday hours.",
+        "https://www.majorminorbooksandsuch.com/",
+        "venue_official",
+        null,
+        "Store Hours: Wednesday- 10:00a - 6:00p Thursday- 10:00a - 6:00p Friday- 10:00a - 6:00p Saturday- 10:00a - 5:00p Sunday- 10:00a - 5:00p"
+      ],
+      [
+        "cognitive",
+        "The store lists 513-417-8107 and majorminorbooks@gmail.com for questions about the shop and individual visit arrangements.",
+        "https://www.majorminorbooksandsuch.com/",
+        "venue_official",
+        null,
+        [
+          "majorminorbooks@gmail.com",
+          "513-417-8107"
+        ]
+      ],
+      [
+        "chronic",
+        "The official website links to online shopping with direct shipping through Bookshop. This does not establish in-store pickup or delivery times.",
+        "https://www.majorminorbooksandsuch.com/",
+        "venue_official",
+        null,
+        "Shop Online, Ship Direct w/ Bookshop"
+      ]
+    ]
+  }
+]

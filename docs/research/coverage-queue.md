@@ -1,10 +1,59 @@
 # Broad and deep research queue
 
-Updated November 13, 2026, after the parks/postal-service expansion and complete
-Southgate/Truist/Kenwood rechecks. These are research leads and questions; new facts require
-fresh evidence before entering the public catalog.
+Updated November 13, 2026, after the grocery/bookshop/transport expansion and complete
+BCRTA/LeBlond rechecks. These are leads and questions; new facts require fresh evidence.
 
 ## Current prepared batch
+
+Read [groceries, neighborhood bookshops and transport research](grocery-transit-leblond-2026-11-13.md)
+and its canonical final evidence, catalog audit, media review, HTTP and validation
+receipts. **Five new venues:** Fabled Brew Works (6 notes), Remke Taylor Mill (4),
+iNK Dayton (5), Major Minor Silverton (4), Cincinnati Bus Station—Galbraith Road (9).
+Together with BCRTA's nine and LeBlond's three additions, this is **40 new IDs**.
+All mutation specs are already applied. No unfinished start-of-run edits or conflicts
+were present; the runner still owns validation, Git publication and releases.
+
+**Accuracy/freshness:** all 26 old BCRTA/LeBlond notes reviewed; 25 unchanged and one
+vehicle-equipment attribution revised. Two compound-support repairs are separate
+from growth. Both complete dates move November 11 → 13, repeating venues already
+checked this week. No partial review and no previously absent quote repair claimed.
+Twenty missing-record holds stay unchanged. BCRTA's mostly unextractable application
+PDF failed a proposed passage check and remains held; no gate was bypassed.
+
+**Imagery:** one full-frame licensed Galbraith station entrance/parking photograph
+(Znns, August 15, 2025, CC0) and five original photo guides covering 20 selected views.
+Twenty-nine candidate views (28 distinct hashes) were inspected, plus ten PDF pages.
+Keep historical photo dates, visible barriers and unknown continuous routes clear.
+BCRTA's restroom approach is not a toilet interior; iNK's other-entrance sign does
+not establish a step-free entrance. No AI or stock image became documentary evidence.
+
+**Public discovery:** three separate reports preserve Fabled opening-period crowding,
+an iNK recommendation and Major Minor's dated magazine account. Queue: **56 names /
+17 added / 34 lead-only / five held**. Grainworks is now explicitly held by helper
+403; Bike Trail Books returns zero extractable official text. The crawl directory's
+CSS columns must be checked before assigning access text to a shop: iNK has the step
+warning, not Joy and Matt's restroom statement. Crawl hours are event-specific.
+
+Totals: **181 venues / 1,908 active notes / 1,888 quoted / 20 missing / 85 licensed
+photos / 102 guides**. Categories: parks 34, arts 33, food 28, museums 21, shopping 19,
+libraries 15, public services 13, recreation 10, transportation 8. Continue the smaller
+everyday categories; do not let abundant park material crowd out practical services.
+
+Next concrete batch: **Poor Charlotte's (Madisonville), Country Fresh and CAM grocery
+leads**, with exact location and arrival/service evidence. Pair growth with a full CTC
+or Fresh Thyme Newport review; preserve full-versus-partial dates. Bike Trail needs
+an extractable current source and location reconciliation. Photograph current iNK
+step/alternative entry, Major Minor ramp deployment/toilets, Fabled door/patio/toilets,
+Remke pickup/entrance, and Galbraith-to-Waldman boarding. LeBlond parking/toilets and
+Chestnut toilet interiors/changing/deployed boarding equipment remain depth gaps.
+
+The final local checks pass: 71 note/address evidence checks, two crawl-context checks,
+109 unit tests, 79 pipeline tests, lint/types/build, 12 HTTP routes and served photo hash.
+Chromium is blocked at launch (MachPort permission denied 1100); CUA host unavailable.
+**169 browser tests remain the runner's required gate**. No deployment or live-site
+claim. Keep 9 a.m./5 p.m. Eastern releases and the two-per-day production cap.
+
+## Previous parks/postal batch
 
 Read [parks, postal service and arena research](parks-post-truist-2026-11-13.md)
 and its canonical evidence, media, catalog and validation receipts. Four new venues

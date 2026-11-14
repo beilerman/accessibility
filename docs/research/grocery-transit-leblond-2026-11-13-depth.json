@@ -1,0 +1,71 @@
+{
+  "butler-county-regional-transit-authority": [
+    [
+      "mobility",
+      "The FAQ reserves seats at the front of the bus for older passengers and riders with disabilities, and asks others to offer these seats when needed or requested by the driver.",
+      "https://www.butlercountyrta.com/customer-service/common-questions/",
+      "operator_official",
+      "Seats at the front of the bus are for seniors and riders with disabilities. Please keep these seats free or offer your seat to those who need it, or upon request of the operator."
+    ],
+    [
+      "cognitive",
+      "BCRTA’s FAQ says service is suspended during a Level 3 Snow Emergency, with notification to riders. Check current alerts before travelling in severe weather.",
+      "https://www.butlercountyrta.com/customer-service/common-questions/",
+      "operator_official",
+      "During a Level 3 Snow Emergency operations will be suspended with timely notification for our riders."
+    ],
+    [
+      "chronic",
+      "The general passenger code asks riders to bring only what they can carry in one boarding and stow in their lap or under their seat. This is separate wording from BCARE’s four-bag cargo-area guidance; confirm which arrangements apply to your trip.",
+      "https://www.butlercountyrta.com/customer-service/common-questions/",
+      "operator_official",
+      "Make Space For Others : Bring only what you can carry in a single boarding and stow in your lap or under your seat."
+    ],
+    [
+      "cognitive",
+      "Community-room requests require at least 48 hours’ notice and can be made up to three months ahead, on a first-come basis. The Chestnut Station room is listed for Monday–Friday, 8 a.m.–5 p.m.; this is room availability, not the station’s general opening hours.",
+      "https://www.butlercountyrta.com/butler-county-rta-community-room-information/",
+      "operator_official",
+      [
+        "Reservation requests must be made at least 48 hours in advance and may be scheduled up to three months ahead. Reservations are made on a first-come, first-served basis.",
+        "The Chestnut Station community room is available Monday through Friday, 8:00 AM – 5:00 PM."
+      ]
+    ],
+    [
+      "cognitive",
+      "A person aged 18 or older can reserve a community room without BCRTA membership. Events must be open to the public; the policy excludes admission fees, requested donations, fundraising and for-profit programs.",
+      "https://www.butlercountyrta.com/butler-county-rta-community-room-information/",
+      "operator_official",
+      [
+        "Anyone 18 years or older may reserve the community room. No association or membership with BCRTA is required. All meetings and events held in the community room must be open to the public",
+        "The Community Room is Not Available for: Promotion or sale of commercial services Fundraising purposes Classes or programs conducted for profit Events that charge admission, attendance fees, or request donations"
+      ]
+    ]
+  ],
+  "leblond-recreation-center": [
+    [
+      "cognitive",
+      "The center lists Monday–Friday hours of noon–8 p.m. and Saturday hours of 9 a.m.–2 p.m.; Sunday is listed as available for rentals. Sunday wording does not establish open drop-in access.",
+      "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/",
+      "public_agency",
+      "Monday 12:00 PM – 8:00 PM Tuesday 12:00 PM – 8:00 PM Wednesday 12:00 PM – 8:00 PM Thursday 12:00 PM – 8:00 PM Friday 12:00 PM – 8:00 PM Saturday 9:00 AM – 2:00 PM Sunday Available for rentals"
+    ],
+    [
+      "chronic",
+      "CRC includes assistance with activities of daily living among possible accommodation types. Request an assessment at registration to discuss your needs; the systemwide list does not guarantee personal-care or transfer assistance at LeBlond.",
+      "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+      "public_agency",
+      [
+        "Assistance with ADLs (activities of daily living)",
+        "If you feel an accommodation would be beneficial or necessary, please request an Accommodation and Assessment Form at the time of registration at the recreation center. This document is used to formally request additional assistance you may require."
+      ]
+    ],
+    [
+      "cognitive",
+      "For consideration for a CRC Center Membership Scholarship, the Therapeutic Recreation page directs visitors to call 513-352-4023. It does not state approval criteria or promise an award.",
+      "https://www.cincinnati-oh.gov/crc/programs/therapeutic-recreation-and-inclusion/",
+      "public_agency",
+      "If you would like to be considered for a Center Membership Scholarship, please contact us (513) 352-4023"
+    ]
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "baseUrl": "http://localhost:3218",
+  "method": "HTTP response and parsed server-rendered text only; no browser/axe/layout claim.",
+  "routes": [
+    {
+      "route": "/venues/fabled-brew-works",
+      "status": 200,
+      "checks": {
+        "Fabled Brew Works": true,
+        "may frighten or excite": true,
+        "Historical taproom tables": true
+      },
+      "bytes": 84199
+    },
+    {
+      "route": "/venues/remke-markets-taylor-mill",
+      "status": 200,
+      "checks": {
+        "Remke Markets": true,
+        "6 a.m.–11 p.m.": true,
+        "7 a.m.–10 p.m.": true
+      },
+      "bytes": 65608
+    },
+    {
+      "route": "/venues/ink-dayton",
+      "status": 200,
+      "checks": {
+        "iNK": true,
+        "one step": true,
+        "Dayton storefront entrances": true
+      },
+      "bytes": 77813
+    },
+    {
+      "route": "/venues/major-minor-books-silverton",
+      "status": 200,
+      "checks": {
+        "Major Minor Books": true,
+        "ramp must be requested": true
+      },
+      "bytes": 70090
+    },
+    {
+      "route": "/venues/cincinnati-bus-station-galbraith",
+      "status": 200,
+      "checks": {
+        "Cincinnati Bus Station": true,
+        "Waldman Drive": true,
+        "1,000 lb is not a universal allowance": true,
+        "Galbraith Road station entrance": true
+      },
+      "bytes": 93800
+    },
+    {
+      "route": "/venues/butler-county-regional-transit-authority",
+      "status": 200,
+      "checks": {
+        "The BCARE webpage describes": true,
+        "November 26–27": true,
+        "Chestnut Street Station waiting areas": true
+      },
+      "bytes": 166489
+    },
+    {
+      "route": "/venues/leblond-recreation-center",
+      "status": 200,
+      "checks": {
+        "LeBlond": true,
+        "Scholarship": true,
+        "LeBlond playground ramp": true
+      },
+      "bytes": 103985
+    },
+    {
+      "route": "/access-in-pictures",
+      "status": 200,
+      "checks": {
+        "Galbraith Road station entrance": true,
+        "Dayton storefront entrances": true
+      },
+      "bytes": 783734
+    },
+    {
+      "route": "/visitor-reports",
+      "status": 200,
+      "checks": {
+        "Opening-period account": true,
+        "Neighborhood recommendation for a Dayton": true,
+        "Reported Sunday crowding": true
+      },
+      "bytes": 319051
+    },
+    {
+      "route": "/venues?category=Shopping&region=KY",
+      "status": 200,
+      "checks": {
+        "Remke Markets": true,
+        "iNK": true
+      },
+      "bytes": 112285
+    },
+    {
+      "route": "/venues?category=Transportation&region=OH",
+      "status": 200,
+      "checks": {
+        "Cincinnati Bus Station": true
+      },
+      "bytes": 77731
+    },
+    {
+      "route": "/venues?q=Erlanger",
+      "status": 200,
+      "checks": {
+        "Fabled Brew Works": true
+      },
+      "bytes": 66240
+    }
+  ],
+  "asset": {
+    "route": "/images/access/cincinnati-bus-station-entrance-2025.webp",
+    "status": 200,
+    "bytes": 197710,
+    "sha256": "47790d46fe893050f3b8b3819ee7fddaa44c14d10d25a46d9401dbf7bc1f58a6",
+    "matchesLocal": true
+  }
+}

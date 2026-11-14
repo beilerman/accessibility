@@ -5,6 +5,11 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/cincinnati-bus-station-galbraith",
+  "/venues/ink-dayton",
+  "/venues/major-minor-books-silverton",
+  "/venues/fabled-brew-works",
+  "/venues/remke-markets-taylor-mill",
   "/venues/walton-post-office",
   "/venues/farbach-werner-nature-preserve",
   "/venues/glenwood-gardens",

@@ -1,0 +1,43 @@
+{
+  "butler-county-regional-transit-authority": [
+    [
+      "cognitive",
+      "The dated holiday schedule lists the office closed and service limited to contract obligations on November 26–27 and December 25, 2026, and January 1, 2027. Do not assume a public trip operates on those dates; confirm your service with the agency.",
+      "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+      "operator_official",
+      [
+        "November 26, 2026 – Thanksgiving CLOSED Contract obligations only.",
+        "November 27, 2026 – Day After Thanksgiving CLOSED Contract obligations only.",
+        "December 25, 2026 – Christmas Day CLOSED Contract obligations only.",
+        "January 1, 2027 – New Year’s Day CLOSED Contract obligations only."
+      ]
+    ],
+    [
+      "cognitive",
+      "On December 24 and 31, 2026, the holiday schedule says service closes at 2:30 p.m. or after the last trip following 2:30 p.m., with no CincyLink service. Confirm the final trip for your route.",
+      "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+      "operator_official",
+      [
+        "December 24, 2026 – Christmas Eve Closing at 14:30 Closing at 2:30 p.m. (or last trip following 2:30 p.m.) *No Cincylink",
+        "December 31, 2026 Closing at 14:30 Closing at 2:30 p.m. (or last trip following 2:30 p.m.) *No Cincylink"
+      ]
+    ],
+    [
+      "cognitive",
+      "The 2026 schedule says Oxford fall service ends December 11 at 7:40 p.m., with the regular R3 schedule that day. Oxford J-Term service begins December 14 at 7 a.m. These Oxford entries do not establish every route’s winter timetable.",
+      "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+      "operator_official",
+      [
+        "December 11, 2026 – Oxford Fall Service Ends Oxford Only Oxford Fall Service Ends at 7:40 p.m. Regular R3 Schedule.",
+        "December 14, 2026 – Oxford J-Term Begins Oxford Only Oxford J-Term Service Begins at 7 a.m"
+      ]
+    ],
+    [
+      "cognitive",
+      "Oxford’s Thanksgiving row gives November 25–30, 2026 as the break period and November 29 at 11:30 a.m. as the service resumption. It also states an 11 p.m. end time and “No SR” without expanding the abbreviation. Confirm the affected trips directly.",
+      "https://www.butlercountyrta.com/wp-content/uploads/2026/08/2026-Holiday-Schedule.pdf",
+      "operator_official",
+      "November 25–30, 2026 – Thanksgiving Break Oxford Only Service ends at 11 p.m., No SR, Oxford service will resume November 29, 2026 at 11:30 a.m."
+    ]
+  ]
+}

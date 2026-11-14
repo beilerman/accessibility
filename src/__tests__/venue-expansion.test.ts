@@ -3,6 +3,9 @@ import { places, findPlaces } from "@/lib/catalog";
 import { artForCategory } from "@/lib/media";
 
 const newSlugs = [
+  "cincinnati-bus-station-galbraith",
+  "ink-dayton", "major-minor-books-silverton",
+  "fabled-brew-works", "remke-markets-taylor-mill",
   "walton-post-office",
   "farbach-werner-nature-preserve",
   "glenwood-gardens",
@@ -23,6 +26,34 @@ const place = (slug: string) => places.find((p) => p.slug === slug)!;
 const text = (slug: string) => place(slug).facts.map((f) => f.text).join(" ");
 
 describe("November source-backed venue expansion", () => {
+  it("separates the Galbraith station from national assistance and carrier limits", () => {
+    const slug = "cincinnati-bus-station-galbraith";
+    expect(findPlaces({ category: "Transportation", region: "OH" }).map((p) => p.slug)).toContain(slug);
+    expect(text(slug)).toContain("Waldman Drive");
+    expect(text(slug)).toContain("not confirmation of 24-hour staffing");
+    expect(text(slug)).toContain("1,000 lb is not a universal allowance");
+    expect(text(slug)).toContain("does not promise staff lifting");
+    expect(place(slug).limitations).toContain("National rules do not establish station toilets");
+    expect(place(slug).observed_at).toBeNull();
+  });
+  it("keeps each bookstore's entrance warning with its correct location", () => {
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain("ink-dayton");
+    expect(findPlaces({ category: "Shopping", region: "OH" }).map((p) => p.slug)).toContain("major-minor-books-silverton");
+    expect(text("ink-dayton")).toContain("one step");
+    expect(text("ink-dayton")).not.toMatch(/accessible restroom/i);
+    expect(text("major-minor-books-silverton")).toContain("ramp must be requested");
+    expect(place("ink-dayton").address).toContain("Dayton, KY");
+    expect(place("major-minor-books-silverton").observed_at).toBeNull();
+  });
+  it("finds Taylor Mill groceries and Erlanger dining with unresolved access conditions intact", () => {
+    expect(findPlaces({ category: "Shopping", region: "KY" }).map((p) => p.slug)).toContain("remke-markets-taylor-mill");
+    expect(findPlaces({ category: "Food & drink", region: "KY" }).map((p) => p.slug)).toContain("fabled-brew-works");
+    expect(place("remke-markets-taylor-mill").limitations).toContain("disagree on hours");
+    expect(place("remke-markets-taylor-mill").limitations).toContain("does not establish curbside collection");
+    expect(text("fabled-brew-works")).toContain("may frighten or excite");
+    expect(place("fabled-brew-works").address).toContain("Suite 300");
+    expect(place("fabled-brew-works").observed_at).toBeNull();
+  });
   it("finds the postal service and outdoor additions in their location categories", () => {
     expect(findPlaces({ category: "Public services", region: "KY" }).map((p) => p.slug)).toContain("walton-post-office");
     expect(findPlaces({ category: "Parks & outdoors", region: "OH" }).map((p) => p.slug)).toEqual(expect.arrayContaining([
@@ -743,7 +774,7 @@ describe("November source-backed venue expansion", () => {
   });
   it("makes food and drink discoverable with explicitly illustrative art", () => {
     expect(findPlaces({ category: "Food & drink" }).map((p) => p.slug).sort()).toEqual([
-      "little-miami-brewing-company", "brink-brewing-college-hill", "streetside-brewery",
+      "fabled-brew-works", "little-miami-brewing-company", "brink-brewing-college-hill", "streetside-brewery",
       "braxton-brewing-covington", "findlay-market", "galaxie-covington", "golden-lamb", "hofbrauhaus-newport", "jungle-jims-fairfield", "mamas-on-main", "molly-malones-covington", "new-riff-distilling", "nolia-kitchen", "rhinegeist-brewery", "riverside-mainstrasse-village-food-tour", "second-sight-spirits", "smoke-justis", "symphony-hotel-bar", "tousey-house-tavern",
       "element-eatery", "schoolhouse-restaurant-camp-dennison", "fretboard-brewing-blue-ash", "wabi-sabi-covington",
       "fort-thomas-coffee", "junipers-gin-bar-covington", "mellow-mushroom-wilder", "olla-taqueria-covington",
