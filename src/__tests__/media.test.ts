@@ -40,6 +40,15 @@ describe("Public image provenance", () => {
     const tourHtml = renderToStaticMarkup(createElement(AccessMedia, { slug: "little-miami-brewing-company" }));
     expect(tourHtml).toContain("Open virtual tour (web page, 2 inspected panoramas)");
   });
+  it("distinguishes booking interface graphics from documentary boarding photos", () => {
+    const html = renderToStaticMarkup(createElement(AccessMedia, { slug: "tank-transit-authority-of-northern-kentucky" }));
+    const doc = new DOMParser().parseFromString(html, "text/html");
+    const link = doc.querySelector('a.source-link[href="https://www.tankbus.org/ramp-paratransit/reservations/"]');
+    expect(link?.textContent).toContain("Open visual instructions (web page, 2 graphics)");
+    expect(link?.textContent).not.toContain("photo");
+    const boarding = doc.querySelector('a.source-link[href="https://www.tankbus.org/ada/"]');
+    expect(boarding?.textContent).toContain("Open photo guide (web page, 2 photos)");
+  });
   it("keeps access photographs licensed and route references tied to the right place", () => {
     expect(new Set(accessPhotos.map((photo) => photo.id)).size).toBe(accessPhotos.length);
     expect(new Set(accessPhotos.map((photo) => photo.src)).size).toBe(accessPhotos.length);

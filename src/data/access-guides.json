@@ -1742,5 +1742,73 @@
     "documentDate": "Photo capture dates unknown",
     "imageCount": 2,
     "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "lehrs-frontage-through-time",
+    "slug": "lehrs-prime-market-milford",
+    "format": "web",
+    "title": "Storefront, patio and changing frontage",
+    "description": "Three original storefront photographs show different layouts: red and black awnings, entrance areas, and, in one view, patio tables behind a railing with planters and a marked parking area nearby. The pictures are undated and include historical frontage; they do not establish today’s entrance route, the opening through the railing, threshold, door controls, seating clearance or toilets. The unrelated cattle photographs add no access evidence. Images remain with the market; no reuse licence was found.",
+    "publisher": "Lehr’s Prime Market",
+    "url": "https://www.lehrsprime.com/about-us/",
+    "sourceUrl": "https://www.lehrsprime.com/about-us/",
+    "documentDate": "Photo capture dates unknown",
+    "imageCount": 3,
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "boone-pantry-vehicle-loading-gallery",
+    "slug": "boone-county-drive-thru-food-pantry",
+    "format": "web",
+    "title": "Drive-through queue and food-loading photographs",
+    "description": "Eight original photographs show vehicle queues, cones, a STOP/car-in-park instruction, volunteers loading food into open rear hatches, distribution tables, curbed islands and uneven asphalt. These are vehicle-loading scenes, not passenger-transfer assistance. Capture dates, current traffic routing, waiting times, walk-up arrangements and the route to toilets are unknown. Incidental people and vehicle details remain in the publisher’s originals; no images are copied and no reuse licence was found.",
+    "publisher": "Christ’s Chapel",
+    "url": "https://www.christschapel.net/pantry",
+    "sourceUrl": "https://www.christschapel.net/pantry",
+    "documentDate": "Photo capture dates unknown",
+    "imageCount": 8,
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "tank-door-and-deployed-ramp",
+    "slug": "tank-transit-authority-of-northern-kentucky",
+    "format": "web",
+    "title": "Open bus doorway and deployed boarding ramp",
+    "description": "Two useful photographs on the official ADA page show an open front door beside a yellow-edged platform and a separate bus with a yellow ramp deployed toward a sidewalk. They do not document the same boarding location or a continuous journey. The pictures have unknown capture dates; current vehicle assignments, ramp operation, gradients, clearances, securement and assistance are unverified. People appear in the original ramp scene. Images remain with TANK; no reuse licence was found.",
+    "publisher": "TANK",
+    "url": "https://www.tankbus.org/ada/",
+    "sourceUrl": "https://www.tankbus.org/ada/",
+    "documentDate": "Photo capture dates unknown",
+    "imageCount": 2,
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "tank-ramp-booking-visual-instructions",
+    "slug": "tank-transit-authority-of-northern-kentucky",
+    "format": "web",
+    "title": "RAMP app booking instructions and example screens",
+    "description": "Two instructional graphics illustrate phone verification, pickup and destination entry, trip choices, notifications and ride tracking in the TANK on-demand app. They are interface illustrations, not venue or vehicle photographs. Example addresses, fares and trip options are not a current quotation or availability promise. The RAMP phone-booking option remains separately documented. Graphics remain on TANK’s page; no reuse licence was found.",
+    "publisher": "TANK",
+    "url": "https://www.tankbus.org/ramp-paratransit/reservations/",
+    "sourceUrl": "https://www.tankbus.org/ramp-paratransit/reservations/",
+    "documentDate": "April 2026 upload path; interface capture dates unconfirmed",
+    "imageCount": 2,
+    "checkedAt": "2026-11-14",
+    "imageType": "instructions"
+  },
+  {
+    "id": "eastgate-store-orientation-map",
+    "slug": "jungle-jims-eastgate",
+    "format": "pdf",
+    "imageType": "map",
+    "title": "Eastgate entrance, customer-service and restroom map",
+    "description": "One-page illustrated store map marks the Foodie Entrance beside Customer Service, a separate entrance by the wine area, and restroom symbols near seafood, the international area and the wine section. It shows a dashed suggested circuit but does not certify that circuit as accessible. No toilet layout, changing equipment, door controls, dimensions, gradients or current obstructions are established. Version signals differ: the URL says December 2023, metadata title November 2025, visible copyright 2025 and modification date August 24, 2026. The image-only PDF has no extractable text; this linked orientation description comes from visual inspection. Original stays with Jungle Jim’s.",
+    "publisher": "Jungle Jim’s International Market",
+    "url": "https://cdn.prod.website-files.com/69d901034128ef51d50cd85b/6a44c0c0f9063294e3293f12_c82f24fe66370dc72a837fd6de9cbbd3_Eastgate_Map_Dec_2023_Inside_SM.pdf",
+    "sourceUrl": "https://www.junglejims.com/discover/plan-your-trip",
+    "documentDate": "Copyright 2025; conflicting URL/metadata versions; modified August 24, 2026",
+    "pageCount": 1,
+    "sizeLabel": "1.55 MB",
+    "checkedAt": "2026-11-14"
   }
 ]

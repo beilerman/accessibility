@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-11-14",
+  "sources": [
+    {
+      "url": "https://www.cincinnatisymphony.org/accessibility/",
+      "file": "b54043b83eb8",
+      "status": 200,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "text_length": 68,
+      "evidenceStatus": "Authentication/shared-session redirect; no relevant accessibility content. Empty normalized-content hash; not verified."
+    },
+    {
+      "url": "https://mollymalonesirishpub.com/covington/private-party-menu/",
+      "file": "e7606a626449",
+      "status": 403,
+      "sha256": null,
+      "final_url": null,
+      "text_length": 0,
+      "evidenceStatus": "HTTP 403; unresolved."
+    },
+    {
+      "url": "https://mollymalonesirishpub.com/covington/",
+      "file": "e138c9ffb28b",
+      "status": 403,
+      "sha256": null,
+      "final_url": null,
+      "text_length": 0,
+      "evidenceStatus": "HTTP 403; unresolved."
+    },
+    {
+      "url": "https://mollymalonesirishpub.com/covington/contact/",
+      "file": "7162613bbf44",
+      "status": 403,
+      "sha256": null,
+      "final_url": null,
+      "text_length": 0,
+      "evidenceStatus": "HTTP 403; unresolved."
+    },
+    {
+      "url": "https://heritagevillagecincinnati.org/access-and-accommodations/",
+      "file": "942804f15b7f",
+      "status": 403,
+      "sha256": null,
+      "final_url": null,
+      "text_length": 0,
+      "evidenceStatus": "HTTP 403; unresolved."
+    },
+    {
+      "url": "https://heritagevillagecincinnati.org/frequently-asked-questions/",
+      "file": "26323cc0dd6c",
+      "status": 403,
+      "sha256": null,
+      "final_url": null,
+      "text_length": 0,
+      "evidenceStatus": "HTTP 403; unresolved."
+    }
+  ],
+  "factsRechecked": 0,
+  "datesChanged": false,
+  "sourceBaselinesChanged": false,
+  "outcome": "Six held-source attempts remain unresolved; no quote or source_checked bypass. All 20 legacy missing records retained."
+}

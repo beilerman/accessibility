@@ -1,0 +1,86 @@
+{
+  "checkedAt": "2026-11-14",
+  "sources": [
+    {
+      "url": "https://sparkhaus.co/",
+      "file": "0104f52fa7f7",
+      "status": 403,
+      "sha256": null,
+      "final_url": null,
+      "text_length": 0
+    },
+    {
+      "url": "https://www.kentoncountyky.gov/700/SparkHaus",
+      "file": "c2328e69e235",
+      "status": 200,
+      "sha256": "562789e7c07f1d66c6315875cb1cff151dd5ba7e95fe634a67f44f92221d6c16",
+      "final_url": "https://www.kentoncountyky.gov/700/SparkHaus",
+      "text_length": 54111
+    },
+    {
+      "url": "https://www.feicafe.com/",
+      "file": "b320fe43a1b8",
+      "status": 200,
+      "sha256": "fd12c323139b6f14fe042d26748f53d4d42b03df81a9a272abd2afbdf423766a",
+      "final_url": "https://www.feicafe.com/",
+      "text_length": 2136335
+    },
+    {
+      "url": "https://werockthespectrumnorthernkentucky.com/about-us/",
+      "file": "64ee91617bd5",
+      "status": 200,
+      "sha256": "bee2b43f3b6d2f1702abb39454741b65c84f963e758d2c6e25e6a6a274dabced",
+      "final_url": "https://werockthespectrumnorthernkentucky.com/about-us/",
+      "text_length": 240893
+    },
+    {
+      "url": "https://werockthespectrumnorthernkentucky.wrtsfranchise.com/wp-content/uploads/2024/11/WRTS-NKY-field-trip-social-story-1.pdf",
+      "file": "a4a13ede9178",
+      "status": 200,
+      "sha256": "b7268b900fa026a2d0cc3bc528f33d46f0faccb2c6ebb814fe1a5dad7fff70c6",
+      "final_url": "https://werockthespectrumnorthernkentucky.wrtsfranchise.com/wp-content/uploads/2024/11/WRTS-NKY-field-trip-social-story-1.pdf",
+      "text_length": 585
+    },
+    {
+      "url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+      "file": "afbaadba37a8",
+      "status": 200,
+      "sha256": "4f41e194d4b9ad31f199218b24d8762db1458f38e5aa4859b1ab10cd5265a20f",
+      "final_url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+      "text_length": 240788
+    }
+  ],
+  "wrtsSocialStory": {
+    "pages": 9,
+    "bytes": 2657540,
+    "metadataCreated": "2023-01-10",
+    "metadataModified": "2024-02-13",
+    "uploadPath": "November 2024",
+    "photoDates": "unknown",
+    "allPagesVisuallyInspected": true,
+    "usefulViews": "Photographs show storefront with marked parking/frontage, open gym and equipment, calming room and art/play tables; staff/waiting instructions use cartoons. No continuous arrival route, door dimensions or toilet layout documented.",
+    "textConflict": "Page 3 visible replacement says shoes off and socks required; extracted text says barefoot or socks. Visual replacement takes precedence; do not publish the stale extraction as a current rule.",
+    "status": "Unfinished venue lead, not imported. Match current general versus field-trip policy and rights before adding a linked guide; original images not republished."
+  },
+  "sparkhausHold": "Helper 403 despite web-reader visibility; county source supports identity/location, not all services.",
+  "feiHouseHold": "Official page returned 200; second-floor events are past dates. Physical route and current service evidence unfinished.",
+  "communityFollowThrough": {
+    "url": "https://www.reddit.com/r/Autism_Parenting/comments/1srt9k5/all_inclusive_parent_approved_play_area/",
+    "underlyingDiscussionRead": true,
+    "finding": "A commenter describes a party visit at a Greater Cincinnati We Rock the Spectrum site, but identifies two regional sites without naming the visited branch.",
+    "status": "Lead only; do not assign facilities or old prices to Erlanger. Exact publication and visit dates uncertain; health details and usernames omitted."
+  },
+  "wrtsOpenPlayFollowThrough": {
+    "url": "https://werockthespectrumnorthernkentucky.com/open-play/",
+    "status": 200,
+    "reviewedAsLead": true,
+    "publicCatalogImported": false,
+    "findings": [
+      "Current open-play page requires a parent or guardian throughout the visit.",
+      "It requires socks for adults and children and excludes shoes from the gym floor, consistent with the visible PDF replacement rather than its stale extracted layer.",
+      "Hours vary with private rentals and parties; the page directs visitors to the calendar, social media or a call for the week’s schedule.",
+      "Open-play packages expire one year after purchase; membership cancellation requires 30 days’ notice."
+    ],
+    "remaining": "Draft and gate a complete branch-specific listing, inspect current calendar/arrival/toilet sources and keep field-trip shoe-cover or brace exceptions separate unless their current source is reviewed. Do not import the unspecified-branch community prices."
+  }
+}

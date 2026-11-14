@@ -5,6 +5,10 @@ import { dateLabel, latestRetrieval, places as publicPlaces } from "../src/lib/c
 import accessPhotos from "../src/data/access-photos.json";
 import accessGuides from "../src/data/access-guides.json";
 const routes = [
+  "/venues/lehrs-prime-market-milford",
+  "/venues/seafood-station-loveland",
+  "/venues/boone-county-drive-thru-food-pantry",
+  "/venues/action-ministries-covington",
   "/venues/metronow-on-demand",
   "/venues/dorothy-lane-market-mason",
   "/venues/university-cincinnati-campus-recreation-center",
@@ -292,7 +296,8 @@ test("access photographs and venue photo guides are reachable on mobile", async 
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await page.goto("/access-in-pictures");
   await expect(page.locator(".access-photo")).toHaveCount(accessPhotos.length);
-  await expect(page.getByRole("link", { name: /Open (?:photo guide|map guide|virtual tour)/ })).toHaveCount(accessGuides.length);
+  await expect(page.getByRole("link", { name: /Open (?:photo guide|map guide|virtual tour|visual instructions)/ })).toHaveCount(accessGuides.length);
+  await expect(page.getByRole("link", { name: /Open visual instructions \(web page, 2 graphics\)/ })).toHaveAttribute("href", "https://www.tankbus.org/ramp-paratransit/reservations/");
   await expect(page.getByRole("link", { name: /Open map guide \(web page, 3 maps\)/ })).toHaveAttribute("href", "https://www.arcocincinnati.org/accessibility");
   await expect(page.getByRole("link", { name: /^Open virtual tour \(web page, 2 inspected panoramas\)\s*— Taproom indoor virtual tour \(opens in a new tab\)$/ })).toHaveAttribute("href", "https://littlemiamibrewing.com/virtual-tour-of-taproom-in-out/");
   await expect(page.getByRole("link", { name: /^Open virtual tour \(web page, 2 inspected panoramas\)\s*— Pool deck, connecting doors and gym panoramas \(opens in a new tab\)$/ })).toHaveAttribute("href", "https://www.bayleylife.org/virtual-tour");

@@ -1,0 +1,105 @@
+{
+  "base": "ead109e52fa3e3d96b93dd45d14058f755057b29",
+  "newVenues": [
+    {
+      "slug": "lehrs-prime-market-milford",
+      "notes": 5
+    },
+    {
+      "slug": "seafood-station-loveland",
+      "notes": 4
+    },
+    {
+      "slug": "boone-county-drive-thru-food-pantry",
+      "notes": 4
+    },
+    {
+      "slug": "action-ministries-covington",
+      "notes": 7
+    }
+  ],
+  "newNoteIds": [
+    "action-ministries-covington.chronic.1",
+    "action-ministries-covington.chronic.2",
+    "action-ministries-covington.chronic.3",
+    "action-ministries-covington.cognitive.1",
+    "action-ministries-covington.cognitive.2",
+    "action-ministries-covington.cognitive.3",
+    "action-ministries-covington.cognitive.4",
+    "boone-county-drive-thru-food-pantry.chronic.1",
+    "boone-county-drive-thru-food-pantry.cognitive.1",
+    "boone-county-drive-thru-food-pantry.cognitive.2",
+    "boone-county-drive-thru-food-pantry.mobility.1",
+    "jungle-jims-eastgate.chronic.4",
+    "jungle-jims-eastgate.cognitive.2",
+    "lehrs-prime-market-milford.chronic.1",
+    "lehrs-prime-market-milford.chronic.2",
+    "lehrs-prime-market-milford.chronic.3",
+    "lehrs-prime-market-milford.cognitive.1",
+    "lehrs-prime-market-milford.cognitive.2",
+    "seafood-station-loveland.chronic.1",
+    "seafood-station-loveland.chronic.2",
+    "seafood-station-loveland.cognitive.1",
+    "seafood-station-loveland.cognitive.2",
+    "tank-transit-authority-of-northern-kentucky.cognitive.23",
+    "tank-transit-authority-of-northern-kentucky.cognitive.24",
+    "tank-transit-authority-of-northern-kentucky.cognitive.25",
+    "tank-transit-authority-of-northern-kentucky.cognitive.26",
+    "tank-transit-authority-of-northern-kentucky.mobility.15",
+    "tank-transit-authority-of-northern-kentucky.mobility.16",
+    "tank-transit-authority-of-northern-kentucky.sensory.3"
+  ],
+  "fullReviews": [
+    {
+      "slug": "tank-transit-authority-of-northern-kentucky",
+      "oldDate": "2026-11-12",
+      "newDate": "2026-11-14",
+      "oldNotes": 45,
+      "currentNotes": 52
+    },
+    {
+      "slug": "jungle-jims-eastgate",
+      "oldDate": "2026-11-12",
+      "newDate": "2026-11-14",
+      "oldNotes": 9,
+      "currentNotes": 11
+    }
+  ],
+  "partialReviews": [],
+  "oldNotesReviewed": 54,
+  "textCorrections": [
+    "tank-transit-authority-of-northern-kentucky.cognitive.1",
+    "tank-transit-authority-of-northern-kentucky.mobility.7"
+  ],
+  "strengthenedEvidence": [
+    "tank-transit-authority-of-northern-kentucky.mobility.8",
+    "tank-transit-authority-of-northern-kentucky.cognitive.13",
+    "tank-transit-authority-of-northern-kentucky.mobility.13",
+    "tank-transit-authority-of-northern-kentucky.cognitive.14"
+  ],
+  "absentQuoteRepairs": [],
+  "unchangedExistingVenues": 199,
+  "preservedIdsAndHistoryPrefixes": true,
+  "totals": {
+    "venues": 205,
+    "activeNotes": 2116,
+    "quoted": 2096,
+    "missing": 20,
+    "retired": 1
+  },
+  "access-photos": {
+    "before": 90,
+    "after": 92,
+    "added": 2
+  },
+  "access-guides": {
+    "before": 133,
+    "after": 138,
+    "added": 5
+  },
+  "visitor-reports-community": {
+    "before": 77,
+    "after": 81,
+    "added": 4
+  }
+}

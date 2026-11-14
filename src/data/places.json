@@ -14264,7 +14264,7 @@
     "category": "Transportation",
     "website": "https://www.tankbus.org/",
     "source_url": "https://www.tankbus.org/ada/",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-14",
     "facts": [
       {
         "domain": "mobility",
@@ -14272,7 +14272,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14284,6 +14284,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -14295,7 +14300,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14307,6 +14312,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -14318,7 +14328,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14332,6 +14342,11 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14341,7 +14356,7 @@
         "source_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14355,16 +14370,21 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Clarified the source’s fixed-route service-area qualification; county names alone do not establish coverage for every address."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "cognitive",
-        "text": "To qualify for RAMP, riders request an application by calling 859-814-2135, have a doctor complete a medical verification, and then schedule an assessment; large-print or recorded schedules are available on request.",
+        "text": "TANK’s eligibility page tells applicants to request a RAMP application at 859-814-2135, obtain a doctor’s medical verification and then schedule an assessment; it also offers large-print or recorded schedules on request.",
         "source_url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14378,6 +14398,16 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Attribute the doctor-verification sequence to the eligibility page and flag differing conditional wording on the regional application; do not silently choose between official instructions."
           }
         ]
       },
@@ -14387,7 +14417,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14399,6 +14429,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -14410,7 +14445,7 @@
         "source_url": "https://www.tankbus.org/fares-guides/how-to-ride/",
         "id": "tank-transit-authority-of-northern-kentucky.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14422,6 +14457,11 @@
           },
           {
             "date": "2026-11-12",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
           }
@@ -14433,7 +14473,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14447,6 +14487,11 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14456,7 +14501,7 @@
         "source_url": "https://www.tankbus.org/ada/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14470,6 +14515,11 @@
             "date": "2026-11-12",
             "action": "revised",
             "note": "Matched the agency’s published service-animal wording without adding an independent legal exclusivity claim; retained the request channels on the same source."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14479,7 +14529,7 @@
         "source_url": "https://www.tankbus.org/faq/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14493,6 +14543,11 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14502,7 +14557,7 @@
         "source_url": "https://www.tankbus.org/fares-guides/how-to-ride/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14511,6 +14566,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14520,7 +14580,7 @@
         "source_url": "https://www.tankbus.org/fares-guides/how-to-ride/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14529,6 +14589,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14538,7 +14603,7 @@
         "source_url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14547,6 +14612,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14556,7 +14626,7 @@
         "source_url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14565,6 +14635,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14574,7 +14649,7 @@
         "source_url": "https://www.tankbus.org/microtransit/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14583,6 +14658,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14592,7 +14672,7 @@
         "source_url": "https://www.tankbus.org/microtransit/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14601,6 +14681,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14610,7 +14695,7 @@
         "source_url": "https://www.tankbus.org/microtransit/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.7",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14619,6 +14704,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14628,7 +14718,7 @@
         "source_url": "https://www.tankbus.org/microtransit/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14637,6 +14727,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14646,7 +14741,7 @@
         "source_url": "https://www.tankbus.org/microtransit/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.8",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14655,6 +14750,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14664,7 +14764,7 @@
         "source_url": "https://www.tankbus.org/microtransit/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.4",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14673,6 +14773,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14682,7 +14787,7 @@
         "source_url": "https://www.tankbus.org/fares-guides/fare/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.9",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14691,6 +14796,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14700,7 +14810,7 @@
         "source_url": "https://www.tankbus.org/faq/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.10",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14709,6 +14819,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14718,7 +14833,7 @@
         "source_url": "https://www.tankbus.org/ramp-paratransit/reservations/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.11",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14727,16 +14842,21 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
       {
         "domain": "mobility",
-        "text": "TANK’s service-change notice effective November 7, 2026 says the Southbank Shuttle and Route 16 are replaced by a corridor served by fixed-route buses. It directs former Route 16 riders to the new Route 1 and Licking River Link; use current schedules when planning a journey. Historical Shuttle photos and the 2025 brochure predate this change.",
+        "text": "TANK’s service-change notice effective November 7, 2026 says the Southbank Shuttle and Route 16 are replaced by a corridor served by fixed-route buses. It directs former Route 16 riders to the new Route 1 and Licking River Link; use current schedules when planning a journey.",
         "source_url": "https://www.tankbus.org/building-better-transit/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.7",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14745,6 +14865,16 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "revised",
+            "note": "Keep this note within its one cited service-change source; historical photo and brochure date cautions remain with the media and listing limitations."
           }
         ]
       },
@@ -14754,7 +14884,7 @@
         "source_url": "https://www.tankbus.org/building-better-transit/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.8",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14763,6 +14893,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14772,7 +14907,7 @@
         "source_url": "https://www.tankbus.org/licking-river-link/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.12",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14781,6 +14916,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14790,7 +14930,7 @@
         "source_url": "https://www.tankbus.org/licking-river-link/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.9",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14799,6 +14939,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14808,7 +14953,7 @@
         "source_url": "https://www.tankbus.org/licking-river-link/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.10",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14817,6 +14962,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14826,7 +14976,7 @@
         "source_url": "https://www.tankbus.org/licking-river-link/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.5",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14835,6 +14985,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14844,7 +14999,7 @@
         "source_url": "https://www.tankbus.org/licking-river-link/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.6",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14853,6 +15008,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14862,7 +15022,7 @@
         "source_url": "https://www.tankbus.org/service-alerts/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.11",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14871,6 +15031,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14880,7 +15045,7 @@
         "source_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.13",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14889,6 +15054,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14898,7 +15068,7 @@
         "source_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.12",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14912,6 +15082,11 @@
             "date": "2026-11-12",
             "action": "rechecked",
             "note": "Routine recheck; the source still supports this note."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14921,7 +15096,7 @@
         "source_url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.13",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14930,6 +15105,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14939,7 +15119,7 @@
         "source_url": "https://www.tankbus.org/service-alerts/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.14",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14948,6 +15128,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14957,7 +15142,7 @@
         "source_url": "https://www.tankbus.org/tap-and-save/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.15",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14966,6 +15151,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14975,7 +15165,7 @@
         "source_url": "https://www.tankbus.org/tap-and-save/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.16",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -14984,6 +15174,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -14993,7 +15188,7 @@
         "source_url": "https://www.tankbus.org/tap-and-save/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.17",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15002,6 +15197,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15011,7 +15211,7 @@
         "source_url": "https://www.tankbus.org/tap-and-save/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.18",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15020,6 +15220,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15029,7 +15234,7 @@
         "source_url": "https://www.tankbus.org/tap-and-save/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.19",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15038,6 +15243,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15047,7 +15257,7 @@
         "source_url": "https://www.tankbus.org/senior-transportation/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.20",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15056,6 +15266,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15065,7 +15280,7 @@
         "source_url": "https://www.tankbus.org/senior-transportation/",
         "id": "tank-transit-authority-of-northern-kentucky.mobility.14",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15074,6 +15289,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15083,7 +15303,7 @@
         "source_url": "https://www.tankbus.org/senior-transportation/",
         "id": "tank-transit-authority-of-northern-kentucky.chronic.7",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15092,6 +15312,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15101,7 +15326,7 @@
         "source_url": "https://www.tankbus.org/senior-transportation/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.21",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15110,6 +15335,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -15119,7 +15349,7 @@
         "source_url": "https://www.tankbus.org/senior-transportation/",
         "id": "tank-transit-authority-of-northern-kentucky.cognitive.22",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -15128,11 +15358,142 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "RAMP’s service-area page distinguishes a red area described as the required ADA area ($2.50) from a green area outside it ($5). Call 859-814-2135 to check both addresses; the colours and fares do not mean every Northern Kentucky address is served. The page dates the two-zone arrangement to January 2021.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/service-area/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.15",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The regional paratransit application says Northern Kentucky applicants must attend an in-person assessment, with transport to it provided by the local transit provider. Bring valid photo ID and any mobility device you use; call 859-814-2135 to schedule and submit the application.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.23",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "sensory",
+        "text": "The regional paratransit application offers help completing the form and alternative formats, including large print or a different language. It says all sections must be completed.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+        "id": "tank-transit-authority-of-northern-kentucky.sensory.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The regional application says applicants may be asked for a clinical professional’s assessment form. Confirm which paperwork is needed for your application.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.24",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The regional application describes a written decision within 21 days after the assessment is completed. It says the decision letter identifies any eligibility conditions and whether a personal care attendant is approved for travel; approval should not be assumed before that decision.",
+        "source_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.25",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "TANK Plus permits a booking for up to four people in total, including the person booking. That person pays the total fare; this is a Plus group-booking rule, not a RAMP attendant entitlement.",
+        "source_url": "https://www.tankbus.org/microtransit/",
+        "id": "tank-transit-authority-of-northern-kentucky.cognitive.26",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "mobility",
+        "text": "TANK’s alert dated October 29, 2026 temporarily removes the Route 39X stop at Petersburg and Elijah Creek because of road work. It gives no completion or reinstatement date; check current alerts before using that stop.",
+        "source_url": "https://www.tankbus.org/service-alerts/",
+        "id": "tank-transit-authority-of-northern-kentucky.mobility.16",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
         ]
       }
     ],
-    "limitations": "Public website information; no on-site audit. Fixed-route bus features, RAMP door-to-door paratransit and TANK Plus curb-to-curb service have different conditions. Confirm RAMP eligibility, the specific service area and booking rules with Special Services at 859-814-2135. The fare page lists a $1 reduced fixed-route fare while the FAQ lists $0.75; the conflict is unresolved. Confirm the applicable fare before travel. The November 7 service-change notice adds a six-mile TANK Plus cap and new destinations; the separate Plus page still describes Zone 1 in Campbell County. Confirm current zone boundaries. The Link page still suggests a Newport transfer to Route 16, despite the November 7 notice saying Route 16 is replaced. Do not rely on that transfer instruction without checking current schedules. Individual stop pavement, curb connections, transfer walking or rolling routes and station restroom features remain unverified. Historical photographs do not establish current vehicles or boarding arrangements. The current Route 5 timetable still lists outbound Holman at Martin Luther King Jr., while the July 10, 2026 alert says that stop is permanently removed and directs riders to Russell and/or 13th. Confirm the boarding location with TANK; the named alternative stops do not establish a continuous rolling route.",
+    "limitations": "Public website information; no on-site audit. Fixed-route bus features, RAMP door-to-door paratransit and TANK Plus curb-to-curb service have different conditions. Confirm RAMP eligibility, the specific service area and booking rules with Special Services at 859-814-2135. The fare page lists a $1 reduced fixed-route fare while the FAQ lists $0.75; the conflict is unresolved. Confirm the applicable fare before travel. The November 7 service-change notice adds a six-mile TANK Plus cap and new destinations; the separate Plus page still describes Zone 1 in Campbell County. Confirm current zone boundaries. The Link page still suggests a Newport transfer to Route 16, despite the November 7 notice saying Route 16 is replaced. Do not rely on that transfer instruction without checking current schedules. Individual stop pavement, curb connections, transfer walking or rolling routes and station restroom features remain unverified. Historical photographs do not establish current vehicles or boarding arrangements. The current Route 5 timetable still lists outbound Holman at Martin Luther King Jr., while the July 10, 2026 alert says that stop is permanently removed and directs riders to Russell and/or 13th. Confirm the boarding location with TANK; the named alternative stops do not establish a continuous rolling route. RAMP paperwork instructions also differ: the eligibility checklist presents doctor verification as a step, while the regional application says a clinical professional’s form may be requested. Confirm requirements with Special Services. The FAQ prints RAMP hours as 4:30 a.m.–1 p.m.; the regional application describes service linked to regular-route hours. Current trip availability and specific assistance or securement procedures require confirmation.",
     "slug": "tank-transit-authority-of-northern-kentucky",
     "evidence_type": "public_website",
     "observed_at": null
@@ -38288,7 +38649,7 @@
     "website": "https://www.junglejims.com/",
     "source_url": "https://www.junglejims.com/discover/plan-your-trip",
     "limitations": "Public website information; no on-site audit. Equipment and service-animal information comes from the chain-wide FAQ; other location-specific descriptions here concern Eastgate. Confirm designated parking, the entrance and door controls, cart availability and fit, transfer or carrying assistance, rest points, restroom and changing facilities, and quiet spaces. Aisle and lighting descriptions are the operator’s, not measurements or a suitability judgment. Fairfield’s party-tray pickup and attractions must not be assumed at Eastgate.",
-    "checked_at": "2026-11-12",
+    "checked_at": "2026-11-14",
     "slug": "jungle-jims-eastgate",
     "evidence_type": "public_website",
     "observed_at": null,
@@ -38299,7 +38660,7 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-eastgate.mobility.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38308,6 +38669,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38317,7 +38683,7 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-eastgate.mobility.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38326,6 +38692,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38335,7 +38706,7 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip",
         "id": "jungle-jims-eastgate.mobility.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38344,6 +38715,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38353,7 +38729,7 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip",
         "id": "jungle-jims-eastgate.sensory.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38362,6 +38738,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38371,7 +38752,7 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-eastgate.chronic.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38380,6 +38761,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38389,7 +38775,7 @@
         "source_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
         "id": "jungle-jims-eastgate.cognitive.1",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38398,6 +38784,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38407,7 +38798,7 @@
         "source_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
         "id": "jungle-jims-eastgate.chronic.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38416,6 +38807,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38425,7 +38821,7 @@
         "source_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
         "id": "jungle-jims-eastgate.sensory.2",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
@@ -38434,6 +38830,11 @@
             "date": "2026-11-12",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
           }
         ]
       },
@@ -38443,13 +38844,54 @@
         "source_url": "https://www.junglejims.com/discover/plan-your-trip/faq",
         "id": "jungle-jims-eastgate.chronic.3",
         "source_type": "venue_official",
-        "retrieved_at": "2026-11-12",
+        "retrieved_at": "2026-11-14",
         "published_at": null,
         "observed_at": null,
         "review_status": "source_checked",
         "history": [
           {
             "date": "2026-11-12",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          },
+          {
+            "date": "2026-11-14",
+            "action": "rechecked",
+            "note": "Routine recheck; the source still supports this note."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The trip-planning page links a printable Eastgate store map and describes an interactive map in the Jungle Jim’s app. These can help with orientation; neither establishes a continuous accessible route or current aisle clearance.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip",
+        "id": "jungle-jims-eastgate.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Eastgate’s published store hours are daily 8 a.m.–10 p.m. Its holiday table lists Thanksgiving 8 a.m.–5 p.m., Christmas Eve 8 a.m.–6 p.m. and Christmas Day closed. The table has no year; confirm the intended holiday before travelling.",
+        "source_url": "https://www.junglejims.com/discover/plan-your-trip",
+        "id": "jungle-jims-eastgate.chronic.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
             "action": "added",
             "note": "Added from the linked official public source; no field observation or private visitor report is implied."
           }
@@ -46545,6 +46987,430 @@
         "text": "A separate UC building-directory record identifies the Campus Recreation Center at 2840 Bearcat Way. Confirm the arrival point with recreation staff before travelling.",
         "source_url": "https://ucdirectory.uc.edu/CampusBuildings.asp?bldgcode=RECCENTER",
         "id": "university-cincinnati-campus-recreation-center.cognitive.7",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lehr’s Prime Market — Milford",
+    "city": "Milford",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "740 Main Street, Milford, OH 45150",
+    "website": "https://www.lehrsprime.com/",
+    "source_url": "https://www.lehrsprime.com/contact/",
+    "limitations": "Public website information; no on-site audit. Call-ahead sandwich ordering and holiday pickup do not establish curbside handoff, delivery or carrying assistance. Entrance thresholds, door controls, the route through the front railing, seating, toilets and quiet spaces remain unverified. Linked storefront photographs show differing historical layouts and do not establish today’s route. The Thanksgiving arrangements apply only to 2026; confirm holiday hours directly.",
+    "checked_at": "2026-11-14",
+    "slug": "lehrs-prime-market-milford",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "For sandwich orders, Lehr’s invites customers to call 513-831-3411 ahead to reduce the wait. Confirm the collection point and any assistance needed; the page does not describe vehicle-side handoff.",
+        "source_url": "https://www.lehrsprime.com/sandwiches/",
+        "id": "lehrs-prime-market-milford.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The sandwich service is listed as Monday–Saturday 11 a.m.–5 p.m. and Sunday 11 a.m.–4 p.m.; these are sandwich-service hours, not the market’s full opening hours.",
+        "source_url": "https://www.lehrsprime.com/sandwiches/",
+        "id": "lehrs-prime-market-milford.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The sandwich menu invites customers to ask about gluten-free bread options. This does not establish ingredients, cross-contact controls or suitability for a particular allergy.",
+        "source_url": "https://www.lehrsprime.com/sandwiches/",
+        "id": "lehrs-prime-market-milford.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For Thanksgiving 2026, orders can be placed in person, by phone at 513-831-3411 or through the linked online ordering page. The posted online deadline is November 19 at 11:59 p.m.; later walk-ins depend on item availability.",
+        "source_url": "https://www.lehrsprime.com/seasonal-orders/",
+        "id": "lehrs-prime-market-milford.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The published Thanksgiving 2026 pickup windows are November 23 and 24, 9 a.m.–7 p.m., and November 25, 9 a.m.–5 p.m. They do not establish a curbside collection procedure.",
+        "source_url": "https://www.lehrsprime.com/seasonal-orders/",
+        "id": "lehrs-prime-market-milford.chronic.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Seafood Station — Loveland",
+    "city": "Loveland",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "10488 Loveland-Madeira Road, Loveland, OH 45140",
+    "website": "https://www.seafoodstationloveland.com/",
+    "source_url": "https://www.seafoodstationloveland.com/find-us",
+    "limitations": "Public website information; no on-site audit. Physical entrance access, parking-to-door connections, aisle widths, seating, toilets, changing facilities and carrying assistance remain unverified. Advance food orders do not establish curbside service or delivery. Third-party wheelchair-accessible badges are not a Threshold assessment. Confirm ingredients and cross-contact arrangements directly; menu labels are not an allergy-safety guarantee.",
+    "checked_at": "2026-11-14",
+    "slug": "seafood-station-loveland",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The Find Us page lists Monday–Saturday 10 a.m.–5 p.m., closed Sunday, and 513-683-5993 for contact before a visit.",
+        "source_url": "https://www.seafoodstationloveland.com/find-us",
+        "id": "seafood-station-loveland.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For party orders, the market recommends requesting at least a week ahead and no later than three days before the event to help ensure availability. It warns that summer and holidays can be busy; inquiries are by phone at 513-683-5993.",
+        "source_url": "https://www.seafoodstationloveland.com/country-boils-party-trays",
+        "id": "seafood-station-loveland.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The Heat-N-Serve page asks customers to discuss allergy information with the team and lists allergens for individual dishes. Confirm the particular item and preparation arrangements before ordering.",
+        "source_url": "https://www.seafoodstationloveland.com/heat-n-serve",
+        "id": "seafood-station-loveland.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The low-country-boil section describes a do-it-yourself kit ordered by phone; its FAQ says the market cannot cook that kit for customers. This limit is specific to the kit, not every prepared food sold here.",
+        "source_url": "https://www.seafoodstationloveland.com/country-boils-party-trays",
+        "id": "seafood-station-loveland.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Boone County Drive-Thru Food Pantry",
+    "city": "Erlanger",
+    "state": "KY",
+    "category": "Public services",
+    "address": "3819 Turfway Road, Erlanger, KY 41018",
+    "website": "https://www.christschapel.net/",
+    "source_url": "https://www.christschapel.net/pantry",
+    "limitations": "Public website information; no on-site audit. The official pantry page describes vehicle-based collection at Christ’s Chapel. Walk-up arrangements, transport without a car, queue wait times, vehicle-height limits, toilets, changing facilities and dietary substitutions remain unverified. Gallery photographs have unknown capture dates and show past distribution layouts; they are not a current traffic plan. Confirm any date-specific change with the organizer.",
+    "checked_at": "2026-11-14",
+    "slug": "boone-county-drive-thru-food-pantry",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "mobility",
+        "text": "The pantry says guests remain in their vehicles while volunteers load the food. This describes food loading, not assistance with moving or transferring a person.",
+        "source_url": "https://www.christschapel.net/pantry",
+        "id": "boone-county-drive-thru-food-pantry.mobility.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The pantry says it welcomes people beyond Boone County and requires neither an appointment nor documentation.",
+        "source_url": "https://www.christschapel.net/pantry",
+        "id": "boone-county-drive-thru-food-pantry.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The regular pantry session is the second Saturday of each month, 9–11 a.m. Check with the organizer for changes before travelling.",
+        "source_url": "https://www.christschapel.net/pantry",
+        "id": "boone-county-drive-thru-food-pantry.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The pantry is a partnership of Christ’s Chapel and Immanuel Methodist Church. Christ’s Chapel’s page gives 3819 Turfway Road in Erlanger and 859-371-3787 as its contact location and phone.",
+        "source_url": "https://www.christschapel.net/pantry",
+        "id": "boone-county-drive-thru-food-pantry.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Action Ministries — Covington Grocery Pantry",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Public services",
+    "address": "4375 Boron Drive, Covington, KY 41015",
+    "website": "https://actionministries.org/",
+    "source_url": "https://actionministries.org/index.php/directions/",
+    "limitations": "Public website information; no on-site audit. Entrance selection, thresholds, door controls, parking-to-door routes, seating, toilets, changing facilities and grocery-carrying or vehicle-loading assistance remain unverified. The first-visit page asks for arrival by 11:30 a.m. while also publishing evening sessions; it does not explain first-time evening registration. Its income table has no stated effective year, so confirm current eligibility with the pantry. No automatic eligibility, delivery or curbside service is implied.",
+    "checked_at": "2026-11-14",
+    "slug": "action-ministries-covington",
+    "evidence_type": "public_website",
+    "observed_at": null,
+    "facts": [
+      {
+        "domain": "cognitive",
+        "text": "The pantry serves Kenton, Boone, Campbell, Grant and Pendleton counties and applies a household-income eligibility scale. Confirm the current income limit with the pantry; the displayed table has no stated effective year.",
+        "source_url": "https://actionministries.org/index.php/client-visit-2/",
+        "id": "action-ministries-covington.cognitive.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "For a first visit, the pantry asks eligible households to bring two items showing the applicant’s name and current address, plus identification for every household member. Examples include mail, bills or a driver’s licence for address evidence and school ID, a medical card or a birth certificate for household identification.",
+        "source_url": "https://actionministries.org/index.php/client-visit-2/",
+        "id": "action-ministries-covington.cognitive.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The first-visit instructions ask newcomers to arrive by 11:30 a.m. to allow registration before noon. Because the same page also lists evening sessions without first-visit instructions for them, confirm evening registration by phone.",
+        "source_url": "https://actionministries.org/index.php/client-visit-2/",
+        "id": "action-ministries-covington.cognitive.3",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "Published service hours are Monday–Friday 9 a.m.–noon and the first and third Monday evenings of the month, 6–7 p.m., with closure on major holidays.",
+        "source_url": "https://actionministries.org/index.php/client-visit-2/",
+        "id": "action-ministries-covington.chronic.1",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "In bad weather, the pantry asks visitors to call 859-261-3649 for an updated recording if it is closed.",
+        "source_url": "https://actionministries.org/index.php/client-visit-2/",
+        "id": "action-ministries-covington.chronic.2",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "cognitive",
+        "text": "The contact page places the pantry at 4375 Boron Drive in Covington and gives 859-261-3649 for visit questions.",
+        "source_url": "https://actionministries.org/index.php/directions/",
+        "id": "action-ministries-covington.cognitive.4",
+        "source_type": "venue_official",
+        "retrieved_at": "2026-11-14",
+        "published_at": null,
+        "observed_at": null,
+        "review_status": "source_checked",
+        "history": [
+          {
+            "date": "2026-11-14",
+            "action": "added",
+            "note": "Added from the linked official public source; no field observation or private visitor report is implied."
+          }
+        ]
+      },
+      {
+        "domain": "chronic",
+        "text": "The 2025 annual report describes monthly grocery deliveries by three local churches to some residents of The Colony, Hathaway Court and Arcadia who could not drive to the pantry. It says the deliveries could not include everything available at the pantry. This is historical, residence-specific information; current operation, enrolment and eligibility need confirmation.",
+        "source_url": "https://actionministries.org/documents/990/2025.pdf",
+        "id": "action-ministries-covington.chronic.3",
         "source_type": "venue_official",
         "retrieved_at": "2026-11-14",
         "published_at": null,

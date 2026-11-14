@@ -38,7 +38,13 @@
     "https://www.reddit.com/r/Kentucky/comments/1v89mnq/who_goes_to_silverlake_in_erlanger/",
     "https://www.reddit.com/r/cincinnati/comments/1os2g1x/trihealth_health_fitness_pavilion/",
     "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
-    "https://www.reddit.com/r/cincinnati/comments/15h3wc7/cincinnati_metro_public_transportation_system_map/"
+    "https://www.reddit.com/r/cincinnati/comments/15h3wc7/cincinnati_metro_public_transportation_system_map/",
+    "https://www.reddit.com/r/covington/comments/1vk5hht/best_place_to_work_remotely_for_the_day/",
+    "https://www.reddit.com/r/cincinnati/comments/1m0yfaj/recommendations_for_rainy_days/",
+    "https://www.reddit.com/r/cincinnati/comments/1vean92/used_bookstores/",
+    "https://www.tripadvisor.co.uk/Restaurant_Review-g50659-d11873724-Reviews-Lehr_s_Prime_Market-Milford_Clermont_County_Ohio.html",
+    "https://www.grocerydive.com/news/jungle-jims-international-food-grocery-shopping-cincinnati-ohio/721418/",
+    "https://www.reddit.com/r/Autism_Parenting/comments/1srt9k5/all_inclusive_parent_approved_play_area/"
   ],
   "candidates": [
     {
@@ -740,29 +746,83 @@
       "name": "Lehr’s Prime Market — Milford",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
+      "status": "added",
+      "slug": "lehrs-prime-market-milford",
       "officialLeadUrls": [
         "https://www.lehrsprime.com/contact/",
         "https://www.lehrsprime.com/sandwiches/"
       ],
-      "nextStep": "Official contact and sandwiches pages fetched 200 at final preflight: 740 Main Street, Milford; a call-ahead sandwich option is a promising access detail. Review every condition, inspect entrance/seating images and seek toilets/collection arrangements before adding a listing. Web-reader 429 did not affect the separate fresh helper fetch. No listing or official note added in this preflight."
+      "nextStep": "Five official notes now cover location, call-ahead sandwiches, gluten-free enquiry and explicitly dated Thanksgiving 2026 orders/pickups. Three original frontage photos linked; historical seating/patio reports separate. Verify current railing opening, doors, indoor/patio seating and toilets."
     },
     {
       "name": "Seafood Station — Loveland",
       "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1n8rmz3/dorothy_lane_market_mason_is_worth_the_wait/",
       "underlyingDiscussionRead": true,
-      "status": "lead_only",
-      "slug": null,
+      "status": "added",
+      "slug": "seafood-station-loveland",
       "officialLeadUrls": [
         "https://www.seafoodstationloveland.com/",
         "https://www.seafoodstationloveland.com/find-us"
       ],
-      "nextStep": "Official homepage and Find Us freshly return 200 and identify 10488 Loveland-Madeira Road. Follow official visuals and order/collection arrangements; entrance, aisles and toilets remain unreviewed. Do not use third-party wheelchair-accessible badges or older conflicting directory hours. No listing added in this preflight."
+      "nextStep": "Four official notes now cover location/hours, party-order lead times, DIY boil-kit limits and allergen enquiries. No physical access or curbside inference from directory badges. Seek entrance, collection route, seating and toilets."
+    },
+    {
+      "name": "SparkHaus — Covington",
+      "discussionUrl": "https://www.reddit.com/r/covington/comments/1vk5hht/best_place_to_work_remotely_for_the_day/",
+      "underlyingDiscussionRead": true,
+      "status": "held_source_blocked",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://sparkhaus.co/",
+        "https://www.kentoncountyky.gov/700/SparkHaus"
+      ],
+      "nextStep": "Official homepage is visible in the web reader but the fresh research helper returns 403; keep its booking/access claims held. County official page fetched 200 and supports location/identity only. Seek extractable official day-pass, floor/lift, toilet and seating evidence; no listing added."
+    },
+    {
+      "name": "Fei House — Covington",
+      "discussionUrl": "https://www.reddit.com/r/covington/comments/1vk5hht/best_place_to_work_remotely_for_the_day/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://www.feicafe.com/"
+      ],
+      "nextStep": "Official homepage freshly fetched 200: 640 Main Street; past second-floor tea events and a gallery. Review current naming versus Kung Brew, stairs/lift, first-floor choices, toilets and all event dates before adding. No listing yet."
+    },
+    {
+      "name": "Paint Playground — Milford",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1m0yfaj/recommendations_for_rainy_days/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [],
+      "nextStep": "Comment explicitly says access is uncertain. Find current official location, participation/assistance rules and visual entrance/toilet evidence; no listing yet."
+    },
+    {
+      "name": "Pinball Garage — Hamilton",
+      "discussionUrl": "https://www.reddit.com/r/cincinnati/comments/1m0yfaj/recommendations_for_rainy_days/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [],
+      "nextStep": "Named as an indoor activity, not an access report. Follow current official visit and arrival sources and inspect aisle/lighting/seating views."
+    },
+    {
+      "name": "We Rock the Spectrum — Northern Kentucky",
+      "discussionUrl": "https://www.reddit.com/r/Autism_Parenting/comments/1srt9k5/all_inclusive_parent_approved_play_area/",
+      "underlyingDiscussionRead": true,
+      "status": "lead_only",
+      "slug": null,
+      "officialLeadUrls": [
+        "https://werockthespectrumnorthernkentucky.com/about-us/",
+        "https://werockthespectrumnorthernkentucky.wrtsfranchise.com/wp-content/uploads/2024/11/WRTS-NKY-field-trip-social-story-1.pdf",
+        "https://werockthespectrumnorthernkentucky.com/open-play/"
+      ],
+      "nextStep": "Official about page and nine-page social story freshly fetched. All PDF pages visually inspected: frontage, gym, equipment, staff and calming room useful. Page 3 visual says socks required while extracted layer says barefoot or socks; never use stale hidden text as the rule. Verify present general/field-trip policies, assistance limits, toilet/entrance details and conflicts before listing. A public parenting discussion was subsequently read: an actual party visit is reported but the Cincinnati-area branch is unspecified; do not assign its facilities or prices to Erlanger. Exact publication/visit dates are uncertain. No usernames or health details retained. Late official open-play follow-through fetched 200 and confirms parent/guardian presence, socks and weekly schedule variation; see next-preflight receipt. Listing remains unimported; review current branch calendar and field-trip exceptions before drafting."
     }
   ],
-  "addedVenues": 36,
-  "remainingVenueLeads": 46,
+  "addedVenues": 38,
+  "remainingVenueLeads": 49,
   "uncertainty": "Recommendations are not measured access assessments. Comment dates and visit dates remain null unless independently established. Preserve source identity, separate actual outing accounts from conjecture and keep community reports separate from official facts.",
   "otherSources": [
     {
@@ -856,15 +916,16 @@
     "November 13 grocery/transit/LeBlond pass: public Cincinnati/Covington/Northern Kentucky and Tripadvisor searches; underlying arts-shop and Fabled opening-period threads read, plus specialist magazine visit and official bookstore-crawl directory. No private material or messages.",
     "November 14 shopping/licensing pass: public Cincinnati/Northern Kentucky/Kentucky, Tripadvisor and local forum searches; underlying licensing, grocery, Findlay, antique-mall and Re-Run threads/Q&A read. No private groups or messages.",
     "November 14 recreation/library pass: underlying Cincinnati swimming and TriHealth discussions, Kentucky Silverlake discussion and public DSA room reports read. Original accounts remain separate from official notes; no private groups, posting or messages. Shopping follow-up searches did not resolve Deer Park/Dillonvale identity.",
-    "November 14 transport/grocery/UC pass: public Cincinnati, Covington, Northern Kentucky, Tripadvisor and local-interest searches; underlying Metro-system, Mason-opening, grocery and swimming threads read. Tripadvisor retrieval remained throttled. Community ride and crowd reports kept separate; no posting or private sources."
+    "November 14 transport/grocery/UC pass: public Cincinnati, Covington, Northern Kentucky, Tripadvisor and local-interest searches; underlying Metro-system, Mason-opening, grocery and swimming threads read. Tripadvisor retrieval remained throttled. Community ride and crowd reports kept separate; no posting or private sources.",
+    "November 14 markets/pantries/TANK pass: read public Cincinnati rainy-day and used-book threads, Covington remote-work discussion and Lehr’s Tripadvisor reviews; repeat market lead thread. Northern Kentucky/local/forum searches produced additional leads but no private access or messages. Search snippets stay leads; old seating reports retain dates and review-collection caveat."
   ],
-  "candidateCount": 82,
+  "candidateCount": 87,
   "statusCounts": {
-    "lead_only": 33,
-    "added": 36,
+    "lead_only": 35,
+    "added": 38,
     "held_contact_conflict": 1,
     "held_unextractable_official_site": 2,
-    "held_source_blocked": 2,
+    "held_source_blocked": 3,
     "held": 5,
     "held_location_conflict": 1,
     "held_current_access": 1,
@@ -876,13 +937,13 @@
     "scope": "Original dining batches only; these were not cumulative queue totals."
   },
   "latestBatch": {
-    "report": "transit-groceries-uc-2026-11-14.md",
-    "communityLedVenuesAdded": 3,
-    "otherVenuesAdded": 0,
-    "communityReportsAdded": 3,
-    "officialNotesInCommunityVenues": 29,
-    "existingVenueNewNotes": 3,
-    "newNoteIds": 32,
-    "note": "MetroNow, Mason DLM and UC CRC added from fresh official evidence. Full Metro/Access review covers all 17 old notes. Previous pending recreation/library batch preserved; host selector failure repaired."
+    "report": "markets-pantry-tank-2026-11-14.md",
+    "communityLedVenuesAdded": 2,
+    "otherVenuesAdded": 2,
+    "communityReportsAdded": 4,
+    "officialNotesInCommunityVenues": 9,
+    "existingVenueNewNotes": 9,
+    "newNoteIds": 29,
+    "note": "Lehr’s and Seafood Station community leads added; Boone County drive-through pantry and Action Ministries added from official sources. Full TANK and Eastgate reviews cover 54 old notes. Two corrections and four strengthened supporting records are separate from growth. Two licensed photos and five original guides added. Late follow-through adds one explicitly historical Action Ministries residence-delivery note and a separate 2024 Grocery Dive sensory account. TANK interface graphics receive a distinct visual-instructions label."
   }
 }

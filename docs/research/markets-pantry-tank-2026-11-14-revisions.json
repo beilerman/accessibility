@@ -1,0 +1,18 @@
+[
+  {
+    "id": "tank-transit-authority-of-northern-kentucky.cognitive.1",
+    "text": "TANK’s eligibility page tells applicants to request a RAMP application at 859-814-2135, obtain a doctor’s medical verification and then schedule an assessment; it also offers large-print or recorded schedules on request.",
+    "quote": [
+      "Large print and or recorded schedules are available upon request. qualifying for ramp services Please call our Special Services office at 859-814-2135 to receive information on program eligibility and registration, reserving your rides, planning your trip, fares, passenger assistance, cancellations, transfers and other policies you need to know in order to use RAMP. Steps to qualify to use RAMP Request Application 859-814-2135 Medical Verification filled out by Doctor Call to set up assessment upon completing the first 2 steps above"
+    ],
+    "reason": "Attribute the doctor-verification sequence to the eligibility page and flag differing conditional wording on the regional application; do not silently choose between official instructions."
+  },
+  {
+    "id": "tank-transit-authority-of-northern-kentucky.mobility.7",
+    "text": "TANK’s service-change notice effective November 7, 2026 says the Southbank Shuttle and Route 16 are replaced by a corridor served by fixed-route buses. It directs former Route 16 riders to the new Route 1 and Licking River Link; use current schedules when planning a journey.",
+    "quote": [
+      "Service Improvements Go into Effect Nov. 7, 2026 The changes reflect rider and community feedback and will deliver more reliable trips, more frequent service on key routes, better regional connections and support long-term sustainable operations. What’s changing? Starting Saturday, Nov. 7, 2026, riders will see the following service improvements: Route 1 will be extended to Newport with service ending at St. Elizabeth Healthcare in Ft. Thomas and will operate as a standalone service (no longer interlined with Route 25). Routes 3, 7 and 12 peak frequencies will increase to every 30 minutes Southbank Shuttle and Route 16 will be replaced with a new high-frequency corridor connecting downtown Newport, Covington and downtown Cincinnati with service provided by a fixed-route bus. Service will operate every 7-8 minutes along the areas currently served by Route 1, interlined Routes 3/12 and interlined Routes 7/25, and every 15 minutes along areas served by Route 1 and interlined Routes 7/25. Riders who currently use Route 16 will have access to the new Route 1 and the Licking River Link as alternative service options."
+    ],
+    "reason": "Keep this note within its one cited service-change source; historical photo and brochure date cautions remain with the media and listing limitations."
+  }
+]

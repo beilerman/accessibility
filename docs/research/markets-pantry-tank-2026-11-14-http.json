@@ -1,0 +1,110 @@
+{
+  "checkedAt": "2026-11-14T13:27:05.742Z",
+  "checks": [
+    {
+      "path": "/venues/lehrs-prime-market-milford",
+      "status": 200,
+      "noteAnchors": 5,
+      "sourceLinks": true,
+      "limitations": true,
+      "media": true
+    },
+    {
+      "path": "/venues/seafood-station-loveland",
+      "status": 200,
+      "noteAnchors": 4,
+      "sourceLinks": true,
+      "limitations": true,
+      "media": true
+    },
+    {
+      "path": "/venues/boone-county-drive-thru-food-pantry",
+      "status": 200,
+      "noteAnchors": 4,
+      "sourceLinks": true,
+      "limitations": true,
+      "media": true
+    },
+    {
+      "path": "/venues/action-ministries-covington",
+      "status": 200,
+      "noteAnchors": 7,
+      "sourceLinks": true,
+      "limitations": true,
+      "media": true
+    },
+    {
+      "path": "/venues/tank-transit-authority-of-northern-kentucky",
+      "status": 200,
+      "noteAnchors": 52,
+      "sourceLinks": true,
+      "limitations": true,
+      "media": true
+    },
+    {
+      "path": "/venues/jungle-jims-eastgate",
+      "status": 200,
+      "noteAnchors": 11,
+      "sourceLinks": true,
+      "limitations": true,
+      "media": true
+    },
+    {
+      "path": "TANK booking guide label",
+      "pass": true
+    },
+    {
+      "path": "/venues?category=Shopping&region=OH&q=Lehr%E2%80%99s+Prime+Market+%E2%80%94+Milford",
+      "status": 200,
+      "found": "lehrs-prime-market-milford"
+    },
+    {
+      "path": "/venues?category=Shopping&region=OH&q=Seafood+Station+%E2%80%94+Loveland",
+      "status": 200,
+      "found": "seafood-station-loveland"
+    },
+    {
+      "path": "/venues?category=Public+services&region=KY&q=Boone+County+Drive-Thru+Food+Pantry",
+      "status": 200,
+      "found": "boone-county-drive-thru-food-pantry"
+    },
+    {
+      "path": "/venues?category=Public+services&region=KY&q=Action+Ministries+%E2%80%94+Covington+Grocery+Pantry",
+      "status": 200,
+      "found": "action-ministries-covington"
+    },
+    {
+      "path": "/access-in-pictures",
+      "status": 200
+    },
+    {
+      "path": "/visitor-reports",
+      "status": 200
+    },
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/images/access/eastgate-parking-frontage-2020.webp",
+      "status": 200,
+      "bytes": 436536,
+      "sha256": "085540c2a58f1d89851f9d93ab497d0812bcab4efb28f202b6cf187144631ac8",
+      "sameAsLocal": true
+    },
+    {
+      "path": "/images/access/eastgate-seafood-aisle-2020.webp",
+      "status": 200,
+      "bytes": 498740,
+      "sha256": "c1043e576f1d6c40a92adce02acd790500756cc00adc54add791f1e26528d83a",
+      "sameAsLocal": true
+    },
+    {
+      "path": "/access-in-pictures",
+      "allGuideLabels": 138,
+      "instructionLinks": 1,
+      "pass": true
+    }
+  ],
+  "limitation": "HTTP/HTML checks only; no browser layout, interactive flow or axe result is implied."
+}

@@ -1784,5 +1784,45 @@
     "checkedAt": "2026-11-14",
     "limitations": "Historical orientation only. This does not establish a designated boarding stop, a continuous sidewalk-to-door route, today’s fleet or trip assignment, ramp operation, boarding clearances, slope or assistance. A driver is faintly visible behind the windscreen. Full frame retained; resized and converted to WebP without changing the scene.",
     "relatedFactIds": []
+  },
+  {
+    "slug": "jungle-jims-eastgate",
+    "width": 1200,
+    "height": 1600,
+    "author": "Warren LeMay",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "photoDate": "2020-06-14",
+    "checkedAt": "2026-11-14",
+    "id": "eastgate-parking-frontage-2020",
+    "title": "Parking-lot approach and Foodie Entrance sign in 2020",
+    "src": "/images/access/eastgate-parking-frontage-2020.webp",
+    "alt": "Parking aisle facing Jungle Jim’s Eastgate, with parked cars, cracked pavement, the monorail display and a distant Foodie Entrance sign at right.",
+    "caption": "June 14, 2020 view from the parking lot toward the Eastgate frontage. The Foodie Entrance sign is at the right, beyond parked vehicles; pavement cracks are visible in the foreground.",
+    "sourceUrl": "https://www.flickr.com/photos/warrenlemay/50076915971",
+    "limitations": "Historical arrival orientation only. The distant doors, curb transitions, designated parking, threshold, door controls and continuous route are not established. Current layout is unverified. Two distant people and parked vehicles appear. Original full frame retained; resized and converted to WebP without altering the scene.",
+    "relatedFactIds": [
+      "jungle-jims-eastgate.mobility.3"
+    ]
+  },
+  {
+    "slug": "jungle-jims-eastgate",
+    "width": 1200,
+    "height": 1600,
+    "author": "Warren LeMay",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "photoDate": "2020-06-14",
+    "checkedAt": "2026-11-14",
+    "id": "eastgate-seafood-aisle-2020",
+    "title": "Merchandise beside a seafood-area aisle in 2020",
+    "src": "/images/access/eastgate-seafood-aisle-2020.webp",
+    "alt": "A partial concrete aisle beside pallets and stacked merchandise, with a large yellow seafood boat display and bright hanging ceiling lights at Jungle Jim’s Eastgate.",
+    "caption": "June 14, 2020 interior view shows pallets and stacked merchandise along one partial aisle, a large themed boat and ceiling lights. The frame provides local circulation and visual-environment context.",
+    "sourceUrl": "https://www.flickr.com/photos/warrenlemay/50077169912",
+    "limitations": "Historical partial view, not a measured aisle clearance or a complete route. Current displays, obstructions, lighting levels, noise, seating, toilets and wheelchair turning space are unverified. The decorative boat is not transport equipment. Original full frame retained; resized and converted to WebP without altering the scene.",
+    "relatedFactIds": [
+      "jungle-jims-eastgate.sensory.1"
+    ]
   }
 ]

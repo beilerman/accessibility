@@ -1,0 +1,198 @@
+{
+  "checked_at": "2026-11-14",
+  "prepared_at_utc": "2026-11-14T13:33:34.381643+00:00",
+  "base": "ead109e52fa3e3d96b93dd45d14058f755057b29",
+  "publish_ready": true,
+  "status": "ready_for_runner_validation",
+  "publication": "Reviewed local batch for the runner test suite and atomic publication-branch pushes. No deployed or live-site claim.",
+  "start_state": {
+    "clean": true,
+    "conflicts": 0,
+    "unfinished_edits": 0,
+    "priorRecovery": "Already included in the supplied publication base."
+  },
+  "current_pass": {
+    "base": "ead109e52fa3e3d96b93dd45d14058f755057b29",
+    "newVenues": [
+      {
+        "slug": "lehrs-prime-market-milford",
+        "notes": 5
+      },
+      {
+        "slug": "seafood-station-loveland",
+        "notes": 4
+      },
+      {
+        "slug": "boone-county-drive-thru-food-pantry",
+        "notes": 4
+      },
+      {
+        "slug": "action-ministries-covington",
+        "notes": 7
+      }
+    ],
+    "newNoteIds": [
+      "action-ministries-covington.chronic.1",
+      "action-ministries-covington.chronic.2",
+      "action-ministries-covington.chronic.3",
+      "action-ministries-covington.cognitive.1",
+      "action-ministries-covington.cognitive.2",
+      "action-ministries-covington.cognitive.3",
+      "action-ministries-covington.cognitive.4",
+      "boone-county-drive-thru-food-pantry.chronic.1",
+      "boone-county-drive-thru-food-pantry.cognitive.1",
+      "boone-county-drive-thru-food-pantry.cognitive.2",
+      "boone-county-drive-thru-food-pantry.mobility.1",
+      "jungle-jims-eastgate.chronic.4",
+      "jungle-jims-eastgate.cognitive.2",
+      "lehrs-prime-market-milford.chronic.1",
+      "lehrs-prime-market-milford.chronic.2",
+      "lehrs-prime-market-milford.chronic.3",
+      "lehrs-prime-market-milford.cognitive.1",
+      "lehrs-prime-market-milford.cognitive.2",
+      "seafood-station-loveland.chronic.1",
+      "seafood-station-loveland.chronic.2",
+      "seafood-station-loveland.cognitive.1",
+      "seafood-station-loveland.cognitive.2",
+      "tank-transit-authority-of-northern-kentucky.cognitive.23",
+      "tank-transit-authority-of-northern-kentucky.cognitive.24",
+      "tank-transit-authority-of-northern-kentucky.cognitive.25",
+      "tank-transit-authority-of-northern-kentucky.cognitive.26",
+      "tank-transit-authority-of-northern-kentucky.mobility.15",
+      "tank-transit-authority-of-northern-kentucky.mobility.16",
+      "tank-transit-authority-of-northern-kentucky.sensory.3"
+    ],
+    "fullReviews": [
+      {
+        "slug": "tank-transit-authority-of-northern-kentucky",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 45,
+        "currentNotes": 52
+      },
+      {
+        "slug": "jungle-jims-eastgate",
+        "oldDate": "2026-11-12",
+        "newDate": "2026-11-14",
+        "oldNotes": 9,
+        "currentNotes": 11
+      }
+    ],
+    "partialReviews": [],
+    "oldNotesReviewed": 54,
+    "textCorrections": [
+      "tank-transit-authority-of-northern-kentucky.cognitive.1",
+      "tank-transit-authority-of-northern-kentucky.mobility.7"
+    ],
+    "strengthenedEvidence": [
+      "tank-transit-authority-of-northern-kentucky.mobility.8",
+      "tank-transit-authority-of-northern-kentucky.cognitive.13",
+      "tank-transit-authority-of-northern-kentucky.mobility.13",
+      "tank-transit-authority-of-northern-kentucky.cognitive.14"
+    ],
+    "absentQuoteRepairs": [],
+    "unchangedExistingVenues": 199,
+    "preservedIdsAndHistoryPrefixes": true,
+    "totals": {
+      "venues": 205,
+      "activeNotes": 2116,
+      "quoted": 2096,
+      "missing": 20,
+      "retired": 1
+    },
+    "access-photos": {
+      "before": 90,
+      "after": 92,
+      "added": 2
+    },
+    "access-guides": {
+      "before": 133,
+      "after": 138,
+      "added": 5
+    },
+    "visitor-reports-community": {
+      "before": 77,
+      "after": 81,
+      "added": 4
+    }
+  },
+  "sourceBaselines": {
+    "selected": 29,
+    "new": 11,
+    "unchangedUnselected": 595,
+    "selectedNeedAttention": 0
+  },
+  "checks": {
+    "freshEvidence": {
+      "checked": 87,
+      "failed": 0,
+      "notes": 83,
+      "newAddresses": 4
+    },
+    "unit": {
+      "passed": 121,
+      "failed": 0
+    },
+    "pipeline": {
+      "passed": 79,
+      "failed": 0
+    },
+    "lint": "passed",
+    "types": "passed",
+    "productionBuild": "passed",
+    "httpHtmlAssets": {
+      "passed": 17,
+      "failed": 0,
+      "bothPhotoBytesMatch": true,
+      "allGuideLinksCounted": 138,
+      "instructionLinkSelectorUnique": true
+    },
+    "mediaLinks": {
+      "checked": 8,
+      "allHttp200": true
+    },
+    "browser": {
+      "discovered": 193,
+      "executedSuccessfully": 0,
+      "status": "blocked_before_navigation",
+      "error": "Chromium MachPortRendezvousServer bootstrap_check_in permission denied (1100); CUA browser access host unavailable.",
+      "runnerRequired": [
+        "Full browser and axe suite",
+        "Interactive flows",
+        "Mobile and desktop page-layout visual QA"
+      ]
+    },
+    "gitDiffCheck": "passed",
+    "conflictMarkers": 0,
+    "localServer": "Stopped; fresh request to port 3217 returned connection refused.",
+    "renderedVisitorReports": {
+      "checked": 4,
+      "exactSummaries": true,
+      "exactCaveats": true,
+      "originalSourceLinks": true
+    }
+  },
+  "holds": {
+    "legacyMissingEvidence": 20,
+    "lateHeldSourceRetries": 6,
+    "lateSourceOutcome": "Five HTTP 403s and one Symphony authentication/shared-session redirect; no verification or date changes.",
+    "nextBatch": [
+      "We Rock the Spectrum Northern Kentucky: social-story visible socks rule conflicts with extracted text; current visit/assistance review unfinished.",
+      "Fei House: past second-floor events and unknown route; current service review unfinished.",
+      "SparkHaus: helper 403 despite web-reader visibility; county identity evidence only.",
+      "Lehr entrance/railing, Seafood collection route, Action toilets/loading, pantry noncar arrivals, TANK securement, Eastgate toilet/door features remain incomplete."
+    ]
+  },
+  "applicationChange": "Separate visual-instructions/graphics label for app screenshots; preserves photo/map/tour labels. Unit regression and browser gallery-count assertion updated.",
+  "researchScope": "Four new venues, two full existing reviews, official-source and public community research, substantial photo inspection, then follow-through and next-batch preflight. No private groups or messages.",
+  "boundaries": {
+    "gitWrites": 0,
+    "pushes": 0,
+    "deployments": 0,
+    "previews": 0,
+    "databaseWrites": 0,
+    "messagesSent": 0,
+    "schedulerChanges": 0
+  },
+  "report": "markets-pantry-tank-2026-11-14.md"
+}

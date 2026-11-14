@@ -11,6 +11,9 @@ function webGuideLabel(guide: AccessGuide) {
   if (guide.imageType === "panorama") {
     return `Open virtual tour (web page, ${count} inspected ${count === 1 ? "panorama" : "panoramas"})`;
   }
+  if (guide.imageType === "instructions") {
+    return `Open visual instructions (web page, ${count} ${count === 1 ? "graphic" : "graphics"})`;
+  }
   return `Open photo guide (web page, ${count} ${count === 1 ? "photo" : "photos"})`;
 }
 

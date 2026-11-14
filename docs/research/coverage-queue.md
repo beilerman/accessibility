@@ -1,9 +1,70 @@
 # Broad and deep research queue
 
-Updated November 14, 2026 after host-test recovery, MetroNow/Mason/UC growth,
-full Metro/Access review and extensive access imagery. Leads remain questions.
+Updated November 14, 2026 after markets/pantries, TANK and Eastgate research.
 
 ## Current prepared batch
+
+Read [markets, pantries, TANK and Eastgate](markets-pantry-tank-2026-11-14.md), its
+canonical final evidence, audit, media, HTTP, next-preflight and validation receipts.
+All mutation specs are applied. Base `ead109e5` already contains the previous recovery
+batch; this workspace started clean with no conflicts or unreviewed pending edits.
+
+**Growth:** four new venues — Lehr’s Milford (5 notes), Seafood Station Loveland (4),
+Boone County drive-through pantry (4), Action Ministries Covington (7). Seven TANK and
+two Eastgate depth notes bring **29 new IDs**. Keep Thanksgiving 2026 deadlines,
+vehicle food-loading versus passenger assistance, first-visit/evening registration,
+undated income table and the historical residence-only delivery program distinct.
+
+**Accuracy/freshness:** two full reviews cover 54 old notes (TANK 45, Eastgate 9),
+November 12 → 14; these repeat venues already reviewed this week. Two TANK text
+corrections and four strengthened evidence records are separate from growth. No
+absent-quote repairs; **20 legacy gaps remain held**. All 87 final evidence checks
+(83 saved notes + 4 addresses) pass. Preserve TANK’s fare, zones, Route 16/Link,
+removed stop, paperwork and service-hours conflicts. No partial date promotion.
+
+**Imagery:** two full-frame CC0 Warren LeMay Eastgate photographs dated June 14, 2020;
+five original guides (Lehr frontage, pantry loading, TANK ramp/door, app instructions,
+Eastgate map). Forty-one still/graphic candidates inspected; map and annual-report page
+plus nine-page gym preflight reviewed visually. Historical scenes prove no current
+complete route. App screenshots now have a separate visual-instructions/graphics
+label. No AI or copyrighted-photo republication. Eight media/source links return 200.
+Four community/specialist accounts stay separate from official facts.
+
+**Totals:** 205 venues / 2,116 active / one retired / 2,096 quoted / 20 missing /
+92 licensed photos / 138 guides / 81 community-file reports. Categories: parks 34,
+arts 33, food 30, shopping 28, museums 21, public services 18, recreation 17,
+libraries 15, transport 9. Discovery: **87 names / 38 added / 35 lead-only / 14 held**.
+Twenty-nine source URLs baselined, 11 new; 595 unselected baseline rows unchanged.
+
+**Validation:** 121 unit tests, 79 pipeline tests, lint, types, build and 17
+HTTP/HTML/asset checks pass. Four new route cases bring the browser suite to 193.
+Chromium fails before navigation (MachPort 1100) and CUA browser host is unavailable;
+all browser/axe checks, interactive flows and page-layout visual QA remain runner-required.
+No Git writes or deployment. Runner owns validation, atomic pushes and capped releases.
+
+**Next batch:** investigate **We Rock the Spectrum Northern Kentucky, Fei House and
+Pinball Garage**, plus one thin existing arrival/toilet listing. The gym’s official
+about page/social story fetched 200 and all nine PDF pages were visually inspected.
+Page 3 visibly requires socks while the extracted layer says barefoot or socks: do
+not use stale hidden text. Verify current general/field-trip rules, assistance,
+entrance and toilets before importing. Fei’s second-floor events are past; route and
+current service evidence remain unfinished. SparkHaus helper returns 403 although
+web-reader content is visible; county identity evidence is not a service verification.
+
+Continue current Lehr railing/entrance, Seafood collection/doors, Action loading/toilets,
+pantry noncar access, TANK securement and Eastgate toilet/door photos. Keep UC
+address/pool-hour, DLM mezzanine, MetroNow boarding and all prior source holds unresolved.
+
+Late gym preflight: official open-play page returned 200 and confirms guardian
+presence, socks and varying weekly hours. Current calendar/field-trip exceptions
+and listing draft remain unfinished; an actual public party account has no identified
+branch, so its prices and facilities are not assigned to Erlanger.
+
+## Published base: prior host recovery, transport, groceries and UC
+
+The following section is retained as historical context. Its recovered batch is
+already included in publication base `ead109e5`; it is not additional pending work.
+
 
 Read [transport, groceries, UC and recovery](transit-groceries-uc-2026-11-14.md)
 and its final gate, audit, media/link receipts, selector repair and validation.

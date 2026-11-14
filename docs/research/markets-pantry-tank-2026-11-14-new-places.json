@@ -1,0 +1,245 @@
+[
+  {
+    "slug": "lehrs-prime-market-milford",
+    "name": "Lehr’s Prime Market — Milford",
+    "city": "Milford",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "740 Main Street, Milford, OH 45150",
+    "website": "https://www.lehrsprime.com/",
+    "source_url": "https://www.lehrsprime.com/contact/",
+    "limitations": "Public website information; no on-site audit. Call-ahead sandwich ordering and holiday pickup do not establish curbside handoff, delivery or carrying assistance. Entrance thresholds, door controls, the route through the front railing, seating, toilets and quiet spaces remain unverified. Linked storefront photographs show differing historical layouts and do not establish today’s route. The Thanksgiving arrangements apply only to 2026; confirm holiday hours directly.",
+    "facts": [
+      [
+        "cognitive",
+        "For sandwich orders, Lehr’s invites customers to call 513-831-3411 ahead to reduce the wait. Confirm the collection point and any assistance needed; the page does not describe vehicle-side handoff.",
+        "https://www.lehrsprime.com/sandwiches/",
+        "venue_official",
+        null,
+        [
+          "513.831.3411",
+          "Alleviate your wait… Please call in your order. It will be ready when you are!"
+        ]
+      ],
+      [
+        "chronic",
+        "The sandwich service is listed as Monday–Saturday 11 a.m.–5 p.m. and Sunday 11 a.m.–4 p.m.; these are sandwich-service hours, not the market’s full opening hours.",
+        "https://www.lehrsprime.com/sandwiches/",
+        "venue_official",
+        null,
+        "Prime Sandwiches are served Mon. – Sat. 11 a.m. – 5 p.m. Sunday 11 a.m. – 4 p.m."
+      ],
+      [
+        "chronic",
+        "The sandwich menu invites customers to ask about gluten-free bread options. This does not establish ingredients, cross-contact controls or suitability for a particular allergy.",
+        "https://www.lehrsprime.com/sandwiches/",
+        "venue_official",
+        null,
+        "Ask about Gluten Free Bread options"
+      ],
+      [
+        "cognitive",
+        "For Thanksgiving 2026, orders can be placed in person, by phone at 513-831-3411 or through the linked online ordering page. The posted online deadline is November 19 at 11:59 p.m.; later walk-ins depend on item availability.",
+        "https://www.lehrsprime.com/seasonal-orders/",
+        "venue_official",
+        null,
+        [
+          "Place your order in person, on the phone (513-831-3411), or click the link to place online.",
+          "Online ordering closes Thursday, November 19th at 11:59 PM.",
+          "Walk-ins are welcome after the ordering deadline, with items subject to availability.",
+          "Thanksgiving 2026 Pick-Up:"
+        ]
+      ],
+      [
+        "chronic",
+        "The published Thanksgiving 2026 pickup windows are November 23 and 24, 9 a.m.–7 p.m., and November 25, 9 a.m.–5 p.m. They do not establish a curbside collection procedure.",
+        "https://www.lehrsprime.com/seasonal-orders/",
+        "venue_official",
+        null,
+        "Thanksgiving 2026 Pick-Up: Monday, November 23rd — 9am–7pm Tuesday, November 24th — 9am–7pm Wednesday, November 25th — 9am–5pm"
+      ]
+    ]
+  },
+  {
+    "slug": "seafood-station-loveland",
+    "name": "Seafood Station — Loveland",
+    "city": "Loveland",
+    "state": "OH",
+    "category": "Shopping",
+    "address": "10488 Loveland-Madeira Road, Loveland, OH 45140",
+    "website": "https://www.seafoodstationloveland.com/",
+    "source_url": "https://www.seafoodstationloveland.com/find-us",
+    "limitations": "Public website information; no on-site audit. Physical entrance access, parking-to-door connections, aisle widths, seating, toilets, changing facilities and carrying assistance remain unverified. Advance food orders do not establish curbside service or delivery. Third-party wheelchair-accessible badges are not a Threshold assessment. Confirm ingredients and cross-contact arrangements directly; menu labels are not an allergy-safety guarantee.",
+    "facts": [
+      [
+        "cognitive",
+        "The Find Us page lists Monday–Saturday 10 a.m.–5 p.m., closed Sunday, and 513-683-5993 for contact before a visit.",
+        "https://www.seafoodstationloveland.com/find-us",
+        "venue_official",
+        null,
+        [
+          "Hours Monday–Saturday 10:00 AM–5:00 PM Sunday - CLOSED",
+          "Phone 513-683-5993"
+        ]
+      ],
+      [
+        "cognitive",
+        "For party orders, the market recommends requesting at least a week ahead and no later than three days before the event to help ensure availability. It warns that summer and holidays can be busy; inquiries are by phone at 513-683-5993.",
+        "https://www.seafoodstationloveland.com/country-boils-party-trays",
+        "venue_official",
+        null,
+        [
+          "To ensure product availability, we recommend submitting your request at least one week and no later than three days before your party. Summer months and holidays can be particularly busy.",
+          "For inquiries, call 513-683-5993 ."
+        ]
+      ],
+      [
+        "chronic",
+        "The Heat-N-Serve page asks customers to discuss allergy information with the team and lists allergens for individual dishes. Confirm the particular item and preparation arrangements before ordering.",
+        "https://www.seafoodstationloveland.com/heat-n-serve",
+        "venue_official",
+        null,
+        [
+          "Please ask our team about allergy information",
+          "Lobster Bisque Creamy, smooth texture, sweet lobster flavor Contains shellfish, gluten, dairy"
+        ]
+      ],
+      [
+        "chronic",
+        "The low-country-boil section describes a do-it-yourself kit ordered by phone; its FAQ says the market cannot cook that kit for customers. This limit is specific to the kit, not every prepared food sold here.",
+        "https://www.seafoodstationloveland.com/country-boils-party-trays",
+        "venue_official",
+        null,
+        [
+          "DIY LOW COUNTRY BOIL",
+          "STEP 3: Call us to create your kit!",
+          "Can you cook it for me? Unfortunately No."
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "boone-county-drive-thru-food-pantry",
+    "name": "Boone County Drive-Thru Food Pantry",
+    "city": "Erlanger",
+    "state": "KY",
+    "category": "Public services",
+    "address": "3819 Turfway Road, Erlanger, KY 41018",
+    "website": "https://www.christschapel.net/",
+    "source_url": "https://www.christschapel.net/pantry",
+    "limitations": "Public website information; no on-site audit. The official pantry page describes vehicle-based collection at Christ’s Chapel. Walk-up arrangements, transport without a car, queue wait times, vehicle-height limits, toilets, changing facilities and dietary substitutions remain unverified. Gallery photographs have unknown capture dates and show past distribution layouts; they are not a current traffic plan. Confirm any date-specific change with the organizer.",
+    "facts": [
+      [
+        "mobility",
+        "The pantry says guests remain in their vehicles while volunteers load the food. This describes food loading, not assistance with moving or transferring a person.",
+        "https://www.christschapel.net/pantry",
+        "venue_official",
+        null,
+        "Guests remain in their vehicles while volunteers load their food."
+      ],
+      [
+        "cognitive",
+        "The pantry says it welcomes people beyond Boone County and requires neither an appointment nor documentation.",
+        "https://www.christschapel.net/pantry",
+        "venue_official",
+        null,
+        "You do not have to be a Boone County resident—everyone is welcome, and no appointment or documentation is necessary."
+      ],
+      [
+        "chronic",
+        "The regular pantry session is the second Saturday of each month, 9–11 a.m. Check with the organizer for changes before travelling.",
+        "https://www.christschapel.net/pantry",
+        "venue_official",
+        null,
+        "The pantry is open on the second Saturday of every month from 9:00–11:00 AM."
+      ],
+      [
+        "cognitive",
+        "The pantry is a partnership of Christ’s Chapel and Immanuel Methodist Church. Christ’s Chapel’s page gives 3819 Turfway Road in Erlanger and 859-371-3787 as its contact location and phone.",
+        "https://www.christschapel.net/pantry",
+        "venue_official",
+        null,
+        [
+          "The Boone County Drive-Thru Food Pantry is a partnership between Christ’s Chapel and Immanuel Methodist Church",
+          "3819 Turfway Rd, Erlanger, KY, 41018, United States",
+          "(859) 371-3787"
+        ]
+      ]
+    ]
+  },
+  {
+    "slug": "action-ministries-covington",
+    "name": "Action Ministries — Covington Grocery Pantry",
+    "city": "Covington",
+    "state": "KY",
+    "category": "Public services",
+    "address": "4375 Boron Drive, Covington, KY 41015",
+    "website": "https://actionministries.org/",
+    "source_url": "https://actionministries.org/index.php/directions/",
+    "limitations": "Public website information; no on-site audit. Entrance selection, thresholds, door controls, parking-to-door routes, seating, toilets, changing facilities and grocery-carrying or vehicle-loading assistance remain unverified. The first-visit page asks for arrival by 11:30 a.m. while also publishing evening sessions; it does not explain first-time evening registration. Its income table has no stated effective year, so confirm current eligibility with the pantry. No automatic eligibility, delivery or curbside service is implied.",
+    "facts": [
+      [
+        "cognitive",
+        "The pantry serves Kenton, Boone, Campbell, Grant and Pendleton counties and applies a household-income eligibility scale. Confirm the current income limit with the pantry; the displayed table has no stated effective year.",
+        "https://actionministries.org/index.php/client-visit-2/",
+        "venue_official",
+        null,
+        [
+          "Our service area is Kenton, Boone, Campbell, Grant & Pendleton counties",
+          "We use the USDA Food Program Income Eligibility Scale"
+        ]
+      ],
+      [
+        "cognitive",
+        "For a first visit, the pantry asks eligible households to bring two items showing the applicant’s name and current address, plus identification for every household member. Examples include mail, bills or a driver’s licence for address evidence and school ID, a medical card or a birth certificate for household identification.",
+        "https://actionministries.org/index.php/client-visit-2/",
+        "venue_official",
+        null,
+        [
+          "If you fall within these two guidelines, then please bring the following items with you on your first visit:",
+          "Two pieces of ID with your name and current address (mail, bills, driver’s license, etc.)",
+          "ID for all members of your household (SS card, medical card, birth certificate, school ID, etc.)"
+        ]
+      ],
+      [
+        "cognitive",
+        "The first-visit instructions ask newcomers to arrive by 11:30 a.m. to allow registration before noon. Because the same page also lists evening sessions without first-visit instructions for them, confirm evening registration by phone.",
+        "https://actionministries.org/index.php/client-visit-2/",
+        "venue_official",
+        null,
+        [
+          "Please plan to arrive at our office no later than 11:30 if it is your first visit.",
+          "It will take several minutes to get you set up and into our system and we like to allow our volunteers to go home at noon.",
+          "First and Third Monday of the Month from 6:00-7:00 pm"
+        ]
+      ],
+      [
+        "chronic",
+        "Published service hours are Monday–Friday 9 a.m.–noon and the first and third Monday evenings of the month, 6–7 p.m., with closure on major holidays.",
+        "https://actionministries.org/index.php/client-visit-2/",
+        "venue_official",
+        null,
+        "Service Hours (closed on all major holidays) Monday through Friday from 9am to noon First and Third Monday of the Month from 6:00-7:00 pm"
+      ],
+      [
+        "chronic",
+        "In bad weather, the pantry asks visitors to call 859-261-3649 for an updated recording if it is closed.",
+        "https://actionministries.org/index.php/client-visit-2/",
+        "venue_official",
+        null,
+        "In case of bad weather, please call our office (859-261-3649) for a recording which will be updated if we are closed because of bad weather."
+      ],
+      [
+        "cognitive",
+        "The contact page places the pantry at 4375 Boron Drive in Covington and gives 859-261-3649 for visit questions.",
+        "https://actionministries.org/index.php/directions/",
+        "venue_official",
+        null,
+        [
+          "Action Ministries 4375 Boron Dr Covington, KY, 41015",
+          "Phone: 859-261-3649"
+        ]
+      ]
+    ]
+  }
+]

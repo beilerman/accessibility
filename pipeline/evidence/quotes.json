@@ -1,4 +1,78 @@
 {
+ "action-ministries-covington.chronic.1": {
+  "url": "https://actionministries.org/index.php/client-visit-2/",
+  "quote": "Service Hours (closed on all major holidays) Monday through Friday from 9am to noon First and Third Monday of the Month from 6:00-7:00 pm",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "8c6a2ffe772eb8f22220195088b38e3c8a518a4d2b8dda5ba69c2464b73a2858",
+  "source_sha256": "6fb86660d5a03d1b2aaac9945f1a397b77a033991de9db865756511e59bc2920",
+  "final_url": "https://actionministries.org/index.php/client-visit-2/"
+ },
+ "action-ministries-covington.chronic.2": {
+  "url": "https://actionministries.org/index.php/client-visit-2/",
+  "quote": "In case of bad weather, please call our office (859-261-3649) for a recording which will be updated if we are closed because of bad weather.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "579ec0eaa05dd81eed4792507c8a38d8aa4a43c53e3197f16879217c13277a0d",
+  "source_sha256": "6fb86660d5a03d1b2aaac9945f1a397b77a033991de9db865756511e59bc2920",
+  "final_url": "https://actionministries.org/index.php/client-visit-2/"
+ },
+ "action-ministries-covington.chronic.3": {
+  "url": "https://actionministries.org/documents/990/2025.pdf",
+  "quote": "2025 Overview of Action Ministries, Inc. December 31, 2025",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Three local churches deliver groceries each month to about one hundred of the residents at The Colony, Hathaway Court and Arcadia who are unable to drive to Action Ministries to pick up groceries.",
+   "While we cannot take everything we have at the Mission to them because of logistics, we try to take the most useful items."
+  ],
+  "claim_sha256": "e3a60615d7651cf4fa7e22624a0bb6bbb18be9f6b18872db09661330d7dbac2b",
+  "source_sha256": "a34d5550ee53d9a63d0326d106e968b3c3f62793428f94bc7846d9c8abdb586a",
+  "final_url": "https://actionministries.org/documents/990/2025.pdf"
+ },
+ "action-ministries-covington.cognitive.1": {
+  "url": "https://actionministries.org/index.php/client-visit-2/",
+  "quote": "Our service area is Kenton, Boone, Campbell, Grant & Pendleton counties",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "We use the USDA Food Program Income Eligibility Scale"
+  ],
+  "claim_sha256": "4dda91fa92edde4dcfcfa1b7f8ff62db05a6839e6ee6d43805a3ec40b19e3954",
+  "source_sha256": "6fb86660d5a03d1b2aaac9945f1a397b77a033991de9db865756511e59bc2920",
+  "final_url": "https://actionministries.org/index.php/client-visit-2/"
+ },
+ "action-ministries-covington.cognitive.2": {
+  "url": "https://actionministries.org/index.php/client-visit-2/",
+  "quote": "If you fall within these two guidelines, then please bring the following items with you on your first visit:",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Two pieces of ID with your name and current address (mail, bills, driver’s license, etc.)",
+   "ID for all members of your household (SS card, medical card, birth certificate, school ID, etc.)"
+  ],
+  "claim_sha256": "7feb7ce8185e23b627efceceff78e9609f340e286bedf529b69119a8cdfcca14",
+  "source_sha256": "6fb86660d5a03d1b2aaac9945f1a397b77a033991de9db865756511e59bc2920",
+  "final_url": "https://actionministries.org/index.php/client-visit-2/"
+ },
+ "action-ministries-covington.cognitive.3": {
+  "url": "https://actionministries.org/index.php/client-visit-2/",
+  "quote": "Please plan to arrive at our office no later than 11:30 if it is your first visit.",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "It will take several minutes to get you set up and into our system and we like to allow our volunteers to go home at noon.",
+   "First and Third Monday of the Month from 6:00-7:00 pm"
+  ],
+  "claim_sha256": "7fc4d10efe1c043600c9d94b890155409c625761f2280fba6b6b3d20037d794c",
+  "source_sha256": "6fb86660d5a03d1b2aaac9945f1a397b77a033991de9db865756511e59bc2920",
+  "final_url": "https://actionministries.org/index.php/client-visit-2/"
+ },
+ "action-ministries-covington.cognitive.4": {
+  "url": "https://actionministries.org/index.php/directions/",
+  "quote": "Action Ministries 4375 Boron Dr Covington, KY, 41015",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Phone: 859-261-3649"
+  ],
+  "claim_sha256": "9478242ecd6c5a929bc4df1109abee743726ba6fbf6b7caf6e7bad166c9fa8a9",
+  "source_sha256": "18b4d039dfdf7607228f93c53c4de344d7556138a31fbf7753f10b46125df011",
+  "final_url": "https://actionministries.org/index.php/directions/"
+ },
  "aj-jolly-park.chronic.1": {
   "url": "https://www.campbellcountyky.gov/departments/parks-recreation/aj-jolly-park/aj-jolly-safety-repairs-project/",
   "quote": "Restrooms are limited. Portable restrooms are provided in certain areas. The bathhouses near Stapleton Pavilion, the accessible playground, and the private picnic areas are open for the 2026 season. Bathhouses in the campground areas are closed.",
@@ -1247,6 +1321,42 @@
   "claim_sha256": "9d4e501fbd9cba613b2c8c2a422288eb35f0450c108a160cb89dd7de2c129269",
   "source_sha256": "6052be1cb532ee876b5d5c7f803184eda076d0168b9eb5711fbf19e6f4cb3267",
   "final_url": "https://www.boonecountyky.org/business_detail_T35_R55.php"
+ },
+ "boone-county-drive-thru-food-pantry.chronic.1": {
+  "url": "https://www.christschapel.net/pantry",
+  "quote": "The pantry is open on the second Saturday of every month from 9:00–11:00 AM.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "95081a01832a4b8547818e6533b347737263f09d47751f86e9fc372bd41d44fa",
+  "source_sha256": "cc13a931c3c5a7c5622bad47fcd9d2df8c9cd205162f37719f1656168eda91db",
+  "final_url": "https://www.christschapel.net/pantry"
+ },
+ "boone-county-drive-thru-food-pantry.cognitive.1": {
+  "url": "https://www.christschapel.net/pantry",
+  "quote": "You do not have to be a Boone County resident—everyone is welcome, and no appointment or documentation is necessary.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "a0d13fd69509ef09d9bcd9724ffab8cab4d4947dbef8702948f3807ac5d4c895",
+  "source_sha256": "cc13a931c3c5a7c5622bad47fcd9d2df8c9cd205162f37719f1656168eda91db",
+  "final_url": "https://www.christschapel.net/pantry"
+ },
+ "boone-county-drive-thru-food-pantry.cognitive.2": {
+  "url": "https://www.christschapel.net/pantry",
+  "quote": "The Boone County Drive-Thru Food Pantry is a partnership between Christ’s Chapel and Immanuel Methodist Church",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "3819 Turfway Rd, Erlanger, KY, 41018, United States",
+   "(859) 371-3787"
+  ],
+  "claim_sha256": "1c085bc74e7295e565ec1c4df7a9ff6c9a2e86c33ce0af56884eaff3474f722c",
+  "source_sha256": "cc13a931c3c5a7c5622bad47fcd9d2df8c9cd205162f37719f1656168eda91db",
+  "final_url": "https://www.christschapel.net/pantry"
+ },
+ "boone-county-drive-thru-food-pantry.mobility.1": {
+  "url": "https://www.christschapel.net/pantry",
+  "quote": "Guests remain in their vehicles while volunteers load their food.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "98bb33df91500bc93c7c51d55d5d514ec20dfbe2407452114e8cf85ea4d46660",
+  "source_sha256": "cc13a931c3c5a7c5622bad47fcd9d2df8c9cd205162f37719f1656168eda91db",
+  "final_url": "https://www.christschapel.net/pantry"
  },
  "boone-county-public-library-chapin-memorial.chronic.1": {
   "url": "https://www.bcpl.org/locations/",
@@ -9446,7 +9556,7 @@
  "jungle-jims-eastgate.chronic.1": {
   "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
   "quote": "We are not offering online ordering, pick up, or delivery for our regular in-store merchandise at this time.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "additional_quotes": [
    "We currently have limited online ordering for event tickets, party trays, Cooking School certificates, and gift cards.",
    "Party trays are only available for in-store pickup at the Fairfield location."
@@ -9458,7 +9568,7 @@
  "jungle-jims-eastgate.chronic.2": {
   "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
   "quote": "Tours can be tailored to meet special requirements, interests, and to fit groups of 8 or more (smaller groups can often be paired with others).",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "additional_quotes": [
    "Comfortable shoes are suggested, as a good deal of walking is involved.",
    "Store Tours last approximately one hour"
@@ -9470,15 +9580,27 @@
  "jungle-jims-eastgate.chronic.3": {
   "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
   "quote": "No pets – service animals only.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "claim_sha256": "8ba5d4a2aba9e408d0b0b80c20896eea4f53a5977e1c1251c69588648265cf13",
   "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
   "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq"
  },
+ "jungle-jims-eastgate.chronic.4": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip",
+  "quote": "Visit Eastgate",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Open 7 days 8 AM to 10 PM",
+   "Thanksgiving 8:00 am - 5:00 pm Christmas Eve 8:00 am - 6:00 pm Christmas Day Closed"
+  ],
+  "claim_sha256": "ba575fbd1995b32883e8449dff18aeb2f63dd77f42ec621536fbb30cbf6f7e71",
+  "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip"
+ },
  "jungle-jims-eastgate.cognitive.1": {
   "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
   "quote": "Advance reservations required for all tours.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "additional_quotes": [
    "Tours are available Monday-Friday only.",
    "Limited tour availability during holidays and the month of December.",
@@ -9489,10 +9611,21 @@
   "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9",
   "final_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours"
  },
+ "jungle-jims-eastgate.cognitive.2": {
+  "url": "https://www.junglejims.com/discover/plan-your-trip",
+  "quote": "Store Map Your personal guide to the World of Food. Fairfield Eastgate",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Explore the jungle on an interactive store map, unlock exclusive in-app deals, and more!"
+  ],
+  "claim_sha256": "152be1068e611bb05b4cf10e241b3e624f9ea35382b755d7707e64011632ca1a",
+  "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765",
+  "final_url": "https://www.junglejims.com/discover/plan-your-trip"
+ },
  "jungle-jims-eastgate.mobility.1": {
   "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
   "quote": "Motorized shopping carts and traditional wheelchairs are available at the main entrances at both locations.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "claim_sha256": "1c6266845bf77bfcfd181eae4952402641b5ddd9b5561d8dce2eaa5752968912",
   "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
   "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq"
@@ -9500,7 +9633,7 @@
  "jungle-jims-eastgate.mobility.2": {
   "url": "https://www.junglejims.com/discover/plan-your-trip/faq",
   "quote": "A Caroline Cart is available by special request at Customer Service.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "claim_sha256": "9ac7be7f6259e090b931036f52594f3a2958539bea9b2b4df7bc2c35f7d40f8c",
   "source_sha256": "dc5d408e4c9a91367a27b463a009737fabfd7048da35b78ca9466ae4ed76deb2",
   "final_url": "https://www.junglejims.com/discover/plan-your-trip/faq"
@@ -9508,7 +9641,7 @@
  "jungle-jims-eastgate.mobility.3": {
   "url": "https://www.junglejims.com/discover/plan-your-trip",
   "quote": "4450 Eastgate South Drive Cincinnati, OH 45245 513-674-6000 Free parking in store lot",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "claim_sha256": "75113807d9f1b70c608abe34b3aa148f6c613026b342a92f1fdc581cebe462cb",
   "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765",
   "final_url": "https://www.junglejims.com/discover/plan-your-trip"
@@ -9516,7 +9649,7 @@
  "jungle-jims-eastgate.sensory.1": {
   "url": "https://www.junglejims.com/discover/plan-your-trip",
   "quote": "Established in 2012, our Eastgate location enjoys wider aisles, brighter lighting, and an easier to shop layout. It's bursting with fun displays like the high-flying Hot Sauce Drone and killer departments like the Candy Castle and one of Ohio's largest liquor stores.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "claim_sha256": "3895b86697618fc1e4a2d42ed138af84a4c7249370861bcb249dccdff9a6442e",
   "source_sha256": "95a634b68041e1e855f075881f485dc987d5cf15a87c45bbf72ee3341921e765",
   "final_url": "https://www.junglejims.com/discover/plan-your-trip"
@@ -9524,7 +9657,7 @@
  "jungle-jims-eastgate.sensory.2": {
   "url": "https://www.junglejims.com/experiences/events-attractions/groups-tours",
   "quote": "Tour Guide w/ microphone.",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "claim_sha256": "725cbbd0556539ebcca87d3dd06d2e2a4a1e4bcb2c0e35407f7ba209cb846fbc",
   "source_sha256": "8c811c612c38146ac11265530da1e2fae583896e734bcdc7bd66e2f2c144afd9",
   "final_url": "https://www.junglejims.com/experiences/events-attractions/groups-tours"
@@ -10636,6 +10769,54 @@
   "claim_sha256": "1131941bbee8d07dab1b708ce0df0216b97d60e70b52219eb6735c5254181ee0",
   "source_sha256": "4a865205f56124f2b3e1c0dd0fbfb105c2952796f028f8a5f55e8cefc1c2a316",
   "final_url": "https://www.cincinnati-oh.gov/crc/find-a-facility/recreation-center/leblond/"
+ },
+ "lehrs-prime-market-milford.chronic.1": {
+  "url": "https://www.lehrsprime.com/sandwiches/",
+  "quote": "Prime Sandwiches are served Mon. – Sat. 11 a.m. – 5 p.m. Sunday 11 a.m. – 4 p.m.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "c3ffc98047ef06bddee84f35b1765967c7f83f1aa043fa1c2b874da82478d1bc",
+  "source_sha256": "5165f0d663604d3c7fd6c16986edc4702f9ab5e92bc05e44debb2d31075639bb",
+  "final_url": "https://www.lehrsprime.com/sandwiches/"
+ },
+ "lehrs-prime-market-milford.chronic.2": {
+  "url": "https://www.lehrsprime.com/sandwiches/",
+  "quote": "Ask about Gluten Free Bread options",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "072d5c669d7efffc2bc5efd1b5920c679d29ebf277de984f39ccb1632fcec4cb",
+  "source_sha256": "5165f0d663604d3c7fd6c16986edc4702f9ab5e92bc05e44debb2d31075639bb",
+  "final_url": "https://www.lehrsprime.com/sandwiches/"
+ },
+ "lehrs-prime-market-milford.chronic.3": {
+  "url": "https://www.lehrsprime.com/seasonal-orders/",
+  "quote": "Thanksgiving 2026 Pick-Up: Monday, November 23rd — 9am–7pm Tuesday, November 24th — 9am–7pm Wednesday, November 25th — 9am–5pm",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "76dfdc6a56127d1763b23957e7a483fbd6f3e2bc8f8384bf4c020c0407e81cc1",
+  "source_sha256": "a876efc52a066c08bd0b47e1a985961bc91b1cfe01c4d82c2678be381272c4e8",
+  "final_url": "https://www.lehrsprime.com/seasonal-orders/"
+ },
+ "lehrs-prime-market-milford.cognitive.1": {
+  "url": "https://www.lehrsprime.com/sandwiches/",
+  "quote": "513.831.3411",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Alleviate your wait… Please call in your order. It will be ready when you are!"
+  ],
+  "claim_sha256": "1ee00c04564e01c2d75fa3c41384f1cf5a26be2e50a5628103c33e7ee713102b",
+  "source_sha256": "5165f0d663604d3c7fd6c16986edc4702f9ab5e92bc05e44debb2d31075639bb",
+  "final_url": "https://www.lehrsprime.com/sandwiches/"
+ },
+ "lehrs-prime-market-milford.cognitive.2": {
+  "url": "https://www.lehrsprime.com/seasonal-orders/",
+  "quote": "Place your order in person, on the phone (513-831-3411), or click the link to place online.",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Online ordering closes Thursday, November 19th at 11:59 PM.",
+   "Walk-ins are welcome after the ordering deadline, with items subject to availability.",
+   "Thanksgiving 2026 Pick-Up:"
+  ],
+  "claim_sha256": "8e26542e8818600a7d3ae6a1587db862caa4b0e3b4f412fe185ac2e10d14efc1",
+  "source_sha256": "a876efc52a066c08bd0b47e1a985961bc91b1cfe01c4d82c2678be381272c4e8",
+  "final_url": "https://www.lehrsprime.com/seasonal-orders/"
  },
  "licking-river-greenway-trails.cognitive.1": {
   "url": "https://www.covingtonky.gov/visitors/parks/licking-river-greenway-trails",
@@ -14278,6 +14459,51 @@
   "source_sha256": "435adb1b72b3a904f92d41ed3606b90bb4a61c3be5c2c5efc18a67cb73a800a5",
   "final_url": "https://theschoolhousecincinnati.com/contact/"
  },
+ "seafood-station-loveland.chronic.1": {
+  "url": "https://www.seafoodstationloveland.com/heat-n-serve",
+  "quote": "Please ask our team about allergy information",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Lobster Bisque Creamy, smooth texture, sweet lobster flavor Contains shellfish, gluten, dairy"
+  ],
+  "claim_sha256": "e79c65c111964c685a295d6a0c28c951b18e035cfc1062a3e4c1db3f0e6f33ef",
+  "source_sha256": "60f10660805dd36a7de3f2fab770e6d5766100188bc72278980f81b34e4f35ba",
+  "final_url": "https://www.seafoodstationloveland.com/heat-n-serve"
+ },
+ "seafood-station-loveland.chronic.2": {
+  "url": "https://www.seafoodstationloveland.com/country-boils-party-trays",
+  "quote": "DIY LOW COUNTRY BOIL",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "STEP 3: Call us to create your kit!",
+   "Can you cook it for me? Unfortunately No."
+  ],
+  "claim_sha256": "656660d543f9cff31d184ac60bba6b221e2c103119b4a873d83c705a2e5af56d",
+  "source_sha256": "02f6971dd70bd2a00ff7201effd7bae5e9c1b61b478302f5ba128afc70d2c329",
+  "final_url": "https://www.seafoodstationloveland.com/country-boils-party-trays"
+ },
+ "seafood-station-loveland.cognitive.1": {
+  "url": "https://www.seafoodstationloveland.com/find-us",
+  "quote": "Hours Monday–Saturday 10:00 AM–5:00 PM Sunday - CLOSED",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Phone 513-683-5993"
+  ],
+  "claim_sha256": "2d3c1135551d838990bf5ac86d1899a607b0dc5c9184f64802799f15f0ba7ee9",
+  "source_sha256": "d7dc373fb024c8e28f3523e258319c8d2f65905c47707841e5e0d0709b9c4afb",
+  "final_url": "https://www.seafoodstationloveland.com/find-us"
+ },
+ "seafood-station-loveland.cognitive.2": {
+  "url": "https://www.seafoodstationloveland.com/country-boils-party-trays",
+  "quote": "To ensure product availability, we recommend submitting your request at least one week and no later than three days before your party. Summer months and holidays can be particularly busy.",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "For inquiries, call 513-683-5993 ."
+  ],
+  "claim_sha256": "301b8440c3a1ca22fbd7e67a45b1b3eb78fd3baf335fbc661a3320e1a22be408",
+  "source_sha256": "02f6971dd70bd2a00ff7201effd7bae5e9c1b61b478302f5ba128afc70d2c329",
+  "final_url": "https://www.seafoodstationloveland.com/country-boils-party-trays"
+ },
  "second-sight-spirits.chronic.1": {
   "url": "https://www.secondsightspirits.com/faqs",
   "quote": "We do not have a restaurant but we do bring in treats from local companies like North South Baking. You are free to bring in your own food as well.",
@@ -15308,167 +15534,305 @@
  "tank-transit-authority-of-northern-kentucky.chronic.1": {
   "url": "https://www.tankbus.org/ada/",
   "quote": "Passengers who use a respirator, concentrator or portable oxygen are permitted to ride all TANK buses as long as the device is free of cracks, leaks, dents, gouges or pits. These devices are subject to inspection by the bus operator and must be secured in such a way that the device does not move when the bus is in motion.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "8f0b20815cbb9dfc3406c8f6f3cb0e275dae17bab556bba203f93786d051853f",
+  "source_sha256": "a6af21055a7b8f95011d792ac5c275ee242d89e84b67f06621219dcc2b810394",
+  "final_url": "https://www.tankbus.org/ada/"
  },
  "tank-transit-authority-of-northern-kentucky.chronic.2": {
   "url": "https://www.tankbus.org/fares-guides/how-to-ride/",
   "quote": "Keep aisles clear, strollers must be folded. Do not stand in front of the standee line. Do not open windows while climate control systems are in operation. Leave front seats open for older passengers and riders with disabilities.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "4857900b56ca17994fe099ba10699b21cb936950ebe90c4aaafe8aa4ba221925",
+  "source_sha256": "937044a9345f89459dd4f7b24695451e57ddb10b03cfb073d27c3121ec63dba7",
+  "final_url": "https://www.tankbus.org/fares-guides/how-to-ride/"
  },
  "tank-transit-authority-of-northern-kentucky.chronic.3": {
   "url": "https://www.tankbus.org/microtransit/",
   "quote": "If I go shopping, can I bring my packages on TANK Plus? Yes, you may bring packages on board TANK Plus vehicles; however, packages may not take up a seat and operators are not permitted to assist customers with packages.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "dc5b06fea2695b99692081c6f6c786d4c65df4e0444d645a2616249eb27a423e",
+  "source_sha256": "d5e5b3c40c086c8ddcec413b03d33f880c92e46fea54dbf6a676e3eae299e6fb",
+  "final_url": "https://www.tankbus.org/microtransit/"
  },
  "tank-transit-authority-of-northern-kentucky.chronic.4": {
   "url": "https://www.tankbus.org/microtransit/",
   "quote": "Service Hours: Service is available: Monday-Friday from 8AM to 6PM Saturday from 9AM to 5PM No service on Sunday No TANK+ Holiday service in 2026 – this includes the following Holidays: Memorial Day 4th of July Labor Day Thanksgiving Christmas Eve Christmas Day New Years Day",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "32be13c414d9a31e020514860def7ed3b4ae3200c367e2574e51c51e799ceed2",
+  "source_sha256": "d5e5b3c40c086c8ddcec413b03d33f880c92e46fea54dbf6a676e3eae299e6fb",
+  "final_url": "https://www.tankbus.org/microtransit/"
  },
  "tank-transit-authority-of-northern-kentucky.chronic.5": {
   "url": "https://www.tankbus.org/licking-river-link/",
   "quote": "Hours of Operation: The route will operate a one-way loop seven days a week, every 30 minutes Monday – Friday: 6:00 AM to 11:00 PM Saturday and Sunday: 10:00 AM to 11:00 PM Service on this shuttle stops during the below hours for operator breaks:",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "7a81b9694b7379d98777562130cd5a92f7f013521324068e123265680ac11c0a",
+  "source_sha256": "e1d48edc90e5fe1c8fc44cc695a6b8e32c24dec8cc4fcc684ef82bdde8eb555a",
+  "final_url": "https://www.tankbus.org/licking-river-link/"
  },
  "tank-transit-authority-of-northern-kentucky.chronic.6": {
   "url": "https://www.tankbus.org/licking-river-link/",
   "quote": "Service on this shuttle stops during the below hours for operator breaks: Weekdays: 8:30AM to 9:00AM 12:30PM to 1:00PM 6:00PM to 6:30PM 9:00PM to 9:30PM Sat/Sun: 12:30PM to 1:00PM 6:00PM to 6:30PM",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "44baacd43a64ac7cb7a6141c3ee439a1f885460fa7d33e632034f760c1db40cf",
+  "source_sha256": "e1d48edc90e5fe1c8fc44cc695a6b8e32c24dec8cc4fcc684ef82bdde8eb555a",
+  "final_url": "https://www.tankbus.org/licking-river-link/"
  },
  "tank-transit-authority-of-northern-kentucky.chronic.7": {
   "url": "https://www.tankbus.org/senior-transportation/",
   "quote": "Only the following trip types are eligible: Medical Appointments Essential Services (grocery, pharmacy, etc.) Facility Transportation (Redwood, BAWAC, Senior Centers, etc.) Trips will be provided on a first-come, first-served basis and may be denied at the time of scheduling based on demand. If demand exceeds capacity, trips may be prioritized in the order listed above. Recreation, Social and other trips are not eligible.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "b3e8455b61aa51feb931dd243f200a5086dd5ae2c8137968a9817254d2a29c5d",
+  "source_sha256": "7f29540eb8fa5a18ff92e4b02af99645e9c524358806ed13fdc5ec7508d0deec",
+  "final_url": "https://www.tankbus.org/senior-transportation/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.1": {
   "url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
   "quote": "Large print and or recorded schedules are available upon request. qualifying for ramp services Please call our Special Services office at 859-814-2135 to receive information on program eligibility and registration, reserving your rides, planning your trip, fares, passenger assistance, cancellations, transfers and other policies you need to know in order to use RAMP. Steps to qualify to use RAMP Request Application 859-814-2135 Medical Verification filled out by Doctor Call to set up assessment upon completing the first 2 steps above",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "1459d265da193a9acc59088194732badf1461d4395e87d6570537041b44128de",
+  "source_sha256": "6b3efc6c1b19a4c696409d5aef90476083cf832f756c7bf0eb0a13e1cac120d2",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/eligibility/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.10": {
   "url": "https://www.tankbus.org/faq/",
   "quote": "Who qualifies for reduced fares? Senior citizens (ages 65 and over), Veterans & Active Duty Military personnel, and people with disabilities (proof of Medicare or SSI assistance is required to receive the discount) are eligible for a reduced fare of $0.75. Eligible persons must come to the TANK office to have a TANK Reduced Fare Photo ID made, which is shown to the bus driver when riding.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "d12b4f014f53e3583e7276353450abb50c549aab61c6bba97c609dc36cdce414",
+  "source_sha256": "6878b9e3e78701fe268791dd94a4fe29bac622046867909da908ae0b745f6706",
+  "final_url": "https://www.tankbus.org/faq/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.11": {
   "url": "https://www.tankbus.org/ramp-paratransit/reservations/",
   "quote": "Booking a ride is now simpler with the TANK On-Demand app. You can download our app for free on any smart phone device with location services enabled. You will still have the ability to call and book over the phone if you prefer.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "e0a41b066c514ba0876dc5e712f3f3eebdff71ba033037400de41250adc4826e",
+  "source_sha256": "46fcd2b201207596602d30ef14853166ff41b637003df9fc1edc02e802f97b90",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/reservations/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.12": {
   "url": "https://www.tankbus.org/licking-river-link/",
   "quote": "Licking River Link We’re keeping you connected during the KY 8 Licking River Bridge project! The Licking River Link is fare free in collaboration with KYTC! We expanded the Licking River Link shuttle to cover more stops in Newport! The new stops are 4th Street at Columbia Street, Monmouth Street at 7th Street, Monmouth Street at 9th Street, and 11th Street at York Street. Stops on Central at 8 th and 10 th will no longer be served by this route. Hours of Operation: The route will operate a one-way loop seven days a week, every 30 minutes",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "d3ccc5e83e75b1a395acbefda8b3d4532d77297b49ad69de9fefe5428aadee84",
+  "source_sha256": "e1d48edc90e5fe1c8fc44cc695a6b8e32c24dec8cc4fcc684ef82bdde8eb555a",
+  "final_url": "https://www.tankbus.org/licking-river-link/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.13": {
   "url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
   "quote": "Holman at Martin Luther King Jr. 9:49 PM Holman at 13th 9:49 PM",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Cincinnati to Ft Wright Hub"
+  ],
+  "claim_sha256": "45eae0c99c279fe35713d51555962e9f373183322d07ac08839332e812ef518e",
+  "source_sha256": "bea270e2a0350184b769852fd2361a9153397d5fa156c9ebc95e85a4284c4454",
+  "final_url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.14": {
   "url": "https://www.tankbus.org/service-alerts/",
   "quote": "Construction on the Brent Spence Companion Bridge project begins June 6, 2026. As this major project begins, riders should be prepared for detours, lane shifts, and possible delays over the next several years.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Brent Spence Corridor Project EFFECTIVE DATE: 05/29/2026",
+   "Plan extra travel time Stay updated on route changes Follow us for the latest alerts and information"
+  ],
+  "claim_sha256": "abee5e18bf85ddf79d8a4128517d71a79585c7e62eed110ae6354aeddaac6a64",
+  "source_sha256": "9ecdbd49366eb548784b460081ac4ab8bda38e2a178cecfb829e1a1fe0520924",
+  "final_url": "https://www.tankbus.org/service-alerts/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.15": {
   "url": "https://www.tankbus.org/tap-and-save/",
   "quote": "Pay as you go: Load money onto your EZfare account and tap to board. No need to buy day or monthly passes in advance. Daily and monthly fare capping: Fixed Routes cap at $4.00/day or $70.00/month Once you reach the cap, additional rides are free for the rest of that period.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "d0631ced9e5732d1fcfc5a491e7ef773eccca422a53739b84ee0330c320294ff",
+  "source_sha256": "4041a40688331f103390dcec85556bd86ac111a48a7a60667e77ae2b58fcf0b5",
+  "final_url": "https://www.tankbus.org/tap-and-save/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.16": {
   "url": "https://www.tankbus.org/tap-and-save/",
   "quote": "Download the Transit app Create an EZfare account in the app settings Load funds to your wallet Tap your QR code on the validator when you board",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "4e10272a064c3ef28911f5d8b0729aaaad188fe1ed415074d71cd92fecf20531",
+  "source_sha256": "4041a40688331f103390dcec85556bd86ac111a48a7a60667e77ae2b58fcf0b5",
+  "final_url": "https://www.tankbus.org/tap-and-save/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.17": {
   "url": "https://www.tankbus.org/tap-and-save/",
   "quote": "Purchase a smart card for $5 at TANK’s sales office (3375 Madison Pike, Ft. Wright, KY) Load funds with cash or credit card at the TANK sales office or one of these select retailers",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "8f1ac826b3c445fa11198b828f5cd820ac07c9b64e67ecd6fb2f532a6f357e9e",
+  "source_sha256": "4041a40688331f103390dcec85556bd86ac111a48a7a60667e77ae2b58fcf0b5",
+  "final_url": "https://www.tankbus.org/tap-and-save/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.18": {
   "url": "https://www.tankbus.org/tap-and-save/",
   "quote": "Register your account and card to track your spending for fare capping HERE Tap your card on the validator when boarding",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "b4057090d2779b1d1c6b127ca4a0bf528ef9dc322c50948f5feb22b5ee2fe934",
+  "source_sha256": "4041a40688331f103390dcec85556bd86ac111a48a7a60667e77ae2b58fcf0b5",
+  "final_url": "https://www.tankbus.org/tap-and-save/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.19": {
   "url": "https://www.tankbus.org/tap-and-save/",
   "quote": "Paper passes are still available at TANK’s sales office Cash is still accepted on board",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "ace03b02f001c32b768eed2d442b6d78c48556911dbdf8ef576489f008ff7c2c",
+  "source_sha256": "4041a40688331f103390dcec85556bd86ac111a48a7a60667e77ae2b58fcf0b5",
+  "final_url": "https://www.tankbus.org/tap-and-save/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.2": {
   "url": "https://www.tankbus.org/ada/",
   "quote": "TANK offers a reduced fare for senior citizens (age 65 and over) and for people with disabilities (proof of Medicare or SSI assistance is required to receive the discount.) Eligible persons should have a TANK Reduced Fare Photo ID made at the TANK headquarters to show the driver. A Medicare card may also be presented, with valid photo ID.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "fc25dfcc533dffd03752e6867b560b6f0d010b388fc5ab4d6a042f230c726ae8",
+  "source_sha256": "a6af21055a7b8f95011d792ac5c275ee242d89e84b67f06621219dcc2b810394",
+  "final_url": "https://www.tankbus.org/ada/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.20": {
   "url": "https://www.tankbus.org/senior-transportation/",
   "quote": "To be eligible for service, a passenger must be age 67 or older. Proof of age (photo ID) must be shown each time you ride.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "b1857ffec470603c7a62315c098b879f3ecebd767230e26645be242a117936d5",
+  "source_sha256": "7f29540eb8fa5a18ff92e4b02af99645e9c524358806ed13fdc5ec7508d0deec",
+  "final_url": "https://www.tankbus.org/senior-transportation/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.21": {
   "url": "https://www.tankbus.org/senior-transportation/",
   "quote": "Fare is $8 one-way. Payment is cash only and is due when the passenger boards the bus. No tickets or passes are sold or accepted.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "c957224b5656e7a13253b29f434d572d0ca39f22e22af5ce25ece759313fd6e2",
+  "source_sha256": "7f29540eb8fa5a18ff92e4b02af99645e9c524358806ed13fdc5ec7508d0deec",
+  "final_url": "https://www.tankbus.org/senior-transportation/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.22": {
   "url": "https://www.tankbus.org/senior-transportation/",
   "quote": "Trips can be scheduled by calling 859-578-6949 between 10 a.m. and 5 p.m. Monday-Friday. Trips can be scheduled up to one week in advance. A 30-minute pick-up window will be provided.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "e3c5c620855d8ba2b27ec3200a405619b43f6bb5c2e77beea020304260aa0788",
+  "source_sha256": "7f29540eb8fa5a18ff92e4b02af99645e9c524358806ed13fdc5ec7508d0deec",
+  "final_url": "https://www.tankbus.org/senior-transportation/"
+ },
+ "tank-transit-authority-of-northern-kentucky.cognitive.23": {
+  "url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+  "quote": "If you live in Hamilton County, Ohio, or Northern Kentucky, you will be required to complete an in-person assessment. Transportation to the assessment location will be provided by your local transit provider. You must bring a valid photo identification card and if you utilize a mobility device, you must bring it as well to your in-person assessment.",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Northern Kentucky residents o Call (859) 814-2135 to schedule an assessment and submit your application."
+  ],
+  "claim_sha256": "08c8d14a95dc69d09362b04aecb50db3e26742074efd2cf3876b26e3da5cf5ee",
+  "source_sha256": "ddc940e9e1d2ca7a7d93295b2810e461b389d81d6508e404c252ac000cf115e6",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/"
+ },
+ "tank-transit-authority-of-northern-kentucky.cognitive.24": {
+  "url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+  "quote": "You may be asked to have a clinical professional complete an assessment form for you.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "e60c90a81ed4fbf1755f3fc336572c02fc4425602b105c672bd2650aa2f2bb26",
+  "source_sha256": "ddc940e9e1d2ca7a7d93295b2810e461b389d81d6508e404c252ac000cf115e6",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/"
+ },
+ "tank-transit-authority-of-northern-kentucky.cognitive.25": {
+  "url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+  "quote": "All applications for ADA paratransit service eligibility will be processed within 21 days from the date that the assessment is completed. Staff will notify the applicant in writing of the determination decision. The letter will state if the applicant has been approved for service, the conditions of eligibility (if any) and if a Personal Care Attendant (PCA) is approved for travel as well.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "edb8a267701287673ebd5bf8dea73e15613518693f7ad438c0d453ed80ed0a14",
+  "source_sha256": "ddc940e9e1d2ca7a7d93295b2810e461b389d81d6508e404c252ac000cf115e6",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/"
+ },
+ "tank-transit-authority-of-northern-kentucky.cognitive.26": {
+  "url": "https://www.tankbus.org/microtransit/",
+  "quote": "You may schedule a ride for up to four riders for each trip (yourself + 3 others). The passenger scheduling will pay the total fare price.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "79f61db52d4bb6bcdd3b984b83b3af4cfda9824103e477f8c13494d9ded41133",
+  "source_sha256": "d5e5b3c40c086c8ddcec413b03d33f880c92e46fea54dbf6a676e3eae299e6fb",
+  "final_url": "https://www.tankbus.org/microtransit/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.3": {
   "url": "https://www.tankbus.org/ada/",
   "quote": "Service animals are permitted to accompany individuals with disabilities on all TANK buses. A service animal is any guide dog or other animal trained to work or perform tasks for an individual with a disability. Passengers are not required to show proof of service animal certification but may be asked if the service animal is required because of a disability and/or what work the service animal has been trained to perform. A service animal must be under the control of its owner at all times and cannot pose a direct threat to the health or safety of others. Respirators, Concentrators or Portable Oxygen Passengers who use a respirator, concentrator or portable oxygen are permitted to ride all TANK buses as long as the device is free of cracks, leaks, dents, gouges or pits. These devices are subject to inspection by the bus operator and must be secured in such a way that the device does not move when the bus is in motion. modifications for persons with disabilities Reduced Fares for Persons with Disabilities Reduced fares are available to individuals with disabilities by obtaining a Reduced Fare Card with a photo identification. TANK offers a reduced fare for senior citizens (age 65 and over) and for people with disabilities (proof of Medicare or SSI assistance is required to receive the discount.) Eligible persons should have a TANK Reduced Fare Photo ID made at the TANK headquarters to show the driver. A Medicare card may also be presented, with valid photo ID. Once qualified, a passenger with a Reduced Fare Card must present the card to the bus operator when boarding for a reduced fare. Requests for Reasonable Modifications A request for reasonable modification to TANK’s policies or practices can be made by contacting TANK by phone, in person or on-line using the following resources:",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "209f5f230c94ed457f9f494b72f38a1d42f03af2d179f72b4d4038afe23b2ca5",
+  "source_sha256": "a6af21055a7b8f95011d792ac5c275ee242d89e84b67f06621219dcc2b810394",
+  "final_url": "https://www.tankbus.org/ada/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.4": {
   "url": "https://www.tankbus.org/faq/",
   "quote": "How can I request a shelter or bench at a bus stop? To request transit amenities for your bus stop, you can fill out the TANK service request form. Our Transit Planner will then research the relevant stop(s) to determine whether it is eligible for amenities. You can visit the TANK Service Request Form here . How can I share my ideas on improving TANK? TANK loves all input it receives from members of the Northern Kentucky community. Your input, whether positive and negative, is vital to ensuring that TANK is meeting its goals of providing accessible, meaningful transportation to the public. You can provide your ideas for improvement through email, phone, or text on the TANK Customer Service page . Alternatively, you can fill out two forms to provide feedback or request TANK services or amenities in your area. RAMP Paratransit What is paratransit? Is it different from regular TANK service? Paratransit is a form of transportation that provides door-to-door transportation for individuals across Boone, Campbell, and Kenton Counties. Rather than operating from a fixed set of bus stops, TANK RAMP vehicles, which are smaller than a traditional bus, pick up individuals at their doors. TANK is committed to ensuring that those with functional limitations can have equitable participation and access to the Northern Kentucky community and its resources. How do I know if I am qualified for RAMP paratransit? RAMP Paratransit is an ADA service designed to serve those individuals with functional limitations—including visual, physical, and mental limitations—preventing them from accessing or using TANK bus stops/fixed route service. Having a disability does not necessarily qualify you for the RAMP program. To determine whether you qualify for this service, you can call the TANK special service office at (859)-814-2135. From there, you will work with your doctor to set up an assessment and complete the RAMP application.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "20893230c01c5b94eadd517d91c8454223d6639438d82a19b3d9fa7904cf658c",
+  "source_sha256": "6878b9e3e78701fe268791dd94a4fe29bac622046867909da908ae0b745f6706",
+  "final_url": "https://www.tankbus.org/faq/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.5": {
   "url": "https://www.tankbus.org/fares-guides/how-to-ride/",
   "quote": "All TANK buses are equipped with a passenger signal cord. The cord is located across the middle of the windows. Please pull the signal cord to request your bus stop about one block before the stop you wish to use.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "9dd86bb3c0cf978b3e90236157b0098bca5b470ba8e711f54db56631ad14c1b3",
+  "source_sha256": "937044a9345f89459dd4f7b24695451e57ddb10b03cfb073d27c3121ec63dba7",
+  "final_url": "https://www.tankbus.org/fares-guides/how-to-ride/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.6": {
   "url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
   "quote": "Your needs will determine when and where Travel Training is held. We offer day classes to work with your schedule. Training is usually held on the particular route you would use. Types of Training Trip Training Participants in this type of training work one-on-one with a Travel Trainer to practiced using buses to travel to locations they visit on a regular basis. During Trip Training sessions, participants will learn how to recognize landmarks to know when to get off the bus and how to interact with transit personnel and other riders. Individual Orientation Participants in this type of training will work one-on-one with a Travel Trainer to receive a general introduction to bus accessibility. The goal of Individual Transit Orientation is to educate participants on how to use the entire transit system. During Individual Transit Orientation sessions, a Travel Trainer will explain how to use accessibility features in transit vehicles and how to plan trips on TANK. In addition, Travel Trainers may take participants to a bus garage to practice boarding transit vehicles or practice using buses to build confidence. Group Transit Orientation This type of training provides group presentations at agencies that serve people with disabilities and older adults throughout the three county regions. The goal of Group Transit Orientation is to give participants and agency staff an introduction to the accessibility of TANK, and to demonstrate the benefits of using fixed route buses. During Group Transit Orientation presentations, a Travel Trainer will explain how to use accessibility features in transit vehicles, how to plan trips, pay fares on TANK and how to travel safely in the community while using buses. What does Travel Training involve? Planning your trip Riding specific routes Reading and understanding route maps and schedules Learning how to get to and from your bus stop Understanding the fare structure and how to purchase fare medium Getting on and off the bus safely Transferring to other buses Street crossing Stranger awareness Safety skills Learning to travel independently and with confidence on the bus Is there a cost for Travel Training? There is no charge for Travel Training, but the standard bus fares do apply when riding the bus.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "3341c12226315416b5579b1966362b6447af3489cd8eafb86b2bc5bdca16a1ce",
+  "source_sha256": "c94e50af05357c80d8f9cd298e1085ec42423204e6f096feebbb9ae24addf85e",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/traveltraining/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.7": {
   "url": "https://www.tankbus.org/microtransit/",
   "quote": "TANK Plus trips can also be scheduled by calling 859-331-8265. TANK Plus is like ride share; you cannot book for an advanced day/time. Booking TANK Plus is for an immediate trip. We suggest booking about 20-30 minutes before you need to be picked up/dropped off. You can schedule a ride with TANK Plus through the app or by calling 859-331-8265, and the designated vehicle will pick you up within 30 minutes and drop you off, curb-to-curb. If the pick-up time is greater than 30 minutes, you will receive a message to try again later.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "3870f3417f2ea0a43013826bc0e2a8d2d1777297a5f06a743daa54e0de639d11",
+  "source_sha256": "d5e5b3c40c086c8ddcec413b03d33f880c92e46fea54dbf6a676e3eae299e6fb",
+  "final_url": "https://www.tankbus.org/microtransit/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.8": {
   "url": "https://www.tankbus.org/microtransit/",
   "quote": "Fare Information: Traveling curb-to-curb within the zone is $5.00 per trip Traveling from your zone to a designated fixed route transfer point is $2.50 per trip (Full bus fare will apply for fixed route trips) Fixed Route Transfer Points: Covington Transit Center Monmouth @ Carothers Bus Stop St. Elizabeth-Ft. Thomas Bus Stop Lakeside Dorms NKU Bus Stop NKU Student Union Island Drop Off/Pick Up Points: An “Island” is a drop off or pick up only destination. The zone does not expand to cover the surrounding areas near these Islands. The cost to or from an Island is $5.00 per trip. + Saratoga Place Apartments in Newport (798 Saratoga Street, Newport, KY) + Two Rivers Apartments in Newport (411 Elm Street, Newport, KY) + Campbell County Public Library, Newport Branch (901 E. 6th Street, Newport, KY) + Watertower Square Building in Newport (601 Washington Ave., Newport, KY) + 103 Landmark Ave. in Bellevue + Newport Kroger (20 W. 6th St., Newport, KY) – Coming July 1st! How To Book Your Trip Booking a ride is simple with the TANK+ app. You can download our app for free on any smart phone device with location services enabled. TANK Plus trips can also be scheduled by calling 859-331-8265. TANK Plus is like ride share; you cannot book for an advanced day/time. Booking TANK Plus is for an immediate trip. We suggest booking about 20-30 minutes before you need to be picked up/dropped off. You can schedule a ride with TANK Plus through the app or by calling 859-331-8265, and the designated vehicle will pick you up within 30 minutes and drop you off, curb-to-curb. If the pick-up time is greater than 30 minutes, you will receive a message to try again later. You do not need to be at a fixed route bus stop to ride TANK Plus. Zone Info FAQ What is TANK Plus? TANK Plus is a flexible, on-demand way to get around town, curb-to-curb within our designated zones…or connecting you to our fixed route service to travel outside of the zones. Instead of fixed bus routes, we use smaller vehicles that you can schedule when you need a ride, either through the TANK+ app or our call center. It’s all about making your transit experience more personalized and convenient. *Please note, curb-to-curb means you would need to walk to the end of your driveway or a designated location to be picked up. The driver will not pull into driveways. When will TANK Plus start? TANK Plus launched August 13th, 2024. When is the last time I can schedule a ride on TANK Plus? Ride scheduling is available until 5:59PM on weekdays and 4:59PM on Saturday’s; however, ride availability is determined on a first come, first served basis. Can I ride TANK Plus anywhere I need to go? TANK Plus can transport passengers within their zone(s) or connect passengers to fixed route transfer points to travel outside of the zone. TANK Plus zones are as follows: Zone 1 | Campbell County How do I know where to meet my driver? Passengers will establish a pickup location when scheduling a trip on the TANK+ app or over the phone during the booking process. TANK Plus will pick up passengers, curb-to-curb, at the location requested when scheduling a ride. Customers using the TANK+ app will be able to track the vehicle on a map in the app (similar to Uber). What is the fare? The TANK Plus fare is $5.00 each way for each passenger. If you are connecting to a transfer point from TANK Plus to fixed route service, the fare will cost $2.50 for each trip. You can use the TANK+ app and pay by credit card/debit card or you can pay cash when you board. If I transfer to TANK Plus from a regular TANK route, do I have to pay the $2.50 fare? Yes, TANK Plus is an on-demand service. You will have to schedule a ride with Tank Plus from one of the designated fixed route transfer point locations to travel. Fixed Route transfer point locations: Covington Transit Center Monmouth @ Carothers Bus Stop St. Elizabeth-Ft. Thomas Bus Stop Lakeside Dorms NKU Bus Stop NKU Student Union What is an Island Drop Off/Pick Up Point? An “Island” is a drop off or pick up only destination. The zone does not expand to cover the surrounding areas near these Islands. The cost to or from an Island is $5.00 per trip. + Saratoga Place Apartments in Newport + Two Rivers Apartments in Newport + Campbell County Public Library, Newport Branch + Watertower Square Building in Newport + 103 Landmark Ave. in Bellevue What if I have one or more passengers with me? You may schedule a ride for up to four riders for each trip (yourself + 3 others). The passenger scheduling will pay the total fare price. Will regular TANK passes be accepted by TANK Plus? No, TANK Plus is a premium service with specialized scheduling, so regular TANK passes will not be accepted. Will TANK Plus accept discount offers, like the reduced fare card/sticker? No, TANK Plus is a premium service and will not accept any discount offers or other discount program cards.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "1f20a4705da124150e193695027502842b99c8f69c97517f8ca1f39fbb2d82fc",
+  "source_sha256": "d5e5b3c40c086c8ddcec413b03d33f880c92e46fea54dbf6a676e3eae299e6fb",
+  "final_url": "https://www.tankbus.org/microtransit/"
  },
  "tank-transit-authority-of-northern-kentucky.cognitive.9": {
   "url": "https://www.tankbus.org/fares-guides/fare/",
   "quote": "Senior/Disabled/Military Fare – Fixed Route Service – $1",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "06d08d216fe7c43e836139be9b9b3bd8e8cb7d55cfca8fde0b9641066473f655",
+  "source_sha256": "8bc5ffb0f7f609c21f71623f05764d5fc62a2ee9fbe476cd869aba879efec3d7",
+  "final_url": "https://www.tankbus.org/fares-guides/fare/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.1": {
   "url": "https://www.tankbus.org/ada/",
   "quote": "All TANK buses are accessible to individuals with disabilities including passengers using wheelchairs or other mobility devices. TANK’s buses are equipped with either “ramps” or “lifts” for wheelchair boarding and “kneeling devices” for general boarding. Ambulatory passengers can also request use of the ramp, lift or kneeling device to make boarding easier.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "c464160c1bf73fed2b5ca20a8466c24e3e0ead06e6809fa0ecaccbd1d5c1bd39",
+  "source_sha256": "a6af21055a7b8f95011d792ac5c275ee242d89e84b67f06621219dcc2b810394",
+  "final_url": "https://www.tankbus.org/ada/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.10": {
   "url": "https://www.tankbus.org/licking-river-link/",
   "quote": "We expanded the Licking River Link shuttle to cover more stops in Newport! The new stops are 4th Street at Columbia Street, Monmouth Street at 7th Street, Monmouth Street at 9th Street, and 11th Street at York Street. Stops on Central at 8 th and 10 th will no longer be served by this route. Hours of Operation: The route will operate a one-way loop seven days a week, every 30 minutes Monday – Friday: 6:00 AM to 11:00 PM Saturday and Sunday: 10:00 AM to 11:00 PM Service on this shuttle stops during the below hours for operator breaks: Weekdays: 8:30AM to 9:00AM 12:30PM to 1:00PM 6:00PM to 6:30PM 9:00PM to 9:30PM Sat/Sun: 12:30PM to 1:00PM 6:00PM to 6:30PM Route/Stops: In Newport: 4th Street at Columbia Street Monmouth Street at 7th Street Monmouth Street at 9th Street 11th Street at York Street 6th Street at Isabella Street Isabella Street at 9th Street In Covington:",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "f1be842a6a752c3eb8983402f129d92c1a892ca7822b769b728713d3f3eacfc0",
+  "source_sha256": "e1d48edc90e5fe1c8fc44cc695a6b8e32c24dec8cc4fcc684ef82bdde8eb555a",
+  "final_url": "https://www.tankbus.org/licking-river-link/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.11": {
   "url": "https://www.tankbus.org/service-alerts/",
   "quote": "Outbound Holman at MLK Stop Closure EFFECTIVE DATE: 07/10/2026 Notice to riders, the outbound Holman at MLK stop will be removed permanently. Please catch your bus at Holman at Russell and/or Holman at 13 th instead. Thank you.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "215c7c5b407800cd4cde0e9abef58235d67b2c7f0d2640896606f98238a51f02",
+  "source_sha256": "9ecdbd49366eb548784b460081ac4ab8bda38e2a178cecfb829e1a1fe0520924",
+  "final_url": "https://www.tankbus.org/service-alerts/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.12": {
   "url": "https://www.tankbus.org/bus_routes/holman-avenue-fort-wright/",
   "quote": "Valley Plaza at Walmart",
-  "verified_at": "2026-11-12",
+  "verified_at": "2026-11-14",
   "additional_quotes": [
    "Covington Transit Center",
    "Fort Wright Hub"
@@ -15480,62 +15844,134 @@
  "tank-transit-authority-of-northern-kentucky.mobility.13": {
   "url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/",
   "quote": "Carothers at Pavilion",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Carothers at Newport Plaza",
+   "3rd at Newport on the Levee",
+   "Covington Transit Center"
+  ],
+  "claim_sha256": "4c126da88cf19a988f0a21caf49f0d35062fb3d45370797d6c27a8b102b3b4f0",
+  "source_sha256": "1898784b60e8350a77c4f60c827bec37455628dee48767a8fae9f39fbb06660e",
+  "final_url": "https://www.tankbus.org/bus_routes/dixie-highway-florence/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.14": {
   "url": "https://www.tankbus.org/senior-transportation/",
   "quote": "Origin and Destination must both be inside TANK Service Area- No Service provided outside of TANK Service Area Monday through Friday, excluding holidays 8:00 am to 5:00 pm",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "22d761a0e910e8f5139020368c2b2831a5378baab687f3e7b47610faf581525a",
+  "source_sha256": "7f29540eb8fa5a18ff92e4b02af99645e9c524358806ed13fdc5ec7508d0deec",
+  "final_url": "https://www.tankbus.org/senior-transportation/"
+ },
+ "tank-transit-authority-of-northern-kentucky.mobility.15": {
+  "url": "https://www.tankbus.org/ramp-paratransit/service-area/",
+  "quote": "Beginning in January 2021, the RAMP Service area has been separated into two zones based on the ADA required area.",
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Inside Strict ADA Area (red): $2.50 Outside Required ADA Area (green) : $5",
+   "If you are unsure if your origin or destination is inside the strict ADA area, please contact the RAMP office at 859-814-2135"
+  ],
+  "claim_sha256": "19fb39fde874f779d5a49306582d017f4009660e619307434c65a55affb94429",
+  "source_sha256": "6d85ada4b84f8e42596f6b566f7fc49ab1624ac4237c7f9c8bd79d20828dd294",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/service-area/"
+ },
+ "tank-transit-authority-of-northern-kentucky.mobility.16": {
+  "url": "https://www.tankbus.org/service-alerts/",
+  "quote": "Petersburg at Elijah Creek Stop Closure EFFECTIVE DATE: 10/29/2026 The stop at Petersburg at Elijah Creek on 39X has been temporarily removed due to some road work in that area. We do not have a date for when the work will be done or when we can reinstall it.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "0a306e2eec67034ca8085155141e740b56e32a8cd563c7b8229ecbd519020a38",
+  "source_sha256": "9ecdbd49366eb548784b460081ac4ab8bda38e2a178cecfb829e1a1fe0520924",
+  "final_url": "https://www.tankbus.org/service-alerts/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.2": {
   "url": "https://www.tankbus.org/ramp-paratransit/eligibility/",
   "quote": "The Regional Area Mobility Program (RAMP) is a door to door paratransit service available to disabled citizens who are unable to use TANK’s fixed route bus service. RAMP serves the areas of Boone, Campbell, and Kenton counties in Northern Kentucky, which are also served by TANK’s fixed route system.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "6c38a3713ee3d212a588555bd14dbdb391344821a0271d4c788cdc83cb7f0240",
+  "source_sha256": "6b3efc6c1b19a4c696409d5aef90476083cf832f756c7bf0eb0a13e1cac120d2",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/eligibility/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.3": {
   "url": "https://www.tankbus.org/ada/",
   "quote": "Ample time will be provided to passengers with disabilities to board and disembark in a safe manner.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "2d1e3236a27809cda302c3dfd36174ad1a2fe9601cb539bbfd60381729fdd5a9",
+  "source_sha256": "a6af21055a7b8f95011d792ac5c275ee242d89e84b67f06621219dcc2b810394",
+  "final_url": "https://www.tankbus.org/ada/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.4": {
   "url": "https://www.tankbus.org/ramp-paratransit/traveltraining/",
   "quote": "Participants in this type of training will work one-on-one with a Travel Trainer to receive a general introduction to bus accessibility. The goal of Individual Transit Orientation is to educate participants on how to use the entire transit system. During Individual Transit Orientation sessions, a Travel Trainer will explain how to use accessibility features in transit vehicles and how to plan trips on TANK. In addition, Travel Trainers may take participants to a bus garage to practice boarding transit vehicles or practice using buses to build confidence. Group Transit Orientation This type of training provides group presentations at agencies that serve people with disabilities and older adults throughout the three county regions. The goal of Group Transit Orientation is to give participants and agency staff an introduction to the accessibility of TANK, and to demonstrate the benefits of using fixed route buses. During Group Transit Orientation presentations, a Travel Trainer will explain how to use accessibility features in transit vehicles, how to plan trips, pay fares on TANK and how to travel safely in the community while using buses. What does Travel Training involve? Planning your trip Riding specific routes Reading and understanding route maps and schedules Learning how to get to and from your bus stop Understanding the fare structure and how to purchase fare medium Getting on and off the bus safely Transferring to other buses Street crossing Stranger awareness Safety skills Learning to travel independently and with confidence on the bus Is there a cost for Travel Training? There is no charge for Travel Training, but the standard bus fares do apply when riding the bus. Get Started Today! To request Travel Training services or to find out more please call CJ Grote in the Travel Training office at (859)- 814-2135 or fill out our online form and we will get back to you within 24 hours.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "944c023f143e77669ee3ba209fc12675fed77a65ab5e247a6615f340ff3b9fb9",
+  "source_sha256": "c94e50af05357c80d8f9cd298e1085ec42423204e6f096feebbb9ae24addf85e",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/traveltraining/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.5": {
   "url": "https://www.tankbus.org/microtransit/",
   "quote": "What is TANK Plus? TANK Plus is a flexible, on-demand way to get around town, curb-to-curb within our designated zones…or connecting you to our fixed route service to travel outside of the zones. Instead of fixed bus routes, we use smaller vehicles that you can schedule when you need a ride, either through the TANK+ app or our call center. It’s all about making your transit experience more personalized and convenient. *Please note, curb-to-curb means you would need to walk to the end of your driveway or a designated location to be picked up. The driver will not pull into driveways.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "982e7fabb0b58dbeaaacc4d0abaca1ba0481baa8877c04bcebd0eddfd55db2ea",
+  "source_sha256": "d5e5b3c40c086c8ddcec413b03d33f880c92e46fea54dbf6a676e3eae299e6fb",
+  "final_url": "https://www.tankbus.org/microtransit/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.6": {
   "url": "https://www.tankbus.org/microtransit/",
   "quote": "Are vehicles accessible to people with wheelchairs? Yes, you can select wheelchair in the app when booking, or notify the driver at pick up. Each TANK Plus vehicle has space for three wheelchairs.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "45c465dc682d04bb5db5ae50598e9be7ccf49b72a21d2f89e3344a0ca9e6fb3d",
+  "source_sha256": "d5e5b3c40c086c8ddcec413b03d33f880c92e46fea54dbf6a676e3eae299e6fb",
+  "final_url": "https://www.tankbus.org/microtransit/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.7": {
   "url": "https://www.tankbus.org/building-better-transit/",
   "quote": "Service Improvements Go into Effect Nov. 7, 2026 The changes reflect rider and community feedback and will deliver more reliable trips, more frequent service on key routes, better regional connections and support long-term sustainable operations. What’s changing? Starting Saturday, Nov. 7, 2026, riders will see the following service improvements: Route 1 will be extended to Newport with service ending at St. Elizabeth Healthcare in Ft. Thomas and will operate as a standalone service (no longer interlined with Route 25). Routes 3, 7 and 12 peak frequencies will increase to every 30 minutes Southbank Shuttle and Route 16 will be replaced with a new high-frequency corridor connecting downtown Newport, Covington and downtown Cincinnati with service provided by a fixed-route bus. Service will operate every 7-8 minutes along the areas currently served by Route 1, interlined Routes 3/12 and interlined Routes 7/25, and every 15 minutes along areas served by Route 1 and interlined Routes 7/25. Riders who currently use Route 16 will have access to the new Route 1 and the Licking River Link as alternative service options.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "bc80f849f1a1741ebfd66bc40ec7ab52a078d4a01e545419d673a16a343a139e",
+  "source_sha256": "f0bd21974d9f52b1b19610b3721819595a757a9df52981e72f6c86b16af458e4",
+  "final_url": "https://www.tankbus.org/building-better-transit/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.8": {
   "url": "https://www.tankbus.org/building-better-transit/",
   "quote": "The TANK Plus zone will expand to include the Alexandria Walmart and Village Green Shopping Center, with a six-mile distance cap designed to improve trip efficiency.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "additional_quotes": [
+   "Service Improvements Go into Effect Nov. 7, 2026"
+  ],
+  "claim_sha256": "3cb4066d75b33abd6dbf49aaa53858c9ab58b17db297c8a3ba43aecbd175d446",
+  "source_sha256": "f0bd21974d9f52b1b19610b3721819595a757a9df52981e72f6c86b16af458e4",
+  "final_url": "https://www.tankbus.org/building-better-transit/"
  },
  "tank-transit-authority-of-northern-kentucky.mobility.9": {
   "url": "https://www.tankbus.org/licking-river-link/",
   "quote": "In Covington: Greenup Street at 9th Street Greenup Street at 5th Street Scott Street at 6th Street Scott Street at 11th Street",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "08aba1cdcc6bae50735fcad6474047dde39d64338277c7c253f04a3a83488ea5",
+  "source_sha256": "e1d48edc90e5fe1c8fc44cc695a6b8e32c24dec8cc4fcc684ef82bdde8eb555a",
+  "final_url": "https://www.tankbus.org/licking-river-link/"
  },
  "tank-transit-authority-of-northern-kentucky.sensory.1": {
   "url": "https://www.tankbus.org/ada/",
   "quote": "On fixed route service, TANK announces all transfer points, major intersections, destination points and other intervals along a route to permit individuals with visual impairments or other disabilities to be oriented to their location. These announcements may be made electronically or be made by the bus operator over the PA system.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "1795e19309401a1825e09cef0f5fde8f27efc24b68fc4b619dd8eba00b79c81c",
+  "source_sha256": "a6af21055a7b8f95011d792ac5c275ee242d89e84b67f06621219dcc2b810394",
+  "final_url": "https://www.tankbus.org/ada/"
  },
  "tank-transit-authority-of-northern-kentucky.sensory.2": {
   "url": "https://www.tankbus.org/fares-guides/how-to-ride/",
   "quote": "Drivers will also call out any stop upon request, if you ask when you get on the bus.",
-  "verified_at": "2026-11-12"
+  "verified_at": "2026-11-14",
+  "claim_sha256": "09502b78d2d639608fe9aaa787baee3770a0801d99d95807cbba9775b30fd566",
+  "source_sha256": "937044a9345f89459dd4f7b24695451e57ddb10b03cfb073d27c3121ec63dba7",
+  "final_url": "https://www.tankbus.org/fares-guides/how-to-ride/"
+ },
+ "tank-transit-authority-of-northern-kentucky.sensory.3": {
+  "url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/",
+  "quote": "If you have questions, need help filling out this application, or need an alternative format (large print or in a different language), we can help you. All sections must be completed.",
+  "verified_at": "2026-11-14",
+  "claim_sha256": "27add0bd43ca48728160313e68b627727d64092475d31ae4b668936497768707",
+  "source_sha256": "ddc940e9e1d2ca7a7d93295b2810e461b389d81d6508e404c252ac000cf115e6",
+  "final_url": "https://www.tankbus.org/ramp-paratransit/paratransit-application/"
  },
  "target-newport.chronic.1": {
   "url": "https://www.target.com/help/articles/delivery-options/drive-up-order-pickup",

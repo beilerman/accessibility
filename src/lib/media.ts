@@ -59,7 +59,7 @@ export interface AccessGuide {
   pageCount?: number;
   sizeLabel?: string;
   imageCount?: number;
-  imageType?: "map" | "panorama";
+  imageType?: "map" | "panorama" | "instructions";
   checkedAt: string;
 }
 
@@ -108,7 +108,7 @@ export const accessGuides: AccessGuide[] = accessGuideData.map((guide) => ({
   ...guide,
   format: "format" in guide && guide.format === "web" ? "web" : "pdf",
   imageType:
-    "imageType" in guide && (guide.imageType === "map" || guide.imageType === "panorama")
+    "imageType" in guide && (guide.imageType === "map" || guide.imageType === "panorama" || guide.imageType === "instructions")
       ? guide.imageType
       : undefined,
 }));
